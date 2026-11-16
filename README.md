@@ -1,5 +1,39 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Minimal MCP experiment
+
+The same Next.js app serves an MCP endpoint at `/api/mcp`. Its single tool,
+`hello`, accepts `{ "name": "Albert" }` and returns
+`Hello, Albert! From Next.js via MCP.`
+
+The implementation is in `app/api/mcp/route.ts`, using
+[mcp-handler](https://github.com/vercel-labs/mcp-handler). This is a stateless,
+unauthenticated demo with no database, API keys, or separate backend.
+
+```bash
+bun install
+bun dev
+```
+
+In another terminal, call the tool directly:
+
+```bash
+curl -sS http://localhost:3000/api/mcp \
+  -H 'Content-Type: application/json' \
+  -H 'Accept: application/json, text/event-stream' \
+  -H 'MCP-Protocol-Version: 2025-03-26' \
+  -d '{"jsonrpc":"2.0","id":1,"method":"tools/call","params":{"name":"hello","arguments":{"name":"Albert"}}}'
+```
+
+To discover the tool, use the same headers with
+`{"jsonrpc":"2.0","id":2,"method":"tools/list","params":{}}` as the body.
+These direct requests use the adapter's stateless legacy protocol support.
+
+For an MCP client, choose **Streamable HTTP** and set the URL to
+`http://localhost:3000/api/mcp` (adjust the port if Next.js chooses another).
+The client handles discovery/initialization. Opening the URL in a browser is
+not a tool call; a plain GET returns 405.
+
 ## Getting Started
 
 First, run the development server:
