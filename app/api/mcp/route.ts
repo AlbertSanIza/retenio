@@ -6,7 +6,7 @@ const handler = createMcpHandler((server) => {
         'get_random_questions',
         {
             description:
-                'Get random Anki cards with questions, answers, deck names, tags and image IDs. Image data is not included; call get_anki_image only when an image is needed. Cards do not repeat within a call; pass excludeCardIds to avoid earlier cards. When quizzing, show only the question and any needed question images until the learner answers. Answer images may reveal the solution.',
+                'Get 1–10 random Anki cards with stable IDs, question and answer text, and optional imageIds on each side. Image data is not included; call get_anki_image only when an image is needed. Cards do not repeat within a call; pass excludeCardIds to avoid earlier cards. When quizzing, show only the question and any needed question images until the learner answers. Answer images may reveal the solution.',
             inputSchema: randomQuestionsSchema,
             annotations: { readOnlyHint: true, destructiveHint: false, openWorldHint: false }
         },

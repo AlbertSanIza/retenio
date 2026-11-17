@@ -3,7 +3,7 @@ import { createHash } from 'node:crypto'
 import { mkdir, mkdtemp, readFile, rm, writeFile } from 'node:fs/promises'
 import { tmpdir } from 'node:os'
 import path from 'node:path'
-import { getAnkiImage, getRandomQuestions, sampleCards } from './anki'
+import { getAnkiImage, getRandomQuestions, sampleCards, toQuizCard } from './anki'
 import { loadCatalog } from './anki-data'
 
 describe('Anki sampling', () => {
@@ -32,7 +32,7 @@ describe('Imported deck and MCP images', () => {
         const first = result.content[0]
         if (first.type !== 'text') throw new Error('Expected card metadata')
         const metadata = JSON.parse(first.text)
-        expect(metadata.totalCards).toBe(1318)
+        expect(Object.keys(metadata)).toEqual(['cards'])
         expect(metadata.cards).toHaveLength(10)
         expect(new Set(metadata.cards.map((card: { id: string }) => card.id)).size).toBe(10)
         expect(result.content).toHaveLength(1)
@@ -40,9 +40,10 @@ describe('Imported deck and MCP images', () => {
         expect(metadata.deferredImageIds).toBeUndefined()
         const catalog = await loadCatalog('data')
         for (const card of metadata.cards) {
+            expect(Object.keys(card)).toEqual(['id', 'question', 'answer'])
             expect(card.question.text.length).toBeGreaterThan(0)
             expect(card.answer.text.length).toBeGreaterThan(0)
-            for (const id of [...card.question.imageIds, ...card.answer.imageIds]) {
+            for (const id of [...(card.question.imageIds ?? []), ...(card.answer.imageIds ?? [])]) {
                 expect(catalog.media[id]).toBeDefined()
             }
         }
@@ -53,6 +54,30 @@ describe('Imported deck and MCP images', () => {
         if (image.type !== 'image') throw new Error('Expected MCP image content')
         expect(image.mimeType).toBe('image/jpeg')
         expect(createHash('sha256').update(Buffer.from(image.data, 'base64')).digest('hex')).toBe(imageId)
+    })
+
+    test('removes presentation noise without changing source content or losing image references', async () => {
+        const catalog = await loadCatalog('data')
+        const original = catalog.cards[0]
+        const imageId = original.answer.imageIds[0]
+        const fixture = {
+            ...original,
+            question: { text: '§\n\nWhat does ↑ mean?', imageIds: [] },
+            answer: {
+                text: `§\nWhat does ↑ mean?\n\nIncrease\n\n[Image: ${imageId}]\n\nKeep this explanation and § symbol.`,
+                imageIds: [imageId]
+            }
+        }
+        const before = structuredClone(fixture)
+        expect(toQuizCard(fixture)).toEqual({
+            id: fixture.id,
+            question: { text: 'What does ↑ mean?' },
+            answer: { text: 'Increase\n\nKeep this explanation and § symbol.', imageIds: [imageId] }
+        })
+        expect(fixture).toEqual(before)
+        expect(toQuizCard({ ...fixture, answer: { text: 'What does ↑ mean? is part of this explanation.', imageIds: [] } }).answer).toEqual({
+            text: 'What does ↑ mean? is part of this explanation.'
+        })
     })
 
     test('the first two cards from the same note have distinct question/answer pairs', async () => {

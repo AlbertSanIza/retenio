@@ -45,6 +45,24 @@ function toolError(message: string): ToolResult {
     return { isError: true, content: [{ type: 'text', text: message }] }
 }
 
+export function toQuizCard(card: Catalog['cards'][number]) {
+    function cleanSide(side: typeof card.question) {
+        const text = side.text
+            .replace(/^§[ \t]*\n/, '')
+            .replace(/\[Image: ([a-f0-9]{64})\]/g, (marker, id: string) => (side.imageIds.includes(id) ? '' : marker))
+            .replace(/\n(?:[ \t]*\n)+/g, '\n\n')
+            .trim()
+        return { text, ...(side.imageIds.length > 0 && { imageIds: side.imageIds }) }
+    }
+    const question = cleanSide(card.question)
+    const answer = cleanSide(card.answer)
+    // Anki's FrontSide commonly repeats the question before the answer.
+    if (question.text && answer.text.startsWith(`${question.text}\n`)) {
+        answer.text = answer.text.slice(question.text.length).trim()
+    }
+    return { id: card.id, question, answer }
+}
+
 async function imageContent(catalog: Catalog, imageId: string): Promise<Content[]> {
     const image = catalog.media[imageId]
     if (!image) throw new Error('Unknown image ID')
@@ -75,11 +93,7 @@ export async function getRandomQuestions(input: z.input<typeof randomQuestionsSc
                 {
                     type: 'text',
                     text: JSON.stringify({
-                        totalCards: catalog.cards.length,
-                        count: cards.length,
-                        cards,
-                        imageInstructions:
-                            'Images are not included. Call get_anki_image with an ID from question.imageIds or answer.imageIds only when an image is needed.'
+                        cards: cards.map(toQuizCard)
                     })
                 }
             ]
