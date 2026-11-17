@@ -7,6 +7,7 @@
         "build": "next build",
         "start": "next start",
         "lint": "eslint",
+        "convex": "convex dev",
         "import:anki": "python3 scripts/import-anki.py",
         "test:anki": "python3 -B -m unittest discover -s scripts -p '*_test.py' && bun test lib/anki.test.ts",
         "format": "prettier . --write",
