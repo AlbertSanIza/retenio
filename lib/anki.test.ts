@@ -1,4 +1,5 @@
 import { describe, expect, test } from 'bun:test'
+import { ConvexError } from 'convex/values'
 import { createHash } from 'node:crypto'
 import { createAnkiTools, sampleCards } from './anki'
 import type { BankCard } from './bank-types'
@@ -18,6 +19,8 @@ function fixture() {
     let now = 1000
     const dependencies = {
         catalog: async () => ({ cards }),
+        record: async (ids: string[]) => ({ sessionId: 'session-fixture', cards: ids.map((id) => cards.find((c) => c.id === id)!) }),
+        rate: async () => ({ rating: 'good', dueAt: 601000, alreadyReviewed: false }),
         reviews: async () => states,
         image: async () => ({ url: 'https://storage.test/image', bytes: bytes.length, mimeType: 'image/png' }),
         fetch: async () => new Response(bytes),
@@ -52,6 +55,7 @@ describe('MCP practice and due gates', () => {
         const content = result.content[0]
         if (content.type !== 'text') throw Error('Expected text')
         const parsed = JSON.parse(content.text)
+        expect(parsed.sessionId).toBe('session-fixture')
         expect(parsed.cards).toHaveLength(10)
         expect(Object.keys(parsed.cards[0])).toEqual(['id', 'categories', 'question', 'answer'])
         expect(parsed.cards[0].question.imageIds).toBeUndefined()
@@ -102,4 +106,59 @@ describe('MCP practice and due gates', () => {
         ).toBe(true)
         expect((await createAnkiTools({ ...f.dependencies, fetch: async () => new Response('wrong') }).getAnkiImage({ imageId: hash })).isError).toBe(true)
     })
+})
+
+test('question batches are only returned after history is saved', async () => {
+    const f = fixture(),
+        batches: string[][] = []
+    const tools = createAnkiTools({
+        ...f.dependencies,
+        record: async (ids) => {
+            batches.push(ids)
+            return { sessionId: 'saved-session', cards: ids.map((id) => cards.find((c) => c.id === id)!) }
+        }
+    })
+    const result = await tools.getRandomQuestions({ count: 2 })
+    const content = result.content[0]
+    if (content.type !== 'text') throw Error('Expected text')
+    expect(JSON.parse(content.text).sessionId).toBe('saved-session')
+    expect(batches[0]).toHaveLength(2)
+    expect(
+        (
+            await createAnkiTools({
+                ...f.dependencies,
+                record: async () => {
+                    throw Error('History unavailable')
+                }
+            }).getRandomQuestions({ count: 1 })
+        ).isError
+    ).toBe(true)
+})
+test('MCP exposes valid learner ratings and reports the actual saved schedule', async () => {
+    const f = fixture(),
+        calls: unknown[] = []
+    const tools = createAnkiTools({
+        ...f.dependencies,
+        rate: async (input) => {
+            calls.push(input)
+            return { rating: 'hard', dueAt: 360000, alreadyReviewed: true }
+        }
+    })
+    expect((await tools.rateQuestion({ sessionId: 's', cardId: 'bank:1', rating: 'bad' as 'again' })).isError).toBe(true)
+    const result = await tools.rateQuestion({ sessionId: 's', cardId: 'bank:1', rating: 'hard' })
+    const content = result.content[0]
+    if (content.type !== 'text') throw Error('Expected text')
+    expect(JSON.parse(content.text)).toEqual({ rating: 'hard', dueAt: '1970-01-01T00:06:00.000Z', alreadyReviewed: true })
+    expect(calls).toHaveLength(1)
+})
+
+test('invalid session errors tell the agent to request a fresh batch instead of retrying', async () => {
+    const tools = createAnkiTools({
+        rate: async () => {
+            throw new ConvexError('This practice session was not found or has expired. Request a fresh batch.')
+        }
+    })
+    const result = await tools.rateQuestion({ sessionId: 'not-a-session', cardId: 'bank:1', rating: 'good' })
+    expect(result.isError).toBe(true)
+    expect(result.content).toEqual([{ type: 'text', text: 'This practice session was not found or has expired. Request a fresh batch.' }])
 })

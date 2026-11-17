@@ -238,3 +238,81 @@ test('a review keeps mobile focus during the next draw and the waiting message b
         await convex.mutation(api.approvals.setApproval, { cardId: `${waitKey}:1`, approved: false })
     }
 })
+
+test('MCP sessions persist and share ratings with the mobile history', async ({ page, request }) => {
+    const fixture = await fixturePackage(),
+        plan = await readPackage(fixture.file, fixture.SQL),
+        sessionKey = `${key}-sessions`
+    plan.cards.push({
+        ...plan.cards[0],
+        source: { ...plan.cards[0].source, cardId: '2', noteId: '3', noteGuid: 'second-session-note' },
+        question: { text: 'What is three plus three?', imageIds: [] }
+    })
+    const ids = [`${sessionKey}:1`, `${sessionKey}:2`]
+    await uploadBank({
+        client: convex,
+        file: fixture.file,
+        plan,
+        key: sessionKey,
+        name: sessionKey,
+        signal: new AbortController().signal,
+        onProgress: () => {}
+    })
+    try {
+        for (const id of ids) await convex.mutation(api.approvals.setApproval, { cardId: id, approved: true })
+        const invalid = await mcp(request, 'rate_question', { sessionId: 'not-a-session', cardId: ids[0], rating: 'good' })
+        expect(invalid.isError).toBe(true)
+        expect(invalid.content[0].text).toContain('Request a fresh batch')
+        const approved = await convex.query(api.approvals.list)
+        const draw = await mcp(request, 'get_random_questions', { count: 2, excludeCardIds: approved.filter((id) => !ids.includes(id)) })
+        expect(draw.isError).not.toBe(true)
+        const batch = JSON.parse(draw.content[0].text)
+        expect(batch.cards.map((c: { id: string }) => c.id).sort()).toEqual(ids)
+        expect(batch.sessionId).toBeTruthy()
+        await page.setViewportSize({ width: 390, height: 844 })
+        await page.goto('/')
+        await page.getByRole('button', { name: 'Agent sessions', exact: true }).click()
+        await page
+            .getByRole('button', { name: /2 questions · 0 rated/ })
+            .first()
+            .click()
+        await page.getByRole('button', { name: /What is two plus two/ }).click()
+        await expect(page.getByRole('banner')).toBeHidden()
+        await expect(page.getByRole('region', { name: 'Answer', exact: true })).toHaveCount(0)
+        await page.getByRole('button', { name: 'Reveal answer' }).click()
+        await expect
+            .poll(() =>
+                page
+                    .getByTestId('study-card')
+                    .locator('img')
+                    .evaluate((img) => (img as HTMLImageElement).naturalWidth)
+            )
+            .toBeGreaterThan(0)
+        const rated = JSON.parse((await mcp(request, 'rate_question', { sessionId: batch.sessionId, cardId: ids[0], rating: 'hard' })).content[0].text)
+        expect(rated.rating).toBe('hard')
+        await expect(page.getByText(/Rated Hard · Scheduled/)).toBeVisible()
+        await expect(page.getByRole('button', { name: 'Good, review in 10 min' })).toBeDisabled()
+        const replay = JSON.parse((await mcp(request, 'rate_question', { sessionId: batch.sessionId, cardId: ids[0], rating: 'easy' })).content[0].text)
+        expect(replay).toEqual({ ...rated, alreadyReviewed: true })
+        await page.getByRole('button', { name: 'Back to session' }).click()
+        await page.getByRole('button', { name: /What is three plus three/ }).click()
+        await page.getByRole('button', { name: 'Reveal answer' }).click()
+        await page.getByRole('button', { name: 'Good, review in 10 min' }).click()
+        await expect(page.getByRole('button', { name: /What is three plus three.*Rated Good/ })).toBeVisible()
+        await page.getByRole('button', { name: 'All sessions' }).click()
+        await expect(page.getByRole('button', { name: /2 questions · 2 rated/ }).first()).toBeVisible()
+        await page.reload()
+        await page.getByRole('button', { name: 'Agent sessions', exact: true }).click()
+        await page
+            .getByRole('button', { name: /2 questions · 2 rated/ })
+            .first()
+            .click()
+        await expect(page.getByRole('button', { name: /What is three plus three.*Rated Good/ })).toBeVisible()
+        await page.screenshot({ path: 'test-results/agent-session-mobile.png', fullPage: true })
+        const state = await convex.query(api.sessions.get, { sessionId: batch.sessionId })
+        expect(state!.entries.map((e) => e.rating).sort()).toEqual(['good', 'hard'])
+        expect(await page.evaluate(() => document.documentElement.scrollWidth)).toBeLessThanOrEqual(390)
+    } finally {
+        for (const id of ids) await convex.mutation(api.approvals.setApproval, { cardId: id, approved: false })
+    }
+})

@@ -1,8 +1,11 @@
-import { createHash, randomInt } from 'node:crypto'
+import { api } from '@/convex/_generated/api'
+import { ConvexError } from 'convex/values'
+import { createHash, randomInt, randomUUID } from 'node:crypto'
 import { z } from 'zod'
 import { getReviewStates } from './approvals'
 import type { BankCard } from './bank-types'
 import { getCatalog, getStoredImage } from './catalog'
+import { convexMutation } from './convex-server'
 import { isDue, type ReviewState } from './review-schedule'
 
 export const randomQuestionsSchema = z.object({
@@ -10,6 +13,13 @@ export const randomQuestionsSchema = z.object({
     excludeCardIds: z.array(z.string()).max(5000).default([]).describe('Previously seen card IDs to avoid repeating during a quiz.')
 })
 
+export const rateQuestionSchema = z.object({
+    sessionId: z.string().min(1).max(100).describe('Session ID returned by get_random_questions.'),
+    cardId: z.string().min(1).max(200).describe('Question ID from that session.'),
+    rating: z
+        .enum(['again', 'hard', 'good', 'easy'])
+        .describe('The learner’s chosen rating: again = 1 minute, hard = 6 minutes, good = 10 minutes, easy = 10 days.')
+})
 export const imageInputSchema = z.object({ imageId: z.string().regex(/^[a-f0-9]{64}$/) })
 
 type Content = { type: 'text'; text: string } | { type: 'image'; data: string; mimeType: string }
@@ -41,8 +51,18 @@ type Dependencies = {
     image: typeof getStoredImage
     fetch: (url: string, init?: RequestInit) => Promise<Response>
     now: () => number
+    record: (cardIds: string[], requestId: string) => Promise<{ sessionId: string; cards: BankCard[] }>
+    rate: (input: z.infer<typeof rateQuestionSchema>) => Promise<{ rating: string; dueAt: number; alreadyReviewed: boolean }>
 }
-const defaults: Dependencies = { reviews: getReviewStates, catalog: getCatalog, image: getStoredImage, fetch, now: Date.now }
+const defaults: Dependencies = {
+    reviews: getReviewStates,
+    catalog: getCatalog,
+    image: getStoredImage,
+    fetch,
+    now: Date.now,
+    record: (cardIds, requestId) => convexMutation(api.sessions.record, { cardIds, requestId }),
+    rate: (input) => convexMutation(api.sessions.rate, input)
+}
 export function createAnkiTools(dependencies: Partial<Dependencies> = {}) {
     const deps = { ...defaults, ...dependencies }
     async function approvedCatalog() {
@@ -61,12 +81,17 @@ export function createAnkiTools(dependencies: Partial<Dependencies> = {}) {
             const availableCount = approved.filter((card) => !excluded.has(card.id)).length
             if (count > availableCount)
                 return toolError(`Only ${availableCount} due practice questions remain after exclusions. Request fewer questions or reset excludeCardIds.`)
+            const session = await deps.record(
+                sampleCards(approved, count, excludeCardIds).map((card) => card.id),
+                randomUUID()
+            )
             return {
                 content: [
                     {
                         type: 'text',
                         text: JSON.stringify({
-                            cards: sampleCards(approved, count, excludeCardIds).map(({ id, categories, question, answer }) => ({
+                            sessionId: session.sessionId,
+                            cards: session.cards.map(({ id, categories, question, answer }) => ({
                                 id,
                                 categories,
                                 question: { text: question.text, ...(question.imageIds.length && { imageIds: question.imageIds }) },
@@ -78,7 +103,11 @@ export function createAnkiTools(dependencies: Partial<Dependencies> = {}) {
             }
         } catch (error) {
             console.error('Unable to load approved Anki cards:', error)
-            return toolError('Unable to verify approved questions right now. Try again later; unapproved questions will not be returned.')
+            return toolError(
+                error instanceof ConvexError && typeof error.data === 'string'
+                    ? error.data
+                    : 'Unable to save this practice session right now. Try again later; no unverified questions will be returned.'
+            )
         }
     }
 
@@ -118,7 +147,23 @@ export function createAnkiTools(dependencies: Partial<Dependencies> = {}) {
             return toolError('Unable to verify or load this approved image right now. Try again later.')
         }
     }
-    return { getRandomQuestions, getAnkiImage }
+    async function rateQuestion(input: z.input<typeof rateQuestionSchema>): Promise<ToolResult> {
+        const parsed = rateQuestionSchema.safeParse(input)
+        if (!parsed.success) return toolError('Provide a sessionId, cardId, and the learner’s rating: again, hard, good, or easy.')
+        try {
+            const result = await deps.rate(parsed.data)
+            return { content: [{ type: 'text', text: JSON.stringify({ ...result, dueAt: new Date(result.dueAt).toISOString() }) }] }
+        } catch (error) {
+            if (error instanceof ConvexError) {
+                const detail = error.data
+                if (typeof detail === 'string') return toolError(detail)
+                if (detail && typeof detail === 'object' && 'message' in detail && typeof detail.message === 'string') return toolError(detail.message)
+            }
+            console.error('Unable to save agent review:', error)
+            return toolError('Could not confirm this review. Retry with the same sessionId and cardId; it will only be saved once.')
+        }
+    }
+    return { getRandomQuestions, getAnkiImage, rateQuestion }
 }
 
-export const { getRandomQuestions, getAnkiImage } = createAnkiTools()
+export const { getRandomQuestions, getAnkiImage, rateQuestion } = createAnkiTools()

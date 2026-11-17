@@ -3,6 +3,22 @@ import { v } from 'convex/values'
 import { card, rating } from './cardFields'
 
 export default defineSchema({
+    agentSessions: defineTable({ requestId: v.string(), createdAt: v.number(), expiresAt: v.number(), count: v.number(), reviewedCount: v.number() })
+        .index('by_request', ['requestId'])
+        .index('by_expiry', ['expiresAt']),
+    sessionCards: defineTable({
+        sessionId: v.id('agentSessions'),
+        position: v.number(),
+        card,
+        rating: v.optional(rating),
+        reviewedAt: v.optional(v.number()),
+        dueAt: v.optional(v.number())
+    })
+        .index('by_session', ['sessionId', 'position'])
+        .index('by_session_card', ['sessionId', 'card.id']),
+    sessionImages: defineTable({ sessionId: v.id('agentSessions'), hash: v.string() })
+        .index('by_session', ['sessionId'])
+        .index('by_hash', ['hash']),
     approvals: defineTable({
         cardId: v.string(),
         approved: v.boolean(),

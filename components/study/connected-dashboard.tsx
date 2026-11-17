@@ -3,6 +3,7 @@
 import { api } from '@/convex/_generated/api'
 import { ConvexProvider, ConvexReactClient, useConvexConnectionState, useMutation, usePaginatedQuery, useQuery } from 'convex/react'
 import { Component, useEffect, useRef, useState, useSyncExternalStore, type ReactNode } from 'react'
+import { AgentSessions } from './agent-sessions'
 import { Dashboard } from './dashboard'
 import { UploadBank } from './upload-bank'
 
@@ -38,6 +39,7 @@ function ReactiveDashboard() {
     return (
         <Dashboard
             importButton={<UploadBank />}
+            recentPractice={(onStudying) => <AgentSessions canSave={ids !== undefined && connection.isWebSocketConnected} onStudying={onStudying} />}
             catalogRevision={JSON.stringify(banks?.map((b) => b.activeImportId))}
             approvals={{
                 ids,

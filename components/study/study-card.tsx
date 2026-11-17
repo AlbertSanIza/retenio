@@ -57,7 +57,10 @@ export function StudyCard({
     onRate,
     onClose,
     onReveal,
-    busy
+    busy,
+    ratingNotice,
+    backLabel = 'Back to library',
+    backText = 'Library'
 }: {
     card: LibraryCard
     approved: boolean
@@ -65,7 +68,10 @@ export function StudyCard({
     canSave: boolean
     error: string | null
     busy: boolean
-    onRemove: () => void
+    onRemove?: () => void
+    ratingNotice?: string
+    backLabel?: string
+    backText?: string
     onRate: (rating: ReviewRating) => void
     onClose: () => void
     onReveal: () => void
@@ -96,13 +102,13 @@ export function StudyCard({
                 </div>
                 <Button
                     variant="ghost"
-                    aria-label="Back to library"
+                    aria-label={backLabel}
                     disabled={saving}
                     onClick={onClose}
                     className="order-first h-11 shrink-0 px-3 lg:order-none lg:w-11"
                 >
                     <ArrowLeft className="size-4 lg:hidden" />
-                    <span className="lg:hidden">Library</span>
+                    <span className="lg:hidden">{backText}</span>
                     <X className="hidden size-4 lg:block" />
                 </Button>
             </CardHeader>
@@ -113,9 +119,11 @@ export function StudyCard({
                             <Check className="size-3" />
                             In agent practice
                         </Badge>
-                        <Button variant="ghost" size="sm" disabled={!canSave || saving || busy} onClick={onRemove} className="ml-2 text-xs">
-                            Remove from agent practice
-                        </Button>
+                        {onRemove && (
+                            <Button variant="ghost" size="sm" disabled={!canSave || saving || busy} onClick={onRemove} className="ml-2 text-xs">
+                                Remove from agent practice
+                            </Button>
+                        )}
                     </div>
                 )}
                 <h2 ref={headingRef} tabIndex={-1} className="max-w-3xl text-xl leading-relaxed font-medium tracking-tight whitespace-pre-wrap sm:text-2xl">
@@ -183,6 +191,8 @@ export function StudyCard({
                                 <LoaderCircle className="size-3 animate-spin" />
                                 Saving your review…
                             </span>
+                        ) : ratingNotice ? (
+                            ratingNotice
                         ) : !canSave ? (
                             'Practice is not connected yet. Reconnect to save your review.'
                         ) : revealed ? (

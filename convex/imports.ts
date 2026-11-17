@@ -3,6 +3,7 @@ import { internal } from './_generated/api'
 import type { Id } from './_generated/dataModel'
 import { internalMutation, mutation, type MutationCtx } from './_generated/server'
 import { card } from './cardFields'
+import { deleteUnusedImage } from './media'
 
 const day = 24 * 60 * 60_000
 const hashPattern = /^[a-f0-9]{64}$/
@@ -288,21 +289,7 @@ export const cleanup = internalMutation({
             .take(50)
         for (const row of images) {
             await ctx.db.delete(row._id)
-            if (
-                !(await ctx.db
-                    .query('importImages')
-                    .withIndex('by_hash', (q) => q.eq('hash', row.hash))
-                    .first())
-            ) {
-                const image = await ctx.db
-                    .query('media')
-                    .withIndex('by_hash', (q) => q.eq('hash', row.hash))
-                    .unique()
-                if (image) {
-                    await ctx.storage.delete(image.storageId)
-                    await ctx.db.delete(image._id)
-                }
-            }
+            await deleteUnusedImage(ctx, row.hash)
         }
         if (images.length) await ctx.scheduler.runAfter(0, internal.imports.cleanup, { importId })
         else await ctx.db.delete(importId)

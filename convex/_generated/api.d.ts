@@ -14,7 +14,9 @@ import type * as crons from "../crons.js";
 import type * as imports from "../imports.js";
 import type * as library from "../library.js";
 import type * as maintenance from "../maintenance.js";
+import type * as media from "../media.js";
 import type * as reviews from "../reviews.js";
+import type * as sessions from "../sessions.js";
 
 import type {
   ApiFromModules,
@@ -29,7 +31,9 @@ declare const fullApi: ApiFromModules<{
   imports: typeof imports;
   library: typeof library;
   maintenance: typeof maintenance;
+  media: typeof media;
   reviews: typeof reviews;
+  sessions: typeof sessions;
 }>;
 
 /**
