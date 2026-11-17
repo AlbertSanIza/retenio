@@ -1,9 +1,15 @@
 {
     "recommendations": [
-        "esbenp.prettier-vscode",
+        "aaron-bond.better-comments",
         "bradlc.vscode-tailwindcss",
-        "pkief.material-icon-theme",
+        "chakrounanas.turbo-console-log",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode",
+        "github.vscode-pull-request-github",
         "oven.bun-vscode",
-        "streetsidesoftware.code-spell-checker"
+        "pkief.material-icon-theme",
+        "streetsidesoftware.code-spell-checker",
+        "yoavbls.pretty-ts-errors"
     ]
 }
