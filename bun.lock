@@ -5,14 +5,12 @@
         "": {
             "name": "retenio",
             "dependencies": {
-                "@modelcontextprotocol/server": "^2",
-                "mcp-handler": "^2",
                 "next": "16.4.6",
                 "react": "19.3.0",
-                "react-dom": "19.3.0",
-                "zod": "^4"
+                "react-dom": "19.3.0"
             },
             "devDependencies": {
+                "@modelcontextprotocol/server": "^2",
                 "@tailwindcss/turbopack": "4.3.3",
                 "@types/node": "^20",
                 "@types/react": "^19",
@@ -21,11 +19,13 @@
                 "eslint-config-next": "16.4.6",
                 "husky": "^9.1.7",
                 "lint-staged": "^17.6.1",
+                "mcp-handler": "^2",
                 "prettier": "^3.10.1",
                 "prettier-plugin-organize-imports": "^4.3.0",
                 "prettier-plugin-tailwindcss": "^0.8.1",
                 "tailwindcss": "4.3.3",
-                "typescript": "^5"
+                "typescript": "^5",
+                "zod": "^4"
             }
         }
     },
