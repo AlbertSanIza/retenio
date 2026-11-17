@@ -40,7 +40,8 @@ describe('Imported deck and MCP images', () => {
         expect(metadata.deferredImageIds).toBeUndefined()
         const catalog = await loadCatalog('data')
         for (const card of metadata.cards) {
-            expect(Object.keys(card)).toEqual(['id', 'question', 'answer'])
+            expect(Object.keys(card)).toEqual(['id', 'categories', 'question', 'answer'])
+            expect(card.categories.length).toBeGreaterThan(0)
             expect(card.question.text.length).toBeGreaterThan(0)
             expect(card.answer.text.length).toBeGreaterThan(0)
             for (const id of [...(card.question.imageIds ?? []), ...(card.answer.imageIds ?? [])]) {
@@ -62,6 +63,7 @@ describe('Imported deck and MCP images', () => {
         const imageId = original.answer.imageIds[0]
         const fixture = {
             ...original,
+            deck: 'Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.1 - Acetazolamide, mannitol',
             question: { text: '§\n\nWhat does ↑ mean?', imageIds: [] },
             answer: {
                 text: `§\nWhat does ↑ mean?\n\nIncrease\n\n[Image: ${imageId}]\n\nKeep this explanation and § symbol.`,
@@ -71,10 +73,13 @@ describe('Imported deck and MCP images', () => {
         const before = structuredClone(fixture)
         expect(toQuizCard(fixture)).toEqual({
             id: fixture.id,
+            categories: ['Cardiovascular & Renal', 'Diuretics', 'Acetazolamide, mannitol'],
             question: { text: 'What does ↑ mean?' },
             answer: { text: 'Increase\n\nKeep this explanation and § symbol.', imageIds: [imageId] }
         })
         expect(fixture).toEqual(before)
+        expect(toQuizCard({ ...fixture, deck: 'Pharmacology' }).categories).toEqual(['Pharmacology'])
+        expect(toQuizCard({ ...fixture, deck: '' }).categories).toBeUndefined()
         expect(toQuizCard({ ...fixture, answer: { text: 'What does ↑ mean? is part of this explanation.', imageIds: [] } }).answer).toEqual({
             text: 'What does ↑ mean? is part of this explanation.'
         })

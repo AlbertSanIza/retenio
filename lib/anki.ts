@@ -60,7 +60,14 @@ export function toQuizCard(card: Catalog['cards'][number]) {
     if (question.text && answer.text.startsWith(`${question.text}\n`)) {
         answer.text = answer.text.slice(question.text.length).trim()
     }
-    return { id: card.id, question, answer }
+    const deckParts = card.deck
+        .split('::')
+        .map((part) => part.trim())
+        .filter(Boolean)
+    const categories = (deckParts.length > 1 ? deckParts.slice(1) : deckParts)
+        .map((part) => part.replace(/^\d+(?:\.\d+)*(?:\s*-\s*|\s+)/, '').trim())
+        .filter(Boolean)
+    return { id: card.id, ...(categories.length > 0 && { categories }), question, answer }
 }
 
 async function imageContent(catalog: Catalog, imageId: string): Promise<Content[]> {
