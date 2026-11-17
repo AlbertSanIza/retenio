@@ -1,0 +1,13 @@
+{
+    "$schema": "https://t3.codes/schema/t3.json",
+    "defaultThreadEnvMode": "worktree",
+    "scripts": [
+        {
+            "async": false,
+            "command": "bun scripts/worktree-setup.ts",
+            "icon": "configure",
+            "name": "Worktree Setup",
+            "runOnWorktreeCreate": true
+        }
+    ]
+}
