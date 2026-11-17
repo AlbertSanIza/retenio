@@ -35,5 +35,6 @@
     "tailwindCSS.classFunctions": ["cn", "clsx", "cva", "twMerge", "tw\\.[a-z-]+"],
     "window.density.layout": "compact",
     "workbench.browser.openLocalhostLinks": false,
-    "workbench.iconTheme": "material-icon-theme"
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "none"
 }
