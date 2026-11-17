@@ -18,30 +18,16 @@
         "$Antivirals_HIV"
     ],
     "question": {
-        "text": "§\n\nSuffix: Protease inhibitors",
+        "text": "Suffix: Protease inhibitors",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nSuffix: Protease inhibitors\n\n\"-navir\"\n\n[Image: d18dfa764904cfb7c5e691866454488c097d587837ae1f8a69a6db4c447cd306]\n\n6.3 - Protease inhibitors\n[Image: 8b63ecfb897f3d225f0e1a50588bff3e91b63aff6044e6239b01f460af74105c]\n\n\u001b\n[Image: cfdf18e2358bb4ffc0214d2eeae51abbb1f9323d201eb5b12151527b43c627fb]\n\u001b\u001b",
+        "text": "\"-navir\"\n\n[Image: d18dfa764904cfb7c5e691866454488c097d587837ae1f8a69a6db4c447cd306]",
         "imageIds": [
-            "d18dfa764904cfb7c5e691866454488c097d587837ae1f8a69a6db4c447cd306",
-            "8b63ecfb897f3d225f0e1a50588bff3e91b63aff6044e6239b01f460af74105c",
-            "cfdf18e2358bb4ffc0214d2eeae51abbb1f9323d201eb5b12151527b43c627fb"
+            "d18dfa764904cfb7c5e691866454488c097d587837ae1f8a69a6db4c447cd306"
         ]
     },
     "images": {
-        "8b63ecfb897f3d225f0e1a50588bff3e91b63aff6044e6239b01f460af74105c": {
-            "file": "images/8b63ecfb897f3d225f0e1a50588bff3e91b63aff6044e6239b01f460af74105c.jpg",
-            "filename": "paste-293114338082817.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 137704
-        },
-        "cfdf18e2358bb4ffc0214d2eeae51abbb1f9323d201eb5b12151527b43c627fb": {
-            "file": "images/cfdf18e2358bb4ffc0214d2eeae51abbb1f9323d201eb5b12151527b43c627fb.jpg",
-            "filename": "paste-535621076516867.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 34046
-        },
         "d18dfa764904cfb7c5e691866454488c097d587837ae1f8a69a6db4c447cd306": {
             "file": "images/d18dfa764904cfb7c5e691866454488c097d587837ae1f8a69a6db4c447cd306.jpg",
             "filename": "paste-120087285596163.jpg",

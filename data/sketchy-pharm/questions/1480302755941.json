@@ -18,37 +18,16 @@
         "$Cell_Wall_&_Membrane_Active_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nWhat antibiotic is used for empiric treatment of meningitis?",
+        "text": "What antibiotic is used for empiric treatment of meningitis?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat antibiotic is used for empiric treatment of meningitis?\n\nCeftriaxone\n\n[Image: d565ba10f4b3b1ef6e199c1a1ee5db743a11928009fbae5d07b08ba1e9bd54e7]\n\n1.4 - Cephalosporins\n[Image: b0ee60188020980c9ca1fee3403f12f3de6b38a960acb6dab4f74d7694bc03cb]\n\n[Image: baa9a42452ede300b4b20246eaf38bc2c1f71d244e0d82d4e5b1439dd976cf54]\n\n[Image: 602c1422ee0f9457e34f0ca3a0f1a24ba7d20a0e577996ff705ecdf7cccacc10]",
+        "text": "Ceftriaxone\n\n[Image: d565ba10f4b3b1ef6e199c1a1ee5db743a11928009fbae5d07b08ba1e9bd54e7]",
         "imageIds": [
-            "d565ba10f4b3b1ef6e199c1a1ee5db743a11928009fbae5d07b08ba1e9bd54e7",
-            "b0ee60188020980c9ca1fee3403f12f3de6b38a960acb6dab4f74d7694bc03cb",
-            "baa9a42452ede300b4b20246eaf38bc2c1f71d244e0d82d4e5b1439dd976cf54",
-            "602c1422ee0f9457e34f0ca3a0f1a24ba7d20a0e577996ff705ecdf7cccacc10"
+            "d565ba10f4b3b1ef6e199c1a1ee5db743a11928009fbae5d07b08ba1e9bd54e7"
         ]
     },
     "images": {
-        "602c1422ee0f9457e34f0ca3a0f1a24ba7d20a0e577996ff705ecdf7cccacc10": {
-            "file": "images/602c1422ee0f9457e34f0ca3a0f1a24ba7d20a0e577996ff705ecdf7cccacc10.jpg",
-            "filename": "paste-62023622721539.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 46598
-        },
-        "b0ee60188020980c9ca1fee3403f12f3de6b38a960acb6dab4f74d7694bc03cb": {
-            "file": "images/b0ee60188020980c9ca1fee3403f12f3de6b38a960acb6dab4f74d7694bc03cb.jpg",
-            "filename": "paste-187273459007489.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 116817
-        },
-        "baa9a42452ede300b4b20246eaf38bc2c1f71d244e0d82d4e5b1439dd976cf54": {
-            "file": "images/baa9a42452ede300b4b20246eaf38bc2c1f71d244e0d82d4e5b1439dd976cf54.jpg",
-            "filename": "paste-58145267253251.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 98431
-        },
         "d565ba10f4b3b1ef6e199c1a1ee5db743a11928009fbae5d07b08ba1e9bd54e7": {
             "file": "images/d565ba10f4b3b1ef6e199c1a1ee5db743a11928009fbae5d07b08ba1e9bd54e7.jpg",
             "filename": "paste-100059853094915.jpg",

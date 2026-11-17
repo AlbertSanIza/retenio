@@ -18,18 +18,13 @@
         "$Hypothalamic_&_Pituitary"
     ],
     "question": {
-        "text": "§\n\nOther than increasing water permeability, what physiologic function does stimulation of V2 receptor mediate?",
+        "text": "Other than increasing water permeability, what physiologic function does stimulation of V2 receptor mediate?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nOther than increasing water permeability, what physiologic function does stimulation of V2 receptor mediate?\n\n(1) ↑ vWF\n(2) ↑ Factor VIII\n\n(Remember vWF stabilizes Factor VIII, preventing its degradation, so it's logical they would be affected together)\n\n[Image: 78a1ea43346c55c4e15e0d93d0fcabfd64d7a09479d461892a63d1e5b3276291]\n\n4.1 - ADH, DDAVP, ADH receptor antagonists\n\n[Image: e06950f692d65a8864ac252b6fb75828d17da41fdcdcc246d239abc8eb31f867]\n\n[Image: da81a04ca8de0f852b6e357e37e3a63b21ca5d78bb69b03f81978fcf520dfba2]\n\n[Image: dae9fdb5864ba18e191be1afa09ac1f37d7babe6a6d7291e59103bd562bd4faa]\n\n[Image: abea8ed5f8daf28df44955dd5fca3af62e1f69ea071a7a14d3b5b3e3f86830c5]\n\n[Image: 826b35e0ceaeab4fb76197642465d0ffa03d756489d3e41f8caa28bc7978aea2]",
+        "text": "(1) ↑ vWF\n(2) ↑ Factor VIII\n\n(Remember vWF stabilizes Factor VIII, preventing its degradation, so it's logical they would be affected together)\n\n[Image: 78a1ea43346c55c4e15e0d93d0fcabfd64d7a09479d461892a63d1e5b3276291]",
         "imageIds": [
-            "78a1ea43346c55c4e15e0d93d0fcabfd64d7a09479d461892a63d1e5b3276291",
-            "e06950f692d65a8864ac252b6fb75828d17da41fdcdcc246d239abc8eb31f867",
-            "da81a04ca8de0f852b6e357e37e3a63b21ca5d78bb69b03f81978fcf520dfba2",
-            "dae9fdb5864ba18e191be1afa09ac1f37d7babe6a6d7291e59103bd562bd4faa",
-            "abea8ed5f8daf28df44955dd5fca3af62e1f69ea071a7a14d3b5b3e3f86830c5",
-            "826b35e0ceaeab4fb76197642465d0ffa03d756489d3e41f8caa28bc7978aea2"
+            "78a1ea43346c55c4e15e0d93d0fcabfd64d7a09479d461892a63d1e5b3276291"
         ]
     },
     "images": {
@@ -38,36 +33,6 @@
             "filename": "paste-84915798409219.jpg",
             "mimeType": "image/jpeg",
             "bytes": 46589
-        },
-        "826b35e0ceaeab4fb76197642465d0ffa03d756489d3e41f8caa28bc7978aea2": {
-            "file": "images/826b35e0ceaeab4fb76197642465d0ffa03d756489d3e41f8caa28bc7978aea2.jpg",
-            "filename": "paste-1111455931826179.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 101271
-        },
-        "abea8ed5f8daf28df44955dd5fca3af62e1f69ea071a7a14d3b5b3e3f86830c5": {
-            "file": "images/abea8ed5f8daf28df44955dd5fca3af62e1f69ea071a7a14d3b5b3e3f86830c5.jpg",
-            "filename": "paste-703386794065921.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 65797
-        },
-        "da81a04ca8de0f852b6e357e37e3a63b21ca5d78bb69b03f81978fcf520dfba2": {
-            "file": "images/da81a04ca8de0f852b6e357e37e3a63b21ca5d78bb69b03f81978fcf520dfba2.jpg",
-            "filename": "paste-707578682146819.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 23630
-        },
-        "dae9fdb5864ba18e191be1afa09ac1f37d7babe6a6d7291e59103bd562bd4faa": {
-            "file": "images/dae9fdb5864ba18e191be1afa09ac1f37d7babe6a6d7291e59103bd562bd4faa.jpg",
-            "filename": "paste-700002359836673.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 62028
-        },
-        "e06950f692d65a8864ac252b6fb75828d17da41fdcdcc246d239abc8eb31f867": {
-            "file": "images/e06950f692d65a8864ac252b6fb75828d17da41fdcdcc246d239abc8eb31f867.jpg",
-            "filename": "paste-728168755363841.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 141554
         }
     }
 }

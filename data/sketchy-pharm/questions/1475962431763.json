@@ -18,19 +18,15 @@
         "$Antiarrhythmics"
     ],
     "question": {
-        "text": "§\n\nAdverse Effects (3) : Quinidine",
+        "text": "Adverse Effects (3) : Quinidine",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAdverse Effects (3) : Quinidine\n\n(1) Cinchonism\n(2) Thrombocytopenia\n\n(3) Torsades\n\n(Remember all class IA can cause Torsade de Pointes)\n\n[Image: 24a46b2654649189461daf0dcfa728f66646f785d40659963233b6650b6d017a]\n\n[Image: 568c7b8f9804e26c5514ed23edad96fd4dd9b822bac7a838c715bff5b5e5c713]\n\n[Image: eb87e81b70dae183bd855c4b78d44938f8745c43aab7e57f38f19bbcda6f7633]\n\n4.1 - Class I A-C\n[Image: 738c430e76dec4470186db851078490a3a51075efd684bef3901aeb427d60f40]\n\n[Image: b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c]\n\n[Image: 54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801]\n\n[Image: 79026d35323ca42dbf5588ebdebcaef015a5a5e5def4d0aadf9d75a383beb2a3]",
+        "text": "(1) Cinchonism\n(2) Thrombocytopenia\n\n(3) Torsades\n\n(Remember all class IA can cause Torsade de Pointes)\n\n[Image: 24a46b2654649189461daf0dcfa728f66646f785d40659963233b6650b6d017a]\n\n[Image: 568c7b8f9804e26c5514ed23edad96fd4dd9b822bac7a838c715bff5b5e5c713]\n\n[Image: eb87e81b70dae183bd855c4b78d44938f8745c43aab7e57f38f19bbcda6f7633]",
         "imageIds": [
             "24a46b2654649189461daf0dcfa728f66646f785d40659963233b6650b6d017a",
             "568c7b8f9804e26c5514ed23edad96fd4dd9b822bac7a838c715bff5b5e5c713",
-            "eb87e81b70dae183bd855c4b78d44938f8745c43aab7e57f38f19bbcda6f7633",
-            "738c430e76dec4470186db851078490a3a51075efd684bef3901aeb427d60f40",
-            "b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c",
-            "54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801",
-            "79026d35323ca42dbf5588ebdebcaef015a5a5e5def4d0aadf9d75a383beb2a3"
+            "eb87e81b70dae183bd855c4b78d44938f8745c43aab7e57f38f19bbcda6f7633"
         ]
     },
     "images": {
@@ -40,35 +36,11 @@
             "mimeType": "image/jpeg",
             "bytes": 52112
         },
-        "54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801": {
-            "file": "images/54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801.jpg",
-            "filename": "paste-246930554748931.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 98421
-        },
         "568c7b8f9804e26c5514ed23edad96fd4dd9b822bac7a838c715bff5b5e5c713": {
             "file": "images/568c7b8f9804e26c5514ed23edad96fd4dd9b822bac7a838c715bff5b5e5c713.jpg",
             "filename": "paste-27131308408835.jpg",
             "mimeType": "image/jpeg",
             "bytes": 52175
-        },
-        "738c430e76dec4470186db851078490a3a51075efd684bef3901aeb427d60f40": {
-            "file": "images/738c430e76dec4470186db851078490a3a51075efd684bef3901aeb427d60f40.jpg",
-            "filename": "paste-644945174069249.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 148479
-        },
-        "79026d35323ca42dbf5588ebdebcaef015a5a5e5def4d0aadf9d75a383beb2a3": {
-            "file": "images/79026d35323ca42dbf5588ebdebcaef015a5a5e5def4d0aadf9d75a383beb2a3.jpg",
-            "filename": "paste-631579235844099.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 95806
-        },
-        "b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c": {
-            "file": "images/b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c.jpg",
-            "filename": "paste-63204738727939.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 55713
         },
         "eb87e81b70dae183bd855c4b78d44938f8745c43aab7e57f38f19bbcda6f7633": {
             "file": "images/eb87e81b70dae183bd855c4b78d44938f8745c43aab7e57f38f19bbcda6f7633.jpg",

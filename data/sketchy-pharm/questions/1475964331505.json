@@ -18,37 +18,16 @@
         "$Antiarrhythmics"
     ],
     "question": {
-        "text": "§\n\nWhat class III antiarrhythmic shares mechanistic features of class I-IV drugs?",
+        "text": "What class III antiarrhythmic shares mechanistic features of class I-IV drugs?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat class III antiarrhythmic shares mechanistic features of class I-IV drugs?\n\nAmiodorone\n\n[Image: a7d56d6f76463a1d8fce2ae0043cc8fbc1b1f933cd7c9975866d1814902239b5]\n\n4.3 - Class III\n[Image: 69c6a857f25b4d9db05caf993274d30160588b4f22c91e884f3d30da532643d7]\n\n[Image: 54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801]\n\n[Image: 68c67db95c25755c22892a511f56c60cad5e8660dbf87b4a32dba4829039fe79]",
+        "text": "Amiodorone\n\n[Image: a7d56d6f76463a1d8fce2ae0043cc8fbc1b1f933cd7c9975866d1814902239b5]",
         "imageIds": [
-            "a7d56d6f76463a1d8fce2ae0043cc8fbc1b1f933cd7c9975866d1814902239b5",
-            "69c6a857f25b4d9db05caf993274d30160588b4f22c91e884f3d30da532643d7",
-            "54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801",
-            "68c67db95c25755c22892a511f56c60cad5e8660dbf87b4a32dba4829039fe79"
+            "a7d56d6f76463a1d8fce2ae0043cc8fbc1b1f933cd7c9975866d1814902239b5"
         ]
     },
     "images": {
-        "54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801": {
-            "file": "images/54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801.jpg",
-            "filename": "paste-246930554748931.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 98421
-        },
-        "68c67db95c25755c22892a511f56c60cad5e8660dbf87b4a32dba4829039fe79": {
-            "file": "images/68c67db95c25755c22892a511f56c60cad5e8660dbf87b4a32dba4829039fe79.jpg",
-            "filename": "paste-638515608027139.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 58528
-        },
-        "69c6a857f25b4d9db05caf993274d30160588b4f22c91e884f3d30da532643d7": {
-            "file": "images/69c6a857f25b4d9db05caf993274d30160588b4f22c91e884f3d30da532643d7.jpg",
-            "filename": "paste-653814281535489.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 131376
-        },
         "a7d56d6f76463a1d8fce2ae0043cc8fbc1b1f933cd7c9975866d1814902239b5": {
             "file": "images/a7d56d6f76463a1d8fce2ae0043cc8fbc1b1f933cd7c9975866d1814902239b5.jpg",
             "filename": "paste-42142219108355.jpg",

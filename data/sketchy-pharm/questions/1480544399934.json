@@ -18,42 +18,21 @@
         "$Inhibitors_of_Bacterial_Protein_Synthesis"
     ],
     "question": {
-        "text": "§\n\nMOA: Chloramphenicol",
+        "text": "MOA: Chloramphenicol",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nMOA: Chloramphenicol\n\nInhibits 50s ribosome ⇒ Inhibits peptidyl transferase\n\n[Image: 92f8579f2a0ed5c34987724d9daf7f29d81cc5410ac21aaf9cbc5618cb9f5a0f]\n\n2.4 - Chloramphenicol\n[Image: b067638da806193744df903046261dbc296bdafd64018aa8b7749b1dec506f00]\n\n[Image: 8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4]\n\n[Image: 4d828f47ea3b8d21a049c82aaaf2afd544ee8ffb3c627fed79ad3de3e42d96ad]",
+        "text": "Inhibits 50s ribosome ⇒ Inhibits peptidyl transferase\n\n[Image: 92f8579f2a0ed5c34987724d9daf7f29d81cc5410ac21aaf9cbc5618cb9f5a0f]",
         "imageIds": [
-            "92f8579f2a0ed5c34987724d9daf7f29d81cc5410ac21aaf9cbc5618cb9f5a0f",
-            "b067638da806193744df903046261dbc296bdafd64018aa8b7749b1dec506f00",
-            "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4",
-            "4d828f47ea3b8d21a049c82aaaf2afd544ee8ffb3c627fed79ad3de3e42d96ad"
+            "92f8579f2a0ed5c34987724d9daf7f29d81cc5410ac21aaf9cbc5618cb9f5a0f"
         ]
     },
     "images": {
-        "4d828f47ea3b8d21a049c82aaaf2afd544ee8ffb3c627fed79ad3de3e42d96ad": {
-            "file": "images/4d828f47ea3b8d21a049c82aaaf2afd544ee8ffb3c627fed79ad3de3e42d96ad.jpg",
-            "filename": "paste-394308062543875.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 51870
-        },
-        "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4": {
-            "file": "images/8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4.jpg",
-            "filename": "paste-321710230339587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 76271
-        },
         "92f8579f2a0ed5c34987724d9daf7f29d81cc5410ac21aaf9cbc5618cb9f5a0f": {
             "file": "images/92f8579f2a0ed5c34987724d9daf7f29d81cc5410ac21aaf9cbc5618cb9f5a0f.jpg",
             "filename": "paste-21341692493827.jpg",
             "mimeType": "image/jpeg",
             "bytes": 38970
-        },
-        "b067638da806193744df903046261dbc296bdafd64018aa8b7749b1dec506f00": {
-            "file": "images/b067638da806193744df903046261dbc296bdafd64018aa8b7749b1dec506f00.jpg",
-            "filename": "paste-225537322647553.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 105140
         }
     }
 }

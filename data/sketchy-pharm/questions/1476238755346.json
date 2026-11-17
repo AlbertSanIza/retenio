@@ -18,17 +18,14 @@
         "$Diuretics"
     ],
     "question": {
-        "text": "§\n\nWhat are two classes of diuretics which prevent cardiac remodeling and improve outcomes in heart failure?",
+        "text": "What are two classes of diuretics which prevent cardiac remodeling and improve outcomes in heart failure?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat are two classes of diuretics which prevent cardiac remodeling and improve outcomes in heart failure?\n\n(1) Aldosterone receptor antagonists\n(2) ACE Inhibitors\n\n(Theme: ↓ Aldosterone Fx ⇒ ↑ Survival)\n\n[Image: 12852896ab6e89cf73405408c98156342a07a3a65194ce06676fce5a9d0357c6]\n\n[Image: accece7b2a1a6fa0825a5e25158622daacf56fc3a76d7444a4955cdc127a25a4]\n\n2.4 - K+ sparing diuretics\n[Image: e48404dc4b1dabc8844727f0c583d447f593652e51b1fec406a312d1f676c15f]\n\n[Image: 2eb705d63a82b4c062b3184f2a2d03fa393d8e39a9d14cc01e71171806a6c4b2]\n\n[Image: 54dfcadb639ffc739a45b5467bbff497d037b50dd4fdf8e718dc5199e7f0a525]",
+        "text": "(1) Aldosterone receptor antagonists\n(2) ACE Inhibitors\n\n(Theme: ↓ Aldosterone Fx ⇒ ↑ Survival)\n\n[Image: 12852896ab6e89cf73405408c98156342a07a3a65194ce06676fce5a9d0357c6]\n\n[Image: accece7b2a1a6fa0825a5e25158622daacf56fc3a76d7444a4955cdc127a25a4]",
         "imageIds": [
             "12852896ab6e89cf73405408c98156342a07a3a65194ce06676fce5a9d0357c6",
-            "accece7b2a1a6fa0825a5e25158622daacf56fc3a76d7444a4955cdc127a25a4",
-            "e48404dc4b1dabc8844727f0c583d447f593652e51b1fec406a312d1f676c15f",
-            "2eb705d63a82b4c062b3184f2a2d03fa393d8e39a9d14cc01e71171806a6c4b2",
-            "54dfcadb639ffc739a45b5467bbff497d037b50dd4fdf8e718dc5199e7f0a525"
+            "accece7b2a1a6fa0825a5e25158622daacf56fc3a76d7444a4955cdc127a25a4"
         ]
     },
     "images": {
@@ -38,29 +35,11 @@
             "mimeType": "image/jpeg",
             "bytes": 68381
         },
-        "2eb705d63a82b4c062b3184f2a2d03fa393d8e39a9d14cc01e71171806a6c4b2": {
-            "file": "images/2eb705d63a82b4c062b3184f2a2d03fa393d8e39a9d14cc01e71171806a6c4b2.jpg",
-            "filename": "paste-210702505607171.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 54582
-        },
-        "54dfcadb639ffc739a45b5467bbff497d037b50dd4fdf8e718dc5199e7f0a525": {
-            "file": "images/54dfcadb639ffc739a45b5467bbff497d037b50dd4fdf8e718dc5199e7f0a525.jpg",
-            "filename": "paste-198809741164547.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 70593
-        },
         "accece7b2a1a6fa0825a5e25158622daacf56fc3a76d7444a4955cdc127a25a4": {
             "file": "images/accece7b2a1a6fa0825a5e25158622daacf56fc3a76d7444a4955cdc127a25a4.jpg",
             "filename": "paste-52570399703043.jpg",
             "mimeType": "image/jpeg",
             "bytes": 49502
-        },
-        "e48404dc4b1dabc8844727f0c583d447f593652e51b1fec406a312d1f676c15f": {
-            "file": "images/e48404dc4b1dabc8844727f0c583d447f593652e51b1fec406a312d1f676c15f.jpg",
-            "filename": "paste-628748852396033.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 168885
         }
     }
 }

@@ -18,56 +18,28 @@
         "$Antiarrhythmics"
     ],
     "question": {
-        "text": "§\n\nWhat are the class IC antiarrhythmics?",
+        "text": "What are the class IC antiarrhythmics?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat are the class IC antiarrhythmics?\n\n(1) Flecainide\n(2) Propafenone\n\n[Image: b5d2277a8c188638c80bac30a36918ca1525ccc8ea473c8bf29f6e00462e1e3d]\n\n[Image: 6b180a622979a6417bca587ee3291be01a678d8ac8199dfc47e73f2264ac37de]\n\n4.1 - Class I A-C\n[Image: 738c430e76dec4470186db851078490a3a51075efd684bef3901aeb427d60f40]\n\n[Image: b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c]\n\n[Image: 54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801]\n\n[Image: 79026d35323ca42dbf5588ebdebcaef015a5a5e5def4d0aadf9d75a383beb2a3]",
+        "text": "(1) Flecainide\n(2) Propafenone\n\n[Image: b5d2277a8c188638c80bac30a36918ca1525ccc8ea473c8bf29f6e00462e1e3d]\n\n[Image: 6b180a622979a6417bca587ee3291be01a678d8ac8199dfc47e73f2264ac37de]",
         "imageIds": [
             "b5d2277a8c188638c80bac30a36918ca1525ccc8ea473c8bf29f6e00462e1e3d",
-            "6b180a622979a6417bca587ee3291be01a678d8ac8199dfc47e73f2264ac37de",
-            "738c430e76dec4470186db851078490a3a51075efd684bef3901aeb427d60f40",
-            "b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c",
-            "54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801",
-            "79026d35323ca42dbf5588ebdebcaef015a5a5e5def4d0aadf9d75a383beb2a3"
+            "6b180a622979a6417bca587ee3291be01a678d8ac8199dfc47e73f2264ac37de"
         ]
     },
     "images": {
-        "54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801": {
-            "file": "images/54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801.jpg",
-            "filename": "paste-246930554748931.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 98421
-        },
         "6b180a622979a6417bca587ee3291be01a678d8ac8199dfc47e73f2264ac37de": {
             "file": "images/6b180a622979a6417bca587ee3291be01a678d8ac8199dfc47e73f2264ac37de.jpg",
             "filename": "paste-31821412696067.jpg",
             "mimeType": "image/jpeg",
             "bytes": 69274
         },
-        "738c430e76dec4470186db851078490a3a51075efd684bef3901aeb427d60f40": {
-            "file": "images/738c430e76dec4470186db851078490a3a51075efd684bef3901aeb427d60f40.jpg",
-            "filename": "paste-644945174069249.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 148479
-        },
-        "79026d35323ca42dbf5588ebdebcaef015a5a5e5def4d0aadf9d75a383beb2a3": {
-            "file": "images/79026d35323ca42dbf5588ebdebcaef015a5a5e5def4d0aadf9d75a383beb2a3.jpg",
-            "filename": "paste-631579235844099.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 95806
-        },
         "b5d2277a8c188638c80bac30a36918ca1525ccc8ea473c8bf29f6e00462e1e3d": {
             "file": "images/b5d2277a8c188638c80bac30a36918ca1525ccc8ea473c8bf29f6e00462e1e3d.jpg",
             "filename": "paste-31662498906115.jpg",
             "mimeType": "image/jpeg",
             "bytes": 67279
-        },
-        "b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c": {
-            "file": "images/b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c.jpg",
-            "filename": "paste-63204738727939.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 55713
         }
     }
 }

@@ -18,17 +18,13 @@
         "$Anticoagulants&Thrombolytics"
     ],
     "question": {
-        "text": "§\n\nWhat effect on clotting time do fibrinolytic agents have?",
+        "text": "What effect on clotting time do fibrinolytic agents have?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat effect on clotting time do fibrinolytic agents have?\n\n↑ PT and PTT\n\n[Image: 1ff600d4b7dd71d1d50f4b22f6baa5edfa5245c3c7d3d4cb553df72ac47e3e6b]\n\n1.4 - Thrombolytics\n[Image: c97d692746fe1bbdd95df33fc5ed61a2857c0092adaea02d6e70278e6f47f486]\n\n[Image: 79bfed7172db4b9cd4194469848eaf5644bd064312603d878d78c92a9675b49a]\n\n[Image: c3fc86c8b86793b560d992764fddd3cd1374fb45c40ee17959972514c75c57ad]\n\n[Image: dcb54ca655e04fdd87a661a3fc00fccb5ceb0067d577be9ac50dfa4bff444b32]",
+        "text": "↑ PT and PTT\n\n[Image: 1ff600d4b7dd71d1d50f4b22f6baa5edfa5245c3c7d3d4cb553df72ac47e3e6b]",
         "imageIds": [
-            "1ff600d4b7dd71d1d50f4b22f6baa5edfa5245c3c7d3d4cb553df72ac47e3e6b",
-            "c97d692746fe1bbdd95df33fc5ed61a2857c0092adaea02d6e70278e6f47f486",
-            "79bfed7172db4b9cd4194469848eaf5644bd064312603d878d78c92a9675b49a",
-            "c3fc86c8b86793b560d992764fddd3cd1374fb45c40ee17959972514c75c57ad",
-            "dcb54ca655e04fdd87a661a3fc00fccb5ceb0067d577be9ac50dfa4bff444b32"
+            "1ff600d4b7dd71d1d50f4b22f6baa5edfa5245c3c7d3d4cb553df72ac47e3e6b"
         ]
     },
     "images": {
@@ -37,30 +33,6 @@
             "filename": "paste-23390391894019.jpg",
             "mimeType": "image/jpeg",
             "bytes": 73882
-        },
-        "79bfed7172db4b9cd4194469848eaf5644bd064312603d878d78c92a9675b49a": {
-            "file": "images/79bfed7172db4b9cd4194469848eaf5644bd064312603d878d78c92a9675b49a.jpg",
-            "filename": "paste-181818850541571.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 55971
-        },
-        "c3fc86c8b86793b560d992764fddd3cd1374fb45c40ee17959972514c75c57ad": {
-            "file": "images/c3fc86c8b86793b560d992764fddd3cd1374fb45c40ee17959972514c75c57ad.jpg",
-            "filename": "paste-384335148482563.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 62390
-        },
-        "c97d692746fe1bbdd95df33fc5ed61a2857c0092adaea02d6e70278e6f47f486": {
-            "file": "images/c97d692746fe1bbdd95df33fc5ed61a2857c0092adaea02d6e70278e6f47f486.jpg",
-            "filename": "paste-23111219019779.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 102920
-        },
-        "dcb54ca655e04fdd87a661a3fc00fccb5ceb0067d577be9ac50dfa4bff444b32": {
-            "file": "images/dcb54ca655e04fdd87a661a3fc00fccb5ceb0067d577be9ac50dfa4bff444b32.jpg",
-            "filename": "paste-385782552461315.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 79084
         }
     }
 }

@@ -18,39 +18,17 @@
         "$Hypothalamic_&_Pituitary"
     ],
     "question": {
-        "text": "§\n\nTreatment (2) : Esophageal variceal bleeding",
+        "text": "Treatment (2) : Esophageal variceal bleeding",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nTreatment (2) : Esophageal variceal bleeding\n\n(1) ADH\n(2) Octreotide\n\n[Image: a1599ffebf5425cd90ba97975cbc20256390e96c73f6f6e1189f38f48df67105]\n\n[Image: a47d7800543b6ac0f77f5e7ff589819e46004654f5746f4095bdf7c93df07abf]\n\n4.2 - Growth hormone, mecasermin, octreotide, pegvisomant\n[Image: 94015af0f388bd853064c3ae7e9bd4f190e7244a0dfb7c9f09c727f096baae66]\n\n[Image: 035165bf66d5f8e95d7b9bfa64cfde4c09dae559bf88778a8662a81de9ce0298]\n\n[Image: c8b9d5f2a975ba4a48bd1e627159c37063448236e6b20f88df50fa079c534c4d]\n\n[Image: 9e642979ff36736fccdd76994c6335e700a490848c79ab59b01f8e8362e6cad3]",
+        "text": "(1) ADH\n(2) Octreotide\n\n[Image: a1599ffebf5425cd90ba97975cbc20256390e96c73f6f6e1189f38f48df67105]\n\n[Image: a47d7800543b6ac0f77f5e7ff589819e46004654f5746f4095bdf7c93df07abf]",
         "imageIds": [
             "a1599ffebf5425cd90ba97975cbc20256390e96c73f6f6e1189f38f48df67105",
-            "a47d7800543b6ac0f77f5e7ff589819e46004654f5746f4095bdf7c93df07abf",
-            "94015af0f388bd853064c3ae7e9bd4f190e7244a0dfb7c9f09c727f096baae66",
-            "035165bf66d5f8e95d7b9bfa64cfde4c09dae559bf88778a8662a81de9ce0298",
-            "c8b9d5f2a975ba4a48bd1e627159c37063448236e6b20f88df50fa079c534c4d",
-            "9e642979ff36736fccdd76994c6335e700a490848c79ab59b01f8e8362e6cad3"
+            "a47d7800543b6ac0f77f5e7ff589819e46004654f5746f4095bdf7c93df07abf"
         ]
     },
     "images": {
-        "035165bf66d5f8e95d7b9bfa64cfde4c09dae559bf88778a8662a81de9ce0298": {
-            "file": "images/035165bf66d5f8e95d7b9bfa64cfde4c09dae559bf88778a8662a81de9ce0298.jpg",
-            "filename": "paste-712285966303235.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 34042
-        },
-        "94015af0f388bd853064c3ae7e9bd4f190e7244a0dfb7c9f09c727f096baae66": {
-            "file": "images/94015af0f388bd853064c3ae7e9bd4f190e7244a0dfb7c9f09c727f096baae66.jpg",
-            "filename": "paste-739112332034049.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 121862
-        },
-        "9e642979ff36736fccdd76994c6335e700a490848c79ab59b01f8e8362e6cad3": {
-            "file": "images/9e642979ff36736fccdd76994c6335e700a490848c79ab59b01f8e8362e6cad3.jpg",
-            "filename": "paste-127517579018243.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 33438
-        },
         "a1599ffebf5425cd90ba97975cbc20256390e96c73f6f6e1189f38f48df67105": {
             "file": "images/a1599ffebf5425cd90ba97975cbc20256390e96c73f6f6e1189f38f48df67105.jpg",
             "filename": "paste-86951612907523.jpg",
@@ -62,12 +40,6 @@
             "filename": "paste-100188702113795.jpg",
             "mimeType": "image/jpeg",
             "bytes": 55299
-        },
-        "c8b9d5f2a975ba4a48bd1e627159c37063448236e6b20f88df50fa079c534c4d": {
-            "file": "images/c8b9d5f2a975ba4a48bd1e627159c37063448236e6b20f88df50fa079c534c4d.jpg",
-            "filename": "paste-104311870717955 (1).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 68950
         }
     }
 }

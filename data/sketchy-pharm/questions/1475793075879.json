@@ -18,30 +18,16 @@
         "$Sedatives&Hypnotics"
     ],
     "question": {
-        "text": "§\n\nWhat is the antidote to non-benzodiazepine overdose?",
+        "text": "What is the antidote to non-benzodiazepine overdose?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat is the antidote to non-benzodiazepine overdose?\n\nFlumazenil\n\n[Image: f29f080692d59fc26dcbc6feff0f3da6d809b801d20c567833a413d51a48eed5]\n\n1.2 - Nonbenzodiazepine hypnotics, melatonin, ramelteon\n[Image: c26e57369914287622e90ccbd794e296a902ef296815c1640698020c1992aa99]\n\n[Image: b2e336a8e131880ec626dba7cd8039faaa6d4bb85a01a024a73fd9b26685c692]",
+        "text": "Flumazenil\n\n[Image: f29f080692d59fc26dcbc6feff0f3da6d809b801d20c567833a413d51a48eed5]",
         "imageIds": [
-            "f29f080692d59fc26dcbc6feff0f3da6d809b801d20c567833a413d51a48eed5",
-            "c26e57369914287622e90ccbd794e296a902ef296815c1640698020c1992aa99",
-            "b2e336a8e131880ec626dba7cd8039faaa6d4bb85a01a024a73fd9b26685c692"
+            "f29f080692d59fc26dcbc6feff0f3da6d809b801d20c567833a413d51a48eed5"
         ]
     },
     "images": {
-        "b2e336a8e131880ec626dba7cd8039faaa6d4bb85a01a024a73fd9b26685c692": {
-            "file": "images/b2e336a8e131880ec626dba7cd8039faaa6d4bb85a01a024a73fd9b26685c692.jpg",
-            "filename": "paste-158260954923011.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 50982
-        },
-        "c26e57369914287622e90ccbd794e296a902ef296815c1640698020c1992aa99": {
-            "file": "images/c26e57369914287622e90ccbd794e296a902ef296815c1640698020c1992aa99.jpg",
-            "filename": "paste-825273670959105.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 119694
-        },
         "f29f080692d59fc26dcbc6feff0f3da6d809b801d20c567833a413d51a48eed5": {
             "file": "images/f29f080692d59fc26dcbc6feff0f3da6d809b801d20c567833a413d51a48eed5.jpg",
             "filename": "paste-8607114461187.jpg",

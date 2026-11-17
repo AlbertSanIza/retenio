@@ -18,29 +18,20 @@
         "$Other_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nWhat type of gram (-) infections can Flouroquinolones treat?",
+        "text": "What type of gram (-) infections can Flouroquinolones treat?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat type of gram (-) infections can Flouroquinolones treat?\n\n(1) Complicated UTIs\n\n(2) Pyelonephritis\n\n(3) Prostatitis\n\n(4) Gastroenteritis\n\n[Image: da3a88647ca49bcae31383799c7ab4a24270a0af4d2f91d049f39036fe219fca]\n\n[Image: e0ebeaf981150a5a14f438ac6cfac9d7572f829ede5da96d70271fa8ab6bbb4b]\n\n[Image: 81f21a90d873dd1ee1af1941d13916adbebd87c4216c4d3f5c64ff287d060762]\n\n[Image: 3faa5bd4a58aafbc4df0ed94820617753c6ac9eb42d4b5c2564357380a2cbe73]\n\n[Image: 32d20a1b6fd9dba32eddca7b1ce8d934cf7eb9636fdf296bbd77182db7d6a8e8]\n\n4.2 - Fluoroquinolones\n[Image: 46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1]\n\n[Image: 84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810]\n\n[Image: 1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff]",
+        "text": "(1) Complicated UTIs\n\n(2) Pyelonephritis\n\n(3) Prostatitis\n\n(4) Gastroenteritis\n\n[Image: da3a88647ca49bcae31383799c7ab4a24270a0af4d2f91d049f39036fe219fca]\n\n[Image: e0ebeaf981150a5a14f438ac6cfac9d7572f829ede5da96d70271fa8ab6bbb4b]\n\n[Image: 81f21a90d873dd1ee1af1941d13916adbebd87c4216c4d3f5c64ff287d060762]\n\n[Image: 3faa5bd4a58aafbc4df0ed94820617753c6ac9eb42d4b5c2564357380a2cbe73]\n\n[Image: 32d20a1b6fd9dba32eddca7b1ce8d934cf7eb9636fdf296bbd77182db7d6a8e8]",
         "imageIds": [
             "da3a88647ca49bcae31383799c7ab4a24270a0af4d2f91d049f39036fe219fca",
             "e0ebeaf981150a5a14f438ac6cfac9d7572f829ede5da96d70271fa8ab6bbb4b",
             "81f21a90d873dd1ee1af1941d13916adbebd87c4216c4d3f5c64ff287d060762",
             "3faa5bd4a58aafbc4df0ed94820617753c6ac9eb42d4b5c2564357380a2cbe73",
-            "32d20a1b6fd9dba32eddca7b1ce8d934cf7eb9636fdf296bbd77182db7d6a8e8",
-            "46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1",
-            "84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810",
-            "1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff"
+            "32d20a1b6fd9dba32eddca7b1ce8d934cf7eb9636fdf296bbd77182db7d6a8e8"
         ]
     },
     "images": {
-        "1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff": {
-            "file": "images/1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff.jpg",
-            "filename": "paste-418875275476995.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 59243
-        },
         "32d20a1b6fd9dba32eddca7b1ce8d934cf7eb9636fdf296bbd77182db7d6a8e8": {
             "file": "images/32d20a1b6fd9dba32eddca7b1ce8d934cf7eb9636fdf296bbd77182db7d6a8e8.jpg",
             "filename": "paste-224931732258819.jpg",
@@ -53,23 +44,11 @@
             "mimeType": "image/jpeg",
             "bytes": 38754
         },
-        "46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1": {
-            "file": "images/46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1.jpg",
-            "filename": "paste-257496174297089.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 119195
-        },
         "81f21a90d873dd1ee1af1941d13916adbebd87c4216c4d3f5c64ff287d060762": {
             "file": "images/81f21a90d873dd1ee1af1941d13916adbebd87c4216c4d3f5c64ff287d060762.jpg",
             "filename": "paste-225601747156995.jpg",
             "mimeType": "image/jpeg",
             "bytes": 34035
-        },
-        "84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810": {
-            "file": "images/84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810.jpg",
-            "filename": "paste-348472171560963.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 67900
         },
         "da3a88647ca49bcae31383799c7ab4a24270a0af4d2f91d049f39036fe219fca": {
             "file": "images/da3a88647ca49bcae31383799c7ab4a24270a0af4d2f91d049f39036fe219fca.jpg",

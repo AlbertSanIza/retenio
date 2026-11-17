@@ -18,16 +18,14 @@
         "$DNA_&_Cellular_Division"
     ],
     "question": {
-        "text": "§\n\nMOA: Actinomycin D",
+        "text": "MOA: Actinomycin D",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nMOA: Actinomycin D\n\nIntercalates DNA\n\n[Image: 6a8f42ab0117ad24519d8983b5f539715535282343c9efa0856f24734ce294e6]\n\n[Image: 02c33db45bbda4b6fcb661260c6e5d6a308aad1d2f707dd356f2cfcc323b72b9]\n\n2.3 - Bleomycin, doxorubicin, daunorubicin, actinomycin D\n[Image: d837b2ec4413cf7fca8a7c2eb4363f3ce0310892d5aef0467164ba5e4e896967]\n\n[Image: 16c44e405d839f2f3af173c3bea7fbd7a55058f769d085ae38803085248ffc91]",
+        "text": "Intercalates DNA\n\n[Image: 6a8f42ab0117ad24519d8983b5f539715535282343c9efa0856f24734ce294e6]\n\n[Image: 02c33db45bbda4b6fcb661260c6e5d6a308aad1d2f707dd356f2cfcc323b72b9]",
         "imageIds": [
             "6a8f42ab0117ad24519d8983b5f539715535282343c9efa0856f24734ce294e6",
-            "02c33db45bbda4b6fcb661260c6e5d6a308aad1d2f707dd356f2cfcc323b72b9",
-            "d837b2ec4413cf7fca8a7c2eb4363f3ce0310892d5aef0467164ba5e4e896967",
-            "16c44e405d839f2f3af173c3bea7fbd7a55058f769d085ae38803085248ffc91"
+            "02c33db45bbda4b6fcb661260c6e5d6a308aad1d2f707dd356f2cfcc323b72b9"
         ]
     },
     "images": {
@@ -37,23 +35,11 @@
             "mimeType": "image/jpeg",
             "bytes": 55770
         },
-        "16c44e405d839f2f3af173c3bea7fbd7a55058f769d085ae38803085248ffc91": {
-            "file": "images/16c44e405d839f2f3af173c3bea7fbd7a55058f769d085ae38803085248ffc91.jpg",
-            "filename": "paste-175058572017667.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 31096
-        },
         "6a8f42ab0117ad24519d8983b5f539715535282343c9efa0856f24734ce294e6": {
             "file": "images/6a8f42ab0117ad24519d8983b5f539715535282343c9efa0856f24734ce294e6.jpg",
             "filename": "paste-44336947396611.jpg",
             "mimeType": "image/jpeg",
             "bytes": 59774
-        },
-        "d837b2ec4413cf7fca8a7c2eb4363f3ce0310892d5aef0467164ba5e4e896967": {
-            "file": "images/d837b2ec4413cf7fca8a7c2eb4363f3ce0310892d5aef0467164ba5e4e896967.jpg",
-            "filename": "paste-371016454897665.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 112022
         }
     }
 }

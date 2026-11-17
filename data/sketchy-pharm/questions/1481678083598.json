@@ -18,77 +18,28 @@
         "$Anti-inflammatory"
     ],
     "question": {
-        "text": "§\n\nName 2 COX-2 selective antagonists",
+        "text": "Name 2 COX-2 selective antagonists",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 2 COX-2 selective antagonists\n\n(1) Celecoxib\n(2) Acetaminophen\n\n[Image: 1bb1dbe8cec55baf08a0a21cefc6a4f519dc9a9d6edcddebb662e9d5026c5d7b]\n\n[Image: 3bff9225d8b2155cab303668afd08d0e80333f0ed66e2ed76e1f05f5e4d9ff8a]\n\n3.1 - NSAIDs\n[Image: 49edae9fb6b61c742ab1ec590c3ccd72c55b9cee6f90a3510f101bb2aeafd075]\n\n[Image: be01556d0a9edc1e3ee92acf212fee5500ea23a6cad86d819219c19dc42aa5bb]\n\n[Image: bd78a3a4c103ea0ed274bd5ef754ad00174438c9fce7199d32239a53a34e7942]\n\n[Image: a09abee6ad5a84c5e948912aa4d09a6910a56c49466db92e12cae9b8f08908d3]\n\n[Image: 21f549501b36d1616894b1f5dcafb9faa34fcc787da3259419404bb46a3858f8]\n\n[Image: b41c26cf16765ec4c5de8753112f86a26eec8e25363e99d239b196c3f5606dfd]\n\n[Image: 13bd466f519ed3975e8a5543d9f6c9760bf12de1b89001b33b725ceb5d90be46]",
+        "text": "(1) Celecoxib\n(2) Acetaminophen\n\n[Image: 1bb1dbe8cec55baf08a0a21cefc6a4f519dc9a9d6edcddebb662e9d5026c5d7b]\n\n[Image: 3bff9225d8b2155cab303668afd08d0e80333f0ed66e2ed76e1f05f5e4d9ff8a]",
         "imageIds": [
             "1bb1dbe8cec55baf08a0a21cefc6a4f519dc9a9d6edcddebb662e9d5026c5d7b",
-            "3bff9225d8b2155cab303668afd08d0e80333f0ed66e2ed76e1f05f5e4d9ff8a",
-            "49edae9fb6b61c742ab1ec590c3ccd72c55b9cee6f90a3510f101bb2aeafd075",
-            "be01556d0a9edc1e3ee92acf212fee5500ea23a6cad86d819219c19dc42aa5bb",
-            "bd78a3a4c103ea0ed274bd5ef754ad00174438c9fce7199d32239a53a34e7942",
-            "a09abee6ad5a84c5e948912aa4d09a6910a56c49466db92e12cae9b8f08908d3",
-            "21f549501b36d1616894b1f5dcafb9faa34fcc787da3259419404bb46a3858f8",
-            "b41c26cf16765ec4c5de8753112f86a26eec8e25363e99d239b196c3f5606dfd",
-            "13bd466f519ed3975e8a5543d9f6c9760bf12de1b89001b33b725ceb5d90be46"
+            "3bff9225d8b2155cab303668afd08d0e80333f0ed66e2ed76e1f05f5e4d9ff8a"
         ]
     },
     "images": {
-        "13bd466f519ed3975e8a5543d9f6c9760bf12de1b89001b33b725ceb5d90be46": {
-            "file": "images/13bd466f519ed3975e8a5543d9f6c9760bf12de1b89001b33b725ceb5d90be46.jpg",
-            "filename": "paste-224652559384579.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 41330
-        },
         "1bb1dbe8cec55baf08a0a21cefc6a4f519dc9a9d6edcddebb662e9d5026c5d7b": {
             "file": "images/1bb1dbe8cec55baf08a0a21cefc6a4f519dc9a9d6edcddebb662e9d5026c5d7b.jpg",
             "filename": "paste-151947352997891.jpg",
             "mimeType": "image/jpeg",
             "bytes": 100016
         },
-        "21f549501b36d1616894b1f5dcafb9faa34fcc787da3259419404bb46a3858f8": {
-            "file": "images/21f549501b36d1616894b1f5dcafb9faa34fcc787da3259419404bb46a3858f8.jpg",
-            "filename": "paste-232039903133699.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 46818
-        },
         "3bff9225d8b2155cab303668afd08d0e80333f0ed66e2ed76e1f05f5e4d9ff8a": {
             "file": "images/3bff9225d8b2155cab303668afd08d0e80333f0ed66e2ed76e1f05f5e4d9ff8a.jpg",
             "filename": "paste-180839597998083.jpg",
             "mimeType": "image/jpeg",
             "bytes": 88539
-        },
-        "49edae9fb6b61c742ab1ec590c3ccd72c55b9cee6f90a3510f101bb2aeafd075": {
-            "file": "images/49edae9fb6b61c742ab1ec590c3ccd72c55b9cee6f90a3510f101bb2aeafd075.jpg",
-            "filename": "paste-577441173078017.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 168045
-        },
-        "a09abee6ad5a84c5e948912aa4d09a6910a56c49466db92e12cae9b8f08908d3": {
-            "file": "images/a09abee6ad5a84c5e948912aa4d09a6910a56c49466db92e12cae9b8f08908d3.jpg",
-            "filename": "paste-638021686788099.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 52480
-        },
-        "b41c26cf16765ec4c5de8753112f86a26eec8e25363e99d239b196c3f5606dfd": {
-            "file": "images/b41c26cf16765ec4c5de8753112f86a26eec8e25363e99d239b196c3f5606dfd.jpg",
-            "filename": "paste-644528562241539.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 71590
-        },
-        "bd78a3a4c103ea0ed274bd5ef754ad00174438c9fce7199d32239a53a34e7942": {
-            "file": "images/bd78a3a4c103ea0ed274bd5ef754ad00174438c9fce7199d32239a53a34e7942.jpg",
-            "filename": "paste-634817641185283.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 52199
-        },
-        "be01556d0a9edc1e3ee92acf212fee5500ea23a6cad86d819219c19dc42aa5bb": {
-            "file": "images/be01556d0a9edc1e3ee92acf212fee5500ea23a6cad86d819219c19dc42aa5bb.jpg",
-            "filename": "paste-147106924855299.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 42118
         }
     }
 }

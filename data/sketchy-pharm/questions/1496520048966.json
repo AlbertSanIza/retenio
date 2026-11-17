@@ -18,30 +18,16 @@
         "$Antivirals_HIV"
     ],
     "question": {
-        "text": "§\n\nWhich NNRTI is NOT contraindicated in pregnancy?",
+        "text": "Which NNRTI is NOT contraindicated in pregnancy?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhich NNRTI is NOT contraindicated in pregnancy?\n\nNevirapine\n\n(N in Nevirapine stands for No contraindication)\n\n[Image: edbdf8a1218085c0906779fc65e36f15552e6986c91ca06918ebd5f3bbec22a2]\n\n6.2 - NNRTI\u001b\n[Image: 6e4e85cbbd0e2b918a5c150a391f96aab11a292aa42b9523fc1e2e45a413d339]\n\n[Image: be98b4216c5d68e50cd98a0356a889ff0864cfa2016f168995903e3ecf166d4a]",
+        "text": "Nevirapine\n\n(N in Nevirapine stands for No contraindication)\n\n[Image: edbdf8a1218085c0906779fc65e36f15552e6986c91ca06918ebd5f3bbec22a2]",
         "imageIds": [
-            "edbdf8a1218085c0906779fc65e36f15552e6986c91ca06918ebd5f3bbec22a2",
-            "6e4e85cbbd0e2b918a5c150a391f96aab11a292aa42b9523fc1e2e45a413d339",
-            "be98b4216c5d68e50cd98a0356a889ff0864cfa2016f168995903e3ecf166d4a"
+            "edbdf8a1218085c0906779fc65e36f15552e6986c91ca06918ebd5f3bbec22a2"
         ]
     },
     "images": {
-        "6e4e85cbbd0e2b918a5c150a391f96aab11a292aa42b9523fc1e2e45a413d339": {
-            "file": "images/6e4e85cbbd0e2b918a5c150a391f96aab11a292aa42b9523fc1e2e45a413d339.jpg",
-            "filename": "paste-289566695096321.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 138607
-        },
-        "be98b4216c5d68e50cd98a0356a889ff0864cfa2016f168995903e3ecf166d4a": {
-            "file": "images/be98b4216c5d68e50cd98a0356a889ff0864cfa2016f168995903e3ecf166d4a.jpg",
-            "filename": "paste-544193831239683.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 19209
-        },
         "edbdf8a1218085c0906779fc65e36f15552e6986c91ca06918ebd5f3bbec22a2": {
             "file": "images/edbdf8a1218085c0906779fc65e36f15552e6986c91ca06918ebd5f3bbec22a2.jpg",
             "filename": "paste-119601954291715.jpg",

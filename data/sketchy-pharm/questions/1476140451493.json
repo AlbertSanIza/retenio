@@ -18,56 +18,21 @@
         "$Thyroid,Parathyroid,Adrenal"
     ],
     "question": {
-        "text": "§\n\nHow do glucocorticoids prevent leukocyte migration?",
+        "text": "How do glucocorticoids prevent leukocyte migration?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nHow do glucocorticoids prevent leukocyte migration?\n\nInhibit adhesion molecules\n\n(∴ Also increase WBC count ∵ less WBCs are attached to endothelium and more are freely floating in blood)\n\n[Image: ba0a89f81d0ef35cd813067318e9b28093bf68d7e9d8d9980c52bcc93767b22c]\n\n3.4 - Glucocorticoids\n[Image: 8782e1fa9875bf1abad5723216f82e1897bb530842df1d04670ff6258ee86e46]\n\n[Image: c0764384804c36bab528ee9d9c6193d1e16a690ba14d667866ee1ba1ce648625]\n\n[Image: f04eb58d576a330ed45eb4c270f4e7dde85b97ef711e2284dce85d0a06f988ea]\n\n[Image: 6ba28e2541d4d4c868034ba6bb2eb020c8b8f51436ae6dc016d59880fc4401c3]\n\n[Image: 2c15b82af7337d4ce87455c5c1e0ec7477878a45d0575543505a74af40924e47]",
+        "text": "Inhibit adhesion molecules\n\n(∴ Also increase WBC count ∵ less WBCs are attached to endothelium and more are freely floating in blood)\n\n[Image: ba0a89f81d0ef35cd813067318e9b28093bf68d7e9d8d9980c52bcc93767b22c]",
         "imageIds": [
-            "ba0a89f81d0ef35cd813067318e9b28093bf68d7e9d8d9980c52bcc93767b22c",
-            "8782e1fa9875bf1abad5723216f82e1897bb530842df1d04670ff6258ee86e46",
-            "c0764384804c36bab528ee9d9c6193d1e16a690ba14d667866ee1ba1ce648625",
-            "f04eb58d576a330ed45eb4c270f4e7dde85b97ef711e2284dce85d0a06f988ea",
-            "6ba28e2541d4d4c868034ba6bb2eb020c8b8f51436ae6dc016d59880fc4401c3",
-            "2c15b82af7337d4ce87455c5c1e0ec7477878a45d0575543505a74af40924e47"
+            "ba0a89f81d0ef35cd813067318e9b28093bf68d7e9d8d9980c52bcc93767b22c"
         ]
     },
     "images": {
-        "2c15b82af7337d4ce87455c5c1e0ec7477878a45d0575543505a74af40924e47": {
-            "file": "images/2c15b82af7337d4ce87455c5c1e0ec7477878a45d0575543505a74af40924e47.jpg",
-            "filename": "paste-741667837575171.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 43556
-        },
-        "6ba28e2541d4d4c868034ba6bb2eb020c8b8f51436ae6dc016d59880fc4401c3": {
-            "file": "images/6ba28e2541d4d4c868034ba6bb2eb020c8b8f51436ae6dc016d59880fc4401c3.jpg",
-            "filename": "paste-750068793606145.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 97303
-        },
-        "8782e1fa9875bf1abad5723216f82e1897bb530842df1d04670ff6258ee86e46": {
-            "file": "images/8782e1fa9875bf1abad5723216f82e1897bb530842df1d04670ff6258ee86e46.jpg",
-            "filename": "paste-754733128089601.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 120213
-        },
         "ba0a89f81d0ef35cd813067318e9b28093bf68d7e9d8d9980c52bcc93767b22c": {
             "file": "images/ba0a89f81d0ef35cd813067318e9b28093bf68d7e9d8d9980c52bcc93767b22c.jpg",
             "filename": "paste-109431471734787.jpg",
             "mimeType": "image/jpeg",
             "bytes": 47537
-        },
-        "c0764384804c36bab528ee9d9c6193d1e16a690ba14d667866ee1ba1ce648625": {
-            "file": "images/c0764384804c36bab528ee9d9c6193d1e16a690ba14d667866ee1ba1ce648625.jpg",
-            "filename": "paste-716709782618115.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 35849
-        },
-        "f04eb58d576a330ed45eb4c270f4e7dde85b97ef711e2284dce85d0a06f988ea": {
-            "file": "images/f04eb58d576a330ed45eb4c270f4e7dde85b97ef711e2284dce85d0a06f988ea.jpg",
-            "filename": "paste-115135188303875.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 102134
         }
     }
 }

@@ -18,17 +18,14 @@
         "$Parasympathetics"
     ],
     "question": {
-        "text": "§\n\nName 2 antimuscarinics used to treat Parkinsons",
+        "text": "Name 2 antimuscarinics used to treat Parkinsons",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 2 antimuscarinics used to treat Parkinsons\n\n(1) Benztropine\n(2) Trihexyphenidyl\n\n[Image: b0e01da29a49bf71166e83cdc105e79217c6920a35dbde393e9be0f94fa33743]\n\n[Image: 27d82610f5d2522ccff7f4ddceb31da7bc721fac2d7761d981601277a6e59e44]\n\n1.3 - Muscarinic antagonists\n[Image: f73d6be268d365a8c4123fc0e98df1066190c1efc71673333616184892da529b]\n\n[Image: 7c05b0090af8ae7faec17530a195689bbf153c4d8bb8fa549221f2bb5de04ee5]\n\n[Image: 2b2c8378624553f80b20e849b6117074679044004a47259538cd43e16b393c4e]",
+        "text": "(1) Benztropine\n(2) Trihexyphenidyl\n\n[Image: b0e01da29a49bf71166e83cdc105e79217c6920a35dbde393e9be0f94fa33743]\n\n[Image: 27d82610f5d2522ccff7f4ddceb31da7bc721fac2d7761d981601277a6e59e44]",
         "imageIds": [
             "b0e01da29a49bf71166e83cdc105e79217c6920a35dbde393e9be0f94fa33743",
-            "27d82610f5d2522ccff7f4ddceb31da7bc721fac2d7761d981601277a6e59e44",
-            "f73d6be268d365a8c4123fc0e98df1066190c1efc71673333616184892da529b",
-            "7c05b0090af8ae7faec17530a195689bbf153c4d8bb8fa549221f2bb5de04ee5",
-            "2b2c8378624553f80b20e849b6117074679044004a47259538cd43e16b393c4e"
+            "27d82610f5d2522ccff7f4ddceb31da7bc721fac2d7761d981601277a6e59e44"
         ]
     },
     "images": {
@@ -38,29 +35,11 @@
             "mimeType": "image/jpeg",
             "bytes": 92781
         },
-        "2b2c8378624553f80b20e849b6117074679044004a47259538cd43e16b393c4e": {
-            "file": "images/2b2c8378624553f80b20e849b6117074679044004a47259538cd43e16b393c4e.jpg",
-            "filename": "paste-600170140008451.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 58091
-        },
-        "7c05b0090af8ae7faec17530a195689bbf153c4d8bb8fa549221f2bb5de04ee5": {
-            "file": "images/7c05b0090af8ae7faec17530a195689bbf153c4d8bb8fa549221f2bb5de04ee5.jpg",
-            "filename": "paste-598503692697603.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 52321
-        },
         "b0e01da29a49bf71166e83cdc105e79217c6920a35dbde393e9be0f94fa33743": {
             "file": "images/b0e01da29a49bf71166e83cdc105e79217c6920a35dbde393e9be0f94fa33743.jpg",
             "filename": "paste-16793322127363.jpg",
             "mimeType": "image/jpeg",
             "bytes": 62181
-        },
-        "f73d6be268d365a8c4123fc0e98df1066190c1efc71673333616184892da529b": {
-            "file": "images/f73d6be268d365a8c4123fc0e98df1066190c1efc71673333616184892da529b.jpg",
-            "filename": "paste-417874548097025.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 147252
         }
     }
 }

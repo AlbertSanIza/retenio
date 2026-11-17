@@ -18,38 +18,17 @@
         "$Inhibitors_of_Bacterial_Protein_Synthesis"
     ],
     "question": {
-        "text": "§\n\nWhat antibiotic is given as prophylaxis for Mycobacterium intracellulare when CD4 < 50?",
+        "text": "What antibiotic is given as prophylaxis for Mycobacterium intracellulare when CD4 < 50?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat antibiotic is given as prophylaxis for Mycobacterium intracellulare when CD4 < 50?\n\nAzithromycin\n\n[Image: f9df40266062092710b9faa882fbd9817f664133b12667e89b4bb4ae2bb7a5ab]\n\n[Image: f83096aef8a579bcaafe5454b200295579fd7a1470a3db831ae71fb0abb64eaa]\n\n2.2 - Macrolides\n[Image: 190939fabc0a82c201a2fd0c7090bd1746588a112f195201fc2f6a33cc26863a]\n\n[Image: 8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4]\n\n[Image: 373392e6d05258c8e0d2b36a5a062a3a132376066d7db21faa388d4669c4a3fd]",
+        "text": "Azithromycin\n\n[Image: f9df40266062092710b9faa882fbd9817f664133b12667e89b4bb4ae2bb7a5ab]\n\n[Image: f83096aef8a579bcaafe5454b200295579fd7a1470a3db831ae71fb0abb64eaa]",
         "imageIds": [
             "f9df40266062092710b9faa882fbd9817f664133b12667e89b4bb4ae2bb7a5ab",
-            "f83096aef8a579bcaafe5454b200295579fd7a1470a3db831ae71fb0abb64eaa",
-            "190939fabc0a82c201a2fd0c7090bd1746588a112f195201fc2f6a33cc26863a",
-            "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4",
-            "373392e6d05258c8e0d2b36a5a062a3a132376066d7db21faa388d4669c4a3fd"
+            "f83096aef8a579bcaafe5454b200295579fd7a1470a3db831ae71fb0abb64eaa"
         ]
     },
     "images": {
-        "190939fabc0a82c201a2fd0c7090bd1746588a112f195201fc2f6a33cc26863a": {
-            "file": "images/190939fabc0a82c201a2fd0c7090bd1746588a112f195201fc2f6a33cc26863a.jpg",
-            "filename": "paste-219288145231873.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 112000
-        },
-        "373392e6d05258c8e0d2b36a5a062a3a132376066d7db21faa388d4669c4a3fd": {
-            "file": "images/373392e6d05258c8e0d2b36a5a062a3a132376066d7db21faa388d4669c4a3fd.jpg",
-            "filename": "paste-407523676913667.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 61060
-        },
-        "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4": {
-            "file": "images/8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4.jpg",
-            "filename": "paste-321710230339587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 76271
-        },
         "f83096aef8a579bcaafe5454b200295579fd7a1470a3db831ae71fb0abb64eaa": {
             "file": "images/f83096aef8a579bcaafe5454b200295579fd7a1470a3db831ae71fb0abb64eaa.jpg",
             "filename": "paste-11948599017475.jpg",

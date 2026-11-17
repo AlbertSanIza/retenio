@@ -18,18 +18,15 @@
         "$Other_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nWhat type of antibiotic should you use to treat osteomyelitis in a sickle cell patient?",
+        "text": "What type of antibiotic should you use to treat osteomyelitis in a sickle cell patient?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat type of antibiotic should you use to treat osteomyelitis in a sickle cell patient?\n\nFlouroquinolone\n\n[Image: 097899506bf4e3e04b9a182db8b0e350173d9b4f64f0fd30d298127b375868e2]\n\n[Image: 4f87b7159e392edff1c63497a7a343b8f3854317468017d346c191b4ee7e8c08]\n\n[Image: bea2aa2c8a0817fb3b078cdabd8abbbf45c541edc80bb479202beb67851e56ca]\n\n4.2 - Fluoroquinolones\n[Image: 46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1]\n\n[Image: 84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810]\n\n[Image: 1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff]",
+        "text": "Flouroquinolone\n\n[Image: 097899506bf4e3e04b9a182db8b0e350173d9b4f64f0fd30d298127b375868e2]\n\n[Image: 4f87b7159e392edff1c63497a7a343b8f3854317468017d346c191b4ee7e8c08]\n\n[Image: bea2aa2c8a0817fb3b078cdabd8abbbf45c541edc80bb479202beb67851e56ca]",
         "imageIds": [
             "097899506bf4e3e04b9a182db8b0e350173d9b4f64f0fd30d298127b375868e2",
             "4f87b7159e392edff1c63497a7a343b8f3854317468017d346c191b4ee7e8c08",
-            "bea2aa2c8a0817fb3b078cdabd8abbbf45c541edc80bb479202beb67851e56ca",
-            "46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1",
-            "84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810",
-            "1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff"
+            "bea2aa2c8a0817fb3b078cdabd8abbbf45c541edc80bb479202beb67851e56ca"
         ]
     },
     "images": {
@@ -39,29 +36,11 @@
             "mimeType": "image/jpeg",
             "bytes": 39363
         },
-        "1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff": {
-            "file": "images/1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff.jpg",
-            "filename": "paste-418875275476995.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 59243
-        },
-        "46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1": {
-            "file": "images/46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1.jpg",
-            "filename": "paste-257496174297089.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 119195
-        },
         "4f87b7159e392edff1c63497a7a343b8f3854317468017d346c191b4ee7e8c08": {
             "file": "images/4f87b7159e392edff1c63497a7a343b8f3854317468017d346c191b4ee7e8c08.jpg",
             "filename": "paste-225988294213635.jpg",
             "mimeType": "image/jpeg",
             "bytes": 40460
-        },
-        "84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810": {
-            "file": "images/84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810.jpg",
-            "filename": "paste-348472171560963.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 67900
         },
         "bea2aa2c8a0817fb3b078cdabd8abbbf45c541edc80bb479202beb67851e56ca": {
             "file": "images/bea2aa2c8a0817fb3b078cdabd8abbbf45c541edc80bb479202beb67851e56ca.jpg",

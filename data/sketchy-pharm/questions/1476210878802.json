@@ -18,43 +18,22 @@
         "$Diuretics"
     ],
     "question": {
-        "text": "§\n\nIs the renal tubule Na+/K+ ATPase located on the apical or basolateral membrane?",
+        "text": "Is the renal tubule Na+/K+ ATPase located on the apical or basolateral membrane?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nIs the renal tubule Na+/K+ ATPase located on the apical or basolateral membrane?\n\nBasolateral\n\n(Yellow tract is tubular lumen, gray track is intracellular compartment)\n\n[Image: e2404f677d11dc430adad20532fc8ad29555c4a61a0a903de60adbc6fb960420]\n\n[Image: 7fd1745cab8ae520235143523263a409cd25869b748229d5aa64cec7e4620b33]\n\n2.1 - Acetazolamide, mannitol\n[Image: c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311]\n\n[Image: 61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650]\n\n[Image: b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b]",
+        "text": "Basolateral\n\n(Yellow tract is tubular lumen, gray track is intracellular compartment)\n\n[Image: e2404f677d11dc430adad20532fc8ad29555c4a61a0a903de60adbc6fb960420]\n\n[Image: 7fd1745cab8ae520235143523263a409cd25869b748229d5aa64cec7e4620b33]",
         "imageIds": [
             "e2404f677d11dc430adad20532fc8ad29555c4a61a0a903de60adbc6fb960420",
-            "7fd1745cab8ae520235143523263a409cd25869b748229d5aa64cec7e4620b33",
-            "c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311",
-            "61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650",
-            "b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b"
+            "7fd1745cab8ae520235143523263a409cd25869b748229d5aa64cec7e4620b33"
         ]
     },
     "images": {
-        "61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650": {
-            "file": "images/61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650.jpg",
-            "filename": "paste-193866233806851.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 57827
-        },
         "7fd1745cab8ae520235143523263a409cd25869b748229d5aa64cec7e4620b33": {
             "file": "images/7fd1745cab8ae520235143523263a409cd25869b748229d5aa64cec7e4620b33.jpg",
             "filename": "paste-48945447305219.jpg",
             "mimeType": "image/jpeg",
             "bytes": 36075
-        },
-        "b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b": {
-            "file": "images/b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b.jpg",
-            "filename": "paste-195395242164227.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 82442
-        },
-        "c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311": {
-            "file": "images/c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311.jpg",
-            "filename": "paste-612616955232257.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 146047
         },
         "e2404f677d11dc430adad20532fc8ad29555c4a61a0a903de60adbc6fb960420": {
             "file": "images/e2404f677d11dc430adad20532fc8ad29555c4a61a0a903de60adbc6fb960420.jpg",

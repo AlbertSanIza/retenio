@@ -18,21 +18,16 @@
         "$Anticoagulants&Thrombolytics"
     ],
     "question": {
-        "text": "§\n\nAdverse Effects (4) : Heparin",
+        "text": "Adverse Effects (4) : Heparin",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAdverse Effects (4) : Heparin\n\n(1) Heparin induced thromboytopenia\n\n(2) Hypoaldosteronism\n\n(3) Osteoporosis\n\n(4) Type IV RTA\n\n(Type 4 renal tubular acidosis)\n\n[Image: 05a998a2de8e8337f369baaf7fcf4cbc36a8d0101357b1b9fc97c153382f9eb2]\n\n[Image: 9a425fc6585fd53820cfce37ea7f3232722449f579b846b670ca7e510eda3b05]\n\n[Image: 22ddbca9125ff1bec5c5c5815fb33ef18654fa5b0a950259b3111d3c1932571d]\n\n[Image: 5b4dac9b81f8eea98563a1604d073cafc0dc28fc4bffed22547d9f5545039949]\n\n1.1 - Heparin, LMWH, fondaparinux, direct thrombin inhibitors, Xa inhibitors\n[Image: 277d6dd93c909a56ac4e048c44946e2dc9d1d89ef7a2e08080907883effa15d2]\n\n[Image: d624a8546655626b1e42c79e187169ee90ebf7b99d981f03e5e2edc92694e8e3]\n\n[Image: 5d42a451f5c6a755eb006684c27a5cc45128caabaa215f87f7db276b2cd69879]\n\n[Image: 1bb3d14dc3c487ed27252bc52651a1ed2c6900dc98a4091f4176866ee6ecb743]\n\n[Image: 92987436a5377d1532749c2f3493cb39490738e8019a390ae9188e6795476d2f]",
+        "text": "(1) Heparin induced thromboytopenia\n\n(2) Hypoaldosteronism\n\n(3) Osteoporosis\n\n(4) Type IV RTA\n\n(Type 4 renal tubular acidosis)\n\n[Image: 05a998a2de8e8337f369baaf7fcf4cbc36a8d0101357b1b9fc97c153382f9eb2]\n\n[Image: 9a425fc6585fd53820cfce37ea7f3232722449f579b846b670ca7e510eda3b05]\n\n[Image: 22ddbca9125ff1bec5c5c5815fb33ef18654fa5b0a950259b3111d3c1932571d]\n\n[Image: 5b4dac9b81f8eea98563a1604d073cafc0dc28fc4bffed22547d9f5545039949]",
         "imageIds": [
             "05a998a2de8e8337f369baaf7fcf4cbc36a8d0101357b1b9fc97c153382f9eb2",
             "9a425fc6585fd53820cfce37ea7f3232722449f579b846b670ca7e510eda3b05",
             "22ddbca9125ff1bec5c5c5815fb33ef18654fa5b0a950259b3111d3c1932571d",
-            "5b4dac9b81f8eea98563a1604d073cafc0dc28fc4bffed22547d9f5545039949",
-            "277d6dd93c909a56ac4e048c44946e2dc9d1d89ef7a2e08080907883effa15d2",
-            "d624a8546655626b1e42c79e187169ee90ebf7b99d981f03e5e2edc92694e8e3",
-            "5d42a451f5c6a755eb006684c27a5cc45128caabaa215f87f7db276b2cd69879",
-            "1bb3d14dc3c487ed27252bc52651a1ed2c6900dc98a4091f4176866ee6ecb743",
-            "92987436a5377d1532749c2f3493cb39490738e8019a390ae9188e6795476d2f"
+            "5b4dac9b81f8eea98563a1604d073cafc0dc28fc4bffed22547d9f5545039949"
         ]
     },
     "images": {
@@ -42,23 +37,11 @@
             "mimeType": "image/jpeg",
             "bytes": 84848
         },
-        "1bb3d14dc3c487ed27252bc52651a1ed2c6900dc98a4091f4176866ee6ecb743": {
-            "file": "images/1bb3d14dc3c487ed27252bc52651a1ed2c6900dc98a4091f4176866ee6ecb743.jpg",
-            "filename": "paste-379640749228035.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 34387
-        },
         "22ddbca9125ff1bec5c5c5815fb33ef18654fa5b0a950259b3111d3c1932571d": {
             "file": "images/22ddbca9125ff1bec5c5c5815fb33ef18654fa5b0a950259b3111d3c1932571d.jpg",
             "filename": "paste-88210038325251.jpg",
             "mimeType": "image/jpeg",
             "bytes": 83504
-        },
-        "277d6dd93c909a56ac4e048c44946e2dc9d1d89ef7a2e08080907883effa15d2": {
-            "file": "images/277d6dd93c909a56ac4e048c44946e2dc9d1d89ef7a2e08080907883effa15d2.jpg",
-            "filename": "paste-6240587481091.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 95047
         },
         "5b4dac9b81f8eea98563a1604d073cafc0dc28fc4bffed22547d9f5545039949": {
             "file": "images/5b4dac9b81f8eea98563a1604d073cafc0dc28fc4bffed22547d9f5545039949.jpg",
@@ -66,29 +49,11 @@
             "mimeType": "image/jpeg",
             "bytes": 83596
         },
-        "5d42a451f5c6a755eb006684c27a5cc45128caabaa215f87f7db276b2cd69879": {
-            "file": "images/5d42a451f5c6a755eb006684c27a5cc45128caabaa215f87f7db276b2cd69879.jpg",
-            "filename": "paste-378227704987651.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 132847
-        },
-        "92987436a5377d1532749c2f3493cb39490738e8019a390ae9188e6795476d2f": {
-            "file": "images/92987436a5377d1532749c2f3493cb39490738e8019a390ae9188e6795476d2f.jpg",
-            "filename": "paste-387341625589763.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 79733
-        },
         "9a425fc6585fd53820cfce37ea7f3232722449f579b846b670ca7e510eda3b05": {
             "file": "images/9a425fc6585fd53820cfce37ea7f3232722449f579b846b670ca7e510eda3b05.jpg",
             "filename": "paste-87849261072387.jpg",
             "mimeType": "image/jpeg",
             "bytes": 83657
-        },
-        "d624a8546655626b1e42c79e187169ee90ebf7b99d981f03e5e2edc92694e8e3": {
-            "file": "images/d624a8546655626b1e42c79e187169ee90ebf7b99d981f03e5e2edc92694e8e3.jpg",
-            "filename": "paste-33981781245955.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 107746
         }
     }
 }

@@ -18,15 +18,13 @@
         "$Sedatives&Hypnotics"
     ],
     "question": {
-        "text": "§\n\nTreatment: Essential tremor",
+        "text": "Treatment: Essential tremor",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nTreatment: Essential tremor\n\nPrimidone + Propanolol\n\n[Image: 40ed0e01aa2a2fb15b0ba9d221bdc192de4bd05b084105f8ca214931c3923a18]\n\n1.3 - Barbiturates\n[Image: a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4]\n\n[Image: e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6]",
+        "text": "Primidone + Propanolol\n\n[Image: 40ed0e01aa2a2fb15b0ba9d221bdc192de4bd05b084105f8ca214931c3923a18]",
         "imageIds": [
-            "40ed0e01aa2a2fb15b0ba9d221bdc192de4bd05b084105f8ca214931c3923a18",
-            "a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4",
-            "e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6"
+            "40ed0e01aa2a2fb15b0ba9d221bdc192de4bd05b084105f8ca214931c3923a18"
         ]
     },
     "images": {
@@ -35,18 +33,6 @@
             "filename": "paste-9977209028611 (1).jpg",
             "mimeType": "image/jpeg",
             "bytes": 81450
-        },
-        "a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4": {
-            "file": "images/a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4.jpg",
-            "filename": "paste-829706077208577.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 146002
-        },
-        "e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6": {
-            "file": "images/e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6.jpg",
-            "filename": "paste-160709086281731.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 53669
         }
     }
 }

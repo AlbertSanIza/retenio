@@ -18,22 +18,16 @@
         "$Antipsychotics_&_Parkinsons"
     ],
     "question": {
-        "text": "§\n\nAdverse Effects - Acute therapy (4) : L-DOPA",
+        "text": "Adverse Effects - Acute therapy (4) : L-DOPA",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAdverse Effects - Acute therapy (4) : L-DOPA\n\nDue to increased PERIPHERAL Dopamine:\n\n(1) GI distress\n(2) Cardiac arrhythmia\n\n(3) Orthostatic hypotension\n\nDue to increased CENTRAL Dopamine:\n\n(4) Neuropsychiatric symptoms\n\n(↑ Dopamine in chemotrigger zone outside BBB ⇒ Nausea. Antipsychotics can be used to treat CNS symptoms)\n\n[Image: 9f652e45a84374b3269736d4ee96a55b8f74125358ac5dcbab68a2659f012f39]\n\n[Image: fbe02242a34f69391049267fc293f10d5cadf6e1eaa63452698cd2c84770e72a]\n\n[Image: 5d7b3c06a150b7d9cdccaef9c5e5f817ff90790bc2b9b7dfa93d788ab6c19760]\n\n[Image: 31df1372c6ac00d35056b94725ed901dd3e303c45895ec04554a823db0efaaad]\n\n5.3 - Levodopa/carbidopa, entacapone, tolcapone, selegiline, ropinirole, pramipexole, amantadine\n[Image: 4c52000b31f9fd212d2c05df63fca40e79e8d7a0cdbe062102b5f34c80adaec2]\n\n[Image: f800f088dc48d94759751b37fecbf710fbe5748729f4fe3267e00c78039d1f39]\n\n[Image: bb7b2fc62457f43096878aa768cc7ee5a9156b0cd10a607ae61eb1e8c87ce013]\n\n[Image: d718d5fe550b992855dd38fc6e58d4669b51d662bd4139833eac03d8d482f703]\n\n[Image: 64fcb46e063f2fe0ea22a5d83f5e357b48a503c46d5b5486580c84f58f7def20]\n\n[Image: 8ec855a71c433ab36ccfa1d63c6b342b86485927e37adacfa5d0bef1074e64ef]",
+        "text": "Due to increased PERIPHERAL Dopamine:\n\n(1) GI distress\n(2) Cardiac arrhythmia\n\n(3) Orthostatic hypotension\n\nDue to increased CENTRAL Dopamine:\n\n(4) Neuropsychiatric symptoms\n\n(↑ Dopamine in chemotrigger zone outside BBB ⇒ Nausea. Antipsychotics can be used to treat CNS symptoms)\n\n[Image: 9f652e45a84374b3269736d4ee96a55b8f74125358ac5dcbab68a2659f012f39]\n\n[Image: fbe02242a34f69391049267fc293f10d5cadf6e1eaa63452698cd2c84770e72a]\n\n[Image: 5d7b3c06a150b7d9cdccaef9c5e5f817ff90790bc2b9b7dfa93d788ab6c19760]\n\n[Image: 31df1372c6ac00d35056b94725ed901dd3e303c45895ec04554a823db0efaaad]",
         "imageIds": [
             "9f652e45a84374b3269736d4ee96a55b8f74125358ac5dcbab68a2659f012f39",
             "fbe02242a34f69391049267fc293f10d5cadf6e1eaa63452698cd2c84770e72a",
             "5d7b3c06a150b7d9cdccaef9c5e5f817ff90790bc2b9b7dfa93d788ab6c19760",
-            "31df1372c6ac00d35056b94725ed901dd3e303c45895ec04554a823db0efaaad",
-            "4c52000b31f9fd212d2c05df63fca40e79e8d7a0cdbe062102b5f34c80adaec2",
-            "f800f088dc48d94759751b37fecbf710fbe5748729f4fe3267e00c78039d1f39",
-            "bb7b2fc62457f43096878aa768cc7ee5a9156b0cd10a607ae61eb1e8c87ce013",
-            "d718d5fe550b992855dd38fc6e58d4669b51d662bd4139833eac03d8d482f703",
-            "64fcb46e063f2fe0ea22a5d83f5e357b48a503c46d5b5486580c84f58f7def20",
-            "8ec855a71c433ab36ccfa1d63c6b342b86485927e37adacfa5d0bef1074e64ef"
+            "31df1372c6ac00d35056b94725ed901dd3e303c45895ec04554a823db0efaaad"
         ]
     },
     "images": {
@@ -43,53 +37,17 @@
             "mimeType": "image/jpeg",
             "bytes": 62091
         },
-        "4c52000b31f9fd212d2c05df63fca40e79e8d7a0cdbe062102b5f34c80adaec2": {
-            "file": "images/4c52000b31f9fd212d2c05df63fca40e79e8d7a0cdbe062102b5f34c80adaec2.jpg",
-            "filename": "paste-193148974268419.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 119101
-        },
         "5d7b3c06a150b7d9cdccaef9c5e5f817ff90790bc2b9b7dfa93d788ab6c19760": {
             "file": "images/5d7b3c06a150b7d9cdccaef9c5e5f817ff90790bc2b9b7dfa93d788ab6c19760.jpg",
             "filename": "paste-210616606261251.jpg",
             "mimeType": "image/jpeg",
             "bytes": 54610
         },
-        "64fcb46e063f2fe0ea22a5d83f5e357b48a503c46d5b5486580c84f58f7def20": {
-            "file": "images/64fcb46e063f2fe0ea22a5d83f5e357b48a503c46d5b5486580c84f58f7def20.jpg",
-            "filename": "paste-333104778575875.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 72587
-        },
-        "8ec855a71c433ab36ccfa1d63c6b342b86485927e37adacfa5d0bef1074e64ef": {
-            "file": "images/8ec855a71c433ab36ccfa1d63c6b342b86485927e37adacfa5d0bef1074e64ef.jpg",
-            "filename": "paste-336162795290627.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 83364
-        },
         "9f652e45a84374b3269736d4ee96a55b8f74125358ac5dcbab68a2659f012f39": {
             "file": "images/9f652e45a84374b3269736d4ee96a55b8f74125358ac5dcbab68a2659f012f39.jpg",
             "filename": "paste-204466213093379.jpg",
             "mimeType": "image/jpeg",
             "bytes": 51925
-        },
-        "bb7b2fc62457f43096878aa768cc7ee5a9156b0cd10a607ae61eb1e8c87ce013": {
-            "file": "images/bb7b2fc62457f43096878aa768cc7ee5a9156b0cd10a607ae61eb1e8c87ce013.jpg",
-            "filename": "paste-56775172685827.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 83251
-        },
-        "d718d5fe550b992855dd38fc6e58d4669b51d662bd4139833eac03d8d482f703": {
-            "file": "images/d718d5fe550b992855dd38fc6e58d4669b51d662bd4139833eac03d8d482f703.jpg",
-            "filename": "paste-329947977613315.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 142035
-        },
-        "f800f088dc48d94759751b37fecbf710fbe5748729f4fe3267e00c78039d1f39": {
-            "file": "images/f800f088dc48d94759751b37fecbf710fbe5748729f4fe3267e00c78039d1f39.jpg",
-            "filename": "paste-13975823581187 (1).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 21438
         },
         "fbe02242a34f69391049267fc293f10d5cadf6e1eaa63452698cd2c84770e72a": {
             "file": "images/fbe02242a34f69391049267fc293f10d5cadf6e1eaa63452698cd2c84770e72a.jpg",

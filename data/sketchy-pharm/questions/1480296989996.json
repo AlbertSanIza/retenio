@@ -18,30 +18,16 @@
         "$Antimetabolites"
     ],
     "question": {
-        "text": "§\n\nWhat is the most effective pharmacologic treatment for hairy cell leukemia?",
+        "text": "What is the most effective pharmacologic treatment for hairy cell leukemia?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat is the most effective pharmacologic treatment for hairy cell leukemia?\n\nCladribine\n\n[Image: 9d4eb14cb0fc7a34eec721a5ca5f6504b7839dddcf53000426218eff3d4379e5]\n\n1.3 - Cladribine, cytarabine, gemcitabine\n[Image: 11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce]\n\n[Image: 517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a]",
+        "text": "Cladribine\n\n[Image: 9d4eb14cb0fc7a34eec721a5ca5f6504b7839dddcf53000426218eff3d4379e5]",
         "imageIds": [
-            "9d4eb14cb0fc7a34eec721a5ca5f6504b7839dddcf53000426218eff3d4379e5",
-            "11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce",
-            "517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a"
+            "9d4eb14cb0fc7a34eec721a5ca5f6504b7839dddcf53000426218eff3d4379e5"
         ]
     },
     "images": {
-        "11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce": {
-            "file": "images/11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce.jpg",
-            "filename": "paste-350980432461825.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 98866
-        },
-        "517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a": {
-            "file": "images/517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a.jpg",
-            "filename": "paste-156474248527875.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 31622
-        },
         "9d4eb14cb0fc7a34eec721a5ca5f6504b7839dddcf53000426218eff3d4379e5": {
             "file": "images/9d4eb14cb0fc7a34eec721a5ca5f6504b7839dddcf53000426218eff3d4379e5.jpg",
             "filename": "paste-64377264799747.jpg",

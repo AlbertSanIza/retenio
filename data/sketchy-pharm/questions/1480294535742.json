@@ -18,50 +18,22 @@
         "$Antimetabolites"
     ],
     "question": {
-        "text": "§\n\nWhat reaction does ribonucleotide reductase catalyze?",
+        "text": "What reaction does ribonucleotide reductase catalyze?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat reaction does ribonucleotide reductase catalyze?\n\nUDP ⇒ dUDP\n\n(Notice progression from UDP → dUDP → dUMP)\n\n[Image: 83bcfa7872b3432e55883324ce3a0cf8d382d416690cf042273db361c44e694e]\n\n[Image: ee54364bd540b4a3e1b294e9342b97e04e70adfb64df1dfc55acff843f2463f2]\n\n1.1 - Methotrexate, leucovorin, 5-fluorouracil, hydroxyurea\n[Image: 62d369da2900702f60cd36e1bc35c329bfe8271149816eac8050ac0c1b8bfd14]\n\n[Image: ed347b61d9a5db6d536463b914491c82ed7605f4ba7a817a2e0b6a9da73dc373]\n\n[Image: 2a1e378b1723d814e08cccf3c3d69b6139f022b818600e13d8fbd8737e3b5a90]\n\n[Image: e19f5a1ffca1b6101ba47e85c3245210cc16464227cefb77f324c5526bbbd848]",
+        "text": "UDP ⇒ dUDP\n\n(Notice progression from UDP → dUDP → dUMP)\n\n[Image: 83bcfa7872b3432e55883324ce3a0cf8d382d416690cf042273db361c44e694e]\n\n[Image: ee54364bd540b4a3e1b294e9342b97e04e70adfb64df1dfc55acff843f2463f2]",
         "imageIds": [
             "83bcfa7872b3432e55883324ce3a0cf8d382d416690cf042273db361c44e694e",
-            "ee54364bd540b4a3e1b294e9342b97e04e70adfb64df1dfc55acff843f2463f2",
-            "62d369da2900702f60cd36e1bc35c329bfe8271149816eac8050ac0c1b8bfd14",
-            "ed347b61d9a5db6d536463b914491c82ed7605f4ba7a817a2e0b6a9da73dc373",
-            "2a1e378b1723d814e08cccf3c3d69b6139f022b818600e13d8fbd8737e3b5a90",
-            "e19f5a1ffca1b6101ba47e85c3245210cc16464227cefb77f324c5526bbbd848"
+            "ee54364bd540b4a3e1b294e9342b97e04e70adfb64df1dfc55acff843f2463f2"
         ]
     },
     "images": {
-        "2a1e378b1723d814e08cccf3c3d69b6139f022b818600e13d8fbd8737e3b5a90": {
-            "file": "images/2a1e378b1723d814e08cccf3c3d69b6139f022b818600e13d8fbd8737e3b5a90.jpg",
-            "filename": "paste-166064910499843.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 9871
-        },
-        "62d369da2900702f60cd36e1bc35c329bfe8271149816eac8050ac0c1b8bfd14": {
-            "file": "images/62d369da2900702f60cd36e1bc35c329bfe8271149816eac8050ac0c1b8bfd14.jpg",
-            "filename": "paste-329273667747841.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 137898
-        },
         "83bcfa7872b3432e55883324ce3a0cf8d382d416690cf042273db361c44e694e": {
             "file": "images/83bcfa7872b3432e55883324ce3a0cf8d382d416690cf042273db361c44e694e.jpg",
             "filename": "paste-39268885987331.jpg",
             "mimeType": "image/jpeg",
             "bytes": 56922
-        },
-        "e19f5a1ffca1b6101ba47e85c3245210cc16464227cefb77f324c5526bbbd848": {
-            "file": "images/e19f5a1ffca1b6101ba47e85c3245210cc16464227cefb77f324c5526bbbd848.jpg",
-            "filename": "paste-55825984913411.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 121727
-        },
-        "ed347b61d9a5db6d536463b914491c82ed7605f4ba7a817a2e0b6a9da73dc373": {
-            "file": "images/ed347b61d9a5db6d536463b914491c82ed7605f4ba7a817a2e0b6a9da73dc373.jpg",
-            "filename": "paste-162650411499523.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 35588
         },
         "ee54364bd540b4a3e1b294e9342b97e04e70adfb64df1dfc55acff843f2463f2": {
             "file": "images/ee54364bd540b4a3e1b294e9342b97e04e70adfb64df1dfc55acff843f2463f2.jpg",

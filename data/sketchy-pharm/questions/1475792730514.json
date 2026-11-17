@@ -18,49 +18,21 @@
         "$Sedatives&Hypnotics"
     ],
     "question": {
-        "text": "§\n\nSuffix: Short acting benzodiazepines",
+        "text": "Suffix: Short acting benzodiazepines",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nSuffix: Short acting benzodiazepines\n\n\"-olam\"\n\n[Image: 9610b551e99b554c6132fca2d1a3e1ffff74ed6f5debef61ae8c6f105f5b0587]\n\n1.1 - Benzodiazepines, flumazenil\n[Image: 4e88ed21ceda3eb601f618c259757a8a2e401804886af1e0a5a9e1f16a790e53]\n\n[Image: a66eed6c418709be79b1062e66a75dc7471c835fc46e5408c2303b5aaed14da5]\n\n[Image: 352c5155b8c949365e5a2e11e524f0170920455bbb8b8f89e7695d2bd33ca3d6]\n\n[Image: 0a123cff24ff7c544e384d03a0212151daeee6ed9b5a680e03395364d78deaa4]",
+        "text": "\"-olam\"\n\n[Image: 9610b551e99b554c6132fca2d1a3e1ffff74ed6f5debef61ae8c6f105f5b0587]",
         "imageIds": [
-            "9610b551e99b554c6132fca2d1a3e1ffff74ed6f5debef61ae8c6f105f5b0587",
-            "4e88ed21ceda3eb601f618c259757a8a2e401804886af1e0a5a9e1f16a790e53",
-            "a66eed6c418709be79b1062e66a75dc7471c835fc46e5408c2303b5aaed14da5",
-            "352c5155b8c949365e5a2e11e524f0170920455bbb8b8f89e7695d2bd33ca3d6",
-            "0a123cff24ff7c544e384d03a0212151daeee6ed9b5a680e03395364d78deaa4"
+            "9610b551e99b554c6132fca2d1a3e1ffff74ed6f5debef61ae8c6f105f5b0587"
         ]
     },
     "images": {
-        "0a123cff24ff7c544e384d03a0212151daeee6ed9b5a680e03395364d78deaa4": {
-            "file": "images/0a123cff24ff7c544e384d03a0212151daeee6ed9b5a680e03395364d78deaa4.jpg",
-            "filename": "paste-765672409792513.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 89948
-        },
-        "352c5155b8c949365e5a2e11e524f0170920455bbb8b8f89e7695d2bd33ca3d6": {
-            "file": "images/352c5155b8c949365e5a2e11e524f0170920455bbb8b8f89e7695d2bd33ca3d6.jpg",
-            "filename": "paste-674159541616643.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 38061
-        },
-        "4e88ed21ceda3eb601f618c259757a8a2e401804886af1e0a5a9e1f16a790e53": {
-            "file": "images/4e88ed21ceda3eb601f618c259757a8a2e401804886af1e0a5a9e1f16a790e53.jpg",
-            "filename": "paste-773046868639745.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 130900
-        },
         "9610b551e99b554c6132fca2d1a3e1ffff74ed6f5debef61ae8c6f105f5b0587": {
             "file": "images/9610b551e99b554c6132fca2d1a3e1ffff74ed6f5debef61ae8c6f105f5b0587.jpg",
             "filename": "paste-5802500816899.jpg",
             "mimeType": "image/jpeg",
             "bytes": 51322
-        },
-        "a66eed6c418709be79b1062e66a75dc7471c835fc46e5408c2303b5aaed14da5": {
-            "file": "images/a66eed6c418709be79b1062e66a75dc7471c835fc46e5408c2303b5aaed14da5.jpg",
-            "filename": "paste-761879953670145.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 88594
         }
     }
 }

@@ -18,39 +18,18 @@
         "$Other_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nName 3 adverse effects of TMP-SMX that present with cutaneous symptoms",
+        "text": "Name 3 adverse effects of TMP-SMX that present with cutaneous symptoms",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 3 adverse effects of TMP-SMX that present with cutaneous symptoms\n\n(1) Atopic reaction\n(2) Steven-Johnson syndrome\n\n(3) Photosensitivity\n\n[Image: 7482f65d2439412ae0ce579b41afa9f30babd3c42b6e56136b2c173195396e18]\n\n[Image: dc431a283ac06fd1b29cb90eee5025c39c6c506c2f2d6bbf18acf49b76d4dcc7]\n\n[Image: 7411b10d57bf80d9ac7ff42a27bf48fda23719bd688f1a219fc30aa1dea85a93]\n\n4.1 - Trimethoprim/Sulfamethoxazole\n[Image: 37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da]\n\n[Image: 415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9]\n\n[Image: 302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70]",
+        "text": "(1) Atopic reaction\n(2) Steven-Johnson syndrome\n\n(3) Photosensitivity\n\n[Image: 7482f65d2439412ae0ce579b41afa9f30babd3c42b6e56136b2c173195396e18]\n\n[Image: dc431a283ac06fd1b29cb90eee5025c39c6c506c2f2d6bbf18acf49b76d4dcc7]\n\n[Image: 7411b10d57bf80d9ac7ff42a27bf48fda23719bd688f1a219fc30aa1dea85a93]",
         "imageIds": [
             "7482f65d2439412ae0ce579b41afa9f30babd3c42b6e56136b2c173195396e18",
             "dc431a283ac06fd1b29cb90eee5025c39c6c506c2f2d6bbf18acf49b76d4dcc7",
-            "7411b10d57bf80d9ac7ff42a27bf48fda23719bd688f1a219fc30aa1dea85a93",
-            "37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da",
-            "415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9",
-            "302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70"
+            "7411b10d57bf80d9ac7ff42a27bf48fda23719bd688f1a219fc30aa1dea85a93"
         ]
     },
     "images": {
-        "302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70": {
-            "file": "images/302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70.jpg",
-            "filename": "paste-184696478629891.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 30701
-        },
-        "37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da": {
-            "file": "images/37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da.jpg",
-            "filename": "paste-247265562198017.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 141182
-        },
-        "415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9": {
-            "file": "images/415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9.jpg",
-            "filename": "paste-413223098515459.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 75809
-        },
         "7411b10d57bf80d9ac7ff42a27bf48fda23719bd688f1a219fc30aa1dea85a93": {
             "file": "images/7411b10d57bf80d9ac7ff42a27bf48fda23719bd688f1a219fc30aa1dea85a93.jpg",
             "filename": "paste-205668803936259.jpg",

@@ -18,56 +18,21 @@
         "$Kinase_Inhibitors_&_MonoclonalAbs"
     ],
     "question": {
-        "text": "§\n\nWhich biologic is first line for treating non-small cell lung cancer?",
+        "text": "Which biologic is first line for treating non-small cell lung cancer?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhich biologic is first line for treating non-small cell lung cancer?\n\nErlotinib\n\n[Image: 44be1541cda57ac2a3c4d283278fbb71de7598ff06cdc80a305d55b9cb94d643]\n\n3.1 - Imatinib, erlotinib, sorafenib, sunitinib, vemurafenib\n[Image: a6b1d3f472df434e35a39a7224894dc9e6d03a18671399f296d9a8367b80f434]\n\n[Image: 6ea6096aae9fc4e40d2dcf03f321623aefdc6e01e88debd3bcf75c8716b7b23d]\n\n[Image: e3423014c22f4dbb7b5bda03efed5adbe2d1876813166ec6f9c1ec86d1fde6e7]\n\n[Image: 75426a20157d20092596278bb55f986dc36f2f77d55240106a419612cb872d2c]\n\n[Image: 05e6700ac3bbcaea20d848dd91efe4370e31e614d50483e63773a7e472632df8]",
+        "text": "Erlotinib\n\n[Image: 44be1541cda57ac2a3c4d283278fbb71de7598ff06cdc80a305d55b9cb94d643]",
         "imageIds": [
-            "44be1541cda57ac2a3c4d283278fbb71de7598ff06cdc80a305d55b9cb94d643",
-            "a6b1d3f472df434e35a39a7224894dc9e6d03a18671399f296d9a8367b80f434",
-            "6ea6096aae9fc4e40d2dcf03f321623aefdc6e01e88debd3bcf75c8716b7b23d",
-            "e3423014c22f4dbb7b5bda03efed5adbe2d1876813166ec6f9c1ec86d1fde6e7",
-            "75426a20157d20092596278bb55f986dc36f2f77d55240106a419612cb872d2c",
-            "05e6700ac3bbcaea20d848dd91efe4370e31e614d50483e63773a7e472632df8"
+            "44be1541cda57ac2a3c4d283278fbb71de7598ff06cdc80a305d55b9cb94d643"
         ]
     },
     "images": {
-        "05e6700ac3bbcaea20d848dd91efe4370e31e614d50483e63773a7e472632df8": {
-            "file": "images/05e6700ac3bbcaea20d848dd91efe4370e31e614d50483e63773a7e472632df8.jpg",
-            "filename": "paste-330222855520259.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 22381
-        },
         "44be1541cda57ac2a3c4d283278fbb71de7598ff06cdc80a305d55b9cb94d643": {
             "file": "images/44be1541cda57ac2a3c4d283278fbb71de7598ff06cdc80a305d55b9cb94d643.jpg",
             "filename": "paste-8022998908931.jpg",
             "mimeType": "image/jpeg",
             "bytes": 46730
-        },
-        "6ea6096aae9fc4e40d2dcf03f321623aefdc6e01e88debd3bcf75c8716b7b23d": {
-            "file": "images/6ea6096aae9fc4e40d2dcf03f321623aefdc6e01e88debd3bcf75c8716b7b23d.jpg",
-            "filename": "paste-37280316129283 (1).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 84861
-        },
-        "75426a20157d20092596278bb55f986dc36f2f77d55240106a419612cb872d2c": {
-            "file": "images/75426a20157d20092596278bb55f986dc36f2f77d55240106a419612cb872d2c.jpg",
-            "filename": "paste-326542068547587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 29038
-        },
-        "a6b1d3f472df434e35a39a7224894dc9e6d03a18671399f296d9a8367b80f434": {
-            "file": "images/a6b1d3f472df434e35a39a7224894dc9e6d03a18671399f296d9a8367b80f434.jpg",
-            "filename": "paste-386186279387137.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 108227
-        },
-        "e3423014c22f4dbb7b5bda03efed5adbe2d1876813166ec6f9c1ec86d1fde6e7": {
-            "file": "images/e3423014c22f4dbb7b5bda03efed5adbe2d1876813166ec6f9c1ec86d1fde6e7.jpg",
-            "filename": "paste-323204878958595.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 20598
         }
     }
 }

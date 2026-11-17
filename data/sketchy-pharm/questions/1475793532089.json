@@ -18,15 +18,13 @@
         "$Sedatives&Hypnotics"
     ],
     "question": {
-        "text": "§\n\nDoes barbituate use cause tolerance?",
+        "text": "Does barbituate use cause tolerance?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nDoes barbituate use cause tolerance?\n\nYes\n\n[Image: 755498cede3f2a08bd786fe674134bd11807bc9bf7bdeb7ac076bbbf0f71b278]\n\n1.3 - Barbiturates\n[Image: a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4]\n\n[Image: e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6]",
+        "text": "Yes\n\n[Image: 755498cede3f2a08bd786fe674134bd11807bc9bf7bdeb7ac076bbbf0f71b278]",
         "imageIds": [
-            "755498cede3f2a08bd786fe674134bd11807bc9bf7bdeb7ac076bbbf0f71b278",
-            "a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4",
-            "e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6"
+            "755498cede3f2a08bd786fe674134bd11807bc9bf7bdeb7ac076bbbf0f71b278"
         ]
     },
     "images": {
@@ -35,18 +33,6 @@
             "filename": "paste-10595684319235.jpg",
             "mimeType": "image/jpeg",
             "bytes": 93141
-        },
-        "a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4": {
-            "file": "images/a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4.jpg",
-            "filename": "paste-829706077208577.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 146002
-        },
-        "e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6": {
-            "file": "images/e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6.jpg",
-            "filename": "paste-160709086281731.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 53669
         }
     }
 }

@@ -18,16 +18,14 @@
         "$Antivirals_HIV"
     ],
     "question": {
-        "text": "§\n\nAdverse Effects (2) : NNRTIs",
+        "text": "Adverse Effects (2) : NNRTIs",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAdverse Effects (2) : NNRTIs\n\n(1) Liver failure\n(2) Stevens-Johnson syndrome\n\n[Image: 413e391e218979d3066047d57c7645afdd2d3d22b56b863068809628afaad487]\n\n[Image: 6497504b56da7f72d7abf9337386916e1851e4a112f7f4c013407d65f9478f04]\n\n6.2 - NNRTI\u001b\n[Image: 6e4e85cbbd0e2b918a5c150a391f96aab11a292aa42b9523fc1e2e45a413d339]\n\n[Image: be98b4216c5d68e50cd98a0356a889ff0864cfa2016f168995903e3ecf166d4a]",
+        "text": "(1) Liver failure\n(2) Stevens-Johnson syndrome\n\n[Image: 413e391e218979d3066047d57c7645afdd2d3d22b56b863068809628afaad487]\n\n[Image: 6497504b56da7f72d7abf9337386916e1851e4a112f7f4c013407d65f9478f04]",
         "imageIds": [
             "413e391e218979d3066047d57c7645afdd2d3d22b56b863068809628afaad487",
-            "6497504b56da7f72d7abf9337386916e1851e4a112f7f4c013407d65f9478f04",
-            "6e4e85cbbd0e2b918a5c150a391f96aab11a292aa42b9523fc1e2e45a413d339",
-            "be98b4216c5d68e50cd98a0356a889ff0864cfa2016f168995903e3ecf166d4a"
+            "6497504b56da7f72d7abf9337386916e1851e4a112f7f4c013407d65f9478f04"
         ]
     },
     "images": {
@@ -42,18 +40,6 @@
             "filename": "paste-119756573114371.jpg",
             "mimeType": "image/jpeg",
             "bytes": 54769
-        },
-        "6e4e85cbbd0e2b918a5c150a391f96aab11a292aa42b9523fc1e2e45a413d339": {
-            "file": "images/6e4e85cbbd0e2b918a5c150a391f96aab11a292aa42b9523fc1e2e45a413d339.jpg",
-            "filename": "paste-289566695096321.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 138607
-        },
-        "be98b4216c5d68e50cd98a0356a889ff0864cfa2016f168995903e3ecf166d4a": {
-            "file": "images/be98b4216c5d68e50cd98a0356a889ff0864cfa2016f168995903e3ecf166d4a.jpg",
-            "filename": "paste-544193831239683.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 19209
         }
     }
 }

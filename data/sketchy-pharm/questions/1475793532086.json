@@ -18,15 +18,13 @@
         "$Sedatives&Hypnotics"
     ],
     "question": {
-        "text": "§\n\nWhich barbituate has phenobarbital as a metabolite?",
+        "text": "Which barbituate has phenobarbital as a metabolite?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhich barbituate has phenobarbital as a metabolite?\n\nPrimadone\n\n[Image: 9b6c3497c1c120ee072258ec959cbeb155fd3af43e83ae4e3265c8315b822867]\n\n1.3 - Barbiturates\n[Image: a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4]\n\n[Image: e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6]",
+        "text": "Primadone\n\n[Image: 9b6c3497c1c120ee072258ec959cbeb155fd3af43e83ae4e3265c8315b822867]",
         "imageIds": [
-            "9b6c3497c1c120ee072258ec959cbeb155fd3af43e83ae4e3265c8315b822867",
-            "a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4",
-            "e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6"
+            "9b6c3497c1c120ee072258ec959cbeb155fd3af43e83ae4e3265c8315b822867"
         ]
     },
     "images": {
@@ -35,18 +33,6 @@
             "filename": "paste-9822590205955.jpg",
             "mimeType": "image/jpeg",
             "bytes": 74729
-        },
-        "a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4": {
-            "file": "images/a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4.jpg",
-            "filename": "paste-829706077208577.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 146002
-        },
-        "e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6": {
-            "file": "images/e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6.jpg",
-            "filename": "paste-160709086281731.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 53669
         }
     }
 }

@@ -18,38 +18,23 @@
         "$Parasympathetics"
     ],
     "question": {
-        "text": "§\n\nWhich symptoms of Parkinsons do antimuscarinics treat?",
+        "text": "Which symptoms of Parkinsons do antimuscarinics treat?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhich symptoms of Parkinsons do antimuscarinics treat?\n\nTremor and rigidity\n\n(Not bradycardia)\n\n[Image: e6bef16003b289577d7a02579db807816cfb062dadcfafd7edbbff69024e052b]\n\n[Image: a27e261779bcddbe334d326418f6d3103289bac4d9b0609a45de35e204aa2422]\n\n[Image: 75538e3d89d8b301afc981745536cf87289a158398d82130bc873ce915d306fa]\n\n1.3 - Muscarinic antagonists\n[Image: f73d6be268d365a8c4123fc0e98df1066190c1efc71673333616184892da529b]\n\n[Image: 7c05b0090af8ae7faec17530a195689bbf153c4d8bb8fa549221f2bb5de04ee5]\n\n[Image: 2b2c8378624553f80b20e849b6117074679044004a47259538cd43e16b393c4e]",
+        "text": "Tremor and rigidity\n\n(Not bradycardia)\n\n[Image: e6bef16003b289577d7a02579db807816cfb062dadcfafd7edbbff69024e052b]\n\n[Image: a27e261779bcddbe334d326418f6d3103289bac4d9b0609a45de35e204aa2422]\n\n[Image: 75538e3d89d8b301afc981745536cf87289a158398d82130bc873ce915d306fa]",
         "imageIds": [
             "e6bef16003b289577d7a02579db807816cfb062dadcfafd7edbbff69024e052b",
             "a27e261779bcddbe334d326418f6d3103289bac4d9b0609a45de35e204aa2422",
-            "75538e3d89d8b301afc981745536cf87289a158398d82130bc873ce915d306fa",
-            "f73d6be268d365a8c4123fc0e98df1066190c1efc71673333616184892da529b",
-            "7c05b0090af8ae7faec17530a195689bbf153c4d8bb8fa549221f2bb5de04ee5",
-            "2b2c8378624553f80b20e849b6117074679044004a47259538cd43e16b393c4e"
+            "75538e3d89d8b301afc981745536cf87289a158398d82130bc873ce915d306fa"
         ]
     },
     "images": {
-        "2b2c8378624553f80b20e849b6117074679044004a47259538cd43e16b393c4e": {
-            "file": "images/2b2c8378624553f80b20e849b6117074679044004a47259538cd43e16b393c4e.jpg",
-            "filename": "paste-600170140008451.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 58091
-        },
         "75538e3d89d8b301afc981745536cf87289a158398d82130bc873ce915d306fa": {
             "file": "images/75538e3d89d8b301afc981745536cf87289a158398d82130bc873ce915d306fa.jpg",
             "filename": "paste-17922898526211.jpg",
             "mimeType": "image/jpeg",
             "bytes": 68859
-        },
-        "7c05b0090af8ae7faec17530a195689bbf153c4d8bb8fa549221f2bb5de04ee5": {
-            "file": "images/7c05b0090af8ae7faec17530a195689bbf153c4d8bb8fa549221f2bb5de04ee5.jpg",
-            "filename": "paste-598503692697603.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 52321
         },
         "a27e261779bcddbe334d326418f6d3103289bac4d9b0609a45de35e204aa2422": {
             "file": "images/a27e261779bcddbe334d326418f6d3103289bac4d9b0609a45de35e204aa2422.jpg",
@@ -62,12 +47,6 @@
             "filename": "paste-367022135312387.jpg",
             "mimeType": "image/jpeg",
             "bytes": 91581
-        },
-        "f73d6be268d365a8c4123fc0e98df1066190c1efc71673333616184892da529b": {
-            "file": "images/f73d6be268d365a8c4123fc0e98df1066190c1efc71673333616184892da529b.jpg",
-            "filename": "paste-417874548097025.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 147252
         }
     }
 }

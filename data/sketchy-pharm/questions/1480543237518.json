@@ -18,37 +18,16 @@
         "$Inhibitors_of_Bacterial_Protein_Synthesis"
     ],
     "question": {
-        "text": "§\n\nWhat's the antibiotic used for diphtheria?",
+        "text": "What's the antibiotic used for diphtheria?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat's the antibiotic used for diphtheria?\n\nErythromycin\n\n[Image: 8f668b3ce6c84c7d4b7d0e920593b0e7e80e195ffba45e01149ba4dbf26c20ad]\n\n2.2 - Macrolides\n[Image: 190939fabc0a82c201a2fd0c7090bd1746588a112f195201fc2f6a33cc26863a]\n\n[Image: 8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4]\n\n[Image: 373392e6d05258c8e0d2b36a5a062a3a132376066d7db21faa388d4669c4a3fd]",
+        "text": "Erythromycin\n\n[Image: 8f668b3ce6c84c7d4b7d0e920593b0e7e80e195ffba45e01149ba4dbf26c20ad]",
         "imageIds": [
-            "8f668b3ce6c84c7d4b7d0e920593b0e7e80e195ffba45e01149ba4dbf26c20ad",
-            "190939fabc0a82c201a2fd0c7090bd1746588a112f195201fc2f6a33cc26863a",
-            "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4",
-            "373392e6d05258c8e0d2b36a5a062a3a132376066d7db21faa388d4669c4a3fd"
+            "8f668b3ce6c84c7d4b7d0e920593b0e7e80e195ffba45e01149ba4dbf26c20ad"
         ]
     },
     "images": {
-        "190939fabc0a82c201a2fd0c7090bd1746588a112f195201fc2f6a33cc26863a": {
-            "file": "images/190939fabc0a82c201a2fd0c7090bd1746588a112f195201fc2f6a33cc26863a.jpg",
-            "filename": "paste-219288145231873.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 112000
-        },
-        "373392e6d05258c8e0d2b36a5a062a3a132376066d7db21faa388d4669c4a3fd": {
-            "file": "images/373392e6d05258c8e0d2b36a5a062a3a132376066d7db21faa388d4669c4a3fd.jpg",
-            "filename": "paste-407523676913667.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 61060
-        },
-        "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4": {
-            "file": "images/8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4.jpg",
-            "filename": "paste-321710230339587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 76271
-        },
         "8f668b3ce6c84c7d4b7d0e920593b0e7e80e195ffba45e01149ba4dbf26c20ad": {
             "file": "images/8f668b3ce6c84c7d4b7d0e920593b0e7e80e195ffba45e01149ba4dbf26c20ad.jpg",
             "filename": "paste-11540577124355.jpg",

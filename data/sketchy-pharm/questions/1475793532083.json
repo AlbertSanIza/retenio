@@ -18,18 +18,16 @@
         "$Sedatives&Hypnotics"
     ],
     "question": {
-        "text": "§\n\nWhich barbituate has a short duration of action?",
+        "text": "Which barbituate has a short duration of action?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhich barbituate has a short duration of action?\n\nThiopental\n\n[Image: 03b6285c99ab803358b73c993465baad4aa484fe53db9a2ecc37da4217de027f]\n\n[Image: 429a8b3779a37dafaab044e5f1f4d9d118ba30855b7ee0941d4796e22076d922]\n\n[Image: 2b8c731c56303b3de48b7a4ac48761557d3ef43b4fe5474c7cc49d6c593c134a]\n\n[Image: 3ce34040ed38633d42d0f52ef165ff1f888d1890f9708f999c87d80b52dac0db]\n\n1.3 - Barbiturates\n[Image: a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4]\n\n[Image: e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6]",
+        "text": "Thiopental\n\n[Image: 03b6285c99ab803358b73c993465baad4aa484fe53db9a2ecc37da4217de027f]\n\n[Image: 429a8b3779a37dafaab044e5f1f4d9d118ba30855b7ee0941d4796e22076d922]\n\n[Image: 2b8c731c56303b3de48b7a4ac48761557d3ef43b4fe5474c7cc49d6c593c134a]\n\n[Image: 3ce34040ed38633d42d0f52ef165ff1f888d1890f9708f999c87d80b52dac0db]",
         "imageIds": [
             "03b6285c99ab803358b73c993465baad4aa484fe53db9a2ecc37da4217de027f",
             "429a8b3779a37dafaab044e5f1f4d9d118ba30855b7ee0941d4796e22076d922",
             "2b8c731c56303b3de48b7a4ac48761557d3ef43b4fe5474c7cc49d6c593c134a",
-            "3ce34040ed38633d42d0f52ef165ff1f888d1890f9708f999c87d80b52dac0db",
-            "a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4",
-            "e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6"
+            "3ce34040ed38633d42d0f52ef165ff1f888d1890f9708f999c87d80b52dac0db"
         ]
     },
     "images": {
@@ -56,18 +54,6 @@
             "filename": "paste-9083855831043.jpg",
             "mimeType": "image/jpeg",
             "bytes": 74390
-        },
-        "a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4": {
-            "file": "images/a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4.jpg",
-            "filename": "paste-829706077208577.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 146002
-        },
-        "e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6": {
-            "file": "images/e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6.jpg",
-            "filename": "paste-160709086281731.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 53669
         }
     }
 }

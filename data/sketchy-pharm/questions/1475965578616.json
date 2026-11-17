@@ -18,36 +18,22 @@
         "$Antiarrhythmics"
     ],
     "question": {
-        "text": "§\n\nMOA: Digoxin treating atrial fibrillation",
+        "text": "MOA: Digoxin treating atrial fibrillation",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nMOA: Digoxin treating atrial fibrillation\n\n↑ Parasympathetic effects\n\n[Image: 2f09d497fddd1bdfb6b5e10a6f99d180e56f23390a4c2464c5fbaf0b6c0204a4]\n\n[Image: f7c13146bf21f852c33c3a6574224fa61acb16444a9f6b0475352b7f924ce1c2]\n\n4.5 - \"Class V\"\n[Image: 314a9d9956154c93a28c11da294df9fba3bba8c86bfa2c83b2350434f676e34f]\n\n[Image: 1c24c7fc018e2e9a9366e655fe8c5bb583bb8a13f6a423cbe2de86d4e46c6595]",
+        "text": "↑ Parasympathetic effects\n\n[Image: 2f09d497fddd1bdfb6b5e10a6f99d180e56f23390a4c2464c5fbaf0b6c0204a4]\n\n[Image: f7c13146bf21f852c33c3a6574224fa61acb16444a9f6b0475352b7f924ce1c2]",
         "imageIds": [
             "2f09d497fddd1bdfb6b5e10a6f99d180e56f23390a4c2464c5fbaf0b6c0204a4",
-            "f7c13146bf21f852c33c3a6574224fa61acb16444a9f6b0475352b7f924ce1c2",
-            "314a9d9956154c93a28c11da294df9fba3bba8c86bfa2c83b2350434f676e34f",
-            "1c24c7fc018e2e9a9366e655fe8c5bb583bb8a13f6a423cbe2de86d4e46c6595"
+            "f7c13146bf21f852c33c3a6574224fa61acb16444a9f6b0475352b7f924ce1c2"
         ]
     },
     "images": {
-        "1c24c7fc018e2e9a9366e655fe8c5bb583bb8a13f6a423cbe2de86d4e46c6595": {
-            "file": "images/1c24c7fc018e2e9a9366e655fe8c5bb583bb8a13f6a423cbe2de86d4e46c6595.jpg",
-            "filename": "paste-258750304747523.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 44883
-        },
         "2f09d497fddd1bdfb6b5e10a6f99d180e56f23390a4c2464c5fbaf0b6c0204a4": {
             "file": "images/2f09d497fddd1bdfb6b5e10a6f99d180e56f23390a4c2464c5fbaf0b6c0204a4.jpg",
             "filename": "paste-46162308497411.jpg",
             "mimeType": "image/jpeg",
             "bytes": 41422
-        },
-        "314a9d9956154c93a28c11da294df9fba3bba8c86bfa2c83b2350434f676e34f": {
-            "file": "images/314a9d9956154c93a28c11da294df9fba3bba8c86bfa2c83b2350434f676e34f.jpg",
-            "filename": "paste-664169447686145.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 124309
         },
         "f7c13146bf21f852c33c3a6574224fa61acb16444a9f6b0475352b7f924ce1c2": {
             "file": "images/f7c13146bf21f852c33c3a6574224fa61acb16444a9f6b0475352b7f924ce1c2.jpg",

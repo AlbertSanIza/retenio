@@ -18,17 +18,14 @@
         "$Mood_Stabilizers_&_Antiepileptics"
     ],
     "question": {
-        "text": "§\n\nAdverse Effects (2) : Ethosuximide",
+        "text": "Adverse Effects (2) : Ethosuximide",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAdverse Effects (2) : Ethosuximide\n\n(1) GI distress\n(2) Lethary\n\n[Image: 22131327e53056a23a86a96d9cefc893ec5a75d5999bb6d94bbf98797e6a5fea]\n\n[Image: 35570999fcfb6c9a433e6685adf5468084f95a667c01388085faf9ac68dafd30]\n\n4.4 - Ethosuximide\n[Image: a9420e1faaa2ea538a1b416d2dcf6fb3f421f9616b885d26dde79c82bb7cc20b]\n\n[Image: 2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a]\n\n[Image: fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5]",
+        "text": "(1) GI distress\n(2) Lethary\n\n[Image: 22131327e53056a23a86a96d9cefc893ec5a75d5999bb6d94bbf98797e6a5fea]\n\n[Image: 35570999fcfb6c9a433e6685adf5468084f95a667c01388085faf9ac68dafd30]",
         "imageIds": [
             "22131327e53056a23a86a96d9cefc893ec5a75d5999bb6d94bbf98797e6a5fea",
-            "35570999fcfb6c9a433e6685adf5468084f95a667c01388085faf9ac68dafd30",
-            "a9420e1faaa2ea538a1b416d2dcf6fb3f421f9616b885d26dde79c82bb7cc20b",
-            "2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a",
-            "fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5"
+            "35570999fcfb6c9a433e6685adf5468084f95a667c01388085faf9ac68dafd30"
         ]
     },
     "images": {
@@ -38,29 +35,11 @@
             "mimeType": "image/jpeg",
             "bytes": 83206
         },
-        "2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a": {
-            "file": "images/2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a.jpg",
-            "filename": "paste-688547682058243.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 102555
-        },
         "35570999fcfb6c9a433e6685adf5468084f95a667c01388085faf9ac68dafd30": {
             "file": "images/35570999fcfb6c9a433e6685adf5468084f95a667c01388085faf9ac68dafd30.jpg",
             "filename": "paste-804430194671619.jpg",
             "mimeType": "image/jpeg",
             "bytes": 85301
-        },
-        "a9420e1faaa2ea538a1b416d2dcf6fb3f421f9616b885d26dde79c82bb7cc20b": {
-            "file": "images/a9420e1faaa2ea538a1b416d2dcf6fb3f421f9616b885d26dde79c82bb7cc20b.jpg",
-            "filename": "paste-803519661604867.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 87637
-        },
-        "fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5": {
-            "file": "images/fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5.jpg",
-            "filename": "paste-69565585293315.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 91284
         }
     }
 }

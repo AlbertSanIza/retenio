@@ -18,64 +18,29 @@
         "$Anticoagulants&Thrombolytics"
     ],
     "question": {
-        "text": "§\n\nIndications (3) : Heparin",
+        "text": "Indications (3) : Heparin",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nIndications (3) : Heparin\n\n(1) DVT prophylaxis\n(2) Pulmonary embolism prophylaxis\n\n(3) Acute MI\n\n[Image: fe7443c5e1909e073721dcdaef1c09e2b25af28daa09b94e4acec40f07545e77]\n\n[Image: 39f2ff5384a850f4e27af56b2ca4b1e3f00ace8e4c1c4022ba30ee3bdcf5e59a]\n\n[Image: b40dfdb7a11d0e46aa891ac486ab2590f09f48b6e0b3263a5a075c12017a913d]\n\n1.1 - Heparin, LMWH, fondaparinux, direct thrombin inhibitors, Xa inhibitors\n[Image: 277d6dd93c909a56ac4e048c44946e2dc9d1d89ef7a2e08080907883effa15d2]\n\n[Image: d624a8546655626b1e42c79e187169ee90ebf7b99d981f03e5e2edc92694e8e3]\n\n[Image: 5d42a451f5c6a755eb006684c27a5cc45128caabaa215f87f7db276b2cd69879]\n\n[Image: 1bb3d14dc3c487ed27252bc52651a1ed2c6900dc98a4091f4176866ee6ecb743]\n\n[Image: 92987436a5377d1532749c2f3493cb39490738e8019a390ae9188e6795476d2f]",
+        "text": "(1) DVT prophylaxis\n(2) Pulmonary embolism prophylaxis\n\n(3) Acute MI\n\n[Image: fe7443c5e1909e073721dcdaef1c09e2b25af28daa09b94e4acec40f07545e77]\n\n[Image: 39f2ff5384a850f4e27af56b2ca4b1e3f00ace8e4c1c4022ba30ee3bdcf5e59a]\n\n[Image: b40dfdb7a11d0e46aa891ac486ab2590f09f48b6e0b3263a5a075c12017a913d]",
         "imageIds": [
             "fe7443c5e1909e073721dcdaef1c09e2b25af28daa09b94e4acec40f07545e77",
             "39f2ff5384a850f4e27af56b2ca4b1e3f00ace8e4c1c4022ba30ee3bdcf5e59a",
-            "b40dfdb7a11d0e46aa891ac486ab2590f09f48b6e0b3263a5a075c12017a913d",
-            "277d6dd93c909a56ac4e048c44946e2dc9d1d89ef7a2e08080907883effa15d2",
-            "d624a8546655626b1e42c79e187169ee90ebf7b99d981f03e5e2edc92694e8e3",
-            "5d42a451f5c6a755eb006684c27a5cc45128caabaa215f87f7db276b2cd69879",
-            "1bb3d14dc3c487ed27252bc52651a1ed2c6900dc98a4091f4176866ee6ecb743",
-            "92987436a5377d1532749c2f3493cb39490738e8019a390ae9188e6795476d2f"
+            "b40dfdb7a11d0e46aa891ac486ab2590f09f48b6e0b3263a5a075c12017a913d"
         ]
     },
     "images": {
-        "1bb3d14dc3c487ed27252bc52651a1ed2c6900dc98a4091f4176866ee6ecb743": {
-            "file": "images/1bb3d14dc3c487ed27252bc52651a1ed2c6900dc98a4091f4176866ee6ecb743.jpg",
-            "filename": "paste-379640749228035.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 34387
-        },
-        "277d6dd93c909a56ac4e048c44946e2dc9d1d89ef7a2e08080907883effa15d2": {
-            "file": "images/277d6dd93c909a56ac4e048c44946e2dc9d1d89ef7a2e08080907883effa15d2.jpg",
-            "filename": "paste-6240587481091.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 95047
-        },
         "39f2ff5384a850f4e27af56b2ca4b1e3f00ace8e4c1c4022ba30ee3bdcf5e59a": {
             "file": "images/39f2ff5384a850f4e27af56b2ca4b1e3f00ace8e4c1c4022ba30ee3bdcf5e59a.jpg",
             "filename": "paste-87132001533955.jpg",
             "mimeType": "image/jpeg",
             "bytes": 81404
         },
-        "5d42a451f5c6a755eb006684c27a5cc45128caabaa215f87f7db276b2cd69879": {
-            "file": "images/5d42a451f5c6a755eb006684c27a5cc45128caabaa215f87f7db276b2cd69879.jpg",
-            "filename": "paste-378227704987651.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 132847
-        },
-        "92987436a5377d1532749c2f3493cb39490738e8019a390ae9188e6795476d2f": {
-            "file": "images/92987436a5377d1532749c2f3493cb39490738e8019a390ae9188e6795476d2f.jpg",
-            "filename": "paste-387341625589763.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 79733
-        },
         "b40dfdb7a11d0e46aa891ac486ab2590f09f48b6e0b3263a5a075c12017a913d": {
             "file": "images/b40dfdb7a11d0e46aa891ac486ab2590f09f48b6e0b3263a5a075c12017a913d.jpg",
             "filename": "paste-87230785781763.jpg",
             "mimeType": "image/jpeg",
             "bytes": 77953
-        },
-        "d624a8546655626b1e42c79e187169ee90ebf7b99d981f03e5e2edc92694e8e3": {
-            "file": "images/d624a8546655626b1e42c79e187169ee90ebf7b99d981f03e5e2edc92694e8e3.jpg",
-            "filename": "paste-33981781245955.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 107746
         },
         "fe7443c5e1909e073721dcdaef1c09e2b25af28daa09b94e4acec40f07545e77": {
             "file": "images/fe7443c5e1909e073721dcdaef1c09e2b25af28daa09b94e4acec40f07545e77.jpg",

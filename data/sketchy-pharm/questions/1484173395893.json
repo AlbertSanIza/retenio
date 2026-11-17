@@ -18,23 +18,18 @@
         "$Mood_Stabilizers_&_Antiepileptics"
     ],
     "question": {
-        "text": "§\n\nAdverse Effects (6) : Valproate",
+        "text": "Adverse Effects (6) : Valproate",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAdverse Effects (6) : Valproate\n\n(1) GI distress\n(2) Weight gain\n\n(3) Fine tremor\n\n(4) Fatal hepatotoxicity\n\n(5) Pancreatitis\n\n(6) Teratogen\n\n[Image: c465e9d601711ec23ba15c9da2cad2cdbc58a841722f916aca3feab29d6e0c0e]\n\n[Image: 74012dd2dc03c0a74a75bdc605a9841f7e65599df42a0285bc489691b7297f96]\n\n[Image: 290234c3572ea3e8ef76f433b942403c074f42f6e0a02f2c5d0f399c44045a7b]\n\n[Image: 40ef45bdd2514d19b35b325476dfc377db1f9cded28724dc4ad3e68e73bb9686]\n\n[Image: dfcbcbb50e60ea86dedbec831eccb3280d7a7be606859b46d7d1280077924b44]\n\n[Image: 90db1a4e6839f1ea9161cd2c5c721c4846f1ba0477aec2553ce48c00fb60a41e]\n\n4.2 - Valproate, topiramate, lamotrigine, levetiracetam\n[Image: b6de6841506ab44b40652032e6f4399bd43ac8406f2030d1079500c79bf295cc]\n\n[Image: b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c]\n\n[Image: c3043f3c2f396c1132e341dc2c19a439589ba89eef0f5980c4f478d378b35668]\n\n[Image: 2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a]\n\n[Image: fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5]",
+        "text": "(1) GI distress\n(2) Weight gain\n\n(3) Fine tremor\n\n(4) Fatal hepatotoxicity\n\n(5) Pancreatitis\n\n(6) Teratogen\n\n[Image: c465e9d601711ec23ba15c9da2cad2cdbc58a841722f916aca3feab29d6e0c0e]\n\n[Image: 74012dd2dc03c0a74a75bdc605a9841f7e65599df42a0285bc489691b7297f96]\n\n[Image: 290234c3572ea3e8ef76f433b942403c074f42f6e0a02f2c5d0f399c44045a7b]\n\n[Image: 40ef45bdd2514d19b35b325476dfc377db1f9cded28724dc4ad3e68e73bb9686]\n\n[Image: dfcbcbb50e60ea86dedbec831eccb3280d7a7be606859b46d7d1280077924b44]\n\n[Image: 90db1a4e6839f1ea9161cd2c5c721c4846f1ba0477aec2553ce48c00fb60a41e]",
         "imageIds": [
             "c465e9d601711ec23ba15c9da2cad2cdbc58a841722f916aca3feab29d6e0c0e",
             "74012dd2dc03c0a74a75bdc605a9841f7e65599df42a0285bc489691b7297f96",
             "290234c3572ea3e8ef76f433b942403c074f42f6e0a02f2c5d0f399c44045a7b",
             "40ef45bdd2514d19b35b325476dfc377db1f9cded28724dc4ad3e68e73bb9686",
             "dfcbcbb50e60ea86dedbec831eccb3280d7a7be606859b46d7d1280077924b44",
-            "90db1a4e6839f1ea9161cd2c5c721c4846f1ba0477aec2553ce48c00fb60a41e",
-            "b6de6841506ab44b40652032e6f4399bd43ac8406f2030d1079500c79bf295cc",
-            "b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c",
-            "c3043f3c2f396c1132e341dc2c19a439589ba89eef0f5980c4f478d378b35668",
-            "2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a",
-            "fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5"
+            "90db1a4e6839f1ea9161cd2c5c721c4846f1ba0477aec2553ce48c00fb60a41e"
         ]
     },
     "images": {
@@ -43,12 +38,6 @@
             "filename": "paste-620197572509699.jpg",
             "mimeType": "image/jpeg",
             "bytes": 83671
-        },
-        "2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a": {
-            "file": "images/2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a.jpg",
-            "filename": "paste-688547682058243.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 102555
         },
         "40ef45bdd2514d19b35b325476dfc377db1f9cded28724dc4ad3e68e73bb9686": {
             "file": "images/40ef45bdd2514d19b35b325476dfc377db1f9cded28724dc4ad3e68e73bb9686.jpg",
@@ -68,24 +57,6 @@
             "mimeType": "image/jpeg",
             "bytes": 101547
         },
-        "b6de6841506ab44b40652032e6f4399bd43ac8406f2030d1079500c79bf295cc": {
-            "file": "images/b6de6841506ab44b40652032e6f4399bd43ac8406f2030d1079500c79bf295cc.jpg",
-            "filename": "paste-617002116841475.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 104244
-        },
-        "b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c": {
-            "file": "images/b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c.jpg",
-            "filename": "paste-63204738727939.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 55713
-        },
-        "c3043f3c2f396c1132e341dc2c19a439589ba89eef0f5980c4f478d378b35668": {
-            "file": "images/c3043f3c2f396c1132e341dc2c19a439589ba89eef0f5980c4f478d378b35668.jpg",
-            "filename": "paste-60975650701315.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 70945
-        },
         "c465e9d601711ec23ba15c9da2cad2cdbc58a841722f916aca3feab29d6e0c0e": {
             "file": "images/c465e9d601711ec23ba15c9da2cad2cdbc58a841722f916aca3feab29d6e0c0e.jpg",
             "filename": "paste-620025773817859.jpg",
@@ -97,12 +68,6 @@
             "filename": "paste-620433795710979.jpg",
             "mimeType": "image/jpeg",
             "bytes": 98172
-        },
-        "fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5": {
-            "file": "images/fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5.jpg",
-            "filename": "paste-69565585293315.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 91284
         }
     }
 }

@@ -18,15 +18,13 @@
         "$Cell_Wall_&_Membrane_Active_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nWhat antibiotic should you use when infection is resistant to multiple other treatments?",
+        "text": "What antibiotic should you use when infection is resistant to multiple other treatments?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat antibiotic should you use when infection is resistant to multiple other treatments?\n\nCarbapenems\n\n[Image: 2f13774e18d3a75e706fbc960bab5430a8521a313e79834f1da06272fbd4fa52]\n\n1.5 - Monobactams & Carbapenems\n[Image: d8d4c71811505c9367d22065fbd911632eb67d2cb611aafe25a06b42a00f5877]\n\n[Image: e3859f115ffe53d945d8107cb9f86f7e734a992a9b70fbd3db57d43f73f409de]",
+        "text": "Carbapenems\n\n[Image: 2f13774e18d3a75e706fbc960bab5430a8521a313e79834f1da06272fbd4fa52]",
         "imageIds": [
-            "2f13774e18d3a75e706fbc960bab5430a8521a313e79834f1da06272fbd4fa52",
-            "d8d4c71811505c9367d22065fbd911632eb67d2cb611aafe25a06b42a00f5877",
-            "e3859f115ffe53d945d8107cb9f86f7e734a992a9b70fbd3db57d43f73f409de"
+            "2f13774e18d3a75e706fbc960bab5430a8521a313e79834f1da06272fbd4fa52"
         ]
     },
     "images": {
@@ -35,18 +33,6 @@
             "filename": "paste-104170136797187.jpg",
             "mimeType": "image/jpeg",
             "bytes": 43736
-        },
-        "d8d4c71811505c9367d22065fbd911632eb67d2cb611aafe25a06b42a00f5877": {
-            "file": "images/d8d4c71811505c9367d22065fbd911632eb67d2cb611aafe25a06b42a00f5877.jpg",
-            "filename": "paste-192663642963969.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 105828
-        },
-        "e3859f115ffe53d945d8107cb9f86f7e734a992a9b70fbd3db57d43f73f409de": {
-            "file": "images/e3859f115ffe53d945d8107cb9f86f7e734a992a9b70fbd3db57d43f73f409de.jpg",
-            "filename": "paste-383909946720259.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 81852
         }
     }
 }

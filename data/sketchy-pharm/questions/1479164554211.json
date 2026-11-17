@@ -18,49 +18,21 @@
         "$Anti-inflammatory"
     ],
     "question": {
-        "text": "§\n\nWhat type of cancer most commonly causes tumor lysis syndrome?",
+        "text": "What type of cancer most commonly causes tumor lysis syndrome?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat type of cancer most commonly causes tumor lysis syndrome?\n\n(1) Lymphoma\n(2) Acute lymphoblastic leukemia\n\n[Image: 722e147bdc21f72b9a9d05ac7217d39b66ebe6c36d2b3d8909376e74d1a02bb5]\n\n3.2 - Gout Drugs\n[Image: be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df]\n\n[Image: 558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616]\n\n[Image: d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b]\n\n[Image: a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730]",
+        "text": "(1) Lymphoma\n(2) Acute lymphoblastic leukemia\n\n[Image: 722e147bdc21f72b9a9d05ac7217d39b66ebe6c36d2b3d8909376e74d1a02bb5]",
         "imageIds": [
-            "722e147bdc21f72b9a9d05ac7217d39b66ebe6c36d2b3d8909376e74d1a02bb5",
-            "be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df",
-            "558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616",
-            "d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b",
-            "a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730"
+            "722e147bdc21f72b9a9d05ac7217d39b66ebe6c36d2b3d8909376e74d1a02bb5"
         ]
     },
     "images": {
-        "558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616": {
-            "file": "images/558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616.jpg",
-            "filename": "paste-121358595915779.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 132759
-        },
         "722e147bdc21f72b9a9d05ac7217d39b66ebe6c36d2b3d8909376e74d1a02bb5": {
             "file": "images/722e147bdc21f72b9a9d05ac7217d39b66ebe6c36d2b3d8909376e74d1a02bb5.jpg",
             "filename": "paste-57256209022979.jpg",
             "mimeType": "image/jpeg",
             "bytes": 66395
-        },
-        "a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730": {
-            "file": "images/a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730.jpg",
-            "filename": "paste-123982820933635.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 34602
-        },
-        "be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df": {
-            "file": "images/be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df.jpg",
-            "filename": "paste-583518551801857.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 158251
-        },
-        "d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b": {
-            "file": "images/d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b.jpg",
-            "filename": "paste-113215337922563.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 184086
         }
     }
 }

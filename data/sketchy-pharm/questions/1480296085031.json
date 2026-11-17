@@ -18,19 +18,16 @@
         "$Antimetabolites"
     ],
     "question": {
-        "text": "§\n\nAdverse Effects (4) : AZA/6-MP",
+        "text": "Adverse Effects (4) : AZA/6-MP",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAdverse Effects (4) : AZA/6-MP\n\n(1) Myelosuppression\n(2) ⇒ Immunosuppression\n\n(3) Pancreatitis\n\n(4) Hepatitis\n\n[Image: 68c5fe9563f1aa440cc61b903d0e65a34867373221a93661fb7cd209b5917b70]\n\n[Image: 0c4c59be698c70c5f45f57d4803c5aa654699ca587355c7de7626e724d24e819]\n\n[Image: 1c06a51277b3589cbd1b85fb5f56ab68fd20882e3d07309ad11929aa40b857fb]\n\n[Image: accbb184773fc58cf7463017bc1ae19caea0ea5e15ffc454c1f129019aab2400]\n\n1.2 - Azathioprine, 6-mercaptopurine, mycophenolate mofetil\n[Image: d2bdd79bc4ae3f60d8c0e14fcb3dd0af16bc03c2cfa0dc07325ab541a5e1fa11]\n\n[Image: 84ba1e25ca7d6be138bfb929220d7171594d2b977c19dd2d5f17e2a7fa0bda8c]\n\n[Image: e19f5a1ffca1b6101ba47e85c3245210cc16464227cefb77f324c5526bbbd848]",
+        "text": "(1) Myelosuppression\n(2) ⇒ Immunosuppression\n\n(3) Pancreatitis\n\n(4) Hepatitis\n\n[Image: 68c5fe9563f1aa440cc61b903d0e65a34867373221a93661fb7cd209b5917b70]\n\n[Image: 0c4c59be698c70c5f45f57d4803c5aa654699ca587355c7de7626e724d24e819]\n\n[Image: 1c06a51277b3589cbd1b85fb5f56ab68fd20882e3d07309ad11929aa40b857fb]\n\n[Image: accbb184773fc58cf7463017bc1ae19caea0ea5e15ffc454c1f129019aab2400]",
         "imageIds": [
             "68c5fe9563f1aa440cc61b903d0e65a34867373221a93661fb7cd209b5917b70",
             "0c4c59be698c70c5f45f57d4803c5aa654699ca587355c7de7626e724d24e819",
             "1c06a51277b3589cbd1b85fb5f56ab68fd20882e3d07309ad11929aa40b857fb",
-            "accbb184773fc58cf7463017bc1ae19caea0ea5e15ffc454c1f129019aab2400",
-            "d2bdd79bc4ae3f60d8c0e14fcb3dd0af16bc03c2cfa0dc07325ab541a5e1fa11",
-            "84ba1e25ca7d6be138bfb929220d7171594d2b977c19dd2d5f17e2a7fa0bda8c",
-            "e19f5a1ffca1b6101ba47e85c3245210cc16464227cefb77f324c5526bbbd848"
+            "accbb184773fc58cf7463017bc1ae19caea0ea5e15ffc454c1f129019aab2400"
         ]
     },
     "images": {
@@ -52,29 +49,11 @@
             "mimeType": "image/jpeg",
             "bytes": 62368
         },
-        "84ba1e25ca7d6be138bfb929220d7171594d2b977c19dd2d5f17e2a7fa0bda8c": {
-            "file": "images/84ba1e25ca7d6be138bfb929220d7171594d2b977c19dd2d5f17e2a7fa0bda8c.jpg",
-            "filename": "paste-160206575108099.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 33038
-        },
         "accbb184773fc58cf7463017bc1ae19caea0ea5e15ffc454c1f129019aab2400": {
             "file": "images/accbb184773fc58cf7463017bc1ae19caea0ea5e15ffc454c1f129019aab2400.jpg",
             "filename": "paste-48120813584387.jpg",
             "mimeType": "image/jpeg",
             "bytes": 61631
-        },
-        "d2bdd79bc4ae3f60d8c0e14fcb3dd0af16bc03c2cfa0dc07325ab541a5e1fa11": {
-            "file": "images/d2bdd79bc4ae3f60d8c0e14fcb3dd0af16bc03c2cfa0dc07325ab541a5e1fa11.jpg",
-            "filename": "paste-339392610697217.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 143365
-        },
-        "e19f5a1ffca1b6101ba47e85c3245210cc16464227cefb77f324c5526bbbd848": {
-            "file": "images/e19f5a1ffca1b6101ba47e85c3245210cc16464227cefb77f324c5526bbbd848.jpg",
-            "filename": "paste-55825984913411.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 121727
         }
     }
 }

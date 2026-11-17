@@ -18,38 +18,17 @@
         "$Other_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nName an antibiotic commonly used for UTIs which is also effective against MRSA",
+        "text": "Name an antibiotic commonly used for UTIs which is also effective against MRSA",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName an antibiotic commonly used for UTIs which is also effective against MRSA\n\nTMP-SMX\n\n[Image: c094d0b299a4c11476bcbb81b10aad3f8aae258445932b92d11dcae48eee35a6]\n\n[Image: 72f5e1e15bc9dfc7581f799ccb33f9ed755a3042aa4c4dcded2efe3ae6c20d55]\n\n4.1 - Trimethoprim/Sulfamethoxazole\n[Image: 37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da]\n\n[Image: 415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9]\n\n[Image: 302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70]",
+        "text": "TMP-SMX\n\n[Image: c094d0b299a4c11476bcbb81b10aad3f8aae258445932b92d11dcae48eee35a6]\n\n[Image: 72f5e1e15bc9dfc7581f799ccb33f9ed755a3042aa4c4dcded2efe3ae6c20d55]",
         "imageIds": [
             "c094d0b299a4c11476bcbb81b10aad3f8aae258445932b92d11dcae48eee35a6",
-            "72f5e1e15bc9dfc7581f799ccb33f9ed755a3042aa4c4dcded2efe3ae6c20d55",
-            "37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da",
-            "415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9",
-            "302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70"
+            "72f5e1e15bc9dfc7581f799ccb33f9ed755a3042aa4c4dcded2efe3ae6c20d55"
         ]
     },
     "images": {
-        "302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70": {
-            "file": "images/302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70.jpg",
-            "filename": "paste-184696478629891.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 30701
-        },
-        "37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da": {
-            "file": "images/37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da.jpg",
-            "filename": "paste-247265562198017.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 141182
-        },
-        "415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9": {
-            "file": "images/415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9.jpg",
-            "filename": "paste-413223098515459.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 75809
-        },
         "72f5e1e15bc9dfc7581f799ccb33f9ed755a3042aa4c4dcded2efe3ae6c20d55": {
             "file": "images/72f5e1e15bc9dfc7581f799ccb33f9ed755a3042aa4c4dcded2efe3ae6c20d55.jpg",
             "filename": "paste-201296527228931.jpg",

@@ -18,42 +18,21 @@
         "$Antipsychotics_&_Parkinsons"
     ],
     "question": {
-        "text": "§\n\nWhat is a distinctive side effect of Thiorizidine?",
+        "text": "What is a distinctive side effect of Thiorizidine?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat is a distinctive side effect of Thiorizidine?\n\nRetinal deposits\n\n[Image: c7674e7b296f045b7429ace74e5da151ca9d3be531995cfd0cfd90793d64bf72]\n\n5.1 - First generation antipsychotics\n[Image: 200ef1c009b3b266b3583f9b4d9e10fb1caa8940070d0b905749a3474112cf5f]\n\n[Image: d8214ad280ce2cc641eacc7e93ad25f9b6e0c7f1ea8c5a9f5cae2be4561b73fb]\n\n[Image: 44444e5c55bab9d789789b80ffeb27d73b29ad3770e9b09e1768fe78a62993ce]",
+        "text": "Retinal deposits\n\n[Image: c7674e7b296f045b7429ace74e5da151ca9d3be531995cfd0cfd90793d64bf72]",
         "imageIds": [
-            "c7674e7b296f045b7429ace74e5da151ca9d3be531995cfd0cfd90793d64bf72",
-            "200ef1c009b3b266b3583f9b4d9e10fb1caa8940070d0b905749a3474112cf5f",
-            "d8214ad280ce2cc641eacc7e93ad25f9b6e0c7f1ea8c5a9f5cae2be4561b73fb",
-            "44444e5c55bab9d789789b80ffeb27d73b29ad3770e9b09e1768fe78a62993ce"
+            "c7674e7b296f045b7429ace74e5da151ca9d3be531995cfd0cfd90793d64bf72"
         ]
     },
     "images": {
-        "200ef1c009b3b266b3583f9b4d9e10fb1caa8940070d0b905749a3474112cf5f": {
-            "file": "images/200ef1c009b3b266b3583f9b4d9e10fb1caa8940070d0b905749a3474112cf5f.jpg",
-            "filename": "paste-1242383714877441.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 149168
-        },
-        "44444e5c55bab9d789789b80ffeb27d73b29ad3770e9b09e1768fe78a62993ce": {
-            "file": "images/44444e5c55bab9d789789b80ffeb27d73b29ad3770e9b09e1768fe78a62993ce.jpg",
-            "filename": "paste-30584462114819.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 120520
-        },
         "c7674e7b296f045b7429ace74e5da151ca9d3be531995cfd0cfd90793d64bf72": {
             "file": "images/c7674e7b296f045b7429ace74e5da151ca9d3be531995cfd0cfd90793d64bf72.jpg",
             "filename": "paste-274495654854659.jpg",
             "mimeType": "image/jpeg",
             "bytes": 64141
-        },
-        "d8214ad280ce2cc641eacc7e93ad25f9b6e0c7f1ea8c5a9f5cae2be4561b73fb": {
-            "file": "images/d8214ad280ce2cc641eacc7e93ad25f9b6e0c7f1ea8c5a9f5cae2be4561b73fb.jpg",
-            "filename": "paste-161787123073027.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 150667
         }
     }
 }

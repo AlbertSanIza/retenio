@@ -18,16 +18,13 @@
         "$Inhibitors_of_Bacterial_Protein_Synthesis"
     ],
     "question": {
-        "text": "§\n\nName a gram (+) organism aminoglycosides are effective against",
+        "text": "Name a gram (+) organism aminoglycosides are effective against",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName a gram (+) organism aminoglycosides are effective against\n\nEnterococcus (when paired with cell wall active agent)\n\n[Image: 2dfe443a6792934c1bbd16a13f806fbbd48dbf07d2ff60abdc5565dcec432d14]\n\n2.6 - Aminoglycosides\n[Image: 9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d]\n\n[Image: 8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4]\n\n[Image: 4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1]",
+        "text": "Enterococcus (when paired with cell wall active agent)\n\n[Image: 2dfe443a6792934c1bbd16a13f806fbbd48dbf07d2ff60abdc5565dcec432d14]",
         "imageIds": [
-            "2dfe443a6792934c1bbd16a13f806fbbd48dbf07d2ff60abdc5565dcec432d14",
-            "9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d",
-            "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4",
-            "4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1"
+            "2dfe443a6792934c1bbd16a13f806fbbd48dbf07d2ff60abdc5565dcec432d14"
         ]
     },
     "images": {
@@ -36,24 +33,6 @@
             "filename": "paste-26538602921987.jpg",
             "mimeType": "image/jpeg",
             "bytes": 42384
-        },
-        "4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1": {
-            "file": "images/4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1.jpg",
-            "filename": "paste-32100585570307.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 91413
-        },
-        "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4": {
-            "file": "images/8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4.jpg",
-            "filename": "paste-321710230339587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 76271
-        },
-        "9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d": {
-            "file": "images/9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d.jpg",
-            "filename": "paste-232065672937473.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 108815
         }
     }
 }

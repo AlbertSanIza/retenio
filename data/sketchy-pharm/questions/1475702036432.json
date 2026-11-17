@@ -18,66 +18,23 @@
         "$DyslipidemiaDrugs"
     ],
     "question": {
-        "text": "§\n\nAdverse Effects (3) : Statins",
+        "text": "Adverse Effects (3) : Statins",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAdverse Effects (3) : Statins\n\n(1) Myopathy\n(2) ↑ LFTs\n\n(3) Teratogen\n\n[Image: 51172435d4d6911e75324035c52a0e131ab48309eddb98d92a61c2abbf87c2fe]\n\n[Image: d4bebe6f5a604700701a19ece2bec53581b3aad2e7cbcc8168bf012b928745b2]\n\n[Image: dbecffa339914c1b72233d4bda7385a531ba4fcc17d896b4702d7bf25d74d810]\n\n2.1 - Statins\n[Image: 158bda76ba47361fcc8e4153313c117d5b67a21350c6ffd0f2c9fb93071fe5bc]\n\n[Image: a0a080ce2b8b49bc3866b73c2965cae27044eb48f9fd2bc16c97ce5d2242c919]\n\n[Image: 227613fa19fb5669793c24ecbff51b2136731a1d2efda6e58533c42eaafc806f]\n\n[Image: b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e]\n\n[Image: dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139]\n\n[Image: 88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39]\n\n[Image: 27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9]",
+        "text": "(1) Myopathy\n(2) ↑ LFTs\n\n(3) Teratogen\n\n[Image: 51172435d4d6911e75324035c52a0e131ab48309eddb98d92a61c2abbf87c2fe]\n\n[Image: d4bebe6f5a604700701a19ece2bec53581b3aad2e7cbcc8168bf012b928745b2]\n\n[Image: dbecffa339914c1b72233d4bda7385a531ba4fcc17d896b4702d7bf25d74d810]",
         "imageIds": [
             "51172435d4d6911e75324035c52a0e131ab48309eddb98d92a61c2abbf87c2fe",
             "d4bebe6f5a604700701a19ece2bec53581b3aad2e7cbcc8168bf012b928745b2",
-            "dbecffa339914c1b72233d4bda7385a531ba4fcc17d896b4702d7bf25d74d810",
-            "158bda76ba47361fcc8e4153313c117d5b67a21350c6ffd0f2c9fb93071fe5bc",
-            "a0a080ce2b8b49bc3866b73c2965cae27044eb48f9fd2bc16c97ce5d2242c919",
-            "227613fa19fb5669793c24ecbff51b2136731a1d2efda6e58533c42eaafc806f",
-            "b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e",
-            "dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139",
-            "88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39",
-            "27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9"
+            "dbecffa339914c1b72233d4bda7385a531ba4fcc17d896b4702d7bf25d74d810"
         ]
     },
     "images": {
-        "158bda76ba47361fcc8e4153313c117d5b67a21350c6ffd0f2c9fb93071fe5bc": {
-            "file": "images/158bda76ba47361fcc8e4153313c117d5b67a21350c6ffd0f2c9fb93071fe5bc.jpg",
-            "filename": "paste-560987153367041.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 142719
-        },
-        "227613fa19fb5669793c24ecbff51b2136731a1d2efda6e58533c42eaafc806f": {
-            "file": "images/227613fa19fb5669793c24ecbff51b2136731a1d2efda6e58533c42eaafc806f.jpg",
-            "filename": "paste-161598144512003.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 76814
-        },
-        "27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9": {
-            "file": "images/27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9.jpg",
-            "filename": "paste-203263622250499.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 84124
-        },
         "51172435d4d6911e75324035c52a0e131ab48309eddb98d92a61c2abbf87c2fe": {
             "file": "images/51172435d4d6911e75324035c52a0e131ab48309eddb98d92a61c2abbf87c2fe.jpg",
             "filename": "paste-44491566219267.jpg",
             "mimeType": "image/jpeg",
             "bytes": 93285
-        },
-        "88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39": {
-            "file": "images/88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39.jpg",
-            "filename": "paste-235252538671107.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 88003
-        },
-        "a0a080ce2b8b49bc3866b73c2965cae27044eb48f9fd2bc16c97ce5d2242c919": {
-            "file": "images/a0a080ce2b8b49bc3866b73c2965cae27044eb48f9fd2bc16c97ce5d2242c919.jpg",
-            "filename": "paste-244138826006531.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 34539
-        },
-        "b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e": {
-            "file": "images/b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e.jpg",
-            "filename": "paste-230506599809027.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 80740
         },
         "d4bebe6f5a604700701a19ece2bec53581b3aad2e7cbcc8168bf012b928745b2": {
             "file": "images/d4bebe6f5a604700701a19ece2bec53581b3aad2e7cbcc8168bf012b928745b2.jpg",
@@ -90,12 +47,6 @@
             "filename": "paste-141493402599427.jpg",
             "mimeType": "image/jpeg",
             "bytes": 54575
-        },
-        "dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139": {
-            "file": "images/dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139.jpg",
-            "filename": "paste-225266739707907.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 37177
         }
     }
 }

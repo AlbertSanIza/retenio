@@ -18,11 +18,11 @@
         "$Allergy&Pulmonary"
     ],
     "question": {
-        "text": "§\n\nTreatment (8) : Persistent asthma (not β2 agonist)",
+        "text": "Treatment (8) : Persistent asthma (not β2 agonist)",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nTreatment (8) : Persistent asthma (not β2 agonist)\n\n(1) Inhaled corticosteroids\n(2) Direct lipoxygenase inhibitors\n\n(3) Methylxanthines\n\n(4) Omalizumab\n\n(5) Cromolyn Sulfate\n\n(6) LTD4-receptor antagonists\n\n(7) Ipratropium\n\n(8) Epinephrine\n\n[Image: 9a30812ee03fe61ae3e8c6e759b54526c43ab1139ea7d8ceaccf4885e6b897ba]\n\n[Image: 0b140e469e163d0223ec4f1490058e11a7e5cc28749aee2680eb5b647be21ed4]\n\n[Image: 257ccacfe2016633d0c796b31e2c48921c9b3ad3131b8e3248b678630b9ea3ed]\n\n[Image: 1609a1368e1465a4ed05ddde6eed3da4918fb820ac3a28f2ae74f4243434cf14]\n\n[Image: befbcf124f19e32e88d45f3077ddced2bea94e1e57634a85bc58c1a286a2cc01]\n\n[Image: d04e393f21f689bd2b32fd5b2cf54608be8f9df8f2a4f12dd52c7ea0d5067f70]\n\n[Image: bb15127d7d3f9e8d03d864a34c07dc3d2215f3c84f5999cb5efe20eef12d1a64]\n\n[Image: 4a50c6f7be1f46e02c629bd8fd99f266e38a51f41c2a2a870ce22d82b14affd5]\n\n2.2 - Asthma therapy\n[Image: e92726a647257b191f36ff11cd1c71beca3a38b268608df9bf56c77037f43664]\n\n[Image: 6113154b5fea5528d9b048aa0bc013734d012b489d39783dab0e85ae0d8397bd]\n\n[Image: e00e076510134c7c47a9ca088e92c9e9b082a133c7457025214a69ef298abdf7]\n\n[Image: d4b63c6e9956c3fd5a99087b557d732d6aad91fc130350646f27b6edec3ce8ba]\n\n[Image: fedfeab598ea68ba2ab423bd63475f6d9f5a620d95c3516bb0958e58eb7927e2]\n\n[Image: 8d08189ed0b214c1737ca089af2817ad19b74c289b5dea85608c6eb1943a3416]\n\n[Image: 7be616fb70ef24ca666d9066fde3a03ba299d28c8ffb2f0d70abb609ea705054]",
+        "text": "(1) Inhaled corticosteroids\n(2) Direct lipoxygenase inhibitors\n\n(3) Methylxanthines\n\n(4) Omalizumab\n\n(5) Cromolyn Sulfate\n\n(6) LTD4-receptor antagonists\n\n(7) Ipratropium\n\n(8) Epinephrine\n\n[Image: 9a30812ee03fe61ae3e8c6e759b54526c43ab1139ea7d8ceaccf4885e6b897ba]\n\n[Image: 0b140e469e163d0223ec4f1490058e11a7e5cc28749aee2680eb5b647be21ed4]\n\n[Image: 257ccacfe2016633d0c796b31e2c48921c9b3ad3131b8e3248b678630b9ea3ed]\n\n[Image: 1609a1368e1465a4ed05ddde6eed3da4918fb820ac3a28f2ae74f4243434cf14]\n\n[Image: befbcf124f19e32e88d45f3077ddced2bea94e1e57634a85bc58c1a286a2cc01]\n\n[Image: d04e393f21f689bd2b32fd5b2cf54608be8f9df8f2a4f12dd52c7ea0d5067f70]\n\n[Image: bb15127d7d3f9e8d03d864a34c07dc3d2215f3c84f5999cb5efe20eef12d1a64]\n\n[Image: 4a50c6f7be1f46e02c629bd8fd99f266e38a51f41c2a2a870ce22d82b14affd5]",
         "imageIds": [
             "9a30812ee03fe61ae3e8c6e759b54526c43ab1139ea7d8ceaccf4885e6b897ba",
             "0b140e469e163d0223ec4f1490058e11a7e5cc28749aee2680eb5b647be21ed4",
@@ -31,14 +31,7 @@
             "befbcf124f19e32e88d45f3077ddced2bea94e1e57634a85bc58c1a286a2cc01",
             "d04e393f21f689bd2b32fd5b2cf54608be8f9df8f2a4f12dd52c7ea0d5067f70",
             "bb15127d7d3f9e8d03d864a34c07dc3d2215f3c84f5999cb5efe20eef12d1a64",
-            "4a50c6f7be1f46e02c629bd8fd99f266e38a51f41c2a2a870ce22d82b14affd5",
-            "e92726a647257b191f36ff11cd1c71beca3a38b268608df9bf56c77037f43664",
-            "6113154b5fea5528d9b048aa0bc013734d012b489d39783dab0e85ae0d8397bd",
-            "e00e076510134c7c47a9ca088e92c9e9b082a133c7457025214a69ef298abdf7",
-            "d4b63c6e9956c3fd5a99087b557d732d6aad91fc130350646f27b6edec3ce8ba",
-            "fedfeab598ea68ba2ab423bd63475f6d9f5a620d95c3516bb0958e58eb7927e2",
-            "8d08189ed0b214c1737ca089af2817ad19b74c289b5dea85608c6eb1943a3416",
-            "7be616fb70ef24ca666d9066fde3a03ba299d28c8ffb2f0d70abb609ea705054"
+            "4a50c6f7be1f46e02c629bd8fd99f266e38a51f41c2a2a870ce22d82b14affd5"
         ]
     },
     "images": {
@@ -66,24 +59,6 @@
             "mimeType": "image/jpeg",
             "bytes": 60253
         },
-        "6113154b5fea5528d9b048aa0bc013734d012b489d39783dab0e85ae0d8397bd": {
-            "file": "images/6113154b5fea5528d9b048aa0bc013734d012b489d39783dab0e85ae0d8397bd.jpg",
-            "filename": "paste-135622182305795.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 99368
-        },
-        "7be616fb70ef24ca666d9066fde3a03ba299d28c8ffb2f0d70abb609ea705054": {
-            "file": "images/7be616fb70ef24ca666d9066fde3a03ba299d28c8ffb2f0d70abb609ea705054.jpg",
-            "filename": "paste-237176684019715.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 66869
-        },
-        "8d08189ed0b214c1737ca089af2817ad19b74c289b5dea85608c6eb1943a3416": {
-            "file": "images/8d08189ed0b214c1737ca089af2817ad19b74c289b5dea85608c6eb1943a3416.jpg",
-            "filename": "paste-238714282311683.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 94451
-        },
         "9a30812ee03fe61ae3e8c6e759b54526c43ab1139ea7d8ceaccf4885e6b897ba": {
             "file": "images/9a30812ee03fe61ae3e8c6e759b54526c43ab1139ea7d8ceaccf4885e6b897ba.jpg",
             "filename": "paste-21685289877507.jpg",
@@ -107,30 +82,6 @@
             "filename": "paste-24099061497859.jpg",
             "mimeType": "image/jpeg",
             "bytes": 83746
-        },
-        "d4b63c6e9956c3fd5a99087b557d732d6aad91fc130350646f27b6edec3ce8ba": {
-            "file": "images/d4b63c6e9956c3fd5a99087b557d732d6aad91fc130350646f27b6edec3ce8ba.jpg",
-            "filename": "paste-53291954208771.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 51421
-        },
-        "e00e076510134c7c47a9ca088e92c9e9b082a133c7457025214a69ef298abdf7": {
-            "file": "images/e00e076510134c7c47a9ca088e92c9e9b082a133c7457025214a69ef298abdf7.jpg",
-            "filename": "paste-26177825669123.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 167780
-        },
-        "e92726a647257b191f36ff11cd1c71beca3a38b268608df9bf56c77037f43664": {
-            "file": "images/e92726a647257b191f36ff11cd1c71beca3a38b268608df9bf56c77037f43664.jpg",
-            "filename": "paste-97534412324867.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 150362
-        },
-        "fedfeab598ea68ba2ab423bd63475f6d9f5a620d95c3516bb0958e58eb7927e2": {
-            "file": "images/fedfeab598ea68ba2ab423bd63475f6d9f5a620d95c3516bb0958e58eb7927e2.jpg",
-            "filename": "paste-235536006512643.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 63315
         }
     }
 }

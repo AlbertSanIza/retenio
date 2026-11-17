@@ -18,50 +18,22 @@
         "$Antihypertensives"
     ],
     "question": {
-        "text": "§\n\nWhat combination vasodilatory drug therapy is used in patients with heart failure?",
+        "text": "What combination vasodilatory drug therapy is used in patients with heart failure?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat combination vasodilatory drug therapy is used in patients with heart failure?\n\nHydralazine + Nitroglycerin\n\n[Image: 1fc902810f8a348943675807ac9b4274b85b5a5164854263ed85150f2aae214d]\n\n[Image: fbd33933b79ad8627aaf74db83d510eb33e346ea189049d58c5b7a902e39974d]\n\n3.2 - Primary hypertension & hypertensive emergency\n[Image: 558c8aea88389d648e7a436e46dada6c4ba4d7158519e9d31282f97d08e386fb]\n\n[Image: 527ef845c1c081f398af849bf7d8e9f8ceb5c6c73d85204b4834400f36c4e08b]\n\n[Image: 45b72dad285f9c6947b00c612fc94df93f1d5074c6cd922801c49a8f1d2f4ffb]\n\n[Image: 0e92bb92cae876485d96ea6194e6102ab2db7ce1594db214c5e6d773cc2401df]",
+        "text": "Hydralazine + Nitroglycerin\n\n[Image: 1fc902810f8a348943675807ac9b4274b85b5a5164854263ed85150f2aae214d]\n\n[Image: fbd33933b79ad8627aaf74db83d510eb33e346ea189049d58c5b7a902e39974d]",
         "imageIds": [
             "1fc902810f8a348943675807ac9b4274b85b5a5164854263ed85150f2aae214d",
-            "fbd33933b79ad8627aaf74db83d510eb33e346ea189049d58c5b7a902e39974d",
-            "558c8aea88389d648e7a436e46dada6c4ba4d7158519e9d31282f97d08e386fb",
-            "527ef845c1c081f398af849bf7d8e9f8ceb5c6c73d85204b4834400f36c4e08b",
-            "45b72dad285f9c6947b00c612fc94df93f1d5074c6cd922801c49a8f1d2f4ffb",
-            "0e92bb92cae876485d96ea6194e6102ab2db7ce1594db214c5e6d773cc2401df"
+            "fbd33933b79ad8627aaf74db83d510eb33e346ea189049d58c5b7a902e39974d"
         ]
     },
     "images": {
-        "0e92bb92cae876485d96ea6194e6102ab2db7ce1594db214c5e6d773cc2401df": {
-            "file": "images/0e92bb92cae876485d96ea6194e6102ab2db7ce1594db214c5e6d773cc2401df.jpg",
-            "filename": "paste-686305709129731.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 53533
-        },
         "1fc902810f8a348943675807ac9b4274b85b5a5164854263ed85150f2aae214d": {
             "file": "images/1fc902810f8a348943675807ac9b4274b85b5a5164854263ed85150f2aae214d.jpg",
             "filename": "paste-124008590737411.jpg",
             "mimeType": "image/jpeg",
             "bytes": 47743
-        },
-        "45b72dad285f9c6947b00c612fc94df93f1d5074c6cd922801c49a8f1d2f4ffb": {
-            "file": "images/45b72dad285f9c6947b00c612fc94df93f1d5074c6cd922801c49a8f1d2f4ffb.jpg",
-            "filename": "paste-669701365563395.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 53703
-        },
-        "527ef845c1c081f398af849bf7d8e9f8ceb5c6c73d85204b4834400f36c4e08b": {
-            "file": "images/527ef845c1c081f398af849bf7d8e9f8ceb5c6c73d85204b4834400f36c4e08b.jpg",
-            "filename": "paste-15131169783811.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 58426
-        },
-        "558c8aea88389d648e7a436e46dada6c4ba4d7158519e9d31282f97d08e386fb": {
-            "file": "images/558c8aea88389d648e7a436e46dada6c4ba4d7158519e9d31282f97d08e386fb.jpg",
-            "filename": "paste-639413256192001.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 143058
         },
         "fbd33933b79ad8627aaf74db83d510eb33e346ea189049d58c5b7a902e39974d": {
             "file": "images/fbd33933b79ad8627aaf74db83d510eb33e346ea189049d58c5b7a902e39974d.jpg",

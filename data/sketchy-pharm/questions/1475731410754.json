@@ -18,42 +18,21 @@
         "$Sympathetics"
     ],
     "question": {
-        "text": "§\n\nMOA: Phenoxybenzamine",
+        "text": "MOA: Phenoxybenzamine",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nMOA: Phenoxybenzamine\n\nIrreversibly inhibits α1 and α2\n\n[Image: 81821ed93532e3b1d4db6d981572a475e661c5ef0cc4fe467407f46379342b3e]\n\n2.3 - Alpha drugs\n[Image: 6d1f9909b75adf86402e07f1808048bc9711379c8fe30b6485de20d893dabee0]\n\n[Image: 92707090337fa9d104b6f21ce31eb14c6b75d6ba7652bd73d952507e2c8b9d2d]\n\n[Image: 0db160a48dfc354c1ebe79e23258cf8b50857b2d212fa7b14d388a6217752a43]",
+        "text": "Irreversibly inhibits α1 and α2\n\n[Image: 81821ed93532e3b1d4db6d981572a475e661c5ef0cc4fe467407f46379342b3e]",
         "imageIds": [
-            "81821ed93532e3b1d4db6d981572a475e661c5ef0cc4fe467407f46379342b3e",
-            "6d1f9909b75adf86402e07f1808048bc9711379c8fe30b6485de20d893dabee0",
-            "92707090337fa9d104b6f21ce31eb14c6b75d6ba7652bd73d952507e2c8b9d2d",
-            "0db160a48dfc354c1ebe79e23258cf8b50857b2d212fa7b14d388a6217752a43"
+            "81821ed93532e3b1d4db6d981572a475e661c5ef0cc4fe467407f46379342b3e"
         ]
     },
     "images": {
-        "0db160a48dfc354c1ebe79e23258cf8b50857b2d212fa7b14d388a6217752a43": {
-            "file": "images/0db160a48dfc354c1ebe79e23258cf8b50857b2d212fa7b14d388a6217752a43.jpg",
-            "filename": "paste-608730009829379.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 26948
-        },
-        "6d1f9909b75adf86402e07f1808048bc9711379c8fe30b6485de20d893dabee0": {
-            "file": "images/6d1f9909b75adf86402e07f1808048bc9711379c8fe30b6485de20d893dabee0.jpg",
-            "filename": "paste-433869006307329.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 136181
-        },
         "81821ed93532e3b1d4db6d981572a475e661c5ef0cc4fe467407f46379342b3e": {
             "file": "images/81821ed93532e3b1d4db6d981572a475e661c5ef0cc4fe467407f46379342b3e.jpg",
             "filename": "paste-32624571580419.jpg",
             "mimeType": "image/jpeg",
             "bytes": 50529
-        },
-        "92707090337fa9d104b6f21ce31eb14c6b75d6ba7652bd73d952507e2c8b9d2d": {
-            "file": "images/92707090337fa9d104b6f21ce31eb14c6b75d6ba7652bd73d952507e2c8b9d2d.jpg",
-            "filename": "paste-610731464589315.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 48349
         }
     }
 }

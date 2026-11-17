@@ -18,40 +18,17 @@
         "$Diabetes"
     ],
     "question": {
-        "text": "§\n\nMOA: \"-gliptin\" drugs",
+        "text": "MOA: \"-gliptin\" drugs",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nMOA: \"-gliptin\" drugs\n\nInhibit DDP-4\n\n(And ∴ degradation of GLP-1. Gliptins be GLP-liftin)\n\n[Image: b72d55ab3ede6ef62f1448e2ac3cbd475d464b7f4272f5283475518f3f0bebc0]\n\n[Image: 72878c55393c1655c03a4373763b68cf9a2ff788b6490bf6d4b4fc356864dd43]\n\n2.1 - Insulin, sulfonylureas, meglitinides, GLP-1 agonists, DPP-4 inhibitors\n[Image: d4563c0f5a190a17a7288e0360e41e8d67c6dbfcab9d7378abb51e3904b2eeed]\n\n[Image: 13d541a77f83d6ca646a7cbd73bb415478e28faa82e25f8a178f2ea9764498e1]\n\n[Image: 5f500a024f2eda7523cefeadb00a605e0dc8488e9a0a92d15694571abf122dbc]\n\n[Image: 172ef24da9f1adb51fb31db427845467485fb3776c926c1dee0227bc915055e3]\n\n[Image: d6823ca16897e3745b029b6da053e5e131bb1a0f92c5cab1bf13124952c69874]",
+        "text": "Inhibit DDP-4\n\n(And ∴ degradation of GLP-1. Gliptins be GLP-liftin)\n\n[Image: b72d55ab3ede6ef62f1448e2ac3cbd475d464b7f4272f5283475518f3f0bebc0]\n\n[Image: 72878c55393c1655c03a4373763b68cf9a2ff788b6490bf6d4b4fc356864dd43]",
         "imageIds": [
             "b72d55ab3ede6ef62f1448e2ac3cbd475d464b7f4272f5283475518f3f0bebc0",
-            "72878c55393c1655c03a4373763b68cf9a2ff788b6490bf6d4b4fc356864dd43",
-            "d4563c0f5a190a17a7288e0360e41e8d67c6dbfcab9d7378abb51e3904b2eeed",
-            "13d541a77f83d6ca646a7cbd73bb415478e28faa82e25f8a178f2ea9764498e1",
-            "5f500a024f2eda7523cefeadb00a605e0dc8488e9a0a92d15694571abf122dbc",
-            "172ef24da9f1adb51fb31db427845467485fb3776c926c1dee0227bc915055e3",
-            "d6823ca16897e3745b029b6da053e5e131bb1a0f92c5cab1bf13124952c69874"
+            "72878c55393c1655c03a4373763b68cf9a2ff788b6490bf6d4b4fc356864dd43"
         ]
     },
     "images": {
-        "13d541a77f83d6ca646a7cbd73bb415478e28faa82e25f8a178f2ea9764498e1": {
-            "file": "images/13d541a77f83d6ca646a7cbd73bb415478e28faa82e25f8a178f2ea9764498e1.jpg",
-            "filename": "paste-728576777256963.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 77849
-        },
-        "172ef24da9f1adb51fb31db427845467485fb3776c926c1dee0227bc915055e3": {
-            "file": "images/172ef24da9f1adb51fb31db427845467485fb3776c926c1dee0227bc915055e3.jpg",
-            "filename": "paste-96877282328579.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 133257
-        },
-        "5f500a024f2eda7523cefeadb00a605e0dc8488e9a0a92d15694571abf122dbc": {
-            "file": "images/5f500a024f2eda7523cefeadb00a605e0dc8488e9a0a92d15694571abf122dbc.jpg",
-            "filename": "paste-722838700949507.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 28342
-        },
         "72878c55393c1655c03a4373763b68cf9a2ff788b6490bf6d4b4fc356864dd43": {
             "file": "images/72878c55393c1655c03a4373763b68cf9a2ff788b6490bf6d4b4fc356864dd43.jpg",
             "filename": "paste-48112223649795.jpg",
@@ -63,18 +40,6 @@
             "filename": "paste-48026324303875.jpg",
             "mimeType": "image/jpeg",
             "bytes": 55896
-        },
-        "d4563c0f5a190a17a7288e0360e41e8d67c6dbfcab9d7378abb51e3904b2eeed": {
-            "file": "images/d4563c0f5a190a17a7288e0360e41e8d67c6dbfcab9d7378abb51e3904b2eeed.jpg",
-            "filename": "paste-684905549791233.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 118710
-        },
-        "d6823ca16897e3745b029b6da053e5e131bb1a0f92c5cab1bf13124952c69874": {
-            "file": "images/d6823ca16897e3745b029b6da053e5e131bb1a0f92c5cab1bf13124952c69874.jpg",
-            "filename": "paste-99097780420611.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 104792
         }
     }
 }

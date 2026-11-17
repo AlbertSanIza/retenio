@@ -18,49 +18,21 @@
         "$HeartFailureDrugs"
     ],
     "question": {
-        "text": "§\n\nContraindication - Cardiac Origin: Digoxin",
+        "text": "Contraindication - Cardiac Origin: Digoxin",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nContraindication - Cardiac Origin: Digoxin\n\nHeart block\n\n[Image: d34df37a00e15075c5249ba155a2cd93f9c2d1fe6fcb9d3e1b9bea5ca422516b]\n\n1.1 - Digoxin, milrinone, nesiritide\n[Image: e4710e7cdd2eb8b0c4fcdd4f47e9c0298d7bc834ea44b17703e0ed658e992ff3]\n\n[Image: cc39089194326572184bf1c518bc26f5390c4f73a884ec8ad5a12509af47e2cf]\n\n[Image: bc64c259981a2f49c214dc60fdb3640b91401d9fabbcae71eb52515390dbaf48]\n\n[Image: aa726752874900868e52bb4456b25de8c3b4b85eaca0e5aed6f3ad3724afc8b2]",
+        "text": "Heart block\n\n[Image: d34df37a00e15075c5249ba155a2cd93f9c2d1fe6fcb9d3e1b9bea5ca422516b]",
         "imageIds": [
-            "d34df37a00e15075c5249ba155a2cd93f9c2d1fe6fcb9d3e1b9bea5ca422516b",
-            "e4710e7cdd2eb8b0c4fcdd4f47e9c0298d7bc834ea44b17703e0ed658e992ff3",
-            "cc39089194326572184bf1c518bc26f5390c4f73a884ec8ad5a12509af47e2cf",
-            "bc64c259981a2f49c214dc60fdb3640b91401d9fabbcae71eb52515390dbaf48",
-            "aa726752874900868e52bb4456b25de8c3b4b85eaca0e5aed6f3ad3724afc8b2"
+            "d34df37a00e15075c5249ba155a2cd93f9c2d1fe6fcb9d3e1b9bea5ca422516b"
         ]
     },
     "images": {
-        "aa726752874900868e52bb4456b25de8c3b4b85eaca0e5aed6f3ad3724afc8b2": {
-            "file": "images/aa726752874900868e52bb4456b25de8c3b4b85eaca0e5aed6f3ad3724afc8b2.jpg",
-            "filename": "paste-88450556493827.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 59364
-        },
-        "bc64c259981a2f49c214dc60fdb3640b91401d9fabbcae71eb52515390dbaf48": {
-            "file": "images/bc64c259981a2f49c214dc60fdb3640b91401d9fabbcae71eb52515390dbaf48.jpg",
-            "filename": "paste-84082574753795.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 36182
-        },
-        "cc39089194326572184bf1c518bc26f5390c4f73a884ec8ad5a12509af47e2cf": {
-            "file": "images/cc39089194326572184bf1c518bc26f5390c4f73a884ec8ad5a12509af47e2cf.jpg",
-            "filename": "paste-85959475462147.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 91768
-        },
         "d34df37a00e15075c5249ba155a2cd93f9c2d1fe6fcb9d3e1b9bea5ca422516b": {
             "file": "images/d34df37a00e15075c5249ba155a2cd93f9c2d1fe6fcb9d3e1b9bea5ca422516b.jpg",
             "filename": "paste-943539890421763.jpg",
             "mimeType": "image/jpeg",
             "bytes": 72238
-        },
-        "e4710e7cdd2eb8b0c4fcdd4f47e9c0298d7bc834ea44b17703e0ed658e992ff3": {
-            "file": "images/e4710e7cdd2eb8b0c4fcdd4f47e9c0298d7bc834ea44b17703e0ed658e992ff3.jpg",
-            "filename": "paste-602038450782209.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 138139
         }
     }
 }

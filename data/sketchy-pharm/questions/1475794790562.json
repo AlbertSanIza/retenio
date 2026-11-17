@@ -18,37 +18,16 @@
         "$Antidepressants&Anxiolytics"
     ],
     "question": {
-        "text": "§\n\nName 4 SSRIs",
+        "text": "Name 4 SSRIs",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 4 SSRIs\n\n(1) Fluoxetine\n(2) Paroxetine\n\n(3) Sertraline\n\n(4) Citalopram\n\n[Image: e427d82da04332dd0176b7a84284f178e96e88fd22a4f0a0cd79fd1867814858]\n\n3.1 - SSRIs, SNRIs, cyproheptadine\n[Image: ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6]\n\n[Image: 7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943]\n\n[Image: 8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1]",
+        "text": "(1) Fluoxetine\n(2) Paroxetine\n\n(3) Sertraline\n\n(4) Citalopram\n\n[Image: e427d82da04332dd0176b7a84284f178e96e88fd22a4f0a0cd79fd1867814858]",
         "imageIds": [
-            "e427d82da04332dd0176b7a84284f178e96e88fd22a4f0a0cd79fd1867814858",
-            "ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6",
-            "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943",
-            "8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1"
+            "e427d82da04332dd0176b7a84284f178e96e88fd22a4f0a0cd79fd1867814858"
         ]
     },
     "images": {
-        "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943": {
-            "file": "images/7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943.jpg",
-            "filename": "paste-1171594063904771.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 89818
-        },
-        "8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1": {
-            "file": "images/8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1.jpg",
-            "filename": "paste-21088289423363 (2).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 92436
-        },
-        "ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6": {
-            "file": "images/ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6.jpg",
-            "filename": "paste-1134098999410689.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 142260
-        },
         "e427d82da04332dd0176b7a84284f178e96e88fd22a4f0a0cd79fd1867814858": {
             "file": "images/e427d82da04332dd0176b7a84284f178e96e88fd22a4f0a0cd79fd1867814858.jpg",
             "filename": "paste-12004433592323.jpg",

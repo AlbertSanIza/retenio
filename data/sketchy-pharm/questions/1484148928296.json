@@ -18,60 +18,23 @@
         "$GI"
     ],
     "question": {
-        "text": "§\n\nWhat directly stimulates parietal cells to secrete HCl?",
+        "text": "What directly stimulates parietal cells to secrete HCl?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat directly stimulates parietal cells to secrete HCl?\n\n(1) Histamine\n(2) Gastrin\n\n(3) Acetylcholine\n\n[Image: 96d9e43580561c0ca9ef9adc3d15182d25cfde1854888451bba57d432bd921db]\n\n[Image: 68f44a0a0ab97233431dbffb8a13eb95abc679fa3aadca6e1c7a7b4a56667842]\n\n[Image: 8055e23517cc15a22f020d244e173b19460b48f3d8e07b4b4d818109d5f35cc9]\n\n1.2 - H2 receptor blockers, PPIs\n[Image: 9dba8c277ce7510d092efa9203df57f234b50abbd7a844e882147933982b3998]\n\n[Image: 1a5be55801cb6e1fe815d8fe4e22744ce722a8436ae966c178ec116fd33db54f]\n\n[Image: c588a2e68d46d29f8420230fdf77f9e534fddb591f470dc318423fc98ca9097d]\n\n[Image: 04ce2b1c7320a42479e7c20fb5be378d320ba2e59732a088c989802db9225389]\n\n[Image: 3a164a2757ec20aa07890edad608f3993dcdd6778f7b83a5ad616e7d15326599]\n\n[Image: 60a771df2244fd1c8b922f4399d2543404c22761678dbe5bd0258ff9b5bd57be]\n\n[Image: 728e826b9159d23e31773aa533b199df82965eee2620e5d782c24eee87555a92]",
+        "text": "(1) Histamine\n(2) Gastrin\n\n(3) Acetylcholine\n\n[Image: 96d9e43580561c0ca9ef9adc3d15182d25cfde1854888451bba57d432bd921db]\n\n[Image: 68f44a0a0ab97233431dbffb8a13eb95abc679fa3aadca6e1c7a7b4a56667842]\n\n[Image: 8055e23517cc15a22f020d244e173b19460b48f3d8e07b4b4d818109d5f35cc9]",
         "imageIds": [
             "96d9e43580561c0ca9ef9adc3d15182d25cfde1854888451bba57d432bd921db",
             "68f44a0a0ab97233431dbffb8a13eb95abc679fa3aadca6e1c7a7b4a56667842",
-            "8055e23517cc15a22f020d244e173b19460b48f3d8e07b4b4d818109d5f35cc9",
-            "9dba8c277ce7510d092efa9203df57f234b50abbd7a844e882147933982b3998",
-            "1a5be55801cb6e1fe815d8fe4e22744ce722a8436ae966c178ec116fd33db54f",
-            "c588a2e68d46d29f8420230fdf77f9e534fddb591f470dc318423fc98ca9097d",
-            "04ce2b1c7320a42479e7c20fb5be378d320ba2e59732a088c989802db9225389",
-            "3a164a2757ec20aa07890edad608f3993dcdd6778f7b83a5ad616e7d15326599",
-            "60a771df2244fd1c8b922f4399d2543404c22761678dbe5bd0258ff9b5bd57be",
-            "728e826b9159d23e31773aa533b199df82965eee2620e5d782c24eee87555a92"
+            "8055e23517cc15a22f020d244e173b19460b48f3d8e07b4b4d818109d5f35cc9"
         ]
     },
     "images": {
-        "04ce2b1c7320a42479e7c20fb5be378d320ba2e59732a088c989802db9225389": {
-            "file": "images/04ce2b1c7320a42479e7c20fb5be378d320ba2e59732a088c989802db9225389.jpg",
-            "filename": "paste-649046867836931.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 33421
-        },
-        "1a5be55801cb6e1fe815d8fe4e22744ce722a8436ae966c178ec116fd33db54f": {
-            "file": "images/1a5be55801cb6e1fe815d8fe4e22744ce722a8436ae966c178ec116fd33db54f.jpg",
-            "filename": "paste-645263001649155.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 67361
-        },
-        "3a164a2757ec20aa07890edad608f3993dcdd6778f7b83a5ad616e7d15326599": {
-            "file": "images/3a164a2757ec20aa07890edad608f3993dcdd6778f7b83a5ad616e7d15326599.jpg",
-            "filename": "paste-793520977739779.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 91715
-        },
-        "60a771df2244fd1c8b922f4399d2543404c22761678dbe5bd0258ff9b5bd57be": {
-            "file": "images/60a771df2244fd1c8b922f4399d2543404c22761678dbe5bd0258ff9b5bd57be.jpg",
-            "filename": "paste-651314610569219.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 56790
-        },
         "68f44a0a0ab97233431dbffb8a13eb95abc679fa3aadca6e1c7a7b4a56667842": {
             "file": "images/68f44a0a0ab97233431dbffb8a13eb95abc679fa3aadca6e1c7a7b4a56667842.jpg",
             "filename": "paste-491026431082499.jpg",
             "mimeType": "image/jpeg",
             "bytes": 71949
-        },
-        "728e826b9159d23e31773aa533b199df82965eee2620e5d782c24eee87555a92": {
-            "file": "images/728e826b9159d23e31773aa533b199df82965eee2620e5d782c24eee87555a92.jpg",
-            "filename": "paste-89253715378179 (1).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 81669
         },
         "8055e23517cc15a22f020d244e173b19460b48f3d8e07b4b4d818109d5f35cc9": {
             "file": "images/8055e23517cc15a22f020d244e173b19460b48f3d8e07b4b4d818109d5f35cc9.jpg",
@@ -84,18 +47,6 @@
             "filename": "paste-469491465060355.jpg",
             "mimeType": "image/jpeg",
             "bytes": 76611
-        },
-        "9dba8c277ce7510d092efa9203df57f234b50abbd7a844e882147933982b3998": {
-            "file": "images/9dba8c277ce7510d092efa9203df57f234b50abbd7a844e882147933982b3998.jpg",
-            "filename": "paste-442729523838979.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 146111
-        },
-        "c588a2e68d46d29f8420230fdf77f9e534fddb591f470dc318423fc98ca9097d": {
-            "file": "images/c588a2e68d46d29f8420230fdf77f9e534fddb591f470dc318423fc98ca9097d.jpg",
-            "filename": "paste-647152787259395.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 104732
         }
     }
 }

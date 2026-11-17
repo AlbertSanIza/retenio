@@ -18,37 +18,16 @@
         "$Inhibitors_of_Bacterial_Protein_Synthesis"
     ],
     "question": {
-        "text": "§\n\nROA: Aminoglycosides",
+        "text": "ROA: Aminoglycosides",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nROA: Aminoglycosides\n\nIV\n\n[Image: f2ad3a14e1fb63f3a07545a992bc1995ec4aaae73534a9e34c8e83a2597b1bd6]\n\n2.6 - Aminoglycosides\n[Image: 9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d]\n\n[Image: 8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4]\n\n[Image: 4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1]",
+        "text": "IV\n\n[Image: f2ad3a14e1fb63f3a07545a992bc1995ec4aaae73534a9e34c8e83a2597b1bd6]",
         "imageIds": [
-            "f2ad3a14e1fb63f3a07545a992bc1995ec4aaae73534a9e34c8e83a2597b1bd6",
-            "9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d",
-            "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4",
-            "4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1"
+            "f2ad3a14e1fb63f3a07545a992bc1995ec4aaae73534a9e34c8e83a2597b1bd6"
         ]
     },
     "images": {
-        "4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1": {
-            "file": "images/4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1.jpg",
-            "filename": "paste-32100585570307.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 91413
-        },
-        "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4": {
-            "file": "images/8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4.jpg",
-            "filename": "paste-321710230339587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 76271
-        },
-        "9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d": {
-            "file": "images/9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d.jpg",
-            "filename": "paste-232065672937473.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 108815
-        },
         "f2ad3a14e1fb63f3a07545a992bc1995ec4aaae73534a9e34c8e83a2597b1bd6": {
             "file": "images/f2ad3a14e1fb63f3a07545a992bc1995ec4aaae73534a9e34c8e83a2597b1bd6.jpg",
             "filename": "paste-24605867638787.jpg",

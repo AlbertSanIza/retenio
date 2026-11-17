@@ -18,17 +18,15 @@
         "$Antivirals_HIV"
     ],
     "question": {
-        "text": "§\n\nAdverse Effects - Metabolic (3) : Protease inhibitors",
+        "text": "Adverse Effects - Metabolic (3) : Protease inhibitors",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAdverse Effects - Metabolic (3) : Protease inhibitors\n\n(1) Insulin resistance\n(2) Dyslipidemia\n\n(3) Central adiposity\n\n[Image: 97a879f60f8dc7b88c270c4b2a413ec5402aa4cdb80a2fd03655b938761e4fa5]\n\n[Image: f786d4a633914e129643041a3d879c1e7ea3cda3e7f053e373db1bbc5d1dbc6c]\n\n[Image: 16a2b7d72f4ad23d66bb059589d4ee7864b1071cb9c8aedd2264cef890481572]\n\n6.3 - Protease inhibitors\n[Image: 8b63ecfb897f3d225f0e1a50588bff3e91b63aff6044e6239b01f460af74105c]\n\n\u001b\n[Image: cfdf18e2358bb4ffc0214d2eeae51abbb1f9323d201eb5b12151527b43c627fb]\n\u001b\u001b",
+        "text": "(1) Insulin resistance\n(2) Dyslipidemia\n\n(3) Central adiposity\n\n[Image: 97a879f60f8dc7b88c270c4b2a413ec5402aa4cdb80a2fd03655b938761e4fa5]\n\n[Image: f786d4a633914e129643041a3d879c1e7ea3cda3e7f053e373db1bbc5d1dbc6c]\n\n[Image: 16a2b7d72f4ad23d66bb059589d4ee7864b1071cb9c8aedd2264cef890481572]",
         "imageIds": [
             "97a879f60f8dc7b88c270c4b2a413ec5402aa4cdb80a2fd03655b938761e4fa5",
             "f786d4a633914e129643041a3d879c1e7ea3cda3e7f053e373db1bbc5d1dbc6c",
-            "16a2b7d72f4ad23d66bb059589d4ee7864b1071cb9c8aedd2264cef890481572",
-            "8b63ecfb897f3d225f0e1a50588bff3e91b63aff6044e6239b01f460af74105c",
-            "cfdf18e2358bb4ffc0214d2eeae51abbb1f9323d201eb5b12151527b43c627fb"
+            "16a2b7d72f4ad23d66bb059589d4ee7864b1071cb9c8aedd2264cef890481572"
         ]
     },
     "images": {
@@ -38,23 +36,11 @@
             "mimeType": "image/jpeg",
             "bytes": 51745
         },
-        "8b63ecfb897f3d225f0e1a50588bff3e91b63aff6044e6239b01f460af74105c": {
-            "file": "images/8b63ecfb897f3d225f0e1a50588bff3e91b63aff6044e6239b01f460af74105c.jpg",
-            "filename": "paste-293114338082817.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 137704
-        },
         "97a879f60f8dc7b88c270c4b2a413ec5402aa4cdb80a2fd03655b938761e4fa5": {
             "file": "images/97a879f60f8dc7b88c270c4b2a413ec5402aa4cdb80a2fd03655b938761e4fa5.jpg",
             "filename": "paste-120284854091779.jpg",
             "mimeType": "image/jpeg",
             "bytes": 48288
-        },
-        "cfdf18e2358bb4ffc0214d2eeae51abbb1f9323d201eb5b12151527b43c627fb": {
-            "file": "images/cfdf18e2358bb4ffc0214d2eeae51abbb1f9323d201eb5b12151527b43c627fb.jpg",
-            "filename": "paste-535621076516867.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 34046
         },
         "f786d4a633914e129643041a3d879c1e7ea3cda3e7f053e373db1bbc5d1dbc6c": {
             "file": "images/f786d4a633914e129643041a3d879c1e7ea3cda3e7f053e373db1bbc5d1dbc6c.jpg",

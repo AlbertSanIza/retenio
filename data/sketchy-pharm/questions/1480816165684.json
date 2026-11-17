@@ -18,56 +18,21 @@
         "$Antimycobacterials"
     ],
     "question": {
-        "text": "§\n\nWhat are the two phases of treatment for tuberculosis?",
+        "text": "What are the two phases of treatment for tuberculosis?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat are the two phases of treatment for tuberculosis?\n\n(1) 4 drugs for 2 months\n(2) 2 drugs for 4 months\n\n[Image: 73855d489d0b72283472051a5217611abcee43593bca64eb51b138f0635c6211]\n\n3.1 - Tuberculosis Drugs\n[Image: 75747c8b652c8f2d208a149207fab1b8976d4381798f86e53cbafe58b3751752]\n\n[Image: d4d07c3fd6d7ac606792eb4ace534fe4cdb21726d114d25beab0fdf8ec968a95]\n\n[Image: 8a6a87653f9aeb4a4876920b2a1558f23095df8b805d5c12e7f0a2e3f461200b]\n\n[Image: 263eda575dffc9aa3fccc786bb7febb77ffe5631bea7e464d00e08898ed80463]\n\n[Image: d564a2c26b1ad2fd2193e2653e6827fe68d6c771d1ae83265a06893ce8e50900]",
+        "text": "(1) 4 drugs for 2 months\n(2) 2 drugs for 4 months\n\n[Image: 73855d489d0b72283472051a5217611abcee43593bca64eb51b138f0635c6211]",
         "imageIds": [
-            "73855d489d0b72283472051a5217611abcee43593bca64eb51b138f0635c6211",
-            "75747c8b652c8f2d208a149207fab1b8976d4381798f86e53cbafe58b3751752",
-            "d4d07c3fd6d7ac606792eb4ace534fe4cdb21726d114d25beab0fdf8ec968a95",
-            "8a6a87653f9aeb4a4876920b2a1558f23095df8b805d5c12e7f0a2e3f461200b",
-            "263eda575dffc9aa3fccc786bb7febb77ffe5631bea7e464d00e08898ed80463",
-            "d564a2c26b1ad2fd2193e2653e6827fe68d6c771d1ae83265a06893ce8e50900"
+            "73855d489d0b72283472051a5217611abcee43593bca64eb51b138f0635c6211"
         ]
     },
     "images": {
-        "263eda575dffc9aa3fccc786bb7febb77ffe5631bea7e464d00e08898ed80463": {
-            "file": "images/263eda575dffc9aa3fccc786bb7febb77ffe5631bea7e464d00e08898ed80463.jpg",
-            "filename": "paste-463057604050947.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 71628
-        },
         "73855d489d0b72283472051a5217611abcee43593bca64eb51b138f0635c6211": {
             "file": "images/73855d489d0b72283472051a5217611abcee43593bca64eb51b138f0635c6211.jpg",
             "filename": "paste-171944720728067.jpg",
             "mimeType": "image/jpeg",
             "bytes": 40468
-        },
-        "75747c8b652c8f2d208a149207fab1b8976d4381798f86e53cbafe58b3751752": {
-            "file": "images/75747c8b652c8f2d208a149207fab1b8976d4381798f86e53cbafe58b3751752.jpg",
-            "filename": "paste-235686330368001.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 145951
-        },
-        "8a6a87653f9aeb4a4876920b2a1558f23095df8b805d5c12e7f0a2e3f461200b": {
-            "file": "images/8a6a87653f9aeb4a4876920b2a1558f23095df8b805d5c12e7f0a2e3f461200b.jpg",
-            "filename": "paste-461352502034435.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 58231
-        },
-        "d4d07c3fd6d7ac606792eb4ace534fe4cdb21726d114d25beab0fdf8ec968a95": {
-            "file": "images/d4d07c3fd6d7ac606792eb4ace534fe4cdb21726d114d25beab0fdf8ec968a95.jpg",
-            "filename": "paste-457907938263043.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 64003
-        },
-        "d564a2c26b1ad2fd2193e2653e6827fe68d6c771d1ae83265a06893ce8e50900": {
-            "file": "images/d564a2c26b1ad2fd2193e2653e6827fe68d6c771d1ae83265a06893ce8e50900.jpg",
-            "filename": "paste-174826643783683.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 24429
         }
     }
 }

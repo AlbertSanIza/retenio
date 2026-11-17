@@ -18,49 +18,21 @@
         "$Mood_Stabilizers_&_Antiepileptics"
     ],
     "question": {
-        "text": "§\n\nDoes Lithium have a narrow or broad therapeutic index?",
+        "text": "Does Lithium have a narrow or broad therapeutic index?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nDoes Lithium have a narrow or broad therapeutic index?\n\nNarrow\n\n[Image: a252c413f6629b1601f8cfe006adbb64dfdc878ed583a4b1fd4f8ae3b19df7c2]\n\n4.1 - Lithium\n[Image: 906e1cbe8badcd1dcc8d21e284dc64d1af2bbf639abc16d617e4308bb635713e]\n\n[Image: 89c6e786d10c9cae20acc6a8cc5dd3f044e63f70369c505225950c9204c4947e]\n\n[Image: 1ee8313ee6ae61b2ae9c5345f38d5e3ae221ed66fbeb9f01adf12024c513515a]\n\n[Image: dc73572f5b9694ad38c1446590293cc46e29fa79e26146eb63185b7b0ad5c8a2]",
+        "text": "Narrow\n\n[Image: a252c413f6629b1601f8cfe006adbb64dfdc878ed583a4b1fd4f8ae3b19df7c2]",
         "imageIds": [
-            "a252c413f6629b1601f8cfe006adbb64dfdc878ed583a4b1fd4f8ae3b19df7c2",
-            "906e1cbe8badcd1dcc8d21e284dc64d1af2bbf639abc16d617e4308bb635713e",
-            "89c6e786d10c9cae20acc6a8cc5dd3f044e63f70369c505225950c9204c4947e",
-            "1ee8313ee6ae61b2ae9c5345f38d5e3ae221ed66fbeb9f01adf12024c513515a",
-            "dc73572f5b9694ad38c1446590293cc46e29fa79e26146eb63185b7b0ad5c8a2"
+            "a252c413f6629b1601f8cfe006adbb64dfdc878ed583a4b1fd4f8ae3b19df7c2"
         ]
     },
     "images": {
-        "1ee8313ee6ae61b2ae9c5345f38d5e3ae221ed66fbeb9f01adf12024c513515a": {
-            "file": "images/1ee8313ee6ae61b2ae9c5345f38d5e3ae221ed66fbeb9f01adf12024c513515a.jpg",
-            "filename": "paste-1215879471693827.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 62582
-        },
-        "89c6e786d10c9cae20acc6a8cc5dd3f044e63f70369c505225950c9204c4947e": {
-            "file": "images/89c6e786d10c9cae20acc6a8cc5dd3f044e63f70369c505225950c9204c4947e.jpg",
-            "filename": "paste-1207010364227587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 121390
-        },
-        "906e1cbe8badcd1dcc8d21e284dc64d1af2bbf639abc16d617e4308bb635713e": {
-            "file": "images/906e1cbe8badcd1dcc8d21e284dc64d1af2bbf639abc16d617e4308bb635713e.jpg",
-            "filename": "paste-1203505670914049.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 112568
-        },
         "a252c413f6629b1601f8cfe006adbb64dfdc878ed583a4b1fd4f8ae3b19df7c2": {
             "file": "images/a252c413f6629b1601f8cfe006adbb64dfdc878ed583a4b1fd4f8ae3b19df7c2.jpg",
             "filename": "paste-85259395792899.jpg",
             "mimeType": "image/jpeg",
             "bytes": 32307
-        },
-        "dc73572f5b9694ad38c1446590293cc46e29fa79e26146eb63185b7b0ad5c8a2": {
-            "file": "images/dc73572f5b9694ad38c1446590293cc46e29fa79e26146eb63185b7b0ad5c8a2.jpg",
-            "filename": "paste-1212022591062019.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 52455
         }
     }
 }

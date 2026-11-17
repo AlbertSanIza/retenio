@@ -18,49 +18,21 @@
         "$HeartFailureDrugs"
     ],
     "question": {
-        "text": "§\n\nHow is Digoxin eliminated from the body?",
+        "text": "How is Digoxin eliminated from the body?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nHow is Digoxin eliminated from the body?\n\nRenal clearance\n\n(Note: Digoxin has a huge Vd as its concentration is buffered by the ubiquitous Na+,K+-ATPase)\n\n[Image: c78717e47e335951922662e2f51687dca55d71466d4238f02a65175bd9925ff5]\n\n1.1 - Digoxin, milrinone, nesiritide\n[Image: e4710e7cdd2eb8b0c4fcdd4f47e9c0298d7bc834ea44b17703e0ed658e992ff3]\n\n[Image: cc39089194326572184bf1c518bc26f5390c4f73a884ec8ad5a12509af47e2cf]\n\n[Image: bc64c259981a2f49c214dc60fdb3640b91401d9fabbcae71eb52515390dbaf48]\n\n[Image: aa726752874900868e52bb4456b25de8c3b4b85eaca0e5aed6f3ad3724afc8b2]",
+        "text": "Renal clearance\n\n(Note: Digoxin has a huge Vd as its concentration is buffered by the ubiquitous Na+,K+-ATPase)\n\n[Image: c78717e47e335951922662e2f51687dca55d71466d4238f02a65175bd9925ff5]",
         "imageIds": [
-            "c78717e47e335951922662e2f51687dca55d71466d4238f02a65175bd9925ff5",
-            "e4710e7cdd2eb8b0c4fcdd4f47e9c0298d7bc834ea44b17703e0ed658e992ff3",
-            "cc39089194326572184bf1c518bc26f5390c4f73a884ec8ad5a12509af47e2cf",
-            "bc64c259981a2f49c214dc60fdb3640b91401d9fabbcae71eb52515390dbaf48",
-            "aa726752874900868e52bb4456b25de8c3b4b85eaca0e5aed6f3ad3724afc8b2"
+            "c78717e47e335951922662e2f51687dca55d71466d4238f02a65175bd9925ff5"
         ]
     },
     "images": {
-        "aa726752874900868e52bb4456b25de8c3b4b85eaca0e5aed6f3ad3724afc8b2": {
-            "file": "images/aa726752874900868e52bb4456b25de8c3b4b85eaca0e5aed6f3ad3724afc8b2.jpg",
-            "filename": "paste-88450556493827.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 59364
-        },
-        "bc64c259981a2f49c214dc60fdb3640b91401d9fabbcae71eb52515390dbaf48": {
-            "file": "images/bc64c259981a2f49c214dc60fdb3640b91401d9fabbcae71eb52515390dbaf48.jpg",
-            "filename": "paste-84082574753795.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 36182
-        },
         "c78717e47e335951922662e2f51687dca55d71466d4238f02a65175bd9925ff5": {
             "file": "images/c78717e47e335951922662e2f51687dca55d71466d4238f02a65175bd9925ff5.jpg",
             "filename": "paste-41644002902019.jpg",
             "mimeType": "image/jpeg",
             "bytes": 62298
-        },
-        "cc39089194326572184bf1c518bc26f5390c4f73a884ec8ad5a12509af47e2cf": {
-            "file": "images/cc39089194326572184bf1c518bc26f5390c4f73a884ec8ad5a12509af47e2cf.jpg",
-            "filename": "paste-85959475462147.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 91768
-        },
-        "e4710e7cdd2eb8b0c4fcdd4f47e9c0298d7bc834ea44b17703e0ed658e992ff3": {
-            "file": "images/e4710e7cdd2eb8b0c4fcdd4f47e9c0298d7bc834ea44b17703e0ed658e992ff3.jpg",
-            "filename": "paste-602038450782209.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 138139
         }
     }
 }

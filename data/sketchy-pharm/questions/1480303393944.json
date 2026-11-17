@@ -18,15 +18,13 @@
         "$Cell_Wall_&_Membrane_Active_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nAre Carbapenems broad spectrum?",
+        "text": "Are Carbapenems broad spectrum?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAre Carbapenems broad spectrum?\n\nYes\n\n[Image: 56b440d43e0b6ae27cb2033015dfb5629d180405afc5edf702352db89a416894]\n\n1.5 - Monobactams & Carbapenems\n[Image: d8d4c71811505c9367d22065fbd911632eb67d2cb611aafe25a06b42a00f5877]\n\n[Image: e3859f115ffe53d945d8107cb9f86f7e734a992a9b70fbd3db57d43f73f409de]",
+        "text": "Yes\n\n[Image: 56b440d43e0b6ae27cb2033015dfb5629d180405afc5edf702352db89a416894]",
         "imageIds": [
-            "56b440d43e0b6ae27cb2033015dfb5629d180405afc5edf702352db89a416894",
-            "d8d4c71811505c9367d22065fbd911632eb67d2cb611aafe25a06b42a00f5877",
-            "e3859f115ffe53d945d8107cb9f86f7e734a992a9b70fbd3db57d43f73f409de"
+            "56b440d43e0b6ae27cb2033015dfb5629d180405afc5edf702352db89a416894"
         ]
     },
     "images": {
@@ -35,18 +33,6 @@
             "filename": "paste-104028402876419.jpg",
             "mimeType": "image/jpeg",
             "bytes": 39690
-        },
-        "d8d4c71811505c9367d22065fbd911632eb67d2cb611aafe25a06b42a00f5877": {
-            "file": "images/d8d4c71811505c9367d22065fbd911632eb67d2cb611aafe25a06b42a00f5877.jpg",
-            "filename": "paste-192663642963969.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 105828
-        },
-        "e3859f115ffe53d945d8107cb9f86f7e734a992a9b70fbd3db57d43f73f409de": {
-            "file": "images/e3859f115ffe53d945d8107cb9f86f7e734a992a9b70fbd3db57d43f73f409de.jpg",
-            "filename": "paste-383909946720259.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 81852
         }
     }
 }

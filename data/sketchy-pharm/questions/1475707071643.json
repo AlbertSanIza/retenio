@@ -18,42 +18,21 @@
         "$Vasoactive"
     ],
     "question": {
-        "text": "§\n\nWhy would β-blockers be given with nitrates?",
+        "text": "Why would β-blockers be given with nitrates?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhy would β-blockers be given with nitrates?\n\nPrevent reflex tachycardia\n\n(Venous vasodilation ⇒ ↓ Preload ⇒ ↓ MAP ∴ Body compensates by ↑ HR)\n\n[Image: aaca6f2f5740102b335f8638bab18715a85f24cbfd4c9bba663a1038359993f0]\n\n1.1 - Nitrates\n[Image: 7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74]\n\n[Image: c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d]\n\n[Image: e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584]",
+        "text": "Prevent reflex tachycardia\n\n(Venous vasodilation ⇒ ↓ Preload ⇒ ↓ MAP ∴ Body compensates by ↑ HR)\n\n[Image: aaca6f2f5740102b335f8638bab18715a85f24cbfd4c9bba663a1038359993f0]",
         "imageIds": [
-            "aaca6f2f5740102b335f8638bab18715a85f24cbfd4c9bba663a1038359993f0",
-            "7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74",
-            "c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d",
-            "e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584"
+            "aaca6f2f5740102b335f8638bab18715a85f24cbfd4c9bba663a1038359993f0"
         ]
     },
     "images": {
-        "7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74": {
-            "file": "images/7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74.jpg",
-            "filename": "paste-47850230644739 (1).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 154032
-        },
         "aaca6f2f5740102b335f8638bab18715a85f24cbfd4c9bba663a1038359993f0": {
             "file": "images/aaca6f2f5740102b335f8638bab18715a85f24cbfd4c9bba663a1038359993f0.jpg",
             "filename": "paste-44199508443139.jpg",
             "mimeType": "image/jpeg",
             "bytes": 56128
-        },
-        "c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d": {
-            "file": "images/c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d.jpg",
-            "filename": "paste-367026430279683.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 114318
-        },
-        "e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584": {
-            "file": "images/e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584.jpg",
-            "filename": "paste-692091030077443.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 83948
         }
     }
 }

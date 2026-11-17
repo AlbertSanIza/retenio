@@ -18,28 +18,19 @@
         "$Inhibitors_of_Bacterial_Protein_Synthesis"
     ],
     "question": {
-        "text": "§\n\nAdverse Effects (4) : Linezolid",
+        "text": "Adverse Effects (4) : Linezolid",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAdverse Effects (4) : Linezolid\n\n(1) Thrombocytopenia\n(2) Optic neuropathy\n\n(3) Peripheral neuropathy\n\n(4) Serotonin syndrome\n\n[Image: 579303bd4ed14b2436f82156c4212e9da95b34613ddab0a74c7f9b11f71ec7f2]\n\n[Image: 945c7944857981cac390742eded386601ceea954c0e9b4483717c2eeb568accb]\n\n[Image: 71537ffab1a5f0946695dd02a06bd4c290b208cdf45da0ab2f3fbf5eb20c9329]\n\n[Image: 1dfe3d1226b0f5781411fb68d10195c0f628e5d8271b0451f4e21f67bc20fa83]\n\n2.5 - Linezolid\n[Image: 05d990f7506111dc6ec384fb53cf4b040af1632ea5060337ba7fc58d3be91d0b]\n\n[Image: 8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4]\n\n[Image: eaf0bf3a68ef608ecb413dd09590c7b7d07bd5c9e7469c0ec575384d04e672e8]",
+        "text": "(1) Thrombocytopenia\n(2) Optic neuropathy\n\n(3) Peripheral neuropathy\n\n(4) Serotonin syndrome\n\n[Image: 579303bd4ed14b2436f82156c4212e9da95b34613ddab0a74c7f9b11f71ec7f2]\n\n[Image: 945c7944857981cac390742eded386601ceea954c0e9b4483717c2eeb568accb]\n\n[Image: 71537ffab1a5f0946695dd02a06bd4c290b208cdf45da0ab2f3fbf5eb20c9329]\n\n[Image: 1dfe3d1226b0f5781411fb68d10195c0f628e5d8271b0451f4e21f67bc20fa83]",
         "imageIds": [
             "579303bd4ed14b2436f82156c4212e9da95b34613ddab0a74c7f9b11f71ec7f2",
             "945c7944857981cac390742eded386601ceea954c0e9b4483717c2eeb568accb",
             "71537ffab1a5f0946695dd02a06bd4c290b208cdf45da0ab2f3fbf5eb20c9329",
-            "1dfe3d1226b0f5781411fb68d10195c0f628e5d8271b0451f4e21f67bc20fa83",
-            "05d990f7506111dc6ec384fb53cf4b040af1632ea5060337ba7fc58d3be91d0b",
-            "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4",
-            "eaf0bf3a68ef608ecb413dd09590c7b7d07bd5c9e7469c0ec575384d04e672e8"
+            "1dfe3d1226b0f5781411fb68d10195c0f628e5d8271b0451f4e21f67bc20fa83"
         ]
     },
     "images": {
-        "05d990f7506111dc6ec384fb53cf4b040af1632ea5060337ba7fc58d3be91d0b": {
-            "file": "images/05d990f7506111dc6ec384fb53cf4b040af1632ea5060337ba7fc58d3be91d0b.jpg",
-            "filename": "paste-228526619885569.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 106401
-        },
         "1dfe3d1226b0f5781411fb68d10195c0f628e5d8271b0451f4e21f67bc20fa83": {
             "file": "images/1dfe3d1226b0f5781411fb68d10195c0f628e5d8271b0451f4e21f67bc20fa83.jpg",
             "filename": "paste-23450521436163.jpg",
@@ -58,23 +49,11 @@
             "mimeType": "image/jpeg",
             "bytes": 48226
         },
-        "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4": {
-            "file": "images/8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4.jpg",
-            "filename": "paste-321710230339587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 76271
-        },
         "945c7944857981cac390742eded386601ceea954c0e9b4483717c2eeb568accb": {
             "file": "images/945c7944857981cac390742eded386601ceea954c0e9b4483717c2eeb568accb.jpg",
             "filename": "paste-23227183136771 (2).jpg",
             "mimeType": "image/jpeg",
             "bytes": 46543
-        },
-        "eaf0bf3a68ef608ecb413dd09590c7b7d07bd5c9e7469c0ec575384d04e672e8": {
-            "file": "images/eaf0bf3a68ef608ecb413dd09590c7b7d07bd5c9e7469c0ec575384d04e672e8.jpg",
-            "filename": "paste-405298883854339.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 34795
         }
     }
 }

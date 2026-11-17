@@ -18,42 +18,21 @@
         "$Sympathetics"
     ],
     "question": {
-        "text": "§\n\nMOA: Clonidine",
+        "text": "MOA: Clonidine",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nMOA: Clonidine\n\nα2 agonist\n\n[Image: 1336351fa355b8c088c980b9d7509ef9592aba988180380f6aacf2ce6498f90e]\n\n2.3 - Alpha drugs\n[Image: 6d1f9909b75adf86402e07f1808048bc9711379c8fe30b6485de20d893dabee0]\n\n[Image: 92707090337fa9d104b6f21ce31eb14c6b75d6ba7652bd73d952507e2c8b9d2d]\n\n[Image: 0db160a48dfc354c1ebe79e23258cf8b50857b2d212fa7b14d388a6217752a43]",
+        "text": "α2 agonist\n\n[Image: 1336351fa355b8c088c980b9d7509ef9592aba988180380f6aacf2ce6498f90e]",
         "imageIds": [
-            "1336351fa355b8c088c980b9d7509ef9592aba988180380f6aacf2ce6498f90e",
-            "6d1f9909b75adf86402e07f1808048bc9711379c8fe30b6485de20d893dabee0",
-            "92707090337fa9d104b6f21ce31eb14c6b75d6ba7652bd73d952507e2c8b9d2d",
-            "0db160a48dfc354c1ebe79e23258cf8b50857b2d212fa7b14d388a6217752a43"
+            "1336351fa355b8c088c980b9d7509ef9592aba988180380f6aacf2ce6498f90e"
         ]
     },
     "images": {
-        "0db160a48dfc354c1ebe79e23258cf8b50857b2d212fa7b14d388a6217752a43": {
-            "file": "images/0db160a48dfc354c1ebe79e23258cf8b50857b2d212fa7b14d388a6217752a43.jpg",
-            "filename": "paste-608730009829379.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 26948
-        },
         "1336351fa355b8c088c980b9d7509ef9592aba988180380f6aacf2ce6498f90e": {
             "file": "images/1336351fa355b8c088c980b9d7509ef9592aba988180380f6aacf2ce6498f90e.jpg",
             "filename": "paste-459784838971395.jpg",
             "mimeType": "image/jpeg",
             "bytes": 65336
-        },
-        "6d1f9909b75adf86402e07f1808048bc9711379c8fe30b6485de20d893dabee0": {
-            "file": "images/6d1f9909b75adf86402e07f1808048bc9711379c8fe30b6485de20d893dabee0.jpg",
-            "filename": "paste-433869006307329.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 136181
-        },
-        "92707090337fa9d104b6f21ce31eb14c6b75d6ba7652bd73d952507e2c8b9d2d": {
-            "file": "images/92707090337fa9d104b6f21ce31eb14c6b75d6ba7652bd73d952507e2c8b9d2d.jpg",
-            "filename": "paste-610731464589315.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 48349
         }
     }
 }

@@ -18,18 +18,14 @@
         "$Anti-inflammatory"
     ],
     "question": {
-        "text": "§\n\nWhat enzyme converts hypoxanthine to uric acid?",
+        "text": "What enzyme converts hypoxanthine to uric acid?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat enzyme converts hypoxanthine to uric acid?\n\nXanthine oxidase\n\n[Image: 2a41a54f5d0a3a141763228a08252ee3db8787338d6e194285720c52ef9977cf]\n\n[Image: 7b0c51fa51943d48ca0fcb9f919f800f8542651426246f91354944e3c7a5cc5c]\n\n3.2 - Gout Drugs\n[Image: be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df]\n\n[Image: 558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616]\n\n[Image: d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b]\n\n[Image: a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730]",
+        "text": "Xanthine oxidase\n\n[Image: 2a41a54f5d0a3a141763228a08252ee3db8787338d6e194285720c52ef9977cf]\n\n[Image: 7b0c51fa51943d48ca0fcb9f919f800f8542651426246f91354944e3c7a5cc5c]",
         "imageIds": [
             "2a41a54f5d0a3a141763228a08252ee3db8787338d6e194285720c52ef9977cf",
-            "7b0c51fa51943d48ca0fcb9f919f800f8542651426246f91354944e3c7a5cc5c",
-            "be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df",
-            "558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616",
-            "d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b",
-            "a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730"
+            "7b0c51fa51943d48ca0fcb9f919f800f8542651426246f91354944e3c7a5cc5c"
         ]
     },
     "images": {
@@ -39,35 +35,11 @@
             "mimeType": "image/jpeg",
             "bytes": 38511
         },
-        "558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616": {
-            "file": "images/558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616.jpg",
-            "filename": "paste-121358595915779.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 132759
-        },
         "7b0c51fa51943d48ca0fcb9f919f800f8542651426246f91354944e3c7a5cc5c": {
             "file": "images/7b0c51fa51943d48ca0fcb9f919f800f8542651426246f91354944e3c7a5cc5c.jpg",
             "filename": "paste-11768210391043 (1).jpg",
             "mimeType": "image/jpeg",
             "bytes": 40733
-        },
-        "a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730": {
-            "file": "images/a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730.jpg",
-            "filename": "paste-123982820933635.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 34602
-        },
-        "be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df": {
-            "file": "images/be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df.jpg",
-            "filename": "paste-583518551801857.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 158251
-        },
-        "d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b": {
-            "file": "images/d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b.jpg",
-            "filename": "paste-113215337922563.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 184086
         }
     }
 }

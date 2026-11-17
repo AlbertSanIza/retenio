@@ -18,21 +18,15 @@
         "$Antimycobacterials"
     ],
     "question": {
-        "text": "§\n\nAdverse Effects (2) : Dapsone",
+        "text": "Adverse Effects (2) : Dapsone",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAdverse Effects (2) : Dapsone\n\n(1) Agranulocytosis\n(2) Oxidative stress ⇒ Hemolytic anemia\n\n(Anemia in G6PD deficient individuals. Although not mentioned in the sketch, Dapsone is a Sulfa drug)\n\n[Image: ecefdf0d8cb78d50977e1fd27b118aa58f1d425a7c2d2c0fe637b77a1889b830]\n\n[Image: 4f5479aec70015243703a0e5a6dd6788a4b31161a9c2007b5bcad4ac8217f6ad]\n\n[Image: 367e44be218a412d9e3f1cc1817b80c9be49f15126fd36ee3d9918bc29ed13a0]\n\n3.2 - Leprosy drugs\n[Image: 9f64c8b6cd799b90c1d5bab38886b76d852ab4ddf225c0f32487f96ac27ab02a]\n\n[Image: 5cbde7cde668c619432ac4626bf618ce9c0803385dbcc94966c6170aae65a595]\n\n[Image: 505995ba12ea94a5fb79508794040dbb87d6057e4ccda916d0e1a6f547756500]\n\n[Image: c66857d0df3b294d3ab298e6efb998680dd3f682e4c3232e5b162cbe153a6a02]\n\n[Image: 90a31a103ef0fffcc75637778600cc436a650f8d3d57f87fc4c32bc0a56adb24]\n\n[Image: d1154c8aeb901a2ad401929de6aaae9cd3928d354e216d7df1f97ce86df48ee4]",
+        "text": "(1) Agranulocytosis\n(2) Oxidative stress ⇒ Hemolytic anemia\n\n(Anemia in G6PD deficient individuals. Although not mentioned in the sketch, Dapsone is a Sulfa drug)\n\n[Image: ecefdf0d8cb78d50977e1fd27b118aa58f1d425a7c2d2c0fe637b77a1889b830]\n\n[Image: 4f5479aec70015243703a0e5a6dd6788a4b31161a9c2007b5bcad4ac8217f6ad]\n\n[Image: 367e44be218a412d9e3f1cc1817b80c9be49f15126fd36ee3d9918bc29ed13a0]",
         "imageIds": [
             "ecefdf0d8cb78d50977e1fd27b118aa58f1d425a7c2d2c0fe637b77a1889b830",
             "4f5479aec70015243703a0e5a6dd6788a4b31161a9c2007b5bcad4ac8217f6ad",
-            "367e44be218a412d9e3f1cc1817b80c9be49f15126fd36ee3d9918bc29ed13a0",
-            "9f64c8b6cd799b90c1d5bab38886b76d852ab4ddf225c0f32487f96ac27ab02a",
-            "5cbde7cde668c619432ac4626bf618ce9c0803385dbcc94966c6170aae65a595",
-            "505995ba12ea94a5fb79508794040dbb87d6057e4ccda916d0e1a6f547756500",
-            "c66857d0df3b294d3ab298e6efb998680dd3f682e4c3232e5b162cbe153a6a02",
-            "90a31a103ef0fffcc75637778600cc436a650f8d3d57f87fc4c32bc0a56adb24",
-            "d1154c8aeb901a2ad401929de6aaae9cd3928d354e216d7df1f97ce86df48ee4"
+            "367e44be218a412d9e3f1cc1817b80c9be49f15126fd36ee3d9918bc29ed13a0"
         ]
     },
     "images": {
@@ -47,42 +41,6 @@
             "filename": "paste-192723772506115.jpg",
             "mimeType": "image/jpeg",
             "bytes": 55983
-        },
-        "505995ba12ea94a5fb79508794040dbb87d6057e4ccda916d0e1a6f547756500": {
-            "file": "images/505995ba12ea94a5fb79508794040dbb87d6057e4ccda916d0e1a6f547756500.jpg",
-            "filename": "paste-443025876582403.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 77586
-        },
-        "5cbde7cde668c619432ac4626bf618ce9c0803385dbcc94966c6170aae65a595": {
-            "file": "images/5cbde7cde668c619432ac4626bf618ce9c0803385dbcc94966c6170aae65a595.jpg",
-            "filename": "paste-39784282062851 (1).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 111645
-        },
-        "90a31a103ef0fffcc75637778600cc436a650f8d3d57f87fc4c32bc0a56adb24": {
-            "file": "images/90a31a103ef0fffcc75637778600cc436a650f8d3d57f87fc4c32bc0a56adb24.jpg",
-            "filename": "paste-342308893491203.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 23945
-        },
-        "9f64c8b6cd799b90c1d5bab38886b76d852ab4ddf225c0f32487f96ac27ab02a": {
-            "file": "images/9f64c8b6cd799b90c1d5bab38886b76d852ab4ddf225c0f32487f96ac27ab02a.jpg",
-            "filename": "paste-240887535763457.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 116853
-        },
-        "c66857d0df3b294d3ab298e6efb998680dd3f682e4c3232e5b162cbe153a6a02": {
-            "file": "images/c66857d0df3b294d3ab298e6efb998680dd3f682e4c3232e5b162cbe153a6a02.jpg",
-            "filename": "paste-450018083340291.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 56355
-        },
-        "d1154c8aeb901a2ad401929de6aaae9cd3928d354e216d7df1f97ce86df48ee4": {
-            "file": "images/d1154c8aeb901a2ad401929de6aaae9cd3928d354e216d7df1f97ce86df48ee4.jpg",
-            "filename": "paste-181475253157891.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 27752
         },
         "ecefdf0d8cb78d50977e1fd27b118aa58f1d425a7c2d2c0fe637b77a1889b830": {
             "file": "images/ecefdf0d8cb78d50977e1fd27b118aa58f1d425a7c2d2c0fe637b77a1889b830.jpg",

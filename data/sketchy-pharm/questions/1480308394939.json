@@ -18,35 +18,21 @@
         "$Antivirals_HIV"
     ],
     "question": {
-        "text": "§\n\nDo NNRTIs require phosphorylation to be active?",
+        "text": "Do NNRTIs require phosphorylation to be active?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nDo NNRTIs require phosphorylation to be active?\n\nNo\n\n[Image: 7072361ecdbdf4568fc153b70845c2d95781fdbd53a8c5462264b3b7e8d1950e]\n\n6.2 - NNRTI\u001b\n[Image: 6e4e85cbbd0e2b918a5c150a391f96aab11a292aa42b9523fc1e2e45a413d339]\n\n[Image: be98b4216c5d68e50cd98a0356a889ff0864cfa2016f168995903e3ecf166d4a]",
+        "text": "No\n\n[Image: 7072361ecdbdf4568fc153b70845c2d95781fdbd53a8c5462264b3b7e8d1950e]",
         "imageIds": [
-            "7072361ecdbdf4568fc153b70845c2d95781fdbd53a8c5462264b3b7e8d1950e",
-            "6e4e85cbbd0e2b918a5c150a391f96aab11a292aa42b9523fc1e2e45a413d339",
-            "be98b4216c5d68e50cd98a0356a889ff0864cfa2016f168995903e3ecf166d4a"
+            "7072361ecdbdf4568fc153b70845c2d95781fdbd53a8c5462264b3b7e8d1950e"
         ]
     },
     "images": {
-        "6e4e85cbbd0e2b918a5c150a391f96aab11a292aa42b9523fc1e2e45a413d339": {
-            "file": "images/6e4e85cbbd0e2b918a5c150a391f96aab11a292aa42b9523fc1e2e45a413d339.jpg",
-            "filename": "paste-289566695096321.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 138607
-        },
         "7072361ecdbdf4568fc153b70845c2d95781fdbd53a8c5462264b3b7e8d1950e": {
             "file": "images/7072361ecdbdf4568fc153b70845c2d95781fdbd53a8c5462264b3b7e8d1950e.jpg",
             "filename": "paste-119099443118083.jpg",
             "mimeType": "image/jpeg",
             "bytes": 48320
-        },
-        "be98b4216c5d68e50cd98a0356a889ff0864cfa2016f168995903e3ecf166d4a": {
-            "file": "images/be98b4216c5d68e50cd98a0356a889ff0864cfa2016f168995903e3ecf166d4a.jpg",
-            "filename": "paste-544193831239683.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 19209
         }
     }
 }

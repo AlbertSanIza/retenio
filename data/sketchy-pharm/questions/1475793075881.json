@@ -18,15 +18,13 @@
         "$Sedatives&Hypnotics"
     ],
     "question": {
-        "text": "§\n\nWhere specifically are melatonin receptors found?",
+        "text": "Where specifically are melatonin receptors found?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhere specifically are melatonin receptors found?\n\nSuprachiasmatic nucleus\n\n[Image: 5364e9c1ffd92d92f485dfde83d7e170afdd0aebc5cd17421388de4792b0ae36]\n\n1.2 - Nonbenzodiazepine hypnotics, melatonin, ramelteon\n[Image: c26e57369914287622e90ccbd794e296a902ef296815c1640698020c1992aa99]\n\n[Image: b2e336a8e131880ec626dba7cd8039faaa6d4bb85a01a024a73fd9b26685c692]",
+        "text": "Suprachiasmatic nucleus\n\n[Image: 5364e9c1ffd92d92f485dfde83d7e170afdd0aebc5cd17421388de4792b0ae36]",
         "imageIds": [
-            "5364e9c1ffd92d92f485dfde83d7e170afdd0aebc5cd17421388de4792b0ae36",
-            "c26e57369914287622e90ccbd794e296a902ef296815c1640698020c1992aa99",
-            "b2e336a8e131880ec626dba7cd8039faaa6d4bb85a01a024a73fd9b26685c692"
+            "5364e9c1ffd92d92f485dfde83d7e170afdd0aebc5cd17421388de4792b0ae36"
         ]
     },
     "images": {
@@ -35,18 +33,6 @@
             "filename": "paste-8783208120323 (1).jpg",
             "mimeType": "image/jpeg",
             "bytes": 74703
-        },
-        "b2e336a8e131880ec626dba7cd8039faaa6d4bb85a01a024a73fd9b26685c692": {
-            "file": "images/b2e336a8e131880ec626dba7cd8039faaa6d4bb85a01a024a73fd9b26685c692.jpg",
-            "filename": "paste-158260954923011.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 50982
-        },
-        "c26e57369914287622e90ccbd794e296a902ef296815c1640698020c1992aa99": {
-            "file": "images/c26e57369914287622e90ccbd794e296a902ef296815c1640698020c1992aa99.jpg",
-            "filename": "paste-825273670959105.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 119694
         }
     }
 }

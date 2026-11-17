@@ -18,49 +18,21 @@
         "$Sedatives&Hypnotics"
     ],
     "question": {
-        "text": "§\n\nBenzodiazepines increase the conductance of what ion?",
+        "text": "Benzodiazepines increase the conductance of what ion?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nBenzodiazepines increase the conductance of what ion?\n\nCl-\n\n[Image: 38bfa60a14a2410d98523b77ffe4c0d4a962594bfd42f2c9ff624e4d3b049c37]\n\n1.1 - Benzodiazepines, flumazenil\n[Image: 4e88ed21ceda3eb601f618c259757a8a2e401804886af1e0a5a9e1f16a790e53]\n\n[Image: a66eed6c418709be79b1062e66a75dc7471c835fc46e5408c2303b5aaed14da5]\n\n[Image: 352c5155b8c949365e5a2e11e524f0170920455bbb8b8f89e7695d2bd33ca3d6]\n\n[Image: 0a123cff24ff7c544e384d03a0212151daeee6ed9b5a680e03395364d78deaa4]",
+        "text": "Cl-\n\n[Image: 38bfa60a14a2410d98523b77ffe4c0d4a962594bfd42f2c9ff624e4d3b049c37]",
         "imageIds": [
-            "38bfa60a14a2410d98523b77ffe4c0d4a962594bfd42f2c9ff624e4d3b049c37",
-            "4e88ed21ceda3eb601f618c259757a8a2e401804886af1e0a5a9e1f16a790e53",
-            "a66eed6c418709be79b1062e66a75dc7471c835fc46e5408c2303b5aaed14da5",
-            "352c5155b8c949365e5a2e11e524f0170920455bbb8b8f89e7695d2bd33ca3d6",
-            "0a123cff24ff7c544e384d03a0212151daeee6ed9b5a680e03395364d78deaa4"
+            "38bfa60a14a2410d98523b77ffe4c0d4a962594bfd42f2c9ff624e4d3b049c37"
         ]
     },
     "images": {
-        "0a123cff24ff7c544e384d03a0212151daeee6ed9b5a680e03395364d78deaa4": {
-            "file": "images/0a123cff24ff7c544e384d03a0212151daeee6ed9b5a680e03395364d78deaa4.jpg",
-            "filename": "paste-765672409792513.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 89948
-        },
-        "352c5155b8c949365e5a2e11e524f0170920455bbb8b8f89e7695d2bd33ca3d6": {
-            "file": "images/352c5155b8c949365e5a2e11e524f0170920455bbb8b8f89e7695d2bd33ca3d6.jpg",
-            "filename": "paste-674159541616643.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 38061
-        },
         "38bfa60a14a2410d98523b77ffe4c0d4a962594bfd42f2c9ff624e4d3b049c37": {
             "file": "images/38bfa60a14a2410d98523b77ffe4c0d4a962594bfd42f2c9ff624e4d3b049c37.jpg",
             "filename": "paste-6287832121347 (1).jpg",
             "mimeType": "image/jpeg",
             "bytes": 53466
-        },
-        "4e88ed21ceda3eb601f618c259757a8a2e401804886af1e0a5a9e1f16a790e53": {
-            "file": "images/4e88ed21ceda3eb601f618c259757a8a2e401804886af1e0a5a9e1f16a790e53.jpg",
-            "filename": "paste-773046868639745.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 130900
-        },
-        "a66eed6c418709be79b1062e66a75dc7471c835fc46e5408c2303b5aaed14da5": {
-            "file": "images/a66eed6c418709be79b1062e66a75dc7471c835fc46e5408c2303b5aaed14da5.jpg",
-            "filename": "paste-761879953670145.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 88594
         }
     }
 }

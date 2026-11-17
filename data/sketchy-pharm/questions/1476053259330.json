@@ -18,17 +18,15 @@
         "$Allergy&Pulmonary"
     ],
     "question": {
-        "text": "§\n\nWhat other receptors do first-generation H1 blockers antagonize (not H1)?",
+        "text": "What other receptors do first-generation H1 blockers antagonize (not H1)?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat other receptors do first-generation H1 blockers antagonize (not H1)?\n\n(1) CNS/PNS Muscarinic receptors\n(2) CNS 5-HT receptors\n\n(3) α1 receptors\n\n[Image: 1440e057e03d6cadb081f5c3cf203302f73eaecfbad36d97f350a8fad7994c13]\n\n[Image: 3421898b1aa630e3b3c0e4737b3eab4f8301b640c9577546e4e814d4e0965ddf]\n\n[Image: f31fe561e41fb91c85c042576bb878e42d9e89e95f1c7bbc3ae67d6aa2b89370]\n\n2.1 - Antihistamines\n[Image: f7314b2e975ff14486eeeeef9a70badab37ceceed6d6562b1b54c0cbf86eba91]\n\n[Image: ebf07e64c72b7326f332a528c0bbcb0378877f4ccf7da9beeeaa77a389b9ef4c]",
+        "text": "(1) CNS/PNS Muscarinic receptors\n(2) CNS 5-HT receptors\n\n(3) α1 receptors\n\n[Image: 1440e057e03d6cadb081f5c3cf203302f73eaecfbad36d97f350a8fad7994c13]\n\n[Image: 3421898b1aa630e3b3c0e4737b3eab4f8301b640c9577546e4e814d4e0965ddf]\n\n[Image: f31fe561e41fb91c85c042576bb878e42d9e89e95f1c7bbc3ae67d6aa2b89370]",
         "imageIds": [
             "1440e057e03d6cadb081f5c3cf203302f73eaecfbad36d97f350a8fad7994c13",
             "3421898b1aa630e3b3c0e4737b3eab4f8301b640c9577546e4e814d4e0965ddf",
-            "f31fe561e41fb91c85c042576bb878e42d9e89e95f1c7bbc3ae67d6aa2b89370",
-            "f7314b2e975ff14486eeeeef9a70badab37ceceed6d6562b1b54c0cbf86eba91",
-            "ebf07e64c72b7326f332a528c0bbcb0378877f4ccf7da9beeeaa77a389b9ef4c"
+            "f31fe561e41fb91c85c042576bb878e42d9e89e95f1c7bbc3ae67d6aa2b89370"
         ]
     },
     "images": {
@@ -44,23 +42,11 @@
             "mimeType": "image/jpeg",
             "bytes": 95906
         },
-        "ebf07e64c72b7326f332a528c0bbcb0378877f4ccf7da9beeeaa77a389b9ef4c": {
-            "file": "images/ebf07e64c72b7326f332a528c0bbcb0378877f4ccf7da9beeeaa77a389b9ef4c.jpg",
-            "filename": "paste-233629041033219.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 53438
-        },
         "f31fe561e41fb91c85c042576bb878e42d9e89e95f1c7bbc3ae67d6aa2b89370": {
             "file": "images/f31fe561e41fb91c85c042576bb878e42d9e89e95f1c7bbc3ae67d6aa2b89370.jpg",
             "filename": "paste-10582799417347.jpg",
             "mimeType": "image/jpeg",
             "bytes": 96791
-        },
-        "f7314b2e975ff14486eeeeef9a70badab37ceceed6d6562b1b54c0cbf86eba91": {
-            "file": "images/f7314b2e975ff14486eeeeef9a70badab37ceceed6d6562b1b54c0cbf86eba91.jpg",
-            "filename": "paste-85160611545091.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 154303
         }
     }
 }

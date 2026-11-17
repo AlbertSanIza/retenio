@@ -18,30 +18,16 @@
         "$Other_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nWhat antibiotic can substitute for Amoxacillin in the treatment of H. pylori?",
+        "text": "What antibiotic can substitute for Amoxacillin in the treatment of H. pylori?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat antibiotic can substitute for Amoxacillin in the treatment of H. pylori?\n\nMetronidazole\n\n[Image: 91441839d65472b7d67bbc81935df1d732ffee407cfc2b52d3d60b2d0b150856]\n\n4.3 - Metronidazole\n[Image: 7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4]\n\n[Image: 3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf]",
+        "text": "Metronidazole\n\n[Image: 91441839d65472b7d67bbc81935df1d732ffee407cfc2b52d3d60b2d0b150856]",
         "imageIds": [
-            "91441839d65472b7d67bbc81935df1d732ffee407cfc2b52d3d60b2d0b150856",
-            "7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4",
-            "3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf"
+            "91441839d65472b7d67bbc81935df1d732ffee407cfc2b52d3d60b2d0b150856"
         ]
     },
     "images": {
-        "3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf": {
-            "file": "images/3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf.jpg",
-            "filename": "paste-187277753974787.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 55370
-        },
-        "7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4": {
-            "file": "images/7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4.jpg",
-            "filename": "paste-262010184925185.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 111887
-        },
         "91441839d65472b7d67bbc81935df1d732ffee407cfc2b52d3d60b2d0b150856": {
             "file": "images/91441839d65472b7d67bbc81935df1d732ffee407cfc2b52d3d60b2d0b150856.jpg",
             "filename": "paste-239483081457667.jpg",

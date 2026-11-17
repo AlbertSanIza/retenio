@@ -18,49 +18,21 @@
         "$Antivirals_HIV"
     ],
     "question": {
-        "text": "§\n\nAdverse Effect: Integrase inhibitors",
+        "text": "Adverse Effect: Integrase inhibitors",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAdverse Effect: Integrase inhibitors\n\nRhabdomyolysis\n\n[Image: 232d4316c451c7b69939bd05638c3912e33e3041e1db2f6f5523403977ced03c]\n\n6.4 - Maraviroc, fusion inhibitors, integrase inhibitors\n[Image: 6962170d6278ec795afe90f6c4a739ee01393f4302653b5a73f19a824efce387]\n\n[Image: 6093c872710d1e06364fa1a1efc533b3306c44d33e6730e15dcfd7730f21b3e4]\n\n[Image: f0b981a5533fab5c3ac132de80a04fd2ff4f21963b96e7db8dcec37f59fdb0f6]\n\n[Image: 10b5aec06a1db24334264ef0ef5cf85d69609de17d17e6ab3f43510d4db81a91]",
+        "text": "Rhabdomyolysis\n\n[Image: 232d4316c451c7b69939bd05638c3912e33e3041e1db2f6f5523403977ced03c]",
         "imageIds": [
-            "232d4316c451c7b69939bd05638c3912e33e3041e1db2f6f5523403977ced03c",
-            "6962170d6278ec795afe90f6c4a739ee01393f4302653b5a73f19a824efce387",
-            "6093c872710d1e06364fa1a1efc533b3306c44d33e6730e15dcfd7730f21b3e4",
-            "f0b981a5533fab5c3ac132de80a04fd2ff4f21963b96e7db8dcec37f59fdb0f6",
-            "10b5aec06a1db24334264ef0ef5cf85d69609de17d17e6ab3f43510d4db81a91"
+            "232d4316c451c7b69939bd05638c3912e33e3041e1db2f6f5523403977ced03c"
         ]
     },
     "images": {
-        "10b5aec06a1db24334264ef0ef5cf85d69609de17d17e6ab3f43510d4db81a91": {
-            "file": "images/10b5aec06a1db24334264ef0ef5cf85d69609de17d17e6ab3f43510d4db81a91.jpg",
-            "filename": "paste-547165948608515.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 23782
-        },
         "232d4316c451c7b69939bd05638c3912e33e3041e1db2f6f5523403977ced03c": {
             "file": "images/232d4316c451c7b69939bd05638c3912e33e3041e1db2f6f5523403977ced03c.jpg",
             "filename": "paste-127049427582979.jpg",
             "mimeType": "image/jpeg",
             "bytes": 63184
-        },
-        "6093c872710d1e06364fa1a1efc533b3306c44d33e6730e15dcfd7730f21b3e4": {
-            "file": "images/6093c872710d1e06364fa1a1efc533b3306c44d33e6730e15dcfd7730f21b3e4.jpg",
-            "filename": "paste-231765025226755.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 99626
-        },
-        "6962170d6278ec795afe90f6c4a739ee01393f4302653b5a73f19a824efce387": {
-            "file": "images/6962170d6278ec795afe90f6c4a739ee01393f4302653b5a73f19a824efce387.jpg",
-            "filename": "paste-297559629234177.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 162115
-        },
-        "f0b981a5533fab5c3ac132de80a04fd2ff4f21963b96e7db8dcec37f59fdb0f6": {
-            "file": "images/f0b981a5533fab5c3ac132de80a04fd2ff4f21963b96e7db8dcec37f59fdb0f6.jpg",
-            "filename": "paste-86719684673539.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 169487
         }
     }
 }

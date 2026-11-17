@@ -18,27 +18,18 @@
         "$Diuretics"
     ],
     "question": {
-        "text": "§\n\nWhere do thiazide diuretics act?",
+        "text": "Where do thiazide diuretics act?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhere do thiazide diuretics act?\n\nDistal convoluted tubule\n\n[Image: 591450014b07bc61bdfb2ada7b1f02649a9ae5f1002c6722f34feccefe6ab909]\n\n[Image: 490129393b1dd5fa27445aee539d966fb4b8288dadeb585a2b7641a7ec34ff48]\n\n[Image: f918d093b5e974ef37b601e1f61583172502dde754fbb988d465890ddeb6cbcd]\n\n2.3 - Thiazides\n[Image: a5a59fef330fe02b89052204b14e10d5dee2c1296e5d97581aa2b331bb3a4342]\n\n[Image: 0b633d1ad98cf4dfb153c8a5f7e3b1f9ea2c1fa40896efea8d14971580df2658]\n\n[Image: e6e88325112ce114c3b542f6b7b5b2940db081cf6a98f199c896ed0dec87c53a]",
+        "text": "Distal convoluted tubule\n\n[Image: 591450014b07bc61bdfb2ada7b1f02649a9ae5f1002c6722f34feccefe6ab909]\n\n[Image: 490129393b1dd5fa27445aee539d966fb4b8288dadeb585a2b7641a7ec34ff48]\n\n[Image: f918d093b5e974ef37b601e1f61583172502dde754fbb988d465890ddeb6cbcd]",
         "imageIds": [
             "591450014b07bc61bdfb2ada7b1f02649a9ae5f1002c6722f34feccefe6ab909",
             "490129393b1dd5fa27445aee539d966fb4b8288dadeb585a2b7641a7ec34ff48",
-            "f918d093b5e974ef37b601e1f61583172502dde754fbb988d465890ddeb6cbcd",
-            "a5a59fef330fe02b89052204b14e10d5dee2c1296e5d97581aa2b331bb3a4342",
-            "0b633d1ad98cf4dfb153c8a5f7e3b1f9ea2c1fa40896efea8d14971580df2658",
-            "e6e88325112ce114c3b542f6b7b5b2940db081cf6a98f199c896ed0dec87c53a"
+            "f918d093b5e974ef37b601e1f61583172502dde754fbb988d465890ddeb6cbcd"
         ]
     },
     "images": {
-        "0b633d1ad98cf4dfb153c8a5f7e3b1f9ea2c1fa40896efea8d14971580df2658": {
-            "file": "images/0b633d1ad98cf4dfb153c8a5f7e3b1f9ea2c1fa40896efea8d14971580df2658.jpg",
-            "filename": "paste-201738908860419.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 33095
-        },
         "490129393b1dd5fa27445aee539d966fb4b8288dadeb585a2b7641a7ec34ff48": {
             "file": "images/490129393b1dd5fa27445aee539d966fb4b8288dadeb585a2b7641a7ec34ff48.jpg",
             "filename": "paste-56779467653123.jpg",
@@ -50,18 +41,6 @@
             "filename": "paste-56762287783939.jpg",
             "mimeType": "image/jpeg",
             "bytes": 48058
-        },
-        "a5a59fef330fe02b89052204b14e10d5dee2c1296e5d97581aa2b331bb3a4342": {
-            "file": "images/a5a59fef330fe02b89052204b14e10d5dee2c1296e5d97581aa2b331bb3a4342.jpg",
-            "filename": "paste-622430955503617.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 168603
-        },
-        "e6e88325112ce114c3b542f6b7b5b2940db081cf6a98f199c896ed0dec87c53a": {
-            "file": "images/e6e88325112ce114c3b542f6b7b5b2940db081cf6a98f199c896ed0dec87c53a.jpg",
-            "filename": "paste-197048804573187.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 54248
         },
         "f918d093b5e974ef37b601e1f61583172502dde754fbb988d465890ddeb6cbcd": {
             "file": "images/f918d093b5e974ef37b601e1f61583172502dde754fbb988d465890ddeb6cbcd.jpg",

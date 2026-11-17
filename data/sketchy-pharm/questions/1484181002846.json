@@ -16,44 +16,25 @@
         "$$Putting_It_Together"
     ],
     "question": {
-        "text": "§\n\nDrugs/drug classes (5) : Nephro-/Ototoxicity",
+        "text": "Drugs/drug classes (5) : Nephro-/Ototoxicity",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nDrugs/drug classes (5) : Nephro-/Ototoxicity\n\n(1) Aminoglycosides\n(2) Loop diuretics\n\n(3) Cisplatin\n\n(4) Vancomycin\n\n(5) Amphotericin B\n\n[Image: c9195c31a231c2c6aec280ac9b43b372f80108dc7d1d0e758e4dd73594cd025d]\n\n[Image: 9a563306343d26839bc6623a976be45f8b8fa76cfd3616a38a6b31c41a5cc970]\n\n[Image: 2fed2141967c20e2fc29e237594561b222b789fe0a1a8f2f2479cac1091ec1c8]\n\n[Image: 60a4c36cd362b334fb40ea63203b075853a9079981671270b4006e0775b75fd9]\n\n[Image: f2403230a6bcdb5975ac0bc7f59c1a362f06cd4f352aa3a23783a407cb61943d]\n\n[Image: dd9c0edbd70a21006d6c42be44229b40b434e4ee08b47e5fcc3f9b497d3d950e]\n\n[Image: 26f633c27bf3d6357b306df6ef9bf603457fef8eaf8821c73fe5cfe61b236492]\n\n[Image: ce9db69f3c749f042eef20eeaf121b1c922794a0df95382a58a61b2656344536]\n\n[Image: a0dada25a2eb7990137914b35251f810de2ba41ff585768b13a91083ec2e6048]\n\n[Image: 4f64e310c4e8ed6defaa6d894e6b8939f068f06ce28ba6c50885c02530b295a6]\n\n[Image: a96d16e2833705c8324c26c25969765f35219c03686a0c51a0318527003621f3]\n\n[Image: 682f81e19ac02b0908c8da45efd0755c1eb6ea30c28041b09affedec098ccf7d]",
+        "text": "(1) Aminoglycosides\n(2) Loop diuretics\n\n(3) Cisplatin\n\n(4) Vancomycin\n\n(5) Amphotericin B\n\n[Image: c9195c31a231c2c6aec280ac9b43b372f80108dc7d1d0e758e4dd73594cd025d]\n\n[Image: 9a563306343d26839bc6623a976be45f8b8fa76cfd3616a38a6b31c41a5cc970]\n\n[Image: 2fed2141967c20e2fc29e237594561b222b789fe0a1a8f2f2479cac1091ec1c8]\n\n[Image: 60a4c36cd362b334fb40ea63203b075853a9079981671270b4006e0775b75fd9]\n\n[Image: f2403230a6bcdb5975ac0bc7f59c1a362f06cd4f352aa3a23783a407cb61943d]",
         "imageIds": [
             "c9195c31a231c2c6aec280ac9b43b372f80108dc7d1d0e758e4dd73594cd025d",
             "9a563306343d26839bc6623a976be45f8b8fa76cfd3616a38a6b31c41a5cc970",
             "2fed2141967c20e2fc29e237594561b222b789fe0a1a8f2f2479cac1091ec1c8",
             "60a4c36cd362b334fb40ea63203b075853a9079981671270b4006e0775b75fd9",
-            "f2403230a6bcdb5975ac0bc7f59c1a362f06cd4f352aa3a23783a407cb61943d",
-            "dd9c0edbd70a21006d6c42be44229b40b434e4ee08b47e5fcc3f9b497d3d950e",
-            "26f633c27bf3d6357b306df6ef9bf603457fef8eaf8821c73fe5cfe61b236492",
-            "ce9db69f3c749f042eef20eeaf121b1c922794a0df95382a58a61b2656344536",
-            "a0dada25a2eb7990137914b35251f810de2ba41ff585768b13a91083ec2e6048",
-            "4f64e310c4e8ed6defaa6d894e6b8939f068f06ce28ba6c50885c02530b295a6",
-            "a96d16e2833705c8324c26c25969765f35219c03686a0c51a0318527003621f3",
-            "682f81e19ac02b0908c8da45efd0755c1eb6ea30c28041b09affedec098ccf7d"
+            "f2403230a6bcdb5975ac0bc7f59c1a362f06cd4f352aa3a23783a407cb61943d"
         ]
     },
     "images": {
-        "26f633c27bf3d6357b306df6ef9bf603457fef8eaf8821c73fe5cfe61b236492": {
-            "file": "images/26f633c27bf3d6357b306df6ef9bf603457fef8eaf8821c73fe5cfe61b236492.jpg",
-            "filename": "paste-902750586011651.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 20723
-        },
         "2fed2141967c20e2fc29e237594561b222b789fe0a1a8f2f2479cac1091ec1c8": {
             "file": "images/2fed2141967c20e2fc29e237594561b222b789fe0a1a8f2f2479cac1091ec1c8.jpg",
             "filename": "paste-31842887532547.jpg",
             "mimeType": "image/jpeg",
             "bytes": 43442
-        },
-        "4f64e310c4e8ed6defaa6d894e6b8939f068f06ce28ba6c50885c02530b295a6": {
-            "file": "images/4f64e310c4e8ed6defaa6d894e6b8939f068f06ce28ba6c50885c02530b295a6.jpg",
-            "filename": "paste-902857960194051.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 39165
         },
         "60a4c36cd362b334fb40ea63203b075853a9079981671270b4006e0775b75fd9": {
             "file": "images/60a4c36cd362b334fb40ea63203b075853a9079981671270b4006e0775b75fd9.jpg",
@@ -61,47 +42,17 @@
             "mimeType": "image/jpeg",
             "bytes": 64182
         },
-        "682f81e19ac02b0908c8da45efd0755c1eb6ea30c28041b09affedec098ccf7d": {
-            "file": "images/682f81e19ac02b0908c8da45efd0755c1eb6ea30c28041b09affedec098ccf7d.jpg",
-            "filename": "paste-903008284049411.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 31306
-        },
         "9a563306343d26839bc6623a976be45f8b8fa76cfd3616a38a6b31c41a5cc970": {
             "file": "images/9a563306343d26839bc6623a976be45f8b8fa76cfd3616a38a6b31c41a5cc970.jpg",
             "filename": "paste-24180665876483.jpg",
             "mimeType": "image/jpeg",
             "bytes": 63286
         },
-        "a0dada25a2eb7990137914b35251f810de2ba41ff585768b13a91083ec2e6048": {
-            "file": "images/a0dada25a2eb7990137914b35251f810de2ba41ff585768b13a91083ec2e6048.jpg",
-            "filename": "paste-902815010521091.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 43234
-        },
-        "a96d16e2833705c8324c26c25969765f35219c03686a0c51a0318527003621f3": {
-            "file": "images/a96d16e2833705c8324c26c25969765f35219c03686a0c51a0318527003621f3.jpg",
-            "filename": "paste-902935269605379.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 55008
-        },
         "c9195c31a231c2c6aec280ac9b43b372f80108dc7d1d0e758e4dd73594cd025d": {
             "file": "images/c9195c31a231c2c6aec280ac9b43b372f80108dc7d1d0e758e4dd73594cd025d.jpg",
             "filename": "paste-26955214749699 (1).jpg",
             "mimeType": "image/jpeg",
             "bytes": 42779
-        },
-        "ce9db69f3c749f042eef20eeaf121b1c922794a0df95382a58a61b2656344536": {
-            "file": "images/ce9db69f3c749f042eef20eeaf121b1c922794a0df95382a58a61b2656344536.jpg",
-            "filename": "paste-902780650782723.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 34979
-        },
-        "dd9c0edbd70a21006d6c42be44229b40b434e4ee08b47e5fcc3f9b497d3d950e": {
-            "file": "images/dd9c0edbd70a21006d6c42be44229b40b434e4ee08b47e5fcc3f9b497d3d950e.jpg",
-            "filename": "paste-902724816207875.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 19613
         },
         "f2403230a6bcdb5975ac0bc7f59c1a362f06cd4f352aa3a23783a407cb61943d": {
             "file": "images/f2403230a6bcdb5975ac0bc7f59c1a362f06cd4f352aa3a23783a407cb61943d.jpg",

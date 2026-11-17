@@ -18,42 +18,21 @@
         "$Antipsychotics_&_Parkinsons"
     ],
     "question": {
-        "text": "§\n\nWhat is a distinctive side effect of Chlorpromazine?",
+        "text": "What is a distinctive side effect of Chlorpromazine?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat is a distinctive side effect of Chlorpromazine?\n\nYellow corneal deposits\n\n[Image: 6685429b23e880b5b34fae0e03ae047139e23344b7b24d9673bef5d778a75bdb]\n\n5.1 - First generation antipsychotics\n[Image: 200ef1c009b3b266b3583f9b4d9e10fb1caa8940070d0b905749a3474112cf5f]\n\n[Image: d8214ad280ce2cc641eacc7e93ad25f9b6e0c7f1ea8c5a9f5cae2be4561b73fb]\n\n[Image: 44444e5c55bab9d789789b80ffeb27d73b29ad3770e9b09e1768fe78a62993ce]",
+        "text": "Yellow corneal deposits\n\n[Image: 6685429b23e880b5b34fae0e03ae047139e23344b7b24d9673bef5d778a75bdb]",
         "imageIds": [
-            "6685429b23e880b5b34fae0e03ae047139e23344b7b24d9673bef5d778a75bdb",
-            "200ef1c009b3b266b3583f9b4d9e10fb1caa8940070d0b905749a3474112cf5f",
-            "d8214ad280ce2cc641eacc7e93ad25f9b6e0c7f1ea8c5a9f5cae2be4561b73fb",
-            "44444e5c55bab9d789789b80ffeb27d73b29ad3770e9b09e1768fe78a62993ce"
+            "6685429b23e880b5b34fae0e03ae047139e23344b7b24d9673bef5d778a75bdb"
         ]
     },
     "images": {
-        "200ef1c009b3b266b3583f9b4d9e10fb1caa8940070d0b905749a3474112cf5f": {
-            "file": "images/200ef1c009b3b266b3583f9b4d9e10fb1caa8940070d0b905749a3474112cf5f.jpg",
-            "filename": "paste-1242383714877441.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 149168
-        },
-        "44444e5c55bab9d789789b80ffeb27d73b29ad3770e9b09e1768fe78a62993ce": {
-            "file": "images/44444e5c55bab9d789789b80ffeb27d73b29ad3770e9b09e1768fe78a62993ce.jpg",
-            "filename": "paste-30584462114819.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 120520
-        },
         "6685429b23e880b5b34fae0e03ae047139e23344b7b24d9673bef5d778a75bdb": {
             "file": "images/6685429b23e880b5b34fae0e03ae047139e23344b7b24d9673bef5d778a75bdb.jpg",
             "filename": "paste-269230024949763.jpg",
             "mimeType": "image/jpeg",
             "bytes": 63743
-        },
-        "d8214ad280ce2cc641eacc7e93ad25f9b6e0c7f1ea8c5a9f5cae2be4561b73fb": {
-            "file": "images/d8214ad280ce2cc641eacc7e93ad25f9b6e0c7f1ea8c5a9f5cae2be4561b73fb.jpg",
-            "filename": "paste-161787123073027.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 150667
         }
     }
 }

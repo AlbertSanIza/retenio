@@ -18,27 +18,17 @@
         "$Parasympathetics"
     ],
     "question": {
-        "text": "§\n\nWhat AChE inhibitor has CNS effects?",
+        "text": "What AChE inhibitor has CNS effects?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat AChE inhibitor has CNS effects?\n\nPhysostigmine\n\n[Image: 7699e677135ad7ec3bfc10ab09df4cfcdc29e1e5a687cafa7fc411796ed3c6a6]\n\n[Image: 5b23851e8b820090b0b7c08b711c6c1ac2fcb64732472b3959a61ec96ae040ac]\n\n1.2 - Acetylcholinesterase Inhibitors\n[Image: e57b2601b4c08f9adecc8e69d0803f175f32746f38b6942c24e2e63045fcf095]\n\n[Image: 231bc3b0ced6837884df062f62bf74a56e9cf21a86ee8484e6961b82a1580ede]\n\n[Image: 8280241ea994ae0fbb89500fb500791dfd22307d991a87c7a2b79b4bf11fbc49]\n\n[Image: a53ded921dfbd2f276986c4ac3694aee8fcc77209677155b2b2950d05d678434]",
+        "text": "Physostigmine\n\n[Image: 7699e677135ad7ec3bfc10ab09df4cfcdc29e1e5a687cafa7fc411796ed3c6a6]\n\n[Image: 5b23851e8b820090b0b7c08b711c6c1ac2fcb64732472b3959a61ec96ae040ac]",
         "imageIds": [
             "7699e677135ad7ec3bfc10ab09df4cfcdc29e1e5a687cafa7fc411796ed3c6a6",
-            "5b23851e8b820090b0b7c08b711c6c1ac2fcb64732472b3959a61ec96ae040ac",
-            "e57b2601b4c08f9adecc8e69d0803f175f32746f38b6942c24e2e63045fcf095",
-            "231bc3b0ced6837884df062f62bf74a56e9cf21a86ee8484e6961b82a1580ede",
-            "8280241ea994ae0fbb89500fb500791dfd22307d991a87c7a2b79b4bf11fbc49",
-            "a53ded921dfbd2f276986c4ac3694aee8fcc77209677155b2b2950d05d678434"
+            "5b23851e8b820090b0b7c08b711c6c1ac2fcb64732472b3959a61ec96ae040ac"
         ]
     },
     "images": {
-        "231bc3b0ced6837884df062f62bf74a56e9cf21a86ee8484e6961b82a1580ede": {
-            "file": "images/231bc3b0ced6837884df062f62bf74a56e9cf21a86ee8484e6961b82a1580ede.jpg",
-            "filename": "paste-594986114482179.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 70099
-        },
         "5b23851e8b820090b0b7c08b711c6c1ac2fcb64732472b3959a61ec96ae040ac": {
             "file": "images/5b23851e8b820090b0b7c08b711c6c1ac2fcb64732472b3959a61ec96ae040ac.jpg",
             "filename": "paste-13477607374851.jpg",
@@ -50,24 +40,6 @@
             "filename": "paste-12416750452739.jpg",
             "mimeType": "image/jpeg",
             "bytes": 60074
-        },
-        "8280241ea994ae0fbb89500fb500791dfd22307d991a87c7a2b79b4bf11fbc49": {
-            "file": "images/8280241ea994ae0fbb89500fb500791dfd22307d991a87c7a2b79b4bf11fbc49.jpg",
-            "filename": "paste-296236779307011.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 47412
-        },
-        "a53ded921dfbd2f276986c4ac3694aee8fcc77209677155b2b2950d05d678434": {
-            "file": "images/a53ded921dfbd2f276986c4ac3694aee8fcc77209677155b2b2950d05d678434.jpg",
-            "filename": "paste-337850717437955.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 91197
-        },
-        "e57b2601b4c08f9adecc8e69d0803f175f32746f38b6942c24e2e63045fcf095": {
-            "file": "images/e57b2601b4c08f9adecc8e69d0803f175f32746f38b6942c24e2e63045fcf095.jpg",
-            "filename": "paste-405139970064385.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 146557
         }
     }
 }

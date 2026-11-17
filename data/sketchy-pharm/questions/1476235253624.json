@@ -18,50 +18,29 @@
         "$Diuretics"
     ],
     "question": {
-        "text": "§\n\nIndications (3) : Loop diuretics",
+        "text": "Indications (3) : Loop diuretics",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nIndications (3) : Loop diuretics\n\n(1) Pulmonary edema/CHF\n(2) Ascites\n\n(3) Hypertension\n\n(Also useful in hypercalcemia)\n\n[Image: 55c8574dc2eb4ef8c98aa795e0fdfc0e3c851b97d3b22fdbe9f208a1d75411ab]\n\n[Image: e3869a53d321e28782ecfcb242d90d34791af81a2842f9260336aeefff0350d0]\n\n[Image: 23ec25d1ac9411e767dcb19c7f1068fe2c68cc423b09350b17b09702d7cd53b3]\n\n2.2 - Loop diuretics\n[Image: ab97a3dbb7bcb783c943a24dd17fe759c7e8649ccf31e9c669d50ac2fd87224f]\n\n[Image: 1b7148647feea8113ae9dee03b260d70ee27ebcc42fd60b3f4de9de573e060cc]\n\n[Image: 3441d6b488bb0369101547fd03cec0ec80e0ad3a479fc9e8b2f636b8092b09fe]",
+        "text": "(1) Pulmonary edema/CHF\n(2) Ascites\n\n(3) Hypertension\n\n(Also useful in hypercalcemia)\n\n[Image: 55c8574dc2eb4ef8c98aa795e0fdfc0e3c851b97d3b22fdbe9f208a1d75411ab]\n\n[Image: e3869a53d321e28782ecfcb242d90d34791af81a2842f9260336aeefff0350d0]\n\n[Image: 23ec25d1ac9411e767dcb19c7f1068fe2c68cc423b09350b17b09702d7cd53b3]",
         "imageIds": [
             "55c8574dc2eb4ef8c98aa795e0fdfc0e3c851b97d3b22fdbe9f208a1d75411ab",
             "e3869a53d321e28782ecfcb242d90d34791af81a2842f9260336aeefff0350d0",
-            "23ec25d1ac9411e767dcb19c7f1068fe2c68cc423b09350b17b09702d7cd53b3",
-            "ab97a3dbb7bcb783c943a24dd17fe759c7e8649ccf31e9c669d50ac2fd87224f",
-            "1b7148647feea8113ae9dee03b260d70ee27ebcc42fd60b3f4de9de573e060cc",
-            "3441d6b488bb0369101547fd03cec0ec80e0ad3a479fc9e8b2f636b8092b09fe"
+            "23ec25d1ac9411e767dcb19c7f1068fe2c68cc423b09350b17b09702d7cd53b3"
         ]
     },
     "images": {
-        "1b7148647feea8113ae9dee03b260d70ee27ebcc42fd60b3f4de9de573e060cc": {
-            "file": "images/1b7148647feea8113ae9dee03b260d70ee27ebcc42fd60b3f4de9de573e060cc.jpg",
-            "filename": "paste-198698072014851.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 40968
-        },
         "23ec25d1ac9411e767dcb19c7f1068fe2c68cc423b09350b17b09702d7cd53b3": {
             "file": "images/23ec25d1ac9411e767dcb19c7f1068fe2c68cc423b09350b17b09702d7cd53b3.jpg",
             "filename": "paste-23210003267587.jpg",
             "mimeType": "image/jpeg",
             "bytes": 62659
         },
-        "3441d6b488bb0369101547fd03cec0ec80e0ad3a479fc9e8b2f636b8092b09fe": {
-            "file": "images/3441d6b488bb0369101547fd03cec0ec80e0ad3a479fc9e8b2f636b8092b09fe.jpg",
-            "filename": "paste-203504140419075.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 104127
-        },
         "55c8574dc2eb4ef8c98aa795e0fdfc0e3c851b97d3b22fdbe9f208a1d75411ab": {
             "file": "images/55c8574dc2eb4ef8c98aa795e0fdfc0e3c851b97d3b22fdbe9f208a1d75411ab.jpg",
             "filename": "paste-22260815495171.jpg",
             "mimeType": "image/jpeg",
             "bytes": 64926
-        },
-        "ab97a3dbb7bcb783c943a24dd17fe759c7e8649ccf31e9c669d50ac2fd87224f": {
-            "file": "images/ab97a3dbb7bcb783c943a24dd17fe759c7e8649ccf31e9c669d50ac2fd87224f.jpg",
-            "filename": "paste-617118080958465.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 154300
         },
         "e3869a53d321e28782ecfcb242d90d34791af81a2842f9260336aeefff0350d0": {
             "file": "images/e3869a53d321e28782ecfcb242d90d34791af81a2842f9260336aeefff0350d0.jpg",

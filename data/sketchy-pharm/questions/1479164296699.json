@@ -18,49 +18,21 @@
         "$Anti-inflammatory"
     ],
     "question": {
-        "text": "§\n\nWhat is uric acid derived from?",
+        "text": "What is uric acid derived from?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat is uric acid derived from?\n\nPurines\n\n[Image: 69e57bc685fc8ace44eaa745f6d6aa08dc91e2bbbcc6e8845850d5930106a0a3]\n\n3.2 - Gout Drugs\n[Image: be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df]\n\n[Image: 558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616]\n\n[Image: d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b]\n\n[Image: a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730]",
+        "text": "Purines\n\n[Image: 69e57bc685fc8ace44eaa745f6d6aa08dc91e2bbbcc6e8845850d5930106a0a3]",
         "imageIds": [
-            "69e57bc685fc8ace44eaa745f6d6aa08dc91e2bbbcc6e8845850d5930106a0a3",
-            "be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df",
-            "558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616",
-            "d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b",
-            "a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730"
+            "69e57bc685fc8ace44eaa745f6d6aa08dc91e2bbbcc6e8845850d5930106a0a3"
         ]
     },
     "images": {
-        "558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616": {
-            "file": "images/558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616.jpg",
-            "filename": "paste-121358595915779.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 132759
-        },
         "69e57bc685fc8ace44eaa745f6d6aa08dc91e2bbbcc6e8845850d5930106a0a3": {
             "file": "images/69e57bc685fc8ace44eaa745f6d6aa08dc91e2bbbcc6e8845850d5930106a0a3.jpg",
             "filename": "paste-11682311045123.jpg",
             "mimeType": "image/jpeg",
             "bytes": 38300
-        },
-        "a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730": {
-            "file": "images/a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730.jpg",
-            "filename": "paste-123982820933635.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 34602
-        },
-        "be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df": {
-            "file": "images/be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df.jpg",
-            "filename": "paste-583518551801857.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 158251
-        },
-        "d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b": {
-            "file": "images/d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b.jpg",
-            "filename": "paste-113215337922563.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 184086
         }
     }
 }

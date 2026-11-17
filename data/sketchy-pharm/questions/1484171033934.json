@@ -18,57 +18,22 @@
         "$Anesthetics_&_Analgesics"
     ],
     "question": {
-        "text": "§\n\nWhat is the relationship between an inhaled anesthetic's blood:gas partition coefficient and its duration of action?",
+        "text": "What is the relationship between an inhaled anesthetic's blood:gas partition coefficient and its duration of action?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat is the relationship between an inhaled anesthetic's blood:gas partition coefficient and its duration of action?\n\nBlood:gas partition coefficient ∝ Duration of action\n\n[Image: 9c23c47494582f033bdebc489a83ffa2adefbe6768cc859f9a5856d0658d2d3c]\n\n[Image: fd634a3fb4ace685090baf33974f39d605894f183eb194340984ffd6cd76b45a]\n\n2.2 - Inhaled anesthetics, dantrolene\n[Image: 841351d541bd1828e52d927251f5aacc57e51e7a1e46005a8cd8b78e8d28e735]\n\n[Image: 9778704df2765446c1484487e7b9c9e6997c463d608a23a3626bab8278b1d02d]\n\n[Image: e01e35cdcba99d0842810e410179d824206ac2f5bf7e2cc6e28ecee89d3026d8]\n\n[Image: 8406284991efa74ea239e04834e15735af6121805ec033faa0fa97cbadf4c981]\n\n[Image: befecdd7943656d961805680c16c53d71f31eb2074b6f57ac0a52a6d08aec2b1]",
+        "text": "Blood:gas partition coefficient ∝ Duration of action\n\n[Image: 9c23c47494582f033bdebc489a83ffa2adefbe6768cc859f9a5856d0658d2d3c]\n\n[Image: fd634a3fb4ace685090baf33974f39d605894f183eb194340984ffd6cd76b45a]",
         "imageIds": [
             "9c23c47494582f033bdebc489a83ffa2adefbe6768cc859f9a5856d0658d2d3c",
-            "fd634a3fb4ace685090baf33974f39d605894f183eb194340984ffd6cd76b45a",
-            "841351d541bd1828e52d927251f5aacc57e51e7a1e46005a8cd8b78e8d28e735",
-            "9778704df2765446c1484487e7b9c9e6997c463d608a23a3626bab8278b1d02d",
-            "e01e35cdcba99d0842810e410179d824206ac2f5bf7e2cc6e28ecee89d3026d8",
-            "8406284991efa74ea239e04834e15735af6121805ec033faa0fa97cbadf4c981",
-            "befecdd7943656d961805680c16c53d71f31eb2074b6f57ac0a52a6d08aec2b1"
+            "fd634a3fb4ace685090baf33974f39d605894f183eb194340984ffd6cd76b45a"
         ]
     },
     "images": {
-        "8406284991efa74ea239e04834e15735af6121805ec033faa0fa97cbadf4c981": {
-            "file": "images/8406284991efa74ea239e04834e15735af6121805ec033faa0fa97cbadf4c981.jpg",
-            "filename": "paste-611066472038403.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 29653
-        },
-        "841351d541bd1828e52d927251f5aacc57e51e7a1e46005a8cd8b78e8d28e735": {
-            "file": "images/841351d541bd1828e52d927251f5aacc57e51e7a1e46005a8cd8b78e8d28e735.jpg",
-            "filename": "paste-505796823613443.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 89900
-        },
-        "9778704df2765446c1484487e7b9c9e6997c463d608a23a3626bab8278b1d02d": {
-            "file": "images/9778704df2765446c1484487e7b9c9e6997c463d608a23a3626bab8278b1d02d.jpg",
-            "filename": "paste-608017045258243.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 59832
-        },
         "9c23c47494582f033bdebc489a83ffa2adefbe6768cc859f9a5856d0658d2d3c": {
             "file": "images/9c23c47494582f033bdebc489a83ffa2adefbe6768cc859f9a5856d0658d2d3c.jpg",
             "filename": "paste-527035436892163.jpg",
             "mimeType": "image/jpeg",
             "bytes": 77871
-        },
-        "befecdd7943656d961805680c16c53d71f31eb2074b6f57ac0a52a6d08aec2b1": {
-            "file": "images/befecdd7943656d961805680c16c53d71f31eb2074b6f57ac0a52a6d08aec2b1.jpg",
-            "filename": "paste-44147968835587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 179776
-        },
-        "e01e35cdcba99d0842810e410179d824206ac2f5bf7e2cc6e28ecee89d3026d8": {
-            "file": "images/e01e35cdcba99d0842810e410179d824206ac2f5bf7e2cc6e28ecee89d3026d8.jpg",
-            "filename": "paste-609537463681027.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 78221
         },
         "fd634a3fb4ace685090baf33974f39d605894f183eb194340984ffd6cd76b45a": {
             "file": "images/fd634a3fb4ace685090baf33974f39d605894f183eb194340984ffd6cd76b45a.jpg",

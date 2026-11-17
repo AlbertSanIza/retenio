@@ -18,56 +18,28 @@
         "$Diabetes"
     ],
     "question": {
-        "text": "§\n\nWhat is the mechanism of α-glucosidase inhibitors in treating diabetes?",
+        "text": "What is the mechanism of α-glucosidase inhibitors in treating diabetes?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat is the mechanism of α-glucosidase inhibitors in treating diabetes?\n\n↓ Intestinal glucose absorption\n\n[Image: daec44c1a57ad40fc9d6821c9dc081c8ba6dd1db4f2a0c610c502250c3ad4a34]\n\n[Image: 3af41e1f974c029ad3c8e8035a391e88f5235f20549604997e512b5e3b4a6415]\n\n2.2 - Metformin, thiazolidinediones, pramlintide, SGLT2 inhibitors\n[Image: c93933ecca5011cf030fffab3f2a7d7d16736ddfbca87b230701c2f3fc240dc5]\n\n[Image: f3b7c21a6544b06616584d12195d9910647afb6cd10a8c110622198092a834c8]\n\n[Image: 1f24829ed8e7c360dc920854099066e3cbe5abfb330bb89cc82c3336564f3220]\n\n[Image: 74c691159c40e4652a15be12151e6f1b944b996fa69a77ba9efc6691452e3b29]",
+        "text": "↓ Intestinal glucose absorption\n\n[Image: daec44c1a57ad40fc9d6821c9dc081c8ba6dd1db4f2a0c610c502250c3ad4a34]\n\n[Image: 3af41e1f974c029ad3c8e8035a391e88f5235f20549604997e512b5e3b4a6415]",
         "imageIds": [
             "daec44c1a57ad40fc9d6821c9dc081c8ba6dd1db4f2a0c610c502250c3ad4a34",
-            "3af41e1f974c029ad3c8e8035a391e88f5235f20549604997e512b5e3b4a6415",
-            "c93933ecca5011cf030fffab3f2a7d7d16736ddfbca87b230701c2f3fc240dc5",
-            "f3b7c21a6544b06616584d12195d9910647afb6cd10a8c110622198092a834c8",
-            "1f24829ed8e7c360dc920854099066e3cbe5abfb330bb89cc82c3336564f3220",
-            "74c691159c40e4652a15be12151e6f1b944b996fa69a77ba9efc6691452e3b29"
+            "3af41e1f974c029ad3c8e8035a391e88f5235f20549604997e512b5e3b4a6415"
         ]
     },
     "images": {
-        "1f24829ed8e7c360dc920854099066e3cbe5abfb330bb89cc82c3336564f3220": {
-            "file": "images/1f24829ed8e7c360dc920854099066e3cbe5abfb330bb89cc82c3336564f3220.jpg",
-            "filename": "paste-726519487922179.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 55523
-        },
         "3af41e1f974c029ad3c8e8035a391e88f5235f20549604997e512b5e3b4a6415": {
             "file": "images/3af41e1f974c029ad3c8e8035a391e88f5235f20549604997e512b5e3b4a6415.jpg",
             "filename": "paste-74732430950403.jpg",
             "mimeType": "image/jpeg",
             "bytes": 50796
         },
-        "74c691159c40e4652a15be12151e6f1b944b996fa69a77ba9efc6691452e3b29": {
-            "file": "images/74c691159c40e4652a15be12151e6f1b944b996fa69a77ba9efc6691452e3b29.jpg",
-            "filename": "paste-732279039066115.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 60265
-        },
-        "c93933ecca5011cf030fffab3f2a7d7d16736ddfbca87b230701c2f3fc240dc5": {
-            "file": "images/c93933ecca5011cf030fffab3f2a7d7d16736ddfbca87b230701c2f3fc240dc5.jpg",
-            "filename": "paste-690111050153985.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 153694
-        },
         "daec44c1a57ad40fc9d6821c9dc081c8ba6dd1db4f2a0c610c502250c3ad4a34": {
             "file": "images/daec44c1a57ad40fc9d6821c9dc081c8ba6dd1db4f2a0c610c502250c3ad4a34.jpg",
             "filename": "paste-74590697029635.jpg",
             "mimeType": "image/jpeg",
             "bytes": 52151
-        },
-        "f3b7c21a6544b06616584d12195d9910647afb6cd10a8c110622198092a834c8": {
-            "file": "images/f3b7c21a6544b06616584d12195d9910647afb6cd10a8c110622198092a834c8.jpg",
-            "filename": "paste-730582526984195.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 45674
         }
     }
 }

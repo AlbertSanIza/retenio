@@ -18,30 +18,16 @@
         "$Anesthetics_&_Analgesics"
     ],
     "question": {
-        "text": "§\n\nWhich IV anesthetic causes a \"dissociative anesthesia\"?",
+        "text": "Which IV anesthetic causes a \"dissociative anesthesia\"?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhich IV anesthetic causes a \"dissociative anesthesia\"?\n\nKetamine\n\n[Image: eef5075a1850075545b9672397b92e04f6273f9a300ca347aa71e53d9795bcfb]\n\n2.1 - Propofol, etomidate, ketamine\n[Image: 258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc]\n\n[Image: 876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc]",
+        "text": "Ketamine\n\n[Image: eef5075a1850075545b9672397b92e04f6273f9a300ca347aa71e53d9795bcfb]",
         "imageIds": [
-            "eef5075a1850075545b9672397b92e04f6273f9a300ca347aa71e53d9795bcfb",
-            "258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc",
-            "876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc"
+            "eef5075a1850075545b9672397b92e04f6273f9a300ca347aa71e53d9795bcfb"
         ]
     },
     "images": {
-        "258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc": {
-            "file": "images/258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc.jpg",
-            "filename": "paste-490476675268611.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 83285
-        },
-        "876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc": {
-            "file": "images/876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc.jpg",
-            "filename": "paste-501411662004227.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 93496
-        },
         "eef5075a1850075545b9672397b92e04f6273f9a300ca347aa71e53d9795bcfb": {
             "file": "images/eef5075a1850075545b9672397b92e04f6273f9a300ca347aa71e53d9795bcfb.jpg",
             "filename": "paste-492705763295235.jpg",

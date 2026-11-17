@@ -18,15 +18,13 @@
         "$Sedatives&Hypnotics"
     ],
     "question": {
-        "text": "§\n\nWhich non-benzodiazepine is effective for both sleep onset and sleep maintenance?",
+        "text": "Which non-benzodiazepine is effective for both sleep onset and sleep maintenance?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhich non-benzodiazepine is effective for both sleep onset and sleep maintenance?\n\nesZopiclone\n\n[Image: 084258b87d565e1028a900a23990a141c20b3b87fcc1bfd28f16574507148ad0]\n\n1.2 - Nonbenzodiazepine hypnotics, melatonin, ramelteon\n[Image: c26e57369914287622e90ccbd794e296a902ef296815c1640698020c1992aa99]\n\n[Image: b2e336a8e131880ec626dba7cd8039faaa6d4bb85a01a024a73fd9b26685c692]",
+        "text": "esZopiclone\n\n[Image: 084258b87d565e1028a900a23990a141c20b3b87fcc1bfd28f16574507148ad0]",
         "imageIds": [
-            "084258b87d565e1028a900a23990a141c20b3b87fcc1bfd28f16574507148ad0",
-            "c26e57369914287622e90ccbd794e296a902ef296815c1640698020c1992aa99",
-            "b2e336a8e131880ec626dba7cd8039faaa6d4bb85a01a024a73fd9b26685c692"
+            "084258b87d565e1028a900a23990a141c20b3b87fcc1bfd28f16574507148ad0"
         ]
     },
     "images": {
@@ -35,18 +33,6 @@
             "filename": "paste-8353711390723.jpg",
             "mimeType": "image/jpeg",
             "bytes": 60111
-        },
-        "b2e336a8e131880ec626dba7cd8039faaa6d4bb85a01a024a73fd9b26685c692": {
-            "file": "images/b2e336a8e131880ec626dba7cd8039faaa6d4bb85a01a024a73fd9b26685c692.jpg",
-            "filename": "paste-158260954923011.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 50982
-        },
-        "c26e57369914287622e90ccbd794e296a902ef296815c1640698020c1992aa99": {
-            "file": "images/c26e57369914287622e90ccbd794e296a902ef296815c1640698020c1992aa99.jpg",
-            "filename": "paste-825273670959105.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 119694
         }
     }
 }

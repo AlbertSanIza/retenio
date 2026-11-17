@@ -18,28 +18,18 @@
         "$Anticoagulants&Thrombolytics"
     ],
     "question": {
-        "text": "§\n\nIndications (4) : Fibrinolytics",
+        "text": "Indications (4) : Fibrinolytics",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nIndications (4) : Fibrinolytics\n\n(1) Acute ischemic stroke\n(2) Deep venous thrombosis\n\n(3) Pulmonary embolism\n\n(4) Acute myocardial infarction\n\n[Image: 97480de6c347520d47b53b3aa85ece6bb4067fb441a32c7e9491da22ff08dd05]\n\n[Image: f9a56766bde2db262bb05bc49329c204741df8fbc567009b17f2b138061bb483]\n\n[Image: 824bf40e83b8aae4829d66737d32531426a6d112a864cf8e34fbb7428af99f23]\n\n1.4 - Thrombolytics\n[Image: c97d692746fe1bbdd95df33fc5ed61a2857c0092adaea02d6e70278e6f47f486]\n\n[Image: 79bfed7172db4b9cd4194469848eaf5644bd064312603d878d78c92a9675b49a]\n\n[Image: c3fc86c8b86793b560d992764fddd3cd1374fb45c40ee17959972514c75c57ad]\n\n[Image: dcb54ca655e04fdd87a661a3fc00fccb5ceb0067d577be9ac50dfa4bff444b32]",
+        "text": "(1) Acute ischemic stroke\n(2) Deep venous thrombosis\n\n(3) Pulmonary embolism\n\n(4) Acute myocardial infarction\n\n[Image: 97480de6c347520d47b53b3aa85ece6bb4067fb441a32c7e9491da22ff08dd05]\n\n[Image: f9a56766bde2db262bb05bc49329c204741df8fbc567009b17f2b138061bb483]\n\n[Image: 824bf40e83b8aae4829d66737d32531426a6d112a864cf8e34fbb7428af99f23]",
         "imageIds": [
             "97480de6c347520d47b53b3aa85ece6bb4067fb441a32c7e9491da22ff08dd05",
             "f9a56766bde2db262bb05bc49329c204741df8fbc567009b17f2b138061bb483",
-            "824bf40e83b8aae4829d66737d32531426a6d112a864cf8e34fbb7428af99f23",
-            "c97d692746fe1bbdd95df33fc5ed61a2857c0092adaea02d6e70278e6f47f486",
-            "79bfed7172db4b9cd4194469848eaf5644bd064312603d878d78c92a9675b49a",
-            "c3fc86c8b86793b560d992764fddd3cd1374fb45c40ee17959972514c75c57ad",
-            "dcb54ca655e04fdd87a661a3fc00fccb5ceb0067d577be9ac50dfa4bff444b32"
+            "824bf40e83b8aae4829d66737d32531426a6d112a864cf8e34fbb7428af99f23"
         ]
     },
     "images": {
-        "79bfed7172db4b9cd4194469848eaf5644bd064312603d878d78c92a9675b49a": {
-            "file": "images/79bfed7172db4b9cd4194469848eaf5644bd064312603d878d78c92a9675b49a.jpg",
-            "filename": "paste-181818850541571.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 55971
-        },
         "824bf40e83b8aae4829d66737d32531426a6d112a864cf8e34fbb7428af99f23": {
             "file": "images/824bf40e83b8aae4829d66737d32531426a6d112a864cf8e34fbb7428af99f23.jpg",
             "filename": "paste-24623047507971.jpg",
@@ -51,24 +41,6 @@
             "filename": "paste-23626615095299.jpg",
             "mimeType": "image/jpeg",
             "bytes": 74239
-        },
-        "c3fc86c8b86793b560d992764fddd3cd1374fb45c40ee17959972514c75c57ad": {
-            "file": "images/c3fc86c8b86793b560d992764fddd3cd1374fb45c40ee17959972514c75c57ad.jpg",
-            "filename": "paste-384335148482563.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 62390
-        },
-        "c97d692746fe1bbdd95df33fc5ed61a2857c0092adaea02d6e70278e6f47f486": {
-            "file": "images/c97d692746fe1bbdd95df33fc5ed61a2857c0092adaea02d6e70278e6f47f486.jpg",
-            "filename": "paste-23111219019779.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 102920
-        },
-        "dcb54ca655e04fdd87a661a3fc00fccb5ceb0067d577be9ac50dfa4bff444b32": {
-            "file": "images/dcb54ca655e04fdd87a661a3fc00fccb5ceb0067d577be9ac50dfa4bff444b32.jpg",
-            "filename": "paste-385782552461315.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 79084
         },
         "f9a56766bde2db262bb05bc49329c204741df8fbc567009b17f2b138061bb483": {
             "file": "images/f9a56766bde2db262bb05bc49329c204741df8fbc567009b17f2b138061bb483.jpg",

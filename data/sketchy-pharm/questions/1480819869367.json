@@ -18,38 +18,17 @@
         "$Other_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nCD4 Count: TMP-SMX prophylaxis against Toxoplasma gondii",
+        "text": "CD4 Count: TMP-SMX prophylaxis against Toxoplasma gondii",
         "imageIds": []
     },
     "answer": {
-        "text": "§\n\nCD4 Count: TMP-SMX prophylaxis against Toxoplasma gondii\n\nCD4 < 100\n\n[Image: e4d909631c30b3ed5b1052c0de44f62cd939bf70ae6846a492fc83455de97ae6]\n\n[Image: da539caffcf1c98fab4c07de406f5a525bbc731cc10c5ba59f1cf88ff56d5700]\n\n4.1 - Trimethoprim/Sulfamethoxazole\n[Image: 37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da]\n\n[Image: 415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9]\n\n[Image: 302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70]",
+        "text": "CD4 < 100\n\n[Image: e4d909631c30b3ed5b1052c0de44f62cd939bf70ae6846a492fc83455de97ae6]\n\n[Image: da539caffcf1c98fab4c07de406f5a525bbc731cc10c5ba59f1cf88ff56d5700]",
         "imageIds": [
             "e4d909631c30b3ed5b1052c0de44f62cd939bf70ae6846a492fc83455de97ae6",
-            "da539caffcf1c98fab4c07de406f5a525bbc731cc10c5ba59f1cf88ff56d5700",
-            "37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da",
-            "415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9",
-            "302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70"
+            "da539caffcf1c98fab4c07de406f5a525bbc731cc10c5ba59f1cf88ff56d5700"
         ]
     },
     "images": {
-        "302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70": {
-            "file": "images/302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70.jpg",
-            "filename": "paste-184696478629891.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 30701
-        },
-        "37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da": {
-            "file": "images/37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da.jpg",
-            "filename": "paste-247265562198017.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 141182
-        },
-        "415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9": {
-            "file": "images/415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9.jpg",
-            "filename": "paste-413223098515459.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 75809
-        },
         "da539caffcf1c98fab4c07de406f5a525bbc731cc10c5ba59f1cf88ff56d5700": {
             "file": "images/da539caffcf1c98fab4c07de406f5a525bbc731cc10c5ba59f1cf88ff56d5700.jpg",
             "filename": "paste-105007655419907.jpg",

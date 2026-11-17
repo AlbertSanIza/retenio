@@ -18,19 +18,14 @@
         "$Anesthetics_&_Analgesics"
     ],
     "question": {
-        "text": "§\n\nWhat distinguishes Enflurane's adverse effects from the other inhaled anesthetics",
+        "text": "What distinguishes Enflurane's adverse effects from the other inhaled anesthetics",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat distinguishes Enflurane's adverse effects from the other inhaled anesthetics\n\n(1) Nephrotoxicity\n(2) Seizures\n\n[Image: 21b498ada994fa086731d09c6483ef3c57e34a05d5fbb88f711fd0f4c187db5e]\n\n[Image: 0d72551cefe2dc91f15ee7ca30accce75e31c2423d989b76d9e661c5b040354f]\n\n2.2 - Inhaled anesthetics, dantrolene\n[Image: 841351d541bd1828e52d927251f5aacc57e51e7a1e46005a8cd8b78e8d28e735]\n\n[Image: 9778704df2765446c1484487e7b9c9e6997c463d608a23a3626bab8278b1d02d]\n\n[Image: e01e35cdcba99d0842810e410179d824206ac2f5bf7e2cc6e28ecee89d3026d8]\n\n[Image: 8406284991efa74ea239e04834e15735af6121805ec033faa0fa97cbadf4c981]\n\n[Image: befecdd7943656d961805680c16c53d71f31eb2074b6f57ac0a52a6d08aec2b1]",
+        "text": "(1) Nephrotoxicity\n(2) Seizures\n\n[Image: 21b498ada994fa086731d09c6483ef3c57e34a05d5fbb88f711fd0f4c187db5e]\n\n[Image: 0d72551cefe2dc91f15ee7ca30accce75e31c2423d989b76d9e661c5b040354f]",
         "imageIds": [
             "21b498ada994fa086731d09c6483ef3c57e34a05d5fbb88f711fd0f4c187db5e",
-            "0d72551cefe2dc91f15ee7ca30accce75e31c2423d989b76d9e661c5b040354f",
-            "841351d541bd1828e52d927251f5aacc57e51e7a1e46005a8cd8b78e8d28e735",
-            "9778704df2765446c1484487e7b9c9e6997c463d608a23a3626bab8278b1d02d",
-            "e01e35cdcba99d0842810e410179d824206ac2f5bf7e2cc6e28ecee89d3026d8",
-            "8406284991efa74ea239e04834e15735af6121805ec033faa0fa97cbadf4c981",
-            "befecdd7943656d961805680c16c53d71f31eb2074b6f57ac0a52a6d08aec2b1"
+            "0d72551cefe2dc91f15ee7ca30accce75e31c2423d989b76d9e661c5b040354f"
         ]
     },
     "images": {
@@ -45,36 +40,6 @@
             "filename": "paste-569817606127619.jpg",
             "mimeType": "image/jpeg",
             "bytes": 81977
-        },
-        "8406284991efa74ea239e04834e15735af6121805ec033faa0fa97cbadf4c981": {
-            "file": "images/8406284991efa74ea239e04834e15735af6121805ec033faa0fa97cbadf4c981.jpg",
-            "filename": "paste-611066472038403.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 29653
-        },
-        "841351d541bd1828e52d927251f5aacc57e51e7a1e46005a8cd8b78e8d28e735": {
-            "file": "images/841351d541bd1828e52d927251f5aacc57e51e7a1e46005a8cd8b78e8d28e735.jpg",
-            "filename": "paste-505796823613443.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 89900
-        },
-        "9778704df2765446c1484487e7b9c9e6997c463d608a23a3626bab8278b1d02d": {
-            "file": "images/9778704df2765446c1484487e7b9c9e6997c463d608a23a3626bab8278b1d02d.jpg",
-            "filename": "paste-608017045258243.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 59832
-        },
-        "befecdd7943656d961805680c16c53d71f31eb2074b6f57ac0a52a6d08aec2b1": {
-            "file": "images/befecdd7943656d961805680c16c53d71f31eb2074b6f57ac0a52a6d08aec2b1.jpg",
-            "filename": "paste-44147968835587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 179776
-        },
-        "e01e35cdcba99d0842810e410179d824206ac2f5bf7e2cc6e28ecee89d3026d8": {
-            "file": "images/e01e35cdcba99d0842810e410179d824206ac2f5bf7e2cc6e28ecee89d3026d8.jpg",
-            "filename": "paste-609537463681027.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 78221
         }
     }
 }

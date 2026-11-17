@@ -18,42 +18,21 @@
         "$Parasympathetics"
     ],
     "question": {
-        "text": "§\n\nWhat is the difference in action of Tiotropium and Ipratropium?",
+        "text": "What is the difference in action of Tiotropium and Ipratropium?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat is the difference in action of Tiotropium and Ipratropium?\n\nTiotropium dissociates more slowly from M3 receptor\n\n(Hence lingering Tio-ooooo rings)\n\n[Image: aba08e1ed4d73d092ed910885ca61a939669833e2581329f64fdaff51f731843]\n\n1.3 - Muscarinic antagonists\n[Image: f73d6be268d365a8c4123fc0e98df1066190c1efc71673333616184892da529b]\n\n[Image: 7c05b0090af8ae7faec17530a195689bbf153c4d8bb8fa549221f2bb5de04ee5]\n\n[Image: 2b2c8378624553f80b20e849b6117074679044004a47259538cd43e16b393c4e]",
+        "text": "Tiotropium dissociates more slowly from M3 receptor\n\n(Hence lingering Tio-ooooo rings)\n\n[Image: aba08e1ed4d73d092ed910885ca61a939669833e2581329f64fdaff51f731843]",
         "imageIds": [
-            "aba08e1ed4d73d092ed910885ca61a939669833e2581329f64fdaff51f731843",
-            "f73d6be268d365a8c4123fc0e98df1066190c1efc71673333616184892da529b",
-            "7c05b0090af8ae7faec17530a195689bbf153c4d8bb8fa549221f2bb5de04ee5",
-            "2b2c8378624553f80b20e849b6117074679044004a47259538cd43e16b393c4e"
+            "aba08e1ed4d73d092ed910885ca61a939669833e2581329f64fdaff51f731843"
         ]
     },
     "images": {
-        "2b2c8378624553f80b20e849b6117074679044004a47259538cd43e16b393c4e": {
-            "file": "images/2b2c8378624553f80b20e849b6117074679044004a47259538cd43e16b393c4e.jpg",
-            "filename": "paste-600170140008451.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 58091
-        },
-        "7c05b0090af8ae7faec17530a195689bbf153c4d8bb8fa549221f2bb5de04ee5": {
-            "file": "images/7c05b0090af8ae7faec17530a195689bbf153c4d8bb8fa549221f2bb5de04ee5.jpg",
-            "filename": "paste-598503692697603.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 52321
-        },
         "aba08e1ed4d73d092ed910885ca61a939669833e2581329f64fdaff51f731843": {
             "file": "images/aba08e1ed4d73d092ed910885ca61a939669833e2581329f64fdaff51f731843.jpg",
             "filename": "paste-16539919056899.jpg",
             "mimeType": "image/jpeg",
             "bytes": 65627
-        },
-        "f73d6be268d365a8c4123fc0e98df1066190c1efc71673333616184892da529b": {
-            "file": "images/f73d6be268d365a8c4123fc0e98df1066190c1efc71673333616184892da529b.jpg",
-            "filename": "paste-417874548097025.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 147252
         }
     }
 }

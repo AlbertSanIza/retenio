@@ -18,30 +18,16 @@
         "$Antiarrhythmics"
     ],
     "question": {
-        "text": "§\n\nWhat effect does stimulation of coronary A2 receptors have?",
+        "text": "What effect does stimulation of coronary A2 receptors have?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat effect does stimulation of coronary A2 receptors have?\n\nVasodilation\n\n[Image: 32192c66d9dea7864f21b4b8a5da7c469cf0e53d251a074e2bc933a7fed50d3d]\n\n4.5 - \"Class V\"\n[Image: 314a9d9956154c93a28c11da294df9fba3bba8c86bfa2c83b2350434f676e34f]\n\n[Image: 1c24c7fc018e2e9a9366e655fe8c5bb583bb8a13f6a423cbe2de86d4e46c6595]",
+        "text": "Vasodilation\n\n[Image: 32192c66d9dea7864f21b4b8a5da7c469cf0e53d251a074e2bc933a7fed50d3d]",
         "imageIds": [
-            "32192c66d9dea7864f21b4b8a5da7c469cf0e53d251a074e2bc933a7fed50d3d",
-            "314a9d9956154c93a28c11da294df9fba3bba8c86bfa2c83b2350434f676e34f",
-            "1c24c7fc018e2e9a9366e655fe8c5bb583bb8a13f6a423cbe2de86d4e46c6595"
+            "32192c66d9dea7864f21b4b8a5da7c469cf0e53d251a074e2bc933a7fed50d3d"
         ]
     },
     "images": {
-        "1c24c7fc018e2e9a9366e655fe8c5bb583bb8a13f6a423cbe2de86d4e46c6595": {
-            "file": "images/1c24c7fc018e2e9a9366e655fe8c5bb583bb8a13f6a423cbe2de86d4e46c6595.jpg",
-            "filename": "paste-258750304747523.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 44883
-        },
-        "314a9d9956154c93a28c11da294df9fba3bba8c86bfa2c83b2350434f676e34f": {
-            "file": "images/314a9d9956154c93a28c11da294df9fba3bba8c86bfa2c83b2350434f676e34f.jpg",
-            "filename": "paste-664169447686145.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 124309
-        },
         "32192c66d9dea7864f21b4b8a5da7c469cf0e53d251a074e2bc933a7fed50d3d": {
             "file": "images/32192c66d9dea7864f21b4b8a5da7c469cf0e53d251a074e2bc933a7fed50d3d.jpg",
             "filename": "paste-48996986912771.jpg",

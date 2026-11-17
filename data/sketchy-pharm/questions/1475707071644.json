@@ -18,16 +18,13 @@
         "$Vasoactive"
     ],
     "question": {
-        "text": "§\n\nHow can nitrates cause hypoxia?",
+        "text": "How can nitrates cause hypoxia?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nHow can nitrates cause hypoxia?\n\nOxidize heme Fe2+ → Fe3+\n\n(Nitrates have many oxygens ∴ oxidizing agents ∴ oxidize iron)\n\n[Image: 035abf01881701404d890179fc904031fe507f473a822f38aa4e2743023984f5]\n\n1.1 - Nitrates\n[Image: 7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74]\n\n[Image: c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d]\n\n[Image: e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584]",
+        "text": "Oxidize heme Fe2+ → Fe3+\n\n(Nitrates have many oxygens ∴ oxidizing agents ∴ oxidize iron)\n\n[Image: 035abf01881701404d890179fc904031fe507f473a822f38aa4e2743023984f5]",
         "imageIds": [
-            "035abf01881701404d890179fc904031fe507f473a822f38aa4e2743023984f5",
-            "7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74",
-            "c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d",
-            "e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584"
+            "035abf01881701404d890179fc904031fe507f473a822f38aa4e2743023984f5"
         ]
     },
     "images": {
@@ -36,24 +33,6 @@
             "filename": "paste-45011257262083.jpg",
             "mimeType": "image/jpeg",
             "bytes": 61111
-        },
-        "7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74": {
-            "file": "images/7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74.jpg",
-            "filename": "paste-47850230644739 (1).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 154032
-        },
-        "c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d": {
-            "file": "images/c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d.jpg",
-            "filename": "paste-367026430279683.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 114318
-        },
-        "e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584": {
-            "file": "images/e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584.jpg",
-            "filename": "paste-692091030077443.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 83948
         }
     }
 }

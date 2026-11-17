@@ -18,15 +18,13 @@
         "$Sedatives&Hypnotics"
     ],
     "question": {
-        "text": "§\n\nWhy does thiopental have a short duration of action?",
+        "text": "Why does thiopental have a short duration of action?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhy does thiopental have a short duration of action?\n\nRapid redistribution from CNS\n\n[Image: 5a6f62db5bfc7cc7a255a79ec291a5651bd6590025b41e7ccb5ddd02c2119a8a]\n\n1.3 - Barbiturates\n[Image: a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4]\n\n[Image: e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6]",
+        "text": "Rapid redistribution from CNS\n\n[Image: 5a6f62db5bfc7cc7a255a79ec291a5651bd6590025b41e7ccb5ddd02c2119a8a]",
         "imageIds": [
-            "5a6f62db5bfc7cc7a255a79ec291a5651bd6590025b41e7ccb5ddd02c2119a8a",
-            "a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4",
-            "e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6"
+            "5a6f62db5bfc7cc7a255a79ec291a5651bd6590025b41e7ccb5ddd02c2119a8a"
         ]
     },
     "images": {
@@ -35,18 +33,6 @@
             "filename": "paste-9436043149315.jpg",
             "mimeType": "image/jpeg",
             "bytes": 81697
-        },
-        "a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4": {
-            "file": "images/a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4.jpg",
-            "filename": "paste-829706077208577.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 146002
-        },
-        "e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6": {
-            "file": "images/e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6.jpg",
-            "filename": "paste-160709086281731.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 53669
         }
     }
 }

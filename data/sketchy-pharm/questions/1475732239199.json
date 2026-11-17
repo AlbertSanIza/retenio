@@ -18,42 +18,21 @@
         "$Sympathetics"
     ],
     "question": {
-        "text": "§\n\nWhich class of sympatholytic is useful in hypertrophic obstructive cardiomyopathy?",
+        "text": "Which class of sympatholytic is useful in hypertrophic obstructive cardiomyopathy?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhich class of sympatholytic is useful in hypertrophic obstructive cardiomyopathy?\n\nβ-blockers\n\n(↓ Ventricle volume ∝ ↑ Outflow resistance ∴ β-blockers mediated ↓ in stroke volume helps with symptoms)\n\n[Image: 7acac48c18a0e8581bcab015b211468b1530f0cd808bc52cb31f0d780923fdb4]\n\n2.4 - Beta blockers\n[Image: ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98]\n\n[Image: 0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173]\n\n[Image: 6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6]",
+        "text": "β-blockers\n\n(↓ Ventricle volume ∝ ↑ Outflow resistance ∴ β-blockers mediated ↓ in stroke volume helps with symptoms)\n\n[Image: 7acac48c18a0e8581bcab015b211468b1530f0cd808bc52cb31f0d780923fdb4]",
         "imageIds": [
-            "7acac48c18a0e8581bcab015b211468b1530f0cd808bc52cb31f0d780923fdb4",
-            "ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98",
-            "0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173",
-            "6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6"
+            "7acac48c18a0e8581bcab015b211468b1530f0cd808bc52cb31f0d780923fdb4"
         ]
     },
     "images": {
-        "0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173": {
-            "file": "images/0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173.jpg",
-            "filename": "paste-302687820185603.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 107698
-        },
-        "6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6": {
-            "file": "images/6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6.jpg",
-            "filename": "paste-305681412390915.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 63928
-        },
         "7acac48c18a0e8581bcab015b211468b1530f0cd808bc52cb31f0d780923fdb4": {
             "file": "images/7acac48c18a0e8581bcab015b211468b1530f0cd808bc52cb31f0d780923fdb4.jpg",
             "filename": "paste-37477884624899.jpg",
             "mimeType": "image/jpeg",
             "bytes": 62618
-        },
-        "ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98": {
-            "file": "images/ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98.jpg",
-            "filename": "paste-438146793734145.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 122524
         }
     }
 }

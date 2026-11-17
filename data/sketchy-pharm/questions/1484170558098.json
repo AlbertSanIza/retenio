@@ -18,35 +18,21 @@
         "$Anesthetics_&_Analgesics"
     ],
     "question": {
-        "text": "§\n\nWhich IV anesthetic produces the most profound hypotension?",
+        "text": "Which IV anesthetic produces the most profound hypotension?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhich IV anesthetic produces the most profound hypotension?\n\nPropofol\n\n[Image: 6dbc213e2301a9c5eb2130c43c36736a5c67f50fcdaefafac01da769e002903f]\n\n2.1 - Propofol, etomidate, ketamine\n[Image: 258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc]\n\n[Image: 876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc]",
+        "text": "Propofol\n\n[Image: 6dbc213e2301a9c5eb2130c43c36736a5c67f50fcdaefafac01da769e002903f]",
         "imageIds": [
-            "6dbc213e2301a9c5eb2130c43c36736a5c67f50fcdaefafac01da769e002903f",
-            "258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc",
-            "876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc"
+            "6dbc213e2301a9c5eb2130c43c36736a5c67f50fcdaefafac01da769e002903f"
         ]
     },
     "images": {
-        "258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc": {
-            "file": "images/258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc.jpg",
-            "filename": "paste-490476675268611.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 83285
-        },
         "6dbc213e2301a9c5eb2130c43c36736a5c67f50fcdaefafac01da769e002903f": {
             "file": "images/6dbc213e2301a9c5eb2130c43c36736a5c67f50fcdaefafac01da769e002903f.jpg",
             "filename": "paste-491327078793219.jpg",
             "mimeType": "image/jpeg",
             "bytes": 65915
-        },
-        "876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc": {
-            "file": "images/876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc.jpg",
-            "filename": "paste-501411662004227.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 93496
         }
     }
 }

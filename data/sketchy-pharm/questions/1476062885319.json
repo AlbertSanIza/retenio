@@ -18,56 +18,21 @@
         "$Vasoactive"
     ],
     "question": {
-        "text": "§\n\nAlprostadil is an analog of?",
+        "text": "Alprostadil is an analog of?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAlprostadil is an analog of?\n\nPGE1\n\n[Image: a872336bd25f3a716ec34e3f2ec0638306131d32b3cb4c67658261683aaaa734]\n\n1.3 - Prostaglandins, prostacyclin, bosentan, PDE5 inhibitors\n[Image: 2dbd326f0a1e08d4942cc5d7537133b42d82504a04d00fe25920f3f0a806dd47]\n\n[Image: 2b85fb13ae3aa49b21213fdceb829d644f7d3f8cd52ee62e93bf270da225890e]\n\n[Image: e4c9a6a191a54bf9bd81b28c5cba73eae1cef1a1e6712de9cf1eeb1583614977]\n\n[Image: 277f54b613db7111307209e1730845eed80fa7ad002ac16ac6c21e81bc9b6b88]\n\n[Image: 12b6955ddf801bf06966e4f9f758f8e3ed14e1dd39f3ce0518347049c29e1bfd]",
+        "text": "PGE1\n\n[Image: a872336bd25f3a716ec34e3f2ec0638306131d32b3cb4c67658261683aaaa734]",
         "imageIds": [
-            "a872336bd25f3a716ec34e3f2ec0638306131d32b3cb4c67658261683aaaa734",
-            "2dbd326f0a1e08d4942cc5d7537133b42d82504a04d00fe25920f3f0a806dd47",
-            "2b85fb13ae3aa49b21213fdceb829d644f7d3f8cd52ee62e93bf270da225890e",
-            "e4c9a6a191a54bf9bd81b28c5cba73eae1cef1a1e6712de9cf1eeb1583614977",
-            "277f54b613db7111307209e1730845eed80fa7ad002ac16ac6c21e81bc9b6b88",
-            "12b6955ddf801bf06966e4f9f758f8e3ed14e1dd39f3ce0518347049c29e1bfd"
+            "a872336bd25f3a716ec34e3f2ec0638306131d32b3cb4c67658261683aaaa734"
         ]
     },
     "images": {
-        "12b6955ddf801bf06966e4f9f758f8e3ed14e1dd39f3ce0518347049c29e1bfd": {
-            "file": "images/12b6955ddf801bf06966e4f9f758f8e3ed14e1dd39f3ce0518347049c29e1bfd.jpg",
-            "filename": "paste-228818677661699.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 56840
-        },
-        "277f54b613db7111307209e1730845eed80fa7ad002ac16ac6c21e81bc9b6b88": {
-            "file": "images/277f54b613db7111307209e1730845eed80fa7ad002ac16ac6c21e81bc9b6b88.jpg",
-            "filename": "paste-227044856168451.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 60699
-        },
-        "2b85fb13ae3aa49b21213fdceb829d644f7d3f8cd52ee62e93bf270da225890e": {
-            "file": "images/2b85fb13ae3aa49b21213fdceb829d644f7d3f8cd52ee62e93bf270da225890e.jpg",
-            "filename": "paste-232344845811715.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 114269
-        },
-        "2dbd326f0a1e08d4942cc5d7537133b42d82504a04d00fe25920f3f0a806dd47": {
-            "file": "images/2dbd326f0a1e08d4942cc5d7537133b42d82504a04d00fe25920f3f0a806dd47.jpg",
-            "filename": "paste-76897094467587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 155081
-        },
         "a872336bd25f3a716ec34e3f2ec0638306131d32b3cb4c67658261683aaaa734": {
             "file": "images/a872336bd25f3a716ec34e3f2ec0638306131d32b3cb4c67658261683aaaa734.jpg",
             "filename": "paste-143245749256195.jpg",
             "mimeType": "image/jpeg",
             "bytes": 59475
-        },
-        "e4c9a6a191a54bf9bd81b28c5cba73eae1cef1a1e6712de9cf1eeb1583614977": {
-            "file": "images/e4c9a6a191a54bf9bd81b28c5cba73eae1cef1a1e6712de9cf1eeb1583614977.jpg",
-            "filename": "paste-123110942572547 (1).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 38877
         }
     }
 }

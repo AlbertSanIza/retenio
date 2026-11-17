@@ -18,38 +18,17 @@
         "$Other_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nName 2 classes of antibiotics which exhibit reduced potency when taken with divalent cations",
+        "text": "Name 2 classes of antibiotics which exhibit reduced potency when taken with divalent cations",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 2 classes of antibiotics which exhibit reduced potency when taken with divalent cations\n\n(1) Flouroquinolones\n(2) Tetracyclines\n\n[Image: 8f439236966e4e0e6d54e5c8cfdc95277a1cf8135c5b107028fa56eda27881fe]\n\n[Image: c3880b5710053cb56457e838c9aa3ff2bbd033e4385eeecf333009d7d4a88342]\n\n4.2 - Fluoroquinolones\n[Image: 46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1]\n\n[Image: 84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810]\n\n[Image: 1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff]",
+        "text": "(1) Flouroquinolones\n(2) Tetracyclines\n\n[Image: 8f439236966e4e0e6d54e5c8cfdc95277a1cf8135c5b107028fa56eda27881fe]\n\n[Image: c3880b5710053cb56457e838c9aa3ff2bbd033e4385eeecf333009d7d4a88342]",
         "imageIds": [
             "8f439236966e4e0e6d54e5c8cfdc95277a1cf8135c5b107028fa56eda27881fe",
-            "c3880b5710053cb56457e838c9aa3ff2bbd033e4385eeecf333009d7d4a88342",
-            "46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1",
-            "84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810",
-            "1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff"
+            "c3880b5710053cb56457e838c9aa3ff2bbd033e4385eeecf333009d7d4a88342"
         ]
     },
     "images": {
-        "1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff": {
-            "file": "images/1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff.jpg",
-            "filename": "paste-418875275476995.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 59243
-        },
-        "46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1": {
-            "file": "images/46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1.jpg",
-            "filename": "paste-257496174297089.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 119195
-        },
-        "84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810": {
-            "file": "images/84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810.jpg",
-            "filename": "paste-348472171560963.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 67900
-        },
         "8f439236966e4e0e6d54e5c8cfdc95277a1cf8135c5b107028fa56eda27881fe": {
             "file": "images/8f439236966e4e0e6d54e5c8cfdc95277a1cf8135c5b107028fa56eda27881fe.jpg",
             "filename": "paste-227220949827587.jpg",

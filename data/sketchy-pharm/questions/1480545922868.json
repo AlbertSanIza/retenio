@@ -18,17 +18,14 @@
         "$Inhibitors_of_Bacterial_Protein_Synthesis"
     ],
     "question": {
-        "text": "§\n\nWhat antibiotic is used to sterilize the bowel before colorectal surgery?",
+        "text": "What antibiotic is used to sterilize the bowel before colorectal surgery?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat antibiotic is used to sterilize the bowel before colorectal surgery?\n\nNeomycin\n\n[Image: 1bcf2b9efe90f4f629c442ae760c8d832ee5cbef89f56aec71ca410de6ab00b0]\n\n[Image: 39ee54490f8988cfa4cd9d3e60dd0c73e35fc288f2d7b937386256a68724649f]\n\n2.6 - Aminoglycosides\n[Image: 9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d]\n\n[Image: 8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4]\n\n[Image: 4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1]",
+        "text": "Neomycin\n\n[Image: 1bcf2b9efe90f4f629c442ae760c8d832ee5cbef89f56aec71ca410de6ab00b0]\n\n[Image: 39ee54490f8988cfa4cd9d3e60dd0c73e35fc288f2d7b937386256a68724649f]",
         "imageIds": [
             "1bcf2b9efe90f4f629c442ae760c8d832ee5cbef89f56aec71ca410de6ab00b0",
-            "39ee54490f8988cfa4cd9d3e60dd0c73e35fc288f2d7b937386256a68724649f",
-            "9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d",
-            "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4",
-            "4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1"
+            "39ee54490f8988cfa4cd9d3e60dd0c73e35fc288f2d7b937386256a68724649f"
         ]
     },
     "images": {
@@ -43,24 +40,6 @@
             "filename": "paste-24691766984707.jpg",
             "mimeType": "image/jpeg",
             "bytes": 31820
-        },
-        "4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1": {
-            "file": "images/4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1.jpg",
-            "filename": "paste-32100585570307.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 91413
-        },
-        "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4": {
-            "file": "images/8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4.jpg",
-            "filename": "paste-321710230339587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 76271
-        },
-        "9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d": {
-            "file": "images/9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d.jpg",
-            "filename": "paste-232065672937473.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 108815
         }
     }
 }

@@ -18,49 +18,21 @@
         "$Diabetes"
     ],
     "question": {
-        "text": "§\n\nOther than affecting gluconeogenesis, what is the mechanism of Metformin?",
+        "text": "Other than affecting gluconeogenesis, what is the mechanism of Metformin?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nOther than affecting gluconeogenesis, what is the mechanism of Metformin?\n\n↑ Insulin sensitivity\n\n(Other aspects include ↓ intestinal absorption of glucose)\n\n[Image: 84deb9a70a87cf0acace9177cfa6842f64ba96ac3d16c360be407573782402ce]\n\n2.2 - Metformin, thiazolidinediones, pramlintide, SGLT2 inhibitors\n[Image: c93933ecca5011cf030fffab3f2a7d7d16736ddfbca87b230701c2f3fc240dc5]\n\n[Image: f3b7c21a6544b06616584d12195d9910647afb6cd10a8c110622198092a834c8]\n\n[Image: 1f24829ed8e7c360dc920854099066e3cbe5abfb330bb89cc82c3336564f3220]\n\n[Image: 74c691159c40e4652a15be12151e6f1b944b996fa69a77ba9efc6691452e3b29]",
+        "text": "↑ Insulin sensitivity\n\n(Other aspects include ↓ intestinal absorption of glucose)\n\n[Image: 84deb9a70a87cf0acace9177cfa6842f64ba96ac3d16c360be407573782402ce]",
         "imageIds": [
-            "84deb9a70a87cf0acace9177cfa6842f64ba96ac3d16c360be407573782402ce",
-            "c93933ecca5011cf030fffab3f2a7d7d16736ddfbca87b230701c2f3fc240dc5",
-            "f3b7c21a6544b06616584d12195d9910647afb6cd10a8c110622198092a834c8",
-            "1f24829ed8e7c360dc920854099066e3cbe5abfb330bb89cc82c3336564f3220",
-            "74c691159c40e4652a15be12151e6f1b944b996fa69a77ba9efc6691452e3b29"
+            "84deb9a70a87cf0acace9177cfa6842f64ba96ac3d16c360be407573782402ce"
         ]
     },
     "images": {
-        "1f24829ed8e7c360dc920854099066e3cbe5abfb330bb89cc82c3336564f3220": {
-            "file": "images/1f24829ed8e7c360dc920854099066e3cbe5abfb330bb89cc82c3336564f3220.jpg",
-            "filename": "paste-726519487922179.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 55523
-        },
-        "74c691159c40e4652a15be12151e6f1b944b996fa69a77ba9efc6691452e3b29": {
-            "file": "images/74c691159c40e4652a15be12151e6f1b944b996fa69a77ba9efc6691452e3b29.jpg",
-            "filename": "paste-732279039066115.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 60265
-        },
         "84deb9a70a87cf0acace9177cfa6842f64ba96ac3d16c360be407573782402ce": {
             "file": "images/84deb9a70a87cf0acace9177cfa6842f64ba96ac3d16c360be407573782402ce.jpg",
             "filename": "paste-62835371540483.jpg",
             "mimeType": "image/jpeg",
             "bytes": 45141
-        },
-        "c93933ecca5011cf030fffab3f2a7d7d16736ddfbca87b230701c2f3fc240dc5": {
-            "file": "images/c93933ecca5011cf030fffab3f2a7d7d16736ddfbca87b230701c2f3fc240dc5.jpg",
-            "filename": "paste-690111050153985.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 153694
-        },
-        "f3b7c21a6544b06616584d12195d9910647afb6cd10a8c110622198092a834c8": {
-            "file": "images/f3b7c21a6544b06616584d12195d9910647afb6cd10a8c110622198092a834c8.jpg",
-            "filename": "paste-730582526984195.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 45674
         }
     }
 }

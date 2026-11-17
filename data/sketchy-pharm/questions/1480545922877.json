@@ -18,16 +18,13 @@
         "$Inhibitors_of_Bacterial_Protein_Synthesis"
     ],
     "question": {
-        "text": "§\n\nWhat developmental defect is associated with aminoglycoside use during pregnancy?",
+        "text": "What developmental defect is associated with aminoglycoside use during pregnancy?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat developmental defect is associated with aminoglycoside use during pregnancy?\n\nDeafness\n\n[Image: 1e4b68ff8a55955ea1a5316fbb80808aff4bac935c577634f315dea8b844205a]\n\n2.6 - Aminoglycosides\n[Image: 9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d]\n\n[Image: 8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4]\n\n[Image: 4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1]",
+        "text": "Deafness\n\n[Image: 1e4b68ff8a55955ea1a5316fbb80808aff4bac935c577634f315dea8b844205a]",
         "imageIds": [
-            "1e4b68ff8a55955ea1a5316fbb80808aff4bac935c577634f315dea8b844205a",
-            "9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d",
-            "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4",
-            "4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1"
+            "1e4b68ff8a55955ea1a5316fbb80808aff4bac935c577634f315dea8b844205a"
         ]
     },
     "images": {
@@ -36,24 +33,6 @@
             "filename": "paste-27749783699459.jpg",
             "mimeType": "image/jpeg",
             "bytes": 44267
-        },
-        "4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1": {
-            "file": "images/4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1.jpg",
-            "filename": "paste-32100585570307.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 91413
-        },
-        "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4": {
-            "file": "images/8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4.jpg",
-            "filename": "paste-321710230339587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 76271
-        },
-        "9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d": {
-            "file": "images/9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d.jpg",
-            "filename": "paste-232065672937473.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 108815
         }
     }
 }

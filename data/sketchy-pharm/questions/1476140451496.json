@@ -18,54 +18,31 @@
         "$Thyroid,Parathyroid,Adrenal"
     ],
     "question": {
-        "text": "§\n\nName 4 physical symptoms of Cushing's syndrome",
+        "text": "Name 4 physical symptoms of Cushing's syndrome",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 4 physical symptoms of Cushing's syndrome\n\n(1) Moon facie\n(2) Central adipose tissue\n\n(3) Muscle wasting\n\n(4) Skin thinning\n\n[Image: 34f50c5f0281fd190e6d1b018143bdefc37172fb9657a46dcff287980e9e840a]\n\n[Image: 8af28c947f0c27e4e4f14482a10ddb2dcd45a73d441b12266065ba791911e4af]\n\n[Image: 7070940807ead39ff661ee7b2e9160a6de5ca3643ae82ae15275657d06eb6a56]\n\n[Image: 8b4c988914e1984dacc1507a170719722a33a8598dcfe28240821b6ba578bba4]\n\n[Image: a52dc5b3986ea4bea9c2827813b5a1a03762b19219acd58d27b37af26c9eb3ed]\n\n3.4 - Glucocorticoids\n[Image: 8782e1fa9875bf1abad5723216f82e1897bb530842df1d04670ff6258ee86e46]\n\n[Image: c0764384804c36bab528ee9d9c6193d1e16a690ba14d667866ee1ba1ce648625]\n\n[Image: f04eb58d576a330ed45eb4c270f4e7dde85b97ef711e2284dce85d0a06f988ea]\n\n[Image: 6ba28e2541d4d4c868034ba6bb2eb020c8b8f51436ae6dc016d59880fc4401c3]\n\n[Image: 2c15b82af7337d4ce87455c5c1e0ec7477878a45d0575543505a74af40924e47]",
+        "text": "(1) Moon facie\n(2) Central adipose tissue\n\n(3) Muscle wasting\n\n(4) Skin thinning\n\n[Image: 34f50c5f0281fd190e6d1b018143bdefc37172fb9657a46dcff287980e9e840a]\n\n[Image: 8af28c947f0c27e4e4f14482a10ddb2dcd45a73d441b12266065ba791911e4af]\n\n[Image: 7070940807ead39ff661ee7b2e9160a6de5ca3643ae82ae15275657d06eb6a56]\n\n[Image: 8b4c988914e1984dacc1507a170719722a33a8598dcfe28240821b6ba578bba4]\n\n[Image: a52dc5b3986ea4bea9c2827813b5a1a03762b19219acd58d27b37af26c9eb3ed]",
         "imageIds": [
             "34f50c5f0281fd190e6d1b018143bdefc37172fb9657a46dcff287980e9e840a",
             "8af28c947f0c27e4e4f14482a10ddb2dcd45a73d441b12266065ba791911e4af",
             "7070940807ead39ff661ee7b2e9160a6de5ca3643ae82ae15275657d06eb6a56",
             "8b4c988914e1984dacc1507a170719722a33a8598dcfe28240821b6ba578bba4",
-            "a52dc5b3986ea4bea9c2827813b5a1a03762b19219acd58d27b37af26c9eb3ed",
-            "8782e1fa9875bf1abad5723216f82e1897bb530842df1d04670ff6258ee86e46",
-            "c0764384804c36bab528ee9d9c6193d1e16a690ba14d667866ee1ba1ce648625",
-            "f04eb58d576a330ed45eb4c270f4e7dde85b97ef711e2284dce85d0a06f988ea",
-            "6ba28e2541d4d4c868034ba6bb2eb020c8b8f51436ae6dc016d59880fc4401c3",
-            "2c15b82af7337d4ce87455c5c1e0ec7477878a45d0575543505a74af40924e47"
+            "a52dc5b3986ea4bea9c2827813b5a1a03762b19219acd58d27b37af26c9eb3ed"
         ]
     },
     "images": {
-        "2c15b82af7337d4ce87455c5c1e0ec7477878a45d0575543505a74af40924e47": {
-            "file": "images/2c15b82af7337d4ce87455c5c1e0ec7477878a45d0575543505a74af40924e47.jpg",
-            "filename": "paste-741667837575171.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 43556
-        },
         "34f50c5f0281fd190e6d1b018143bdefc37172fb9657a46dcff287980e9e840a": {
             "file": "images/34f50c5f0281fd190e6d1b018143bdefc37172fb9657a46dcff287980e9e840a.jpg",
             "filename": "paste-110625472643075.jpg",
             "mimeType": "image/jpeg",
             "bytes": 55641
         },
-        "6ba28e2541d4d4c868034ba6bb2eb020c8b8f51436ae6dc016d59880fc4401c3": {
-            "file": "images/6ba28e2541d4d4c868034ba6bb2eb020c8b8f51436ae6dc016d59880fc4401c3.jpg",
-            "filename": "paste-750068793606145.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 97303
-        },
         "7070940807ead39ff661ee7b2e9160a6de5ca3643ae82ae15275657d06eb6a56": {
             "file": "images/7070940807ead39ff661ee7b2e9160a6de5ca3643ae82ae15275657d06eb6a56.jpg",
             "filename": "paste-110775796498435.jpg",
             "mimeType": "image/jpeg",
             "bytes": 53690
-        },
-        "8782e1fa9875bf1abad5723216f82e1897bb530842df1d04670ff6258ee86e46": {
-            "file": "images/8782e1fa9875bf1abad5723216f82e1897bb530842df1d04670ff6258ee86e46.jpg",
-            "filename": "paste-754733128089601.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 120213
         },
         "8af28c947f0c27e4e4f14482a10ddb2dcd45a73d441b12266065ba791911e4af": {
             "file": "images/8af28c947f0c27e4e4f14482a10ddb2dcd45a73d441b12266065ba791911e4af.jpg",
@@ -84,18 +61,6 @@
             "filename": "paste-110969070026755.jpg",
             "mimeType": "image/jpeg",
             "bytes": 54901
-        },
-        "c0764384804c36bab528ee9d9c6193d1e16a690ba14d667866ee1ba1ce648625": {
-            "file": "images/c0764384804c36bab528ee9d9c6193d1e16a690ba14d667866ee1ba1ce648625.jpg",
-            "filename": "paste-716709782618115.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 35849
-        },
-        "f04eb58d576a330ed45eb4c270f4e7dde85b97ef711e2284dce85d0a06f988ea": {
-            "file": "images/f04eb58d576a330ed45eb4c270f4e7dde85b97ef711e2284dce85d0a06f988ea.jpg",
-            "filename": "paste-115135188303875.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 102134
         }
     }
 }

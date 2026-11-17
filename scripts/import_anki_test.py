@@ -111,6 +111,40 @@ class ImportAnkiTest(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "Unsupported template filter"):
             importer.render_template("{{cloze:A}}", fields)
 
+    def test_sketchypharm_uses_matching_question_answer_and_extra_fields(self):
+        for suffix in ["", "8", "30"]:
+            with self.subTest(suffix=suffix):
+                question = f"Extra Q{suffix}"
+                answer = f"Extra A{suffix}"
+                extra = f"Extra {suffix}" if suffix else "Extra"
+                fields = {
+                    question: 'Question<img src="question.jpg">',
+                    answer: 'Answer<div>Explanation</div><img src="answer.jpg">',
+                    extra: '<img src="detail.jpg"><img src="detail-two.jpg">',
+                    "Entire Sketch": 'Shared title<img src="whole.jpg">',
+                    "More About This Topic": '<img src="supplement.jpg">',
+                }
+                template = {
+                    "name": "Misleading name", "ord": 99,
+                    "qfmt": "{{#" + question + "}}§<br>{{" + question + "}}{{/" + question + "}}",
+                    "afmt": "{{" + question + "}}<br>{{" + answer + "}}<br>{{" + extra + "}}<br>{{Entire Sketch}}<br>{{hint:More About This Topic}}",
+                }
+                front, back = importer.card_html({"name": "SketchyPharm"}, template, fields)
+                self.assertEqual(importer.parse_html(front, lambda src: src), {
+                    "text": "Question\n[Image: question.jpg]", "imageIds": ["question.jpg"]})
+                result = importer.parse_html(back, lambda src: src)
+                self.assertEqual(result["imageIds"], ["answer.jpg", "detail.jpg", "detail-two.jpg"])
+                self.assertIn("Explanation", result["text"])
+                self.assertNotIn("Shared title", result["text"])
+                self.assertNotIn("Question", result["text"])
+                # Empty or multiple card-specific images are valid, never truncate to one.
+                fields[extra] = ""
+                _, back = importer.card_html({"name": "SketchyPharm"}, template, fields)
+                self.assertEqual(importer.parse_html(back, lambda src: src)["imageIds"], ["answer.jpg"])
+                template["afmt"] += "{{Unmapped content}}"
+                with self.assertRaisesRegex(ValueError, "Unsupported SketchyPharm"):
+                    importer.card_html({"name": "SketchyPharm"}, template, fields)
+
     def test_clean_imports_are_identical_even_when_package_is_renamed(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)

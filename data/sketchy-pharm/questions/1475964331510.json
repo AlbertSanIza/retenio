@@ -18,37 +18,16 @@
         "$Antiarrhythmics"
     ],
     "question": {
-        "text": "§\n\nWhich class III antiarrhythmic has the lowest incidence of Torsades de Pointes?",
+        "text": "Which class III antiarrhythmic has the lowest incidence of Torsades de Pointes?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhich class III antiarrhythmic has the lowest incidence of Torsades de Pointes?\n\nAmiorodone\n\n[Image: b92f42540f6f50e9a0b438f26d89aa597e8446d9b98f8dcc827e7a34616e6961]\n\n4.3 - Class III\n[Image: 69c6a857f25b4d9db05caf993274d30160588b4f22c91e884f3d30da532643d7]\n\n[Image: 54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801]\n\n[Image: 68c67db95c25755c22892a511f56c60cad5e8660dbf87b4a32dba4829039fe79]",
+        "text": "Amiorodone\n\n[Image: b92f42540f6f50e9a0b438f26d89aa597e8446d9b98f8dcc827e7a34616e6961]",
         "imageIds": [
-            "b92f42540f6f50e9a0b438f26d89aa597e8446d9b98f8dcc827e7a34616e6961",
-            "69c6a857f25b4d9db05caf993274d30160588b4f22c91e884f3d30da532643d7",
-            "54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801",
-            "68c67db95c25755c22892a511f56c60cad5e8660dbf87b4a32dba4829039fe79"
+            "b92f42540f6f50e9a0b438f26d89aa597e8446d9b98f8dcc827e7a34616e6961"
         ]
     },
     "images": {
-        "54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801": {
-            "file": "images/54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801.jpg",
-            "filename": "paste-246930554748931.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 98421
-        },
-        "68c67db95c25755c22892a511f56c60cad5e8660dbf87b4a32dba4829039fe79": {
-            "file": "images/68c67db95c25755c22892a511f56c60cad5e8660dbf87b4a32dba4829039fe79.jpg",
-            "filename": "paste-638515608027139.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 58528
-        },
-        "69c6a857f25b4d9db05caf993274d30160588b4f22c91e884f3d30da532643d7": {
-            "file": "images/69c6a857f25b4d9db05caf993274d30160588b4f22c91e884f3d30da532643d7.jpg",
-            "filename": "paste-653814281535489.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 131376
-        },
         "b92f42540f6f50e9a0b438f26d89aa597e8446d9b98f8dcc827e7a34616e6961": {
             "file": "images/b92f42540f6f50e9a0b438f26d89aa597e8446d9b98f8dcc827e7a34616e6961.jpg",
             "filename": "paste-44646185041923.jpg",

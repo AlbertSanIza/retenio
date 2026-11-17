@@ -18,49 +18,21 @@
         "$Sedatives&Hypnotics"
     ],
     "question": {
-        "text": "§\n\nWhy are benzodiazepines useful for conscious sedation?",
+        "text": "Why are benzodiazepines useful for conscious sedation?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhy are benzodiazepines useful for conscious sedation?\n\nInduce anterograde amnesia\n\n[Image: 8bd16b0dc2aafe5ea000e2d606fc2b10e52405076ab34b877ea53bf1085df223]\n\n1.1 - Benzodiazepines, flumazenil\n[Image: 4e88ed21ceda3eb601f618c259757a8a2e401804886af1e0a5a9e1f16a790e53]\n\n[Image: a66eed6c418709be79b1062e66a75dc7471c835fc46e5408c2303b5aaed14da5]\n\n[Image: 352c5155b8c949365e5a2e11e524f0170920455bbb8b8f89e7695d2bd33ca3d6]\n\n[Image: 0a123cff24ff7c544e384d03a0212151daeee6ed9b5a680e03395364d78deaa4]",
+        "text": "Induce anterograde amnesia\n\n[Image: 8bd16b0dc2aafe5ea000e2d606fc2b10e52405076ab34b877ea53bf1085df223]",
         "imageIds": [
-            "8bd16b0dc2aafe5ea000e2d606fc2b10e52405076ab34b877ea53bf1085df223",
-            "4e88ed21ceda3eb601f618c259757a8a2e401804886af1e0a5a9e1f16a790e53",
-            "a66eed6c418709be79b1062e66a75dc7471c835fc46e5408c2303b5aaed14da5",
-            "352c5155b8c949365e5a2e11e524f0170920455bbb8b8f89e7695d2bd33ca3d6",
-            "0a123cff24ff7c544e384d03a0212151daeee6ed9b5a680e03395364d78deaa4"
+            "8bd16b0dc2aafe5ea000e2d606fc2b10e52405076ab34b877ea53bf1085df223"
         ]
     },
     "images": {
-        "0a123cff24ff7c544e384d03a0212151daeee6ed9b5a680e03395364d78deaa4": {
-            "file": "images/0a123cff24ff7c544e384d03a0212151daeee6ed9b5a680e03395364d78deaa4.jpg",
-            "filename": "paste-765672409792513.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 89948
-        },
-        "352c5155b8c949365e5a2e11e524f0170920455bbb8b8f89e7695d2bd33ca3d6": {
-            "file": "images/352c5155b8c949365e5a2e11e524f0170920455bbb8b8f89e7695d2bd33ca3d6.jpg",
-            "filename": "paste-674159541616643.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 38061
-        },
-        "4e88ed21ceda3eb601f618c259757a8a2e401804886af1e0a5a9e1f16a790e53": {
-            "file": "images/4e88ed21ceda3eb601f618c259757a8a2e401804886af1e0a5a9e1f16a790e53.jpg",
-            "filename": "paste-773046868639745.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 130900
-        },
         "8bd16b0dc2aafe5ea000e2d606fc2b10e52405076ab34b877ea53bf1085df223": {
             "file": "images/8bd16b0dc2aafe5ea000e2d606fc2b10e52405076ab34b877ea53bf1085df223.jpg",
             "filename": "paste-7821135446019.jpg",
             "mimeType": "image/jpeg",
             "bytes": 74732
-        },
-        "a66eed6c418709be79b1062e66a75dc7471c835fc46e5408c2303b5aaed14da5": {
-            "file": "images/a66eed6c418709be79b1062e66a75dc7471c835fc46e5408c2303b5aaed14da5.jpg",
-            "filename": "paste-761879953670145.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 88594
         }
     }
 }

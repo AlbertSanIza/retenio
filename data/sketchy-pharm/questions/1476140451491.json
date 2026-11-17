@@ -18,20 +18,15 @@
         "$Thyroid,Parathyroid,Adrenal"
     ],
     "question": {
-        "text": "§\n\nWhat inflammatory enzyme do glucocorticoids inhibit?",
+        "text": "What inflammatory enzyme do glucocorticoids inhibit?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat inflammatory enzyme do glucocorticoids inhibit?\n\nPhospholipase A2\n\n(By upregulating Lipocortin = Annexin)\n\n[Image: 6d55c09cce86ae9afef8fe781ab2097ef11bc55a80500a85e41e4e668c8a90c2]\n\n[Image: d2373815300e9df1b2e060848f4e6190a7936681fc36301a518c8cd5e20ec81b]\n\n[Image: 0a8d2f22e9ab4fcbdc7118d59f40719d6796918ecec728a2bfe842651a3be849]\n\n3.4 - Glucocorticoids\n[Image: 8782e1fa9875bf1abad5723216f82e1897bb530842df1d04670ff6258ee86e46]\n\n[Image: c0764384804c36bab528ee9d9c6193d1e16a690ba14d667866ee1ba1ce648625]\n\n[Image: f04eb58d576a330ed45eb4c270f4e7dde85b97ef711e2284dce85d0a06f988ea]\n\n[Image: 6ba28e2541d4d4c868034ba6bb2eb020c8b8f51436ae6dc016d59880fc4401c3]\n\n[Image: 2c15b82af7337d4ce87455c5c1e0ec7477878a45d0575543505a74af40924e47]",
+        "text": "Phospholipase A2\n\n(By upregulating Lipocortin = Annexin)\n\n[Image: 6d55c09cce86ae9afef8fe781ab2097ef11bc55a80500a85e41e4e668c8a90c2]\n\n[Image: d2373815300e9df1b2e060848f4e6190a7936681fc36301a518c8cd5e20ec81b]\n\n[Image: 0a8d2f22e9ab4fcbdc7118d59f40719d6796918ecec728a2bfe842651a3be849]",
         "imageIds": [
             "6d55c09cce86ae9afef8fe781ab2097ef11bc55a80500a85e41e4e668c8a90c2",
             "d2373815300e9df1b2e060848f4e6190a7936681fc36301a518c8cd5e20ec81b",
-            "0a8d2f22e9ab4fcbdc7118d59f40719d6796918ecec728a2bfe842651a3be849",
-            "8782e1fa9875bf1abad5723216f82e1897bb530842df1d04670ff6258ee86e46",
-            "c0764384804c36bab528ee9d9c6193d1e16a690ba14d667866ee1ba1ce648625",
-            "f04eb58d576a330ed45eb4c270f4e7dde85b97ef711e2284dce85d0a06f988ea",
-            "6ba28e2541d4d4c868034ba6bb2eb020c8b8f51436ae6dc016d59880fc4401c3",
-            "2c15b82af7337d4ce87455c5c1e0ec7477878a45d0575543505a74af40924e47"
+            "0a8d2f22e9ab4fcbdc7118d59f40719d6796918ecec728a2bfe842651a3be849"
         ]
     },
     "images": {
@@ -41,47 +36,17 @@
             "mimeType": "image/jpeg",
             "bytes": 39719
         },
-        "2c15b82af7337d4ce87455c5c1e0ec7477878a45d0575543505a74af40924e47": {
-            "file": "images/2c15b82af7337d4ce87455c5c1e0ec7477878a45d0575543505a74af40924e47.jpg",
-            "filename": "paste-741667837575171.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 43556
-        },
-        "6ba28e2541d4d4c868034ba6bb2eb020c8b8f51436ae6dc016d59880fc4401c3": {
-            "file": "images/6ba28e2541d4d4c868034ba6bb2eb020c8b8f51436ae6dc016d59880fc4401c3.jpg",
-            "filename": "paste-750068793606145.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 97303
-        },
         "6d55c09cce86ae9afef8fe781ab2097ef11bc55a80500a85e41e4e668c8a90c2": {
             "file": "images/6d55c09cce86ae9afef8fe781ab2097ef11bc55a80500a85e41e4e668c8a90c2.jpg",
             "filename": "paste-104947525877763.jpg",
             "mimeType": "image/jpeg",
             "bytes": 37702
         },
-        "8782e1fa9875bf1abad5723216f82e1897bb530842df1d04670ff6258ee86e46": {
-            "file": "images/8782e1fa9875bf1abad5723216f82e1897bb530842df1d04670ff6258ee86e46.jpg",
-            "filename": "paste-754733128089601.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 120213
-        },
-        "c0764384804c36bab528ee9d9c6193d1e16a690ba14d667866ee1ba1ce648625": {
-            "file": "images/c0764384804c36bab528ee9d9c6193d1e16a690ba14d667866ee1ba1ce648625.jpg",
-            "filename": "paste-716709782618115.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 35849
-        },
         "d2373815300e9df1b2e060848f4e6190a7936681fc36301a518c8cd5e20ec81b": {
             "file": "images/d2373815300e9df1b2e060848f4e6190a7936681fc36301a518c8cd5e20ec81b.jpg",
             "filename": "paste-104977590648835.jpg",
             "mimeType": "image/jpeg",
             "bytes": 36038
-        },
-        "f04eb58d576a330ed45eb4c270f4e7dde85b97ef711e2284dce85d0a06f988ea": {
-            "file": "images/f04eb58d576a330ed45eb4c270f4e7dde85b97ef711e2284dce85d0a06f988ea.jpg",
-            "filename": "paste-115135188303875.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 102134
         }
     }
 }

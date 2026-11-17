@@ -18,42 +18,21 @@
         "$Antivirals_Hepatitis"
     ],
     "question": {
-        "text": "§\n\nWhat antiviral used to treat Hepatitis C inhibits the CYP450 system?",
+        "text": "What antiviral used to treat Hepatitis C inhibits the CYP450 system?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat antiviral used to treat Hepatitis C inhibits the CYP450 system?\n\nSimeprevir\n\n[Image: 562607faee05071b5b470ff15d408df503ed01afd99873800172d51f3627544b]\n\n7.2 - Ribavirin, sofosbuvir, simeprevir\n[Image: cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1]\n\n[Image: 27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc]\n\n[Image: c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81]\n\u001b\u001b",
+        "text": "Simeprevir\n\n[Image: 562607faee05071b5b470ff15d408df503ed01afd99873800172d51f3627544b]",
         "imageIds": [
-            "562607faee05071b5b470ff15d408df503ed01afd99873800172d51f3627544b",
-            "cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1",
-            "27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc",
-            "c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81"
+            "562607faee05071b5b470ff15d408df503ed01afd99873800172d51f3627544b"
         ]
     },
     "images": {
-        "27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc": {
-            "file": "images/27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc.jpg",
-            "filename": "paste-380113195630595.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 70126
-        },
         "562607faee05071b5b470ff15d408df503ed01afd99873800172d51f3627544b": {
             "file": "images/562607faee05071b5b470ff15d408df503ed01afd99873800172d51f3627544b.jpg",
             "filename": "paste-383489039925251.jpg",
             "mimeType": "image/jpeg",
             "bytes": 58088
-        },
-        "c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81": {
-            "file": "images/c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81.jpg",
-            "filename": "paste-755235639263235.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 72171
-        },
-        "cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1": {
-            "file": "images/cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1.jpg",
-            "filename": "paste-308125248782337.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 122787
         }
     }
 }

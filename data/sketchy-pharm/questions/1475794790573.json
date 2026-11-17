@@ -18,16 +18,13 @@
         "$Antidepressants&Anxiolytics"
     ],
     "question": {
-        "text": "§\n\nRapid withdrawal of SSRIs/SNRIs can cause what?",
+        "text": "Rapid withdrawal of SSRIs/SNRIs can cause what?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nRapid withdrawal of SSRIs/SNRIs can cause what?\n\nFlu-like symptoms\n\n[Image: 5ec3f26a12c2ec75e4b54d9fa6b0516489e6f2c9763b736eb682dd68f4172278]\n\n3.1 - SSRIs, SNRIs, cyproheptadine\n[Image: ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6]\n\n[Image: 7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943]\n\n[Image: 8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1]",
+        "text": "Flu-like symptoms\n\n[Image: 5ec3f26a12c2ec75e4b54d9fa6b0516489e6f2c9763b736eb682dd68f4172278]",
         "imageIds": [
-            "5ec3f26a12c2ec75e4b54d9fa6b0516489e6f2c9763b736eb682dd68f4172278",
-            "ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6",
-            "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943",
-            "8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1"
+            "5ec3f26a12c2ec75e4b54d9fa6b0516489e6f2c9763b736eb682dd68f4172278"
         ]
     },
     "images": {
@@ -36,24 +33,6 @@
             "filename": "paste-17489106829315.jpg",
             "mimeType": "image/jpeg",
             "bytes": 65858
-        },
-        "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943": {
-            "file": "images/7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943.jpg",
-            "filename": "paste-1171594063904771.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 89818
-        },
-        "8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1": {
-            "file": "images/8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1.jpg",
-            "filename": "paste-21088289423363 (2).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 92436
-        },
-        "ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6": {
-            "file": "images/ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6.jpg",
-            "filename": "paste-1134098999410689.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 142260
         }
     }
 }

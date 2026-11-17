@@ -18,17 +18,14 @@
         "$Other_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nName 2 factors which increase the risk of Flouroquinolone-induced tendon rupture",
+        "text": "Name 2 factors which increase the risk of Flouroquinolone-induced tendon rupture",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 2 factors which increase the risk of Flouroquinolone-induced tendon rupture\n\n(1) Old age\n(2) Glucocorticoids\n\n[Image: 86a4045b1f39a11a20eb5f69e020e63634b7c2a3c982e3417c1f9e1bc8caf94b]\n\n[Image: 0f994b3dc5d3a210c6165496feac157d08c034565642e362d4bf71e71033636f]\n\n4.2 - Fluoroquinolones\n[Image: 46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1]\n\n[Image: 84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810]\n\n[Image: 1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff]",
+        "text": "(1) Old age\n(2) Glucocorticoids\n\n[Image: 86a4045b1f39a11a20eb5f69e020e63634b7c2a3c982e3417c1f9e1bc8caf94b]\n\n[Image: 0f994b3dc5d3a210c6165496feac157d08c034565642e362d4bf71e71033636f]",
         "imageIds": [
             "86a4045b1f39a11a20eb5f69e020e63634b7c2a3c982e3417c1f9e1bc8caf94b",
-            "0f994b3dc5d3a210c6165496feac157d08c034565642e362d4bf71e71033636f",
-            "46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1",
-            "84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810",
-            "1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff"
+            "0f994b3dc5d3a210c6165496feac157d08c034565642e362d4bf71e71033636f"
         ]
     },
     "images": {
@@ -37,24 +34,6 @@
             "filename": "paste-234831631876099.jpg",
             "mimeType": "image/jpeg",
             "bytes": 46878
-        },
-        "1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff": {
-            "file": "images/1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff.jpg",
-            "filename": "paste-418875275476995.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 59243
-        },
-        "46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1": {
-            "file": "images/46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1.jpg",
-            "filename": "paste-257496174297089.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 119195
-        },
-        "84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810": {
-            "file": "images/84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810.jpg",
-            "filename": "paste-348472171560963.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 67900
         },
         "86a4045b1f39a11a20eb5f69e020e63634b7c2a3c982e3417c1f9e1bc8caf94b": {
             "file": "images/86a4045b1f39a11a20eb5f69e020e63634b7c2a3c982e3417c1f9e1bc8caf94b.jpg",

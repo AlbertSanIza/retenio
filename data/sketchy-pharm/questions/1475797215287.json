@@ -18,42 +18,21 @@
         "$Antidepressants&Anxiolytics"
     ],
     "question": {
-        "text": "§\n\nContraindications (2) : Bupropion",
+        "text": "Contraindications (2) : Bupropion",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nContraindications (2) : Bupropion\n\n(1) Bulimics\n(2) Anorexics\n\n[Image: 90b66e88d3174dbb9eb1d6c785d0a2bbb18fd9141613fbcbb366e498b9807839]\n\n3.4 - Bupropion, mirtazapine, trazodone\n[Image: 53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064]\n\n[Image: 7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943]\n\n[Image: f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2]",
+        "text": "(1) Bulimics\n(2) Anorexics\n\n[Image: 90b66e88d3174dbb9eb1d6c785d0a2bbb18fd9141613fbcbb366e498b9807839]",
         "imageIds": [
-            "90b66e88d3174dbb9eb1d6c785d0a2bbb18fd9141613fbcbb366e498b9807839",
-            "53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064",
-            "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943",
-            "f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2"
+            "90b66e88d3174dbb9eb1d6c785d0a2bbb18fd9141613fbcbb366e498b9807839"
         ]
     },
     "images": {
-        "53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064": {
-            "file": "images/53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064.jpg",
-            "filename": "paste-1199537121132547.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 140326
-        },
-        "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943": {
-            "file": "images/7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943.jpg",
-            "filename": "paste-1171594063904771.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 89818
-        },
         "90b66e88d3174dbb9eb1d6c785d0a2bbb18fd9141613fbcbb366e498b9807839": {
             "file": "images/90b66e88d3174dbb9eb1d6c785d0a2bbb18fd9141613fbcbb366e498b9807839.jpg",
             "filename": "paste-27346056773635.jpg",
             "mimeType": "image/jpeg",
             "bytes": 55917
-        },
-        "f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2": {
-            "file": "images/f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2.jpg",
-            "filename": "paste-173976240259075.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 148735
         }
     }
 }

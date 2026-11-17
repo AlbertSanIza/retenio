@@ -18,17 +18,15 @@
         "$Antivirals_HIV"
     ],
     "question": {
-        "text": "§\n\nWhich NRTI is first line during pregnancy and breastfeeding?",
+        "text": "Which NRTI is first line during pregnancy and breastfeeding?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhich NRTI is first line during pregnancy and breastfeeding?\n\nZidovudine\n\n[Image: 8347ddaeaa65c1238b2178dbf44cf4bbfe819593d0f58cee8b305f2c63fa52f9]\n\n[Image: 69e8ac361c196d2270811c3765468d796dd39e0cfe859c3a5aa070f2e542b7b5]\n\n[Image: 034191f0342ffcfcca6360bc1fa5b815e8885836b3bf15634f2479b327032712]\n\n6.1 - NRTIs\n[Image: f2dc4b00a350da8261c36001e931dd46ecabb7f3e92da2e54e4bcc72a8bcc61e]\n\n[Image: 0c4d3026f6636c102ee5af4eb5ef4c4c73544c1d5ae8516531bab7656f39350f]",
+        "text": "Zidovudine\n\n[Image: 8347ddaeaa65c1238b2178dbf44cf4bbfe819593d0f58cee8b305f2c63fa52f9]\n\n[Image: 69e8ac361c196d2270811c3765468d796dd39e0cfe859c3a5aa070f2e542b7b5]\n\n[Image: 034191f0342ffcfcca6360bc1fa5b815e8885836b3bf15634f2479b327032712]",
         "imageIds": [
             "8347ddaeaa65c1238b2178dbf44cf4bbfe819593d0f58cee8b305f2c63fa52f9",
             "69e8ac361c196d2270811c3765468d796dd39e0cfe859c3a5aa070f2e542b7b5",
-            "034191f0342ffcfcca6360bc1fa5b815e8885836b3bf15634f2479b327032712",
-            "f2dc4b00a350da8261c36001e931dd46ecabb7f3e92da2e54e4bcc72a8bcc61e",
-            "0c4d3026f6636c102ee5af4eb5ef4c4c73544c1d5ae8516531bab7656f39350f"
+            "034191f0342ffcfcca6360bc1fa5b815e8885836b3bf15634f2479b327032712"
         ]
     },
     "images": {
@@ -37,12 +35,6 @@
             "filename": "paste-255679403130883.jpg",
             "mimeType": "image/jpeg",
             "bytes": 76593
-        },
-        "0c4d3026f6636c102ee5af4eb5ef4c4c73544c1d5ae8516531bab7656f39350f": {
-            "file": "images/0c4d3026f6636c102ee5af4eb5ef4c4c73544c1d5ae8516531bab7656f39350f.jpg",
-            "filename": "paste-541874548899843.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 36930
         },
         "69e8ac361c196d2270811c3765468d796dd39e0cfe859c3a5aa070f2e542b7b5": {
             "file": "images/69e8ac361c196d2270811c3765468d796dd39e0cfe859c3a5aa070f2e542b7b5.jpg",
@@ -55,12 +47,6 @@
             "filename": "paste-116724326203395.jpg",
             "mimeType": "image/jpeg",
             "bytes": 57710
-        },
-        "f2dc4b00a350da8261c36001e931dd46ecabb7f3e92da2e54e4bcc72a8bcc61e": {
-            "file": "images/f2dc4b00a350da8261c36001e931dd46ecabb7f3e92da2e54e4bcc72a8bcc61e.jpg",
-            "filename": "paste-280701882597377.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 154640
         }
     }
 }

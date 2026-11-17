@@ -18,34 +18,17 @@
         "$Diabetes"
     ],
     "question": {
-        "text": "§\n\nName 2 proteins secreted from the same vesicle as insulin",
+        "text": "Name 2 proteins secreted from the same vesicle as insulin",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 2 proteins secreted from the same vesicle as insulin\n\n(1) C-peptide\n(2) Amylin\n\n(Note: C-peptide is not included in exogenous insulin ∴ C-peptide can be used as a marker for insulin poisoning)\n\n[Image: 40bca2d0f698e7a14a1560732f41ab0a847436652d9b80e311b2b159747d74b7]\n\n[Image: 4c87aba25815fec20fc30001a15ddc2d71c4a20028acaf383829130ed23a98ba]\n\n2.1 - Insulin, sulfonylureas, meglitinides, GLP-1 agonists, DPP-4 inhibitors\n[Image: d4563c0f5a190a17a7288e0360e41e8d67c6dbfcab9d7378abb51e3904b2eeed]\n\n[Image: 13d541a77f83d6ca646a7cbd73bb415478e28faa82e25f8a178f2ea9764498e1]\n\n[Image: 5f500a024f2eda7523cefeadb00a605e0dc8488e9a0a92d15694571abf122dbc]\n\n[Image: 172ef24da9f1adb51fb31db427845467485fb3776c926c1dee0227bc915055e3]\n\n[Image: d6823ca16897e3745b029b6da053e5e131bb1a0f92c5cab1bf13124952c69874]",
+        "text": "(1) C-peptide\n(2) Amylin\n\n(Note: C-peptide is not included in exogenous insulin ∴ C-peptide can be used as a marker for insulin poisoning)\n\n[Image: 40bca2d0f698e7a14a1560732f41ab0a847436652d9b80e311b2b159747d74b7]\n\n[Image: 4c87aba25815fec20fc30001a15ddc2d71c4a20028acaf383829130ed23a98ba]",
         "imageIds": [
             "40bca2d0f698e7a14a1560732f41ab0a847436652d9b80e311b2b159747d74b7",
-            "4c87aba25815fec20fc30001a15ddc2d71c4a20028acaf383829130ed23a98ba",
-            "d4563c0f5a190a17a7288e0360e41e8d67c6dbfcab9d7378abb51e3904b2eeed",
-            "13d541a77f83d6ca646a7cbd73bb415478e28faa82e25f8a178f2ea9764498e1",
-            "5f500a024f2eda7523cefeadb00a605e0dc8488e9a0a92d15694571abf122dbc",
-            "172ef24da9f1adb51fb31db427845467485fb3776c926c1dee0227bc915055e3",
-            "d6823ca16897e3745b029b6da053e5e131bb1a0f92c5cab1bf13124952c69874"
+            "4c87aba25815fec20fc30001a15ddc2d71c4a20028acaf383829130ed23a98ba"
         ]
     },
     "images": {
-        "13d541a77f83d6ca646a7cbd73bb415478e28faa82e25f8a178f2ea9764498e1": {
-            "file": "images/13d541a77f83d6ca646a7cbd73bb415478e28faa82e25f8a178f2ea9764498e1.jpg",
-            "filename": "paste-728576777256963.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 77849
-        },
-        "172ef24da9f1adb51fb31db427845467485fb3776c926c1dee0227bc915055e3": {
-            "file": "images/172ef24da9f1adb51fb31db427845467485fb3776c926c1dee0227bc915055e3.jpg",
-            "filename": "paste-96877282328579.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 133257
-        },
         "40bca2d0f698e7a14a1560732f41ab0a847436652d9b80e311b2b159747d74b7": {
             "file": "images/40bca2d0f698e7a14a1560732f41ab0a847436652d9b80e311b2b159747d74b7.jpg",
             "filename": "paste-37684043055107.jpg",
@@ -57,24 +40,6 @@
             "filename": "paste-69926362546179.jpg",
             "mimeType": "image/jpeg",
             "bytes": 38650
-        },
-        "5f500a024f2eda7523cefeadb00a605e0dc8488e9a0a92d15694571abf122dbc": {
-            "file": "images/5f500a024f2eda7523cefeadb00a605e0dc8488e9a0a92d15694571abf122dbc.jpg",
-            "filename": "paste-722838700949507.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 28342
-        },
-        "d4563c0f5a190a17a7288e0360e41e8d67c6dbfcab9d7378abb51e3904b2eeed": {
-            "file": "images/d4563c0f5a190a17a7288e0360e41e8d67c6dbfcab9d7378abb51e3904b2eeed.jpg",
-            "filename": "paste-684905549791233.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 118710
-        },
-        "d6823ca16897e3745b029b6da053e5e131bb1a0f92c5cab1bf13124952c69874": {
-            "file": "images/d6823ca16897e3745b029b6da053e5e131bb1a0f92c5cab1bf13124952c69874.jpg",
-            "filename": "paste-99097780420611.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 104792
         }
     }
 }

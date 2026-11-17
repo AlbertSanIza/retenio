@@ -18,25 +18,17 @@
         "$Anesthetics_&_Analgesics"
     ],
     "question": {
-        "text": "§\n\nAdverse Effects (2) : Ketamine",
+        "text": "Adverse Effects (2) : Ketamine",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAdverse Effects (2) : Ketamine\n\n(1) I'm trippppinnn balllz man\n(2) Cardiovascular stimulation\n\n[Image: 851ced832997d66b7d391cc41b387bc23b2f057ef9b0b82c7b04b64dff0b5ad8]\n\n[Image: 2a84f2b2a746185ad8a605a3de3692973d465fc72d0f91383e9c5e30545ba9ff]\n\n2.1 - Propofol, etomidate, ketamine\n[Image: 258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc]\n\n[Image: 876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc]",
+        "text": "(1) I'm trippppinnn balllz man\n(2) Cardiovascular stimulation\n\n[Image: 851ced832997d66b7d391cc41b387bc23b2f057ef9b0b82c7b04b64dff0b5ad8]\n\n[Image: 2a84f2b2a746185ad8a605a3de3692973d465fc72d0f91383e9c5e30545ba9ff]",
         "imageIds": [
             "851ced832997d66b7d391cc41b387bc23b2f057ef9b0b82c7b04b64dff0b5ad8",
-            "2a84f2b2a746185ad8a605a3de3692973d465fc72d0f91383e9c5e30545ba9ff",
-            "258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc",
-            "876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc"
+            "2a84f2b2a746185ad8a605a3de3692973d465fc72d0f91383e9c5e30545ba9ff"
         ]
     },
     "images": {
-        "258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc": {
-            "file": "images/258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc.jpg",
-            "filename": "paste-490476675268611.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 83285
-        },
         "2a84f2b2a746185ad8a605a3de3692973d465fc72d0f91383e9c5e30545ba9ff": {
             "file": "images/2a84f2b2a746185ad8a605a3de3692973d465fc72d0f91383e9c5e30545ba9ff.jpg",
             "filename": "paste-493075130482691.jpg",
@@ -48,12 +40,6 @@
             "filename": "paste-492916216692739.jpg",
             "mimeType": "image/jpeg",
             "bytes": 75639
-        },
-        "876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc": {
-            "file": "images/876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc.jpg",
-            "filename": "paste-501411662004227.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 93496
         }
     }
 }

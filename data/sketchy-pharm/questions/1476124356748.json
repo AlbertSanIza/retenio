@@ -18,19 +18,14 @@
         "$Diabetes"
     ],
     "question": {
-        "text": "§\n\nWhat are the rapid acting, short duration insulin analogs?",
+        "text": "What are the rapid acting, short duration insulin analogs?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat are the rapid acting, short duration insulin analogs?\n\n(1) insulin Glulisine\n(2) insulin Aspart\n\n(3) insulin Lispro\n\n[Image: 04dddea2c3cff5191824beecc058728ac8b57a4281e9d4b2165d43332156497d]\n\n[Image: 1934c3cd6189105c4e78c06a10fc69ef421e7689dda98169bf9c6a0e4e56de3d]\n\n2.1 - Insulin, sulfonylureas, meglitinides, GLP-1 agonists, DPP-4 inhibitors\n[Image: d4563c0f5a190a17a7288e0360e41e8d67c6dbfcab9d7378abb51e3904b2eeed]\n\n[Image: 13d541a77f83d6ca646a7cbd73bb415478e28faa82e25f8a178f2ea9764498e1]\n\n[Image: 5f500a024f2eda7523cefeadb00a605e0dc8488e9a0a92d15694571abf122dbc]\n\n[Image: 172ef24da9f1adb51fb31db427845467485fb3776c926c1dee0227bc915055e3]\n\n[Image: d6823ca16897e3745b029b6da053e5e131bb1a0f92c5cab1bf13124952c69874]",
+        "text": "(1) insulin Glulisine\n(2) insulin Aspart\n\n(3) insulin Lispro\n\n[Image: 04dddea2c3cff5191824beecc058728ac8b57a4281e9d4b2165d43332156497d]\n\n[Image: 1934c3cd6189105c4e78c06a10fc69ef421e7689dda98169bf9c6a0e4e56de3d]",
         "imageIds": [
             "04dddea2c3cff5191824beecc058728ac8b57a4281e9d4b2165d43332156497d",
-            "1934c3cd6189105c4e78c06a10fc69ef421e7689dda98169bf9c6a0e4e56de3d",
-            "d4563c0f5a190a17a7288e0360e41e8d67c6dbfcab9d7378abb51e3904b2eeed",
-            "13d541a77f83d6ca646a7cbd73bb415478e28faa82e25f8a178f2ea9764498e1",
-            "5f500a024f2eda7523cefeadb00a605e0dc8488e9a0a92d15694571abf122dbc",
-            "172ef24da9f1adb51fb31db427845467485fb3776c926c1dee0227bc915055e3",
-            "d6823ca16897e3745b029b6da053e5e131bb1a0f92c5cab1bf13124952c69874"
+            "1934c3cd6189105c4e78c06a10fc69ef421e7689dda98169bf9c6a0e4e56de3d"
         ]
     },
     "images": {
@@ -40,41 +35,11 @@
             "mimeType": "image/jpeg",
             "bytes": 44607
         },
-        "13d541a77f83d6ca646a7cbd73bb415478e28faa82e25f8a178f2ea9764498e1": {
-            "file": "images/13d541a77f83d6ca646a7cbd73bb415478e28faa82e25f8a178f2ea9764498e1.jpg",
-            "filename": "paste-728576777256963.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 77849
-        },
-        "172ef24da9f1adb51fb31db427845467485fb3776c926c1dee0227bc915055e3": {
-            "file": "images/172ef24da9f1adb51fb31db427845467485fb3776c926c1dee0227bc915055e3.jpg",
-            "filename": "paste-96877282328579.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 133257
-        },
         "1934c3cd6189105c4e78c06a10fc69ef421e7689dda98169bf9c6a0e4e56de3d": {
             "file": "images/1934c3cd6189105c4e78c06a10fc69ef421e7689dda98169bf9c6a0e4e56de3d.jpg",
             "filename": "paste-39414914875395.jpg",
             "mimeType": "image/jpeg",
             "bytes": 45591
-        },
-        "5f500a024f2eda7523cefeadb00a605e0dc8488e9a0a92d15694571abf122dbc": {
-            "file": "images/5f500a024f2eda7523cefeadb00a605e0dc8488e9a0a92d15694571abf122dbc.jpg",
-            "filename": "paste-722838700949507.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 28342
-        },
-        "d4563c0f5a190a17a7288e0360e41e8d67c6dbfcab9d7378abb51e3904b2eeed": {
-            "file": "images/d4563c0f5a190a17a7288e0360e41e8d67c6dbfcab9d7378abb51e3904b2eeed.jpg",
-            "filename": "paste-684905549791233.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 118710
-        },
-        "d6823ca16897e3745b029b6da053e5e131bb1a0f92c5cab1bf13124952c69874": {
-            "file": "images/d6823ca16897e3745b029b6da053e5e131bb1a0f92c5cab1bf13124952c69874.jpg",
-            "filename": "paste-99097780420611.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 104792
         }
     }
 }

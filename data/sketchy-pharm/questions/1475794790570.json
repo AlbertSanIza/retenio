@@ -18,37 +18,16 @@
         "$Antidepressants&Anxiolytics"
     ],
     "question": {
-        "text": "§\n\nWhat are two drug classes which could cause serotonin syndrome when combined with SSRIs/SNRIs?",
+        "text": "What are two drug classes which could cause serotonin syndrome when combined with SSRIs/SNRIs?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat are two drug classes which could cause serotonin syndrome when combined with SSRIs/SNRIs?\n\n(1) TCAs\n(2) MAO inhibitors\n\n[Image: d2f7b1cbb94bc39cdf4517b8f7d34b8fe618cdb7e6a119388daa25a86ecd8c04]\n\n3.1 - SSRIs, SNRIs, cyproheptadine\n[Image: ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6]\n\n[Image: 7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943]\n\n[Image: 8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1]",
+        "text": "(1) TCAs\n(2) MAO inhibitors\n\n[Image: d2f7b1cbb94bc39cdf4517b8f7d34b8fe618cdb7e6a119388daa25a86ecd8c04]",
         "imageIds": [
-            "d2f7b1cbb94bc39cdf4517b8f7d34b8fe618cdb7e6a119388daa25a86ecd8c04",
-            "ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6",
-            "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943",
-            "8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1"
+            "d2f7b1cbb94bc39cdf4517b8f7d34b8fe618cdb7e6a119388daa25a86ecd8c04"
         ]
     },
     "images": {
-        "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943": {
-            "file": "images/7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943.jpg",
-            "filename": "paste-1171594063904771.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 89818
-        },
-        "8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1": {
-            "file": "images/8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1.jpg",
-            "filename": "paste-21088289423363 (2).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 92436
-        },
-        "ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6": {
-            "file": "images/ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6.jpg",
-            "filename": "paste-1134098999410689.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 142260
-        },
         "d2f7b1cbb94bc39cdf4517b8f7d34b8fe618cdb7e6a119388daa25a86ecd8c04": {
             "file": "images/d2f7b1cbb94bc39cdf4517b8f7d34b8fe618cdb7e6a119388daa25a86ecd8c04.jpg",
             "filename": "paste-15917148798979.jpg",

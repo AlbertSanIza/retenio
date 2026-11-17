@@ -18,42 +18,21 @@
         "$Sympathetics"
     ],
     "question": {
-        "text": "§\n\nWhat drug is a selective β1-blocker with partial agonist activity?",
+        "text": "What drug is a selective β1-blocker with partial agonist activity?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat drug is a selective β1-blocker with partial agonist activity?\n\nAcebutolol\n\n[Image: 24b2c37dce0bd4d700c1856a9392fdda404d3b80a026d069abb2b2afec612266]\n\n2.4 - Beta blockers\n[Image: ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98]\n\n[Image: 0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173]\n\n[Image: 6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6]",
+        "text": "Acebutolol\n\n[Image: 24b2c37dce0bd4d700c1856a9392fdda404d3b80a026d069abb2b2afec612266]",
         "imageIds": [
-            "24b2c37dce0bd4d700c1856a9392fdda404d3b80a026d069abb2b2afec612266",
-            "ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98",
-            "0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173",
-            "6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6"
+            "24b2c37dce0bd4d700c1856a9392fdda404d3b80a026d069abb2b2afec612266"
         ]
     },
     "images": {
-        "0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173": {
-            "file": "images/0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173.jpg",
-            "filename": "paste-302687820185603.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 107698
-        },
         "24b2c37dce0bd4d700c1856a9392fdda404d3b80a026d069abb2b2afec612266": {
             "file": "images/24b2c37dce0bd4d700c1856a9392fdda404d3b80a026d069abb2b2afec612266.jpg",
             "filename": "paste-39530878992387.jpg",
             "mimeType": "image/jpeg",
             "bytes": 59741
-        },
-        "6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6": {
-            "file": "images/6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6.jpg",
-            "filename": "paste-305681412390915.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 63928
-        },
-        "ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98": {
-            "file": "images/ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98.jpg",
-            "filename": "paste-438146793734145.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 122524
         }
     }
 }

@@ -18,18 +18,14 @@
         "$Sympathetics"
     ],
     "question": {
-        "text": "§\n\nWhat effect does α1 stimulation have on the vasculature?",
+        "text": "What effect does α1 stimulation have on the vasculature?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat effect does α1 stimulation have on the vasculature?\n\n(1) Constrict arterioles ⇒ ↑ TPR\n(2) Constrict veins ⇒ ↑ Preload\n\n[Image: 921dd50de5fbe2cefb45a7c125d69b3e4938f3b72937185ff581a4b2d37cc913]\n\n[Image: 1305515c64a0ad77bb1a649509f7fc7ea073e74a0cef2203471a522ceb2d7401]\n\n2.1 - Sympathomimetics\n[Image: 20dce7d1ea3a9127b9203a53523d590e1c124cf18e808d650cb20bad6db5fb26]\n\n[Image: 204735fde9cbdfa5f689d2ec7529f7ec04ff90a0bfb8047fd8fa990aa6aeca31]\n\n[Image: 1ebb60a93613ef52d422686f8dfb459e774d65cfd235b2d78f3bb0cc8d4877c4]\n\n[Image: d72e13fa4da566f02849a672685ae62b8839f9d067243cc055344d1268c19f2b]",
+        "text": "(1) Constrict arterioles ⇒ ↑ TPR\n(2) Constrict veins ⇒ ↑ Preload\n\n[Image: 921dd50de5fbe2cefb45a7c125d69b3e4938f3b72937185ff581a4b2d37cc913]\n\n[Image: 1305515c64a0ad77bb1a649509f7fc7ea073e74a0cef2203471a522ceb2d7401]",
         "imageIds": [
             "921dd50de5fbe2cefb45a7c125d69b3e4938f3b72937185ff581a4b2d37cc913",
-            "1305515c64a0ad77bb1a649509f7fc7ea073e74a0cef2203471a522ceb2d7401",
-            "20dce7d1ea3a9127b9203a53523d590e1c124cf18e808d650cb20bad6db5fb26",
-            "204735fde9cbdfa5f689d2ec7529f7ec04ff90a0bfb8047fd8fa990aa6aeca31",
-            "1ebb60a93613ef52d422686f8dfb459e774d65cfd235b2d78f3bb0cc8d4877c4",
-            "d72e13fa4da566f02849a672685ae62b8839f9d067243cc055344d1268c19f2b"
+            "1305515c64a0ad77bb1a649509f7fc7ea073e74a0cef2203471a522ceb2d7401"
         ]
     },
     "images": {
@@ -39,35 +35,11 @@
             "mimeType": "image/jpeg",
             "bytes": 52841
         },
-        "1ebb60a93613ef52d422686f8dfb459e774d65cfd235b2d78f3bb0cc8d4877c4": {
-            "file": "images/1ebb60a93613ef52d422686f8dfb459e774d65cfd235b2d78f3bb0cc8d4877c4.jpg",
-            "filename": "paste-614798798618627.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 47275
-        },
-        "204735fde9cbdfa5f689d2ec7529f7ec04ff90a0bfb8047fd8fa990aa6aeca31": {
-            "file": "images/204735fde9cbdfa5f689d2ec7529f7ec04ff90a0bfb8047fd8fa990aa6aeca31.jpg",
-            "filename": "paste-602566731759619.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 66758
-        },
-        "20dce7d1ea3a9127b9203a53523d590e1c124cf18e808d650cb20bad6db5fb26": {
-            "file": "images/20dce7d1ea3a9127b9203a53523d590e1c124cf18e808d650cb20bad6db5fb26.jpg",
-            "filename": "paste-422607602057217.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 150970
-        },
         "921dd50de5fbe2cefb45a7c125d69b3e4938f3b72937185ff581a4b2d37cc913": {
             "file": "images/921dd50de5fbe2cefb45a7c125d69b3e4938f3b72937185ff581a4b2d37cc913.jpg",
             "filename": "paste-19151259172867.jpg",
             "mimeType": "image/jpeg",
             "bytes": 50311
-        },
-        "d72e13fa4da566f02849a672685ae62b8839f9d067243cc055344d1268c19f2b": {
-            "file": "images/d72e13fa4da566f02849a672685ae62b8839f9d067243cc055344d1268c19f2b.jpg",
-            "filename": "paste-f8927e53577fb32aff5a71527af64646519ec7a2.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 68106
         }
     }
 }

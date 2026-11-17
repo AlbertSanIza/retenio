@@ -18,18 +18,16 @@
         "$Allergy&Pulmonary"
     ],
     "question": {
-        "text": "§\n\nName 6 effects of H1 receptor stimulation",
+        "text": "Name 6 effects of H1 receptor stimulation",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 6 effects of H1 receptor stimulation\n\n(1) ↑ Nasal/Bronchial mucus\n\n(2) ↑ Vascular permeability\n\n(3) Bronchoconstriction\n\n(4) ↑ Arousal\n\n(5) Pain\n\n(6) Pruritus\n\n(CNS Effects: Regulates sleep, arousal, and functions as a neurotransmitter)\n\n[Image: 33151ddad00f13e6a3ec2e91fb0bfead016e16c82e16d805bd6a9332c01c72de]\n\n[Image: a542f890ee13584170b6644b9ba6848e1dd581f10614d13e7ecc1961bab8690f]\n\n[Image: 91ea4f794313e49ee32d6b4cbeead1e77d0e944218b5e0866a5b2d1bece32644]\n\n[Image: cb6be92520fefc2dbbba8dd4c4a0ce677bbacaba94ae2b307d5ed632c5b218e1]\n\n2.1 - Antihistamines\n[Image: f7314b2e975ff14486eeeeef9a70badab37ceceed6d6562b1b54c0cbf86eba91]\n\n[Image: ebf07e64c72b7326f332a528c0bbcb0378877f4ccf7da9beeeaa77a389b9ef4c]",
+        "text": "(1) ↑ Nasal/Bronchial mucus\n\n(2) ↑ Vascular permeability\n\n(3) Bronchoconstriction\n\n(4) ↑ Arousal\n\n(5) Pain\n\n(6) Pruritus\n\n(CNS Effects: Regulates sleep, arousal, and functions as a neurotransmitter)\n\n[Image: 33151ddad00f13e6a3ec2e91fb0bfead016e16c82e16d805bd6a9332c01c72de]\n\n[Image: a542f890ee13584170b6644b9ba6848e1dd581f10614d13e7ecc1961bab8690f]\n\n[Image: 91ea4f794313e49ee32d6b4cbeead1e77d0e944218b5e0866a5b2d1bece32644]\n\n[Image: cb6be92520fefc2dbbba8dd4c4a0ce677bbacaba94ae2b307d5ed632c5b218e1]",
         "imageIds": [
             "33151ddad00f13e6a3ec2e91fb0bfead016e16c82e16d805bd6a9332c01c72de",
             "a542f890ee13584170b6644b9ba6848e1dd581f10614d13e7ecc1961bab8690f",
             "91ea4f794313e49ee32d6b4cbeead1e77d0e944218b5e0866a5b2d1bece32644",
-            "cb6be92520fefc2dbbba8dd4c4a0ce677bbacaba94ae2b307d5ed632c5b218e1",
-            "f7314b2e975ff14486eeeeef9a70badab37ceceed6d6562b1b54c0cbf86eba91",
-            "ebf07e64c72b7326f332a528c0bbcb0378877f4ccf7da9beeeaa77a389b9ef4c"
+            "cb6be92520fefc2dbbba8dd4c4a0ce677bbacaba94ae2b307d5ed632c5b218e1"
         ]
     },
     "images": {
@@ -56,18 +54,6 @@
             "filename": "paste-7559142440963.jpg",
             "mimeType": "image/jpeg",
             "bytes": 73063
-        },
-        "ebf07e64c72b7326f332a528c0bbcb0378877f4ccf7da9beeeaa77a389b9ef4c": {
-            "file": "images/ebf07e64c72b7326f332a528c0bbcb0378877f4ccf7da9beeeaa77a389b9ef4c.jpg",
-            "filename": "paste-233629041033219.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 53438
-        },
-        "f7314b2e975ff14486eeeeef9a70badab37ceceed6d6562b1b54c0cbf86eba91": {
-            "file": "images/f7314b2e975ff14486eeeeef9a70badab37ceceed6d6562b1b54c0cbf86eba91.jpg",
-            "filename": "paste-85160611545091.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 154303
         }
     }
 }

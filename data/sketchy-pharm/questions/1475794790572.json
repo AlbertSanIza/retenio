@@ -18,42 +18,21 @@
         "$Antidepressants&Anxiolytics"
     ],
     "question": {
-        "text": "§\n\nWhat is the main side effect of SNRIs?",
+        "text": "What is the main side effect of SNRIs?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat is the main side effect of SNRIs?\n\nHypertension\n\n[Image: 837f6d575846c74b6a35a1d24192079a453997f80dff8992b23286b68f81c788]\n\n3.1 - SSRIs, SNRIs, cyproheptadine\n[Image: ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6]\n\n[Image: 7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943]\n\n[Image: 8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1]",
+        "text": "Hypertension\n\n[Image: 837f6d575846c74b6a35a1d24192079a453997f80dff8992b23286b68f81c788]",
         "imageIds": [
-            "837f6d575846c74b6a35a1d24192079a453997f80dff8992b23286b68f81c788",
-            "ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6",
-            "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943",
-            "8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1"
+            "837f6d575846c74b6a35a1d24192079a453997f80dff8992b23286b68f81c788"
         ]
     },
     "images": {
-        "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943": {
-            "file": "images/7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943.jpg",
-            "filename": "paste-1171594063904771.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 89818
-        },
         "837f6d575846c74b6a35a1d24192079a453997f80dff8992b23286b68f81c788": {
             "file": "images/837f6d575846c74b6a35a1d24192079a453997f80dff8992b23286b68f81c788.jpg",
             "filename": "paste-16909286244355.jpg",
             "mimeType": "image/jpeg",
             "bytes": 75712
-        },
-        "8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1": {
-            "file": "images/8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1.jpg",
-            "filename": "paste-21088289423363 (2).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 92436
-        },
-        "ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6": {
-            "file": "images/ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6.jpg",
-            "filename": "paste-1134098999410689.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 142260
         }
     }
 }

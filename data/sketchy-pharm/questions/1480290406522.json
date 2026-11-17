@@ -18,25 +18,17 @@
         "$DNA_&_Cellular_Division"
     ],
     "question": {
-        "text": "§\n\nWhat drug can prevent Anthracycline-induced cardiotoxicity?",
+        "text": "What drug can prevent Anthracycline-induced cardiotoxicity?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat drug can prevent Anthracycline-induced cardiotoxicity?\n\nDexrazoxane\n\n[Image: 2a77739252463656e45d9fdbac5d81a52b085457488898f4736a416ccb4a85d1]\n\n[Image: 3be7d32d41d29d5af0c4b0eafc976fdc2e6027bf337cd254b81d31185051926c]\n\n2.3 - Bleomycin, doxorubicin, daunorubicin, actinomycin D\n[Image: d837b2ec4413cf7fca8a7c2eb4363f3ce0310892d5aef0467164ba5e4e896967]\n\n[Image: 16c44e405d839f2f3af173c3bea7fbd7a55058f769d085ae38803085248ffc91]",
+        "text": "Dexrazoxane\n\n[Image: 2a77739252463656e45d9fdbac5d81a52b085457488898f4736a416ccb4a85d1]\n\n[Image: 3be7d32d41d29d5af0c4b0eafc976fdc2e6027bf337cd254b81d31185051926c]",
         "imageIds": [
             "2a77739252463656e45d9fdbac5d81a52b085457488898f4736a416ccb4a85d1",
-            "3be7d32d41d29d5af0c4b0eafc976fdc2e6027bf337cd254b81d31185051926c",
-            "d837b2ec4413cf7fca8a7c2eb4363f3ce0310892d5aef0467164ba5e4e896967",
-            "16c44e405d839f2f3af173c3bea7fbd7a55058f769d085ae38803085248ffc91"
+            "3be7d32d41d29d5af0c4b0eafc976fdc2e6027bf337cd254b81d31185051926c"
         ]
     },
     "images": {
-        "16c44e405d839f2f3af173c3bea7fbd7a55058f769d085ae38803085248ffc91": {
-            "file": "images/16c44e405d839f2f3af173c3bea7fbd7a55058f769d085ae38803085248ffc91.jpg",
-            "filename": "paste-175058572017667.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 31096
-        },
         "2a77739252463656e45d9fdbac5d81a52b085457488898f4736a416ccb4a85d1": {
             "file": "images/2a77739252463656e45d9fdbac5d81a52b085457488898f4736a416ccb4a85d1.jpg",
             "filename": "paste-42795054137347.jpg",
@@ -48,12 +40,6 @@
             "filename": "paste-42722039693315.jpg",
             "mimeType": "image/jpeg",
             "bytes": 55131
-        },
-        "d837b2ec4413cf7fca8a7c2eb4363f3ce0310892d5aef0467164ba5e4e896967": {
-            "file": "images/d837b2ec4413cf7fca8a7c2eb4363f3ce0310892d5aef0467164ba5e4e896967.jpg",
-            "filename": "paste-371016454897665.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 112022
         }
     }
 }

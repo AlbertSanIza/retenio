@@ -18,18 +18,14 @@
         "$Antivirals_Others"
     ],
     "question": {
-        "text": "§\n\nName 2 populations where Acyclovir is used for HSV prophylaxis",
+        "text": "Name 2 populations where Acyclovir is used for HSV prophylaxis",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 2 populations where Acyclovir is used for HSV prophylaxis\n\n(1) Immunocompromised\n(2) Pregnant woman with active HSV\n\n(Immunocompromised such as organ transplant receipient or HIV patient)\n\n[Image: 32e84974db3778ab728af4c314592e2a094d18a389e3a897ac187814fdd5509e]\n\n[Image: ca117d3a330782dc2c2a1137161bda9dd4f0867cd75e2f2aa105ad5bfca7dcb4]\n\n8.1 - Acyclovir, valacyclovir, famciclovir\n[Image: 40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b]\n\n[Image: a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1]\n\n[Image: a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35]\n\n[Image: 3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b]",
+        "text": "(1) Immunocompromised\n(2) Pregnant woman with active HSV\n\n(Immunocompromised such as organ transplant receipient or HIV patient)\n\n[Image: 32e84974db3778ab728af4c314592e2a094d18a389e3a897ac187814fdd5509e]\n\n[Image: ca117d3a330782dc2c2a1137161bda9dd4f0867cd75e2f2aa105ad5bfca7dcb4]",
         "imageIds": [
             "32e84974db3778ab728af4c314592e2a094d18a389e3a897ac187814fdd5509e",
-            "ca117d3a330782dc2c2a1137161bda9dd4f0867cd75e2f2aa105ad5bfca7dcb4",
-            "40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b",
-            "a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1",
-            "a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35",
-            "3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b"
+            "ca117d3a330782dc2c2a1137161bda9dd4f0867cd75e2f2aa105ad5bfca7dcb4"
         ]
     },
     "images": {
@@ -38,30 +34,6 @@
             "filename": "paste-393234320719875.jpg",
             "mimeType": "image/jpeg",
             "bytes": 43897
-        },
-        "3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b": {
-            "file": "images/3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b.jpg",
-            "filename": "paste-14950781157379.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 94367
-        },
-        "40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b": {
-            "file": "images/40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b.jpg",
-            "filename": "paste-383768212799491.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 59940
-        },
-        "a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1": {
-            "file": "images/a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1.jpg",
-            "filename": "paste-305286275399683.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 100859
-        },
-        "a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35": {
-            "file": "images/a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35.jpg",
-            "filename": "paste-13438952669187.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 81188
         },
         "ca117d3a330782dc2c2a1137161bda9dd4f0867cd75e2f2aa105ad5bfca7dcb4": {
             "file": "images/ca117d3a330782dc2c2a1137161bda9dd4f0867cd75e2f2aa105ad5bfca7dcb4.jpg",

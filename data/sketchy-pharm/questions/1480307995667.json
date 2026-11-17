@@ -18,25 +18,17 @@
         "$Antivirals_HIV"
     ],
     "question": {
-        "text": "§\n\nMOA: NRTIs",
+        "text": "MOA: NRTIs",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nMOA: NRTIs\n\nIncorporation into viral DNA ⇒ Premature chain termination\n\n[Image: 62fc2fceadc8db3ae5e27acd327ecbf25f560419cb5fbe8fb9979c0052fe5265]\n\n[Image: 4cdf9d1e2c5e1fb54a4951f59afec4413ebfb0394eef33a71edf30989e6aaeb8]\n\n6.1 - NRTIs\n[Image: f2dc4b00a350da8261c36001e931dd46ecabb7f3e92da2e54e4bcc72a8bcc61e]\n\n[Image: 0c4d3026f6636c102ee5af4eb5ef4c4c73544c1d5ae8516531bab7656f39350f]",
+        "text": "Incorporation into viral DNA ⇒ Premature chain termination\n\n[Image: 62fc2fceadc8db3ae5e27acd327ecbf25f560419cb5fbe8fb9979c0052fe5265]\n\n[Image: 4cdf9d1e2c5e1fb54a4951f59afec4413ebfb0394eef33a71edf30989e6aaeb8]",
         "imageIds": [
             "62fc2fceadc8db3ae5e27acd327ecbf25f560419cb5fbe8fb9979c0052fe5265",
-            "4cdf9d1e2c5e1fb54a4951f59afec4413ebfb0394eef33a71edf30989e6aaeb8",
-            "f2dc4b00a350da8261c36001e931dd46ecabb7f3e92da2e54e4bcc72a8bcc61e",
-            "0c4d3026f6636c102ee5af4eb5ef4c4c73544c1d5ae8516531bab7656f39350f"
+            "4cdf9d1e2c5e1fb54a4951f59afec4413ebfb0394eef33a71edf30989e6aaeb8"
         ]
     },
     "images": {
-        "0c4d3026f6636c102ee5af4eb5ef4c4c73544c1d5ae8516531bab7656f39350f": {
-            "file": "images/0c4d3026f6636c102ee5af4eb5ef4c4c73544c1d5ae8516531bab7656f39350f.jpg",
-            "filename": "paste-541874548899843.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 36930
-        },
         "4cdf9d1e2c5e1fb54a4951f59afec4413ebfb0394eef33a71edf30989e6aaeb8": {
             "file": "images/4cdf9d1e2c5e1fb54a4951f59afec4413ebfb0394eef33a71edf30989e6aaeb8.jpg",
             "filename": "paste-257324375605251.jpg",
@@ -48,12 +40,6 @@
             "filename": "paste-115349936668675.jpg",
             "mimeType": "image/jpeg",
             "bytes": 44991
-        },
-        "f2dc4b00a350da8261c36001e931dd46ecabb7f3e92da2e54e4bcc72a8bcc61e": {
-            "file": "images/f2dc4b00a350da8261c36001e931dd46ecabb7f3e92da2e54e4bcc72a8bcc61e.jpg",
-            "filename": "paste-280701882597377.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 154640
         }
     }
 }

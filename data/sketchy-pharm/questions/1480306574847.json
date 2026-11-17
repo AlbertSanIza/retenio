@@ -18,35 +18,21 @@
         "$Cell_Wall_&_Membrane_Active_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nResistance: Vancomycin",
+        "text": "Resistance: Vancomycin",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nResistance: Vancomycin\n\nAltered peptidoglycan structure ⇒ D-ala-D-lac\n\n(Or D-ala-D-ser)\n\n[Image: 5b73c3ed271dc88be6f1cff7ce75e6656f0b1d521041adceb55f29c288e42ab7]\n\n1.6 - Vancomycin\n[Image: 4c4759e400263512782f05a1aaef54315fc02f13e22f6bb2926afbcc9c596c2c]\n\n[Image: e3b35611814d2ab1df22b661bae37e650eeeb6dc662044e0cd04f89e6b606da9]",
+        "text": "Altered peptidoglycan structure ⇒ D-ala-D-lac\n\n(Or D-ala-D-ser)\n\n[Image: 5b73c3ed271dc88be6f1cff7ce75e6656f0b1d521041adceb55f29c288e42ab7]",
         "imageIds": [
-            "5b73c3ed271dc88be6f1cff7ce75e6656f0b1d521041adceb55f29c288e42ab7",
-            "4c4759e400263512782f05a1aaef54315fc02f13e22f6bb2926afbcc9c596c2c",
-            "e3b35611814d2ab1df22b661bae37e650eeeb6dc662044e0cd04f89e6b606da9"
+            "5b73c3ed271dc88be6f1cff7ce75e6656f0b1d521041adceb55f29c288e42ab7"
         ]
     },
     "images": {
-        "4c4759e400263512782f05a1aaef54315fc02f13e22f6bb2926afbcc9c596c2c": {
-            "file": "images/4c4759e400263512782f05a1aaef54315fc02f13e22f6bb2926afbcc9c596c2c.jpg",
-            "filename": "paste-196851236077569.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 154388
-        },
         "5b73c3ed271dc88be6f1cff7ce75e6656f0b1d521041adceb55f29c288e42ab7": {
             "file": "images/5b73c3ed271dc88be6f1cff7ce75e6656f0b1d521041adceb55f29c288e42ab7.jpg",
             "filename": "paste-112626927403011.jpg",
             "mimeType": "image/jpeg",
             "bytes": 55936
-        },
-        "e3b35611814d2ab1df22b661bae37e650eeeb6dc662044e0cd04f89e6b606da9": {
-            "file": "images/e3b35611814d2ab1df22b661bae37e650eeeb6dc662044e0cd04f89e6b606da9.jpg",
-            "filename": "paste-334522117783555.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 94981
         }
     }
 }

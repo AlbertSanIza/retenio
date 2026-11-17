@@ -18,42 +18,18 @@
         "$DyslipidemiaDrugs"
     ],
     "question": {
-        "text": "§\n\nWhat effect does Niacin have on the lipid fraction?",
+        "text": "What effect does Niacin have on the lipid fraction?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat effect does Niacin have on the lipid fraction?\n\n(1) ↓ TGs\n(2) ↓ LDL\n\n(3) ↑↑↑ HDL\n\n[Image: eb2c4f1d3267879532ca69d4966ba29665f24f718c931ff7ca9565663e571b43]\n\n[Image: a064d8e577ff1878a2391d444788233f3ac3d982f64f0a364509cbab1bc455d6]\n\n[Image: 9b520f287d9e1cb1a22fc04a23530e2f3af00c8b8e540f91d83d4500118a095d]\n\n2.3 - Fibrates, niacin\n[Image: 63bd3cceb197643d542d99ce05740f56271ef101bf9656ff2cd3285da65a40bd]\n\n[Image: bf16291a0c725457edd1166331efc2b998ce1cc7a69fcb222875659bc54aa310]\n\n[Image: 27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9]\n\n[Image: b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e]\n\n[Image: dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139]\n\n[Image: 88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39]",
+        "text": "(1) ↓ TGs\n(2) ↓ LDL\n\n(3) ↑↑↑ HDL\n\n[Image: eb2c4f1d3267879532ca69d4966ba29665f24f718c931ff7ca9565663e571b43]\n\n[Image: a064d8e577ff1878a2391d444788233f3ac3d982f64f0a364509cbab1bc455d6]\n\n[Image: 9b520f287d9e1cb1a22fc04a23530e2f3af00c8b8e540f91d83d4500118a095d]",
         "imageIds": [
             "eb2c4f1d3267879532ca69d4966ba29665f24f718c931ff7ca9565663e571b43",
             "a064d8e577ff1878a2391d444788233f3ac3d982f64f0a364509cbab1bc455d6",
-            "9b520f287d9e1cb1a22fc04a23530e2f3af00c8b8e540f91d83d4500118a095d",
-            "63bd3cceb197643d542d99ce05740f56271ef101bf9656ff2cd3285da65a40bd",
-            "bf16291a0c725457edd1166331efc2b998ce1cc7a69fcb222875659bc54aa310",
-            "27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9",
-            "b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e",
-            "dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139",
-            "88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39"
+            "9b520f287d9e1cb1a22fc04a23530e2f3af00c8b8e540f91d83d4500118a095d"
         ]
     },
     "images": {
-        "27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9": {
-            "file": "images/27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9.jpg",
-            "filename": "paste-203263622250499.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 84124
-        },
-        "63bd3cceb197643d542d99ce05740f56271ef101bf9656ff2cd3285da65a40bd": {
-            "file": "images/63bd3cceb197643d542d99ce05740f56271ef101bf9656ff2cd3285da65a40bd.jpg",
-            "filename": "paste-571874895462401.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 139646
-        },
-        "88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39": {
-            "file": "images/88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39.jpg",
-            "filename": "paste-235252538671107.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 88003
-        },
         "9b520f287d9e1cb1a22fc04a23530e2f3af00c8b8e540f91d83d4500118a095d": {
             "file": "images/9b520f287d9e1cb1a22fc04a23530e2f3af00c8b8e540f91d83d4500118a095d.jpg",
             "filename": "paste-184778083008515.jpg",
@@ -65,24 +41,6 @@
             "filename": "paste-200385994162179.jpg",
             "mimeType": "image/jpeg",
             "bytes": 91670
-        },
-        "b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e": {
-            "file": "images/b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e.jpg",
-            "filename": "paste-230506599809027.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 80740
-        },
-        "bf16291a0c725457edd1166331efc2b998ce1cc7a69fcb222875659bc54aa310": {
-            "file": "images/bf16291a0c725457edd1166331efc2b998ce1cc7a69fcb222875659bc54aa310.jpg",
-            "filename": "paste-242442313924611.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 50707
-        },
-        "dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139": {
-            "file": "images/dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139.jpg",
-            "filename": "paste-225266739707907.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 37177
         },
         "eb2c4f1d3267879532ca69d4966ba29665f24f718c931ff7ca9565663e571b43": {
             "file": "images/eb2c4f1d3267879532ca69d4966ba29665f24f718c931ff7ca9565663e571b43.jpg",

@@ -18,38 +18,17 @@
         "$Diuretics"
     ],
     "question": {
-        "text": "§\n\nWhat transporter do loop diuretics inhibit?",
+        "text": "What transporter do loop diuretics inhibit?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat transporter do loop diuretics inhibit?\n\nNa+/K+/2Cl- Cotransporter\n\n(On the lumenal membrane)\n\n[Image: c6fb910ba45cfac1f0f11bc986dfb16e7e8cd9357e2286a36e0001911ffc8052]\n\n[Image: eab3c509c329c61d8d15268b17eee318489649e67aa871b5c58cd3c5ddb8cbf6]\n\n2.2 - Loop diuretics\n[Image: ab97a3dbb7bcb783c943a24dd17fe759c7e8649ccf31e9c669d50ac2fd87224f]\n\n[Image: 1b7148647feea8113ae9dee03b260d70ee27ebcc42fd60b3f4de9de573e060cc]\n\n[Image: 3441d6b488bb0369101547fd03cec0ec80e0ad3a479fc9e8b2f636b8092b09fe]",
+        "text": "Na+/K+/2Cl- Cotransporter\n\n(On the lumenal membrane)\n\n[Image: c6fb910ba45cfac1f0f11bc986dfb16e7e8cd9357e2286a36e0001911ffc8052]\n\n[Image: eab3c509c329c61d8d15268b17eee318489649e67aa871b5c58cd3c5ddb8cbf6]",
         "imageIds": [
             "c6fb910ba45cfac1f0f11bc986dfb16e7e8cd9357e2286a36e0001911ffc8052",
-            "eab3c509c329c61d8d15268b17eee318489649e67aa871b5c58cd3c5ddb8cbf6",
-            "ab97a3dbb7bcb783c943a24dd17fe759c7e8649ccf31e9c669d50ac2fd87224f",
-            "1b7148647feea8113ae9dee03b260d70ee27ebcc42fd60b3f4de9de573e060cc",
-            "3441d6b488bb0369101547fd03cec0ec80e0ad3a479fc9e8b2f636b8092b09fe"
+            "eab3c509c329c61d8d15268b17eee318489649e67aa871b5c58cd3c5ddb8cbf6"
         ]
     },
     "images": {
-        "1b7148647feea8113ae9dee03b260d70ee27ebcc42fd60b3f4de9de573e060cc": {
-            "file": "images/1b7148647feea8113ae9dee03b260d70ee27ebcc42fd60b3f4de9de573e060cc.jpg",
-            "filename": "paste-198698072014851.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 40968
-        },
-        "3441d6b488bb0369101547fd03cec0ec80e0ad3a479fc9e8b2f636b8092b09fe": {
-            "file": "images/3441d6b488bb0369101547fd03cec0ec80e0ad3a479fc9e8b2f636b8092b09fe.jpg",
-            "filename": "paste-203504140419075.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 104127
-        },
-        "ab97a3dbb7bcb783c943a24dd17fe759c7e8649ccf31e9c669d50ac2fd87224f": {
-            "file": "images/ab97a3dbb7bcb783c943a24dd17fe759c7e8649ccf31e9c669d50ac2fd87224f.jpg",
-            "filename": "paste-617118080958465.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 154300
-        },
         "c6fb910ba45cfac1f0f11bc986dfb16e7e8cd9357e2286a36e0001911ffc8052": {
             "file": "images/c6fb910ba45cfac1f0f11bc986dfb16e7e8cd9357e2286a36e0001911ffc8052.jpg",
             "filename": "paste-18167711662083.jpg",

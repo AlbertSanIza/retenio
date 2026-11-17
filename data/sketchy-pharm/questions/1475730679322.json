@@ -18,17 +18,13 @@
         "$Sympathetics"
     ],
     "question": {
-        "text": "§\n\nWhat receptor mediates the effects of a low dose of dopamine?",
+        "text": "What receptor mediates the effects of a low dose of dopamine?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat receptor mediates the effects of a low dose of dopamine?\n\nLow dose: D1 receptors ⇒ ↑ Renal blood flow\n\n[Image: 530a18461f2f9830291b025407e7c2e6159b1b7c659296436664aaced58e11fe]\n\n2.2 - Indirect sympathomimetics\n[Image: b52167de5b8cb501cd464be07b46495ee3fb0e4bf1765537d5879e38aee42838]\n\n[Image: d1f4e614e666b93cadc7eb30f666b8877ee94814265882ea84b34c853210a31f]\n\n[Image: b9461aacbd262c70bf458b489ed5ab1072fe47e2d1bc0a755616f44b39c59744]\n\n[Image: ce5990f7fc23f2c0b6d78c6bd05168d6ba3447641544b8278e51068158803eb1]",
+        "text": "Low dose: D1 receptors ⇒ ↑ Renal blood flow\n\n[Image: 530a18461f2f9830291b025407e7c2e6159b1b7c659296436664aaced58e11fe]",
         "imageIds": [
-            "530a18461f2f9830291b025407e7c2e6159b1b7c659296436664aaced58e11fe",
-            "b52167de5b8cb501cd464be07b46495ee3fb0e4bf1765537d5879e38aee42838",
-            "d1f4e614e666b93cadc7eb30f666b8877ee94814265882ea84b34c853210a31f",
-            "b9461aacbd262c70bf458b489ed5ab1072fe47e2d1bc0a755616f44b39c59744",
-            "ce5990f7fc23f2c0b6d78c6bd05168d6ba3447641544b8278e51068158803eb1"
+            "530a18461f2f9830291b025407e7c2e6159b1b7c659296436664aaced58e11fe"
         ]
     },
     "images": {
@@ -37,30 +33,6 @@
             "filename": "paste-30459908063235.jpg",
             "mimeType": "image/jpeg",
             "bytes": 57276
-        },
-        "b52167de5b8cb501cd464be07b46495ee3fb0e4bf1765537d5879e38aee42838": {
-            "file": "images/b52167de5b8cb501cd464be07b46495ee3fb0e4bf1765537d5879e38aee42838.jpg",
-            "filename": "paste-429097297641473.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 126833
-        },
-        "b9461aacbd262c70bf458b489ed5ab1072fe47e2d1bc0a755616f44b39c59744": {
-            "file": "images/b9461aacbd262c70bf458b489ed5ab1072fe47e2d1bc0a755616f44b39c59744.jpg",
-            "filename": "paste-606153029451779.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 39003
-        },
-        "ce5990f7fc23f2c0b6d78c6bd05168d6ba3447641544b8278e51068158803eb1": {
-            "file": "images/ce5990f7fc23f2c0b6d78c6bd05168d6ba3447641544b8278e51068158803eb1.jpg",
-            "filename": "paste-41278930681859.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 46589
-        },
-        "d1f4e614e666b93cadc7eb30f666b8877ee94814265882ea84b34c853210a31f": {
-            "file": "images/d1f4e614e666b93cadc7eb30f666b8877ee94814265882ea84b34c853210a31f.jpg",
-            "filename": "paste-135420318842883.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 87001
         }
     }
 }

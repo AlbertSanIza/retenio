@@ -18,77 +18,28 @@
         "$Anti-inflammatory"
     ],
     "question": {
-        "text": "§\n\nName one reason Celecoxib is better and one reason it's worse than other NSAIDs",
+        "text": "Name one reason Celecoxib is better and one reason it's worse than other NSAIDs",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName one reason Celecoxib is better and one reason it's worse than other NSAIDs\n\n(1) Positive: Minimal GI damage\n(2) Negative: ↑ Risk of cardiovascular damage\n\n[Image: 9065cc82bb7deaa1d57346c1591e1630eaf20b492d1426a2b0da6d20d881601c]\n\n[Image: bba471e47950d73b09d2427c2f9f34ecdabf286bcc8ba7114da7c0edddf0f3ad]\n\n3.1 - NSAIDs\n[Image: 49edae9fb6b61c742ab1ec590c3ccd72c55b9cee6f90a3510f101bb2aeafd075]\n\n[Image: be01556d0a9edc1e3ee92acf212fee5500ea23a6cad86d819219c19dc42aa5bb]\n\n[Image: bd78a3a4c103ea0ed274bd5ef754ad00174438c9fce7199d32239a53a34e7942]\n\n[Image: a09abee6ad5a84c5e948912aa4d09a6910a56c49466db92e12cae9b8f08908d3]\n\n[Image: 21f549501b36d1616894b1f5dcafb9faa34fcc787da3259419404bb46a3858f8]\n\n[Image: b41c26cf16765ec4c5de8753112f86a26eec8e25363e99d239b196c3f5606dfd]\n\n[Image: 13bd466f519ed3975e8a5543d9f6c9760bf12de1b89001b33b725ceb5d90be46]",
+        "text": "(1) Positive: Minimal GI damage\n(2) Negative: ↑ Risk of cardiovascular damage\n\n[Image: 9065cc82bb7deaa1d57346c1591e1630eaf20b492d1426a2b0da6d20d881601c]\n\n[Image: bba471e47950d73b09d2427c2f9f34ecdabf286bcc8ba7114da7c0edddf0f3ad]",
         "imageIds": [
             "9065cc82bb7deaa1d57346c1591e1630eaf20b492d1426a2b0da6d20d881601c",
-            "bba471e47950d73b09d2427c2f9f34ecdabf286bcc8ba7114da7c0edddf0f3ad",
-            "49edae9fb6b61c742ab1ec590c3ccd72c55b9cee6f90a3510f101bb2aeafd075",
-            "be01556d0a9edc1e3ee92acf212fee5500ea23a6cad86d819219c19dc42aa5bb",
-            "bd78a3a4c103ea0ed274bd5ef754ad00174438c9fce7199d32239a53a34e7942",
-            "a09abee6ad5a84c5e948912aa4d09a6910a56c49466db92e12cae9b8f08908d3",
-            "21f549501b36d1616894b1f5dcafb9faa34fcc787da3259419404bb46a3858f8",
-            "b41c26cf16765ec4c5de8753112f86a26eec8e25363e99d239b196c3f5606dfd",
-            "13bd466f519ed3975e8a5543d9f6c9760bf12de1b89001b33b725ceb5d90be46"
+            "bba471e47950d73b09d2427c2f9f34ecdabf286bcc8ba7114da7c0edddf0f3ad"
         ]
     },
     "images": {
-        "13bd466f519ed3975e8a5543d9f6c9760bf12de1b89001b33b725ceb5d90be46": {
-            "file": "images/13bd466f519ed3975e8a5543d9f6c9760bf12de1b89001b33b725ceb5d90be46.jpg",
-            "filename": "paste-224652559384579.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 41330
-        },
-        "21f549501b36d1616894b1f5dcafb9faa34fcc787da3259419404bb46a3858f8": {
-            "file": "images/21f549501b36d1616894b1f5dcafb9faa34fcc787da3259419404bb46a3858f8.jpg",
-            "filename": "paste-232039903133699.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 46818
-        },
-        "49edae9fb6b61c742ab1ec590c3ccd72c55b9cee6f90a3510f101bb2aeafd075": {
-            "file": "images/49edae9fb6b61c742ab1ec590c3ccd72c55b9cee6f90a3510f101bb2aeafd075.jpg",
-            "filename": "paste-577441173078017.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 168045
-        },
         "9065cc82bb7deaa1d57346c1591e1630eaf20b492d1426a2b0da6d20d881601c": {
             "file": "images/9065cc82bb7deaa1d57346c1591e1630eaf20b492d1426a2b0da6d20d881601c.jpg",
             "filename": "paste-164570261880835.jpg",
             "mimeType": "image/jpeg",
             "bytes": 97988
         },
-        "a09abee6ad5a84c5e948912aa4d09a6910a56c49466db92e12cae9b8f08908d3": {
-            "file": "images/a09abee6ad5a84c5e948912aa4d09a6910a56c49466db92e12cae9b8f08908d3.jpg",
-            "filename": "paste-638021686788099.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 52480
-        },
-        "b41c26cf16765ec4c5de8753112f86a26eec8e25363e99d239b196c3f5606dfd": {
-            "file": "images/b41c26cf16765ec4c5de8753112f86a26eec8e25363e99d239b196c3f5606dfd.jpg",
-            "filename": "paste-644528562241539.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 71590
-        },
         "bba471e47950d73b09d2427c2f9f34ecdabf286bcc8ba7114da7c0edddf0f3ad": {
             "file": "images/bba471e47950d73b09d2427c2f9f34ecdabf286bcc8ba7114da7c0edddf0f3ad.jpg",
             "filename": "paste-169286135971843.jpg",
             "mimeType": "image/jpeg",
             "bytes": 91340
-        },
-        "bd78a3a4c103ea0ed274bd5ef754ad00174438c9fce7199d32239a53a34e7942": {
-            "file": "images/bd78a3a4c103ea0ed274bd5ef754ad00174438c9fce7199d32239a53a34e7942.jpg",
-            "filename": "paste-634817641185283.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 52199
-        },
-        "be01556d0a9edc1e3ee92acf212fee5500ea23a6cad86d819219c19dc42aa5bb": {
-            "file": "images/be01556d0a9edc1e3ee92acf212fee5500ea23a6cad86d819219c19dc42aa5bb.jpg",
-            "filename": "paste-147106924855299.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 42118
         }
     }
 }

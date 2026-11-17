@@ -18,16 +18,14 @@
         "$Anesthetics_&_Analgesics"
     ],
     "question": {
-        "text": "§\n\nIndication(s) : Propofol",
+        "text": "Indication(s) : Propofol",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nIndication(s) : Propofol\n\n(1) Induction\n(2) Maintenance\n\n(\"Propo-fall-asleep\")\n\n[Image: 59c9c9b6629a124b65b3ea637df7059cc3f595f9bc36eeda34198456d91042e2]\n\n[Image: 1a2e38e954ee3a2cbb32035fd9643e7d0b139ea8f9186542c1dcf87fbe7d9aed]\n\n2.1 - Propofol, etomidate, ketamine\n[Image: 258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc]\n\n[Image: 876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc]",
+        "text": "(1) Induction\n(2) Maintenance\n\n(\"Propo-fall-asleep\")\n\n[Image: 59c9c9b6629a124b65b3ea637df7059cc3f595f9bc36eeda34198456d91042e2]\n\n[Image: 1a2e38e954ee3a2cbb32035fd9643e7d0b139ea8f9186542c1dcf87fbe7d9aed]",
         "imageIds": [
             "59c9c9b6629a124b65b3ea637df7059cc3f595f9bc36eeda34198456d91042e2",
-            "1a2e38e954ee3a2cbb32035fd9643e7d0b139ea8f9186542c1dcf87fbe7d9aed",
-            "258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc",
-            "876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc"
+            "1a2e38e954ee3a2cbb32035fd9643e7d0b139ea8f9186542c1dcf87fbe7d9aed"
         ]
     },
     "images": {
@@ -37,23 +35,11 @@
             "mimeType": "image/jpeg",
             "bytes": 66756
         },
-        "258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc": {
-            "file": "images/258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc.jpg",
-            "filename": "paste-490476675268611.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 83285
-        },
         "59c9c9b6629a124b65b3ea637df7059cc3f595f9bc36eeda34198456d91042e2": {
             "file": "images/59c9c9b6629a124b65b3ea637df7059cc3f595f9bc36eeda34198456d91042e2.jpg",
             "filename": "paste-490734373306371.jpg",
             "mimeType": "image/jpeg",
             "bytes": 64960
-        },
-        "876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc": {
-            "file": "images/876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc.jpg",
-            "filename": "paste-501411662004227.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 93496
         }
     }
 }

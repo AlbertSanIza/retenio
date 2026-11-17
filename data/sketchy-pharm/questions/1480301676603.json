@@ -18,43 +18,22 @@
         "$Cell_Wall_&_Membrane_Active_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nWhich penicillin is used as part of triple therapy for H. pylori infections?",
+        "text": "Which penicillin is used as part of triple therapy for H. pylori infections?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhich penicillin is used as part of triple therapy for H. pylori infections?\n\nAmoxicillin\n\n[Image: f235f45eadc41eccbe92073daba7feef52e9621e03cbac85ecfbb494ccc4489a]\n\n[Image: ba71ed19438812620673ad1bfbdceed1f8ff7ad8c255a036fb4b79566622ae69]\n\n1.3 - Ampicillin, Amoxicillin, Piperacillin, Ticarcillin\n[Image: 73649876eb90940a2752e430d48e8b86fa74f357ee4b66ebcc0c785bdb3d9a75]\n\n[Image: e247dc64a8f74ff65fa3d44949043d8004ba0ee12839e32679e234e2233f2722]\n\n[Image: 8e0858281ca4bfb7a1bd12c078d95409c582c615ea7260b31a32bbb31fa1d57f]",
+        "text": "Amoxicillin\n\n[Image: f235f45eadc41eccbe92073daba7feef52e9621e03cbac85ecfbb494ccc4489a]\n\n[Image: ba71ed19438812620673ad1bfbdceed1f8ff7ad8c255a036fb4b79566622ae69]",
         "imageIds": [
             "f235f45eadc41eccbe92073daba7feef52e9621e03cbac85ecfbb494ccc4489a",
-            "ba71ed19438812620673ad1bfbdceed1f8ff7ad8c255a036fb4b79566622ae69",
-            "73649876eb90940a2752e430d48e8b86fa74f357ee4b66ebcc0c785bdb3d9a75",
-            "e247dc64a8f74ff65fa3d44949043d8004ba0ee12839e32679e234e2233f2722",
-            "8e0858281ca4bfb7a1bd12c078d95409c582c615ea7260b31a32bbb31fa1d57f"
+            "ba71ed19438812620673ad1bfbdceed1f8ff7ad8c255a036fb4b79566622ae69"
         ]
     },
     "images": {
-        "73649876eb90940a2752e430d48e8b86fa74f357ee4b66ebcc0c785bdb3d9a75": {
-            "file": "images/73649876eb90940a2752e430d48e8b86fa74f357ee4b66ebcc0c785bdb3d9a75.jpg",
-            "filename": "paste-62818191671299 (1).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 102811
-        },
-        "8e0858281ca4bfb7a1bd12c078d95409c582c615ea7260b31a32bbb31fa1d57f": {
-            "file": "images/8e0858281ca4bfb7a1bd12c078d95409c582c615ea7260b31a32bbb31fa1d57f.jpg",
-            "filename": "paste-485790865948675.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 36322
-        },
         "ba71ed19438812620673ad1bfbdceed1f8ff7ad8c255a036fb4b79566622ae69": {
             "file": "images/ba71ed19438812620673ad1bfbdceed1f8ff7ad8c255a036fb4b79566622ae69.jpg",
             "filename": "paste-32478542692355.jpg",
             "mimeType": "image/jpeg",
             "bytes": 46898
-        },
-        "e247dc64a8f74ff65fa3d44949043d8004ba0ee12839e32679e234e2233f2722": {
-            "file": "images/e247dc64a8f74ff65fa3d44949043d8004ba0ee12839e32679e234e2233f2722.jpg",
-            "filename": "paste-328711027032067.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 77523
         },
         "f235f45eadc41eccbe92073daba7feef52e9621e03cbac85ecfbb494ccc4489a": {
             "file": "images/f235f45eadc41eccbe92073daba7feef52e9621e03cbac85ecfbb494ccc4489a.jpg",

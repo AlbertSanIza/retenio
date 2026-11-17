@@ -17,31 +17,17 @@
         "$Cell_Wall_&_Membrane_Active_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nWhat is the mechanism of resistance of MRSA?",
+        "text": "What is the mechanism of resistance of MRSA?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat is the mechanism of resistance of MRSA?\n\nAltered PBPs\n\n[Image: ed839e5e202be78cf6dd136640ff6d51f31822c1b5a197b8b3bed61b851a85dd]\n\n[Image: b49bee99782076a962e00b2d930cd58f22bf0536953081bf858f5501c7171d85]\n\n1.2 - Nafcillin, Oxacillin, Methicillin & Dicloxacillin\n[Image: 8ae11397e3a56d2f66c8b7321e66cb6b61822a8bdae8cb8aa32df46483d34242]\n\n[Image: 0e4494860081af6d0e608ea4ecf6718d2a3e5e242eb1ee692ffd1eb6452e88f3]",
+        "text": "Altered PBPs\n\n[Image: ed839e5e202be78cf6dd136640ff6d51f31822c1b5a197b8b3bed61b851a85dd]\n\n[Image: b49bee99782076a962e00b2d930cd58f22bf0536953081bf858f5501c7171d85]",
         "imageIds": [
             "ed839e5e202be78cf6dd136640ff6d51f31822c1b5a197b8b3bed61b851a85dd",
-            "b49bee99782076a962e00b2d930cd58f22bf0536953081bf858f5501c7171d85",
-            "8ae11397e3a56d2f66c8b7321e66cb6b61822a8bdae8cb8aa32df46483d34242",
-            "0e4494860081af6d0e608ea4ecf6718d2a3e5e242eb1ee692ffd1eb6452e88f3"
+            "b49bee99782076a962e00b2d930cd58f22bf0536953081bf858f5501c7171d85"
         ]
     },
     "images": {
-        "0e4494860081af6d0e608ea4ecf6718d2a3e5e242eb1ee692ffd1eb6452e88f3": {
-            "file": "images/0e4494860081af6d0e608ea4ecf6718d2a3e5e242eb1ee692ffd1eb6452e88f3.jpg",
-            "filename": "paste-156182190751747.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 42267
-        },
-        "8ae11397e3a56d2f66c8b7321e66cb6b61822a8bdae8cb8aa32df46483d34242": {
-            "file": "images/8ae11397e3a56d2f66c8b7321e66cb6b61822a8bdae8cb8aa32df46483d34242.jpg",
-            "filename": "paste-174641960189953.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 102866
-        },
         "b49bee99782076a962e00b2d930cd58f22bf0536953081bf858f5501c7171d85": {
             "file": "images/b49bee99782076a962e00b2d930cd58f22bf0536953081bf858f5501c7171d85.jpg",
             "filename": "paste-94884417503233.jpg",

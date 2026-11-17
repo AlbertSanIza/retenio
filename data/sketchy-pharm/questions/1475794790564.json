@@ -18,19 +18,16 @@
         "$Antidepressants&Anxiolytics"
     ],
     "question": {
-        "text": "§\n\nIndications (4) : SSRIs/SNRIs",
+        "text": "Indications (4) : SSRIs/SNRIs",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nIndications (4) : SSRIs/SNRIs\n\n(1) Depression\n(2) Generalized anxiety disorder\n\n(3) Panic disorder\n\n(4) PTSD\n\n[Image: 4c0aef8efb4e49a91f086894cb7d7625126ed7a6239ffb08bdf430c051e7b197]\n\n[Image: 2196b17bdd6ab448b0bc2dbc637972aa41821d6c18e3ea6caee1886af5f6d238]\n\n[Image: 71e5221c1d4515338669fcc1c5f0027129e6899e0fff9a821c00f5372bf10ed8]\n\n[Image: 5a93fb91050459a573d664ed2759f5f5f0db7c6a33c385a61ee6883ece3996ec]\n\n3.1 - SSRIs, SNRIs, cyproheptadine\n[Image: ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6]\n\n[Image: 7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943]\n\n[Image: 8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1]",
+        "text": "(1) Depression\n(2) Generalized anxiety disorder\n\n(3) Panic disorder\n\n(4) PTSD\n\n[Image: 4c0aef8efb4e49a91f086894cb7d7625126ed7a6239ffb08bdf430c051e7b197]\n\n[Image: 2196b17bdd6ab448b0bc2dbc637972aa41821d6c18e3ea6caee1886af5f6d238]\n\n[Image: 71e5221c1d4515338669fcc1c5f0027129e6899e0fff9a821c00f5372bf10ed8]\n\n[Image: 5a93fb91050459a573d664ed2759f5f5f0db7c6a33c385a61ee6883ece3996ec]",
         "imageIds": [
             "4c0aef8efb4e49a91f086894cb7d7625126ed7a6239ffb08bdf430c051e7b197",
             "2196b17bdd6ab448b0bc2dbc637972aa41821d6c18e3ea6caee1886af5f6d238",
             "71e5221c1d4515338669fcc1c5f0027129e6899e0fff9a821c00f5372bf10ed8",
-            "5a93fb91050459a573d664ed2759f5f5f0db7c6a33c385a61ee6883ece3996ec",
-            "ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6",
-            "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943",
-            "8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1"
+            "5a93fb91050459a573d664ed2759f5f5f0db7c6a33c385a61ee6883ece3996ec"
         ]
     },
     "images": {
@@ -57,24 +54,6 @@
             "filename": "paste-12330851106819.jpg",
             "mimeType": "image/jpeg",
             "bytes": 48231
-        },
-        "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943": {
-            "file": "images/7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943.jpg",
-            "filename": "paste-1171594063904771.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 89818
-        },
-        "8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1": {
-            "file": "images/8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1.jpg",
-            "filename": "paste-21088289423363 (2).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 92436
-        },
-        "ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6": {
-            "file": "images/ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6.jpg",
-            "filename": "paste-1134098999410689.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 142260
         }
     }
 }

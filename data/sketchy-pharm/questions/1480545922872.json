@@ -18,21 +18,18 @@
         "$Inhibitors_of_Bacterial_Protein_Synthesis"
     ],
     "question": {
-        "text": "§\n\nName 3 aminoglycosides that are active against Pseudomonas",
+        "text": "Name 3 aminoglycosides that are active against Pseudomonas",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 3 aminoglycosides that are active against Pseudomonas\n\n(1) Gentamicin\n(2) Tobramycin\n\n(3) Amikacin\n\n[Image: 307606a0b73e1641e8f3cda989fe337dd5617f933acd92cce1cc278f4f883c95]\n\n[Image: 27bbe66c72e80fc16ef948c82fb8a9faae56a0705774ae33d0646983e7648599]\n\n[Image: 1c63d03708138d9e39320add8d2abea519973774aa492bb80e699d5599347e48]\n\n[Image: 19ce83e5893af59b635e59192bc10c6d2568c5daa8a02da3bc5e797a193c884e]\n\n[Image: 8e4bc4398734ce7d85eabc09c33f69612a2019764aadff706c3e012f7fe0e38e]\n\n[Image: baa2a95ecc7e15018be0568b9839fd4b5a692f06522ab24eeb22bb329ffe9727]\n\n2.6 - Aminoglycosides\n[Image: 9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d]\n\n[Image: 8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4]\n\n[Image: 4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1]",
+        "text": "(1) Gentamicin\n(2) Tobramycin\n\n(3) Amikacin\n\n[Image: 307606a0b73e1641e8f3cda989fe337dd5617f933acd92cce1cc278f4f883c95]\n\n[Image: 27bbe66c72e80fc16ef948c82fb8a9faae56a0705774ae33d0646983e7648599]\n\n[Image: 1c63d03708138d9e39320add8d2abea519973774aa492bb80e699d5599347e48]\n\n[Image: 19ce83e5893af59b635e59192bc10c6d2568c5daa8a02da3bc5e797a193c884e]\n\n[Image: 8e4bc4398734ce7d85eabc09c33f69612a2019764aadff706c3e012f7fe0e38e]\n\n[Image: baa2a95ecc7e15018be0568b9839fd4b5a692f06522ab24eeb22bb329ffe9727]",
         "imageIds": [
             "307606a0b73e1641e8f3cda989fe337dd5617f933acd92cce1cc278f4f883c95",
             "27bbe66c72e80fc16ef948c82fb8a9faae56a0705774ae33d0646983e7648599",
             "1c63d03708138d9e39320add8d2abea519973774aa492bb80e699d5599347e48",
             "19ce83e5893af59b635e59192bc10c6d2568c5daa8a02da3bc5e797a193c884e",
             "8e4bc4398734ce7d85eabc09c33f69612a2019764aadff706c3e012f7fe0e38e",
-            "baa2a95ecc7e15018be0568b9839fd4b5a692f06522ab24eeb22bb329ffe9727",
-            "9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d",
-            "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4",
-            "4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1"
+            "baa2a95ecc7e15018be0568b9839fd4b5a692f06522ab24eeb22bb329ffe9727"
         ]
     },
     "images": {
@@ -60,29 +57,11 @@
             "mimeType": "image/jpeg",
             "bytes": 38661
         },
-        "4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1": {
-            "file": "images/4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1.jpg",
-            "filename": "paste-32100585570307.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 91413
-        },
-        "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4": {
-            "file": "images/8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4.jpg",
-            "filename": "paste-321710230339587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 76271
-        },
         "8e4bc4398734ce7d85eabc09c33f69612a2019764aadff706c3e012f7fe0e38e": {
             "file": "images/8e4bc4398734ce7d85eabc09c33f69612a2019764aadff706c3e012f7fe0e38e.jpg",
             "filename": "paste-25812753448963.jpg",
             "mimeType": "image/jpeg",
             "bytes": 39282
-        },
-        "9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d": {
-            "file": "images/9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d.jpg",
-            "filename": "paste-232065672937473.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 108815
         },
         "baa2a95ecc7e15018be0568b9839fd4b5a692f06522ab24eeb22bb329ffe9727": {
             "file": "images/baa2a95ecc7e15018be0568b9839fd4b5a692f06522ab24eeb22bb329ffe9727.jpg",

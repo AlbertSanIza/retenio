@@ -18,27 +18,18 @@
         "$Diuretics"
     ],
     "question": {
-        "text": "§\n\nName 4 ion transporters in the collecting duct upregulated by Aldosterone",
+        "text": "Name 4 ion transporters in the collecting duct upregulated by Aldosterone",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 4 ion transporters in the collecting duct upregulated by Aldosterone\n\n(1) K+ channels\n(2) ENaC\n\n(3) Na+/K+ ATPase\n\n(4) H+ ATPase\n\n[Image: 362609da5f60e4e1fc2090a02c06e31f1fe5f39bfdffcec92c3f3610a212d1bd]\n\n[Image: 4bd6eb4d5978a0741702cd7055e43eab7f517235565d2c83fcfce0328bc4b635]\n\n[Image: 96c9373669e29b2e9d9cc0476907045f4c26e53a295fb089f2d5e2e845f4ac56]\n\n2.4 - K+ sparing diuretics\n[Image: e48404dc4b1dabc8844727f0c583d447f593652e51b1fec406a312d1f676c15f]\n\n[Image: 2eb705d63a82b4c062b3184f2a2d03fa393d8e39a9d14cc01e71171806a6c4b2]\n\n[Image: 54dfcadb639ffc739a45b5467bbff497d037b50dd4fdf8e718dc5199e7f0a525]",
+        "text": "(1) K+ channels\n(2) ENaC\n\n(3) Na+/K+ ATPase\n\n(4) H+ ATPase\n\n[Image: 362609da5f60e4e1fc2090a02c06e31f1fe5f39bfdffcec92c3f3610a212d1bd]\n\n[Image: 4bd6eb4d5978a0741702cd7055e43eab7f517235565d2c83fcfce0328bc4b635]\n\n[Image: 96c9373669e29b2e9d9cc0476907045f4c26e53a295fb089f2d5e2e845f4ac56]",
         "imageIds": [
             "362609da5f60e4e1fc2090a02c06e31f1fe5f39bfdffcec92c3f3610a212d1bd",
             "4bd6eb4d5978a0741702cd7055e43eab7f517235565d2c83fcfce0328bc4b635",
-            "96c9373669e29b2e9d9cc0476907045f4c26e53a295fb089f2d5e2e845f4ac56",
-            "e48404dc4b1dabc8844727f0c583d447f593652e51b1fec406a312d1f676c15f",
-            "2eb705d63a82b4c062b3184f2a2d03fa393d8e39a9d14cc01e71171806a6c4b2",
-            "54dfcadb639ffc739a45b5467bbff497d037b50dd4fdf8e718dc5199e7f0a525"
+            "96c9373669e29b2e9d9cc0476907045f4c26e53a295fb089f2d5e2e845f4ac56"
         ]
     },
     "images": {
-        "2eb705d63a82b4c062b3184f2a2d03fa393d8e39a9d14cc01e71171806a6c4b2": {
-            "file": "images/2eb705d63a82b4c062b3184f2a2d03fa393d8e39a9d14cc01e71171806a6c4b2.jpg",
-            "filename": "paste-210702505607171.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 54582
-        },
         "362609da5f60e4e1fc2090a02c06e31f1fe5f39bfdffcec92c3f3610a212d1bd": {
             "file": "images/362609da5f60e4e1fc2090a02c06e31f1fe5f39bfdffcec92c3f3610a212d1bd.jpg",
             "filename": "paste-93557272608771.jpg",
@@ -51,23 +42,11 @@
             "mimeType": "image/jpeg",
             "bytes": 70090
         },
-        "54dfcadb639ffc739a45b5467bbff497d037b50dd4fdf8e718dc5199e7f0a525": {
-            "file": "images/54dfcadb639ffc739a45b5467bbff497d037b50dd4fdf8e718dc5199e7f0a525.jpg",
-            "filename": "paste-198809741164547.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 70593
-        },
         "96c9373669e29b2e9d9cc0476907045f4c26e53a295fb089f2d5e2e845f4ac56": {
             "file": "images/96c9373669e29b2e9d9cc0476907045f4c26e53a295fb089f2d5e2e845f4ac56.jpg",
             "filename": "paste-93935229730819.jpg",
             "mimeType": "image/jpeg",
             "bytes": 63851
-        },
-        "e48404dc4b1dabc8844727f0c583d447f593652e51b1fec406a312d1f676c15f": {
-            "file": "images/e48404dc4b1dabc8844727f0c583d447f593652e51b1fec406a312d1f676c15f.jpg",
-            "filename": "paste-628748852396033.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 168885
         }
     }
 }

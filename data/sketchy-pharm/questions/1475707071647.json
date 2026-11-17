@@ -18,16 +18,13 @@
         "$Vasoactive"
     ],
     "question": {
-        "text": "§\n\nWhat type of heart disease are nitrates contraindicated in?",
+        "text": "What type of heart disease are nitrates contraindicated in?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat type of heart disease are nitrates contraindicated in?\n\nHypertrophic cardiomyopathy\n\n(↓ Chamber vol. exacerbates outflow obstruction and mitral regurgitation)\n\n[Image: 56f89c096abfa32e5c8c73bae58f4d0893046909af82ce69a4cf991a4541e51c]\n\n1.1 - Nitrates\n[Image: 7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74]\n\n[Image: c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d]\n\n[Image: e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584]",
+        "text": "Hypertrophic cardiomyopathy\n\n(↓ Chamber vol. exacerbates outflow obstruction and mitral regurgitation)\n\n[Image: 56f89c096abfa32e5c8c73bae58f4d0893046909af82ce69a4cf991a4541e51c]",
         "imageIds": [
-            "56f89c096abfa32e5c8c73bae58f4d0893046909af82ce69a4cf991a4541e51c",
-            "7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74",
-            "c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d",
-            "e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584"
+            "56f89c096abfa32e5c8c73bae58f4d0893046909af82ce69a4cf991a4541e51c"
         ]
     },
     "images": {
@@ -36,24 +33,6 @@
             "filename": "paste-46179488366595.jpg",
             "mimeType": "image/jpeg",
             "bytes": 71891
-        },
-        "7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74": {
-            "file": "images/7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74.jpg",
-            "filename": "paste-47850230644739 (1).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 154032
-        },
-        "c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d": {
-            "file": "images/c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d.jpg",
-            "filename": "paste-367026430279683.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 114318
-        },
-        "e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584": {
-            "file": "images/e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584.jpg",
-            "filename": "paste-692091030077443.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 83948
         }
     }
 }

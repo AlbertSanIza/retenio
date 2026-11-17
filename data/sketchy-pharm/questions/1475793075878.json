@@ -18,16 +18,14 @@
         "$Sedatives&Hypnotics"
     ],
     "question": {
-        "text": "§\n\nDo non-benzodiazepines cause tolerance?",
+        "text": "Do non-benzodiazepines cause tolerance?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nDo non-benzodiazepines cause tolerance?\n\nMinimally\n\n[Image: 9383cd90543133ac8a2073a1acf531677864266feab0454381db03816eb67ff0]\n\n[Image: 93da4c2e34ca7204faaf8c65a8ce31c195837fa7ee97649fcb3c568b5a80c0d1]\n\n1.2 - Nonbenzodiazepine hypnotics, melatonin, ramelteon\n[Image: c26e57369914287622e90ccbd794e296a902ef296815c1640698020c1992aa99]\n\n[Image: b2e336a8e131880ec626dba7cd8039faaa6d4bb85a01a024a73fd9b26685c692]",
+        "text": "Minimally\n\n[Image: 9383cd90543133ac8a2073a1acf531677864266feab0454381db03816eb67ff0]\n\n[Image: 93da4c2e34ca7204faaf8c65a8ce31c195837fa7ee97649fcb3c568b5a80c0d1]",
         "imageIds": [
             "9383cd90543133ac8a2073a1acf531677864266feab0454381db03816eb67ff0",
-            "93da4c2e34ca7204faaf8c65a8ce31c195837fa7ee97649fcb3c568b5a80c0d1",
-            "c26e57369914287622e90ccbd794e296a902ef296815c1640698020c1992aa99",
-            "b2e336a8e131880ec626dba7cd8039faaa6d4bb85a01a024a73fd9b26685c692"
+            "93da4c2e34ca7204faaf8c65a8ce31c195837fa7ee97649fcb3c568b5a80c0d1"
         ]
     },
     "images": {
@@ -42,18 +40,6 @@
             "filename": "paste-8491150344195.jpg",
             "mimeType": "image/jpeg",
             "bytes": 66674
-        },
-        "b2e336a8e131880ec626dba7cd8039faaa6d4bb85a01a024a73fd9b26685c692": {
-            "file": "images/b2e336a8e131880ec626dba7cd8039faaa6d4bb85a01a024a73fd9b26685c692.jpg",
-            "filename": "paste-158260954923011.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 50982
-        },
-        "c26e57369914287622e90ccbd794e296a902ef296815c1640698020c1992aa99": {
-            "file": "images/c26e57369914287622e90ccbd794e296a902ef296815c1640698020c1992aa99.jpg",
-            "filename": "paste-825273670959105.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 119694
         }
     }
 }

@@ -18,15 +18,13 @@
         "$Allergy&Pulmonary"
     ],
     "question": {
-        "text": "§\n\nWhat type of G-protein is H1 receptor?",
+        "text": "What type of G-protein is H1 receptor?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat type of G-protein is H1 receptor?\n\nGq\n\n[Image: 49aacdc545b09d5274bcca392e1fb338474dd1e4c0a620df98954fe6acca3a2b]\n\n2.1 - Antihistamines\n[Image: f7314b2e975ff14486eeeeef9a70badab37ceceed6d6562b1b54c0cbf86eba91]\n\n[Image: ebf07e64c72b7326f332a528c0bbcb0378877f4ccf7da9beeeaa77a389b9ef4c]",
+        "text": "Gq\n\n[Image: 49aacdc545b09d5274bcca392e1fb338474dd1e4c0a620df98954fe6acca3a2b]",
         "imageIds": [
-            "49aacdc545b09d5274bcca392e1fb338474dd1e4c0a620df98954fe6acca3a2b",
-            "f7314b2e975ff14486eeeeef9a70badab37ceceed6d6562b1b54c0cbf86eba91",
-            "ebf07e64c72b7326f332a528c0bbcb0378877f4ccf7da9beeeaa77a389b9ef4c"
+            "49aacdc545b09d5274bcca392e1fb338474dd1e4c0a620df98954fe6acca3a2b"
         ]
     },
     "images": {
@@ -35,18 +33,6 @@
             "filename": "paste-5939939770371.jpg",
             "mimeType": "image/jpeg",
             "bytes": 70789
-        },
-        "ebf07e64c72b7326f332a528c0bbcb0378877f4ccf7da9beeeaa77a389b9ef4c": {
-            "file": "images/ebf07e64c72b7326f332a528c0bbcb0378877f4ccf7da9beeeaa77a389b9ef4c.jpg",
-            "filename": "paste-233629041033219.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 53438
-        },
-        "f7314b2e975ff14486eeeeef9a70badab37ceceed6d6562b1b54c0cbf86eba91": {
-            "file": "images/f7314b2e975ff14486eeeeef9a70badab37ceceed6d6562b1b54c0cbf86eba91.jpg",
-            "filename": "paste-85160611545091.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 154303
         }
     }
 }

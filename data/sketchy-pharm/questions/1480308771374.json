@@ -18,15 +18,13 @@
         "$Antivirals_HIV"
     ],
     "question": {
-        "text": "§\n\nWhat protease inhibitor is the strongest inhibitor of the CYP450 system?",
+        "text": "What protease inhibitor is the strongest inhibitor of the CYP450 system?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat protease inhibitor is the strongest inhibitor of the CYP450 system?\n\nRitonavir\n\n[Image: 41873e29d6e971b490fb0ba54bc4c2d44f50d861e8f1bd0f7099010146d7dc44]\n\n6.3 - Protease inhibitors\n[Image: 8b63ecfb897f3d225f0e1a50588bff3e91b63aff6044e6239b01f460af74105c]\n\n\u001b\n[Image: cfdf18e2358bb4ffc0214d2eeae51abbb1f9323d201eb5b12151527b43c627fb]\n\u001b\u001b",
+        "text": "Ritonavir\n\n[Image: 41873e29d6e971b490fb0ba54bc4c2d44f50d861e8f1bd0f7099010146d7dc44]",
         "imageIds": [
-            "41873e29d6e971b490fb0ba54bc4c2d44f50d861e8f1bd0f7099010146d7dc44",
-            "8b63ecfb897f3d225f0e1a50588bff3e91b63aff6044e6239b01f460af74105c",
-            "cfdf18e2358bb4ffc0214d2eeae51abbb1f9323d201eb5b12151527b43c627fb"
+            "41873e29d6e971b490fb0ba54bc4c2d44f50d861e8f1bd0f7099010146d7dc44"
         ]
     },
     "images": {
@@ -35,18 +33,6 @@
             "filename": "paste-120903329382403 (1).jpg",
             "mimeType": "image/jpeg",
             "bytes": 59026
-        },
-        "8b63ecfb897f3d225f0e1a50588bff3e91b63aff6044e6239b01f460af74105c": {
-            "file": "images/8b63ecfb897f3d225f0e1a50588bff3e91b63aff6044e6239b01f460af74105c.jpg",
-            "filename": "paste-293114338082817.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 137704
-        },
-        "cfdf18e2358bb4ffc0214d2eeae51abbb1f9323d201eb5b12151527b43c627fb": {
-            "file": "images/cfdf18e2358bb4ffc0214d2eeae51abbb1f9323d201eb5b12151527b43c627fb.jpg",
-            "filename": "paste-535621076516867.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 34046
         }
     }
 }

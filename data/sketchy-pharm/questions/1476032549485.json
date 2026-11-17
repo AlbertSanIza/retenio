@@ -18,56 +18,28 @@
         "$Anticoagulants&Thrombolytics"
     ],
     "question": {
-        "text": "§\n\nContraindications (3) : Thrombolytic therapy",
+        "text": "Contraindications (3) : Thrombolytic therapy",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nContraindications (3) : Thrombolytic therapy\n\n(1) Recent head trauma\n(2) Recent intracranial surgery\n\n(3) Severe hypertension\n\n[Image: aba21acff965154bf53fce3e497052be8b4363b31274739dbe8b526dc4ed7b3c]\n\n[Image: c67f95f39a99fa85d1528b3a536b2eb5620a01a37ccc808d5f6378ed76b3ed15]\n\n1.4 - Thrombolytics\n[Image: c97d692746fe1bbdd95df33fc5ed61a2857c0092adaea02d6e70278e6f47f486]\n\n[Image: 79bfed7172db4b9cd4194469848eaf5644bd064312603d878d78c92a9675b49a]\n\n[Image: c3fc86c8b86793b560d992764fddd3cd1374fb45c40ee17959972514c75c57ad]\n\n[Image: dcb54ca655e04fdd87a661a3fc00fccb5ceb0067d577be9ac50dfa4bff444b32]",
+        "text": "(1) Recent head trauma\n(2) Recent intracranial surgery\n\n(3) Severe hypertension\n\n[Image: aba21acff965154bf53fce3e497052be8b4363b31274739dbe8b526dc4ed7b3c]\n\n[Image: c67f95f39a99fa85d1528b3a536b2eb5620a01a37ccc808d5f6378ed76b3ed15]",
         "imageIds": [
             "aba21acff965154bf53fce3e497052be8b4363b31274739dbe8b526dc4ed7b3c",
-            "c67f95f39a99fa85d1528b3a536b2eb5620a01a37ccc808d5f6378ed76b3ed15",
-            "c97d692746fe1bbdd95df33fc5ed61a2857c0092adaea02d6e70278e6f47f486",
-            "79bfed7172db4b9cd4194469848eaf5644bd064312603d878d78c92a9675b49a",
-            "c3fc86c8b86793b560d992764fddd3cd1374fb45c40ee17959972514c75c57ad",
-            "dcb54ca655e04fdd87a661a3fc00fccb5ceb0067d577be9ac50dfa4bff444b32"
+            "c67f95f39a99fa85d1528b3a536b2eb5620a01a37ccc808d5f6378ed76b3ed15"
         ]
     },
     "images": {
-        "79bfed7172db4b9cd4194469848eaf5644bd064312603d878d78c92a9675b49a": {
-            "file": "images/79bfed7172db4b9cd4194469848eaf5644bd064312603d878d78c92a9675b49a.jpg",
-            "filename": "paste-181818850541571.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 55971
-        },
         "aba21acff965154bf53fce3e497052be8b4363b31274739dbe8b526dc4ed7b3c": {
             "file": "images/aba21acff965154bf53fce3e497052be8b4363b31274739dbe8b526dc4ed7b3c.jpg",
             "filename": "paste-25340307046403.jpg",
             "mimeType": "image/jpeg",
             "bytes": 70859
         },
-        "c3fc86c8b86793b560d992764fddd3cd1374fb45c40ee17959972514c75c57ad": {
-            "file": "images/c3fc86c8b86793b560d992764fddd3cd1374fb45c40ee17959972514c75c57ad.jpg",
-            "filename": "paste-384335148482563.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 62390
-        },
         "c67f95f39a99fa85d1528b3a536b2eb5620a01a37ccc808d5f6378ed76b3ed15": {
             "file": "images/c67f95f39a99fa85d1528b3a536b2eb5620a01a37ccc808d5f6378ed76b3ed15.jpg",
             "filename": "paste-25945897435139.jpg",
             "mimeType": "image/jpeg",
             "bytes": 75358
-        },
-        "c97d692746fe1bbdd95df33fc5ed61a2857c0092adaea02d6e70278e6f47f486": {
-            "file": "images/c97d692746fe1bbdd95df33fc5ed61a2857c0092adaea02d6e70278e6f47f486.jpg",
-            "filename": "paste-23111219019779.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 102920
-        },
-        "dcb54ca655e04fdd87a661a3fc00fccb5ceb0067d577be9ac50dfa4bff444b32": {
-            "file": "images/dcb54ca655e04fdd87a661a3fc00fccb5ceb0067d577be9ac50dfa4bff444b32.jpg",
-            "filename": "paste-385782552461315.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 79084
         }
     }
 }

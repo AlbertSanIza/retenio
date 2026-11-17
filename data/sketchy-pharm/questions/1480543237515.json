@@ -18,44 +18,23 @@
         "$Inhibitors_of_Bacterial_Protein_Synthesis"
     ],
     "question": {
-        "text": "§\n\nName 3 atypical pathogens macrolides are used to treat",
+        "text": "Name 3 atypical pathogens macrolides are used to treat",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 3 atypical pathogens macrolides are used to treat\n\n(1) Mycoplasma\n(2) Legionella\n\n(3) Chlamydia\n\n[Image: 7ed7fe5dbe2b17b38140ffc7629d83deeb8cf25978d1d7370d8bb860c227718e]\n\n[Image: d3fbecd9ce49dc57fbb1c6e2382eb1bb20c7cac85551a862dca959718cc5a2d3]\n\n[Image: 977bd5660614f31ce2ae138ceca3da54e928a6622945afe90176eb06fc14b0cd]\n\n2.2 - Macrolides\n[Image: 190939fabc0a82c201a2fd0c7090bd1746588a112f195201fc2f6a33cc26863a]\n\n[Image: 8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4]\n\n[Image: 373392e6d05258c8e0d2b36a5a062a3a132376066d7db21faa388d4669c4a3fd]",
+        "text": "(1) Mycoplasma\n(2) Legionella\n\n(3) Chlamydia\n\n[Image: 7ed7fe5dbe2b17b38140ffc7629d83deeb8cf25978d1d7370d8bb860c227718e]\n\n[Image: d3fbecd9ce49dc57fbb1c6e2382eb1bb20c7cac85551a862dca959718cc5a2d3]\n\n[Image: 977bd5660614f31ce2ae138ceca3da54e928a6622945afe90176eb06fc14b0cd]",
         "imageIds": [
             "7ed7fe5dbe2b17b38140ffc7629d83deeb8cf25978d1d7370d8bb860c227718e",
             "d3fbecd9ce49dc57fbb1c6e2382eb1bb20c7cac85551a862dca959718cc5a2d3",
-            "977bd5660614f31ce2ae138ceca3da54e928a6622945afe90176eb06fc14b0cd",
-            "190939fabc0a82c201a2fd0c7090bd1746588a112f195201fc2f6a33cc26863a",
-            "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4",
-            "373392e6d05258c8e0d2b36a5a062a3a132376066d7db21faa388d4669c4a3fd"
+            "977bd5660614f31ce2ae138ceca3da54e928a6622945afe90176eb06fc14b0cd"
         ]
     },
     "images": {
-        "190939fabc0a82c201a2fd0c7090bd1746588a112f195201fc2f6a33cc26863a": {
-            "file": "images/190939fabc0a82c201a2fd0c7090bd1746588a112f195201fc2f6a33cc26863a.jpg",
-            "filename": "paste-219288145231873.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 112000
-        },
-        "373392e6d05258c8e0d2b36a5a062a3a132376066d7db21faa388d4669c4a3fd": {
-            "file": "images/373392e6d05258c8e0d2b36a5a062a3a132376066d7db21faa388d4669c4a3fd.jpg",
-            "filename": "paste-407523676913667.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 61060
-        },
         "7ed7fe5dbe2b17b38140ffc7629d83deeb8cf25978d1d7370d8bb860c227718e": {
             "file": "images/7ed7fe5dbe2b17b38140ffc7629d83deeb8cf25978d1d7370d8bb860c227718e.jpg",
             "filename": "paste-10290741641219.jpg",
             "mimeType": "image/jpeg",
             "bytes": 44222
-        },
-        "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4": {
-            "file": "images/8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4.jpg",
-            "filename": "paste-321710230339587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 76271
         },
         "977bd5660614f31ce2ae138ceca3da54e928a6622945afe90176eb06fc14b0cd": {
             "file": "images/977bd5660614f31ce2ae138ceca3da54e928a6622945afe90176eb06fc14b0cd.jpg",

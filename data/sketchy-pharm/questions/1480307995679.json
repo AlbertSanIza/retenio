@@ -18,35 +18,21 @@
         "$Antivirals_HIV"
     ],
     "question": {
-        "text": "§\n\nWhat type of hypersensitivity reaction is associated with Abacavir?",
+        "text": "What type of hypersensitivity reaction is associated with Abacavir?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat type of hypersensitivity reaction is associated with Abacavir?\n\nType IV\n\n[Image: edfd8affd9f440bdd910564911317495049b86023af237ef79e5eca2dba1b2a7]\n\n6.1 - NRTIs\n[Image: f2dc4b00a350da8261c36001e931dd46ecabb7f3e92da2e54e4bcc72a8bcc61e]\n\n[Image: 0c4d3026f6636c102ee5af4eb5ef4c4c73544c1d5ae8516531bab7656f39350f]",
+        "text": "Type IV\n\n[Image: edfd8affd9f440bdd910564911317495049b86023af237ef79e5eca2dba1b2a7]",
         "imageIds": [
-            "edfd8affd9f440bdd910564911317495049b86023af237ef79e5eca2dba1b2a7",
-            "f2dc4b00a350da8261c36001e931dd46ecabb7f3e92da2e54e4bcc72a8bcc61e",
-            "0c4d3026f6636c102ee5af4eb5ef4c4c73544c1d5ae8516531bab7656f39350f"
+            "edfd8affd9f440bdd910564911317495049b86023af237ef79e5eca2dba1b2a7"
         ]
     },
     "images": {
-        "0c4d3026f6636c102ee5af4eb5ef4c4c73544c1d5ae8516531bab7656f39350f": {
-            "file": "images/0c4d3026f6636c102ee5af4eb5ef4c4c73544c1d5ae8516531bab7656f39350f.jpg",
-            "filename": "paste-541874548899843.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 36930
-        },
         "edfd8affd9f440bdd910564911317495049b86023af237ef79e5eca2dba1b2a7": {
             "file": "images/edfd8affd9f440bdd910564911317495049b86023af237ef79e5eca2dba1b2a7.jpg",
             "filename": "paste-118596931944451.jpg",
             "mimeType": "image/jpeg",
             "bytes": 65063
-        },
-        "f2dc4b00a350da8261c36001e931dd46ecabb7f3e92da2e54e4bcc72a8bcc61e": {
-            "file": "images/f2dc4b00a350da8261c36001e931dd46ecabb7f3e92da2e54e4bcc72a8bcc61e.jpg",
-            "filename": "paste-280701882597377.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 154640
         }
     }
 }

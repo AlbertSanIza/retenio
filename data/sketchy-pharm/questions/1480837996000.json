@@ -18,19 +18,15 @@
         "$Antivirals_Others"
     ],
     "question": {
-        "text": "§\n\nWhat electrolyte abnormalities are common with Foscarnet?",
+        "text": "What electrolyte abnormalities are common with Foscarnet?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat electrolyte abnormalities are common with Foscarnet?\n\n(1) ↓ Ca2+\n(2) ↓ Mg2+\n\n(3) ↓ K+\n\n[Image: fe7c9921b094860ff7484093252b926f219c400a9da9a5c264c14487c899a98f]\n\n[Image: 4db99e0242967cd31c9922efd017cda8c5791706fc66c9f9c8febbc2b1d8df17]\n\n[Image: 2ee9f66f283662a083ef5b1ba363f4fd8a330a8e91565379e6f244fa16dd9964]\n\n8.2 - Ganciclovir, valganciclovir, foscarnet, cidofovir\n[Image: c0a7815549d069d5162d4519e272e07b3420df710b5b21c1e465d41dc0284610]\n\n[Image: a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1]\n\n[Image: 9fe32e151e1c25eb94b5dacb1c2c07ceb4b714c20d71142ed3848ce3e06bf657]\n\n[Image: 3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b]",
+        "text": "(1) ↓ Ca2+\n(2) ↓ Mg2+\n\n(3) ↓ K+\n\n[Image: fe7c9921b094860ff7484093252b926f219c400a9da9a5c264c14487c899a98f]\n\n[Image: 4db99e0242967cd31c9922efd017cda8c5791706fc66c9f9c8febbc2b1d8df17]\n\n[Image: 2ee9f66f283662a083ef5b1ba363f4fd8a330a8e91565379e6f244fa16dd9964]",
         "imageIds": [
             "fe7c9921b094860ff7484093252b926f219c400a9da9a5c264c14487c899a98f",
             "4db99e0242967cd31c9922efd017cda8c5791706fc66c9f9c8febbc2b1d8df17",
-            "2ee9f66f283662a083ef5b1ba363f4fd8a330a8e91565379e6f244fa16dd9964",
-            "c0a7815549d069d5162d4519e272e07b3420df710b5b21c1e465d41dc0284610",
-            "a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1",
-            "9fe32e151e1c25eb94b5dacb1c2c07ceb4b714c20d71142ed3848ce3e06bf657",
-            "3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b"
+            "2ee9f66f283662a083ef5b1ba363f4fd8a330a8e91565379e6f244fa16dd9964"
         ]
     },
     "images": {
@@ -40,35 +36,11 @@
             "mimeType": "image/jpeg",
             "bytes": 48471
         },
-        "3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b": {
-            "file": "images/3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b.jpg",
-            "filename": "paste-14950781157379.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 94367
-        },
         "4db99e0242967cd31c9922efd017cda8c5791706fc66c9f9c8febbc2b1d8df17": {
             "file": "images/4db99e0242967cd31c9922efd017cda8c5791706fc66c9f9c8febbc2b1d8df17.jpg",
             "filename": "paste-418261095153667.jpg",
             "mimeType": "image/jpeg",
             "bytes": 40151
-        },
-        "9fe32e151e1c25eb94b5dacb1c2c07ceb4b714c20d71142ed3848ce3e06bf657": {
-            "file": "images/9fe32e151e1c25eb94b5dacb1c2c07ceb4b714c20d71142ed3848ce3e06bf657.jpg",
-            "filename": "paste-17046725197827.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 52654
-        },
-        "a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1": {
-            "file": "images/a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1.jpg",
-            "filename": "paste-305286275399683.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 100859
-        },
-        "c0a7815549d069d5162d4519e272e07b3420df710b5b21c1e465d41dc0284610": {
-            "file": "images/c0a7815549d069d5162d4519e272e07b3420df710b5b21c1e465d41dc0284610.jpg",
-            "filename": "paste-394359602151427.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 70794
         },
         "fe7c9921b094860ff7484093252b926f219c400a9da9a5c264c14487c899a98f": {
             "file": "images/fe7c9921b094860ff7484093252b926f219c400a9da9a5c264c14487c899a98f.jpg",

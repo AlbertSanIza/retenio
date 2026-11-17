@@ -18,16 +18,13 @@
         "$Inhibitors_of_Bacterial_Protein_Synthesis"
     ],
     "question": {
-        "text": "§\n\nContraindication - Autoimmune: Aminoglycosides",
+        "text": "Contraindication - Autoimmune: Aminoglycosides",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nContraindication - Autoimmune: Aminoglycosides\n\nMyasthenia gravis\n\n(Lambert-Eaton too?)\n\n[Image: 0e7080c0b2df4d3cafbc1d441a471ed78a36782c07054837f5afdac2f2709548]\n\n2.6 - Aminoglycosides\n[Image: 9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d]\n\n[Image: 8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4]\n\n[Image: 4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1]",
+        "text": "Myasthenia gravis\n\n(Lambert-Eaton too?)\n\n[Image: 0e7080c0b2df4d3cafbc1d441a471ed78a36782c07054837f5afdac2f2709548]",
         "imageIds": [
-            "0e7080c0b2df4d3cafbc1d441a471ed78a36782c07054837f5afdac2f2709548",
-            "9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d",
-            "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4",
-            "4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1"
+            "0e7080c0b2df4d3cafbc1d441a471ed78a36782c07054837f5afdac2f2709548"
         ]
     },
     "images": {
@@ -36,24 +33,6 @@
             "filename": "paste-27496380628995 (2).jpg",
             "mimeType": "image/jpeg",
             "bytes": 44883
-        },
-        "4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1": {
-            "file": "images/4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1.jpg",
-            "filename": "paste-32100585570307.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 91413
-        },
-        "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4": {
-            "file": "images/8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4.jpg",
-            "filename": "paste-321710230339587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 76271
-        },
-        "9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d": {
-            "file": "images/9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d.jpg",
-            "filename": "paste-232065672937473.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 108815
         }
     }
 }

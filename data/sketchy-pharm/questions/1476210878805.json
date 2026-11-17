@@ -18,42 +18,21 @@
         "$Diuretics"
     ],
     "question": {
-        "text": "§\n\nWhat reaction does intracellular carbonic anhydrase catalyze in the renal tubule?",
+        "text": "What reaction does intracellular carbonic anhydrase catalyze in the renal tubule?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat reaction does intracellular carbonic anhydrase catalyze in the renal tubule?\n\nH2O + CO2 → H+ + HCO3-\n\n[Image: 808818c07483e204c3b62c3beba2687347ce200e39bb190081af8488a2eebc8d]\n\n2.1 - Acetazolamide, mannitol\n[Image: c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311]\n\n[Image: 61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650]\n\n[Image: b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b]",
+        "text": "H2O + CO2 → H+ + HCO3-\n\n[Image: 808818c07483e204c3b62c3beba2687347ce200e39bb190081af8488a2eebc8d]",
         "imageIds": [
-            "808818c07483e204c3b62c3beba2687347ce200e39bb190081af8488a2eebc8d",
-            "c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311",
-            "61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650",
-            "b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b"
+            "808818c07483e204c3b62c3beba2687347ce200e39bb190081af8488a2eebc8d"
         ]
     },
     "images": {
-        "61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650": {
-            "file": "images/61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650.jpg",
-            "filename": "paste-193866233806851.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 57827
-        },
         "808818c07483e204c3b62c3beba2687347ce200e39bb190081af8488a2eebc8d": {
             "file": "images/808818c07483e204c3b62c3beba2687347ce200e39bb190081af8488a2eebc8d.jpg",
             "filename": "paste-50530290237443.jpg",
             "mimeType": "image/jpeg",
             "bytes": 56559
-        },
-        "b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b": {
-            "file": "images/b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b.jpg",
-            "filename": "paste-195395242164227.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 82442
-        },
-        "c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311": {
-            "file": "images/c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311.jpg",
-            "filename": "paste-612616955232257.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 146047
         }
     }
 }

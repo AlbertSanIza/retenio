@@ -18,33 +18,17 @@
         "$Antimetabolites"
     ],
     "question": {
-        "text": "§\n\nWhat is the precursor to dTMP?",
+        "text": "What is the precursor to dTMP?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat is the precursor to dTMP?\n\ndUMP\n\n[Image: 9271eab63cd7ce2093007d69859b5f53e61cc3b991e14dc88211aad5b4a9d4f9]\n\n[Image: a977832bbd8eac02c0ad29e7bc6fa58ce7b97275ef3a9333f85a87cf77b6524b]\n\n1.1 - Methotrexate, leucovorin, 5-fluorouracil, hydroxyurea\n[Image: 62d369da2900702f60cd36e1bc35c329bfe8271149816eac8050ac0c1b8bfd14]\n\n[Image: ed347b61d9a5db6d536463b914491c82ed7605f4ba7a817a2e0b6a9da73dc373]\n\n[Image: 2a1e378b1723d814e08cccf3c3d69b6139f022b818600e13d8fbd8737e3b5a90]\n\n[Image: e19f5a1ffca1b6101ba47e85c3245210cc16464227cefb77f324c5526bbbd848]",
+        "text": "dUMP\n\n[Image: 9271eab63cd7ce2093007d69859b5f53e61cc3b991e14dc88211aad5b4a9d4f9]\n\n[Image: a977832bbd8eac02c0ad29e7bc6fa58ce7b97275ef3a9333f85a87cf77b6524b]",
         "imageIds": [
             "9271eab63cd7ce2093007d69859b5f53e61cc3b991e14dc88211aad5b4a9d4f9",
-            "a977832bbd8eac02c0ad29e7bc6fa58ce7b97275ef3a9333f85a87cf77b6524b",
-            "62d369da2900702f60cd36e1bc35c329bfe8271149816eac8050ac0c1b8bfd14",
-            "ed347b61d9a5db6d536463b914491c82ed7605f4ba7a817a2e0b6a9da73dc373",
-            "2a1e378b1723d814e08cccf3c3d69b6139f022b818600e13d8fbd8737e3b5a90",
-            "e19f5a1ffca1b6101ba47e85c3245210cc16464227cefb77f324c5526bbbd848"
+            "a977832bbd8eac02c0ad29e7bc6fa58ce7b97275ef3a9333f85a87cf77b6524b"
         ]
     },
     "images": {
-        "2a1e378b1723d814e08cccf3c3d69b6139f022b818600e13d8fbd8737e3b5a90": {
-            "file": "images/2a1e378b1723d814e08cccf3c3d69b6139f022b818600e13d8fbd8737e3b5a90.jpg",
-            "filename": "paste-166064910499843.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 9871
-        },
-        "62d369da2900702f60cd36e1bc35c329bfe8271149816eac8050ac0c1b8bfd14": {
-            "file": "images/62d369da2900702f60cd36e1bc35c329bfe8271149816eac8050ac0c1b8bfd14.jpg",
-            "filename": "paste-329273667747841.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 137898
-        },
         "9271eab63cd7ce2093007d69859b5f53e61cc3b991e14dc88211aad5b4a9d4f9": {
             "file": "images/9271eab63cd7ce2093007d69859b5f53e61cc3b991e14dc88211aad5b4a9d4f9.jpg",
             "filename": "paste-31666793873411 (1).jpg",
@@ -56,18 +40,6 @@
             "filename": "paste-31714038513667.jpg",
             "mimeType": "image/jpeg",
             "bytes": 30125
-        },
-        "e19f5a1ffca1b6101ba47e85c3245210cc16464227cefb77f324c5526bbbd848": {
-            "file": "images/e19f5a1ffca1b6101ba47e85c3245210cc16464227cefb77f324c5526bbbd848.jpg",
-            "filename": "paste-55825984913411.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 121727
-        },
-        "ed347b61d9a5db6d536463b914491c82ed7605f4ba7a817a2e0b6a9da73dc373": {
-            "file": "images/ed347b61d9a5db6d536463b914491c82ed7605f4ba7a817a2e0b6a9da73dc373.jpg",
-            "filename": "paste-162650411499523.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 35588
         }
     }
 }

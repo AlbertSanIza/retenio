@@ -18,19 +18,13 @@
         "$Antipsychotics_&_Parkinsons"
     ],
     "question": {
-        "text": "§\n\nWhat drug can be used to alleviate the peripheral side effects of L-DOPA?",
+        "text": "What drug can be used to alleviate the peripheral side effects of L-DOPA?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat drug can be used to alleviate the peripheral side effects of L-DOPA?\n\nCarbidopa\n\n[Image: 4016ecb9f3b4862cd9e311d69f17459b6c745dd983efec4d1bfdfbac6046e253]\n\n5.3 - Levodopa/carbidopa, entacapone, tolcapone, selegiline, ropinirole, pramipexole, amantadine\n[Image: 4c52000b31f9fd212d2c05df63fca40e79e8d7a0cdbe062102b5f34c80adaec2]\n\n[Image: f800f088dc48d94759751b37fecbf710fbe5748729f4fe3267e00c78039d1f39]\n\n[Image: bb7b2fc62457f43096878aa768cc7ee5a9156b0cd10a607ae61eb1e8c87ce013]\n\n[Image: d718d5fe550b992855dd38fc6e58d4669b51d662bd4139833eac03d8d482f703]\n\n[Image: 64fcb46e063f2fe0ea22a5d83f5e357b48a503c46d5b5486580c84f58f7def20]\n\n[Image: 8ec855a71c433ab36ccfa1d63c6b342b86485927e37adacfa5d0bef1074e64ef]",
+        "text": "Carbidopa\n\n[Image: 4016ecb9f3b4862cd9e311d69f17459b6c745dd983efec4d1bfdfbac6046e253]",
         "imageIds": [
-            "4016ecb9f3b4862cd9e311d69f17459b6c745dd983efec4d1bfdfbac6046e253",
-            "4c52000b31f9fd212d2c05df63fca40e79e8d7a0cdbe062102b5f34c80adaec2",
-            "f800f088dc48d94759751b37fecbf710fbe5748729f4fe3267e00c78039d1f39",
-            "bb7b2fc62457f43096878aa768cc7ee5a9156b0cd10a607ae61eb1e8c87ce013",
-            "d718d5fe550b992855dd38fc6e58d4669b51d662bd4139833eac03d8d482f703",
-            "64fcb46e063f2fe0ea22a5d83f5e357b48a503c46d5b5486580c84f58f7def20",
-            "8ec855a71c433ab36ccfa1d63c6b342b86485927e37adacfa5d0bef1074e64ef"
+            "4016ecb9f3b4862cd9e311d69f17459b6c745dd983efec4d1bfdfbac6046e253"
         ]
     },
     "images": {
@@ -39,42 +33,6 @@
             "filename": "paste-257131102076931.jpg",
             "mimeType": "image/jpeg",
             "bytes": 67834
-        },
-        "4c52000b31f9fd212d2c05df63fca40e79e8d7a0cdbe062102b5f34c80adaec2": {
-            "file": "images/4c52000b31f9fd212d2c05df63fca40e79e8d7a0cdbe062102b5f34c80adaec2.jpg",
-            "filename": "paste-193148974268419.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 119101
-        },
-        "64fcb46e063f2fe0ea22a5d83f5e357b48a503c46d5b5486580c84f58f7def20": {
-            "file": "images/64fcb46e063f2fe0ea22a5d83f5e357b48a503c46d5b5486580c84f58f7def20.jpg",
-            "filename": "paste-333104778575875.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 72587
-        },
-        "8ec855a71c433ab36ccfa1d63c6b342b86485927e37adacfa5d0bef1074e64ef": {
-            "file": "images/8ec855a71c433ab36ccfa1d63c6b342b86485927e37adacfa5d0bef1074e64ef.jpg",
-            "filename": "paste-336162795290627.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 83364
-        },
-        "bb7b2fc62457f43096878aa768cc7ee5a9156b0cd10a607ae61eb1e8c87ce013": {
-            "file": "images/bb7b2fc62457f43096878aa768cc7ee5a9156b0cd10a607ae61eb1e8c87ce013.jpg",
-            "filename": "paste-56775172685827.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 83251
-        },
-        "d718d5fe550b992855dd38fc6e58d4669b51d662bd4139833eac03d8d482f703": {
-            "file": "images/d718d5fe550b992855dd38fc6e58d4669b51d662bd4139833eac03d8d482f703.jpg",
-            "filename": "paste-329947977613315.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 142035
-        },
-        "f800f088dc48d94759751b37fecbf710fbe5748729f4fe3267e00c78039d1f39": {
-            "file": "images/f800f088dc48d94759751b37fecbf710fbe5748729f4fe3267e00c78039d1f39.jpg",
-            "filename": "paste-13975823581187 (1).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 21438
         }
     }
 }

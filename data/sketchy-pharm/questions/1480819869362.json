@@ -18,17 +18,14 @@
         "$Other_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nMOA: Trimethoprim",
+        "text": "MOA: Trimethoprim",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nMOA: Trimethoprim\n\nInhibits dihydrofolate reductase\n\n(TmP ∝ TP)\n\n[Image: e22efead548df1dd05a0c7f38fc3802b82ddad20a4653f51aa6786541c8b52e9]\n\n[Image: 19a5b0534cfacbfa64ad53d4ad8ff0ecf44cab8f61ab677f07a27a5dc01fb854]\n\n4.1 - Trimethoprim/Sulfamethoxazole\n[Image: 37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da]\n\n[Image: 415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9]\n\n[Image: 302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70]",
+        "text": "Inhibits dihydrofolate reductase\n\n(TmP ∝ TP)\n\n[Image: e22efead548df1dd05a0c7f38fc3802b82ddad20a4653f51aa6786541c8b52e9]\n\n[Image: 19a5b0534cfacbfa64ad53d4ad8ff0ecf44cab8f61ab677f07a27a5dc01fb854]",
         "imageIds": [
             "e22efead548df1dd05a0c7f38fc3802b82ddad20a4653f51aa6786541c8b52e9",
-            "19a5b0534cfacbfa64ad53d4ad8ff0ecf44cab8f61ab677f07a27a5dc01fb854",
-            "37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da",
-            "415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9",
-            "302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70"
+            "19a5b0534cfacbfa64ad53d4ad8ff0ecf44cab8f61ab677f07a27a5dc01fb854"
         ]
     },
     "images": {
@@ -37,24 +34,6 @@
             "filename": "paste-200437533769731.jpg",
             "mimeType": "image/jpeg",
             "bytes": 49902
-        },
-        "302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70": {
-            "file": "images/302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70.jpg",
-            "filename": "paste-184696478629891.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 30701
-        },
-        "37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da": {
-            "file": "images/37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da.jpg",
-            "filename": "paste-247265562198017.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 141182
-        },
-        "415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9": {
-            "file": "images/415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9.jpg",
-            "filename": "paste-413223098515459.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 75809
         },
         "e22efead548df1dd05a0c7f38fc3802b82ddad20a4653f51aa6786541c8b52e9": {
             "file": "images/e22efead548df1dd05a0c7f38fc3802b82ddad20a4653f51aa6786541c8b52e9.jpg",

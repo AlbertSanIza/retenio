@@ -18,46 +18,23 @@
         "$Kinase_Inhibitors_&_MonoclonalAbs"
     ],
     "question": {
-        "text": "§\n\nAdverse Effects (2) : Sunitinib",
+        "text": "Adverse Effects (2) : Sunitinib",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAdverse Effects (2) : Sunitinib\n\n(1) Hyperkeratosis and skin rashes\n(2) Hemorrhages\n\n(Sorafenib also carries the same risks)\n\n[Image: 940e5678d4ce580e970029d045c64477871ce440a354b981a0fc09993b3fbcc9]\n\n[Image: 3c2928018d4f4fdd3665324e71e8f090e957f1f0a5516249bb9411ab4e406820]\n\n[Image: dd0d63bd8b920d23a43602f32b98de4a3f4d13df0cd6f6f7da1156b069121039]\n\n3.1 - Imatinib, erlotinib, sorafenib, sunitinib, vemurafenib\n[Image: a6b1d3f472df434e35a39a7224894dc9e6d03a18671399f296d9a8367b80f434]\n\n[Image: 6ea6096aae9fc4e40d2dcf03f321623aefdc6e01e88debd3bcf75c8716b7b23d]\n\n[Image: e3423014c22f4dbb7b5bda03efed5adbe2d1876813166ec6f9c1ec86d1fde6e7]\n\n[Image: 75426a20157d20092596278bb55f986dc36f2f77d55240106a419612cb872d2c]\n\n[Image: 05e6700ac3bbcaea20d848dd91efe4370e31e614d50483e63773a7e472632df8]",
+        "text": "(1) Hyperkeratosis and skin rashes\n(2) Hemorrhages\n\n(Sorafenib also carries the same risks)\n\n[Image: 940e5678d4ce580e970029d045c64477871ce440a354b981a0fc09993b3fbcc9]\n\n[Image: 3c2928018d4f4fdd3665324e71e8f090e957f1f0a5516249bb9411ab4e406820]\n\n[Image: dd0d63bd8b920d23a43602f32b98de4a3f4d13df0cd6f6f7da1156b069121039]",
         "imageIds": [
             "940e5678d4ce580e970029d045c64477871ce440a354b981a0fc09993b3fbcc9",
             "3c2928018d4f4fdd3665324e71e8f090e957f1f0a5516249bb9411ab4e406820",
-            "dd0d63bd8b920d23a43602f32b98de4a3f4d13df0cd6f6f7da1156b069121039",
-            "a6b1d3f472df434e35a39a7224894dc9e6d03a18671399f296d9a8367b80f434",
-            "6ea6096aae9fc4e40d2dcf03f321623aefdc6e01e88debd3bcf75c8716b7b23d",
-            "e3423014c22f4dbb7b5bda03efed5adbe2d1876813166ec6f9c1ec86d1fde6e7",
-            "75426a20157d20092596278bb55f986dc36f2f77d55240106a419612cb872d2c",
-            "05e6700ac3bbcaea20d848dd91efe4370e31e614d50483e63773a7e472632df8"
+            "dd0d63bd8b920d23a43602f32b98de4a3f4d13df0cd6f6f7da1156b069121039"
         ]
     },
     "images": {
-        "05e6700ac3bbcaea20d848dd91efe4370e31e614d50483e63773a7e472632df8": {
-            "file": "images/05e6700ac3bbcaea20d848dd91efe4370e31e614d50483e63773a7e472632df8.jpg",
-            "filename": "paste-330222855520259.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 22381
-        },
         "3c2928018d4f4fdd3665324e71e8f090e957f1f0a5516249bb9411ab4e406820": {
             "file": "images/3c2928018d4f4fdd3665324e71e8f090e957f1f0a5516249bb9411ab4e406820.jpg",
             "filename": "paste-8942121910275.jpg",
             "mimeType": "image/jpeg",
             "bytes": 53773
-        },
-        "6ea6096aae9fc4e40d2dcf03f321623aefdc6e01e88debd3bcf75c8716b7b23d": {
-            "file": "images/6ea6096aae9fc4e40d2dcf03f321623aefdc6e01e88debd3bcf75c8716b7b23d.jpg",
-            "filename": "paste-37280316129283 (1).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 84861
-        },
-        "75426a20157d20092596278bb55f986dc36f2f77d55240106a419612cb872d2c": {
-            "file": "images/75426a20157d20092596278bb55f986dc36f2f77d55240106a419612cb872d2c.jpg",
-            "filename": "paste-326542068547587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 29038
         },
         "940e5678d4ce580e970029d045c64477871ce440a354b981a0fc09993b3fbcc9": {
             "file": "images/940e5678d4ce580e970029d045c64477871ce440a354b981a0fc09993b3fbcc9.jpg",
@@ -65,23 +42,11 @@
             "mimeType": "image/jpeg",
             "bytes": 68620
         },
-        "a6b1d3f472df434e35a39a7224894dc9e6d03a18671399f296d9a8367b80f434": {
-            "file": "images/a6b1d3f472df434e35a39a7224894dc9e6d03a18671399f296d9a8367b80f434.jpg",
-            "filename": "paste-386186279387137.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 108227
-        },
         "dd0d63bd8b920d23a43602f32b98de4a3f4d13df0cd6f6f7da1156b069121039": {
             "file": "images/dd0d63bd8b920d23a43602f32b98de4a3f4d13df0cd6f6f7da1156b069121039.jpg",
             "filename": "paste-8688718839811.jpg",
             "mimeType": "image/jpeg",
             "bytes": 49464
-        },
-        "e3423014c22f4dbb7b5bda03efed5adbe2d1876813166ec6f9c1ec86d1fde6e7": {
-            "file": "images/e3423014c22f4dbb7b5bda03efed5adbe2d1876813166ec6f9c1ec86d1fde6e7.jpg",
-            "filename": "paste-323204878958595.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 20598
         }
     }
 }

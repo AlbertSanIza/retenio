@@ -18,42 +18,21 @@
         "$Mood_Stabilizers_&_Antiepileptics"
     ],
     "question": {
-        "text": "§\n\nMOA: Ethosuximide",
+        "text": "MOA: Ethosuximide",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nMOA: Ethosuximide\n\nInhibits thalamic T-type Ca2+ channels\n\n(\"If you think about it, thermos even kind of sounds like thalamus!\")\n\n[Image: 39689dbe5158e6db0e531b5f585366873d0acffef7f0d9d1b940cc07371eab56]\n\n4.4 - Ethosuximide\n[Image: a9420e1faaa2ea538a1b416d2dcf6fb3f421f9616b885d26dde79c82bb7cc20b]\n\n[Image: 2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a]\n\n[Image: fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5]",
+        "text": "Inhibits thalamic T-type Ca2+ channels\n\n(\"If you think about it, thermos even kind of sounds like thalamus!\")\n\n[Image: 39689dbe5158e6db0e531b5f585366873d0acffef7f0d9d1b940cc07371eab56]",
         "imageIds": [
-            "39689dbe5158e6db0e531b5f585366873d0acffef7f0d9d1b940cc07371eab56",
-            "a9420e1faaa2ea538a1b416d2dcf6fb3f421f9616b885d26dde79c82bb7cc20b",
-            "2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a",
-            "fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5"
+            "39689dbe5158e6db0e531b5f585366873d0acffef7f0d9d1b940cc07371eab56"
         ]
     },
     "images": {
-        "2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a": {
-            "file": "images/2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a.jpg",
-            "filename": "paste-688547682058243.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 102555
-        },
         "39689dbe5158e6db0e531b5f585366873d0acffef7f0d9d1b940cc07371eab56": {
             "file": "images/39689dbe5158e6db0e531b5f585366873d0acffef7f0d9d1b940cc07371eab56.jpg",
             "filename": "paste-804138136895491.jpg",
             "mimeType": "image/jpeg",
             "bytes": 81299
-        },
-        "a9420e1faaa2ea538a1b416d2dcf6fb3f421f9616b885d26dde79c82bb7cc20b": {
-            "file": "images/a9420e1faaa2ea538a1b416d2dcf6fb3f421f9616b885d26dde79c82bb7cc20b.jpg",
-            "filename": "paste-803519661604867.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 87637
-        },
-        "fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5": {
-            "file": "images/fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5.jpg",
-            "filename": "paste-69565585293315.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 91284
         }
     }
 }

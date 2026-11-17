@@ -18,17 +18,14 @@
         "$Antidepressants&Anxiolytics"
     ],
     "question": {
-        "text": "§\n\nWhat are the symptoms of serotonin syndrome?",
+        "text": "What are the symptoms of serotonin syndrome?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat are the symptoms of serotonin syndrome?\n\n(1) Hypertension\n(2) Hyperthermia\n\n(3) Hyperreflexia\n\n[Image: 275313ac6a1664659463b44ed9e5fe819b507d59ddea3ceb41d215e94a1a5318]\n\n[Image: eb00dcc03663490afc7f884c70eb3a2f7341291d8169b79ddf25b091482706a3]\n\n3.1 - SSRIs, SNRIs, cyproheptadine\n[Image: ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6]\n\n[Image: 7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943]\n\n[Image: 8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1]",
+        "text": "(1) Hypertension\n(2) Hyperthermia\n\n(3) Hyperreflexia\n\n[Image: 275313ac6a1664659463b44ed9e5fe819b507d59ddea3ceb41d215e94a1a5318]\n\n[Image: eb00dcc03663490afc7f884c70eb3a2f7341291d8169b79ddf25b091482706a3]",
         "imageIds": [
             "275313ac6a1664659463b44ed9e5fe819b507d59ddea3ceb41d215e94a1a5318",
-            "eb00dcc03663490afc7f884c70eb3a2f7341291d8169b79ddf25b091482706a3",
-            "ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6",
-            "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943",
-            "8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1"
+            "eb00dcc03663490afc7f884c70eb3a2f7341291d8169b79ddf25b091482706a3"
         ]
     },
     "images": {
@@ -37,24 +34,6 @@
             "filename": "paste-15045270437891.jpg",
             "mimeType": "image/jpeg",
             "bytes": 70304
-        },
-        "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943": {
-            "file": "images/7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943.jpg",
-            "filename": "paste-1171594063904771.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 89818
-        },
-        "8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1": {
-            "file": "images/8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1.jpg",
-            "filename": "paste-21088289423363 (2).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 92436
-        },
-        "ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6": {
-            "file": "images/ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6.jpg",
-            "filename": "paste-1134098999410689.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 142260
         },
         "eb00dcc03663490afc7f884c70eb3a2f7341291d8169b79ddf25b091482706a3": {
             "file": "images/eb00dcc03663490afc7f884c70eb3a2f7341291d8169b79ddf25b091482706a3.jpg",

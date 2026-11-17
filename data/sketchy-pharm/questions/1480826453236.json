@@ -18,20 +18,17 @@
         "$Antifungals"
     ],
     "question": {
-        "text": "§\n\nName 4 systemic antifungals which can be used to treat esophageal candidiasis",
+        "text": "Name 4 systemic antifungals which can be used to treat esophageal candidiasis",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 4 systemic antifungals which can be used to treat esophageal candidiasis\n\n(1) Voraconazole\n(2) Fluconazole\n\n(3) Amphotericin B\n\n(4) Capsofungin\n\n[Image: ff91cc2cb8c644b9e01382e36ad675c374a0b0c1a78a9de46b8ead6a33b818a0]\n\n[Image: 10ce140accc6dfd215c718576cca91b86ad6339f29a0d0b0136e8479b3f32e7c]\n\n[Image: e44dfe8f6dc8c6d94343f6fd756994daeb11c93b3d68a9214e153f3ea6a9e396]\n\n[Image: 4cf4e89928a45aacab3fa2b22a84c0c9d203a112fc625a4329c0f0d8bd1b6873]\n\n[Image: cf088c0536023188d48e49af62194d71c3e7c651ec54fde70962d13807eda0ad]\n\n5.2 - Azoles\n[Image: b4c80df813ad6a6588ec141052d0bc0dfc887db53d1294365b5e1df24fd347da]\n\n[Image: 9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63]\n\n[Image: 3594b98443f5a56d34c4e5381332ec926dfe5a8060d7f82251ca8ff632397622]",
+        "text": "(1) Voraconazole\n(2) Fluconazole\n\n(3) Amphotericin B\n\n(4) Capsofungin\n\n[Image: ff91cc2cb8c644b9e01382e36ad675c374a0b0c1a78a9de46b8ead6a33b818a0]\n\n[Image: 10ce140accc6dfd215c718576cca91b86ad6339f29a0d0b0136e8479b3f32e7c]\n\n[Image: e44dfe8f6dc8c6d94343f6fd756994daeb11c93b3d68a9214e153f3ea6a9e396]\n\n[Image: 4cf4e89928a45aacab3fa2b22a84c0c9d203a112fc625a4329c0f0d8bd1b6873]\n\n[Image: cf088c0536023188d48e49af62194d71c3e7c651ec54fde70962d13807eda0ad]",
         "imageIds": [
             "ff91cc2cb8c644b9e01382e36ad675c374a0b0c1a78a9de46b8ead6a33b818a0",
             "10ce140accc6dfd215c718576cca91b86ad6339f29a0d0b0136e8479b3f32e7c",
             "e44dfe8f6dc8c6d94343f6fd756994daeb11c93b3d68a9214e153f3ea6a9e396",
             "4cf4e89928a45aacab3fa2b22a84c0c9d203a112fc625a4329c0f0d8bd1b6873",
-            "cf088c0536023188d48e49af62194d71c3e7c651ec54fde70962d13807eda0ad",
-            "b4c80df813ad6a6588ec141052d0bc0dfc887db53d1294365b5e1df24fd347da",
-            "9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63",
-            "3594b98443f5a56d34c4e5381332ec926dfe5a8060d7f82251ca8ff632397622"
+            "cf088c0536023188d48e49af62194d71c3e7c651ec54fde70962d13807eda0ad"
         ]
     },
     "images": {
@@ -41,29 +38,11 @@
             "mimeType": "image/jpeg",
             "bytes": 53444
         },
-        "3594b98443f5a56d34c4e5381332ec926dfe5a8060d7f82251ca8ff632397622": {
-            "file": "images/3594b98443f5a56d34c4e5381332ec926dfe5a8060d7f82251ca8ff632397622.jpg",
-            "filename": "paste-476183024107523.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 43784
-        },
         "4cf4e89928a45aacab3fa2b22a84c0c9d203a112fc625a4329c0f0d8bd1b6873": {
             "file": "images/4cf4e89928a45aacab3fa2b22a84c0c9d203a112fc625a4329c0f0d8bd1b6873.jpg",
             "filename": "paste-451817674637315.jpg",
             "mimeType": "image/jpeg",
             "bytes": 73903
-        },
-        "9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63": {
-            "file": "images/9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63.jpg",
-            "filename": "paste-468138550362115.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 53292
-        },
-        "b4c80df813ad6a6588ec141052d0bc0dfc887db53d1294365b5e1df24fd347da": {
-            "file": "images/b4c80df813ad6a6588ec141052d0bc0dfc887db53d1294365b5e1df24fd347da.jpg",
-            "filename": "paste-271081155854337.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 139643
         },
         "cf088c0536023188d48e49af62194d71c3e7c651ec54fde70962d13807eda0ad": {
             "file": "images/cf088c0536023188d48e49af62194d71c3e7c651ec54fde70962d13807eda0ad.jpg",

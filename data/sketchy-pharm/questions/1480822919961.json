@@ -18,31 +18,17 @@
         "$Other_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nName an (1) antibiotic and (2) endocrine drug which have been associated with a Disulfiram-like reaction",
+        "text": "Name an (1) antibiotic and (2) endocrine drug which have been associated with a Disulfiram-like reaction",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName an (1) antibiotic and (2) endocrine drug which have been associated with a Disulfiram-like reaction\n\n(1) Antibiotic: Metronidazole\n(2) Endocrine: Chlorpropamide\n\n[Image: b6ee2913a52d6037c78daba79e1f9bc76932ff85357deedbede463d0530deac4]\n\n[Image: 91318044a224d2179f237ad702dd5fe815b242f28b4f9ca5348f788f28d71341]\n\n4.3 - Metronidazole\n[Image: 7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4]\n\n[Image: 3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf]",
+        "text": "(1) Antibiotic: Metronidazole\n(2) Endocrine: Chlorpropamide\n\n[Image: b6ee2913a52d6037c78daba79e1f9bc76932ff85357deedbede463d0530deac4]\n\n[Image: 91318044a224d2179f237ad702dd5fe815b242f28b4f9ca5348f788f28d71341]",
         "imageIds": [
             "b6ee2913a52d6037c78daba79e1f9bc76932ff85357deedbede463d0530deac4",
-            "91318044a224d2179f237ad702dd5fe815b242f28b4f9ca5348f788f28d71341",
-            "7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4",
-            "3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf"
+            "91318044a224d2179f237ad702dd5fe815b242f28b4f9ca5348f788f28d71341"
         ]
     },
     "images": {
-        "3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf": {
-            "file": "images/3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf.jpg",
-            "filename": "paste-187277753974787.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 55370
-        },
-        "7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4": {
-            "file": "images/7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4.jpg",
-            "filename": "paste-262010184925185.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 111887
-        },
         "91318044a224d2179f237ad702dd5fe815b242f28b4f9ca5348f788f28d71341": {
             "file": "images/91318044a224d2179f237ad702dd5fe815b242f28b4f9ca5348f788f28d71341.jpg",
             "filename": "paste-42009075122179.jpg",

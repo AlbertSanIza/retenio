@@ -18,15 +18,13 @@
         "$Sedatives&Hypnotics"
     ],
     "question": {
-        "text": "§\n\nWhich drug class binds to the same allosteric site as benzodiazepines?",
+        "text": "Which drug class binds to the same allosteric site as benzodiazepines?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhich drug class binds to the same allosteric site as benzodiazepines?\n\nNon-benzodiazepine hypnotics\n\n[Image: a629d623bc1835ce2827c71cc730c78292f88a90d86f5b5d532c4d37aa16b6a3]\n\n1.2 - Nonbenzodiazepine hypnotics, melatonin, ramelteon\n[Image: c26e57369914287622e90ccbd794e296a902ef296815c1640698020c1992aa99]\n\n[Image: b2e336a8e131880ec626dba7cd8039faaa6d4bb85a01a024a73fd9b26685c692]",
+        "text": "Non-benzodiazepine hypnotics\n\n[Image: a629d623bc1835ce2827c71cc730c78292f88a90d86f5b5d532c4d37aa16b6a3]",
         "imageIds": [
-            "a629d623bc1835ce2827c71cc730c78292f88a90d86f5b5d532c4d37aa16b6a3",
-            "c26e57369914287622e90ccbd794e296a902ef296815c1640698020c1992aa99",
-            "b2e336a8e131880ec626dba7cd8039faaa6d4bb85a01a024a73fd9b26685c692"
+            "a629d623bc1835ce2827c71cc730c78292f88a90d86f5b5d532c4d37aa16b6a3"
         ]
     },
     "images": {
@@ -35,18 +33,6 @@
             "filename": "paste-8220567404547.jpg",
             "mimeType": "image/jpeg",
             "bytes": 60536
-        },
-        "b2e336a8e131880ec626dba7cd8039faaa6d4bb85a01a024a73fd9b26685c692": {
-            "file": "images/b2e336a8e131880ec626dba7cd8039faaa6d4bb85a01a024a73fd9b26685c692.jpg",
-            "filename": "paste-158260954923011.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 50982
-        },
-        "c26e57369914287622e90ccbd794e296a902ef296815c1640698020c1992aa99": {
-            "file": "images/c26e57369914287622e90ccbd794e296a902ef296815c1640698020c1992aa99.jpg",
-            "filename": "paste-825273670959105.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 119694
         }
     }
 }

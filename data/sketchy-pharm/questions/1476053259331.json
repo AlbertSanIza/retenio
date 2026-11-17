@@ -18,35 +18,21 @@
         "$Allergy&Pulmonary"
     ],
     "question": {
-        "text": "§\n\nWhy do H1-blockers cause cognitive impairment in the elderly?",
+        "text": "Why do H1-blockers cause cognitive impairment in the elderly?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhy do H1-blockers cause cognitive impairment in the elderly?\n\n(1) Central antihistamine effects\n(2) Central antimuscarinic effects\n\n[Image: f3e1e8d1c30f42f09e6264d6fd39dca8759d706e7b8e509802dff30b3bfcf302]\n\n2.1 - Antihistamines\n[Image: f7314b2e975ff14486eeeeef9a70badab37ceceed6d6562b1b54c0cbf86eba91]\n\n[Image: ebf07e64c72b7326f332a528c0bbcb0378877f4ccf7da9beeeaa77a389b9ef4c]",
+        "text": "(1) Central antihistamine effects\n(2) Central antimuscarinic effects\n\n[Image: f3e1e8d1c30f42f09e6264d6fd39dca8759d706e7b8e509802dff30b3bfcf302]",
         "imageIds": [
-            "f3e1e8d1c30f42f09e6264d6fd39dca8759d706e7b8e509802dff30b3bfcf302",
-            "f7314b2e975ff14486eeeeef9a70badab37ceceed6d6562b1b54c0cbf86eba91",
-            "ebf07e64c72b7326f332a528c0bbcb0378877f4ccf7da9beeeaa77a389b9ef4c"
+            "f3e1e8d1c30f42f09e6264d6fd39dca8759d706e7b8e509802dff30b3bfcf302"
         ]
     },
     "images": {
-        "ebf07e64c72b7326f332a528c0bbcb0378877f4ccf7da9beeeaa77a389b9ef4c": {
-            "file": "images/ebf07e64c72b7326f332a528c0bbcb0378877f4ccf7da9beeeaa77a389b9ef4c.jpg",
-            "filename": "paste-233629041033219.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 53438
-        },
         "f3e1e8d1c30f42f09e6264d6fd39dca8759d706e7b8e509802dff30b3bfcf302": {
             "file": "images/f3e1e8d1c30f42f09e6264d6fd39dca8759d706e7b8e509802dff30b3bfcf302.jpg",
             "filename": "paste-11038065950723.jpg",
             "mimeType": "image/jpeg",
             "bytes": 98803
-        },
-        "f7314b2e975ff14486eeeeef9a70badab37ceceed6d6562b1b54c0cbf86eba91": {
-            "file": "images/f7314b2e975ff14486eeeeef9a70badab37ceceed6d6562b1b54c0cbf86eba91.jpg",
-            "filename": "paste-85160611545091.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 154303
         }
     }
 }

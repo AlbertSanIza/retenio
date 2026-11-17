@@ -18,21 +18,18 @@
         "$Diuretics"
     ],
     "question": {
-        "text": "§\n\nAdverse Effects (7) : Thiazides",
+        "text": "Adverse Effects (7) : Thiazides",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAdverse Effects (7) : Thiazides\n\n(1) Hypercalcemia\n(2) Hyperglycemia\n\n(3) Hyperlipidemia\n\n(4) Hyperuricemia\n\n(5) ↑ Serum Li+\n\n(6) Hyponatremia\n\n(7) Hypokalemia\n\n(\"Hydrochlorothiazide at the high dive makes a lot of labs high!\")\n\n[Image: bfbfa295ba1a8d05b2a5c0614672763b087566823aac84c6af153ecda0e39568]\n\n[Image: 29a516b298267ebf31bb39297b66885a29279909a9fb167b2f3d7deaa4b419cb]\n\n[Image: 6ce9636889e367342611bfc842e06c7c6af260b63d1d3b0ad63eed55fe3c662b]\n\n[Image: d5dc959fcfd5ef53af591a6fc4939b5622959172e4d495dc9cb9aeaf758a7380]\n\n[Image: 3d4e2d605bcfda64b30731aecc0a1d9cfc6ad23f455eb61b0758467ce76d0975]\n\n[Image: 012037228908a7383a83a171f987bc2e3a694e699b6bebcd6d44fb72f6aabd86]\n\n2.3 - Thiazides\n[Image: a5a59fef330fe02b89052204b14e10d5dee2c1296e5d97581aa2b331bb3a4342]\n\n[Image: 0b633d1ad98cf4dfb153c8a5f7e3b1f9ea2c1fa40896efea8d14971580df2658]\n\n[Image: e6e88325112ce114c3b542f6b7b5b2940db081cf6a98f199c896ed0dec87c53a]",
+        "text": "(1) Hypercalcemia\n(2) Hyperglycemia\n\n(3) Hyperlipidemia\n\n(4) Hyperuricemia\n\n(5) ↑ Serum Li+\n\n(6) Hyponatremia\n\n(7) Hypokalemia\n\n(\"Hydrochlorothiazide at the high dive makes a lot of labs high!\")\n\n[Image: bfbfa295ba1a8d05b2a5c0614672763b087566823aac84c6af153ecda0e39568]\n\n[Image: 29a516b298267ebf31bb39297b66885a29279909a9fb167b2f3d7deaa4b419cb]\n\n[Image: 6ce9636889e367342611bfc842e06c7c6af260b63d1d3b0ad63eed55fe3c662b]\n\n[Image: d5dc959fcfd5ef53af591a6fc4939b5622959172e4d495dc9cb9aeaf758a7380]\n\n[Image: 3d4e2d605bcfda64b30731aecc0a1d9cfc6ad23f455eb61b0758467ce76d0975]\n\n[Image: 012037228908a7383a83a171f987bc2e3a694e699b6bebcd6d44fb72f6aabd86]",
         "imageIds": [
             "bfbfa295ba1a8d05b2a5c0614672763b087566823aac84c6af153ecda0e39568",
             "29a516b298267ebf31bb39297b66885a29279909a9fb167b2f3d7deaa4b419cb",
             "6ce9636889e367342611bfc842e06c7c6af260b63d1d3b0ad63eed55fe3c662b",
             "d5dc959fcfd5ef53af591a6fc4939b5622959172e4d495dc9cb9aeaf758a7380",
             "3d4e2d605bcfda64b30731aecc0a1d9cfc6ad23f455eb61b0758467ce76d0975",
-            "012037228908a7383a83a171f987bc2e3a694e699b6bebcd6d44fb72f6aabd86",
-            "a5a59fef330fe02b89052204b14e10d5dee2c1296e5d97581aa2b331bb3a4342",
-            "0b633d1ad98cf4dfb153c8a5f7e3b1f9ea2c1fa40896efea8d14971580df2658",
-            "e6e88325112ce114c3b542f6b7b5b2940db081cf6a98f199c896ed0dec87c53a"
+            "012037228908a7383a83a171f987bc2e3a694e699b6bebcd6d44fb72f6aabd86"
         ]
     },
     "images": {
@@ -41,12 +38,6 @@
             "filename": "paste-47815870906371.jpg",
             "mimeType": "image/jpeg",
             "bytes": 192056
-        },
-        "0b633d1ad98cf4dfb153c8a5f7e3b1f9ea2c1fa40896efea8d14971580df2658": {
-            "file": "images/0b633d1ad98cf4dfb153c8a5f7e3b1f9ea2c1fa40896efea8d14971580df2658.jpg",
-            "filename": "paste-201738908860419.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 33095
         },
         "29a516b298267ebf31bb39297b66885a29279909a9fb167b2f3d7deaa4b419cb": {
             "file": "images/29a516b298267ebf31bb39297b66885a29279909a9fb167b2f3d7deaa4b419cb.jpg",
@@ -66,12 +57,6 @@
             "mimeType": "image/jpeg",
             "bytes": 63028
         },
-        "a5a59fef330fe02b89052204b14e10d5dee2c1296e5d97581aa2b331bb3a4342": {
-            "file": "images/a5a59fef330fe02b89052204b14e10d5dee2c1296e5d97581aa2b331bb3a4342.jpg",
-            "filename": "paste-622430955503617.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 168603
-        },
         "bfbfa295ba1a8d05b2a5c0614672763b087566823aac84c6af153ecda0e39568": {
             "file": "images/bfbfa295ba1a8d05b2a5c0614672763b087566823aac84c6af153ecda0e39568.jpg",
             "filename": "paste-76832669958147.jpg",
@@ -83,12 +68,6 @@
             "filename": "paste-47738561495043.jpg",
             "mimeType": "image/jpeg",
             "bytes": 182574
-        },
-        "e6e88325112ce114c3b542f6b7b5b2940db081cf6a98f199c896ed0dec87c53a": {
-            "file": "images/e6e88325112ce114c3b542f6b7b5b2940db081cf6a98f199c896ed0dec87c53a.jpg",
-            "filename": "paste-197048804573187.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 54248
         }
     }
 }

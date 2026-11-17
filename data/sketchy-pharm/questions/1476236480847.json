@@ -18,42 +18,21 @@
         "$Diuretics"
     ],
     "question": {
-        "text": "§\n\nWhat is the difference in mechanism of Ca2+ reabsorption in DCT vs. TAL?",
+        "text": "What is the difference in mechanism of Ca2+ reabsorption in DCT vs. TAL?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat is the difference in mechanism of Ca2+ reabsorption in DCT vs. TAL?\n\n(1) DCT: Active transport\n(2) TAL: Driven by (+) lumenal voltage\n\n[Image: 3fffda0065c4352b10827ad94560a98ab3672fa036e421b93f2dc0818f95318e]\n\n2.3 - Thiazides\n[Image: a5a59fef330fe02b89052204b14e10d5dee2c1296e5d97581aa2b331bb3a4342]\n\n[Image: 0b633d1ad98cf4dfb153c8a5f7e3b1f9ea2c1fa40896efea8d14971580df2658]\n\n[Image: e6e88325112ce114c3b542f6b7b5b2940db081cf6a98f199c896ed0dec87c53a]",
+        "text": "(1) DCT: Active transport\n(2) TAL: Driven by (+) lumenal voltage\n\n[Image: 3fffda0065c4352b10827ad94560a98ab3672fa036e421b93f2dc0818f95318e]",
         "imageIds": [
-            "3fffda0065c4352b10827ad94560a98ab3672fa036e421b93f2dc0818f95318e",
-            "a5a59fef330fe02b89052204b14e10d5dee2c1296e5d97581aa2b331bb3a4342",
-            "0b633d1ad98cf4dfb153c8a5f7e3b1f9ea2c1fa40896efea8d14971580df2658",
-            "e6e88325112ce114c3b542f6b7b5b2940db081cf6a98f199c896ed0dec87c53a"
+            "3fffda0065c4352b10827ad94560a98ab3672fa036e421b93f2dc0818f95318e"
         ]
     },
     "images": {
-        "0b633d1ad98cf4dfb153c8a5f7e3b1f9ea2c1fa40896efea8d14971580df2658": {
-            "file": "images/0b633d1ad98cf4dfb153c8a5f7e3b1f9ea2c1fa40896efea8d14971580df2658.jpg",
-            "filename": "paste-201738908860419.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 33095
-        },
         "3fffda0065c4352b10827ad94560a98ab3672fa036e421b93f2dc0818f95318e": {
             "file": "images/3fffda0065c4352b10827ad94560a98ab3672fa036e421b93f2dc0818f95318e.jpg",
             "filename": "paste-75063143432195.jpg",
             "mimeType": "image/jpeg",
             "bytes": 55646
-        },
-        "a5a59fef330fe02b89052204b14e10d5dee2c1296e5d97581aa2b331bb3a4342": {
-            "file": "images/a5a59fef330fe02b89052204b14e10d5dee2c1296e5d97581aa2b331bb3a4342.jpg",
-            "filename": "paste-622430955503617.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 168603
-        },
-        "e6e88325112ce114c3b542f6b7b5b2940db081cf6a98f199c896ed0dec87c53a": {
-            "file": "images/e6e88325112ce114c3b542f6b7b5b2940db081cf6a98f199c896ed0dec87c53a.jpg",
-            "filename": "paste-197048804573187.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 54248
         }
     }
 }

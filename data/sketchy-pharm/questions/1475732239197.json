@@ -18,32 +18,17 @@
         "$Sympathetics"
     ],
     "question": {
-        "text": "§\n\nName 2 non-selective β + α1 blockers",
+        "text": "Name 2 non-selective β + α1 blockers",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 2 non-selective β + α1 blockers\n\n(1) Carvedilol\n(2) Labetalol\n\n(Notice this class differs from the \"-olol\" suffix)\n\n[Image: 8c37c7b366faee1a7f836f5bc6e921322f76e97850953240376a0387dfb36e00]\n\n[Image: db2b16fb4701fdca2d4568fd1d079776744db484ad08fd6ebb56923e729db813]\n\n2.4 - Beta blockers\n[Image: ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98]\n\n[Image: 0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173]\n\n[Image: 6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6]",
+        "text": "(1) Carvedilol\n(2) Labetalol\n\n(Notice this class differs from the \"-olol\" suffix)\n\n[Image: 8c37c7b366faee1a7f836f5bc6e921322f76e97850953240376a0387dfb36e00]\n\n[Image: db2b16fb4701fdca2d4568fd1d079776744db484ad08fd6ebb56923e729db813]",
         "imageIds": [
             "8c37c7b366faee1a7f836f5bc6e921322f76e97850953240376a0387dfb36e00",
-            "db2b16fb4701fdca2d4568fd1d079776744db484ad08fd6ebb56923e729db813",
-            "ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98",
-            "0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173",
-            "6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6"
+            "db2b16fb4701fdca2d4568fd1d079776744db484ad08fd6ebb56923e729db813"
         ]
     },
     "images": {
-        "0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173": {
-            "file": "images/0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173.jpg",
-            "filename": "paste-302687820185603.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 107698
-        },
-        "6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6": {
-            "file": "images/6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6.jpg",
-            "filename": "paste-305681412390915.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 63928
-        },
         "8c37c7b366faee1a7f836f5bc6e921322f76e97850953240376a0387dfb36e00": {
             "file": "images/8c37c7b366faee1a7f836f5bc6e921322f76e97850953240376a0387dfb36e00.jpg",
             "filename": "paste-36236639076355.jpg",
@@ -55,12 +40,6 @@
             "filename": "paste-36837934497795.jpg",
             "mimeType": "image/jpeg",
             "bytes": 56182
-        },
-        "ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98": {
-            "file": "images/ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98.jpg",
-            "filename": "paste-438146793734145.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 122524
         }
     }
 }

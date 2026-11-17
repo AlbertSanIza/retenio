@@ -18,50 +18,22 @@
         "$Antivirals_Hepatitis"
     ],
     "question": {
-        "text": "§\n\nWhich interferon can be used to treat chronic granulomatous disease?",
+        "text": "Which interferon can be used to treat chronic granulomatous disease?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhich interferon can be used to treat chronic granulomatous disease?\n\ninterferon-γ\n\n[Image: 5a9b3e788480a2ee93715efe35c8e71dd82767c7127382c420a43f071ad9b1da]\n\n[Image: eabaf93a6a571afc2f6b8901d0d96f0bea99dc33d7de870a15684ff116b90201]\n\n7.1 - Interferon α, β, γ\n[Image: db7fffca7a87b1edcb43a80dada92e43df78f363bfd66ef11a1d5e07eb37ce0e]\n\n[Image: 53767074790b2004650dbcd94cf1cb8ce3d08d57fa9775aa9eb4100e875bcac8]\n\n[Image: 025bbeb74adc387ad29e899b27ccbb9ca627fd0f9a8434e966f187d7b7f6eb27]\n\n[Image: 449c10e1b1005871a0f84515ac85157f372c0e66ddae20e354c7aeff85c19eba]",
+        "text": "interferon-γ\n\n[Image: 5a9b3e788480a2ee93715efe35c8e71dd82767c7127382c420a43f071ad9b1da]\n\n[Image: eabaf93a6a571afc2f6b8901d0d96f0bea99dc33d7de870a15684ff116b90201]",
         "imageIds": [
             "5a9b3e788480a2ee93715efe35c8e71dd82767c7127382c420a43f071ad9b1da",
-            "eabaf93a6a571afc2f6b8901d0d96f0bea99dc33d7de870a15684ff116b90201",
-            "db7fffca7a87b1edcb43a80dada92e43df78f363bfd66ef11a1d5e07eb37ce0e",
-            "53767074790b2004650dbcd94cf1cb8ce3d08d57fa9775aa9eb4100e875bcac8",
-            "025bbeb74adc387ad29e899b27ccbb9ca627fd0f9a8434e966f187d7b7f6eb27",
-            "449c10e1b1005871a0f84515ac85157f372c0e66ddae20e354c7aeff85c19eba"
+            "eabaf93a6a571afc2f6b8901d0d96f0bea99dc33d7de870a15684ff116b90201"
         ]
     },
     "images": {
-        "025bbeb74adc387ad29e899b27ccbb9ca627fd0f9a8434e966f187d7b7f6eb27": {
-            "file": "images/025bbeb74adc387ad29e899b27ccbb9ca627fd0f9a8434e966f187d7b7f6eb27.jpg",
-            "filename": "paste-19877108645891 (1).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 63903
-        },
-        "449c10e1b1005871a0f84515ac85157f372c0e66ddae20e354c7aeff85c19eba": {
-            "file": "images/449c10e1b1005871a0f84515ac85157f372c0e66ddae20e354c7aeff85c19eba.jpg",
-            "filename": "paste-105342662868995 (1).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 71116
-        },
-        "53767074790b2004650dbcd94cf1cb8ce3d08d57fa9775aa9eb4100e875bcac8": {
-            "file": "images/53767074790b2004650dbcd94cf1cb8ce3d08d57fa9775aa9eb4100e875bcac8.jpg",
-            "filename": "paste-555652803985411.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 21590
-        },
         "5a9b3e788480a2ee93715efe35c8e71dd82767c7127382c420a43f071ad9b1da": {
             "file": "images/5a9b3e788480a2ee93715efe35c8e71dd82767c7127382c420a43f071ad9b1da.jpg",
             "filename": "paste-379335806550019.jpg",
             "mimeType": "image/jpeg",
             "bytes": 46398
-        },
-        "db7fffca7a87b1edcb43a80dada92e43df78f363bfd66ef11a1d5e07eb37ce0e": {
-            "file": "images/db7fffca7a87b1edcb43a80dada92e43df78f363bfd66ef11a1d5e07eb37ce0e.jpg",
-            "filename": "paste-302674935283713.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 119855
         },
         "eabaf93a6a571afc2f6b8901d0d96f0bea99dc33d7de870a15684ff116b90201": {
             "file": "images/eabaf93a6a571afc2f6b8901d0d96f0bea99dc33d7de870a15684ff116b90201.jpg",

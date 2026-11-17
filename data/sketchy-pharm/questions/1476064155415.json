@@ -18,56 +18,21 @@
         "$Vasoactive"
     ],
     "question": {
-        "text": "§\n\nTreatment: Acute cluster headache",
+        "text": "Treatment: Acute cluster headache",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nTreatment: Acute cluster headache\n\nTriptans + O2\n\n[Image: 8dcc524ec0e21407fd832c50731a0bb99f19f20ca8323b85f6f81f0a9ba12359]\n\n1.2 - Triptans & migraine\n[Image: 87d39a37b9677f30316c491925915ea32f6adf2d9a294769fa23c8d560241cae]\n\n[Image: 4fbfeda942ec0b810468e759032d265f3d65cc17a1a48de7d7ade13ee796d204]\n\n[Image: 601743efb7696cd8e1e2e0049bf6c7eee264c17320ad02d719faacb3bdd47795]\n\n[Image: 3ff216dc25329b0578c282564faf825af0a8bbc6b6d8a190f7ff9ec11474c672]\n\n[Image: 962d878072821d4c44be2f25f861ac957892fb1c18db3ffb41509b51e1d143cc]",
+        "text": "Triptans + O2\n\n[Image: 8dcc524ec0e21407fd832c50731a0bb99f19f20ca8323b85f6f81f0a9ba12359]",
         "imageIds": [
-            "8dcc524ec0e21407fd832c50731a0bb99f19f20ca8323b85f6f81f0a9ba12359",
-            "87d39a37b9677f30316c491925915ea32f6adf2d9a294769fa23c8d560241cae",
-            "4fbfeda942ec0b810468e759032d265f3d65cc17a1a48de7d7ade13ee796d204",
-            "601743efb7696cd8e1e2e0049bf6c7eee264c17320ad02d719faacb3bdd47795",
-            "3ff216dc25329b0578c282564faf825af0a8bbc6b6d8a190f7ff9ec11474c672",
-            "962d878072821d4c44be2f25f861ac957892fb1c18db3ffb41509b51e1d143cc"
+            "8dcc524ec0e21407fd832c50731a0bb99f19f20ca8323b85f6f81f0a9ba12359"
         ]
     },
     "images": {
-        "3ff216dc25329b0578c282564faf825af0a8bbc6b6d8a190f7ff9ec11474c672": {
-            "file": "images/3ff216dc25329b0578c282564faf825af0a8bbc6b6d8a190f7ff9ec11474c672.jpg",
-            "filename": "paste-129523328745475.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 36200
-        },
-        "4fbfeda942ec0b810468e759032d265f3d65cc17a1a48de7d7ade13ee796d204": {
-            "file": "images/4fbfeda942ec0b810468e759032d265f3d65cc17a1a48de7d7ade13ee796d204.jpg",
-            "filename": "paste-133350144606211.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 121431
-        },
-        "601743efb7696cd8e1e2e0049bf6c7eee264c17320ad02d719faacb3bdd47795": {
-            "file": "images/601743efb7696cd8e1e2e0049bf6c7eee264c17320ad02d719faacb3bdd47795.jpg",
-            "filename": "paste-1289241808076803.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 124687
-        },
-        "87d39a37b9677f30316c491925915ea32f6adf2d9a294769fa23c8d560241cae": {
-            "file": "images/87d39a37b9677f30316c491925915ea32f6adf2d9a294769fa23c8d560241cae.jpg",
-            "filename": "paste-67680094650371.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 129097
-        },
         "8dcc524ec0e21407fd832c50731a0bb99f19f20ca8323b85f6f81f0a9ba12359": {
             "file": "images/8dcc524ec0e21407fd832c50731a0bb99f19f20ca8323b85f6f81f0a9ba12359.jpg",
             "filename": "paste-80410377715715.jpg",
             "mimeType": "image/jpeg",
             "bytes": 71206
-        },
-        "962d878072821d4c44be2f25f861ac957892fb1c18db3ffb41509b51e1d143cc": {
-            "file": "images/962d878072821d4c44be2f25f861ac957892fb1c18db3ffb41509b51e1d143cc.jpg",
-            "filename": "paste-104685532872707.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 94003
         }
     }
 }

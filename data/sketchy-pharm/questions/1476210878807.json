@@ -18,18 +18,15 @@
         "$Diuretics"
     ],
     "question": {
-        "text": "§\n\nName 3 effects Acetazolamide has on renal electrolyte concentrations",
+        "text": "Name 3 effects Acetazolamide has on renal electrolyte concentrations",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 3 effects Acetazolamide has on renal electrolyte concentrations\n\n(1) ↑ HCO3-\n(2) ↑ Na+\n\n(3) ↑ K+\n\n(↓ CA ⇒ ↓ Intracellular H+ ⇒ Inhibition of Na+/H+ exchanger ⇒ ↑ lumenal [Na+])\n\n[Image: 2d35b75d2b65b443d1e35aaf83946595116a4bfaa6ab82a3d65275693b215424]\n\n[Image: c80d65611bc474a041fccfbc756a79a5ea4a51aa5d54927fcbca46798ca02b4c]\n\n[Image: 00fdf6cd98faa0a6ddde1e76dbabd4183d6bdca7887ac44f9e8c9993df8f9d2a]\n\n2.1 - Acetazolamide, mannitol\n[Image: c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311]\n\n[Image: 61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650]\n\n[Image: b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b]",
+        "text": "(1) ↑ HCO3-\n(2) ↑ Na+\n\n(3) ↑ K+\n\n(↓ CA ⇒ ↓ Intracellular H+ ⇒ Inhibition of Na+/H+ exchanger ⇒ ↑ lumenal [Na+])\n\n[Image: 2d35b75d2b65b443d1e35aaf83946595116a4bfaa6ab82a3d65275693b215424]\n\n[Image: c80d65611bc474a041fccfbc756a79a5ea4a51aa5d54927fcbca46798ca02b4c]\n\n[Image: 00fdf6cd98faa0a6ddde1e76dbabd4183d6bdca7887ac44f9e8c9993df8f9d2a]",
         "imageIds": [
             "2d35b75d2b65b443d1e35aaf83946595116a4bfaa6ab82a3d65275693b215424",
             "c80d65611bc474a041fccfbc756a79a5ea4a51aa5d54927fcbca46798ca02b4c",
-            "00fdf6cd98faa0a6ddde1e76dbabd4183d6bdca7887ac44f9e8c9993df8f9d2a",
-            "c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311",
-            "61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650",
-            "b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b"
+            "00fdf6cd98faa0a6ddde1e76dbabd4183d6bdca7887ac44f9e8c9993df8f9d2a"
         ]
     },
     "images": {
@@ -44,24 +41,6 @@
             "filename": "paste-52463025520643.jpg",
             "mimeType": "image/jpeg",
             "bytes": 55331
-        },
-        "61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650": {
-            "file": "images/61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650.jpg",
-            "filename": "paste-193866233806851.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 57827
-        },
-        "b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b": {
-            "file": "images/b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b.jpg",
-            "filename": "paste-195395242164227.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 82442
-        },
-        "c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311": {
-            "file": "images/c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311.jpg",
-            "filename": "paste-612616955232257.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 146047
         },
         "c80d65611bc474a041fccfbc756a79a5ea4a51aa5d54927fcbca46798ca02b4c": {
             "file": "images/c80d65611bc474a041fccfbc756a79a5ea4a51aa5d54927fcbca46798ca02b4c.jpg",

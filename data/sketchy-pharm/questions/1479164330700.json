@@ -18,20 +18,16 @@
         "$Anti-inflammatory"
     ],
     "question": {
-        "text": "§\n\nName 3 classes of drugs used in the acute treatment of gout",
+        "text": "Name 3 classes of drugs used in the acute treatment of gout",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 3 classes of drugs used in the acute treatment of gout\n\n(1) NSAIDs (Indomethacin)\n(2) Glucocorticoids\n\n(3) Colchicine\n\n[Image: f5c16e0001eff2b6ba01bc5503f697c0acf449b3e7de93f8f8d0c32512fd0a9d]\n\n[Image: 77005ce640b0fbf5672362f52d7efdbaa19e8c5022484b938b4e05bd6dbde50f]\n\n[Image: 8cf1f9cdff36f2b3fce48e55c9c407bf0c3605b4d6c294c33b4d7bd5bd31c2bc]\n\n[Image: 2e6196b944d5ba832416667428f9ef3b24ef3234b9c8cb99e80d17c05fd51e5f]\n\n3.2 - Gout Drugs\n[Image: be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df]\n\n[Image: 558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616]\n\n[Image: d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b]\n\n[Image: a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730]",
+        "text": "(1) NSAIDs (Indomethacin)\n(2) Glucocorticoids\n\n(3) Colchicine\n\n[Image: f5c16e0001eff2b6ba01bc5503f697c0acf449b3e7de93f8f8d0c32512fd0a9d]\n\n[Image: 77005ce640b0fbf5672362f52d7efdbaa19e8c5022484b938b4e05bd6dbde50f]\n\n[Image: 8cf1f9cdff36f2b3fce48e55c9c407bf0c3605b4d6c294c33b4d7bd5bd31c2bc]\n\n[Image: 2e6196b944d5ba832416667428f9ef3b24ef3234b9c8cb99e80d17c05fd51e5f]",
         "imageIds": [
             "f5c16e0001eff2b6ba01bc5503f697c0acf449b3e7de93f8f8d0c32512fd0a9d",
             "77005ce640b0fbf5672362f52d7efdbaa19e8c5022484b938b4e05bd6dbde50f",
             "8cf1f9cdff36f2b3fce48e55c9c407bf0c3605b4d6c294c33b4d7bd5bd31c2bc",
-            "2e6196b944d5ba832416667428f9ef3b24ef3234b9c8cb99e80d17c05fd51e5f",
-            "be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df",
-            "558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616",
-            "d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b",
-            "a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730"
+            "2e6196b944d5ba832416667428f9ef3b24ef3234b9c8cb99e80d17c05fd51e5f"
         ]
     },
     "images": {
@@ -40,12 +36,6 @@
             "filename": "paste-25404731555843.jpg",
             "mimeType": "image/jpeg",
             "bytes": 47411
-        },
-        "558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616": {
-            "file": "images/558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616.jpg",
-            "filename": "paste-121358595915779.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 132759
         },
         "77005ce640b0fbf5672362f52d7efdbaa19e8c5022484b938b4e05bd6dbde50f": {
             "file": "images/77005ce640b0fbf5672362f52d7efdbaa19e8c5022484b938b4e05bd6dbde50f.jpg",
@@ -58,24 +48,6 @@
             "filename": "paste-22041772163075 (1).jpg",
             "mimeType": "image/jpeg",
             "bytes": 50660
-        },
-        "a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730": {
-            "file": "images/a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730.jpg",
-            "filename": "paste-123982820933635.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 34602
-        },
-        "be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df": {
-            "file": "images/be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df.jpg",
-            "filename": "paste-583518551801857.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 158251
-        },
-        "d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b": {
-            "file": "images/d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b.jpg",
-            "filename": "paste-113215337922563.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 184086
         },
         "f5c16e0001eff2b6ba01bc5503f697c0acf449b3e7de93f8f8d0c32512fd0a9d": {
             "file": "images/f5c16e0001eff2b6ba01bc5503f697c0acf449b3e7de93f8f8d0c32512fd0a9d.jpg",

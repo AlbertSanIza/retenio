@@ -18,37 +18,16 @@
         "$Antivirals_Hepatitis"
     ],
     "question": {
-        "text": "§\n\nWho is considered a candidate for treatment of Hepatitis C?",
+        "text": "Who is considered a candidate for treatment of Hepatitis C?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWho is considered a candidate for treatment of Hepatitis C?\n\nEveryone with virologic evidence of infection\n\n(With the possible exception of those with limited life expectancy)\n\n[Image: f347f01f8d682487f1cfb47a42cd02ad7a5077c8c1f03f03a5638d8f472359c0]\n\n7.2 - Ribavirin, sofosbuvir, simeprevir\n[Image: cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1]\n\n[Image: 27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc]\n\n[Image: c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81]\n\u001b\u001b",
+        "text": "Everyone with virologic evidence of infection\n\n(With the possible exception of those with limited life expectancy)\n\n[Image: f347f01f8d682487f1cfb47a42cd02ad7a5077c8c1f03f03a5638d8f472359c0]",
         "imageIds": [
-            "f347f01f8d682487f1cfb47a42cd02ad7a5077c8c1f03f03a5638d8f472359c0",
-            "cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1",
-            "27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc",
-            "c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81"
+            "f347f01f8d682487f1cfb47a42cd02ad7a5077c8c1f03f03a5638d8f472359c0"
         ]
     },
     "images": {
-        "27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc": {
-            "file": "images/27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc.jpg",
-            "filename": "paste-380113195630595.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 70126
-        },
-        "c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81": {
-            "file": "images/c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81.jpg",
-            "filename": "paste-755235639263235.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 72171
-        },
-        "cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1": {
-            "file": "images/cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1.jpg",
-            "filename": "paste-308125248782337.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 122787
-        },
         "f347f01f8d682487f1cfb47a42cd02ad7a5077c8c1f03f03a5638d8f472359c0": {
             "file": "images/f347f01f8d682487f1cfb47a42cd02ad7a5077c8c1f03f03a5638d8f472359c0.jpg",
             "filename": "paste-380620001771523.jpg",

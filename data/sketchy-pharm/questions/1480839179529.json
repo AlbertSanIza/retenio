@@ -18,35 +18,21 @@
         "$Cell_Wall_&_Membrane_Active_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nWhere in a bacteria are β-lactamase genes found?",
+        "text": "Where in a bacteria are β-lactamase genes found?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhere in a bacteria are β-lactamase genes found?\n\nPlasmids\n\n[Image: 5e070daeaa8330bd025684b46bdeea50948f70eff6076303200c5ce534f520be]\n\n1.1 - Penicillin\n[Image: f713488a5c800aa8470570b237c9db1cc080a90502f28209a5055b7b9d91c056]\n\n[Image: 5749219917b0d46cdacdcfd16cb18400fe3c5f4acbba8ea5f1fe0b81fe3ca819]",
+        "text": "Plasmids\n\n[Image: 5e070daeaa8330bd025684b46bdeea50948f70eff6076303200c5ce534f520be]",
         "imageIds": [
-            "5e070daeaa8330bd025684b46bdeea50948f70eff6076303200c5ce534f520be",
-            "f713488a5c800aa8470570b237c9db1cc080a90502f28209a5055b7b9d91c056",
-            "5749219917b0d46cdacdcfd16cb18400fe3c5f4acbba8ea5f1fe0b81fe3ca819"
+            "5e070daeaa8330bd025684b46bdeea50948f70eff6076303200c5ce534f520be"
         ]
     },
     "images": {
-        "5749219917b0d46cdacdcfd16cb18400fe3c5f4acbba8ea5f1fe0b81fe3ca819": {
-            "file": "images/5749219917b0d46cdacdcfd16cb18400fe3c5f4acbba8ea5f1fe0b81fe3ca819.jpg",
-            "filename": "paste-83889301225475.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 65710
-        },
         "5e070daeaa8330bd025684b46bdeea50948f70eff6076303200c5ce534f520be": {
             "file": "images/5e070daeaa8330bd025684b46bdeea50948f70eff6076303200c5ce534f520be.jpg",
             "filename": "paste-429445189992451.jpg",
             "mimeType": "image/jpeg",
             "bytes": 45954
-        },
-        "f713488a5c800aa8470570b237c9db1cc080a90502f28209a5055b7b9d91c056": {
-            "file": "images/f713488a5c800aa8470570b237c9db1cc080a90502f28209a5055b7b9d91c056.jpg",
-            "filename": "paste-170342697926659.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 108584
         }
     }
 }

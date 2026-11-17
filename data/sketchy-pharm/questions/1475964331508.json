@@ -18,11 +18,11 @@
         "$Antiarrhythmics"
     ],
     "question": {
-        "text": "§\n\nAdverse Effects (9) : Amiodarone",
+        "text": "Adverse Effects (9) : Amiodarone",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAdverse Effects (9) : Amiodarone\n\n(1) Neurological side effects\n(2) Gray corneal deposits\n\n(3) Hypo/Hyperthyroidism\n\n(4) Pulmonary fibrosi\n\n(5) Heart block\n\n(6) Induce heart failure\n\n(7) Hypersensitivity hepatitis\n\n(8) Gray-blue skin discoloration\n\n(9) Photodermatitis\n\n[Image: 360fc21e9958e8ad112c956f757be40e9cdfa6b0abdd002196f40be55655052f]\n\n[Image: 13febfab7c8b93eaebd6eded4bfbe3e9f7a702d9511b36f92b41502c887d2177]\n\n[Image: dee2a8e169677ff2e3a7a3992c0b60bc28c793847eb6547597f1fa88afc872e8]\n\n[Image: e2f2b7eda8145d6784bdf3551b7ee8a02ab5752a2182b00fab6ef87dc53e88f2]\n\n[Image: 6949ce9adfc35277aea9f1d817de425d58293349a30297ce08f787275d296d46]\n\n[Image: f096be1ef5a35d2711b4cba5715b4dc046080d7cfb1bc884ba203f968fb7ed4e]\n\n[Image: 71713fe852118cf2a9b445e0984188d7a353994b41f176cac7910c0ab270290c]\n\n[Image: 7d46fc3342e79f033203fd5bdde7be413b1300c24473ec1a746a8a346a7fc1c3]\n\n4.3 - Class III\n[Image: 69c6a857f25b4d9db05caf993274d30160588b4f22c91e884f3d30da532643d7]\n\n[Image: 54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801]\n\n[Image: 68c67db95c25755c22892a511f56c60cad5e8660dbf87b4a32dba4829039fe79]",
+        "text": "(1) Neurological side effects\n(2) Gray corneal deposits\n\n(3) Hypo/Hyperthyroidism\n\n(4) Pulmonary fibrosi\n\n(5) Heart block\n\n(6) Induce heart failure\n\n(7) Hypersensitivity hepatitis\n\n(8) Gray-blue skin discoloration\n\n(9) Photodermatitis\n\n[Image: 360fc21e9958e8ad112c956f757be40e9cdfa6b0abdd002196f40be55655052f]\n\n[Image: 13febfab7c8b93eaebd6eded4bfbe3e9f7a702d9511b36f92b41502c887d2177]\n\n[Image: dee2a8e169677ff2e3a7a3992c0b60bc28c793847eb6547597f1fa88afc872e8]\n\n[Image: e2f2b7eda8145d6784bdf3551b7ee8a02ab5752a2182b00fab6ef87dc53e88f2]\n\n[Image: 6949ce9adfc35277aea9f1d817de425d58293349a30297ce08f787275d296d46]\n\n[Image: f096be1ef5a35d2711b4cba5715b4dc046080d7cfb1bc884ba203f968fb7ed4e]\n\n[Image: 71713fe852118cf2a9b445e0984188d7a353994b41f176cac7910c0ab270290c]\n\n[Image: 7d46fc3342e79f033203fd5bdde7be413b1300c24473ec1a746a8a346a7fc1c3]",
         "imageIds": [
             "360fc21e9958e8ad112c956f757be40e9cdfa6b0abdd002196f40be55655052f",
             "13febfab7c8b93eaebd6eded4bfbe3e9f7a702d9511b36f92b41502c887d2177",
@@ -31,10 +31,7 @@
             "6949ce9adfc35277aea9f1d817de425d58293349a30297ce08f787275d296d46",
             "f096be1ef5a35d2711b4cba5715b4dc046080d7cfb1bc884ba203f968fb7ed4e",
             "71713fe852118cf2a9b445e0984188d7a353994b41f176cac7910c0ab270290c",
-            "7d46fc3342e79f033203fd5bdde7be413b1300c24473ec1a746a8a346a7fc1c3",
-            "69c6a857f25b4d9db05caf993274d30160588b4f22c91e884f3d30da532643d7",
-            "54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801",
-            "68c67db95c25755c22892a511f56c60cad5e8660dbf87b4a32dba4829039fe79"
+            "7d46fc3342e79f033203fd5bdde7be413b1300c24473ec1a746a8a346a7fc1c3"
         ]
     },
     "images": {
@@ -50,29 +47,11 @@
             "mimeType": "image/jpeg",
             "bytes": 52643
         },
-        "54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801": {
-            "file": "images/54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801.jpg",
-            "filename": "paste-246930554748931.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 98421
-        },
-        "68c67db95c25755c22892a511f56c60cad5e8660dbf87b4a32dba4829039fe79": {
-            "file": "images/68c67db95c25755c22892a511f56c60cad5e8660dbf87b4a32dba4829039fe79.jpg",
-            "filename": "paste-638515608027139.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 58528
-        },
         "6949ce9adfc35277aea9f1d817de425d58293349a30297ce08f787275d296d46": {
             "file": "images/6949ce9adfc35277aea9f1d817de425d58293349a30297ce08f787275d296d46.jpg",
             "filename": "paste-43679817400323.jpg",
             "mimeType": "image/jpeg",
             "bytes": 51678
-        },
-        "69c6a857f25b4d9db05caf993274d30160588b4f22c91e884f3d30da532643d7": {
-            "file": "images/69c6a857f25b4d9db05caf993274d30160588b4f22c91e884f3d30da532643d7.jpg",
-            "filename": "paste-653814281535489.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 131376
         },
         "71713fe852118cf2a9b445e0984188d7a353994b41f176cac7910c0ab270290c": {
             "file": "images/71713fe852118cf2a9b445e0984188d7a353994b41f176cac7910c0ab270290c.jpg",

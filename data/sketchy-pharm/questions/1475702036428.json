@@ -18,42 +18,17 @@
         "$DyslipidemiaDrugs"
     ],
     "question": {
-        "text": "§\n\nWhat part of the lipid fraction do statins reduce?",
+        "text": "What part of the lipid fraction do statins reduce?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat part of the lipid fraction do statins reduce?\n\n(1) ↓↓↓ LDL\n(2) ↓ TGs\n\n(3) ↑ HDL\n\n[Image: 6493386181ca11288f1d4c1a983690ad7c9b85871882320a4564734e9032278e]\n\n[Image: 2815aa17ecc6256265472cfd8b411139530856ef8305e83c363eb6c038e3224f]\n\n2.1 - Statins\n[Image: 158bda76ba47361fcc8e4153313c117d5b67a21350c6ffd0f2c9fb93071fe5bc]\n\n[Image: a0a080ce2b8b49bc3866b73c2965cae27044eb48f9fd2bc16c97ce5d2242c919]\n\n[Image: 227613fa19fb5669793c24ecbff51b2136731a1d2efda6e58533c42eaafc806f]\n\n[Image: b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e]\n\n[Image: dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139]\n\n[Image: 88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39]\n\n[Image: 27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9]",
+        "text": "(1) ↓↓↓ LDL\n(2) ↓ TGs\n\n(3) ↑ HDL\n\n[Image: 6493386181ca11288f1d4c1a983690ad7c9b85871882320a4564734e9032278e]\n\n[Image: 2815aa17ecc6256265472cfd8b411139530856ef8305e83c363eb6c038e3224f]",
         "imageIds": [
             "6493386181ca11288f1d4c1a983690ad7c9b85871882320a4564734e9032278e",
-            "2815aa17ecc6256265472cfd8b411139530856ef8305e83c363eb6c038e3224f",
-            "158bda76ba47361fcc8e4153313c117d5b67a21350c6ffd0f2c9fb93071fe5bc",
-            "a0a080ce2b8b49bc3866b73c2965cae27044eb48f9fd2bc16c97ce5d2242c919",
-            "227613fa19fb5669793c24ecbff51b2136731a1d2efda6e58533c42eaafc806f",
-            "b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e",
-            "dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139",
-            "88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39",
-            "27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9"
+            "2815aa17ecc6256265472cfd8b411139530856ef8305e83c363eb6c038e3224f"
         ]
     },
     "images": {
-        "158bda76ba47361fcc8e4153313c117d5b67a21350c6ffd0f2c9fb93071fe5bc": {
-            "file": "images/158bda76ba47361fcc8e4153313c117d5b67a21350c6ffd0f2c9fb93071fe5bc.jpg",
-            "filename": "paste-560987153367041.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 142719
-        },
-        "227613fa19fb5669793c24ecbff51b2136731a1d2efda6e58533c42eaafc806f": {
-            "file": "images/227613fa19fb5669793c24ecbff51b2136731a1d2efda6e58533c42eaafc806f.jpg",
-            "filename": "paste-161598144512003.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 76814
-        },
-        "27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9": {
-            "file": "images/27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9.jpg",
-            "filename": "paste-203263622250499.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 84124
-        },
         "2815aa17ecc6256265472cfd8b411139530856ef8305e83c363eb6c038e3224f": {
             "file": "images/2815aa17ecc6256265472cfd8b411139530856ef8305e83c363eb6c038e3224f.jpg",
             "filename": "paste-44405666873347.jpg",
@@ -65,30 +40,6 @@
             "filename": "paste-44354127265795 (1).jpg",
             "mimeType": "image/jpeg",
             "bytes": 86674
-        },
-        "88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39": {
-            "file": "images/88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39.jpg",
-            "filename": "paste-235252538671107.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 88003
-        },
-        "a0a080ce2b8b49bc3866b73c2965cae27044eb48f9fd2bc16c97ce5d2242c919": {
-            "file": "images/a0a080ce2b8b49bc3866b73c2965cae27044eb48f9fd2bc16c97ce5d2242c919.jpg",
-            "filename": "paste-244138826006531.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 34539
-        },
-        "b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e": {
-            "file": "images/b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e.jpg",
-            "filename": "paste-230506599809027.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 80740
-        },
-        "dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139": {
-            "file": "images/dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139.jpg",
-            "filename": "paste-225266739707907.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 37177
         }
     }
 }

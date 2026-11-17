@@ -18,59 +18,23 @@
         "$DyslipidemiaDrugs"
     ],
     "question": {
-        "text": "§\n\nMOA: Bile acid resins",
+        "text": "MOA: Bile acid resins",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nMOA: Bile acid resins\n\nInhibits bile acid reabsorption\n\n(∴ ⇒ Stimulate HMG-CoA reductase & Upregulate LDL receptors)\n\n[Image: d0b6202ca28aa65585ca308f85bf757b6207e2a97aa67d152c7dcfda8603c820]\n\n[Image: 89bafff199803c3770190d5e56200710fc98129d8859de193a52e22013dc8b6d]\n\n[Image: c073c200efb230b6cc98752d8e6bb0cef4a4a82d0f8711cc23b99ba4dfa8cfa5]\n\n2.2 - Cholestyramine, ezetimibe\n[Image: 2322dda2cc97451bd4ab90bb4d48ffd9046228d04be4e1f1edc365d32a0865aa]\n\n[Image: 1ff2e5c8d7b65724c52932379aaaea511e9bd6b323e9d06f462e9d20c881ad43]\n\n[Image: 27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9]\n\n[Image: b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e]\n\n[Image: dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139]\n\n[Image: 88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39]",
+        "text": "Inhibits bile acid reabsorption\n\n(∴ ⇒ Stimulate HMG-CoA reductase & Upregulate LDL receptors)\n\n[Image: d0b6202ca28aa65585ca308f85bf757b6207e2a97aa67d152c7dcfda8603c820]\n\n[Image: 89bafff199803c3770190d5e56200710fc98129d8859de193a52e22013dc8b6d]\n\n[Image: c073c200efb230b6cc98752d8e6bb0cef4a4a82d0f8711cc23b99ba4dfa8cfa5]",
         "imageIds": [
             "d0b6202ca28aa65585ca308f85bf757b6207e2a97aa67d152c7dcfda8603c820",
             "89bafff199803c3770190d5e56200710fc98129d8859de193a52e22013dc8b6d",
-            "c073c200efb230b6cc98752d8e6bb0cef4a4a82d0f8711cc23b99ba4dfa8cfa5",
-            "2322dda2cc97451bd4ab90bb4d48ffd9046228d04be4e1f1edc365d32a0865aa",
-            "1ff2e5c8d7b65724c52932379aaaea511e9bd6b323e9d06f462e9d20c881ad43",
-            "27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9",
-            "b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e",
-            "dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139",
-            "88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39"
+            "c073c200efb230b6cc98752d8e6bb0cef4a4a82d0f8711cc23b99ba4dfa8cfa5"
         ]
     },
     "images": {
-        "1ff2e5c8d7b65724c52932379aaaea511e9bd6b323e9d06f462e9d20c881ad43": {
-            "file": "images/1ff2e5c8d7b65724c52932379aaaea511e9bd6b323e9d06f462e9d20c881ad43.jpg",
-            "filename": "paste-240672787398659.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 63725
-        },
-        "2322dda2cc97451bd4ab90bb4d48ffd9046228d04be4e1f1edc365d32a0865aa": {
-            "file": "images/2322dda2cc97451bd4ab90bb4d48ffd9046228d04be4e1f1edc365d32a0865aa.jpg",
-            "filename": "paste-565307890466817.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 155083
-        },
-        "27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9": {
-            "file": "images/27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9.jpg",
-            "filename": "paste-203263622250499.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 84124
-        },
-        "88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39": {
-            "file": "images/88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39.jpg",
-            "filename": "paste-235252538671107.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 88003
-        },
         "89bafff199803c3770190d5e56200710fc98129d8859de193a52e22013dc8b6d": {
             "file": "images/89bafff199803c3770190d5e56200710fc98129d8859de193a52e22013dc8b6d.jpg",
             "filename": "paste-163878772146179.jpg",
             "mimeType": "image/jpeg",
             "bytes": 43401
-        },
-        "b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e": {
-            "file": "images/b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e.jpg",
-            "filename": "paste-230506599809027.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 80740
         },
         "c073c200efb230b6cc98752d8e6bb0cef4a4a82d0f8711cc23b99ba4dfa8cfa5": {
             "file": "images/c073c200efb230b6cc98752d8e6bb0cef4a4a82d0f8711cc23b99ba4dfa8cfa5.jpg",
@@ -83,12 +47,6 @@
             "filename": "paste-163685498617859.jpg",
             "mimeType": "image/jpeg",
             "bytes": 47528
-        },
-        "dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139": {
-            "file": "images/dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139.jpg",
-            "filename": "paste-225266739707907.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 37177
         }
     }
 }

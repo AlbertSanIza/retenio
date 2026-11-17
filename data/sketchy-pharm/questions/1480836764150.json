@@ -18,44 +18,16 @@
         "$Antivirals_Others"
     ],
     "question": {
-        "text": "§\n\nWhat is the rate limiting enzyme in the activation of Acyclovir?",
+        "text": "What is the rate limiting enzyme in the activation of Acyclovir?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat is the rate limiting enzyme in the activation of Acyclovir?\n\nViral Thymidine-kinase\n\n(Note: This specific herpesvirus enzyme ∴ Acyclovir is ineffective against CMV/EBV)\n\n[Image: f58bc45cf0bf8053f70605d4c3b489cb615b55e61338173978e4b710320ca1d6]\n\n8.1 - Acyclovir, valacyclovir, famciclovir\n[Image: 40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b]\n\n[Image: a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1]\n\n[Image: a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35]\n\n[Image: 3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b]",
+        "text": "Viral Thymidine-kinase\n\n(Note: This specific herpesvirus enzyme ∴ Acyclovir is ineffective against CMV/EBV)\n\n[Image: f58bc45cf0bf8053f70605d4c3b489cb615b55e61338173978e4b710320ca1d6]",
         "imageIds": [
-            "f58bc45cf0bf8053f70605d4c3b489cb615b55e61338173978e4b710320ca1d6",
-            "40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b",
-            "a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1",
-            "a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35",
-            "3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b"
+            "f58bc45cf0bf8053f70605d4c3b489cb615b55e61338173978e4b710320ca1d6"
         ]
     },
     "images": {
-        "3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b": {
-            "file": "images/3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b.jpg",
-            "filename": "paste-14950781157379.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 94367
-        },
-        "40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b": {
-            "file": "images/40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b.jpg",
-            "filename": "paste-383768212799491.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 59940
-        },
-        "a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1": {
-            "file": "images/a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1.jpg",
-            "filename": "paste-305286275399683.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 100859
-        },
-        "a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35": {
-            "file": "images/a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35.jpg",
-            "filename": "paste-13438952669187.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 81188
-        },
         "f58bc45cf0bf8053f70605d4c3b489cb615b55e61338173978e4b710320ca1d6": {
             "file": "images/f58bc45cf0bf8053f70605d4c3b489cb615b55e61338173978e4b710320ca1d6.jpg",
             "filename": "paste-389244296101891.jpg",

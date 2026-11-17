@@ -18,35 +18,21 @@
         "$Antimetabolites"
     ],
     "question": {
-        "text": "§\n\nWhat type of cancers is Cytarabine effective against?",
+        "text": "What type of cancers is Cytarabine effective against?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat type of cancers is Cytarabine effective against?\n\nHematologic malignancies only\n\n[Image: 35614dc80308adeba4af4fe4289fe95ae2795439a7b69f2f51f585ad1980983e]\n\n1.3 - Cladribine, cytarabine, gemcitabine\n[Image: 11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce]\n\n[Image: 517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a]",
+        "text": "Hematologic malignancies only\n\n[Image: 35614dc80308adeba4af4fe4289fe95ae2795439a7b69f2f51f585ad1980983e]",
         "imageIds": [
-            "35614dc80308adeba4af4fe4289fe95ae2795439a7b69f2f51f585ad1980983e",
-            "11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce",
-            "517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a"
+            "35614dc80308adeba4af4fe4289fe95ae2795439a7b69f2f51f585ad1980983e"
         ]
     },
     "images": {
-        "11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce": {
-            "file": "images/11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce.jpg",
-            "filename": "paste-350980432461825.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 98866
-        },
         "35614dc80308adeba4af4fe4289fe95ae2795439a7b69f2f51f585ad1980983e": {
             "file": "images/35614dc80308adeba4af4fe4289fe95ae2795439a7b69f2f51f585ad1980983e.jpg",
             "filename": "paste-65244848193539.jpg",
             "mimeType": "image/jpeg",
             "bytes": 51185
-        },
-        "517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a": {
-            "file": "images/517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a.jpg",
-            "filename": "paste-156474248527875.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 31622
         }
     }
 }

@@ -18,25 +18,17 @@
         "$Antivirals_HIV"
     ],
     "question": {
-        "text": "§\n\nAdverse Effect: Zidovudine",
+        "text": "Adverse Effect: Zidovudine",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAdverse Effect: Zidovudine\n\nMyelosuppression\n\n[Image: 978c51a316b4e5f7f583e360d318f9790f99de4265c4937ff2a8668d683c5bb2]\n\n[Image: 5c04ac50e7def756a06addab4b8e9154820436afa91b1899da5fbf78a3d309ce]\n\n6.1 - NRTIs\n[Image: f2dc4b00a350da8261c36001e931dd46ecabb7f3e92da2e54e4bcc72a8bcc61e]\n\n[Image: 0c4d3026f6636c102ee5af4eb5ef4c4c73544c1d5ae8516531bab7656f39350f]",
+        "text": "Myelosuppression\n\n[Image: 978c51a316b4e5f7f583e360d318f9790f99de4265c4937ff2a8668d683c5bb2]\n\n[Image: 5c04ac50e7def756a06addab4b8e9154820436afa91b1899da5fbf78a3d309ce]",
         "imageIds": [
             "978c51a316b4e5f7f583e360d318f9790f99de4265c4937ff2a8668d683c5bb2",
-            "5c04ac50e7def756a06addab4b8e9154820436afa91b1899da5fbf78a3d309ce",
-            "f2dc4b00a350da8261c36001e931dd46ecabb7f3e92da2e54e4bcc72a8bcc61e",
-            "0c4d3026f6636c102ee5af4eb5ef4c4c73544c1d5ae8516531bab7656f39350f"
+            "5c04ac50e7def756a06addab4b8e9154820436afa91b1899da5fbf78a3d309ce"
         ]
     },
     "images": {
-        "0c4d3026f6636c102ee5af4eb5ef4c4c73544c1d5ae8516531bab7656f39350f": {
-            "file": "images/0c4d3026f6636c102ee5af4eb5ef4c4c73544c1d5ae8516531bab7656f39350f.jpg",
-            "filename": "paste-541874548899843.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 36930
-        },
         "5c04ac50e7def756a06addab4b8e9154820436afa91b1899da5fbf78a3d309ce": {
             "file": "images/5c04ac50e7def756a06addab4b8e9154820436afa91b1899da5fbf78a3d309ce.jpg",
             "filename": "paste-117162412867587.jpg",
@@ -48,12 +40,6 @@
             "filename": "paste-117055038685187.jpg",
             "mimeType": "image/jpeg",
             "bytes": 59646
-        },
-        "f2dc4b00a350da8261c36001e931dd46ecabb7f3e92da2e54e4bcc72a8bcc61e": {
-            "file": "images/f2dc4b00a350da8261c36001e931dd46ecabb7f3e92da2e54e4bcc72a8bcc61e.jpg",
-            "filename": "paste-280701882597377.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 154640
         }
     }
 }

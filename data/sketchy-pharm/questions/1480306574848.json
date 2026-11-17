@@ -18,35 +18,21 @@
         "$Cell_Wall_&_Membrane_Active_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nWhen is Vancomycin administered orally?",
+        "text": "When is Vancomycin administered orally?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhen is Vancomycin administered orally?\n\nTreatment of C. difficile\n\n[Image: c38c6fe3d72f53dc2700cbf01def75a755eed391c9856d96d5ae8382f6f700e2]\n\n1.6 - Vancomycin\n[Image: 4c4759e400263512782f05a1aaef54315fc02f13e22f6bb2926afbcc9c596c2c]\n\n[Image: e3b35611814d2ab1df22b661bae37e650eeeb6dc662044e0cd04f89e6b606da9]",
+        "text": "Treatment of C. difficile\n\n[Image: c38c6fe3d72f53dc2700cbf01def75a755eed391c9856d96d5ae8382f6f700e2]",
         "imageIds": [
-            "c38c6fe3d72f53dc2700cbf01def75a755eed391c9856d96d5ae8382f6f700e2",
-            "4c4759e400263512782f05a1aaef54315fc02f13e22f6bb2926afbcc9c596c2c",
-            "e3b35611814d2ab1df22b661bae37e650eeeb6dc662044e0cd04f89e6b606da9"
+            "c38c6fe3d72f53dc2700cbf01def75a755eed391c9856d96d5ae8382f6f700e2"
         ]
     },
     "images": {
-        "4c4759e400263512782f05a1aaef54315fc02f13e22f6bb2926afbcc9c596c2c": {
-            "file": "images/4c4759e400263512782f05a1aaef54315fc02f13e22f6bb2926afbcc9c596c2c.jpg",
-            "filename": "paste-196851236077569.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 154388
-        },
         "c38c6fe3d72f53dc2700cbf01def75a755eed391c9856d96d5ae8382f6f700e2": {
             "file": "images/c38c6fe3d72f53dc2700cbf01def75a755eed391c9856d96d5ae8382f6f700e2.jpg",
             "filename": "paste-112841675767811.jpg",
             "mimeType": "image/jpeg",
             "bytes": 60560
-        },
-        "e3b35611814d2ab1df22b661bae37e650eeeb6dc662044e0cd04f89e6b606da9": {
-            "file": "images/e3b35611814d2ab1df22b661bae37e650eeeb6dc662044e0cd04f89e6b606da9.jpg",
-            "filename": "paste-334522117783555.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 94981
         }
     }
 }

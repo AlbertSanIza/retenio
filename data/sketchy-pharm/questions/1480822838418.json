@@ -18,30 +18,16 @@
         "$Other_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nMOA: Metronidazole",
+        "text": "MOA: Metronidazole",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nMOA: Metronidazole\n\nFree radical metabolites ⇒ DNA damage\n\n(∴ Bacteriocidal)\n\n[Image: f227bd2181abc781df8ca1c8fc182c339a4d670c98412be694b1953c0502f2f4]\n\n4.3 - Metronidazole\n[Image: 7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4]\n\n[Image: 3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf]",
+        "text": "Free radical metabolites ⇒ DNA damage\n\n(∴ Bacteriocidal)\n\n[Image: f227bd2181abc781df8ca1c8fc182c339a4d670c98412be694b1953c0502f2f4]",
         "imageIds": [
-            "f227bd2181abc781df8ca1c8fc182c339a4d670c98412be694b1953c0502f2f4",
-            "7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4",
-            "3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf"
+            "f227bd2181abc781df8ca1c8fc182c339a4d670c98412be694b1953c0502f2f4"
         ]
     },
     "images": {
-        "3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf": {
-            "file": "images/3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf.jpg",
-            "filename": "paste-187277753974787.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 55370
-        },
-        "7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4": {
-            "file": "images/7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4.jpg",
-            "filename": "paste-262010184925185.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 111887
-        },
         "f227bd2181abc781df8ca1c8fc182c339a4d670c98412be694b1953c0502f2f4": {
             "file": "images/f227bd2181abc781df8ca1c8fc182c339a4d670c98412be694b1953c0502f2f4.jpg",
             "filename": "paste-238929030676483.jpg",

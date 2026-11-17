@@ -18,35 +18,21 @@
         "$Cell_Wall_&_Membrane_Active_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nAre β-lactamases effective against Vancomycin?",
+        "text": "Are β-lactamases effective against Vancomycin?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAre β-lactamases effective against Vancomycin?\n\nNo\n\n[Image: b0ec11f3661de8f3b7450f737ad4b0383767a3335395f6dc3445daec90b45f63]\n\n1.6 - Vancomycin\n[Image: 4c4759e400263512782f05a1aaef54315fc02f13e22f6bb2926afbcc9c596c2c]\n\n[Image: e3b35611814d2ab1df22b661bae37e650eeeb6dc662044e0cd04f89e6b606da9]",
+        "text": "No\n\n[Image: b0ec11f3661de8f3b7450f737ad4b0383767a3335395f6dc3445daec90b45f63]",
         "imageIds": [
-            "b0ec11f3661de8f3b7450f737ad4b0383767a3335395f6dc3445daec90b45f63",
-            "4c4759e400263512782f05a1aaef54315fc02f13e22f6bb2926afbcc9c596c2c",
-            "e3b35611814d2ab1df22b661bae37e650eeeb6dc662044e0cd04f89e6b606da9"
+            "b0ec11f3661de8f3b7450f737ad4b0383767a3335395f6dc3445daec90b45f63"
         ]
     },
     "images": {
-        "4c4759e400263512782f05a1aaef54315fc02f13e22f6bb2926afbcc9c596c2c": {
-            "file": "images/4c4759e400263512782f05a1aaef54315fc02f13e22f6bb2926afbcc9c596c2c.jpg",
-            "filename": "paste-196851236077569.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 154388
-        },
         "b0ec11f3661de8f3b7450f737ad4b0383767a3335395f6dc3445daec90b45f63": {
             "file": "images/b0ec11f3661de8f3b7450f737ad4b0383767a3335395f6dc3445daec90b45f63.jpg",
             "filename": "paste-112059991719939.jpg",
             "mimeType": "image/jpeg",
             "bytes": 47969
-        },
-        "e3b35611814d2ab1df22b661bae37e650eeeb6dc662044e0cd04f89e6b606da9": {
-            "file": "images/e3b35611814d2ab1df22b661bae37e650eeeb6dc662044e0cd04f89e6b606da9.jpg",
-            "filename": "paste-334522117783555.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 94981
         }
     }
 }

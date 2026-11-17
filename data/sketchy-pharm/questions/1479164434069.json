@@ -18,18 +18,14 @@
         "$Anti-inflammatory"
     ],
     "question": {
-        "text": "§\n\nDescribe the crystals of pseudogout",
+        "text": "Describe the crystals of pseudogout",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nDescribe the crystals of pseudogout\n\n(1) Rhomboid\n(2) Positively birefringent\n\n[Image: be4578e88461aadc67ef79d05c9f88057df54e85d1591d1fc27c5f10d0d8b96d]\n\n[Image: 25f731a60c087c9dde1caed95419438427dff7790c28c34b8f8e890498f71727]\n\n3.2 - Gout Drugs\n[Image: be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df]\n\n[Image: 558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616]\n\n[Image: d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b]\n\n[Image: a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730]",
+        "text": "(1) Rhomboid\n(2) Positively birefringent\n\n[Image: be4578e88461aadc67ef79d05c9f88057df54e85d1591d1fc27c5f10d0d8b96d]\n\n[Image: 25f731a60c087c9dde1caed95419438427dff7790c28c34b8f8e890498f71727]",
         "imageIds": [
             "be4578e88461aadc67ef79d05c9f88057df54e85d1591d1fc27c5f10d0d8b96d",
-            "25f731a60c087c9dde1caed95419438427dff7790c28c34b8f8e890498f71727",
-            "be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df",
-            "558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616",
-            "d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b",
-            "a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730"
+            "25f731a60c087c9dde1caed95419438427dff7790c28c34b8f8e890498f71727"
         ]
     },
     "images": {
@@ -39,35 +35,11 @@
             "mimeType": "image/jpeg",
             "bytes": 53839
         },
-        "558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616": {
-            "file": "images/558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616.jpg",
-            "filename": "paste-121358595915779.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 132759
-        },
-        "a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730": {
-            "file": "images/a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730.jpg",
-            "filename": "paste-123982820933635.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 34602
-        },
         "be4578e88461aadc67ef79d05c9f88057df54e85d1591d1fc27c5f10d0d8b96d": {
             "file": "images/be4578e88461aadc67ef79d05c9f88057df54e85d1591d1fc27c5f10d0d8b96d.jpg",
             "filename": "paste-37228776521731.jpg",
             "mimeType": "image/jpeg",
             "bytes": 48441
-        },
-        "be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df": {
-            "file": "images/be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df.jpg",
-            "filename": "paste-583518551801857.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 158251
-        },
-        "d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b": {
-            "file": "images/d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b.jpg",
-            "filename": "paste-113215337922563.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 184086
         }
     }
 }

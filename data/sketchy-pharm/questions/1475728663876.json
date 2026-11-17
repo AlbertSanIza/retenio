@@ -18,19 +18,16 @@
         "$Parasympathetics"
     ],
     "question": {
-        "text": "§\n\nMOA: Scopolamine",
+        "text": "MOA: Scopolamine",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nMOA: Scopolamine\n\nM1 antagonist\n\n[Image: 70d5da6953357e4df6602e1d142beee3fbb9e0dd3b2791b62ef6ee4eb721c75a]\n\n[Image: 211bb33d376c568a3e376f3073a5f842fee55fcda8b84e4ca1b3c1ad1cc9eebc]\n\n[Image: 8658a5dc732e411826d6ee86b31181d06c7e8644ce68434a16635b06834f9b00]\n\n[Image: 8d63df434f65fe6117113341b0bf40b9e022922b30557bb0cd6c7bb282e33d07]\n\n1.3 - Muscarinic antagonists\n[Image: f73d6be268d365a8c4123fc0e98df1066190c1efc71673333616184892da529b]\n\n[Image: 7c05b0090af8ae7faec17530a195689bbf153c4d8bb8fa549221f2bb5de04ee5]\n\n[Image: 2b2c8378624553f80b20e849b6117074679044004a47259538cd43e16b393c4e]",
+        "text": "M1 antagonist\n\n[Image: 70d5da6953357e4df6602e1d142beee3fbb9e0dd3b2791b62ef6ee4eb721c75a]\n\n[Image: 211bb33d376c568a3e376f3073a5f842fee55fcda8b84e4ca1b3c1ad1cc9eebc]\n\n[Image: 8658a5dc732e411826d6ee86b31181d06c7e8644ce68434a16635b06834f9b00]\n\n[Image: 8d63df434f65fe6117113341b0bf40b9e022922b30557bb0cd6c7bb282e33d07]",
         "imageIds": [
             "70d5da6953357e4df6602e1d142beee3fbb9e0dd3b2791b62ef6ee4eb721c75a",
             "211bb33d376c568a3e376f3073a5f842fee55fcda8b84e4ca1b3c1ad1cc9eebc",
             "8658a5dc732e411826d6ee86b31181d06c7e8644ce68434a16635b06834f9b00",
-            "8d63df434f65fe6117113341b0bf40b9e022922b30557bb0cd6c7bb282e33d07",
-            "f73d6be268d365a8c4123fc0e98df1066190c1efc71673333616184892da529b",
-            "7c05b0090af8ae7faec17530a195689bbf153c4d8bb8fa549221f2bb5de04ee5",
-            "2b2c8378624553f80b20e849b6117074679044004a47259538cd43e16b393c4e"
+            "8d63df434f65fe6117113341b0bf40b9e022922b30557bb0cd6c7bb282e33d07"
         ]
     },
     "images": {
@@ -40,23 +37,11 @@
             "mimeType": "image/jpeg",
             "bytes": 56092
         },
-        "2b2c8378624553f80b20e849b6117074679044004a47259538cd43e16b393c4e": {
-            "file": "images/2b2c8378624553f80b20e849b6117074679044004a47259538cd43e16b393c4e.jpg",
-            "filename": "paste-600170140008451.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 58091
-        },
         "70d5da6953357e4df6602e1d142beee3fbb9e0dd3b2791b62ef6ee4eb721c75a": {
             "file": "images/70d5da6953357e4df6602e1d142beee3fbb9e0dd3b2791b62ef6ee4eb721c75a.jpg",
             "filename": "paste-16028817948675.jpg",
             "mimeType": "image/jpeg",
             "bytes": 60256
-        },
-        "7c05b0090af8ae7faec17530a195689bbf153c4d8bb8fa549221f2bb5de04ee5": {
-            "file": "images/7c05b0090af8ae7faec17530a195689bbf153c4d8bb8fa549221f2bb5de04ee5.jpg",
-            "filename": "paste-598503692697603.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 52321
         },
         "8658a5dc732e411826d6ee86b31181d06c7e8644ce68434a16635b06834f9b00": {
             "file": "images/8658a5dc732e411826d6ee86b31181d06c7e8644ce68434a16635b06834f9b00.jpg",
@@ -69,12 +54,6 @@
             "filename": "paste-316895572000771.jpg",
             "mimeType": "image/jpeg",
             "bytes": 78759
-        },
-        "f73d6be268d365a8c4123fc0e98df1066190c1efc71673333616184892da529b": {
-            "file": "images/f73d6be268d365a8c4123fc0e98df1066190c1efc71673333616184892da529b.jpg",
-            "filename": "paste-417874548097025.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 147252
         }
     }
 }

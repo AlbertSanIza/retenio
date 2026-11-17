@@ -18,25 +18,17 @@
         "$Antivirals_HIV"
     ],
     "question": {
-        "text": "§\n\nAdverse Effects (2) : All NRTIs",
+        "text": "Adverse Effects (2) : All NRTIs",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAdverse Effects (2) : All NRTIs\n\n(1) Mitochondrial toxicity\n(2) ⇒ Lactic acidosis\n\n[Image: c51e749dfc0d661bce43eadd201db8880241f3ac2fa17347d885c22ee9d26e53]\n\n[Image: 890323aadf02edf09b7821528ae11484f36d7ca529a9af6bf41db498075e1e9e]\n\n6.1 - NRTIs\n[Image: f2dc4b00a350da8261c36001e931dd46ecabb7f3e92da2e54e4bcc72a8bcc61e]\n\n[Image: 0c4d3026f6636c102ee5af4eb5ef4c4c73544c1d5ae8516531bab7656f39350f]",
+        "text": "(1) Mitochondrial toxicity\n(2) ⇒ Lactic acidosis\n\n[Image: c51e749dfc0d661bce43eadd201db8880241f3ac2fa17347d885c22ee9d26e53]\n\n[Image: 890323aadf02edf09b7821528ae11484f36d7ca529a9af6bf41db498075e1e9e]",
         "imageIds": [
             "c51e749dfc0d661bce43eadd201db8880241f3ac2fa17347d885c22ee9d26e53",
-            "890323aadf02edf09b7821528ae11484f36d7ca529a9af6bf41db498075e1e9e",
-            "f2dc4b00a350da8261c36001e931dd46ecabb7f3e92da2e54e4bcc72a8bcc61e",
-            "0c4d3026f6636c102ee5af4eb5ef4c4c73544c1d5ae8516531bab7656f39350f"
+            "890323aadf02edf09b7821528ae11484f36d7ca529a9af6bf41db498075e1e9e"
         ]
     },
     "images": {
-        "0c4d3026f6636c102ee5af4eb5ef4c4c73544c1d5ae8516531bab7656f39350f": {
-            "file": "images/0c4d3026f6636c102ee5af4eb5ef4c4c73544c1d5ae8516531bab7656f39350f.jpg",
-            "filename": "paste-541874548899843.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 36930
-        },
         "890323aadf02edf09b7821528ae11484f36d7ca529a9af6bf41db498075e1e9e": {
             "file": "images/890323aadf02edf09b7821528ae11484f36d7ca529a9af6bf41db498075e1e9e.jpg",
             "filename": "paste-115556095098883.jpg",
@@ -48,12 +40,6 @@
             "filename": "paste-115491670589443.jpg",
             "mimeType": "image/jpeg",
             "bytes": 45269
-        },
-        "f2dc4b00a350da8261c36001e931dd46ecabb7f3e92da2e54e4bcc72a8bcc61e": {
-            "file": "images/f2dc4b00a350da8261c36001e931dd46ecabb7f3e92da2e54e4bcc72a8bcc61e.jpg",
-            "filename": "paste-280701882597377.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 154640
         }
     }
 }

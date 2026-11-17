@@ -18,18 +18,14 @@
         "$HeartFailureDrugs"
     ],
     "question": {
-        "text": "§\n\nMOA: Milrinone",
+        "text": "MOA: Milrinone",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nMOA: Milrinone\n\nInhibits phosphodiesterase\n\n[Image: 4758a99c2538895a758369651a8da38033aea15c727ba64e5a0001d737d9fc29]\n\n[Image: 8b09940572f958b552ec480a9caf3ad9b848c563d2e48aba8d9ab9a4a4ffc99c]\n\n1.1 - Digoxin, milrinone, nesiritide\n[Image: e4710e7cdd2eb8b0c4fcdd4f47e9c0298d7bc834ea44b17703e0ed658e992ff3]\n\n[Image: cc39089194326572184bf1c518bc26f5390c4f73a884ec8ad5a12509af47e2cf]\n\n[Image: bc64c259981a2f49c214dc60fdb3640b91401d9fabbcae71eb52515390dbaf48]\n\n[Image: aa726752874900868e52bb4456b25de8c3b4b85eaca0e5aed6f3ad3724afc8b2]",
+        "text": "Inhibits phosphodiesterase\n\n[Image: 4758a99c2538895a758369651a8da38033aea15c727ba64e5a0001d737d9fc29]\n\n[Image: 8b09940572f958b552ec480a9caf3ad9b848c563d2e48aba8d9ab9a4a4ffc99c]",
         "imageIds": [
             "4758a99c2538895a758369651a8da38033aea15c727ba64e5a0001d737d9fc29",
-            "8b09940572f958b552ec480a9caf3ad9b848c563d2e48aba8d9ab9a4a4ffc99c",
-            "e4710e7cdd2eb8b0c4fcdd4f47e9c0298d7bc834ea44b17703e0ed658e992ff3",
-            "cc39089194326572184bf1c518bc26f5390c4f73a884ec8ad5a12509af47e2cf",
-            "bc64c259981a2f49c214dc60fdb3640b91401d9fabbcae71eb52515390dbaf48",
-            "aa726752874900868e52bb4456b25de8c3b4b85eaca0e5aed6f3ad3724afc8b2"
+            "8b09940572f958b552ec480a9caf3ad9b848c563d2e48aba8d9ab9a4a4ffc99c"
         ]
     },
     "images": {
@@ -44,30 +40,6 @@
             "filename": "paste-42691974922243.jpg",
             "mimeType": "image/jpeg",
             "bytes": 58883
-        },
-        "aa726752874900868e52bb4456b25de8c3b4b85eaca0e5aed6f3ad3724afc8b2": {
-            "file": "images/aa726752874900868e52bb4456b25de8c3b4b85eaca0e5aed6f3ad3724afc8b2.jpg",
-            "filename": "paste-88450556493827.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 59364
-        },
-        "bc64c259981a2f49c214dc60fdb3640b91401d9fabbcae71eb52515390dbaf48": {
-            "file": "images/bc64c259981a2f49c214dc60fdb3640b91401d9fabbcae71eb52515390dbaf48.jpg",
-            "filename": "paste-84082574753795.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 36182
-        },
-        "cc39089194326572184bf1c518bc26f5390c4f73a884ec8ad5a12509af47e2cf": {
-            "file": "images/cc39089194326572184bf1c518bc26f5390c4f73a884ec8ad5a12509af47e2cf.jpg",
-            "filename": "paste-85959475462147.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 91768
-        },
-        "e4710e7cdd2eb8b0c4fcdd4f47e9c0298d7bc834ea44b17703e0ed658e992ff3": {
-            "file": "images/e4710e7cdd2eb8b0c4fcdd4f47e9c0298d7bc834ea44b17703e0ed658e992ff3.jpg",
-            "filename": "paste-602038450782209.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 138139
         }
     }
 }

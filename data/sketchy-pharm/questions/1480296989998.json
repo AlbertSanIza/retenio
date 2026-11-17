@@ -18,30 +18,16 @@
         "$Antimetabolites"
     ],
     "question": {
-        "text": "§\n\nIs Cytarabine a purine or pyrimidine analog?",
+        "text": "Is Cytarabine a purine or pyrimidine analog?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nIs Cytarabine a purine or pyrimidine analog?\n\nPyrimidine\n\n[Image: 7fa792789ad7f6281bdce19d46db5fb1c5317446b6099596654c576042356de1]\n\n1.3 - Cladribine, cytarabine, gemcitabine\n[Image: 11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce]\n\n[Image: 517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a]",
+        "text": "Pyrimidine\n\n[Image: 7fa792789ad7f6281bdce19d46db5fb1c5317446b6099596654c576042356de1]",
         "imageIds": [
-            "7fa792789ad7f6281bdce19d46db5fb1c5317446b6099596654c576042356de1",
-            "11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce",
-            "517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a"
+            "7fa792789ad7f6281bdce19d46db5fb1c5317446b6099596654c576042356de1"
         ]
     },
     "images": {
-        "11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce": {
-            "file": "images/11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce.jpg",
-            "filename": "paste-350980432461825.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 98866
-        },
-        "517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a": {
-            "file": "images/517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a.jpg",
-            "filename": "paste-156474248527875.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 31622
-        },
         "7fa792789ad7f6281bdce19d46db5fb1c5317446b6099596654c576042356de1": {
             "file": "images/7fa792789ad7f6281bdce19d46db5fb1c5317446b6099596654c576042356de1.jpg",
             "filename": "paste-64935610548227.jpg",

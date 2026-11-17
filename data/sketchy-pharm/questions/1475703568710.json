@@ -18,58 +18,16 @@
         "$DyslipidemiaDrugs"
     ],
     "question": {
-        "text": "§\n\nWhat are two examples of bile acid resins?",
+        "text": "What are two examples of bile acid resins?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat are two examples of bile acid resins?\n\n(1) Cholestyramine\n(2) Cholestipol\n\n[Image: ef32d58e7dad2f0857696fc4e7e7d7ac71e1f3d658a0e0a7e6a051376a573c43]\n\n2.2 - Cholestyramine, ezetimibe\n[Image: 2322dda2cc97451bd4ab90bb4d48ffd9046228d04be4e1f1edc365d32a0865aa]\n\n[Image: 1ff2e5c8d7b65724c52932379aaaea511e9bd6b323e9d06f462e9d20c881ad43]\n\n[Image: 27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9]\n\n[Image: b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e]\n\n[Image: dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139]\n\n[Image: 88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39]",
+        "text": "(1) Cholestyramine\n(2) Cholestipol\n\n[Image: ef32d58e7dad2f0857696fc4e7e7d7ac71e1f3d658a0e0a7e6a051376a573c43]",
         "imageIds": [
-            "ef32d58e7dad2f0857696fc4e7e7d7ac71e1f3d658a0e0a7e6a051376a573c43",
-            "2322dda2cc97451bd4ab90bb4d48ffd9046228d04be4e1f1edc365d32a0865aa",
-            "1ff2e5c8d7b65724c52932379aaaea511e9bd6b323e9d06f462e9d20c881ad43",
-            "27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9",
-            "b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e",
-            "dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139",
-            "88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39"
+            "ef32d58e7dad2f0857696fc4e7e7d7ac71e1f3d658a0e0a7e6a051376a573c43"
         ]
     },
     "images": {
-        "1ff2e5c8d7b65724c52932379aaaea511e9bd6b323e9d06f462e9d20c881ad43": {
-            "file": "images/1ff2e5c8d7b65724c52932379aaaea511e9bd6b323e9d06f462e9d20c881ad43.jpg",
-            "filename": "paste-240672787398659.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 63725
-        },
-        "2322dda2cc97451bd4ab90bb4d48ffd9046228d04be4e1f1edc365d32a0865aa": {
-            "file": "images/2322dda2cc97451bd4ab90bb4d48ffd9046228d04be4e1f1edc365d32a0865aa.jpg",
-            "filename": "paste-565307890466817.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 155083
-        },
-        "27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9": {
-            "file": "images/27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9.jpg",
-            "filename": "paste-203263622250499.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 84124
-        },
-        "88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39": {
-            "file": "images/88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39.jpg",
-            "filename": "paste-235252538671107.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 88003
-        },
-        "b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e": {
-            "file": "images/b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e.jpg",
-            "filename": "paste-230506599809027.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 80740
-        },
-        "dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139": {
-            "file": "images/dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139.jpg",
-            "filename": "paste-225266739707907.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 37177
-        },
         "ef32d58e7dad2f0857696fc4e7e7d7ac71e1f3d658a0e0a7e6a051376a573c43": {
             "file": "images/ef32d58e7dad2f0857696fc4e7e7d7ac71e1f3d658a0e0a7e6a051376a573c43.jpg",
             "filename": "paste-163818642604035.jpg",

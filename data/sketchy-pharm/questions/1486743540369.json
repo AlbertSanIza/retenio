@@ -18,16 +18,13 @@
         "$Diuretics"
     ],
     "question": {
-        "text": "§\n\nWhat ENZYME does Spironolactone inhibit?",
+        "text": "What ENZYME does Spironolactone inhibit?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat ENZYME does Spironolactone inhibit?\n\n17α-hydroxylase\n\n[Image: 2000e30ae3a2c1568c06759d838681f8e30a3814fc0029df7c52d91dacbf12ad]\n\n2.4 - K+ sparing diuretics\n[Image: e48404dc4b1dabc8844727f0c583d447f593652e51b1fec406a312d1f676c15f]\n\n[Image: 2eb705d63a82b4c062b3184f2a2d03fa393d8e39a9d14cc01e71171806a6c4b2]\n\n[Image: 54dfcadb639ffc739a45b5467bbff497d037b50dd4fdf8e718dc5199e7f0a525]",
+        "text": "17α-hydroxylase\n\n[Image: 2000e30ae3a2c1568c06759d838681f8e30a3814fc0029df7c52d91dacbf12ad]",
         "imageIds": [
-            "2000e30ae3a2c1568c06759d838681f8e30a3814fc0029df7c52d91dacbf12ad",
-            "e48404dc4b1dabc8844727f0c583d447f593652e51b1fec406a312d1f676c15f",
-            "2eb705d63a82b4c062b3184f2a2d03fa393d8e39a9d14cc01e71171806a6c4b2",
-            "54dfcadb639ffc739a45b5467bbff497d037b50dd4fdf8e718dc5199e7f0a525"
+            "2000e30ae3a2c1568c06759d838681f8e30a3814fc0029df7c52d91dacbf12ad"
         ]
     },
     "images": {
@@ -36,24 +33,6 @@
             "filename": "paste-118515327565827.jpg",
             "mimeType": "image/jpeg",
             "bytes": 69895
-        },
-        "2eb705d63a82b4c062b3184f2a2d03fa393d8e39a9d14cc01e71171806a6c4b2": {
-            "file": "images/2eb705d63a82b4c062b3184f2a2d03fa393d8e39a9d14cc01e71171806a6c4b2.jpg",
-            "filename": "paste-210702505607171.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 54582
-        },
-        "54dfcadb639ffc739a45b5467bbff497d037b50dd4fdf8e718dc5199e7f0a525": {
-            "file": "images/54dfcadb639ffc739a45b5467bbff497d037b50dd4fdf8e718dc5199e7f0a525.jpg",
-            "filename": "paste-198809741164547.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 70593
-        },
-        "e48404dc4b1dabc8844727f0c583d447f593652e51b1fec406a312d1f676c15f": {
-            "file": "images/e48404dc4b1dabc8844727f0c583d447f593652e51b1fec406a312d1f676c15f.jpg",
-            "filename": "paste-628748852396033.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 168885
         }
     }
 }

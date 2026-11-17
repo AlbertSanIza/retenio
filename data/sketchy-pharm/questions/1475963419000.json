@@ -18,16 +18,13 @@
         "$Antiarrhythmics"
     ],
     "question": {
-        "text": "§\n\nWhat effect do class II antiarrhythmics have on EKG tracing?",
+        "text": "What effect do class II antiarrhythmics have on EKG tracing?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat effect do class II antiarrhythmics have on EKG tracing?\n\nProlonged PR interval\n\n[Image: 3f25d0505ede41941ba0e5936582b6cb6bc2f277fedafda109b8b51ad1320756]\n\n4.2 - Class II\n[Image: 99b24ad791932f13ec7f948647dee58a7fb18c327f53c1636e310d54cb313671]\n\n[Image: 7d18b348aa1bfb5870dceb658def8e39d4c6859e3ecaee0f61e4f670ec760b30]\n\n[Image: 5d41d5da6a29a87ce608626baca3e5e2806a7ba1c540b0477b85b0b45f48168a]",
+        "text": "Prolonged PR interval\n\n[Image: 3f25d0505ede41941ba0e5936582b6cb6bc2f277fedafda109b8b51ad1320756]",
         "imageIds": [
-            "3f25d0505ede41941ba0e5936582b6cb6bc2f277fedafda109b8b51ad1320756",
-            "99b24ad791932f13ec7f948647dee58a7fb18c327f53c1636e310d54cb313671",
-            "7d18b348aa1bfb5870dceb658def8e39d4c6859e3ecaee0f61e4f670ec760b30",
-            "5d41d5da6a29a87ce608626baca3e5e2806a7ba1c540b0477b85b0b45f48168a"
+            "3f25d0505ede41941ba0e5936582b6cb6bc2f277fedafda109b8b51ad1320756"
         ]
     },
     "images": {
@@ -36,24 +33,6 @@
             "filename": "paste-41102837022723.jpg",
             "mimeType": "image/jpeg",
             "bytes": 51033
-        },
-        "5d41d5da6a29a87ce608626baca3e5e2806a7ba1c540b0477b85b0b45f48168a": {
-            "file": "images/5d41d5da6a29a87ce608626baca3e5e2806a7ba1c540b0477b85b0b45f48168a.jpg",
-            "filename": "paste-636295109935107.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 67560
-        },
-        "7d18b348aa1bfb5870dceb658def8e39d4c6859e3ecaee0f61e4f670ec760b30": {
-            "file": "images/7d18b348aa1bfb5870dceb658def8e39d4c6859e3ecaee0f61e4f670ec760b30.jpg",
-            "filename": "paste-628710197690371.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 94139
-        },
-        "99b24ad791932f13ec7f948647dee58a7fb18c327f53c1636e310d54cb313671": {
-            "file": "images/99b24ad791932f13ec7f948647dee58a7fb18c327f53c1636e310d54cb313671.jpg",
-            "filename": "paste-649386170253313.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 99705
         }
     }
 }

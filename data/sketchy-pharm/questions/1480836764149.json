@@ -18,18 +18,14 @@
         "$Antivirals_Others"
     ],
     "question": {
-        "text": "§\n\nWhat enzymes activate Acyclovir?",
+        "text": "What enzymes activate Acyclovir?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat enzymes activate Acyclovir?\n\n(1) First Phosphorylation: Viral Thymidine-kinase\n(2) Second & Third: Cellular kinase\n\n[Image: 20a5764b04dab799affd50ba8a737042bc35d0511d04d5898f4c75f242bb818f]\n\n[Image: 9273faa8407614eac1aa347585b3dd075dfc8c9e224cbe6ef733922d38ba81a7]\n\n8.1 - Acyclovir, valacyclovir, famciclovir\n[Image: 40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b]\n\n[Image: a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1]\n\n[Image: a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35]\n\n[Image: 3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b]",
+        "text": "(1) First Phosphorylation: Viral Thymidine-kinase\n(2) Second & Third: Cellular kinase\n\n[Image: 20a5764b04dab799affd50ba8a737042bc35d0511d04d5898f4c75f242bb818f]\n\n[Image: 9273faa8407614eac1aa347585b3dd075dfc8c9e224cbe6ef733922d38ba81a7]",
         "imageIds": [
             "20a5764b04dab799affd50ba8a737042bc35d0511d04d5898f4c75f242bb818f",
-            "9273faa8407614eac1aa347585b3dd075dfc8c9e224cbe6ef733922d38ba81a7",
-            "40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b",
-            "a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1",
-            "a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35",
-            "3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b"
+            "9273faa8407614eac1aa347585b3dd075dfc8c9e224cbe6ef733922d38ba81a7"
         ]
     },
     "images": {
@@ -39,35 +35,11 @@
             "mimeType": "image/jpeg",
             "bytes": 34312
         },
-        "3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b": {
-            "file": "images/3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b.jpg",
-            "filename": "paste-14950781157379.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 94367
-        },
-        "40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b": {
-            "file": "images/40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b.jpg",
-            "filename": "paste-383768212799491.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 59940
-        },
         "9273faa8407614eac1aa347585b3dd075dfc8c9e224cbe6ef733922d38ba81a7": {
             "file": "images/9273faa8407614eac1aa347585b3dd075dfc8c9e224cbe6ef733922d38ba81a7.jpg",
             "filename": "paste-388552806367235.jpg",
             "mimeType": "image/jpeg",
             "bytes": 35744
-        },
-        "a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1": {
-            "file": "images/a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1.jpg",
-            "filename": "paste-305286275399683.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 100859
-        },
-        "a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35": {
-            "file": "images/a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35.jpg",
-            "filename": "paste-13438952669187.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 81188
         }
     }
 }

@@ -18,28 +18,20 @@
         "$Anesthetics_&_Analgesics"
     ],
     "question": {
-        "text": "§\n\nName 5 IV anesthetics",
+        "text": "Name 5 IV anesthetics",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 5 IV anesthetics\n\n(1) Propofol\n(2) Etomidate\n\n(3) Ketamine\n\n(4) Benzodiazepines\n\n(5) Barbituates\n\n[Image: 6df44ffa311e9bb93f4e79e2ad4de6e8980fb41ceac802ec8ae72c0cb0a4edc6]\n\n[Image: 8cfb96d019eb2f83c7587cebd994c74019b132a1222ac9a7dc3445eddeb86672]\n\n[Image: 2d2bca1b6117e138aec087d41f942e0a7968dafa59e386efc88d028aafcaab9c]\n\n[Image: 7bbcb99ca2654e24c7ea6c2ea701fa126be5813bc2930831a9d7ead1671f47af]\n\n[Image: f41516c42d1d54cef0669692f6a7716cbdf5f0c4f064ea264d1a02c9430ee462]\n\n2.1 - Propofol, etomidate, ketamine\n[Image: 258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc]\n\n[Image: 876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc]",
+        "text": "(1) Propofol\n(2) Etomidate\n\n(3) Ketamine\n\n(4) Benzodiazepines\n\n(5) Barbituates\n\n[Image: 6df44ffa311e9bb93f4e79e2ad4de6e8980fb41ceac802ec8ae72c0cb0a4edc6]\n\n[Image: 8cfb96d019eb2f83c7587cebd994c74019b132a1222ac9a7dc3445eddeb86672]\n\n[Image: 2d2bca1b6117e138aec087d41f942e0a7968dafa59e386efc88d028aafcaab9c]\n\n[Image: 7bbcb99ca2654e24c7ea6c2ea701fa126be5813bc2930831a9d7ead1671f47af]\n\n[Image: f41516c42d1d54cef0669692f6a7716cbdf5f0c4f064ea264d1a02c9430ee462]",
         "imageIds": [
             "6df44ffa311e9bb93f4e79e2ad4de6e8980fb41ceac802ec8ae72c0cb0a4edc6",
             "8cfb96d019eb2f83c7587cebd994c74019b132a1222ac9a7dc3445eddeb86672",
             "2d2bca1b6117e138aec087d41f942e0a7968dafa59e386efc88d028aafcaab9c",
             "7bbcb99ca2654e24c7ea6c2ea701fa126be5813bc2930831a9d7ead1671f47af",
-            "f41516c42d1d54cef0669692f6a7716cbdf5f0c4f064ea264d1a02c9430ee462",
-            "258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc",
-            "876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc"
+            "f41516c42d1d54cef0669692f6a7716cbdf5f0c4f064ea264d1a02c9430ee462"
         ]
     },
     "images": {
-        "258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc": {
-            "file": "images/258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc.jpg",
-            "filename": "paste-490476675268611.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 83285
-        },
         "2d2bca1b6117e138aec087d41f942e0a7968dafa59e386efc88d028aafcaab9c": {
             "file": "images/2d2bca1b6117e138aec087d41f942e0a7968dafa59e386efc88d028aafcaab9c.jpg",
             "filename": "paste-500849021288451.jpg",
@@ -57,12 +49,6 @@
             "filename": "paste-500982165274627.jpg",
             "mimeType": "image/jpeg",
             "bytes": 65938
-        },
-        "876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc": {
-            "file": "images/876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc.jpg",
-            "filename": "paste-501411662004227.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 93496
         },
         "8cfb96d019eb2f83c7587cebd994c74019b132a1222ac9a7dc3445eddeb86672": {
             "file": "images/8cfb96d019eb2f83c7587cebd994c74019b132a1222ac9a7dc3445eddeb86672.jpg",

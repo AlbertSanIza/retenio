@@ -18,19 +18,16 @@
         "$DNA_&_Cellular_Division"
     ],
     "question": {
-        "text": "§\n\nAdverse Effects (4) : Vinca alkaloids & Taxanes",
+        "text": "Adverse Effects (4) : Vinca alkaloids & Taxanes",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAdverse Effects (4) : Vinca alkaloids & Taxanes\n\n(1) Peripheral neuropathy\n(2) Paralytic ileus/Constipation\n\n(3) Alopecia\n\n(4) Myelosupression\n\n[Image: eb7285e082dd00d9ac54434842b0180b9c246b100c8b4b4c29b343a8fb941332]\n\n[Image: 845293e157c44389c40a99b92da3aa8d28107dc80ff2b438af63b4d3a2a0f8e6]\n\n[Image: 148cb4b43fab7703e0247e7a65f571fd36cddd7d998ac3c7131b6aa9b0336075]\n\n[Image: 27c01566f4527ff1875cce7743c03dd66a4db9ef51805d1460b0f15c0bc52f5d]\n\n2.5 - Vincristine, vinblastine, paclitaxel\n[Image: e1e76c061fbaa1fa437b5c43d9879245f306b0beba584f0e4d9ee5c2b2ef13ab]\n\n[Image: 1e226faf8adfc33cfad5376402ab4d187caa405b8f2fda95474ddc89f0cd0175]\n\n[Image: 9ebb12f86ad920185f85771e6e40641a9f3b8fec395cd184edc489f944ac8b0e]",
+        "text": "(1) Peripheral neuropathy\n(2) Paralytic ileus/Constipation\n\n(3) Alopecia\n\n(4) Myelosupression\n\n[Image: eb7285e082dd00d9ac54434842b0180b9c246b100c8b4b4c29b343a8fb941332]\n\n[Image: 845293e157c44389c40a99b92da3aa8d28107dc80ff2b438af63b4d3a2a0f8e6]\n\n[Image: 148cb4b43fab7703e0247e7a65f571fd36cddd7d998ac3c7131b6aa9b0336075]\n\n[Image: 27c01566f4527ff1875cce7743c03dd66a4db9ef51805d1460b0f15c0bc52f5d]",
         "imageIds": [
             "eb7285e082dd00d9ac54434842b0180b9c246b100c8b4b4c29b343a8fb941332",
             "845293e157c44389c40a99b92da3aa8d28107dc80ff2b438af63b4d3a2a0f8e6",
             "148cb4b43fab7703e0247e7a65f571fd36cddd7d998ac3c7131b6aa9b0336075",
-            "27c01566f4527ff1875cce7743c03dd66a4db9ef51805d1460b0f15c0bc52f5d",
-            "e1e76c061fbaa1fa437b5c43d9879245f306b0beba584f0e4d9ee5c2b2ef13ab",
-            "1e226faf8adfc33cfad5376402ab4d187caa405b8f2fda95474ddc89f0cd0175",
-            "9ebb12f86ad920185f85771e6e40641a9f3b8fec395cd184edc489f944ac8b0e"
+            "27c01566f4527ff1875cce7743c03dd66a4db9ef51805d1460b0f15c0bc52f5d"
         ]
     },
     "images": {
@@ -39,12 +36,6 @@
             "filename": "paste-22522808500227.jpg",
             "mimeType": "image/jpeg",
             "bytes": 63017
-        },
-        "1e226faf8adfc33cfad5376402ab4d187caa405b8f2fda95474ddc89f0cd0175": {
-            "file": "images/1e226faf8adfc33cfad5376402ab4d187caa405b8f2fda95474ddc89f0cd0175.jpg",
-            "filename": "paste-207824877518851.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 45280
         },
         "27c01566f4527ff1875cce7743c03dd66a4db9ef51805d1460b0f15c0bc52f5d": {
             "file": "images/27c01566f4527ff1875cce7743c03dd66a4db9ef51805d1460b0f15c0bc52f5d.jpg",
@@ -57,18 +48,6 @@
             "filename": "paste-22346714841091.jpg",
             "mimeType": "image/jpeg",
             "bytes": 62936
-        },
-        "9ebb12f86ad920185f85771e6e40641a9f3b8fec395cd184edc489f944ac8b0e": {
-            "file": "images/9ebb12f86ad920185f85771e6e40641a9f3b8fec395cd184edc489f944ac8b0e.jpg",
-            "filename": "paste-158763466096643.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 80233
-        },
-        "e1e76c061fbaa1fa437b5c43d9879245f306b0beba584f0e4d9ee5c2b2ef13ab": {
-            "file": "images/e1e76c061fbaa1fa437b5c43d9879245f306b0beba584f0e4d9ee5c2b2ef13ab.jpg",
-            "filename": "paste-381625024118785.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 132610
         },
         "eb7285e082dd00d9ac54434842b0180b9c246b100c8b4b4c29b343a8fb941332": {
             "file": "images/eb7285e082dd00d9ac54434842b0180b9c246b100c8b4b4c29b343a8fb941332.jpg",

@@ -18,30 +18,16 @@
         "$Anesthetics_&_Analgesics"
     ],
     "question": {
-        "text": "§\n\nName a drug class used in conscious sedation",
+        "text": "Name a drug class used in conscious sedation",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName a drug class used in conscious sedation\n\nBenzodiazepines\n\n[Image: a82e2abfee3b43bb4ed554d608280e2a86f95b373464af1f29ddc4152f5d58ee]\n\n2.1 - Propofol, etomidate, ketamine\n[Image: 258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc]\n\n[Image: 876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc]",
+        "text": "Benzodiazepines\n\n[Image: a82e2abfee3b43bb4ed554d608280e2a86f95b373464af1f29ddc4152f5d58ee]",
         "imageIds": [
-            "a82e2abfee3b43bb4ed554d608280e2a86f95b373464af1f29ddc4152f5d58ee",
-            "258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc",
-            "876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc"
+            "a82e2abfee3b43bb4ed554d608280e2a86f95b373464af1f29ddc4152f5d58ee"
         ]
     },
     "images": {
-        "258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc": {
-            "file": "images/258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc.jpg",
-            "filename": "paste-490476675268611.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 83285
-        },
-        "876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc": {
-            "file": "images/876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc.jpg",
-            "filename": "paste-501411662004227.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 93496
-        },
         "a82e2abfee3b43bb4ed554d608280e2a86f95b373464af1f29ddc4152f5d58ee": {
             "file": "images/a82e2abfee3b43bb4ed554d608280e2a86f95b373464af1f29ddc4152f5d58ee.jpg",
             "filename": "paste-498564098686979.jpg",

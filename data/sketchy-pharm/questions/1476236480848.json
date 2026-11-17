@@ -18,16 +18,13 @@
         "$Diuretics"
     ],
     "question": {
-        "text": "§\n\nWhat effect do thiazide diuretics have on Ca2+ reabsorption?",
+        "text": "What effect do thiazide diuretics have on Ca2+ reabsorption?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat effect do thiazide diuretics have on Ca2+ reabsorption?\n\nIncrease\n\n(Contrast with loop diuretics)\n\n[Image: 08682b04ac330aa79812e77dee16cd4688428c3957b2b4ade05f1f4201ea641f]\n\n2.3 - Thiazides\n[Image: a5a59fef330fe02b89052204b14e10d5dee2c1296e5d97581aa2b331bb3a4342]\n\n[Image: 0b633d1ad98cf4dfb153c8a5f7e3b1f9ea2c1fa40896efea8d14971580df2658]\n\n[Image: e6e88325112ce114c3b542f6b7b5b2940db081cf6a98f199c896ed0dec87c53a]",
+        "text": "Increase\n\n(Contrast with loop diuretics)\n\n[Image: 08682b04ac330aa79812e77dee16cd4688428c3957b2b4ade05f1f4201ea641f]",
         "imageIds": [
-            "08682b04ac330aa79812e77dee16cd4688428c3957b2b4ade05f1f4201ea641f",
-            "a5a59fef330fe02b89052204b14e10d5dee2c1296e5d97581aa2b331bb3a4342",
-            "0b633d1ad98cf4dfb153c8a5f7e3b1f9ea2c1fa40896efea8d14971580df2658",
-            "e6e88325112ce114c3b542f6b7b5b2940db081cf6a98f199c896ed0dec87c53a"
+            "08682b04ac330aa79812e77dee16cd4688428c3957b2b4ade05f1f4201ea641f"
         ]
     },
     "images": {
@@ -36,24 +33,6 @@
             "filename": "paste-75273596829699.jpg",
             "mimeType": "image/jpeg",
             "bytes": 57022
-        },
-        "0b633d1ad98cf4dfb153c8a5f7e3b1f9ea2c1fa40896efea8d14971580df2658": {
-            "file": "images/0b633d1ad98cf4dfb153c8a5f7e3b1f9ea2c1fa40896efea8d14971580df2658.jpg",
-            "filename": "paste-201738908860419.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 33095
-        },
-        "a5a59fef330fe02b89052204b14e10d5dee2c1296e5d97581aa2b331bb3a4342": {
-            "file": "images/a5a59fef330fe02b89052204b14e10d5dee2c1296e5d97581aa2b331bb3a4342.jpg",
-            "filename": "paste-622430955503617.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 168603
-        },
-        "e6e88325112ce114c3b542f6b7b5b2940db081cf6a98f199c896ed0dec87c53a": {
-            "file": "images/e6e88325112ce114c3b542f6b7b5b2940db081cf6a98f199c896ed0dec87c53a.jpg",
-            "filename": "paste-197048804573187.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 54248
         }
     }
 }

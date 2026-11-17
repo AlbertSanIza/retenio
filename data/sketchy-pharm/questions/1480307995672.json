@@ -18,25 +18,17 @@
         "$Antivirals_HIV"
     ],
     "question": {
-        "text": "§\n\nIs Tenofovir a nucleoside or nucleotide?",
+        "text": "Is Tenofovir a nucleoside or nucleotide?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nIs Tenofovir a nucleoside or nucleotide?\n\nTenofovir = Nucleotide\n\n[Image: f18c92106894ed7dd5d53dbcfbe44833a24e8b6b26a2e6d7c51f86d0d5b7bda1]\n\n[Image: c8240d4bcbfdeff7dbd107499a3f6fa975693cf0341a335e32cce9fb3e219b2b]\n\n6.1 - NRTIs\n[Image: f2dc4b00a350da8261c36001e931dd46ecabb7f3e92da2e54e4bcc72a8bcc61e]\n\n[Image: 0c4d3026f6636c102ee5af4eb5ef4c4c73544c1d5ae8516531bab7656f39350f]",
+        "text": "Tenofovir = Nucleotide\n\n[Image: f18c92106894ed7dd5d53dbcfbe44833a24e8b6b26a2e6d7c51f86d0d5b7bda1]\n\n[Image: c8240d4bcbfdeff7dbd107499a3f6fa975693cf0341a335e32cce9fb3e219b2b]",
         "imageIds": [
             "f18c92106894ed7dd5d53dbcfbe44833a24e8b6b26a2e6d7c51f86d0d5b7bda1",
-            "c8240d4bcbfdeff7dbd107499a3f6fa975693cf0341a335e32cce9fb3e219b2b",
-            "f2dc4b00a350da8261c36001e931dd46ecabb7f3e92da2e54e4bcc72a8bcc61e",
-            "0c4d3026f6636c102ee5af4eb5ef4c4c73544c1d5ae8516531bab7656f39350f"
+            "c8240d4bcbfdeff7dbd107499a3f6fa975693cf0341a335e32cce9fb3e219b2b"
         ]
     },
     "images": {
-        "0c4d3026f6636c102ee5af4eb5ef4c4c73544c1d5ae8516531bab7656f39350f": {
-            "file": "images/0c4d3026f6636c102ee5af4eb5ef4c4c73544c1d5ae8516531bab7656f39350f.jpg",
-            "filename": "paste-541874548899843.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 36930
-        },
         "c8240d4bcbfdeff7dbd107499a3f6fa975693cf0341a335e32cce9fb3e219b2b": {
             "file": "images/c8240d4bcbfdeff7dbd107499a3f6fa975693cf0341a335e32cce9fb3e219b2b.jpg",
             "filename": "paste-116500987904003.jpg",
@@ -48,12 +40,6 @@
             "filename": "paste-116226109997059.jpg",
             "mimeType": "image/jpeg",
             "bytes": 52711
-        },
-        "f2dc4b00a350da8261c36001e931dd46ecabb7f3e92da2e54e4bcc72a8bcc61e": {
-            "file": "images/f2dc4b00a350da8261c36001e931dd46ecabb7f3e92da2e54e4bcc72a8bcc61e.jpg",
-            "filename": "paste-280701882597377.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 154640
         }
     }
 }

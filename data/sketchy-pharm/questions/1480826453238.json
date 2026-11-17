@@ -18,42 +18,21 @@
         "$Antifungals"
     ],
     "question": {
-        "text": "§\n\nWhat is the azole of choice for the treatment of Cryptococcal meningitis?",
+        "text": "What is the azole of choice for the treatment of Cryptococcal meningitis?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat is the azole of choice for the treatment of Cryptococcal meningitis?\n\nFluconazole\n\n(Combined with Flucytosine)\n\n[Image: 72ffdce2f317c5b4545174248ac98eb5ea71f9a6c21add29f9b790766bb2d8c6]\n\n5.2 - Azoles\n[Image: b4c80df813ad6a6588ec141052d0bc0dfc887db53d1294365b5e1df24fd347da]\n\n[Image: 9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63]\n\n[Image: 3594b98443f5a56d34c4e5381332ec926dfe5a8060d7f82251ca8ff632397622]",
+        "text": "Fluconazole\n\n(Combined with Flucytosine)\n\n[Image: 72ffdce2f317c5b4545174248ac98eb5ea71f9a6c21add29f9b790766bb2d8c6]",
         "imageIds": [
-            "72ffdce2f317c5b4545174248ac98eb5ea71f9a6c21add29f9b790766bb2d8c6",
-            "b4c80df813ad6a6588ec141052d0bc0dfc887db53d1294365b5e1df24fd347da",
-            "9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63",
-            "3594b98443f5a56d34c4e5381332ec926dfe5a8060d7f82251ca8ff632397622"
+            "72ffdce2f317c5b4545174248ac98eb5ea71f9a6c21add29f9b790766bb2d8c6"
         ]
     },
     "images": {
-        "3594b98443f5a56d34c4e5381332ec926dfe5a8060d7f82251ca8ff632397622": {
-            "file": "images/3594b98443f5a56d34c4e5381332ec926dfe5a8060d7f82251ca8ff632397622.jpg",
-            "filename": "paste-476183024107523.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 43784
-        },
         "72ffdce2f317c5b4545174248ac98eb5ea71f9a6c21add29f9b790766bb2d8c6": {
             "file": "images/72ffdce2f317c5b4545174248ac98eb5ea71f9a6c21add29f9b790766bb2d8c6.jpg",
             "filename": "paste-281947423113219.jpg",
             "mimeType": "image/jpeg",
             "bytes": 50990
-        },
-        "9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63": {
-            "file": "images/9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63.jpg",
-            "filename": "paste-468138550362115.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 53292
-        },
-        "b4c80df813ad6a6588ec141052d0bc0dfc887db53d1294365b5e1df24fd347da": {
-            "file": "images/b4c80df813ad6a6588ec141052d0bc0dfc887db53d1294365b5e1df24fd347da.jpg",
-            "filename": "paste-271081155854337.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 139643
         }
     }
 }

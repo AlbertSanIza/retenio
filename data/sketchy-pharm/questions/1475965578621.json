@@ -18,30 +18,16 @@
         "$Antiarrhythmics"
     ],
     "question": {
-        "text": "§\n\nWhat effect does stimulation of A1 receptor have on the cardiac ion currents?",
+        "text": "What effect does stimulation of A1 receptor have on the cardiac ion currents?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat effect does stimulation of A1 receptor have on the cardiac ion currents?\n\n(1) ↑ Outwart K+ current\n(2) ↓ Inward Ca2+ current\n\n(Both factors inhibit AP)\n\n[Image: aa5304a75cae4885f9710d7ca42a75622fdfc3d7471ae1f9900cbe54d6ce85a3]\n\n4.5 - \"Class V\"\n[Image: 314a9d9956154c93a28c11da294df9fba3bba8c86bfa2c83b2350434f676e34f]\n\n[Image: 1c24c7fc018e2e9a9366e655fe8c5bb583bb8a13f6a423cbe2de86d4e46c6595]",
+        "text": "(1) ↑ Outwart K+ current\n(2) ↓ Inward Ca2+ current\n\n(Both factors inhibit AP)\n\n[Image: aa5304a75cae4885f9710d7ca42a75622fdfc3d7471ae1f9900cbe54d6ce85a3]",
         "imageIds": [
-            "aa5304a75cae4885f9710d7ca42a75622fdfc3d7471ae1f9900cbe54d6ce85a3",
-            "314a9d9956154c93a28c11da294df9fba3bba8c86bfa2c83b2350434f676e34f",
-            "1c24c7fc018e2e9a9366e655fe8c5bb583bb8a13f6a423cbe2de86d4e46c6595"
+            "aa5304a75cae4885f9710d7ca42a75622fdfc3d7471ae1f9900cbe54d6ce85a3"
         ]
     },
     "images": {
-        "1c24c7fc018e2e9a9366e655fe8c5bb583bb8a13f6a423cbe2de86d4e46c6595": {
-            "file": "images/1c24c7fc018e2e9a9366e655fe8c5bb583bb8a13f6a423cbe2de86d4e46c6595.jpg",
-            "filename": "paste-258750304747523.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 44883
-        },
-        "314a9d9956154c93a28c11da294df9fba3bba8c86bfa2c83b2350434f676e34f": {
-            "file": "images/314a9d9956154c93a28c11da294df9fba3bba8c86bfa2c83b2350434f676e34f.jpg",
-            "filename": "paste-664169447686145.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 124309
-        },
         "aa5304a75cae4885f9710d7ca42a75622fdfc3d7471ae1f9900cbe54d6ce85a3": {
             "file": "images/aa5304a75cae4885f9710d7ca42a75622fdfc3d7471ae1f9900cbe54d6ce85a3.jpg",
             "filename": "paste-48348446851075.jpg",

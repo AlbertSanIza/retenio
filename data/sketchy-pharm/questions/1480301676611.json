@@ -18,42 +18,21 @@
         "$Cell_Wall_&_Membrane_Active_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nWhat antibiotic is used as prophylaxis before dental procedures in patients at risk of endocarditis?",
+        "text": "What antibiotic is used as prophylaxis before dental procedures in patients at risk of endocarditis?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat antibiotic is used as prophylaxis before dental procedures in patients at risk of endocarditis?\n\nAmoxacillin\n\n[Image: 9da98ac47eb4c4af084f8f79b5a4a5e8f91d3ea97019e11ad06969b9f9f9b9e5]\n\n1.3 - Ampicillin, Amoxicillin, Piperacillin, Ticarcillin\n[Image: 73649876eb90940a2752e430d48e8b86fa74f357ee4b66ebcc0c785bdb3d9a75]\n\n[Image: e247dc64a8f74ff65fa3d44949043d8004ba0ee12839e32679e234e2233f2722]\n\n[Image: 8e0858281ca4bfb7a1bd12c078d95409c582c615ea7260b31a32bbb31fa1d57f]",
+        "text": "Amoxacillin\n\n[Image: 9da98ac47eb4c4af084f8f79b5a4a5e8f91d3ea97019e11ad06969b9f9f9b9e5]",
         "imageIds": [
-            "9da98ac47eb4c4af084f8f79b5a4a5e8f91d3ea97019e11ad06969b9f9f9b9e5",
-            "73649876eb90940a2752e430d48e8b86fa74f357ee4b66ebcc0c785bdb3d9a75",
-            "e247dc64a8f74ff65fa3d44949043d8004ba0ee12839e32679e234e2233f2722",
-            "8e0858281ca4bfb7a1bd12c078d95409c582c615ea7260b31a32bbb31fa1d57f"
+            "9da98ac47eb4c4af084f8f79b5a4a5e8f91d3ea97019e11ad06969b9f9f9b9e5"
         ]
     },
     "images": {
-        "73649876eb90940a2752e430d48e8b86fa74f357ee4b66ebcc0c785bdb3d9a75": {
-            "file": "images/73649876eb90940a2752e430d48e8b86fa74f357ee4b66ebcc0c785bdb3d9a75.jpg",
-            "filename": "paste-62818191671299 (1).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 102811
-        },
-        "8e0858281ca4bfb7a1bd12c078d95409c582c615ea7260b31a32bbb31fa1d57f": {
-            "file": "images/8e0858281ca4bfb7a1bd12c078d95409c582c615ea7260b31a32bbb31fa1d57f.jpg",
-            "filename": "paste-485790865948675.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 36322
-        },
         "9da98ac47eb4c4af084f8f79b5a4a5e8f91d3ea97019e11ad06969b9f9f9b9e5": {
             "file": "images/9da98ac47eb4c4af084f8f79b5a4a5e8f91d3ea97019e11ad06969b9f9f9b9e5.jpg",
             "filename": "paste-97736275787779.jpg",
             "mimeType": "image/jpeg",
             "bytes": 41087
-        },
-        "e247dc64a8f74ff65fa3d44949043d8004ba0ee12839e32679e234e2233f2722": {
-            "file": "images/e247dc64a8f74ff65fa3d44949043d8004ba0ee12839e32679e234e2233f2722.jpg",
-            "filename": "paste-328711027032067.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 77523
         }
     }
 }

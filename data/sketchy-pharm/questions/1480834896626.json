@@ -18,37 +18,16 @@
         "$Antivirals_Hepatitis"
     ],
     "question": {
-        "text": "§\n\nMOA: Ribavirin",
+        "text": "MOA: Ribavirin",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nMOA: Ribavirin\n\nNucleoside analog\n\n(Guanosine analog)\n\n[Image: cee378a0e2b46a2e156b586ce6d09c2d2214e0edff0cc7e6f4fe393001e59bab]\n\n7.2 - Ribavirin, sofosbuvir, simeprevir\n[Image: cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1]\n\n[Image: 27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc]\n\n[Image: c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81]\n\u001b\u001b",
+        "text": "Nucleoside analog\n\n(Guanosine analog)\n\n[Image: cee378a0e2b46a2e156b586ce6d09c2d2214e0edff0cc7e6f4fe393001e59bab]",
         "imageIds": [
-            "cee378a0e2b46a2e156b586ce6d09c2d2214e0edff0cc7e6f4fe393001e59bab",
-            "cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1",
-            "27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc",
-            "c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81"
+            "cee378a0e2b46a2e156b586ce6d09c2d2214e0edff0cc7e6f4fe393001e59bab"
         ]
     },
     "images": {
-        "27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc": {
-            "file": "images/27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc.jpg",
-            "filename": "paste-380113195630595.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 70126
-        },
-        "c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81": {
-            "file": "images/c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81.jpg",
-            "filename": "paste-755235639263235.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 72171
-        },
-        "cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1": {
-            "file": "images/cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1.jpg",
-            "filename": "paste-308125248782337.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 122787
-        },
         "cee378a0e2b46a2e156b586ce6d09c2d2214e0edff0cc7e6f4fe393001e59bab": {
             "file": "images/cee378a0e2b46a2e156b586ce6d09c2d2214e0edff0cc7e6f4fe393001e59bab.jpg",
             "filename": "paste-381023728697347.jpg",

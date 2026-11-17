@@ -18,18 +18,15 @@
         "$Other_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nName 3 different mechanisms by which TMP-SMX can lead to anemia",
+        "text": "Name 3 different mechanisms by which TMP-SMX can lead to anemia",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 3 different mechanisms by which TMP-SMX can lead to anemia\n\n(1) Pancytopenia ⇒ ↓ RBCs\n(2) ↓ Folate ⇒ Megaloblastic anemia\n\n(3) ↓ GSH ⇒ Hemolytic anemia\n\n[Image: 5ea222767fa56916bfe192db3001362659248a9cba0343b79df6ce830246b68d]\n\n[Image: 217e5ca93018bd8622b3668a45d4be9c19e813b0d688aca80100b840e20a0de4]\n\n[Image: 8a6d4e4b197795dd60264b367a333f6e28cd1181b53391eca21e7190527bac93]\n\n4.1 - Trimethoprim/Sulfamethoxazole\n[Image: 37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da]\n\n[Image: 415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9]\n\n[Image: 302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70]",
+        "text": "(1) Pancytopenia ⇒ ↓ RBCs\n(2) ↓ Folate ⇒ Megaloblastic anemia\n\n(3) ↓ GSH ⇒ Hemolytic anemia\n\n[Image: 5ea222767fa56916bfe192db3001362659248a9cba0343b79df6ce830246b68d]\n\n[Image: 217e5ca93018bd8622b3668a45d4be9c19e813b0d688aca80100b840e20a0de4]\n\n[Image: 8a6d4e4b197795dd60264b367a333f6e28cd1181b53391eca21e7190527bac93]",
         "imageIds": [
             "5ea222767fa56916bfe192db3001362659248a9cba0343b79df6ce830246b68d",
             "217e5ca93018bd8622b3668a45d4be9c19e813b0d688aca80100b840e20a0de4",
-            "8a6d4e4b197795dd60264b367a333f6e28cd1181b53391eca21e7190527bac93",
-            "37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da",
-            "415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9",
-            "302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70"
+            "8a6d4e4b197795dd60264b367a333f6e28cd1181b53391eca21e7190527bac93"
         ]
     },
     "images": {
@@ -38,24 +35,6 @@
             "filename": "paste-204114025775107.jpg",
             "mimeType": "image/jpeg",
             "bytes": 56086
-        },
-        "302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70": {
-            "file": "images/302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70.jpg",
-            "filename": "paste-184696478629891.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 30701
-        },
-        "37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da": {
-            "file": "images/37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da.jpg",
-            "filename": "paste-247265562198017.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 141182
-        },
-        "415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9": {
-            "file": "images/415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9.jpg",
-            "filename": "paste-413223098515459.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 75809
         },
         "5ea222767fa56916bfe192db3001362659248a9cba0343b79df6ce830246b68d": {
             "file": "images/5ea222767fa56916bfe192db3001362659248a9cba0343b79df6ce830246b68d.jpg",

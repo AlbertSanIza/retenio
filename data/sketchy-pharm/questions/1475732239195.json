@@ -18,49 +18,28 @@
         "$Sympathetics"
     ],
     "question": {
-        "text": "§\n\nWhat type of sympatholytic are useful in chronic stable angina?",
+        "text": "What type of sympatholytic are useful in chronic stable angina?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat type of sympatholytic are useful in chronic stable angina?\n\nβ blockers\n\n[Image: df409d0dbcb5eef971ea38f0d672b6ce50ddc8e041646a4155fd2d5fe5b728ba]\n\n[Image: 5f0e66e57f295d42da12ea744d45c2668505eb03e2ce99edeb5501bf964478f8]\n\n2.4 - Beta blockers\n[Image: ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98]\n\n[Image: 0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173]\n\n[Image: 6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6]",
+        "text": "β blockers\n\n[Image: df409d0dbcb5eef971ea38f0d672b6ce50ddc8e041646a4155fd2d5fe5b728ba]\n\n[Image: 5f0e66e57f295d42da12ea744d45c2668505eb03e2ce99edeb5501bf964478f8]",
         "imageIds": [
             "df409d0dbcb5eef971ea38f0d672b6ce50ddc8e041646a4155fd2d5fe5b728ba",
-            "5f0e66e57f295d42da12ea744d45c2668505eb03e2ce99edeb5501bf964478f8",
-            "ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98",
-            "0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173",
-            "6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6"
+            "5f0e66e57f295d42da12ea744d45c2668505eb03e2ce99edeb5501bf964478f8"
         ]
     },
     "images": {
-        "0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173": {
-            "file": "images/0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173.jpg",
-            "filename": "paste-302687820185603.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 107698
-        },
         "5f0e66e57f295d42da12ea744d45c2668505eb03e2ce99edeb5501bf964478f8": {
             "file": "images/5f0e66e57f295d42da12ea744d45c2668505eb03e2ce99edeb5501bf964478f8.jpg",
             "filename": "paste-35923106463747.jpg",
             "mimeType": "image/jpeg",
             "bytes": 46407
         },
-        "6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6": {
-            "file": "images/6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6.jpg",
-            "filename": "paste-305681412390915.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 63928
-        },
         "df409d0dbcb5eef971ea38f0d672b6ce50ddc8e041646a4155fd2d5fe5b728ba": {
             "file": "images/df409d0dbcb5eef971ea38f0d672b6ce50ddc8e041646a4155fd2d5fe5b728ba.jpg",
             "filename": "paste-35901631627267.jpg",
             "mimeType": "image/jpeg",
             "bytes": 41732
-        },
-        "ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98": {
-            "file": "images/ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98.jpg",
-            "filename": "paste-438146793734145.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 122524
         }
     }
 }

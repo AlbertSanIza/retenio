@@ -18,19 +18,16 @@
         "$Antivirals_Hepatitis"
     ],
     "question": {
-        "text": "§\n\nWhat is/was the traditional treatment for Hepatitis C?",
+        "text": "What is/was the traditional treatment for Hepatitis C?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat is/was the traditional treatment for Hepatitis C?\n\n(1) Interferon-α\n(2) Ribavirin\n\n(However treatment is changing quickly with new protease and polymerase inhibitors)\n\n[Image: 1b0a30dbc7fd0dd38cccf632e4d19ccbde8b8faebe86b9388b4b2b1dfcb86ac8]\n\n[Image: be5cbed77ee2fe84b75c7b1dc12242c7c3b9ca83c3785608c3abcaacb4a1895f]\n\n[Image: 3ab50e554cc96f29eec731f5ded53fdcaeb27451b6b1af972ebe0c3c020caf7a]\n\n[Image: 849fbe1b768254647537073d39df6f95a1b4ebb8521ae2eafc3fcdd7aadef9f4]\n\n7.2 - Ribavirin, sofosbuvir, simeprevir\n[Image: cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1]\n\n[Image: 27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc]\n\n[Image: c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81]\n\u001b\u001b",
+        "text": "(1) Interferon-α\n(2) Ribavirin\n\n(However treatment is changing quickly with new protease and polymerase inhibitors)\n\n[Image: 1b0a30dbc7fd0dd38cccf632e4d19ccbde8b8faebe86b9388b4b2b1dfcb86ac8]\n\n[Image: be5cbed77ee2fe84b75c7b1dc12242c7c3b9ca83c3785608c3abcaacb4a1895f]\n\n[Image: 3ab50e554cc96f29eec731f5ded53fdcaeb27451b6b1af972ebe0c3c020caf7a]\n\n[Image: 849fbe1b768254647537073d39df6f95a1b4ebb8521ae2eafc3fcdd7aadef9f4]",
         "imageIds": [
             "1b0a30dbc7fd0dd38cccf632e4d19ccbde8b8faebe86b9388b4b2b1dfcb86ac8",
             "be5cbed77ee2fe84b75c7b1dc12242c7c3b9ca83c3785608c3abcaacb4a1895f",
             "3ab50e554cc96f29eec731f5ded53fdcaeb27451b6b1af972ebe0c3c020caf7a",
-            "849fbe1b768254647537073d39df6f95a1b4ebb8521ae2eafc3fcdd7aadef9f4",
-            "cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1",
-            "27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc",
-            "c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81"
+            "849fbe1b768254647537073d39df6f95a1b4ebb8521ae2eafc3fcdd7aadef9f4"
         ]
     },
     "images": {
@@ -39,12 +36,6 @@
             "filename": "paste-380796095430659.jpg",
             "mimeType": "image/jpeg",
             "bytes": 34683
-        },
-        "27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc": {
-            "file": "images/27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc.jpg",
-            "filename": "paste-380113195630595.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 70126
         },
         "3ab50e554cc96f29eec731f5ded53fdcaeb27451b6b1af972ebe0c3c020caf7a": {
             "file": "images/3ab50e554cc96f29eec731f5ded53fdcaeb27451b6b1af972ebe0c3c020caf7a.jpg",
@@ -63,18 +54,6 @@
             "filename": "paste-78872779423747.jpg",
             "mimeType": "image/jpeg",
             "bytes": 49694
-        },
-        "c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81": {
-            "file": "images/c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81.jpg",
-            "filename": "paste-755235639263235.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 72171
-        },
-        "cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1": {
-            "file": "images/cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1.jpg",
-            "filename": "paste-308125248782337.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 122787
         }
     }
 }

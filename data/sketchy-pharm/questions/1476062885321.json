@@ -18,63 +18,28 @@
         "$Vasoactive"
     ],
     "question": {
-        "text": "§\n\nName 3 physiologic effects of PGE1",
+        "text": "Name 3 physiologic effects of PGE1",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 3 physiologic effects of PGE1\n\n(1) Arteriolar vasodilation\n(2) ↑ Gastric mucus secretion\n\n(3) ↑ Uterine contraction\n\n(Also prevents platelet aggregation)\n\n[Image: 1fcd93c48dd1bdcfa856887fb8bd5bd7324878f553490882a54c70352fe76e0c]\n\n[Image: 8d65e1ded7f4a86e065f055d5300dd656648aae23fa3083724318443f1dec984]\n\n1.3 - Prostaglandins, prostacyclin, bosentan, PDE5 inhibitors\n[Image: 2dbd326f0a1e08d4942cc5d7537133b42d82504a04d00fe25920f3f0a806dd47]\n\n[Image: 2b85fb13ae3aa49b21213fdceb829d644f7d3f8cd52ee62e93bf270da225890e]\n\n[Image: e4c9a6a191a54bf9bd81b28c5cba73eae1cef1a1e6712de9cf1eeb1583614977]\n\n[Image: 277f54b613db7111307209e1730845eed80fa7ad002ac16ac6c21e81bc9b6b88]\n\n[Image: 12b6955ddf801bf06966e4f9f758f8e3ed14e1dd39f3ce0518347049c29e1bfd]",
+        "text": "(1) Arteriolar vasodilation\n(2) ↑ Gastric mucus secretion\n\n(3) ↑ Uterine contraction\n\n(Also prevents platelet aggregation)\n\n[Image: 1fcd93c48dd1bdcfa856887fb8bd5bd7324878f553490882a54c70352fe76e0c]\n\n[Image: 8d65e1ded7f4a86e065f055d5300dd656648aae23fa3083724318443f1dec984]",
         "imageIds": [
             "1fcd93c48dd1bdcfa856887fb8bd5bd7324878f553490882a54c70352fe76e0c",
-            "8d65e1ded7f4a86e065f055d5300dd656648aae23fa3083724318443f1dec984",
-            "2dbd326f0a1e08d4942cc5d7537133b42d82504a04d00fe25920f3f0a806dd47",
-            "2b85fb13ae3aa49b21213fdceb829d644f7d3f8cd52ee62e93bf270da225890e",
-            "e4c9a6a191a54bf9bd81b28c5cba73eae1cef1a1e6712de9cf1eeb1583614977",
-            "277f54b613db7111307209e1730845eed80fa7ad002ac16ac6c21e81bc9b6b88",
-            "12b6955ddf801bf06966e4f9f758f8e3ed14e1dd39f3ce0518347049c29e1bfd"
+            "8d65e1ded7f4a86e065f055d5300dd656648aae23fa3083724318443f1dec984"
         ]
     },
     "images": {
-        "12b6955ddf801bf06966e4f9f758f8e3ed14e1dd39f3ce0518347049c29e1bfd": {
-            "file": "images/12b6955ddf801bf06966e4f9f758f8e3ed14e1dd39f3ce0518347049c29e1bfd.jpg",
-            "filename": "paste-228818677661699.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 56840
-        },
         "1fcd93c48dd1bdcfa856887fb8bd5bd7324878f553490882a54c70352fe76e0c": {
             "file": "images/1fcd93c48dd1bdcfa856887fb8bd5bd7324878f553490882a54c70352fe76e0c.jpg",
             "filename": "paste-154949535137795.jpg",
             "mimeType": "image/jpeg",
             "bytes": 57896
         },
-        "277f54b613db7111307209e1730845eed80fa7ad002ac16ac6c21e81bc9b6b88": {
-            "file": "images/277f54b613db7111307209e1730845eed80fa7ad002ac16ac6c21e81bc9b6b88.jpg",
-            "filename": "paste-227044856168451.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 60699
-        },
-        "2b85fb13ae3aa49b21213fdceb829d644f7d3f8cd52ee62e93bf270da225890e": {
-            "file": "images/2b85fb13ae3aa49b21213fdceb829d644f7d3f8cd52ee62e93bf270da225890e.jpg",
-            "filename": "paste-232344845811715.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 114269
-        },
-        "2dbd326f0a1e08d4942cc5d7537133b42d82504a04d00fe25920f3f0a806dd47": {
-            "file": "images/2dbd326f0a1e08d4942cc5d7537133b42d82504a04d00fe25920f3f0a806dd47.jpg",
-            "filename": "paste-76897094467587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 155081
-        },
         "8d65e1ded7f4a86e065f055d5300dd656648aae23fa3083724318443f1dec984": {
             "file": "images/8d65e1ded7f4a86e065f055d5300dd656648aae23fa3083724318443f1dec984.jpg",
             "filename": "paste-173112951832579.jpg",
             "mimeType": "image/jpeg",
             "bytes": 65224
-        },
-        "e4c9a6a191a54bf9bd81b28c5cba73eae1cef1a1e6712de9cf1eeb1583614977": {
-            "file": "images/e4c9a6a191a54bf9bd81b28c5cba73eae1cef1a1e6712de9cf1eeb1583614977.jpg",
-            "filename": "paste-123110942572547 (1).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 38877
         }
     }
 }

@@ -18,64 +18,29 @@
         "$Diabetes"
     ],
     "question": {
-        "text": "§\n\nWhat metabolic changes occur after insulin binds its receptor?",
+        "text": "What metabolic changes occur after insulin binds its receptor?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat metabolic changes occur after insulin binds its receptor?\n\n(1) ↑ Glycogen\n\n(2) ↑ Anabolism\n\n(3) ↑ TG synthesis\n\n[Image: 8a1e07af2557f48bb1609b7b682f2ce36ae1e5f9f279d20779436d7667fe0d54]\n\n[Image: e1d87362930354a3651ffa551c89e9aa9392c9fba9b2f8cccf2de78726897dfc]\n\n[Image: 40bf03ccf95e37aa3e9611e828c5e0c71de073ed8cf3f04dbe9cb221b13f66bd]\n\n2.1 - Insulin, sulfonylureas, meglitinides, GLP-1 agonists, DPP-4 inhibitors\n[Image: d4563c0f5a190a17a7288e0360e41e8d67c6dbfcab9d7378abb51e3904b2eeed]\n\n[Image: 13d541a77f83d6ca646a7cbd73bb415478e28faa82e25f8a178f2ea9764498e1]\n\n[Image: 5f500a024f2eda7523cefeadb00a605e0dc8488e9a0a92d15694571abf122dbc]\n\n[Image: 172ef24da9f1adb51fb31db427845467485fb3776c926c1dee0227bc915055e3]\n\n[Image: d6823ca16897e3745b029b6da053e5e131bb1a0f92c5cab1bf13124952c69874]",
+        "text": "(1) ↑ Glycogen\n\n(2) ↑ Anabolism\n\n(3) ↑ TG synthesis\n\n[Image: 8a1e07af2557f48bb1609b7b682f2ce36ae1e5f9f279d20779436d7667fe0d54]\n\n[Image: e1d87362930354a3651ffa551c89e9aa9392c9fba9b2f8cccf2de78726897dfc]\n\n[Image: 40bf03ccf95e37aa3e9611e828c5e0c71de073ed8cf3f04dbe9cb221b13f66bd]",
         "imageIds": [
             "8a1e07af2557f48bb1609b7b682f2ce36ae1e5f9f279d20779436d7667fe0d54",
             "e1d87362930354a3651ffa551c89e9aa9392c9fba9b2f8cccf2de78726897dfc",
-            "40bf03ccf95e37aa3e9611e828c5e0c71de073ed8cf3f04dbe9cb221b13f66bd",
-            "d4563c0f5a190a17a7288e0360e41e8d67c6dbfcab9d7378abb51e3904b2eeed",
-            "13d541a77f83d6ca646a7cbd73bb415478e28faa82e25f8a178f2ea9764498e1",
-            "5f500a024f2eda7523cefeadb00a605e0dc8488e9a0a92d15694571abf122dbc",
-            "172ef24da9f1adb51fb31db427845467485fb3776c926c1dee0227bc915055e3",
-            "d6823ca16897e3745b029b6da053e5e131bb1a0f92c5cab1bf13124952c69874"
+            "40bf03ccf95e37aa3e9611e828c5e0c71de073ed8cf3f04dbe9cb221b13f66bd"
         ]
     },
     "images": {
-        "13d541a77f83d6ca646a7cbd73bb415478e28faa82e25f8a178f2ea9764498e1": {
-            "file": "images/13d541a77f83d6ca646a7cbd73bb415478e28faa82e25f8a178f2ea9764498e1.jpg",
-            "filename": "paste-728576777256963.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 77849
-        },
-        "172ef24da9f1adb51fb31db427845467485fb3776c926c1dee0227bc915055e3": {
-            "file": "images/172ef24da9f1adb51fb31db427845467485fb3776c926c1dee0227bc915055e3.jpg",
-            "filename": "paste-96877282328579.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 133257
-        },
         "40bf03ccf95e37aa3e9611e828c5e0c71de073ed8cf3f04dbe9cb221b13f66bd": {
             "file": "images/40bf03ccf95e37aa3e9611e828c5e0c71de073ed8cf3f04dbe9cb221b13f66bd.jpg",
             "filename": "paste-38865159061507.jpg",
             "mimeType": "image/jpeg",
             "bytes": 39695
         },
-        "5f500a024f2eda7523cefeadb00a605e0dc8488e9a0a92d15694571abf122dbc": {
-            "file": "images/5f500a024f2eda7523cefeadb00a605e0dc8488e9a0a92d15694571abf122dbc.jpg",
-            "filename": "paste-722838700949507.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 28342
-        },
         "8a1e07af2557f48bb1609b7b682f2ce36ae1e5f9f279d20779436d7667fe0d54": {
             "file": "images/8a1e07af2557f48bb1609b7b682f2ce36ae1e5f9f279d20779436d7667fe0d54.jpg",
             "filename": "paste-38676180500483.jpg",
             "mimeType": "image/jpeg",
             "bytes": 40050
-        },
-        "d4563c0f5a190a17a7288e0360e41e8d67c6dbfcab9d7378abb51e3904b2eeed": {
-            "file": "images/d4563c0f5a190a17a7288e0360e41e8d67c6dbfcab9d7378abb51e3904b2eeed.jpg",
-            "filename": "paste-684905549791233.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 118710
-        },
-        "d6823ca16897e3745b029b6da053e5e131bb1a0f92c5cab1bf13124952c69874": {
-            "file": "images/d6823ca16897e3745b029b6da053e5e131bb1a0f92c5cab1bf13124952c69874.jpg",
-            "filename": "paste-99097780420611.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 104792
         },
         "e1d87362930354a3651ffa551c89e9aa9392c9fba9b2f8cccf2de78726897dfc": {
             "file": "images/e1d87362930354a3651ffa551c89e9aa9392c9fba9b2f8cccf2de78726897dfc.jpg",

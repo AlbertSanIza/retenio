@@ -18,38 +18,17 @@
         "$Other_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nName 2 reasons why TMP-SMX can lead to excessive bleeding when used with Warfarin",
+        "text": "Name 2 reasons why TMP-SMX can lead to excessive bleeding when used with Warfarin",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 2 reasons why TMP-SMX can lead to excessive bleeding when used with Warfarin\n\nThere is an increase in free Warfarin concentrate due to:\n\n(1) Inhibition of CYP450 system\n(2) Displacement from albumin\n\n[Image: 869b45be934dc303ca78308bfdc0b3453d5bd9d2dd6474c6c43c8cb0507a692f]\n\n[Image: 7800c677d8207daa01333f117c00e8a312a407d3dc784e124fa2157c0f4f2ff3]\n\n4.1 - Trimethoprim/Sulfamethoxazole\n[Image: 37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da]\n\n[Image: 415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9]\n\n[Image: 302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70]",
+        "text": "There is an increase in free Warfarin concentrate due to:\n\n(1) Inhibition of CYP450 system\n(2) Displacement from albumin\n\n[Image: 869b45be934dc303ca78308bfdc0b3453d5bd9d2dd6474c6c43c8cb0507a692f]\n\n[Image: 7800c677d8207daa01333f117c00e8a312a407d3dc784e124fa2157c0f4f2ff3]",
         "imageIds": [
             "869b45be934dc303ca78308bfdc0b3453d5bd9d2dd6474c6c43c8cb0507a692f",
-            "7800c677d8207daa01333f117c00e8a312a407d3dc784e124fa2157c0f4f2ff3",
-            "37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da",
-            "415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9",
-            "302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70"
+            "7800c677d8207daa01333f117c00e8a312a407d3dc784e124fa2157c0f4f2ff3"
         ]
     },
     "images": {
-        "302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70": {
-            "file": "images/302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70.jpg",
-            "filename": "paste-184696478629891.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 30701
-        },
-        "37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da": {
-            "file": "images/37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da.jpg",
-            "filename": "paste-247265562198017.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 141182
-        },
-        "415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9": {
-            "file": "images/415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9.jpg",
-            "filename": "paste-413223098515459.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 75809
-        },
         "7800c677d8207daa01333f117c00e8a312a407d3dc784e124fa2157c0f4f2ff3": {
             "file": "images/7800c677d8207daa01333f117c00e8a312a407d3dc784e124fa2157c0f4f2ff3.jpg",
             "filename": "paste-206197084913667.jpg",

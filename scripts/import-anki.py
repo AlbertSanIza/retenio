@@ -7,6 +7,8 @@ permanent question IDs. Imports refresh matching cards and retain absent cards.
 Votes, scheduling, and other user activity belong in a separate service keyed by ID.
 Supports regular card templates, conditional fields, FrontSide, text and hint
 filters. Unsupported formats/filters fail explicitly instead of losing content.
+For the SketchyPharm note type, export each template's Extra Q / Extra A / Extra
+field group, excluding the shared Entire Sketch and More About This Topic fields.
 Package reference: https://github.com/ankitects/anki/tree/main/rslib/src/import_export/package
 """
 
@@ -115,6 +117,33 @@ def render_template(template, fields):
     if conditions:
         raise ValueError("Unclosed template section")
     return "".join(output)
+
+
+def card_html(model, template, fields):
+    if model["name"] == "SketchyPharm":
+        # This note type has up to 30 question/answer/image groups. Template names
+        # are misleading (e.g. ordinal 0 is named Card 16), so use field references.
+        def references(value):
+            return {token.strip().split(":")[-1] for token in re.findall(r"{{([^{}]+)}}", value)
+                    if not token.strip().startswith(("#", "^", "/"))}
+
+        front_fields = references(template["qfmt"])
+        if len(front_fields) != 1:
+            raise ValueError("Unsupported SketchyPharm question template")
+        question_field = next(iter(front_fields))
+        match = re.fullmatch(r"Extra Q(\d*)", question_field)
+        if not match:
+            raise ValueError("Unsupported SketchyPharm question field")
+        suffix = match.group(1)
+        answer_field = f"Extra A{suffix}"
+        extra_field = f"Extra {suffix}" if suffix else "Extra"
+        expected = {question_field, answer_field, extra_field, "Entire Sketch", "More About This Topic"}
+        if references(template["afmt"]) != expected or not expected.issubset(fields):
+            raise ValueError("Unsupported SketchyPharm answer template or missing fields")
+        return fields[question_field], fields[answer_field] + "<br>" + fields[extra_field]
+
+    front = render_template(template["qfmt"], fields)
+    return front, render_template(template["afmt"], {**fields, "FrontSide": front})
 
 
 def image_format(data):
@@ -227,8 +256,7 @@ def extract_package(source, data_root, collection_id, name=None):
                 deck = decks[str(original_deck_id or deck_id)]["name"].strip()
                 fields.update({"Tags": tags, "Type": model["name"], "Deck": deck,
                                "Subdeck": deck.split("::")[-1], "Card": template["name"]})
-                front = render_template(template["qfmt"], fields)
-                back = render_template(template["afmt"], {**fields, "FrontSide": front})
+                front, back = card_html(model, template, fields)
                 question, answer = parse_html(front, image_reference), parse_html(back, image_reference)
                 if not question["text"] or not answer["text"]:
                     raise ValueError(f"Empty question or answer for card {card_id}")

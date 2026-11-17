@@ -18,35 +18,21 @@
         "$Cell_Wall_&_Membrane_Active_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nMOA: Vancomycin",
+        "text": "MOA: Vancomycin",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nMOA: Vancomycin\n\nBinds D-ala-D-ala ⇒ Inhibits cell wall synthesis\n\n(Unlike penicillins which bind PBP)\n\n[Image: 954a505b3e59952da69b6e35d8a32e9d37b54efcc3658289bc51d0dd53e158f7]\n\n1.6 - Vancomycin\n[Image: 4c4759e400263512782f05a1aaef54315fc02f13e22f6bb2926afbcc9c596c2c]\n\n[Image: e3b35611814d2ab1df22b661bae37e650eeeb6dc662044e0cd04f89e6b606da9]",
+        "text": "Binds D-ala-D-ala ⇒ Inhibits cell wall synthesis\n\n(Unlike penicillins which bind PBP)\n\n[Image: 954a505b3e59952da69b6e35d8a32e9d37b54efcc3658289bc51d0dd53e158f7]",
         "imageIds": [
-            "954a505b3e59952da69b6e35d8a32e9d37b54efcc3658289bc51d0dd53e158f7",
-            "4c4759e400263512782f05a1aaef54315fc02f13e22f6bb2926afbcc9c596c2c",
-            "e3b35611814d2ab1df22b661bae37e650eeeb6dc662044e0cd04f89e6b606da9"
+            "954a505b3e59952da69b6e35d8a32e9d37b54efcc3658289bc51d0dd53e158f7"
         ]
     },
     "images": {
-        "4c4759e400263512782f05a1aaef54315fc02f13e22f6bb2926afbcc9c596c2c": {
-            "file": "images/4c4759e400263512782f05a1aaef54315fc02f13e22f6bb2926afbcc9c596c2c.jpg",
-            "filename": "paste-196851236077569.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 154388
-        },
         "954a505b3e59952da69b6e35d8a32e9d37b54efcc3658289bc51d0dd53e158f7": {
             "file": "images/954a505b3e59952da69b6e35d8a32e9d37b54efcc3658289bc51d0dd53e158f7.jpg",
             "filename": "paste-112004157145091 (1).jpg",
             "mimeType": "image/jpeg",
             "bytes": 45904
-        },
-        "e3b35611814d2ab1df22b661bae37e650eeeb6dc662044e0cd04f89e6b606da9": {
-            "file": "images/e3b35611814d2ab1df22b661bae37e650eeeb6dc662044e0cd04f89e6b606da9.jpg",
-            "filename": "paste-334522117783555.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 94981
         }
     }
 }

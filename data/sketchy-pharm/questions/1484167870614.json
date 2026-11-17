@@ -18,42 +18,21 @@
         "$Sympathetics"
     ],
     "question": {
-        "text": "§\n\nSuffix: α1 antagonist",
+        "text": "Suffix: α1 antagonist",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nSuffix: α1 antagonist\n\n\"-osin\"\n\n[Image: 72435abbf93b5866f1938ab750f5d5a19833f863a15fcf204b880040ef23460d]\n\n2.3 - Alpha drugs\n[Image: 6d1f9909b75adf86402e07f1808048bc9711379c8fe30b6485de20d893dabee0]\n\n[Image: 92707090337fa9d104b6f21ce31eb14c6b75d6ba7652bd73d952507e2c8b9d2d]\n\n[Image: 0db160a48dfc354c1ebe79e23258cf8b50857b2d212fa7b14d388a6217752a43]",
+        "text": "\"-osin\"\n\n[Image: 72435abbf93b5866f1938ab750f5d5a19833f863a15fcf204b880040ef23460d]",
         "imageIds": [
-            "72435abbf93b5866f1938ab750f5d5a19833f863a15fcf204b880040ef23460d",
-            "6d1f9909b75adf86402e07f1808048bc9711379c8fe30b6485de20d893dabee0",
-            "92707090337fa9d104b6f21ce31eb14c6b75d6ba7652bd73d952507e2c8b9d2d",
-            "0db160a48dfc354c1ebe79e23258cf8b50857b2d212fa7b14d388a6217752a43"
+            "72435abbf93b5866f1938ab750f5d5a19833f863a15fcf204b880040ef23460d"
         ]
     },
     "images": {
-        "0db160a48dfc354c1ebe79e23258cf8b50857b2d212fa7b14d388a6217752a43": {
-            "file": "images/0db160a48dfc354c1ebe79e23258cf8b50857b2d212fa7b14d388a6217752a43.jpg",
-            "filename": "paste-608730009829379.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 26948
-        },
-        "6d1f9909b75adf86402e07f1808048bc9711379c8fe30b6485de20d893dabee0": {
-            "file": "images/6d1f9909b75adf86402e07f1808048bc9711379c8fe30b6485de20d893dabee0.jpg",
-            "filename": "paste-433869006307329.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 136181
-        },
         "72435abbf93b5866f1938ab750f5d5a19833f863a15fcf204b880040ef23460d": {
             "file": "images/72435abbf93b5866f1938ab750f5d5a19833f863a15fcf204b880040ef23460d.jpg",
             "filename": "paste-453716050182147.jpg",
             "mimeType": "image/jpeg",
             "bytes": 64476
-        },
-        "92707090337fa9d104b6f21ce31eb14c6b75d6ba7652bd73d952507e2c8b9d2d": {
-            "file": "images/92707090337fa9d104b6f21ce31eb14c6b75d6ba7652bd73d952507e2c8b9d2d.jpg",
-            "filename": "paste-610731464589315.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 48349
         }
     }
 }

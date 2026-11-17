@@ -18,43 +18,22 @@
         "$Antiarrhythmics"
     ],
     "question": {
-        "text": "§\n\nWhat effect do class IV antiarrhythmics have on EKG tracing?",
+        "text": "What effect do class IV antiarrhythmics have on EKG tracing?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat effect do class IV antiarrhythmics have on EKG tracing?\n\nProlonged PR interval\n\n(And ∴ can cause heart block)\n\n[Image: e7a3df99561033f79b48d20204eaa89d7af795a38cc51bcdab9b6d699779481b]\n\n[Image: 8a45632ecfe2f0f0f1b6e1e7776b07dfaf26e41c07feb4f8dae74979ed10c750]\n\n4.4 - Class IV\n[Image: a156f65b53b3b3ae2addf20527b0ff020a45c5b8f3db6248764d14baf3a84d37]\n\n[Image: 7d18b348aa1bfb5870dceb658def8e39d4c6859e3ecaee0f61e4f670ec760b30]\n\n[Image: c0a7912fc6625f01c47501a5b811529a030a4e32b4eb324f7b7ae8215534616b]",
+        "text": "Prolonged PR interval\n\n(And ∴ can cause heart block)\n\n[Image: e7a3df99561033f79b48d20204eaa89d7af795a38cc51bcdab9b6d699779481b]\n\n[Image: 8a45632ecfe2f0f0f1b6e1e7776b07dfaf26e41c07feb4f8dae74979ed10c750]",
         "imageIds": [
             "e7a3df99561033f79b48d20204eaa89d7af795a38cc51bcdab9b6d699779481b",
-            "8a45632ecfe2f0f0f1b6e1e7776b07dfaf26e41c07feb4f8dae74979ed10c750",
-            "a156f65b53b3b3ae2addf20527b0ff020a45c5b8f3db6248764d14baf3a84d37",
-            "7d18b348aa1bfb5870dceb658def8e39d4c6859e3ecaee0f61e4f670ec760b30",
-            "c0a7912fc6625f01c47501a5b811529a030a4e32b4eb324f7b7ae8215534616b"
+            "8a45632ecfe2f0f0f1b6e1e7776b07dfaf26e41c07feb4f8dae74979ed10c750"
         ]
     },
     "images": {
-        "7d18b348aa1bfb5870dceb658def8e39d4c6859e3ecaee0f61e4f670ec760b30": {
-            "file": "images/7d18b348aa1bfb5870dceb658def8e39d4c6859e3ecaee0f61e4f670ec760b30.jpg",
-            "filename": "paste-628710197690371.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 94139
-        },
         "8a45632ecfe2f0f0f1b6e1e7776b07dfaf26e41c07feb4f8dae74979ed10c750": {
             "file": "images/8a45632ecfe2f0f0f1b6e1e7776b07dfaf26e41c07feb4f8dae74979ed10c750.jpg",
             "filename": "paste-45784351375363.jpg",
             "mimeType": "image/jpeg",
             "bytes": 300
-        },
-        "a156f65b53b3b3ae2addf20527b0ff020a45c5b8f3db6248764d14baf3a84d37": {
-            "file": "images/a156f65b53b3b3ae2addf20527b0ff020a45c5b8f3db6248764d14baf3a84d37.jpg",
-            "filename": "paste-659900250193921.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 144633
-        },
-        "c0a7912fc6625f01c47501a5b811529a030a4e32b4eb324f7b7ae8215534616b": {
-            "file": "images/c0a7912fc6625f01c47501a5b811529a030a4e32b4eb324f7b7ae8215534616b.jpg",
-            "filename": "paste-640418278539267.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 37960
         },
         "e7a3df99561033f79b48d20204eaa89d7af795a38cc51bcdab9b6d699779481b": {
             "file": "images/e7a3df99561033f79b48d20204eaa89d7af795a38cc51bcdab9b6d699779481b.jpg",

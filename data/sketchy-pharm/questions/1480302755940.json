@@ -18,17 +18,14 @@
         "$Cell_Wall_&_Membrane_Active_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nName 3 third generation cephalosporins",
+        "text": "Name 3 third generation cephalosporins",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 3 third generation cephalosporins\n\n(1) Ceftriaxone\n(2) Cefotaxime\n\n(3) Ceftazidime\n\n[Image: 2468b4887e7e258d617aa618439d7365a2104d61e3634c31daf9dd9c60644ce5]\n\n[Image: ccdef0252f995e6208f5d986848d5727a4c7ffe8a6a9885308ce9b0a9d8df253]\n\n1.4 - Cephalosporins\n[Image: b0ee60188020980c9ca1fee3403f12f3de6b38a960acb6dab4f74d7694bc03cb]\n\n[Image: baa9a42452ede300b4b20246eaf38bc2c1f71d244e0d82d4e5b1439dd976cf54]\n\n[Image: 602c1422ee0f9457e34f0ca3a0f1a24ba7d20a0e577996ff705ecdf7cccacc10]",
+        "text": "(1) Ceftriaxone\n(2) Cefotaxime\n\n(3) Ceftazidime\n\n[Image: 2468b4887e7e258d617aa618439d7365a2104d61e3634c31daf9dd9c60644ce5]\n\n[Image: ccdef0252f995e6208f5d986848d5727a4c7ffe8a6a9885308ce9b0a9d8df253]",
         "imageIds": [
             "2468b4887e7e258d617aa618439d7365a2104d61e3634c31daf9dd9c60644ce5",
-            "ccdef0252f995e6208f5d986848d5727a4c7ffe8a6a9885308ce9b0a9d8df253",
-            "b0ee60188020980c9ca1fee3403f12f3de6b38a960acb6dab4f74d7694bc03cb",
-            "baa9a42452ede300b4b20246eaf38bc2c1f71d244e0d82d4e5b1439dd976cf54",
-            "602c1422ee0f9457e34f0ca3a0f1a24ba7d20a0e577996ff705ecdf7cccacc10"
+            "ccdef0252f995e6208f5d986848d5727a4c7ffe8a6a9885308ce9b0a9d8df253"
         ]
     },
     "images": {
@@ -37,24 +34,6 @@
             "filename": "paste-99634651332611.jpg",
             "mimeType": "image/jpeg",
             "bytes": 35719
-        },
-        "602c1422ee0f9457e34f0ca3a0f1a24ba7d20a0e577996ff705ecdf7cccacc10": {
-            "file": "images/602c1422ee0f9457e34f0ca3a0f1a24ba7d20a0e577996ff705ecdf7cccacc10.jpg",
-            "filename": "paste-62023622721539.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 46598
-        },
-        "b0ee60188020980c9ca1fee3403f12f3de6b38a960acb6dab4f74d7694bc03cb": {
-            "file": "images/b0ee60188020980c9ca1fee3403f12f3de6b38a960acb6dab4f74d7694bc03cb.jpg",
-            "filename": "paste-187273459007489.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 116817
-        },
-        "baa9a42452ede300b4b20246eaf38bc2c1f71d244e0d82d4e5b1439dd976cf54": {
-            "file": "images/baa9a42452ede300b4b20246eaf38bc2c1f71d244e0d82d4e5b1439dd976cf54.jpg",
-            "filename": "paste-58145267253251.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 98431
         },
         "ccdef0252f995e6208f5d986848d5727a4c7ffe8a6a9885308ce9b0a9d8df253": {
             "file": "images/ccdef0252f995e6208f5d986848d5727a4c7ffe8a6a9885308ce9b0a9d8df253.jpg",

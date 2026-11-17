@@ -18,42 +18,21 @@
         "$Antidepressants&Anxiolytics"
     ],
     "question": {
-        "text": "§\n\nName 2 SNRIs",
+        "text": "Name 2 SNRIs",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 2 SNRIs\n\n(1) Duloxetine\n(2) Venlafaxine\n\n(Also the \"-nacipran\" drugs)\n\n[Image: 9c0ca67dca301a869c2643ea5daae879b147acff7e35703ce4bf92fe3fb8592d]\n\n3.1 - SSRIs, SNRIs, cyproheptadine\n[Image: ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6]\n\n[Image: 7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943]\n\n[Image: 8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1]",
+        "text": "(1) Duloxetine\n(2) Venlafaxine\n\n(Also the \"-nacipran\" drugs)\n\n[Image: 9c0ca67dca301a869c2643ea5daae879b147acff7e35703ce4bf92fe3fb8592d]",
         "imageIds": [
-            "9c0ca67dca301a869c2643ea5daae879b147acff7e35703ce4bf92fe3fb8592d",
-            "ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6",
-            "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943",
-            "8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1"
+            "9c0ca67dca301a869c2643ea5daae879b147acff7e35703ce4bf92fe3fb8592d"
         ]
     },
     "images": {
-        "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943": {
-            "file": "images/7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943.jpg",
-            "filename": "paste-1171594063904771.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 89818
-        },
-        "8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1": {
-            "file": "images/8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1.jpg",
-            "filename": "paste-21088289423363 (2).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 92436
-        },
         "9c0ca67dca301a869c2643ea5daae879b147acff7e35703ce4bf92fe3fb8592d": {
             "file": "images/9c0ca67dca301a869c2643ea5daae879b147acff7e35703ce4bf92fe3fb8592d.jpg",
             "filename": "paste-12090332938243.jpg",
             "mimeType": "image/jpeg",
             "bytes": 48302
-        },
-        "ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6": {
-            "file": "images/ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6.jpg",
-            "filename": "paste-1134098999410689.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 142260
         }
     }
 }

@@ -18,49 +18,21 @@
         "$Anticoagulants&Thrombolytics"
     ],
     "question": {
-        "text": "§\n\nWhat effect does serotonin release from platelets have?",
+        "text": "What effect does serotonin release from platelets have?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat effect does serotonin release from platelets have?\n\n(1) ↑ Platelet aggregation\n(2) Vasoconstriction\n\n[Image: 99bf14c4171426564b5d567fbc55a621c2b488b9aee2bb2c5e64a5c05f27726b]\n\n1.3 - Antiplatelet agents\n[Image: ee89fd2885841b66fb93a46431fac2e62bb3953bfa61fcd3f9c268c47a068395]\n\n[Image: b123716882c6664d41d883b5a5332e01e2ed365fd1ec842197b65c08707bfb25]\n\n[Image: 04d56c94dac6e3ce1ccd8f5c52d9216e56d1d61b6feb2791e2516613243f05f8]\n\n[Image: d0159ccd9576d70a1f5f07969a0d6ce49e91696c1bbd0a343b986721ea9f8393]",
+        "text": "(1) ↑ Platelet aggregation\n(2) Vasoconstriction\n\n[Image: 99bf14c4171426564b5d567fbc55a621c2b488b9aee2bb2c5e64a5c05f27726b]",
         "imageIds": [
-            "99bf14c4171426564b5d567fbc55a621c2b488b9aee2bb2c5e64a5c05f27726b",
-            "ee89fd2885841b66fb93a46431fac2e62bb3953bfa61fcd3f9c268c47a068395",
-            "b123716882c6664d41d883b5a5332e01e2ed365fd1ec842197b65c08707bfb25",
-            "04d56c94dac6e3ce1ccd8f5c52d9216e56d1d61b6feb2791e2516613243f05f8",
-            "d0159ccd9576d70a1f5f07969a0d6ce49e91696c1bbd0a343b986721ea9f8393"
+            "99bf14c4171426564b5d567fbc55a621c2b488b9aee2bb2c5e64a5c05f27726b"
         ]
     },
     "images": {
-        "04d56c94dac6e3ce1ccd8f5c52d9216e56d1d61b6feb2791e2516613243f05f8": {
-            "file": "images/04d56c94dac6e3ce1ccd8f5c52d9216e56d1d61b6feb2791e2516613243f05f8.jpg",
-            "filename": "paste-362512419651587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 100027
-        },
         "99bf14c4171426564b5d567fbc55a621c2b488b9aee2bb2c5e64a5c05f27726b": {
             "file": "images/99bf14c4171426564b5d567fbc55a621c2b488b9aee2bb2c5e64a5c05f27726b.jpg",
             "filename": "paste-16204911607811 (1).jpg",
             "mimeType": "image/jpeg",
             "bytes": 54796
-        },
-        "b123716882c6664d41d883b5a5332e01e2ed365fd1ec842197b65c08707bfb25": {
-            "file": "images/b123716882c6664d41d883b5a5332e01e2ed365fd1ec842197b65c08707bfb25.jpg",
-            "filename": "paste-38255273705475.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 81307
-        },
-        "d0159ccd9576d70a1f5f07969a0d6ce49e91696c1bbd0a343b986721ea9f8393": {
-            "file": "images/d0159ccd9576d70a1f5f07969a0d6ce49e91696c1bbd0a343b986721ea9f8393.jpg",
-            "filename": "paste-372133146394627.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 127236
-        },
-        "ee89fd2885841b66fb93a46431fac2e62bb3953bfa61fcd3f9c268c47a068395": {
-            "file": "images/ee89fd2885841b66fb93a46431fac2e62bb3953bfa61fcd3f9c268c47a068395.jpg",
-            "filename": "paste-15633680957443.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 89008
         }
     }
 }

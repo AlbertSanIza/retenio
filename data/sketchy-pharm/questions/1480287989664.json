@@ -18,42 +18,21 @@
         "$DNA_&_Cellular_Division"
     ],
     "question": {
-        "text": "§\n\nIndication - Non-neoplastic: Cyclophosphamide",
+        "text": "Indication - Non-neoplastic: Cyclophosphamide",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nIndication - Non-neoplastic: Cyclophosphamide\n\nImmunosupressive agent\n\n(Note: According to Golan, suppresses B-cell response, but actually potentiates T-cell response)\n\n[Image: e0e50f9b7152b4b5c9974036fded70ca9e354260a46c065ce313a2b9f4daf0ac]\n\n2.1 - Cyclophosphamide, ifosfamide, busulfan, nitrosoureas (carmustine, lomustine, streptozocin)\n[Image: e7a45d4238dfec58284e8d77b5193bca605ac94634c0be183ab3a952da54522c]\n\n[Image: 5139224e271f489560439aa704474d6736dbc68de75aeb16bb61ba05a3db4414]\n\n[Image: e4b5939c955bd5aac8d660d774938712293554645ac90c867e9b4d6d33e582b5]",
+        "text": "Immunosupressive agent\n\n(Note: According to Golan, suppresses B-cell response, but actually potentiates T-cell response)\n\n[Image: e0e50f9b7152b4b5c9974036fded70ca9e354260a46c065ce313a2b9f4daf0ac]",
         "imageIds": [
-            "e0e50f9b7152b4b5c9974036fded70ca9e354260a46c065ce313a2b9f4daf0ac",
-            "e7a45d4238dfec58284e8d77b5193bca605ac94634c0be183ab3a952da54522c",
-            "5139224e271f489560439aa704474d6736dbc68de75aeb16bb61ba05a3db4414",
-            "e4b5939c955bd5aac8d660d774938712293554645ac90c867e9b4d6d33e582b5"
+            "e0e50f9b7152b4b5c9974036fded70ca9e354260a46c065ce313a2b9f4daf0ac"
         ]
     },
     "images": {
-        "5139224e271f489560439aa704474d6736dbc68de75aeb16bb61ba05a3db4414": {
-            "file": "images/5139224e271f489560439aa704474d6736dbc68de75aeb16bb61ba05a3db4414.jpg",
-            "filename": "paste-183068686024707.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 30967
-        },
         "e0e50f9b7152b4b5c9974036fded70ca9e354260a46c065ce313a2b9f4daf0ac": {
             "file": "images/e0e50f9b7152b4b5c9974036fded70ca9e354260a46c065ce313a2b9f4daf0ac.jpg",
             "filename": "paste-27865747816451.jpg",
             "mimeType": "image/jpeg",
             "bytes": 54000
-        },
-        "e4b5939c955bd5aac8d660d774938712293554645ac90c867e9b4d6d33e582b5": {
-            "file": "images/e4b5939c955bd5aac8d660d774938712293554645ac90c867e9b4d6d33e582b5.jpg",
-            "filename": "paste-71386651426819.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 75698
-        },
-        "e7a45d4238dfec58284e8d77b5193bca605ac94634c0be183ab3a952da54522c": {
-            "file": "images/e7a45d4238dfec58284e8d77b5193bca605ac94634c0be183ab3a952da54522c.jpg",
-            "filename": "paste-359858129862657.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 136466
         }
     }
 }

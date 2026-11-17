@@ -18,22 +18,17 @@
         "$Anticoagulants&Thrombolytics"
     ],
     "question": {
-        "text": "§\n\nWhich clotting factors does Warfarin inhibit?",
+        "text": "Which clotting factors does Warfarin inhibit?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhich clotting factors does Warfarin inhibit?\n\n(1) Factor II\n(2) Factor VII\n\n(3) Factor IX\n\n(4) Factor X\n\n(5) Factor C\n(6) Factor S\n\n[Image: 455b06e79696b0229bc29b29742128314adda5c21b06afab9797ee65f1fd61a7]\n\n[Image: 0ebf74c35a484de62295a75e87c9399c6ed090b7dd3fe58bb2e64eaa7655e6d9]\n\n[Image: fbddcda3d8a7af27ce9f96a5372605e17ec72f112dad17c7984c2044fbb36328]\n\n[Image: bcfd1130e9b1608204efd137afa667e92728520df3650bbef5a45f14e68e3818]\n\n[Image: cfe4b0bbe867851702f1af960f0048aca910992daebabf15b347ac74476b387c]\n\n1.2 - Warfarin\n[Image: e1be8cb001749c76b3d1ba958ef78c1b486b411998af6db63c892d9e2960309f]\n\n[Image: 24c9b890e15c87fe18a0fc1ca44d07df4be2112087f5cae0c026b2222225345e]\n\n[Image: 47b0d6703860e640e38692fc7209d3c54a2ecc078dfce83cfaa4df5cd91dc409]\n\n[Image: a7260f96b4b6871b10cafe056b4328d8195705cf72cac6e6788a96377a0ed504]\n\n[Image: 92987436a5377d1532749c2f3493cb39490738e8019a390ae9188e6795476d2f]",
+        "text": "(1) Factor II\n(2) Factor VII\n\n(3) Factor IX\n\n(4) Factor X\n\n(5) Factor C\n(6) Factor S\n\n[Image: 455b06e79696b0229bc29b29742128314adda5c21b06afab9797ee65f1fd61a7]\n\n[Image: 0ebf74c35a484de62295a75e87c9399c6ed090b7dd3fe58bb2e64eaa7655e6d9]\n\n[Image: fbddcda3d8a7af27ce9f96a5372605e17ec72f112dad17c7984c2044fbb36328]\n\n[Image: bcfd1130e9b1608204efd137afa667e92728520df3650bbef5a45f14e68e3818]\n\n[Image: cfe4b0bbe867851702f1af960f0048aca910992daebabf15b347ac74476b387c]",
         "imageIds": [
             "455b06e79696b0229bc29b29742128314adda5c21b06afab9797ee65f1fd61a7",
             "0ebf74c35a484de62295a75e87c9399c6ed090b7dd3fe58bb2e64eaa7655e6d9",
             "fbddcda3d8a7af27ce9f96a5372605e17ec72f112dad17c7984c2044fbb36328",
             "bcfd1130e9b1608204efd137afa667e92728520df3650bbef5a45f14e68e3818",
-            "cfe4b0bbe867851702f1af960f0048aca910992daebabf15b347ac74476b387c",
-            "e1be8cb001749c76b3d1ba958ef78c1b486b411998af6db63c892d9e2960309f",
-            "24c9b890e15c87fe18a0fc1ca44d07df4be2112087f5cae0c026b2222225345e",
-            "47b0d6703860e640e38692fc7209d3c54a2ecc078dfce83cfaa4df5cd91dc409",
-            "a7260f96b4b6871b10cafe056b4328d8195705cf72cac6e6788a96377a0ed504",
-            "92987436a5377d1532749c2f3493cb39490738e8019a390ae9188e6795476d2f"
+            "cfe4b0bbe867851702f1af960f0048aca910992daebabf15b347ac74476b387c"
         ]
     },
     "images": {
@@ -43,35 +38,11 @@
             "mimeType": "image/jpeg",
             "bytes": 54946
         },
-        "24c9b890e15c87fe18a0fc1ca44d07df4be2112087f5cae0c026b2222225345e": {
-            "file": "images/24c9b890e15c87fe18a0fc1ca44d07df4be2112087f5cae0c026b2222225345e.jpg",
-            "filename": "paste-381247066996739.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 118584
-        },
         "455b06e79696b0229bc29b29742128314adda5c21b06afab9797ee65f1fd61a7": {
             "file": "images/455b06e79696b0229bc29b29742128314adda5c21b06afab9797ee65f1fd61a7.jpg",
             "filename": "paste-6034429050883.jpg",
             "mimeType": "image/jpeg",
             "bytes": 55632
-        },
-        "47b0d6703860e640e38692fc7209d3c54a2ecc078dfce83cfaa4df5cd91dc409": {
-            "file": "images/47b0d6703860e640e38692fc7209d3c54a2ecc078dfce83cfaa4df5cd91dc409.jpg",
-            "filename": "paste-376818955714563.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 92049
-        },
-        "92987436a5377d1532749c2f3493cb39490738e8019a390ae9188e6795476d2f": {
-            "file": "images/92987436a5377d1532749c2f3493cb39490738e8019a390ae9188e6795476d2f.jpg",
-            "filename": "paste-387341625589763.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 79733
-        },
-        "a7260f96b4b6871b10cafe056b4328d8195705cf72cac6e6788a96377a0ed504": {
-            "file": "images/a7260f96b4b6871b10cafe056b4328d8195705cf72cac6e6788a96377a0ed504.jpg",
-            "filename": "paste-382655816269827.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 80208
         },
         "bcfd1130e9b1608204efd137afa667e92728520df3650bbef5a45f14e68e3818": {
             "file": "images/bcfd1130e9b1608204efd137afa667e92728520df3650bbef5a45f14e68e3818.jpg",
@@ -84,12 +55,6 @@
             "filename": "paste-6502580486147 (1).jpg",
             "mimeType": "image/jpeg",
             "bytes": 66573
-        },
-        "e1be8cb001749c76b3d1ba958ef78c1b486b411998af6db63c892d9e2960309f": {
-            "file": "images/e1be8cb001749c76b3d1ba958ef78c1b486b411998af6db63c892d9e2960309f.jpg",
-            "filename": "paste-4715874091011.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 100043
         },
         "fbddcda3d8a7af27ce9f96a5372605e17ec72f112dad17c7984c2044fbb36328": {
             "file": "images/fbddcda3d8a7af27ce9f96a5372605e17ec72f112dad17c7984c2044fbb36328.jpg",

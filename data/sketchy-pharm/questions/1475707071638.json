@@ -18,42 +18,21 @@
         "$Vasoactive"
     ],
     "question": {
-        "text": "§\n\nWhich hemodynamic factor do nitrates predominantly affect?",
+        "text": "Which hemodynamic factor do nitrates predominantly affect?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhich hemodynamic factor do nitrates predominantly affect?\n\nPreload\n\n[Image: 944294d963af17a0abf72c7c46d47e5e84b4ffb4f71215e2af2ff09d33126b17]\n\n1.1 - Nitrates\n[Image: 7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74]\n\n[Image: c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d]\n\n[Image: e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584]",
+        "text": "Preload\n\n[Image: 944294d963af17a0abf72c7c46d47e5e84b4ffb4f71215e2af2ff09d33126b17]",
         "imageIds": [
-            "944294d963af17a0abf72c7c46d47e5e84b4ffb4f71215e2af2ff09d33126b17",
-            "7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74",
-            "c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d",
-            "e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584"
+            "944294d963af17a0abf72c7c46d47e5e84b4ffb4f71215e2af2ff09d33126b17"
         ]
     },
     "images": {
-        "7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74": {
-            "file": "images/7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74.jpg",
-            "filename": "paste-47850230644739 (1).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 154032
-        },
         "944294d963af17a0abf72c7c46d47e5e84b4ffb4f71215e2af2ff09d33126b17": {
             "file": "images/944294d963af17a0abf72c7c46d47e5e84b4ffb4f71215e2af2ff09d33126b17.jpg",
             "filename": "paste-41609643163651.jpg",
             "mimeType": "image/jpeg",
             "bytes": 59102
-        },
-        "c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d": {
-            "file": "images/c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d.jpg",
-            "filename": "paste-367026430279683.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 114318
-        },
-        "e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584": {
-            "file": "images/e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584.jpg",
-            "filename": "paste-692091030077443.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 83948
         }
     }
 }

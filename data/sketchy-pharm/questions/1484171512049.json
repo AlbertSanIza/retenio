@@ -18,21 +18,16 @@
         "$Anesthetics_&_Analgesics"
     ],
     "question": {
-        "text": "§\n\nAdverse Effects (4) : Inhaled anesthetics",
+        "text": "Adverse Effects (4) : Inhaled anesthetics",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAdverse Effects (4) : Inhaled anesthetics\n\n(1) Cardiac depression\n(2) Malignant hyperthermia\n\n(3) Respiratory depression\n\n(4) ↓ Cerebral vascular resistant ⇒ Edema\n\n(Note: N2O is an exception, it does NOT cause respiratory depression or malignant hyperthermia)\n\n[Image: da79c02a6c1f28c9a097a1ca9f970eaea4ad02dc1b31cd8d82b1910149581954]\n\n[Image: cd8d09690d2a6539eafdaab815d6ca99fd9248a430d99b7f79a983bb98b73dbe]\n\n[Image: 424f17da3f440dddc8b1470bd300fff3415ec3ac23701c4393a2ab90e2319c3c]\n\n[Image: de0bc7c387c3b6838a6646b7886b13956e7025114226f3959cad2b62120e4f0f]\n\n2.2 - Inhaled anesthetics, dantrolene\n[Image: 841351d541bd1828e52d927251f5aacc57e51e7a1e46005a8cd8b78e8d28e735]\n\n[Image: 9778704df2765446c1484487e7b9c9e6997c463d608a23a3626bab8278b1d02d]\n\n[Image: e01e35cdcba99d0842810e410179d824206ac2f5bf7e2cc6e28ecee89d3026d8]\n\n[Image: 8406284991efa74ea239e04834e15735af6121805ec033faa0fa97cbadf4c981]\n\n[Image: befecdd7943656d961805680c16c53d71f31eb2074b6f57ac0a52a6d08aec2b1]",
+        "text": "(1) Cardiac depression\n(2) Malignant hyperthermia\n\n(3) Respiratory depression\n\n(4) ↓ Cerebral vascular resistant ⇒ Edema\n\n(Note: N2O is an exception, it does NOT cause respiratory depression or malignant hyperthermia)\n\n[Image: da79c02a6c1f28c9a097a1ca9f970eaea4ad02dc1b31cd8d82b1910149581954]\n\n[Image: cd8d09690d2a6539eafdaab815d6ca99fd9248a430d99b7f79a983bb98b73dbe]\n\n[Image: 424f17da3f440dddc8b1470bd300fff3415ec3ac23701c4393a2ab90e2319c3c]\n\n[Image: de0bc7c387c3b6838a6646b7886b13956e7025114226f3959cad2b62120e4f0f]",
         "imageIds": [
             "da79c02a6c1f28c9a097a1ca9f970eaea4ad02dc1b31cd8d82b1910149581954",
             "cd8d09690d2a6539eafdaab815d6ca99fd9248a430d99b7f79a983bb98b73dbe",
             "424f17da3f440dddc8b1470bd300fff3415ec3ac23701c4393a2ab90e2319c3c",
-            "de0bc7c387c3b6838a6646b7886b13956e7025114226f3959cad2b62120e4f0f",
-            "841351d541bd1828e52d927251f5aacc57e51e7a1e46005a8cd8b78e8d28e735",
-            "9778704df2765446c1484487e7b9c9e6997c463d608a23a3626bab8278b1d02d",
-            "e01e35cdcba99d0842810e410179d824206ac2f5bf7e2cc6e28ecee89d3026d8",
-            "8406284991efa74ea239e04834e15735af6121805ec033faa0fa97cbadf4c981",
-            "befecdd7943656d961805680c16c53d71f31eb2074b6f57ac0a52a6d08aec2b1"
+            "de0bc7c387c3b6838a6646b7886b13956e7025114226f3959cad2b62120e4f0f"
         ]
     },
     "images": {
@@ -41,30 +36,6 @@
             "filename": "paste-557568359399427.jpg",
             "mimeType": "image/jpeg",
             "bytes": 83887
-        },
-        "8406284991efa74ea239e04834e15735af6121805ec033faa0fa97cbadf4c981": {
-            "file": "images/8406284991efa74ea239e04834e15735af6121805ec033faa0fa97cbadf4c981.jpg",
-            "filename": "paste-611066472038403.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 29653
-        },
-        "841351d541bd1828e52d927251f5aacc57e51e7a1e46005a8cd8b78e8d28e735": {
-            "file": "images/841351d541bd1828e52d927251f5aacc57e51e7a1e46005a8cd8b78e8d28e735.jpg",
-            "filename": "paste-505796823613443.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 89900
-        },
-        "9778704df2765446c1484487e7b9c9e6997c463d608a23a3626bab8278b1d02d": {
-            "file": "images/9778704df2765446c1484487e7b9c9e6997c463d608a23a3626bab8278b1d02d.jpg",
-            "filename": "paste-608017045258243.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 59832
-        },
-        "befecdd7943656d961805680c16c53d71f31eb2074b6f57ac0a52a6d08aec2b1": {
-            "file": "images/befecdd7943656d961805680c16c53d71f31eb2074b6f57ac0a52a6d08aec2b1.jpg",
-            "filename": "paste-44147968835587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 179776
         },
         "cd8d09690d2a6539eafdaab815d6ca99fd9248a430d99b7f79a983bb98b73dbe": {
             "file": "images/cd8d09690d2a6539eafdaab815d6ca99fd9248a430d99b7f79a983bb98b73dbe.jpg",
@@ -83,12 +54,6 @@
             "filename": "paste-560647850950659.jpg",
             "mimeType": "image/jpeg",
             "bytes": 80823
-        },
-        "e01e35cdcba99d0842810e410179d824206ac2f5bf7e2cc6e28ecee89d3026d8": {
-            "file": "images/e01e35cdcba99d0842810e410179d824206ac2f5bf7e2cc6e28ecee89d3026d8.jpg",
-            "filename": "paste-609537463681027.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 78221
         }
     }
 }

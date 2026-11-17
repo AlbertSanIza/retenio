@@ -18,30 +18,16 @@
         "$Other_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nAdverse Effect: Metronidazole",
+        "text": "Adverse Effect: Metronidazole",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAdverse Effect: Metronidazole\n\nDisulfiram-like reaction\n\n[Image: b6ee2913a52d6037c78daba79e1f9bc76932ff85357deedbede463d0530deac4]\n\n4.3 - Metronidazole\n[Image: 7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4]\n\n[Image: 3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf]",
+        "text": "Disulfiram-like reaction\n\n[Image: b6ee2913a52d6037c78daba79e1f9bc76932ff85357deedbede463d0530deac4]",
         "imageIds": [
-            "b6ee2913a52d6037c78daba79e1f9bc76932ff85357deedbede463d0530deac4",
-            "7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4",
-            "3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf"
+            "b6ee2913a52d6037c78daba79e1f9bc76932ff85357deedbede463d0530deac4"
         ]
     },
     "images": {
-        "3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf": {
-            "file": "images/3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf.jpg",
-            "filename": "paste-187277753974787.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 55370
-        },
-        "7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4": {
-            "file": "images/7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4.jpg",
-            "filename": "paste-262010184925185.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 111887
-        },
         "b6ee2913a52d6037c78daba79e1f9bc76932ff85357deedbede463d0530deac4": {
             "file": "images/b6ee2913a52d6037c78daba79e1f9bc76932ff85357deedbede463d0530deac4.jpg",
             "filename": "paste-245354301751299.jpg",

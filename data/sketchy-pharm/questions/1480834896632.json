@@ -18,18 +18,15 @@
         "$Antivirals_Hepatitis"
     ],
     "question": {
-        "text": "§\n\nMOA: Simeprevir",
+        "text": "MOA: Simeprevir",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nMOA: Simeprevir\n\nProtease inhibitor\n\n(NS3/4A specifically)\n\n[Image: f34933c49eceb27f9ab71477110bbace7f7212fd5495da00c264dbc3f44fed0a]\n\n[Image: 1078235649c6acc2b9bf7c93533f3d0d48ef64092ffc5fa4b83d859410f0e382]\n\n[Image: ff06a8c0abed7002074f6edc3ff8b6e6e97e839713557c49c6a02972db86ead0]\n\n7.2 - Ribavirin, sofosbuvir, simeprevir\n[Image: cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1]\n\n[Image: 27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc]\n\n[Image: c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81]\n\u001b\u001b",
+        "text": "Protease inhibitor\n\n(NS3/4A specifically)\n\n[Image: f34933c49eceb27f9ab71477110bbace7f7212fd5495da00c264dbc3f44fed0a]\n\n[Image: 1078235649c6acc2b9bf7c93533f3d0d48ef64092ffc5fa4b83d859410f0e382]\n\n[Image: ff06a8c0abed7002074f6edc3ff8b6e6e97e839713557c49c6a02972db86ead0]",
         "imageIds": [
             "f34933c49eceb27f9ab71477110bbace7f7212fd5495da00c264dbc3f44fed0a",
             "1078235649c6acc2b9bf7c93533f3d0d48ef64092ffc5fa4b83d859410f0e382",
-            "ff06a8c0abed7002074f6edc3ff8b6e6e97e839713557c49c6a02972db86ead0",
-            "cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1",
-            "27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc",
-            "c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81"
+            "ff06a8c0abed7002074f6edc3ff8b6e6e97e839713557c49c6a02972db86ead0"
         ]
     },
     "images": {
@@ -38,24 +35,6 @@
             "filename": "paste-382694470975491.jpg",
             "mimeType": "image/jpeg",
             "bytes": 49718
-        },
-        "27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc": {
-            "file": "images/27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc.jpg",
-            "filename": "paste-380113195630595.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 70126
-        },
-        "c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81": {
-            "file": "images/c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81.jpg",
-            "filename": "paste-755235639263235.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 72171
-        },
-        "cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1": {
-            "file": "images/cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1.jpg",
-            "filename": "paste-308125248782337.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 122787
         },
         "f34933c49eceb27f9ab71477110bbace7f7212fd5495da00c264dbc3f44fed0a": {
             "file": "images/f34933c49eceb27f9ab71477110bbace7f7212fd5495da00c264dbc3f44fed0a.jpg",

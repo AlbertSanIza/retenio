@@ -18,49 +18,21 @@
         "$GI"
     ],
     "question": {
-        "text": "§\n\nContraindication: Metoclopramide",
+        "text": "Contraindication: Metoclopramide",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nContraindication: Metoclopramide\n\nBowel obstruction\n\n(Parkinsons)\n\n[Image: 7a6c8d7b8268a47c4899508dfb53c4617226ef35971c713ff7ed3f3ae43d856f]\n\n1.1 - Antiemetic agents\n[Image: d89cfb4eef2c721f61a2ce6802d713338822cf7c47e11baded197a5ce0412aab]\n\n[Image: eab3c509c329c61d8d15268b17eee318489649e67aa871b5c58cd3c5ddb8cbf6]\n\n[Image: 2f4a8e742d966fd8cdf941e2165eb617f7829c49c1c60bc634ad434cd1fe0de6]\n\n[Image: 6daffe22807830195101aa85fecbb7c979f4c03c6c392c0ad90c3e09d4bceea0]",
+        "text": "Bowel obstruction\n\n(Parkinsons)\n\n[Image: 7a6c8d7b8268a47c4899508dfb53c4617226ef35971c713ff7ed3f3ae43d856f]",
         "imageIds": [
-            "7a6c8d7b8268a47c4899508dfb53c4617226ef35971c713ff7ed3f3ae43d856f",
-            "d89cfb4eef2c721f61a2ce6802d713338822cf7c47e11baded197a5ce0412aab",
-            "eab3c509c329c61d8d15268b17eee318489649e67aa871b5c58cd3c5ddb8cbf6",
-            "2f4a8e742d966fd8cdf941e2165eb617f7829c49c1c60bc634ad434cd1fe0de6",
-            "6daffe22807830195101aa85fecbb7c979f4c03c6c392c0ad90c3e09d4bceea0"
+            "7a6c8d7b8268a47c4899508dfb53c4617226ef35971c713ff7ed3f3ae43d856f"
         ]
     },
     "images": {
-        "2f4a8e742d966fd8cdf941e2165eb617f7829c49c1c60bc634ad434cd1fe0de6": {
-            "file": "images/2f4a8e742d966fd8cdf941e2165eb617f7829c49c1c60bc634ad434cd1fe0de6.jpg",
-            "filename": "paste-436647850147843.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 85310
-        },
-        "6daffe22807830195101aa85fecbb7c979f4c03c6c392c0ad90c3e09d4bceea0": {
-            "file": "images/6daffe22807830195101aa85fecbb7c979f4c03c6c392c0ad90c3e09d4bceea0.jpg",
-            "filename": "paste-784535906156547.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 19723
-        },
         "7a6c8d7b8268a47c4899508dfb53c4617226ef35971c713ff7ed3f3ae43d856f": {
             "file": "images/7a6c8d7b8268a47c4899508dfb53c4617226ef35971c713ff7ed3f3ae43d856f.jpg",
             "filename": "paste-344069830082563.jpg",
             "mimeType": "image/jpeg",
             "bytes": 76083
-        },
-        "d89cfb4eef2c721f61a2ce6802d713338822cf7c47e11baded197a5ce0412aab": {
-            "file": "images/d89cfb4eef2c721f61a2ce6802d713338822cf7c47e11baded197a5ce0412aab.jpg",
-            "filename": "paste-291224552472579.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 140481
-        },
-        "eab3c509c329c61d8d15268b17eee318489649e67aa871b5c58cd3c5ddb8cbf6": {
-            "file": "images/eab3c509c329c61d8d15268b17eee318489649e67aa871b5c58cd3c5ddb8cbf6.jpg",
-            "filename": "paste-18580028522499.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 32974
         }
     }
 }

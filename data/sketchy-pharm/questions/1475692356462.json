@@ -18,70 +18,21 @@
         "$HeartFailureDrugs"
     ],
     "question": {
-        "text": "§\n\nDo ACE inhibitors ↓ mortality in heart failure?",
+        "text": "Do ACE inhibitors ↓ mortality in heart failure?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nDo ACE inhibitors ↓ mortality in heart failure?\n\nYes\n\n(By inhibiting AngII mediated remodeling)\n\n[Image: accece7b2a1a6fa0825a5e25158622daacf56fc3a76d7444a4955cdc127a25a4]\n\n1.2 - ACE inhibitors, ARBs, Aliskiren\n[Image: 5ff57e2cdf0cbe0e87bf5ee6db7868b48898083efa1f3d43c8f9aa01a23e8a20]\n\n[Image: fffcc28d2084fc809983bd8e1dcb8e200863ce7983bae452d5bbf3c69cfe74db]\n\n[Image: 77e66e0a3cb131bdb0d130e3a98e7185d93f4155cf950f45aab9624dd449cdd3]\n\n[Image: c1ff797af48f1c2282f041d1247f45a7ab5bded783600006ece5cee2f332cfa7]\n\n[Image: 6f2014d6ad32cde3128a52d0035d9d46f4feaf19802a1ba51d48fc77888245d1]\n\n[Image: 83fee0206ae3eb2435bc81867488086334545d77317b73404fb7aacf338ec38b]\n\n[Image: d4ef0f9db26e081a8d54d1c0ec0707069af146bfa08c62a79041bf0be0eb3499]",
+        "text": "Yes\n\n(By inhibiting AngII mediated remodeling)\n\n[Image: accece7b2a1a6fa0825a5e25158622daacf56fc3a76d7444a4955cdc127a25a4]",
         "imageIds": [
-            "accece7b2a1a6fa0825a5e25158622daacf56fc3a76d7444a4955cdc127a25a4",
-            "5ff57e2cdf0cbe0e87bf5ee6db7868b48898083efa1f3d43c8f9aa01a23e8a20",
-            "fffcc28d2084fc809983bd8e1dcb8e200863ce7983bae452d5bbf3c69cfe74db",
-            "77e66e0a3cb131bdb0d130e3a98e7185d93f4155cf950f45aab9624dd449cdd3",
-            "c1ff797af48f1c2282f041d1247f45a7ab5bded783600006ece5cee2f332cfa7",
-            "6f2014d6ad32cde3128a52d0035d9d46f4feaf19802a1ba51d48fc77888245d1",
-            "83fee0206ae3eb2435bc81867488086334545d77317b73404fb7aacf338ec38b",
-            "d4ef0f9db26e081a8d54d1c0ec0707069af146bfa08c62a79041bf0be0eb3499"
+            "accece7b2a1a6fa0825a5e25158622daacf56fc3a76d7444a4955cdc127a25a4"
         ]
     },
     "images": {
-        "5ff57e2cdf0cbe0e87bf5ee6db7868b48898083efa1f3d43c8f9aa01a23e8a20": {
-            "file": "images/5ff57e2cdf0cbe0e87bf5ee6db7868b48898083efa1f3d43c8f9aa01a23e8a20.jpg",
-            "filename": "paste-606719965134849.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 156729
-        },
-        "6f2014d6ad32cde3128a52d0035d9d46f4feaf19802a1ba51d48fc77888245d1": {
-            "file": "images/6f2014d6ad32cde3128a52d0035d9d46f4feaf19802a1ba51d48fc77888245d1.jpg",
-            "filename": "paste-18189186498563.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 115807
-        },
-        "77e66e0a3cb131bdb0d130e3a98e7185d93f4155cf950f45aab9624dd449cdd3": {
-            "file": "images/77e66e0a3cb131bdb0d130e3a98e7185d93f4155cf950f45aab9624dd449cdd3.jpg",
-            "filename": "paste-212996018143235.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 90149
-        },
-        "83fee0206ae3eb2435bc81867488086334545d77317b73404fb7aacf338ec38b": {
-            "file": "images/83fee0206ae3eb2435bc81867488086334545d77317b73404fb7aacf338ec38b.jpg",
-            "filename": "paste-30137785516035.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 132323
-        },
         "accece7b2a1a6fa0825a5e25158622daacf56fc3a76d7444a4955cdc127a25a4": {
             "file": "images/accece7b2a1a6fa0825a5e25158622daacf56fc3a76d7444a4955cdc127a25a4.jpg",
             "filename": "paste-52570399703043.jpg",
             "mimeType": "image/jpeg",
             "bytes": 49502
-        },
-        "c1ff797af48f1c2282f041d1247f45a7ab5bded783600006ece5cee2f332cfa7": {
-            "file": "images/c1ff797af48f1c2282f041d1247f45a7ab5bded783600006ece5cee2f332cfa7.jpg",
-            "filename": "paste-216569430933507.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 77355
-        },
-        "d4ef0f9db26e081a8d54d1c0ec0707069af146bfa08c62a79041bf0be0eb3499": {
-            "file": "images/d4ef0f9db26e081a8d54d1c0ec0707069af146bfa08c62a79041bf0be0eb3499.jpg",
-            "filename": "paste-26298084753411.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 1908
-        },
-        "fffcc28d2084fc809983bd8e1dcb8e200863ce7983bae452d5bbf3c69cfe74db": {
-            "file": "images/fffcc28d2084fc809983bd8e1dcb8e200863ce7983bae452d5bbf3c69cfe74db.jpg",
-            "filename": "paste-188003603447811.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 81862
         }
     }
 }

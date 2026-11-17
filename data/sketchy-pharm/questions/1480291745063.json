@@ -18,35 +18,21 @@
         "$DNA_&_Cellular_Division"
     ],
     "question": {
-        "text": "§\n\nMOA: Etoposide",
+        "text": "MOA: Etoposide",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nMOA: Etoposide\n\nInhibits religation of dsDNA breaks created by Topoisomerase II\n\n[Image: 74da8b76d0324b58c08642125f982c0829541e90c99314447608d5c06f0dfd20]\n\n2.4 - Etoposide, teniposide, topotecan, irinotecan\n[Image: 11288f4fb9b522f2cdc4355502d1496591261217813a12198739b8e123c3312a]\n\n[Image: 8a03d8e0ce5dfff46fe30a2aaa7d656abcf9160171e11d1f64d69ce72be9acf3]",
+        "text": "Inhibits religation of dsDNA breaks created by Topoisomerase II\n\n[Image: 74da8b76d0324b58c08642125f982c0829541e90c99314447608d5c06f0dfd20]",
         "imageIds": [
-            "74da8b76d0324b58c08642125f982c0829541e90c99314447608d5c06f0dfd20",
-            "11288f4fb9b522f2cdc4355502d1496591261217813a12198739b8e123c3312a",
-            "8a03d8e0ce5dfff46fe30a2aaa7d656abcf9160171e11d1f64d69ce72be9acf3"
+            "74da8b76d0324b58c08642125f982c0829541e90c99314447608d5c06f0dfd20"
         ]
     },
     "images": {
-        "11288f4fb9b522f2cdc4355502d1496591261217813a12198739b8e123c3312a": {
-            "file": "images/11288f4fb9b522f2cdc4355502d1496591261217813a12198739b8e123c3312a.jpg",
-            "filename": "paste-376995049373697.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 110522
-        },
         "74da8b76d0324b58c08642125f982c0829541e90c99314447608d5c06f0dfd20": {
             "file": "images/74da8b76d0324b58c08642125f982c0829541e90c99314447608d5c06f0dfd20.jpg",
             "filename": "paste-10668698763267 (2).jpg",
             "mimeType": "image/jpeg",
             "bytes": 48519
-        },
-        "8a03d8e0ce5dfff46fe30a2aaa7d656abcf9160171e11d1f64d69ce72be9acf3": {
-            "file": "images/8a03d8e0ce5dfff46fe30a2aaa7d656abcf9160171e11d1f64d69ce72be9acf3.jpg",
-            "filename": "paste-171519518965763.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 22325
         }
     }
 }

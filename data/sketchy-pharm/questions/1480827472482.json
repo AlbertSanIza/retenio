@@ -18,33 +18,17 @@
         "$Antifungals"
     ],
     "question": {
-        "text": "§\n\nMOA: Terbinafine",
+        "text": "MOA: Terbinafine",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nMOA: Terbinafine\n\nInhibits squalene epoxidase\n\n[Image: 96d979fc852f3b3ce6b5c125fbc67a41a425c6c509317ae8a63150d502bfc065]\n\n[Image: 900df0cb87afd178d8498f2a7fdc7b8ebfa17a800b2adf1d97b3e24b8cd8be70]\n\n5.3 - Griseofulvin, Terbinafine, Echinocandins\n[Image: 2d7e10caae0c230d403e7691da8c4850daa650cda0578393cf6c5320c62542c5]\n\n[Image: 9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63]\n\n[Image: 6610a1b578a676ad2726708c7e395e54397b53e9071afe193aa111ca42f50d84]\n\n[Image: af03d85a1070877db571ba7ed090440e65432000ef345f00dd46f538b7567543]",
+        "text": "Inhibits squalene epoxidase\n\n[Image: 96d979fc852f3b3ce6b5c125fbc67a41a425c6c509317ae8a63150d502bfc065]\n\n[Image: 900df0cb87afd178d8498f2a7fdc7b8ebfa17a800b2adf1d97b3e24b8cd8be70]",
         "imageIds": [
             "96d979fc852f3b3ce6b5c125fbc67a41a425c6c509317ae8a63150d502bfc065",
-            "900df0cb87afd178d8498f2a7fdc7b8ebfa17a800b2adf1d97b3e24b8cd8be70",
-            "2d7e10caae0c230d403e7691da8c4850daa650cda0578393cf6c5320c62542c5",
-            "9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63",
-            "6610a1b578a676ad2726708c7e395e54397b53e9071afe193aa111ca42f50d84",
-            "af03d85a1070877db571ba7ed090440e65432000ef345f00dd46f538b7567543"
+            "900df0cb87afd178d8498f2a7fdc7b8ebfa17a800b2adf1d97b3e24b8cd8be70"
         ]
     },
     "images": {
-        "2d7e10caae0c230d403e7691da8c4850daa650cda0578393cf6c5320c62542c5": {
-            "file": "images/2d7e10caae0c230d403e7691da8c4850daa650cda0578393cf6c5320c62542c5.jpg",
-            "filename": "paste-10432475561987.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 123871
-        },
-        "6610a1b578a676ad2726708c7e395e54397b53e9071afe193aa111ca42f50d84": {
-            "file": "images/6610a1b578a676ad2726708c7e395e54397b53e9071afe193aa111ca42f50d84.jpg",
-            "filename": "paste-192642168127491.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 25446
-        },
         "900df0cb87afd178d8498f2a7fdc7b8ebfa17a800b2adf1d97b3e24b8cd8be70": {
             "file": "images/900df0cb87afd178d8498f2a7fdc7b8ebfa17a800b2adf1d97b3e24b8cd8be70.jpg",
             "filename": "paste-298276888772611.jpg",
@@ -56,18 +40,6 @@
             "filename": "paste-299694227980291.jpg",
             "mimeType": "image/jpeg",
             "bytes": 44528
-        },
-        "9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63": {
-            "file": "images/9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63.jpg",
-            "filename": "paste-468138550362115.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 53292
-        },
-        "af03d85a1070877db571ba7ed090440e65432000ef345f00dd46f538b7567543": {
-            "file": "images/af03d85a1070877db571ba7ed090440e65432000ef345f00dd46f538b7567543.jpg",
-            "filename": "paste-194665097723907.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 59632
         }
     }
 }

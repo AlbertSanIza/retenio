@@ -18,17 +18,14 @@
         "$Inhibitors_of_Bacterial_Protein_Synthesis"
     ],
     "question": {
-        "text": "§\n\nWhich aminoglycoside is active against GI luminal parasites?",
+        "text": "Which aminoglycoside is active against GI luminal parasites?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhich aminoglycoside is active against GI luminal parasites?\n\nParomycin\n\n[Image: 4a2b8c5d31674ee91b06d64edd45a2f0b26c54f1665a55de6c046ef9c0c3e5fd]\n\n[Image: 67e43c95e558a0d5a705c93967ba98a68bd2f62f75dd36e920a041b0e5d07be5]\n\n2.6 - Aminoglycosides\n[Image: 9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d]\n\n[Image: 8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4]\n\n[Image: 4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1]",
+        "text": "Paromycin\n\n[Image: 4a2b8c5d31674ee91b06d64edd45a2f0b26c54f1665a55de6c046ef9c0c3e5fd]\n\n[Image: 67e43c95e558a0d5a705c93967ba98a68bd2f62f75dd36e920a041b0e5d07be5]",
         "imageIds": [
             "4a2b8c5d31674ee91b06d64edd45a2f0b26c54f1665a55de6c046ef9c0c3e5fd",
-            "67e43c95e558a0d5a705c93967ba98a68bd2f62f75dd36e920a041b0e5d07be5",
-            "9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d",
-            "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4",
-            "4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1"
+            "67e43c95e558a0d5a705c93967ba98a68bd2f62f75dd36e920a041b0e5d07be5"
         ]
     },
     "images": {
@@ -38,29 +35,11 @@
             "mimeType": "image/jpeg",
             "bytes": 33297
         },
-        "4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1": {
-            "file": "images/4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1.jpg",
-            "filename": "paste-32100585570307.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 91413
-        },
         "67e43c95e558a0d5a705c93967ba98a68bd2f62f75dd36e920a041b0e5d07be5": {
             "file": "images/67e43c95e558a0d5a705c93967ba98a68bd2f62f75dd36e920a041b0e5d07be5.jpg",
             "filename": "paste-81978040778755.jpg",
             "mimeType": "image/jpeg",
             "bytes": 67892
-        },
-        "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4": {
-            "file": "images/8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4.jpg",
-            "filename": "paste-321710230339587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 76271
-        },
-        "9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d": {
-            "file": "images/9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d.jpg",
-            "filename": "paste-232065672937473.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 108815
         }
     }
 }

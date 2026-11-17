@@ -17,35 +17,21 @@
         "$Cell_Wall_&_Membrane_Active_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nHow was Penicillin modified to yield Methicillin?",
+        "text": "How was Penicillin modified to yield Methicillin?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nHow was Penicillin modified to yield Methicillin?\n\nAddition of bulky R-group\n\n[Image: 4bed1035ed33c356919d9d51759d38366329beb0bcf511d05573f8fdcf6d6003]\n\n1.2 - Nafcillin, Oxacillin, Methicillin & Dicloxacillin\n[Image: 8ae11397e3a56d2f66c8b7321e66cb6b61822a8bdae8cb8aa32df46483d34242]\n\n[Image: 0e4494860081af6d0e608ea4ecf6718d2a3e5e242eb1ee692ffd1eb6452e88f3]",
+        "text": "Addition of bulky R-group\n\n[Image: 4bed1035ed33c356919d9d51759d38366329beb0bcf511d05573f8fdcf6d6003]",
         "imageIds": [
-            "4bed1035ed33c356919d9d51759d38366329beb0bcf511d05573f8fdcf6d6003",
-            "8ae11397e3a56d2f66c8b7321e66cb6b61822a8bdae8cb8aa32df46483d34242",
-            "0e4494860081af6d0e608ea4ecf6718d2a3e5e242eb1ee692ffd1eb6452e88f3"
+            "4bed1035ed33c356919d9d51759d38366329beb0bcf511d05573f8fdcf6d6003"
         ]
     },
     "images": {
-        "0e4494860081af6d0e608ea4ecf6718d2a3e5e242eb1ee692ffd1eb6452e88f3": {
-            "file": "images/0e4494860081af6d0e608ea4ecf6718d2a3e5e242eb1ee692ffd1eb6452e88f3.jpg",
-            "filename": "paste-156182190751747.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 42267
-        },
         "4bed1035ed33c356919d9d51759d38366329beb0bcf511d05573f8fdcf6d6003": {
             "file": "images/4bed1035ed33c356919d9d51759d38366329beb0bcf511d05573f8fdcf6d6003.jpg",
             "filename": "paste-95099165868035.jpg",
             "mimeType": "image/jpeg",
             "bytes": 33078
-        },
-        "8ae11397e3a56d2f66c8b7321e66cb6b61822a8bdae8cb8aa32df46483d34242": {
-            "file": "images/8ae11397e3a56d2f66c8b7321e66cb6b61822a8bdae8cb8aa32df46483d34242.jpg",
-            "filename": "paste-174641960189953.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 102866
         }
     }
 }

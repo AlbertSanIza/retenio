@@ -18,18 +18,15 @@
         "$Diuretics"
     ],
     "question": {
-        "text": "§\n\nAdverse Effects (3) : Mannitol",
+        "text": "Adverse Effects (3) : Mannitol",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAdverse Effects (3) : Mannitol\n\n(1) Pulmonary edema\n(2) Exacerbate heart failure\n\n(3) Altered Na+ levels\n\n(↑ Serum osmolarity draws fluid from CSF/eyes, but this can dilute serum sodium and increase cardiac afterload)\n\n[Image: dc2fbd7388743ed39d99b5d0250528c460b9bc4709ef8feb5db9864bc5132303]\n\n[Image: da8c6fd2bb02262cabd3eb7dd1afc6754f692528494daec732453d17f177c9a3]\n\n[Image: 61334e7a23ff73ca1ea661eebed69bd0310b341ef431237c6919e7e5dba27981]\n\n2.1 - Acetazolamide, mannitol\n[Image: c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311]\n\n[Image: 61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650]\n\n[Image: b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b]",
+        "text": "(1) Pulmonary edema\n(2) Exacerbate heart failure\n\n(3) Altered Na+ levels\n\n(↑ Serum osmolarity draws fluid from CSF/eyes, but this can dilute serum sodium and increase cardiac afterload)\n\n[Image: dc2fbd7388743ed39d99b5d0250528c460b9bc4709ef8feb5db9864bc5132303]\n\n[Image: da8c6fd2bb02262cabd3eb7dd1afc6754f692528494daec732453d17f177c9a3]\n\n[Image: 61334e7a23ff73ca1ea661eebed69bd0310b341ef431237c6919e7e5dba27981]",
         "imageIds": [
             "dc2fbd7388743ed39d99b5d0250528c460b9bc4709ef8feb5db9864bc5132303",
             "da8c6fd2bb02262cabd3eb7dd1afc6754f692528494daec732453d17f177c9a3",
-            "61334e7a23ff73ca1ea661eebed69bd0310b341ef431237c6919e7e5dba27981",
-            "c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311",
-            "61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650",
-            "b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b"
+            "61334e7a23ff73ca1ea661eebed69bd0310b341ef431237c6919e7e5dba27981"
         ]
     },
     "images": {
@@ -38,24 +35,6 @@
             "filename": "paste-20396799688705.jpg",
             "mimeType": "image/jpeg",
             "bytes": 86618
-        },
-        "61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650": {
-            "file": "images/61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650.jpg",
-            "filename": "paste-193866233806851.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 57827
-        },
-        "b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b": {
-            "file": "images/b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b.jpg",
-            "filename": "paste-195395242164227.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 82442
-        },
-        "c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311": {
-            "file": "images/c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311.jpg",
-            "filename": "paste-612616955232257.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 146047
         },
         "da8c6fd2bb02262cabd3eb7dd1afc6754f692528494daec732453d17f177c9a3": {
             "file": "images/da8c6fd2bb02262cabd3eb7dd1afc6754f692528494daec732453d17f177c9a3.jpg",

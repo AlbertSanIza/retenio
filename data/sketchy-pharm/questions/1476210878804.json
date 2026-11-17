@@ -18,18 +18,15 @@
         "$Diuretics"
     ],
     "question": {
-        "text": "§\n\nWhat reaction does carbonic anhydrase in the renal tubule catalyze?",
+        "text": "What reaction does carbonic anhydrase in the renal tubule catalyze?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat reaction does carbonic anhydrase in the renal tubule catalyze?\n\nHCO3- + H+ → H2O + CO2\n\n[Image: c078312898a8accc061dadf84ae4afec5ad3061f0dd06fd6de1756eb8db5001d]\n\n[Image: 1704b5f05b294cbd5b0d1b112018dc18a5b4a2970c79ecb41291cd9e3d873b32]\n\n[Image: eb51fc5df9cfb3e3352b8da204aeb3d033d99306b357c6b11256efbdd3928aa2]\n\n2.1 - Acetazolamide, mannitol\n[Image: c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311]\n\n[Image: 61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650]\n\n[Image: b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b]",
+        "text": "HCO3- + H+ → H2O + CO2\n\n[Image: c078312898a8accc061dadf84ae4afec5ad3061f0dd06fd6de1756eb8db5001d]\n\n[Image: 1704b5f05b294cbd5b0d1b112018dc18a5b4a2970c79ecb41291cd9e3d873b32]\n\n[Image: eb51fc5df9cfb3e3352b8da204aeb3d033d99306b357c6b11256efbdd3928aa2]",
         "imageIds": [
             "c078312898a8accc061dadf84ae4afec5ad3061f0dd06fd6de1756eb8db5001d",
             "1704b5f05b294cbd5b0d1b112018dc18a5b4a2970c79ecb41291cd9e3d873b32",
-            "eb51fc5df9cfb3e3352b8da204aeb3d033d99306b357c6b11256efbdd3928aa2",
-            "c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311",
-            "61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650",
-            "b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b"
+            "eb51fc5df9cfb3e3352b8da204aeb3d033d99306b357c6b11256efbdd3928aa2"
         ]
     },
     "images": {
@@ -39,29 +36,11 @@
             "mimeType": "image/jpeg",
             "bytes": 34921
         },
-        "61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650": {
-            "file": "images/61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650.jpg",
-            "filename": "paste-193866233806851.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 57827
-        },
-        "b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b": {
-            "file": "images/b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b.jpg",
-            "filename": "paste-195395242164227.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 82442
-        },
         "c078312898a8accc061dadf84ae4afec5ad3061f0dd06fd6de1756eb8db5001d": {
             "file": "images/c078312898a8accc061dadf84ae4afec5ad3061f0dd06fd6de1756eb8db5001d.jpg",
             "filename": "paste-49636937039875.jpg",
             "mimeType": "image/jpeg",
             "bytes": 40523
-        },
-        "c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311": {
-            "file": "images/c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311.jpg",
-            "filename": "paste-612616955232257.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 146047
         },
         "eb51fc5df9cfb3e3352b8da204aeb3d033d99306b357c6b11256efbdd3928aa2": {
             "file": "images/eb51fc5df9cfb3e3352b8da204aeb3d033d99306b357c6b11256efbdd3928aa2.jpg",

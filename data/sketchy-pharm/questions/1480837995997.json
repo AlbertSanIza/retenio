@@ -18,17 +18,13 @@
         "$Antivirals_Others"
     ],
     "question": {
-        "text": "§\n\nAn HIV patient is on Zidovudine as an anti-retroviral and Ganciclovir as prophylaxis for CMV. What lab values must you constantly follow?",
+        "text": "An HIV patient is on Zidovudine as an anti-retroviral and Ganciclovir as prophylaxis for CMV. What lab values must you constantly follow?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAn HIV patient is on Zidovudine as an anti-retroviral and Ganciclovir as prophylaxis for CMV. What lab values must you constantly follow?\n\nWBC/RBC counts\n\n[Image: 0443a2831c5cafd79b376cc8532a581620cfee46c2b22923ef6cd2ae92849477]\n\n8.2 - Ganciclovir, valganciclovir, foscarnet, cidofovir\n[Image: c0a7815549d069d5162d4519e272e07b3420df710b5b21c1e465d41dc0284610]\n\n[Image: a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1]\n\n[Image: 9fe32e151e1c25eb94b5dacb1c2c07ceb4b714c20d71142ed3848ce3e06bf657]\n\n[Image: 3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b]",
+        "text": "WBC/RBC counts\n\n[Image: 0443a2831c5cafd79b376cc8532a581620cfee46c2b22923ef6cd2ae92849477]",
         "imageIds": [
-            "0443a2831c5cafd79b376cc8532a581620cfee46c2b22923ef6cd2ae92849477",
-            "c0a7815549d069d5162d4519e272e07b3420df710b5b21c1e465d41dc0284610",
-            "a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1",
-            "9fe32e151e1c25eb94b5dacb1c2c07ceb4b714c20d71142ed3848ce3e06bf657",
-            "3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b"
+            "0443a2831c5cafd79b376cc8532a581620cfee46c2b22923ef6cd2ae92849477"
         ]
     },
     "images": {
@@ -37,30 +33,6 @@
             "filename": "paste-413214508580867.jpg",
             "mimeType": "image/jpeg",
             "bytes": 38957
-        },
-        "3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b": {
-            "file": "images/3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b.jpg",
-            "filename": "paste-14950781157379.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 94367
-        },
-        "9fe32e151e1c25eb94b5dacb1c2c07ceb4b714c20d71142ed3848ce3e06bf657": {
-            "file": "images/9fe32e151e1c25eb94b5dacb1c2c07ceb4b714c20d71142ed3848ce3e06bf657.jpg",
-            "filename": "paste-17046725197827.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 52654
-        },
-        "a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1": {
-            "file": "images/a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1.jpg",
-            "filename": "paste-305286275399683.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 100859
-        },
-        "c0a7815549d069d5162d4519e272e07b3420df710b5b21c1e465d41dc0284610": {
-            "file": "images/c0a7815549d069d5162d4519e272e07b3420df710b5b21c1e465d41dc0284610.jpg",
-            "filename": "paste-394359602151427.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 70794
         }
     }
 }

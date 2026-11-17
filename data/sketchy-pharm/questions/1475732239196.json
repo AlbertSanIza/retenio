@@ -18,34 +18,19 @@
         "$Sympathetics"
     ],
     "question": {
-        "text": "§\n\nWhat are the primary indications for the cardio-selective β-blockers?",
+        "text": "What are the primary indications for the cardio-selective β-blockers?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat are the primary indications for the cardio-selective β-blockers?\n\n(1) CHF\n\n(2) MI\n\n[Image: 7668dabf889232d318281c16e8a11e714819871faf38ad67f14be5336165f04b]\n\n[Image: b4f379f60da1562e3199f878c7b745d7d418da624a147dca9cd2af960fff4cf6]\n\n[Image: 6f92fc43642dbb314a0018d6d8efc4a7a232ebb2d9a12b87a69576ae1de968b7]\n\n[Image: c751027d87202ff06baf83f6353fbb48857d0991585ce0a18db8814130b04d7f]\n\n2.4 - Beta blockers\n[Image: ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98]\n\n[Image: 0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173]\n\n[Image: 6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6]",
+        "text": "(1) CHF\n\n(2) MI\n\n[Image: 7668dabf889232d318281c16e8a11e714819871faf38ad67f14be5336165f04b]\n\n[Image: b4f379f60da1562e3199f878c7b745d7d418da624a147dca9cd2af960fff4cf6]\n\n[Image: 6f92fc43642dbb314a0018d6d8efc4a7a232ebb2d9a12b87a69576ae1de968b7]\n\n[Image: c751027d87202ff06baf83f6353fbb48857d0991585ce0a18db8814130b04d7f]",
         "imageIds": [
             "7668dabf889232d318281c16e8a11e714819871faf38ad67f14be5336165f04b",
             "b4f379f60da1562e3199f878c7b745d7d418da624a147dca9cd2af960fff4cf6",
             "6f92fc43642dbb314a0018d6d8efc4a7a232ebb2d9a12b87a69576ae1de968b7",
-            "c751027d87202ff06baf83f6353fbb48857d0991585ce0a18db8814130b04d7f",
-            "ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98",
-            "0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173",
-            "6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6"
+            "c751027d87202ff06baf83f6353fbb48857d0991585ce0a18db8814130b04d7f"
         ]
     },
     "images": {
-        "0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173": {
-            "file": "images/0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173.jpg",
-            "filename": "paste-302687820185603.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 107698
-        },
-        "6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6": {
-            "file": "images/6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6.jpg",
-            "filename": "paste-305681412390915.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 63928
-        },
         "6f92fc43642dbb314a0018d6d8efc4a7a232ebb2d9a12b87a69576ae1de968b7": {
             "file": "images/6f92fc43642dbb314a0018d6d8efc4a7a232ebb2d9a12b87a69576ae1de968b7.jpg",
             "filename": "paste-36322538422275.jpg",
@@ -69,12 +54,6 @@
             "filename": "paste-35983236005891.jpg",
             "mimeType": "image/jpeg",
             "bytes": 51995
-        },
-        "ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98": {
-            "file": "images/ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98.jpg",
-            "filename": "paste-438146793734145.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 122524
         }
     }
 }

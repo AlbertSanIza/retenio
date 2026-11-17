@@ -18,70 +18,21 @@
         "$Anti-inflammatory"
     ],
     "question": {
-        "text": "§\n\nWhat NSAID is used in Kawasaki's disease?",
+        "text": "What NSAID is used in Kawasaki's disease?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat NSAID is used in Kawasaki's disease?\n\nAspirin\n\n(Notable as ASA is usually avoided due to Reyes syndrome)\n\n[Image: 17ea986bc5f3c9704f7ab60a5626d9f31abf32879c165f3d5f1711a4962ea917]\n\n3.1 - NSAIDs\n[Image: 49edae9fb6b61c742ab1ec590c3ccd72c55b9cee6f90a3510f101bb2aeafd075]\n\n[Image: be01556d0a9edc1e3ee92acf212fee5500ea23a6cad86d819219c19dc42aa5bb]\n\n[Image: bd78a3a4c103ea0ed274bd5ef754ad00174438c9fce7199d32239a53a34e7942]\n\n[Image: a09abee6ad5a84c5e948912aa4d09a6910a56c49466db92e12cae9b8f08908d3]\n\n[Image: 21f549501b36d1616894b1f5dcafb9faa34fcc787da3259419404bb46a3858f8]\n\n[Image: b41c26cf16765ec4c5de8753112f86a26eec8e25363e99d239b196c3f5606dfd]\n\n[Image: 13bd466f519ed3975e8a5543d9f6c9760bf12de1b89001b33b725ceb5d90be46]",
+        "text": "Aspirin\n\n(Notable as ASA is usually avoided due to Reyes syndrome)\n\n[Image: 17ea986bc5f3c9704f7ab60a5626d9f31abf32879c165f3d5f1711a4962ea917]",
         "imageIds": [
-            "17ea986bc5f3c9704f7ab60a5626d9f31abf32879c165f3d5f1711a4962ea917",
-            "49edae9fb6b61c742ab1ec590c3ccd72c55b9cee6f90a3510f101bb2aeafd075",
-            "be01556d0a9edc1e3ee92acf212fee5500ea23a6cad86d819219c19dc42aa5bb",
-            "bd78a3a4c103ea0ed274bd5ef754ad00174438c9fce7199d32239a53a34e7942",
-            "a09abee6ad5a84c5e948912aa4d09a6910a56c49466db92e12cae9b8f08908d3",
-            "21f549501b36d1616894b1f5dcafb9faa34fcc787da3259419404bb46a3858f8",
-            "b41c26cf16765ec4c5de8753112f86a26eec8e25363e99d239b196c3f5606dfd",
-            "13bd466f519ed3975e8a5543d9f6c9760bf12de1b89001b33b725ceb5d90be46"
+            "17ea986bc5f3c9704f7ab60a5626d9f31abf32879c165f3d5f1711a4962ea917"
         ]
     },
     "images": {
-        "13bd466f519ed3975e8a5543d9f6c9760bf12de1b89001b33b725ceb5d90be46": {
-            "file": "images/13bd466f519ed3975e8a5543d9f6c9760bf12de1b89001b33b725ceb5d90be46.jpg",
-            "filename": "paste-224652559384579.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 41330
-        },
         "17ea986bc5f3c9704f7ab60a5626d9f31abf32879c165f3d5f1711a4962ea917": {
             "file": "images/17ea986bc5f3c9704f7ab60a5626d9f31abf32879c165f3d5f1711a4962ea917.jpg",
             "filename": "paste-84250078478339.jpg",
             "mimeType": "image/jpeg",
             "bytes": 99871
-        },
-        "21f549501b36d1616894b1f5dcafb9faa34fcc787da3259419404bb46a3858f8": {
-            "file": "images/21f549501b36d1616894b1f5dcafb9faa34fcc787da3259419404bb46a3858f8.jpg",
-            "filename": "paste-232039903133699.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 46818
-        },
-        "49edae9fb6b61c742ab1ec590c3ccd72c55b9cee6f90a3510f101bb2aeafd075": {
-            "file": "images/49edae9fb6b61c742ab1ec590c3ccd72c55b9cee6f90a3510f101bb2aeafd075.jpg",
-            "filename": "paste-577441173078017.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 168045
-        },
-        "a09abee6ad5a84c5e948912aa4d09a6910a56c49466db92e12cae9b8f08908d3": {
-            "file": "images/a09abee6ad5a84c5e948912aa4d09a6910a56c49466db92e12cae9b8f08908d3.jpg",
-            "filename": "paste-638021686788099.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 52480
-        },
-        "b41c26cf16765ec4c5de8753112f86a26eec8e25363e99d239b196c3f5606dfd": {
-            "file": "images/b41c26cf16765ec4c5de8753112f86a26eec8e25363e99d239b196c3f5606dfd.jpg",
-            "filename": "paste-644528562241539.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 71590
-        },
-        "bd78a3a4c103ea0ed274bd5ef754ad00174438c9fce7199d32239a53a34e7942": {
-            "file": "images/bd78a3a4c103ea0ed274bd5ef754ad00174438c9fce7199d32239a53a34e7942.jpg",
-            "filename": "paste-634817641185283.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 52199
-        },
-        "be01556d0a9edc1e3ee92acf212fee5500ea23a6cad86d819219c19dc42aa5bb": {
-            "file": "images/be01556d0a9edc1e3ee92acf212fee5500ea23a6cad86d819219c19dc42aa5bb.jpg",
-            "filename": "paste-147106924855299.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 42118
         }
     }
 }

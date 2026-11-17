@@ -18,63 +18,21 @@
         "$DyslipidemiaDrugs"
     ],
     "question": {
-        "text": "§\n\nWhy might bile acid resins cause colicky pain?",
+        "text": "Why might bile acid resins cause colicky pain?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhy might bile acid resins cause colicky pain?\n\n↑ Risk of gallstones\n\n[Image: d1efee56895ee1333da96a06036eebb7b625e50dbbe8b4581143ae8755ad9ef5]\n\n2.2 - Cholestyramine, ezetimibe\n[Image: 2322dda2cc97451bd4ab90bb4d48ffd9046228d04be4e1f1edc365d32a0865aa]\n\n[Image: 1ff2e5c8d7b65724c52932379aaaea511e9bd6b323e9d06f462e9d20c881ad43]\n\n[Image: 27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9]\n\n[Image: b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e]\n\n[Image: dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139]\n\n[Image: 88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39]",
+        "text": "↑ Risk of gallstones\n\n[Image: d1efee56895ee1333da96a06036eebb7b625e50dbbe8b4581143ae8755ad9ef5]",
         "imageIds": [
-            "d1efee56895ee1333da96a06036eebb7b625e50dbbe8b4581143ae8755ad9ef5",
-            "2322dda2cc97451bd4ab90bb4d48ffd9046228d04be4e1f1edc365d32a0865aa",
-            "1ff2e5c8d7b65724c52932379aaaea511e9bd6b323e9d06f462e9d20c881ad43",
-            "27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9",
-            "b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e",
-            "dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139",
-            "88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39"
+            "d1efee56895ee1333da96a06036eebb7b625e50dbbe8b4581143ae8755ad9ef5"
         ]
     },
     "images": {
-        "1ff2e5c8d7b65724c52932379aaaea511e9bd6b323e9d06f462e9d20c881ad43": {
-            "file": "images/1ff2e5c8d7b65724c52932379aaaea511e9bd6b323e9d06f462e9d20c881ad43.jpg",
-            "filename": "paste-240672787398659.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 63725
-        },
-        "2322dda2cc97451bd4ab90bb4d48ffd9046228d04be4e1f1edc365d32a0865aa": {
-            "file": "images/2322dda2cc97451bd4ab90bb4d48ffd9046228d04be4e1f1edc365d32a0865aa.jpg",
-            "filename": "paste-565307890466817.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 155083
-        },
-        "27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9": {
-            "file": "images/27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9.jpg",
-            "filename": "paste-203263622250499.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 84124
-        },
-        "88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39": {
-            "file": "images/88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39.jpg",
-            "filename": "paste-235252538671107.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 88003
-        },
-        "b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e": {
-            "file": "images/b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e.jpg",
-            "filename": "paste-230506599809027.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 80740
-        },
         "d1efee56895ee1333da96a06036eebb7b625e50dbbe8b4581143ae8755ad9ef5": {
             "file": "images/d1efee56895ee1333da96a06036eebb7b625e50dbbe8b4581143ae8755ad9ef5.jpg",
             "filename": "paste-164505837371395.jpg",
             "mimeType": "image/jpeg",
             "bytes": 55781
-        },
-        "dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139": {
-            "file": "images/dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139.jpg",
-            "filename": "paste-225266739707907.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 37177
         }
     }
 }

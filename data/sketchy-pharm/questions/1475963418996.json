@@ -18,39 +18,18 @@
         "$Antiarrhythmics"
     ],
     "question": {
-        "text": "§\n\nWhat is the mechanism of β-blocker treatment of arrhythmias?",
+        "text": "What is the mechanism of β-blocker treatment of arrhythmias?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat is the mechanism of β-blocker treatment of arrhythmias?\n\nProlongs nodal Φ4\n\n(Via reducing sympathetic input to SA/AV node)\n\n[Image: dd2d881774befa54e373ed02b06692f9f6b179625b0da205a4162b3fe25d157a]\n\n[Image: a5706626f2a159ef4bd9b76c260ac9f27c44f945b35a4ec0e4c28a2b12ba21b8]\n\n[Image: b6b400878f3fe3d178be2e5e6c2a0efde60f4c246eda1a923f34780099076962]\n\n4.2 - Class II\n[Image: 99b24ad791932f13ec7f948647dee58a7fb18c327f53c1636e310d54cb313671]\n\n[Image: 7d18b348aa1bfb5870dceb658def8e39d4c6859e3ecaee0f61e4f670ec760b30]\n\n[Image: 5d41d5da6a29a87ce608626baca3e5e2806a7ba1c540b0477b85b0b45f48168a]",
+        "text": "Prolongs nodal Φ4\n\n(Via reducing sympathetic input to SA/AV node)\n\n[Image: dd2d881774befa54e373ed02b06692f9f6b179625b0da205a4162b3fe25d157a]\n\n[Image: a5706626f2a159ef4bd9b76c260ac9f27c44f945b35a4ec0e4c28a2b12ba21b8]\n\n[Image: b6b400878f3fe3d178be2e5e6c2a0efde60f4c246eda1a923f34780099076962]",
         "imageIds": [
             "dd2d881774befa54e373ed02b06692f9f6b179625b0da205a4162b3fe25d157a",
             "a5706626f2a159ef4bd9b76c260ac9f27c44f945b35a4ec0e4c28a2b12ba21b8",
-            "b6b400878f3fe3d178be2e5e6c2a0efde60f4c246eda1a923f34780099076962",
-            "99b24ad791932f13ec7f948647dee58a7fb18c327f53c1636e310d54cb313671",
-            "7d18b348aa1bfb5870dceb658def8e39d4c6859e3ecaee0f61e4f670ec760b30",
-            "5d41d5da6a29a87ce608626baca3e5e2806a7ba1c540b0477b85b0b45f48168a"
+            "b6b400878f3fe3d178be2e5e6c2a0efde60f4c246eda1a923f34780099076962"
         ]
     },
     "images": {
-        "5d41d5da6a29a87ce608626baca3e5e2806a7ba1c540b0477b85b0b45f48168a": {
-            "file": "images/5d41d5da6a29a87ce608626baca3e5e2806a7ba1c540b0477b85b0b45f48168a.jpg",
-            "filename": "paste-636295109935107.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 67560
-        },
-        "7d18b348aa1bfb5870dceb658def8e39d4c6859e3ecaee0f61e4f670ec760b30": {
-            "file": "images/7d18b348aa1bfb5870dceb658def8e39d4c6859e3ecaee0f61e4f670ec760b30.jpg",
-            "filename": "paste-628710197690371.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 94139
-        },
-        "99b24ad791932f13ec7f948647dee58a7fb18c327f53c1636e310d54cb313671": {
-            "file": "images/99b24ad791932f13ec7f948647dee58a7fb18c327f53c1636e310d54cb313671.jpg",
-            "filename": "paste-649386170253313.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 99705
-        },
         "a5706626f2a159ef4bd9b76c260ac9f27c44f945b35a4ec0e4c28a2b12ba21b8": {
             "file": "images/a5706626f2a159ef4bd9b76c260ac9f27c44f945b35a4ec0e4c28a2b12ba21b8.jpg",
             "filename": "paste-40016210296835.jpg",

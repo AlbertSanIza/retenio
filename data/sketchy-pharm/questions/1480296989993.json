@@ -18,31 +18,17 @@
         "$Antimetabolites"
     ],
     "question": {
-        "text": "§\n\nIs Cladribine a purine or pyrimidine analog?",
+        "text": "Is Cladribine a purine or pyrimidine analog?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nIs Cladribine a purine or pyrimidine analog?\n\nPurine\n\n(Purines have 2 rings, purines = pu-'rings')\n\n[Image: 715d4fcff85d6540255d0bf209941c454bee5f8eda62af96ba858152566a3948]\n\n[Image: 79cd0aef38a0c9085b433bc013b412b0ec62b7dce4f394b040ef9a5ae81408bc]\n\n1.3 - Cladribine, cytarabine, gemcitabine\n[Image: 11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce]\n\n[Image: 517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a]",
+        "text": "Purine\n\n(Purines have 2 rings, purines = pu-'rings')\n\n[Image: 715d4fcff85d6540255d0bf209941c454bee5f8eda62af96ba858152566a3948]\n\n[Image: 79cd0aef38a0c9085b433bc013b412b0ec62b7dce4f394b040ef9a5ae81408bc]",
         "imageIds": [
             "715d4fcff85d6540255d0bf209941c454bee5f8eda62af96ba858152566a3948",
-            "79cd0aef38a0c9085b433bc013b412b0ec62b7dce4f394b040ef9a5ae81408bc",
-            "11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce",
-            "517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a"
+            "79cd0aef38a0c9085b433bc013b412b0ec62b7dce4f394b040ef9a5ae81408bc"
         ]
     },
     "images": {
-        "11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce": {
-            "file": "images/11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce.jpg",
-            "filename": "paste-350980432461825.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 98866
-        },
-        "517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a": {
-            "file": "images/517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a.jpg",
-            "filename": "paste-156474248527875.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 31622
-        },
         "715d4fcff85d6540255d0bf209941c454bee5f8eda62af96ba858152566a3948": {
             "file": "images/715d4fcff85d6540255d0bf209941c454bee5f8eda62af96ba858152566a3948.jpg",
             "filename": "paste-63964947939331.jpg",

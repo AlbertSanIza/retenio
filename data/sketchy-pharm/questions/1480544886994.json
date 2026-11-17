@@ -18,42 +18,21 @@
         "$Inhibitors_of_Bacterial_Protein_Synthesis"
     ],
     "question": {
-        "text": "§\n\nMOA: Linezolid",
+        "text": "MOA: Linezolid",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nMOA: Linezolid\n\nInhibits 50s ribosome ⇒ Blocks initiation complex\n\n[Image: 34708138dac2bb198ce588c0d232388372d2d9c7eb4548b96d1b8c1943397e8d]\n\n2.5 - Linezolid\n[Image: 05d990f7506111dc6ec384fb53cf4b040af1632ea5060337ba7fc58d3be91d0b]\n\n[Image: 8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4]\n\n[Image: eaf0bf3a68ef608ecb413dd09590c7b7d07bd5c9e7469c0ec575384d04e672e8]",
+        "text": "Inhibits 50s ribosome ⇒ Blocks initiation complex\n\n[Image: 34708138dac2bb198ce588c0d232388372d2d9c7eb4548b96d1b8c1943397e8d]",
         "imageIds": [
-            "34708138dac2bb198ce588c0d232388372d2d9c7eb4548b96d1b8c1943397e8d",
-            "05d990f7506111dc6ec384fb53cf4b040af1632ea5060337ba7fc58d3be91d0b",
-            "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4",
-            "eaf0bf3a68ef608ecb413dd09590c7b7d07bd5c9e7469c0ec575384d04e672e8"
+            "34708138dac2bb198ce588c0d232388372d2d9c7eb4548b96d1b8c1943397e8d"
         ]
     },
     "images": {
-        "05d990f7506111dc6ec384fb53cf4b040af1632ea5060337ba7fc58d3be91d0b": {
-            "file": "images/05d990f7506111dc6ec384fb53cf4b040af1632ea5060337ba7fc58d3be91d0b.jpg",
-            "filename": "paste-228526619885569.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 106401
-        },
         "34708138dac2bb198ce588c0d232388372d2d9c7eb4548b96d1b8c1943397e8d": {
             "file": "images/34708138dac2bb198ce588c0d232388372d2d9c7eb4548b96d1b8c1943397e8d.jpg",
             "filename": "paste-22600117911555 (1).jpg",
             "mimeType": "image/jpeg",
             "bytes": 35180
-        },
-        "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4": {
-            "file": "images/8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4.jpg",
-            "filename": "paste-321710230339587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 76271
-        },
-        "eaf0bf3a68ef608ecb413dd09590c7b7d07bd5c9e7469c0ec575384d04e672e8": {
-            "file": "images/eaf0bf3a68ef608ecb413dd09590c7b7d07bd5c9e7469c0ec575384d04e672e8.jpg",
-            "filename": "paste-405298883854339.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 34795
         }
     }
 }

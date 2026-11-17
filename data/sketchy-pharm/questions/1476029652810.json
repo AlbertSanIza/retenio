@@ -18,56 +18,21 @@
         "$Anticoagulants&Thrombolytics"
     ],
     "question": {
-        "text": "§\n\nWhy do we need to monitor patients early in Warfarin therapy?",
+        "text": "Why do we need to monitor patients early in Warfarin therapy?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhy do we need to monitor patients early in Warfarin therapy?\n\nWarfarin induced skin necrosis\n\n(Common initial presentation of Protein C/S deficiency)\n\n[Image: 378b344d203d16b0f8bb79819fe4f1ebb5199abe481c034ed2c17db75e07e654]\n\n1.2 - Warfarin\n[Image: e1be8cb001749c76b3d1ba958ef78c1b486b411998af6db63c892d9e2960309f]\n\n[Image: 24c9b890e15c87fe18a0fc1ca44d07df4be2112087f5cae0c026b2222225345e]\n\n[Image: 47b0d6703860e640e38692fc7209d3c54a2ecc078dfce83cfaa4df5cd91dc409]\n\n[Image: a7260f96b4b6871b10cafe056b4328d8195705cf72cac6e6788a96377a0ed504]\n\n[Image: 92987436a5377d1532749c2f3493cb39490738e8019a390ae9188e6795476d2f]",
+        "text": "Warfarin induced skin necrosis\n\n(Common initial presentation of Protein C/S deficiency)\n\n[Image: 378b344d203d16b0f8bb79819fe4f1ebb5199abe481c034ed2c17db75e07e654]",
         "imageIds": [
-            "378b344d203d16b0f8bb79819fe4f1ebb5199abe481c034ed2c17db75e07e654",
-            "e1be8cb001749c76b3d1ba958ef78c1b486b411998af6db63c892d9e2960309f",
-            "24c9b890e15c87fe18a0fc1ca44d07df4be2112087f5cae0c026b2222225345e",
-            "47b0d6703860e640e38692fc7209d3c54a2ecc078dfce83cfaa4df5cd91dc409",
-            "a7260f96b4b6871b10cafe056b4328d8195705cf72cac6e6788a96377a0ed504",
-            "92987436a5377d1532749c2f3493cb39490738e8019a390ae9188e6795476d2f"
+            "378b344d203d16b0f8bb79819fe4f1ebb5199abe481c034ed2c17db75e07e654"
         ]
     },
     "images": {
-        "24c9b890e15c87fe18a0fc1ca44d07df4be2112087f5cae0c026b2222225345e": {
-            "file": "images/24c9b890e15c87fe18a0fc1ca44d07df4be2112087f5cae0c026b2222225345e.jpg",
-            "filename": "paste-381247066996739.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 118584
-        },
         "378b344d203d16b0f8bb79819fe4f1ebb5199abe481c034ed2c17db75e07e654": {
             "file": "images/378b344d203d16b0f8bb79819fe4f1ebb5199abe481c034ed2c17db75e07e654.jpg",
             "filename": "paste-9848360009731.jpg",
             "mimeType": "image/jpeg",
             "bytes": 55969
-        },
-        "47b0d6703860e640e38692fc7209d3c54a2ecc078dfce83cfaa4df5cd91dc409": {
-            "file": "images/47b0d6703860e640e38692fc7209d3c54a2ecc078dfce83cfaa4df5cd91dc409.jpg",
-            "filename": "paste-376818955714563.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 92049
-        },
-        "92987436a5377d1532749c2f3493cb39490738e8019a390ae9188e6795476d2f": {
-            "file": "images/92987436a5377d1532749c2f3493cb39490738e8019a390ae9188e6795476d2f.jpg",
-            "filename": "paste-387341625589763.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 79733
-        },
-        "a7260f96b4b6871b10cafe056b4328d8195705cf72cac6e6788a96377a0ed504": {
-            "file": "images/a7260f96b4b6871b10cafe056b4328d8195705cf72cac6e6788a96377a0ed504.jpg",
-            "filename": "paste-382655816269827.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 80208
-        },
-        "e1be8cb001749c76b3d1ba958ef78c1b486b411998af6db63c892d9e2960309f": {
-            "file": "images/e1be8cb001749c76b3d1ba958ef78c1b486b411998af6db63c892d9e2960309f.jpg",
-            "filename": "paste-4715874091011.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 100043
         }
     }
 }

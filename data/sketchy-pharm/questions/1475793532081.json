@@ -18,15 +18,13 @@
         "$Sedatives&Hypnotics"
     ],
     "question": {
-        "text": "§\n\nWhat effect do barbituates have on GABAA receptor?",
+        "text": "What effect do barbituates have on GABAA receptor?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat effect do barbituates have on GABAA receptor?\n\n↑ Duration channel is open\n\n(Barbi-durates increase duration of channel opening)\n\n[Image: 50a18ea5246834223fbd35469406aebf6902a3665ee9d447a7dce65ced5276e8]\n\n1.3 - Barbiturates\n[Image: a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4]\n\n[Image: e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6]",
+        "text": "↑ Duration channel is open\n\n(Barbi-durates increase duration of channel opening)\n\n[Image: 50a18ea5246834223fbd35469406aebf6902a3665ee9d447a7dce65ced5276e8]",
         "imageIds": [
-            "50a18ea5246834223fbd35469406aebf6902a3665ee9d447a7dce65ced5276e8",
-            "a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4",
-            "e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6"
+            "50a18ea5246834223fbd35469406aebf6902a3665ee9d447a7dce65ced5276e8"
         ]
     },
     "images": {
@@ -35,18 +33,6 @@
             "filename": "paste-8967891714051.jpg",
             "mimeType": "image/jpeg",
             "bytes": 68525
-        },
-        "a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4": {
-            "file": "images/a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4.jpg",
-            "filename": "paste-829706077208577.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 146002
-        },
-        "e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6": {
-            "file": "images/e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6.jpg",
-            "filename": "paste-160709086281731.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 53669
         }
     }
 }

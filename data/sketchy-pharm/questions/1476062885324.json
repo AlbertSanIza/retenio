@@ -18,19 +18,14 @@
         "$Vasoactive"
     ],
     "question": {
-        "text": "§\n\nIndications (2) : Misoprostol",
+        "text": "Indications (2) : Misoprostol",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nIndications (2) : Misoprostol\n\n(1) Prevent NSAID-induced peptic ulcer\n(2) Induce contractions\n\n[Image: 98bd0b230082c555c6dd7f446558025f037e8cf9d32146922b884582c04f32f9]\n\n[Image: 03f8fdde064f717efec7951d6a08df7b9ff22b2707e84330edf24b6c99c637f6]\n\n1.3 - Prostaglandins, prostacyclin, bosentan, PDE5 inhibitors\n[Image: 2dbd326f0a1e08d4942cc5d7537133b42d82504a04d00fe25920f3f0a806dd47]\n\n[Image: 2b85fb13ae3aa49b21213fdceb829d644f7d3f8cd52ee62e93bf270da225890e]\n\n[Image: e4c9a6a191a54bf9bd81b28c5cba73eae1cef1a1e6712de9cf1eeb1583614977]\n\n[Image: 277f54b613db7111307209e1730845eed80fa7ad002ac16ac6c21e81bc9b6b88]\n\n[Image: 12b6955ddf801bf06966e4f9f758f8e3ed14e1dd39f3ce0518347049c29e1bfd]",
+        "text": "(1) Prevent NSAID-induced peptic ulcer\n(2) Induce contractions\n\n[Image: 98bd0b230082c555c6dd7f446558025f037e8cf9d32146922b884582c04f32f9]\n\n[Image: 03f8fdde064f717efec7951d6a08df7b9ff22b2707e84330edf24b6c99c637f6]",
         "imageIds": [
             "98bd0b230082c555c6dd7f446558025f037e8cf9d32146922b884582c04f32f9",
-            "03f8fdde064f717efec7951d6a08df7b9ff22b2707e84330edf24b6c99c637f6",
-            "2dbd326f0a1e08d4942cc5d7537133b42d82504a04d00fe25920f3f0a806dd47",
-            "2b85fb13ae3aa49b21213fdceb829d644f7d3f8cd52ee62e93bf270da225890e",
-            "e4c9a6a191a54bf9bd81b28c5cba73eae1cef1a1e6712de9cf1eeb1583614977",
-            "277f54b613db7111307209e1730845eed80fa7ad002ac16ac6c21e81bc9b6b88",
-            "12b6955ddf801bf06966e4f9f758f8e3ed14e1dd39f3ce0518347049c29e1bfd"
+            "03f8fdde064f717efec7951d6a08df7b9ff22b2707e84330edf24b6c99c637f6"
         ]
     },
     "images": {
@@ -40,41 +35,11 @@
             "mimeType": "image/jpeg",
             "bytes": 75535
         },
-        "12b6955ddf801bf06966e4f9f758f8e3ed14e1dd39f3ce0518347049c29e1bfd": {
-            "file": "images/12b6955ddf801bf06966e4f9f758f8e3ed14e1dd39f3ce0518347049c29e1bfd.jpg",
-            "filename": "paste-228818677661699.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 56840
-        },
-        "277f54b613db7111307209e1730845eed80fa7ad002ac16ac6c21e81bc9b6b88": {
-            "file": "images/277f54b613db7111307209e1730845eed80fa7ad002ac16ac6c21e81bc9b6b88.jpg",
-            "filename": "paste-227044856168451.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 60699
-        },
-        "2b85fb13ae3aa49b21213fdceb829d644f7d3f8cd52ee62e93bf270da225890e": {
-            "file": "images/2b85fb13ae3aa49b21213fdceb829d644f7d3f8cd52ee62e93bf270da225890e.jpg",
-            "filename": "paste-232344845811715.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 114269
-        },
-        "2dbd326f0a1e08d4942cc5d7537133b42d82504a04d00fe25920f3f0a806dd47": {
-            "file": "images/2dbd326f0a1e08d4942cc5d7537133b42d82504a04d00fe25920f3f0a806dd47.jpg",
-            "filename": "paste-76897094467587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 155081
-        },
         "98bd0b230082c555c6dd7f446558025f037e8cf9d32146922b884582c04f32f9": {
             "file": "images/98bd0b230082c555c6dd7f446558025f037e8cf9d32146922b884582c04f32f9.jpg",
             "filename": "paste-175281910317059.jpg",
             "mimeType": "image/jpeg",
             "bytes": 67585
-        },
-        "e4c9a6a191a54bf9bd81b28c5cba73eae1cef1a1e6712de9cf1eeb1583614977": {
-            "file": "images/e4c9a6a191a54bf9bd81b28c5cba73eae1cef1a1e6712de9cf1eeb1583614977.jpg",
-            "filename": "paste-123110942572547 (1).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 38877
         }
     }
 }

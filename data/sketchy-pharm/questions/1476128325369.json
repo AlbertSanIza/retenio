@@ -18,49 +18,21 @@
         "$Diabetes"
     ],
     "question": {
-        "text": "§\n\nWhat drug can be used to treat T1DM and T2DM but is not an insulin analog?",
+        "text": "What drug can be used to treat T1DM and T2DM but is not an insulin analog?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat drug can be used to treat T1DM and T2DM but is not an insulin analog?\n\nAmylin\n\n[Image: 3554cefd8af7ede063c2cc6777408e2fa2e38fe6c704a3e4575e902c05536592]\n\n2.2 - Metformin, thiazolidinediones, pramlintide, SGLT2 inhibitors\n[Image: c93933ecca5011cf030fffab3f2a7d7d16736ddfbca87b230701c2f3fc240dc5]\n\n[Image: f3b7c21a6544b06616584d12195d9910647afb6cd10a8c110622198092a834c8]\n\n[Image: 1f24829ed8e7c360dc920854099066e3cbe5abfb330bb89cc82c3336564f3220]\n\n[Image: 74c691159c40e4652a15be12151e6f1b944b996fa69a77ba9efc6691452e3b29]",
+        "text": "Amylin\n\n[Image: 3554cefd8af7ede063c2cc6777408e2fa2e38fe6c704a3e4575e902c05536592]",
         "imageIds": [
-            "3554cefd8af7ede063c2cc6777408e2fa2e38fe6c704a3e4575e902c05536592",
-            "c93933ecca5011cf030fffab3f2a7d7d16736ddfbca87b230701c2f3fc240dc5",
-            "f3b7c21a6544b06616584d12195d9910647afb6cd10a8c110622198092a834c8",
-            "1f24829ed8e7c360dc920854099066e3cbe5abfb330bb89cc82c3336564f3220",
-            "74c691159c40e4652a15be12151e6f1b944b996fa69a77ba9efc6691452e3b29"
+            "3554cefd8af7ede063c2cc6777408e2fa2e38fe6c704a3e4575e902c05536592"
         ]
     },
     "images": {
-        "1f24829ed8e7c360dc920854099066e3cbe5abfb330bb89cc82c3336564f3220": {
-            "file": "images/1f24829ed8e7c360dc920854099066e3cbe5abfb330bb89cc82c3336564f3220.jpg",
-            "filename": "paste-726519487922179.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 55523
-        },
         "3554cefd8af7ede063c2cc6777408e2fa2e38fe6c704a3e4575e902c05536592": {
             "file": "images/3554cefd8af7ede063c2cc6777408e2fa2e38fe6c704a3e4575e902c05536592.jpg",
             "filename": "paste-74191265071107.jpg",
             "mimeType": "image/jpeg",
             "bytes": 50505
-        },
-        "74c691159c40e4652a15be12151e6f1b944b996fa69a77ba9efc6691452e3b29": {
-            "file": "images/74c691159c40e4652a15be12151e6f1b944b996fa69a77ba9efc6691452e3b29.jpg",
-            "filename": "paste-732279039066115.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 60265
-        },
-        "c93933ecca5011cf030fffab3f2a7d7d16736ddfbca87b230701c2f3fc240dc5": {
-            "file": "images/c93933ecca5011cf030fffab3f2a7d7d16736ddfbca87b230701c2f3fc240dc5.jpg",
-            "filename": "paste-690111050153985.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 153694
-        },
-        "f3b7c21a6544b06616584d12195d9910647afb6cd10a8c110622198092a834c8": {
-            "file": "images/f3b7c21a6544b06616584d12195d9910647afb6cd10a8c110622198092a834c8.jpg",
-            "filename": "paste-730582526984195.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 45674
         }
     }
 }

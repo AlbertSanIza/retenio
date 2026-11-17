@@ -18,16 +18,13 @@
         "$Antidepressants&Anxiolytics"
     ],
     "question": {
-        "text": "§\n\nMOA: Bupropion",
+        "text": "MOA: Bupropion",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nMOA: Bupropion\n\nInhibits NET and DAT\n\n[Image: 1ed4a8ac172529a343a05d57d580e764370c9df5ed6e1871b3fc1d71c5fb6a3d]\n\n3.4 - Bupropion, mirtazapine, trazodone\n[Image: 53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064]\n\n[Image: 7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943]\n\n[Image: f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2]",
+        "text": "Inhibits NET and DAT\n\n[Image: 1ed4a8ac172529a343a05d57d580e764370c9df5ed6e1871b3fc1d71c5fb6a3d]",
         "imageIds": [
-            "1ed4a8ac172529a343a05d57d580e764370c9df5ed6e1871b3fc1d71c5fb6a3d",
-            "53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064",
-            "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943",
-            "f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2"
+            "1ed4a8ac172529a343a05d57d580e764370c9df5ed6e1871b3fc1d71c5fb6a3d"
         ]
     },
     "images": {
@@ -36,24 +33,6 @@
             "filename": "paste-26946624815107.jpg",
             "mimeType": "image/jpeg",
             "bytes": 41031
-        },
-        "53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064": {
-            "file": "images/53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064.jpg",
-            "filename": "paste-1199537121132547.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 140326
-        },
-        "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943": {
-            "file": "images/7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943.jpg",
-            "filename": "paste-1171594063904771.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 89818
-        },
-        "f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2": {
-            "file": "images/f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2.jpg",
-            "filename": "paste-173976240259075.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 148735
         }
     }
 }

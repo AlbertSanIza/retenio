@@ -18,15 +18,13 @@
         "$Allergy&Pulmonary"
     ],
     "question": {
-        "text": "§\n\nWhich Histamine receptor mediates gastric acid secretion?",
+        "text": "Which Histamine receptor mediates gastric acid secretion?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhich Histamine receptor mediates gastric acid secretion?\n\nH2\n\n[Image: 497a7f59abe957df7d529899f7ab613261f51e4348bdf53d217851fb397ddd32]\n\n2.1 - Antihistamines\n[Image: f7314b2e975ff14486eeeeef9a70badab37ceceed6d6562b1b54c0cbf86eba91]\n\n[Image: ebf07e64c72b7326f332a528c0bbcb0378877f4ccf7da9beeeaa77a389b9ef4c]",
+        "text": "H2\n\n[Image: 497a7f59abe957df7d529899f7ab613261f51e4348bdf53d217851fb397ddd32]",
         "imageIds": [
-            "497a7f59abe957df7d529899f7ab613261f51e4348bdf53d217851fb397ddd32",
-            "f7314b2e975ff14486eeeeef9a70badab37ceceed6d6562b1b54c0cbf86eba91",
-            "ebf07e64c72b7326f332a528c0bbcb0378877f4ccf7da9beeeaa77a389b9ef4c"
+            "497a7f59abe957df7d529899f7ab613261f51e4348bdf53d217851fb397ddd32"
         ]
     },
     "images": {
@@ -35,18 +33,6 @@
             "filename": "paste-6502580486147 (2).jpg",
             "mimeType": "image/jpeg",
             "bytes": 72293
-        },
-        "ebf07e64c72b7326f332a528c0bbcb0378877f4ccf7da9beeeaa77a389b9ef4c": {
-            "file": "images/ebf07e64c72b7326f332a528c0bbcb0378877f4ccf7da9beeeaa77a389b9ef4c.jpg",
-            "filename": "paste-233629041033219.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 53438
-        },
-        "f7314b2e975ff14486eeeeef9a70badab37ceceed6d6562b1b54c0cbf86eba91": {
-            "file": "images/f7314b2e975ff14486eeeeef9a70badab37ceceed6d6562b1b54c0cbf86eba91.jpg",
-            "filename": "paste-85160611545091.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 154303
         }
     }
 }

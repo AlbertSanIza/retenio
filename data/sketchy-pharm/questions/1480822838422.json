@@ -18,16 +18,14 @@
         "$Other_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nAs a general rule, compare when you would use Metronidazole vs. Clindamycin",
+        "text": "As a general rule, compare when you would use Metronidazole vs. Clindamycin",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAs a general rule, compare when you would use Metronidazole vs. Clindamycin\n\nIn the treatment of ANAEROBIC bacteria,\n\n(1) Metronidazole: Below the diaphragm\n(2) Clindamycin: Above the diaphragm\n\n[Image: eb15c5378d554945d8042cedcfe1fd79f1b97bc8ba0062c076ca44f40ac24575]\n\n[Image: 18bbd0e8119e73b0ff5952e11f7f804bd2e7096fcf2c2056bfe6e91143d83a23]\n\n4.3 - Metronidazole\n[Image: 7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4]\n\n[Image: 3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf]",
+        "text": "In the treatment of ANAEROBIC bacteria,\n\n(1) Metronidazole: Below the diaphragm\n(2) Clindamycin: Above the diaphragm\n\n[Image: eb15c5378d554945d8042cedcfe1fd79f1b97bc8ba0062c076ca44f40ac24575]\n\n[Image: 18bbd0e8119e73b0ff5952e11f7f804bd2e7096fcf2c2056bfe6e91143d83a23]",
         "imageIds": [
             "eb15c5378d554945d8042cedcfe1fd79f1b97bc8ba0062c076ca44f40ac24575",
-            "18bbd0e8119e73b0ff5952e11f7f804bd2e7096fcf2c2056bfe6e91143d83a23",
-            "7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4",
-            "3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf"
+            "18bbd0e8119e73b0ff5952e11f7f804bd2e7096fcf2c2056bfe6e91143d83a23"
         ]
     },
     "images": {
@@ -36,18 +34,6 @@
             "filename": "paste-14559939133443 (1).jpg",
             "mimeType": "image/jpeg",
             "bytes": 32721
-        },
-        "3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf": {
-            "file": "images/3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf.jpg",
-            "filename": "paste-187277753974787.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 55370
-        },
-        "7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4": {
-            "file": "images/7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4.jpg",
-            "filename": "paste-262010184925185.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 111887
         },
         "eb15c5378d554945d8042cedcfe1fd79f1b97bc8ba0062c076ca44f40ac24575": {
             "file": "images/eb15c5378d554945d8042cedcfe1fd79f1b97bc8ba0062c076ca44f40ac24575.jpg",

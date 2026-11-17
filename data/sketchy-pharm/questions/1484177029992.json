@@ -18,38 +18,23 @@
         "$Mood_Stabilizers_&_Antiepileptics"
     ],
     "question": {
-        "text": "§\n\nWhich antiepileptic is used ONLY for absence seizures?",
+        "text": "Which antiepileptic is used ONLY for absence seizures?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhich antiepileptic is used ONLY for absence seizures?\n\nEthosuximide\n\n[Image: d1ed857a524a9a0f89f9b638741d58994f830131d017ac62fd1f135a8dbf4209]\n\n[Image: 9219c6af097fd588bb59fb11a97247f64b8b57d6247c376d1e1a582aea619f22]\n\n[Image: f8ee3453f4f058d4323f45563dcaa871bb57dbf7e4808929d71b3859e861edc5]\n\n4.4 - Ethosuximide\n[Image: a9420e1faaa2ea538a1b416d2dcf6fb3f421f9616b885d26dde79c82bb7cc20b]\n\n[Image: 2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a]\n\n[Image: fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5]",
+        "text": "Ethosuximide\n\n[Image: d1ed857a524a9a0f89f9b638741d58994f830131d017ac62fd1f135a8dbf4209]\n\n[Image: 9219c6af097fd588bb59fb11a97247f64b8b57d6247c376d1e1a582aea619f22]\n\n[Image: f8ee3453f4f058d4323f45563dcaa871bb57dbf7e4808929d71b3859e861edc5]",
         "imageIds": [
             "d1ed857a524a9a0f89f9b638741d58994f830131d017ac62fd1f135a8dbf4209",
             "9219c6af097fd588bb59fb11a97247f64b8b57d6247c376d1e1a582aea619f22",
-            "f8ee3453f4f058d4323f45563dcaa871bb57dbf7e4808929d71b3859e861edc5",
-            "a9420e1faaa2ea538a1b416d2dcf6fb3f421f9616b885d26dde79c82bb7cc20b",
-            "2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a",
-            "fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5"
+            "f8ee3453f4f058d4323f45563dcaa871bb57dbf7e4808929d71b3859e861edc5"
         ]
     },
     "images": {
-        "2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a": {
-            "file": "images/2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a.jpg",
-            "filename": "paste-688547682058243.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 102555
-        },
         "9219c6af097fd588bb59fb11a97247f64b8b57d6247c376d1e1a582aea619f22": {
             "file": "images/9219c6af097fd588bb59fb11a97247f64b8b57d6247c376d1e1a582aea619f22.jpg",
             "filename": "paste-803601265983491.jpg",
             "mimeType": "image/jpeg",
             "bytes": 70546
-        },
-        "a9420e1faaa2ea538a1b416d2dcf6fb3f421f9616b885d26dde79c82bb7cc20b": {
-            "file": "images/a9420e1faaa2ea538a1b416d2dcf6fb3f421f9616b885d26dde79c82bb7cc20b.jpg",
-            "filename": "paste-803519661604867.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 87637
         },
         "d1ed857a524a9a0f89f9b638741d58994f830131d017ac62fd1f135a8dbf4209": {
             "file": "images/d1ed857a524a9a0f89f9b638741d58994f830131d017ac62fd1f135a8dbf4209.jpg",
@@ -62,12 +47,6 @@
             "filename": "paste-803618445852675.jpg",
             "mimeType": "image/jpeg",
             "bytes": 72461
-        },
-        "fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5": {
-            "file": "images/fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5.jpg",
-            "filename": "paste-69565585293315.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 91284
         }
     }
 }

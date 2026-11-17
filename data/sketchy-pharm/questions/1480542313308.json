@@ -18,17 +18,13 @@
         "$Inhibitors_of_Bacterial_Protein_Synthesis"
     ],
     "question": {
-        "text": "§\n\nResistance: Tetracyclines",
+        "text": "Resistance: Tetracyclines",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nResistance: Tetracyclines\n\nEfflux pumps\n\n[Image: 00b9db43c83ae1b8603d1701f4a78a169f5afc07bb2bb82a5e0bf3b74113a798]\n\n2.1 - Tetracyclines\n[Image: 029f50df8c964a648f90565fdbb5c978b9fd2ef074dcadbbea4bbd78e283b7e2]\n\n[Image: 8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4]\n\n[Image: 148da3dca16d7ef2f00b70fd9989e6e2d2e10a6064cebc60234d37881f6e3c8f]\n\n[Image: 9a41cab91cd4ec097690589c9f9104229795d2ceafec69d88dd531b79934ed66]",
+        "text": "Efflux pumps\n\n[Image: 00b9db43c83ae1b8603d1701f4a78a169f5afc07bb2bb82a5e0bf3b74113a798]",
         "imageIds": [
-            "00b9db43c83ae1b8603d1701f4a78a169f5afc07bb2bb82a5e0bf3b74113a798",
-            "029f50df8c964a648f90565fdbb5c978b9fd2ef074dcadbbea4bbd78e283b7e2",
-            "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4",
-            "148da3dca16d7ef2f00b70fd9989e6e2d2e10a6064cebc60234d37881f6e3c8f",
-            "9a41cab91cd4ec097690589c9f9104229795d2ceafec69d88dd531b79934ed66"
+            "00b9db43c83ae1b8603d1701f4a78a169f5afc07bb2bb82a5e0bf3b74113a798"
         ]
     },
     "images": {
@@ -37,30 +33,6 @@
             "filename": "paste-8478265442307.jpg",
             "mimeType": "image/jpeg",
             "bytes": 65087
-        },
-        "029f50df8c964a648f90565fdbb5c978b9fd2ef074dcadbbea4bbd78e283b7e2": {
-            "file": "images/029f50df8c964a648f90565fdbb5c978b9fd2ef074dcadbbea4bbd78e283b7e2.jpg",
-            "filename": "paste-215521458913281.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 151592
-        },
-        "148da3dca16d7ef2f00b70fd9989e6e2d2e10a6064cebc60234d37881f6e3c8f": {
-            "file": "images/148da3dca16d7ef2f00b70fd9989e6e2d2e10a6064cebc60234d37881f6e3c8f.jpg",
-            "filename": "paste-392190643666947.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 66003
-        },
-        "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4": {
-            "file": "images/8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4.jpg",
-            "filename": "paste-321710230339587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 76271
-        },
-        "9a41cab91cd4ec097690589c9f9104229795d2ceafec69d88dd531b79934ed66": {
-            "file": "images/9a41cab91cd4ec097690589c9f9104229795d2ceafec69d88dd531b79934ed66.jpg",
-            "filename": "paste-427198922096643.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 38007
         }
     }
 }

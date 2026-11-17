@@ -18,19 +18,16 @@
         "$Antidepressants&Anxiolytics"
     ],
     "question": {
-        "text": "§\n\nMOA (4) : Trazodone",
+        "text": "MOA (4) : Trazodone",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nMOA (4) : Trazodone\n\nInhibition of:\n\n(1) 5-HT reuptake\n(2) 5-HT2 receptors\n\n(3) α1 receptors\n\n(4) H1 receptors\n\n[Image: 781bc35305b671527a1136609d09547534f3fb168422c915466e00b6b823411b]\n\n[Image: a2be31045f962ea3759b5aa0486e2dbaca2e5fff5070ddfaec5a0d8f0f30055b]\n\n[Image: b2699d6f826bdaf7b1c9cfaba3f0bd410ac7757a98a1a4979d9df1c9df9fea59]\n\n[Image: 4ee8207243a29b4865a5fcbe7c174319201a5207364b9e111eddc0718caf3852]\n\n3.4 - Bupropion, mirtazapine, trazodone\n[Image: 53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064]\n\n[Image: 7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943]\n\n[Image: f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2]",
+        "text": "Inhibition of:\n\n(1) 5-HT reuptake\n(2) 5-HT2 receptors\n\n(3) α1 receptors\n\n(4) H1 receptors\n\n[Image: 781bc35305b671527a1136609d09547534f3fb168422c915466e00b6b823411b]\n\n[Image: a2be31045f962ea3759b5aa0486e2dbaca2e5fff5070ddfaec5a0d8f0f30055b]\n\n[Image: b2699d6f826bdaf7b1c9cfaba3f0bd410ac7757a98a1a4979d9df1c9df9fea59]\n\n[Image: 4ee8207243a29b4865a5fcbe7c174319201a5207364b9e111eddc0718caf3852]",
         "imageIds": [
             "781bc35305b671527a1136609d09547534f3fb168422c915466e00b6b823411b",
             "a2be31045f962ea3759b5aa0486e2dbaca2e5fff5070ddfaec5a0d8f0f30055b",
             "b2699d6f826bdaf7b1c9cfaba3f0bd410ac7757a98a1a4979d9df1c9df9fea59",
-            "4ee8207243a29b4865a5fcbe7c174319201a5207364b9e111eddc0718caf3852",
-            "53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064",
-            "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943",
-            "f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2"
+            "4ee8207243a29b4865a5fcbe7c174319201a5207364b9e111eddc0718caf3852"
         ]
     },
     "images": {
@@ -40,23 +37,11 @@
             "mimeType": "image/jpeg",
             "bytes": 59517
         },
-        "53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064": {
-            "file": "images/53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064.jpg",
-            "filename": "paste-1199537121132547.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 140326
-        },
         "781bc35305b671527a1136609d09547534f3fb168422c915466e00b6b823411b": {
             "file": "images/781bc35305b671527a1136609d09547534f3fb168422c915466e00b6b823411b.jpg",
             "filename": "paste-30481382899715.jpg",
             "mimeType": "image/jpeg",
             "bytes": 44950
-        },
-        "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943": {
-            "file": "images/7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943.jpg",
-            "filename": "paste-1171594063904771.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 89818
         },
         "a2be31045f962ea3759b5aa0486e2dbaca2e5fff5070ddfaec5a0d8f0f30055b": {
             "file": "images/a2be31045f962ea3759b5aa0486e2dbaca2e5fff5070ddfaec5a0d8f0f30055b.jpg",
@@ -69,12 +54,6 @@
             "filename": "paste-30829275250691.jpg",
             "mimeType": "image/jpeg",
             "bytes": 47075
-        },
-        "f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2": {
-            "file": "images/f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2.jpg",
-            "filename": "paste-173976240259075.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 148735
         }
     }
 }

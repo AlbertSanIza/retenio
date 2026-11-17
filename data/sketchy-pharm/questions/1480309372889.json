@@ -18,49 +18,21 @@
         "$Antivirals_HIV"
     ],
     "question": {
-        "text": "§\n\nWhat HIV protein is responsible for fusion?",
+        "text": "What HIV protein is responsible for fusion?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat HIV protein is responsible for fusion?\n\ngp41\n\n[Image: cd29fc894a5d58d8f11f74d9d349fa3d538ed10c97f1437f72d62f9be766266b]\n\n6.4 - Maraviroc, fusion inhibitors, integrase inhibitors\n[Image: 6962170d6278ec795afe90f6c4a739ee01393f4302653b5a73f19a824efce387]\n\n[Image: 6093c872710d1e06364fa1a1efc533b3306c44d33e6730e15dcfd7730f21b3e4]\n\n[Image: f0b981a5533fab5c3ac132de80a04fd2ff4f21963b96e7db8dcec37f59fdb0f6]\n\n[Image: 10b5aec06a1db24334264ef0ef5cf85d69609de17d17e6ab3f43510d4db81a91]",
+        "text": "gp41\n\n[Image: cd29fc894a5d58d8f11f74d9d349fa3d538ed10c97f1437f72d62f9be766266b]",
         "imageIds": [
-            "cd29fc894a5d58d8f11f74d9d349fa3d538ed10c97f1437f72d62f9be766266b",
-            "6962170d6278ec795afe90f6c4a739ee01393f4302653b5a73f19a824efce387",
-            "6093c872710d1e06364fa1a1efc533b3306c44d33e6730e15dcfd7730f21b3e4",
-            "f0b981a5533fab5c3ac132de80a04fd2ff4f21963b96e7db8dcec37f59fdb0f6",
-            "10b5aec06a1db24334264ef0ef5cf85d69609de17d17e6ab3f43510d4db81a91"
+            "cd29fc894a5d58d8f11f74d9d349fa3d538ed10c97f1437f72d62f9be766266b"
         ]
     },
     "images": {
-        "10b5aec06a1db24334264ef0ef5cf85d69609de17d17e6ab3f43510d4db81a91": {
-            "file": "images/10b5aec06a1db24334264ef0ef5cf85d69609de17d17e6ab3f43510d4db81a91.jpg",
-            "filename": "paste-547165948608515.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 23782
-        },
-        "6093c872710d1e06364fa1a1efc533b3306c44d33e6730e15dcfd7730f21b3e4": {
-            "file": "images/6093c872710d1e06364fa1a1efc533b3306c44d33e6730e15dcfd7730f21b3e4.jpg",
-            "filename": "paste-231765025226755.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 99626
-        },
-        "6962170d6278ec795afe90f6c4a739ee01393f4302653b5a73f19a824efce387": {
-            "file": "images/6962170d6278ec795afe90f6c4a739ee01393f4302653b5a73f19a824efce387.jpg",
-            "filename": "paste-297559629234177.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 162115
-        },
         "cd29fc894a5d58d8f11f74d9d349fa3d538ed10c97f1437f72d62f9be766266b": {
             "file": "images/cd29fc894a5d58d8f11f74d9d349fa3d538ed10c97f1437f72d62f9be766266b.jpg",
             "filename": "paste-121904056762371.jpg",
             "mimeType": "image/jpeg",
             "bytes": 52213
-        },
-        "f0b981a5533fab5c3ac132de80a04fd2ff4f21963b96e7db8dcec37f59fdb0f6": {
-            "file": "images/f0b981a5533fab5c3ac132de80a04fd2ff4f21963b96e7db8dcec37f59fdb0f6.jpg",
-            "filename": "paste-86719684673539.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 169487
         }
     }
 }

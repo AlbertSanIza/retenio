@@ -18,17 +18,15 @@
         "$Other_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nName 3 bacterial infections Metronidazole is used to treat",
+        "text": "Name 3 bacterial infections Metronidazole is used to treat",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 3 bacterial infections Metronidazole is used to treat\n\n(1) Gardnerella vaginalis\n(2) Helicobacter pylori\n\n(3) Clostridium\n\n(And other anaerobes)\n\n[Image: f99e7a99baaa8f3c1a963e9389a39ce288d97450497087e744d6d8799fd400a5]\n\n[Image: 91441839d65472b7d67bbc81935df1d732ffee407cfc2b52d3d60b2d0b150856]\n\n[Image: 22c3eac3ec444e030920bf0c48df8927a39b6b9a6ebe9a21d103b8bf2530f1c5]\n\n4.3 - Metronidazole\n[Image: 7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4]\n\n[Image: 3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf]",
+        "text": "(1) Gardnerella vaginalis\n(2) Helicobacter pylori\n\n(3) Clostridium\n\n(And other anaerobes)\n\n[Image: f99e7a99baaa8f3c1a963e9389a39ce288d97450497087e744d6d8799fd400a5]\n\n[Image: 91441839d65472b7d67bbc81935df1d732ffee407cfc2b52d3d60b2d0b150856]\n\n[Image: 22c3eac3ec444e030920bf0c48df8927a39b6b9a6ebe9a21d103b8bf2530f1c5]",
         "imageIds": [
             "f99e7a99baaa8f3c1a963e9389a39ce288d97450497087e744d6d8799fd400a5",
             "91441839d65472b7d67bbc81935df1d732ffee407cfc2b52d3d60b2d0b150856",
-            "22c3eac3ec444e030920bf0c48df8927a39b6b9a6ebe9a21d103b8bf2530f1c5",
-            "7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4",
-            "3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf"
+            "22c3eac3ec444e030920bf0c48df8927a39b6b9a6ebe9a21d103b8bf2530f1c5"
         ]
     },
     "images": {
@@ -37,18 +35,6 @@
             "filename": "paste-239865333547011.jpg",
             "mimeType": "image/jpeg",
             "bytes": 49229
-        },
-        "3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf": {
-            "file": "images/3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf.jpg",
-            "filename": "paste-187277753974787.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 55370
-        },
-        "7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4": {
-            "file": "images/7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4.jpg",
-            "filename": "paste-262010184925185.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 111887
         },
         "91441839d65472b7d67bbc81935df1d732ffee407cfc2b52d3d60b2d0b150856": {
             "file": "images/91441839d65472b7d67bbc81935df1d732ffee407cfc2b52d3d60b2d0b150856.jpg",

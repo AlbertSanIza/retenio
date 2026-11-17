@@ -18,56 +18,21 @@
         "$Parasympathetics"
     ],
     "question": {
-        "text": "§\n\nWhere are M2 receptors found?",
+        "text": "Where are M2 receptors found?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhere are M2 receptors found?\n\n(1) Atria\n(2) SA\n\n(3) AV\n\n[Image: 8d6b53534fc8a7652aacf7243d62608484c75e2c0065abb757f54b1998482160]\n\n1.1 - Cholinomimetics\n[Image: b548813a8939dfd517c4bfcc8a0352c4c886399c9db33ab7ad44b069493b4549]\n\n[Image: 775647573075aeebf8a20d4dba104bb2749098efbdf22ea02558bf7b44069396]\n\n[Image: bca07e05a27480947e5e84ead2a9bf60199cbfc2f8aede198a900bf5cd077766]\n\n[Image: 4d87e30c84e96b67c26c6ce8ed163a032371f1b08460107b1d9941c1e10021fa]\n\n[Image: d05e85e8c6b5f681ab284ed599a5b16966368359f5afdb0a2221cef2cf1b22bb]",
+        "text": "(1) Atria\n(2) SA\n\n(3) AV\n\n[Image: 8d6b53534fc8a7652aacf7243d62608484c75e2c0065abb757f54b1998482160]",
         "imageIds": [
-            "8d6b53534fc8a7652aacf7243d62608484c75e2c0065abb757f54b1998482160",
-            "b548813a8939dfd517c4bfcc8a0352c4c886399c9db33ab7ad44b069493b4549",
-            "775647573075aeebf8a20d4dba104bb2749098efbdf22ea02558bf7b44069396",
-            "bca07e05a27480947e5e84ead2a9bf60199cbfc2f8aede198a900bf5cd077766",
-            "4d87e30c84e96b67c26c6ce8ed163a032371f1b08460107b1d9941c1e10021fa",
-            "d05e85e8c6b5f681ab284ed599a5b16966368359f5afdb0a2221cef2cf1b22bb"
+            "8d6b53534fc8a7652aacf7243d62608484c75e2c0065abb757f54b1998482160"
         ]
     },
     "images": {
-        "4d87e30c84e96b67c26c6ce8ed163a032371f1b08460107b1d9941c1e10021fa": {
-            "file": "images/4d87e30c84e96b67c26c6ce8ed163a032371f1b08460107b1d9941c1e10021fa.jpg",
-            "filename": "paste-53588306952195.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 66345
-        },
-        "775647573075aeebf8a20d4dba104bb2749098efbdf22ea02558bf7b44069396": {
-            "file": "images/775647573075aeebf8a20d4dba104bb2749098efbdf22ea02558bf7b44069396.jpg",
-            "filename": "paste-592602407632899.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 52958
-        },
         "8d6b53534fc8a7652aacf7243d62608484c75e2c0065abb757f54b1998482160": {
             "file": "images/8d6b53534fc8a7652aacf7243d62608484c75e2c0065abb757f54b1998482160.jpg",
             "filename": "paste-6468220747779.jpg",
             "mimeType": "image/jpeg",
             "bytes": 58450
-        },
-        "b548813a8939dfd517c4bfcc8a0352c4c886399c9db33ab7ad44b069493b4549": {
-            "file": "images/b548813a8939dfd517c4bfcc8a0352c4c886399c9db33ab7ad44b069493b4549.jpg",
-            "filename": "paste-400509995319297.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 141233
-        },
-        "bca07e05a27480947e5e84ead2a9bf60199cbfc2f8aede198a900bf5cd077766": {
-            "file": "images/bca07e05a27480947e5e84ead2a9bf60199cbfc2f8aede198a900bf5cd077766.jpg",
-            "filename": "paste-141334488809475.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 1541
-        },
-        "d05e85e8c6b5f681ab284ed599a5b16966368359f5afdb0a2221cef2cf1b22bb": {
-            "file": "images/d05e85e8c6b5f681ab284ed599a5b16966368359f5afdb0a2221cef2cf1b22bb.jpg",
-            "filename": "paste-54949811585027.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 99832
         }
     }
 }

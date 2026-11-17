@@ -18,15 +18,13 @@
         "$Sedatives&Hypnotics"
     ],
     "question": {
-        "text": "§\n\nWhich class of GABAA agonists are CYP-450 inducers?",
+        "text": "Which class of GABAA agonists are CYP-450 inducers?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhich class of GABAA agonists are CYP-450 inducers?\n\nBarbituates\n\n[Image: 67ae796e51c05cbf1bf6f85c4d6b8be4a4f6231e7d920e0a03428eb5fc1fe5e7]\n\n1.3 - Barbiturates\n[Image: a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4]\n\n[Image: e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6]",
+        "text": "Barbituates\n\n[Image: 67ae796e51c05cbf1bf6f85c4d6b8be4a4f6231e7d920e0a03428eb5fc1fe5e7]",
         "imageIds": [
-            "67ae796e51c05cbf1bf6f85c4d6b8be4a4f6231e7d920e0a03428eb5fc1fe5e7",
-            "a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4",
-            "e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6"
+            "67ae796e51c05cbf1bf6f85c4d6b8be4a4f6231e7d920e0a03428eb5fc1fe5e7"
         ]
     },
     "images": {
@@ -35,18 +33,6 @@
             "filename": "paste-10934986735619.jpg",
             "mimeType": "image/jpeg",
             "bytes": 99717
-        },
-        "a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4": {
-            "file": "images/a4c9778c1ae0d11a2480760ad577d954687a7c159d3321fb273d037b169ea5e4.jpg",
-            "filename": "paste-829706077208577.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 146002
-        },
-        "e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6": {
-            "file": "images/e0b2eadf289c39e9b68d09c9714a498776c82312d019b7b304b56064685958a6.jpg",
-            "filename": "paste-160709086281731.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 53669
         }
     }
 }

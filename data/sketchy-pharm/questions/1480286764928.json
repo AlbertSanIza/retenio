@@ -18,51 +18,16 @@
         "$Kinase_Inhibitors_&_MonoclonalAbsbb"
     ],
     "question": {
-        "text": "§\n\nAdverse Effect: Trastuzumab",
+        "text": "Adverse Effect: Trastuzumab",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAdverse Effect: Trastuzumab\n\nCardiotoxicity\n\n(\"Heartceptin\" damages the heart)\n\n[Image: e624e93117687d2c846ceafb7467d5f681a132cae9db2abb7fdb3e4ac5e995c4]\n\n3.2 - Rituximab, cetuximab, bevacizumab, alemtuzumab, trastuzumab\n[Image: 78a3e5812b6b01cdf56b21c2dfa38b5f9a0a529350b6e0f9cec1fbc74081ae53]\n\n[Image: 9b62b45e65e980af4dabaab4824877160f66c7b4451ec31f26902f9f7b7dc09c]\n\n[Image: 77764fe2fafd0c5b5cc932c05fed9c385f31db6a88a3a2ea8cc6861ff68bf055]\n\n[Image: 187e7892c5c87c734265e9ff1612493208af791f9bdb0878077012f6a004fcc9]\n\n[Image: 0e4e85539937cdc2a012cad4670c08900808f5a50a54ce2895e466b08f771374]",
+        "text": "Cardiotoxicity\n\n(\"Heartceptin\" damages the heart)\n\n[Image: e624e93117687d2c846ceafb7467d5f681a132cae9db2abb7fdb3e4ac5e995c4]",
         "imageIds": [
-            "e624e93117687d2c846ceafb7467d5f681a132cae9db2abb7fdb3e4ac5e995c4",
-            "78a3e5812b6b01cdf56b21c2dfa38b5f9a0a529350b6e0f9cec1fbc74081ae53",
-            "9b62b45e65e980af4dabaab4824877160f66c7b4451ec31f26902f9f7b7dc09c",
-            "77764fe2fafd0c5b5cc932c05fed9c385f31db6a88a3a2ea8cc6861ff68bf055",
-            "187e7892c5c87c734265e9ff1612493208af791f9bdb0878077012f6a004fcc9",
-            "0e4e85539937cdc2a012cad4670c08900808f5a50a54ce2895e466b08f771374"
+            "e624e93117687d2c846ceafb7467d5f681a132cae9db2abb7fdb3e4ac5e995c4"
         ]
     },
     "images": {
-        "0e4e85539937cdc2a012cad4670c08900808f5a50a54ce2895e466b08f771374": {
-            "file": "images/0e4e85539937cdc2a012cad4670c08900808f5a50a54ce2895e466b08f771374.jpg",
-            "filename": "paste-34540126994435.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 41487
-        },
-        "187e7892c5c87c734265e9ff1612493208af791f9bdb0878077012f6a004fcc9": {
-            "file": "images/187e7892c5c87c734265e9ff1612493208af791f9bdb0878077012f6a004fcc9.jpg",
-            "filename": "paste-34398393073667.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 27319
-        },
-        "77764fe2fafd0c5b5cc932c05fed9c385f31db6a88a3a2ea8cc6861ff68bf055": {
-            "file": "images/77764fe2fafd0c5b5cc932c05fed9c385f31db6a88a3a2ea8cc6861ff68bf055.jpg",
-            "filename": "paste-34359738368003.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 25224
-        },
-        "78a3e5812b6b01cdf56b21c2dfa38b5f9a0a529350b6e0f9cec1fbc74081ae53": {
-            "file": "images/78a3e5812b6b01cdf56b21c2dfa38b5f9a0a529350b6e0f9cec1fbc74081ae53.jpg",
-            "filename": "paste-390537081257985.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 140132
-        },
-        "9b62b45e65e980af4dabaab4824877160f66c7b4451ec31f26902f9f7b7dc09c": {
-            "file": "images/9b62b45e65e980af4dabaab4824877160f66c7b4451ec31f26902f9f7b7dc09c.jpg",
-            "filename": "paste-34286723923971.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 49232
-        },
         "e624e93117687d2c846ceafb7467d5f681a132cae9db2abb7fdb3e4ac5e995c4": {
             "file": "images/e624e93117687d2c846ceafb7467d5f681a132cae9db2abb7fdb3e4ac5e995c4.jpg",
             "filename": "paste-22166326214659 (1).jpg",

@@ -18,21 +18,16 @@
         "$Hypothalamic_&_Pituitary"
     ],
     "question": {
-        "text": "§\n\nIndications (4) : Desmopressin",
+        "text": "Indications (4) : Desmopressin",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nIndications (4) : Desmopressin\n\n(1) Central diabetes insipidus\n(2) vWF deficiency\n\n(3) Hemophilia A\n\n(4) Enuresis\n\n[Image: bd62bd270b8a92865d6cca6ffc289429de29711cf48348d434d11853543d5a38]\n\n[Image: e3cdf0e36508be8e92d17a3a8a239c945c75d20ab6465ae1f0ab18c5aa40628b]\n\n[Image: 73a342da98149a0054c3a2b8a1b22adf17b317f1d3e14cf85e57aadb00804b33]\n\n[Image: ae3e7a78b9c60b42598e4849fe79f30fcf2dafeda73724ad714a2c7f8038699f]\n\n4.1 - ADH, DDAVP, ADH receptor antagonists\n\n[Image: e06950f692d65a8864ac252b6fb75828d17da41fdcdcc246d239abc8eb31f867]\n\n[Image: da81a04ca8de0f852b6e357e37e3a63b21ca5d78bb69b03f81978fcf520dfba2]\n\n[Image: dae9fdb5864ba18e191be1afa09ac1f37d7babe6a6d7291e59103bd562bd4faa]\n\n[Image: abea8ed5f8daf28df44955dd5fca3af62e1f69ea071a7a14d3b5b3e3f86830c5]\n\n[Image: 826b35e0ceaeab4fb76197642465d0ffa03d756489d3e41f8caa28bc7978aea2]",
+        "text": "(1) Central diabetes insipidus\n(2) vWF deficiency\n\n(3) Hemophilia A\n\n(4) Enuresis\n\n[Image: bd62bd270b8a92865d6cca6ffc289429de29711cf48348d434d11853543d5a38]\n\n[Image: e3cdf0e36508be8e92d17a3a8a239c945c75d20ab6465ae1f0ab18c5aa40628b]\n\n[Image: 73a342da98149a0054c3a2b8a1b22adf17b317f1d3e14cf85e57aadb00804b33]\n\n[Image: ae3e7a78b9c60b42598e4849fe79f30fcf2dafeda73724ad714a2c7f8038699f]",
         "imageIds": [
             "bd62bd270b8a92865d6cca6ffc289429de29711cf48348d434d11853543d5a38",
             "e3cdf0e36508be8e92d17a3a8a239c945c75d20ab6465ae1f0ab18c5aa40628b",
             "73a342da98149a0054c3a2b8a1b22adf17b317f1d3e14cf85e57aadb00804b33",
-            "ae3e7a78b9c60b42598e4849fe79f30fcf2dafeda73724ad714a2c7f8038699f",
-            "e06950f692d65a8864ac252b6fb75828d17da41fdcdcc246d239abc8eb31f867",
-            "da81a04ca8de0f852b6e357e37e3a63b21ca5d78bb69b03f81978fcf520dfba2",
-            "dae9fdb5864ba18e191be1afa09ac1f37d7babe6a6d7291e59103bd562bd4faa",
-            "abea8ed5f8daf28df44955dd5fca3af62e1f69ea071a7a14d3b5b3e3f86830c5",
-            "826b35e0ceaeab4fb76197642465d0ffa03d756489d3e41f8caa28bc7978aea2"
+            "ae3e7a78b9c60b42598e4849fe79f30fcf2dafeda73724ad714a2c7f8038699f"
         ]
     },
     "images": {
@@ -41,18 +36,6 @@
             "filename": "paste-86354612453379.jpg",
             "mimeType": "image/jpeg",
             "bytes": 56905
-        },
-        "826b35e0ceaeab4fb76197642465d0ffa03d756489d3e41f8caa28bc7978aea2": {
-            "file": "images/826b35e0ceaeab4fb76197642465d0ffa03d756489d3e41f8caa28bc7978aea2.jpg",
-            "filename": "paste-1111455931826179.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 101271
-        },
-        "abea8ed5f8daf28df44955dd5fca3af62e1f69ea071a7a14d3b5b3e3f86830c5": {
-            "file": "images/abea8ed5f8daf28df44955dd5fca3af62e1f69ea071a7a14d3b5b3e3f86830c5.jpg",
-            "filename": "paste-703386794065921.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 65797
         },
         "ae3e7a78b9c60b42598e4849fe79f30fcf2dafeda73724ad714a2c7f8038699f": {
             "file": "images/ae3e7a78b9c60b42598e4849fe79f30fcf2dafeda73724ad714a2c7f8038699f.jpg",
@@ -65,24 +48,6 @@
             "filename": "paste-86255828205571.jpg",
             "mimeType": "image/jpeg",
             "bytes": 49663
-        },
-        "da81a04ca8de0f852b6e357e37e3a63b21ca5d78bb69b03f81978fcf520dfba2": {
-            "file": "images/da81a04ca8de0f852b6e357e37e3a63b21ca5d78bb69b03f81978fcf520dfba2.jpg",
-            "filename": "paste-707578682146819.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 23630
-        },
-        "dae9fdb5864ba18e191be1afa09ac1f37d7babe6a6d7291e59103bd562bd4faa": {
-            "file": "images/dae9fdb5864ba18e191be1afa09ac1f37d7babe6a6d7291e59103bd562bd4faa.jpg",
-            "filename": "paste-700002359836673.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 62028
-        },
-        "e06950f692d65a8864ac252b6fb75828d17da41fdcdcc246d239abc8eb31f867": {
-            "file": "images/e06950f692d65a8864ac252b6fb75828d17da41fdcdcc246d239abc8eb31f867.jpg",
-            "filename": "paste-728168755363841.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 141554
         },
         "e3cdf0e36508be8e92d17a3a8a239c945c75d20ab6465ae1f0ab18c5aa40628b": {
             "file": "images/e3cdf0e36508be8e92d17a3a8a239c945c75d20ab6465ae1f0ab18c5aa40628b.jpg",

@@ -108,6 +108,26 @@ describe('Imported deck and MCP images', () => {
         expect((await getAnkiImage({ imageId: '0'.repeat(64) })).isError).toBe(true)
         expect((await getAnkiImage({ imageId: '../../package.json' })).isError).toBe(true)
     })
+
+    test('Acetazolamide contains only its specific answer and Extra 8 image', async () => {
+        const catalog = await loadCatalog('data')
+        const cardId = 'sketchy-pharm:1476210878808'
+        const result = await getRandomQuestions({ count: 1, excludeCardIds: catalog.cards.filter((card) => card.id !== cardId).map((card) => card.id) })
+        expect(result.isError).toBeUndefined()
+        const content = result.content[0]
+        if (content.type !== 'text') throw new Error('Expected card metadata')
+        expect(JSON.parse(content.text).cards).toEqual([
+            {
+                id: cardId,
+                categories: ['Cardiovascular & Renal', 'Diuretics', 'Acetazolamide, mannitol'],
+                question: { text: 'What acid/base disorder does Acetazolamide cause?' },
+                answer: {
+                    text: 'Normal anion gap metabolic acidosis\n\n(Remember, anion gap acidosis is due to production of volatile organic acids such as in diabetic ketoacidosis)',
+                    imageIds: ['5242187d47e06f71c02a393953ec9710f1b5b8038780d9a09b0537a46c9d4201']
+                }
+            }
+        ])
+    })
 })
 
 describe('Collection file loading', () => {

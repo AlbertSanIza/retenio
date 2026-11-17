@@ -18,19 +18,17 @@
         "$DNA_&_Cellular_Division"
     ],
     "question": {
-        "text": "§\n\nAdverse Effects (5) : \"-platins\"",
+        "text": "Adverse Effects (5) : \"-platins\"",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAdverse Effects (5) : \"-platins\"\n\n(1) Ototoxicity\n(2) Peripheral neuropathy\n\n(3) Nephrotoxicity\n\n(4) Acute tubular necrosis\n\n(5) Myelosuppression\n\n(Oto-/Nephrotoxicity: Cisplatin > Carboplatin >>> Oxaliplatin)\n\n[Image: 2fed2141967c20e2fc29e237594561b222b789fe0a1a8f2f2479cac1091ec1c8]\n\n[Image: 1993197ede25f3c53e91da476867c85094ff3e479bc99507070766823a8e6b05]\n\n[Image: 91fbcac2dccca91a8c231c6f5bc390f4fe5239919569dabfc5e57e5c67038a4e]\n\n[Image: 075d32003896b456c7babe185a3e7a88063f50ed02a6284151b39a39f2f19875]\n\n[Image: e96fd92f86db35fb352c56be7265481e33853a669aac8436e1b0d4f214ccf279]\n\n2.2 - Cisplatin, carboplatin, oxaliplatin, amifostine\n[Image: 39e77f32bc3c3c1d24e22b8d2a483bb424ad4524cb4c652a7d939b14cddb6eb0]\n\n[Image: 0cac665e307a95318ba64875f612cbbef8931ab8c0c1ca7e7135dcfd0a5727d6]",
+        "text": "(1) Ototoxicity\n(2) Peripheral neuropathy\n\n(3) Nephrotoxicity\n\n(4) Acute tubular necrosis\n\n(5) Myelosuppression\n\n(Oto-/Nephrotoxicity: Cisplatin > Carboplatin >>> Oxaliplatin)\n\n[Image: 2fed2141967c20e2fc29e237594561b222b789fe0a1a8f2f2479cac1091ec1c8]\n\n[Image: 1993197ede25f3c53e91da476867c85094ff3e479bc99507070766823a8e6b05]\n\n[Image: 91fbcac2dccca91a8c231c6f5bc390f4fe5239919569dabfc5e57e5c67038a4e]\n\n[Image: 075d32003896b456c7babe185a3e7a88063f50ed02a6284151b39a39f2f19875]\n\n[Image: e96fd92f86db35fb352c56be7265481e33853a669aac8436e1b0d4f214ccf279]",
         "imageIds": [
             "2fed2141967c20e2fc29e237594561b222b789fe0a1a8f2f2479cac1091ec1c8",
             "1993197ede25f3c53e91da476867c85094ff3e479bc99507070766823a8e6b05",
             "91fbcac2dccca91a8c231c6f5bc390f4fe5239919569dabfc5e57e5c67038a4e",
             "075d32003896b456c7babe185a3e7a88063f50ed02a6284151b39a39f2f19875",
-            "e96fd92f86db35fb352c56be7265481e33853a669aac8436e1b0d4f214ccf279",
-            "39e77f32bc3c3c1d24e22b8d2a483bb424ad4524cb4c652a7d939b14cddb6eb0",
-            "0cac665e307a95318ba64875f612cbbef8931ab8c0c1ca7e7135dcfd0a5727d6"
+            "e96fd92f86db35fb352c56be7265481e33853a669aac8436e1b0d4f214ccf279"
         ]
     },
     "images": {
@@ -39,12 +37,6 @@
             "filename": "paste-33320356282371.jpg",
             "mimeType": "image/jpeg",
             "bytes": 44197
-        },
-        "0cac665e307a95318ba64875f612cbbef8931ab8c0c1ca7e7135dcfd0a5727d6": {
-            "file": "images/0cac665e307a95318ba64875f612cbbef8931ab8c0c1ca7e7135dcfd0a5727d6.jpg",
-            "filename": "paste-179804510879747.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 10296
         },
         "1993197ede25f3c53e91da476867c85094ff3e479bc99507070766823a8e6b05": {
             "file": "images/1993197ede25f3c53e91da476867c85094ff3e479bc99507070766823a8e6b05.jpg",
@@ -57,12 +49,6 @@
             "filename": "paste-31842887532547.jpg",
             "mimeType": "image/jpeg",
             "bytes": 43442
-        },
-        "39e77f32bc3c3c1d24e22b8d2a483bb424ad4524cb4c652a7d939b14cddb6eb0": {
-            "file": "images/39e77f32bc3c3c1d24e22b8d2a483bb424ad4524cb4c652a7d939b14cddb6eb0.jpg",
-            "filename": "paste-366274811002881.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 108353
         },
         "91fbcac2dccca91a8c231c6f5bc390f4fe5239919569dabfc5e57e5c67038a4e": {
             "file": "images/91fbcac2dccca91a8c231c6f5bc390f4fe5239919569dabfc5e57e5c67038a4e.jpg",

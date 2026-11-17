@@ -18,19 +18,14 @@
         "$Hypothalamic_&_Pituitary"
     ],
     "question": {
-        "text": "§\n\nTreatment - Pharmacologic: Hemophilia A",
+        "text": "Treatment - Pharmacologic: Hemophilia A",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nTreatment - Pharmacologic: Hemophilia A\n\nDesmopressin\n\n[Image: a561b7a4af8245ab806ed4df7a3d370320bae609769a9f8414b986d251cf7905]\n\n[Image: 4a24acf09bd984789f0452547dfb83e48076d18cb198ce86ae6af3a839b120d9]\n\n4.1 - ADH, DDAVP, ADH receptor antagonists\n\n[Image: e06950f692d65a8864ac252b6fb75828d17da41fdcdcc246d239abc8eb31f867]\n\n[Image: da81a04ca8de0f852b6e357e37e3a63b21ca5d78bb69b03f81978fcf520dfba2]\n\n[Image: dae9fdb5864ba18e191be1afa09ac1f37d7babe6a6d7291e59103bd562bd4faa]\n\n[Image: abea8ed5f8daf28df44955dd5fca3af62e1f69ea071a7a14d3b5b3e3f86830c5]\n\n[Image: 826b35e0ceaeab4fb76197642465d0ffa03d756489d3e41f8caa28bc7978aea2]",
+        "text": "Desmopressin\n\n[Image: a561b7a4af8245ab806ed4df7a3d370320bae609769a9f8414b986d251cf7905]\n\n[Image: 4a24acf09bd984789f0452547dfb83e48076d18cb198ce86ae6af3a839b120d9]",
         "imageIds": [
             "a561b7a4af8245ab806ed4df7a3d370320bae609769a9f8414b986d251cf7905",
-            "4a24acf09bd984789f0452547dfb83e48076d18cb198ce86ae6af3a839b120d9",
-            "e06950f692d65a8864ac252b6fb75828d17da41fdcdcc246d239abc8eb31f867",
-            "da81a04ca8de0f852b6e357e37e3a63b21ca5d78bb69b03f81978fcf520dfba2",
-            "dae9fdb5864ba18e191be1afa09ac1f37d7babe6a6d7291e59103bd562bd4faa",
-            "abea8ed5f8daf28df44955dd5fca3af62e1f69ea071a7a14d3b5b3e3f86830c5",
-            "826b35e0ceaeab4fb76197642465d0ffa03d756489d3e41f8caa28bc7978aea2"
+            "4a24acf09bd984789f0452547dfb83e48076d18cb198ce86ae6af3a839b120d9"
         ]
     },
     "images": {
@@ -40,41 +35,11 @@
             "mimeType": "image/jpeg",
             "bytes": 56874
         },
-        "826b35e0ceaeab4fb76197642465d0ffa03d756489d3e41f8caa28bc7978aea2": {
-            "file": "images/826b35e0ceaeab4fb76197642465d0ffa03d756489d3e41f8caa28bc7978aea2.jpg",
-            "filename": "paste-1111455931826179.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 101271
-        },
         "a561b7a4af8245ab806ed4df7a3d370320bae609769a9f8414b986d251cf7905": {
             "file": "images/a561b7a4af8245ab806ed4df7a3d370320bae609769a9f8414b986d251cf7905.jpg",
             "filename": "paste-85993835200515.jpg",
             "mimeType": "image/jpeg",
             "bytes": 54133
-        },
-        "abea8ed5f8daf28df44955dd5fca3af62e1f69ea071a7a14d3b5b3e3f86830c5": {
-            "file": "images/abea8ed5f8daf28df44955dd5fca3af62e1f69ea071a7a14d3b5b3e3f86830c5.jpg",
-            "filename": "paste-703386794065921.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 65797
-        },
-        "da81a04ca8de0f852b6e357e37e3a63b21ca5d78bb69b03f81978fcf520dfba2": {
-            "file": "images/da81a04ca8de0f852b6e357e37e3a63b21ca5d78bb69b03f81978fcf520dfba2.jpg",
-            "filename": "paste-707578682146819.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 23630
-        },
-        "dae9fdb5864ba18e191be1afa09ac1f37d7babe6a6d7291e59103bd562bd4faa": {
-            "file": "images/dae9fdb5864ba18e191be1afa09ac1f37d7babe6a6d7291e59103bd562bd4faa.jpg",
-            "filename": "paste-700002359836673.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 62028
-        },
-        "e06950f692d65a8864ac252b6fb75828d17da41fdcdcc246d239abc8eb31f867": {
-            "file": "images/e06950f692d65a8864ac252b6fb75828d17da41fdcdcc246d239abc8eb31f867.jpg",
-            "filename": "paste-728168755363841.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 141554
         }
     }
 }

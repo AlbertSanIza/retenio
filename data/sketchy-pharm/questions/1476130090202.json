@@ -18,63 +18,21 @@
         "$Thyroid,Parathyroid,Adrenal"
     ],
     "question": {
-        "text": "§\n\nSuffix: Biphosphonates",
+        "text": "Suffix: Biphosphonates",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nSuffix: Biphosphonates\n\n\"-dronate\"\n\n[Image: a2cba380da9a2641729c2469f5141daa01e798b89f92886927c402ed514a6721]\n\n3.2 -Biphosphonates, raloxifene, denosumab, calcitonin\n[Image: 8657759d16dfab9651e80977d2b44e2ad7a821b5dfec5ecac64823eb16197c2e]\n\n[Image: 596a90a29a5db2b7ec1d107b1589a1a88811627e6ad562b73b897c4c031bac62]\n\n[Image: f8d16c3d886672f835fb794955e8893bfc2bb54df57aac2728a71045e13fe924]\n\n[Image: 3556644d60f9c6c6ab6b035d4d18c28d36c358c13368791803f7124bfd65924a]\n\n[Image: 1bf4f3d817182bfb77ddde7e7395c6645feff1725eb40271ef402fc302c9d86d]\n\n[Image: afa82efdf34014d6035ea8a3fa31b614b7843b9bc138b58d93bdb19f13354c7c]",
+        "text": "\"-dronate\"\n\n[Image: a2cba380da9a2641729c2469f5141daa01e798b89f92886927c402ed514a6721]",
         "imageIds": [
-            "a2cba380da9a2641729c2469f5141daa01e798b89f92886927c402ed514a6721",
-            "8657759d16dfab9651e80977d2b44e2ad7a821b5dfec5ecac64823eb16197c2e",
-            "596a90a29a5db2b7ec1d107b1589a1a88811627e6ad562b73b897c4c031bac62",
-            "f8d16c3d886672f835fb794955e8893bfc2bb54df57aac2728a71045e13fe924",
-            "3556644d60f9c6c6ab6b035d4d18c28d36c358c13368791803f7124bfd65924a",
-            "1bf4f3d817182bfb77ddde7e7395c6645feff1725eb40271ef402fc302c9d86d",
-            "afa82efdf34014d6035ea8a3fa31b614b7843b9bc138b58d93bdb19f13354c7c"
+            "a2cba380da9a2641729c2469f5141daa01e798b89f92886927c402ed514a6721"
         ]
     },
     "images": {
-        "1bf4f3d817182bfb77ddde7e7395c6645feff1725eb40271ef402fc302c9d86d": {
-            "file": "images/1bf4f3d817182bfb77ddde7e7395c6645feff1725eb40271ef402fc302c9d86d.jpg",
-            "filename": "paste-71098888617987.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 89303
-        },
-        "3556644d60f9c6c6ab6b035d4d18c28d36c358c13368791803f7124bfd65924a": {
-            "file": "images/3556644d60f9c6c6ab6b035d4d18c28d36c358c13368791803f7124bfd65924a.jpg",
-            "filename": "paste-756945036247043.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 72135
-        },
-        "596a90a29a5db2b7ec1d107b1589a1a88811627e6ad562b73b897c4c031bac62": {
-            "file": "images/596a90a29a5db2b7ec1d107b1589a1a88811627e6ad562b73b897c4c031bac62.jpg",
-            "filename": "paste-757245683957763.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 14344
-        },
-        "8657759d16dfab9651e80977d2b44e2ad7a821b5dfec5ecac64823eb16197c2e": {
-            "file": "images/8657759d16dfab9651e80977d2b44e2ad7a821b5dfec5ecac64823eb16197c2e.jpg",
-            "filename": "paste-722778571407361.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 142829
-        },
         "a2cba380da9a2641729c2469f5141daa01e798b89f92886927c402ed514a6721": {
             "file": "images/a2cba380da9a2641729c2469f5141daa01e798b89f92886927c402ed514a6721.jpg",
             "filename": "paste-80990198300675.jpg",
             "mimeType": "image/jpeg",
             "bytes": 33327
-        },
-        "afa82efdf34014d6035ea8a3fa31b614b7843b9bc138b58d93bdb19f13354c7c": {
-            "file": "images/afa82efdf34014d6035ea8a3fa31b614b7843b9bc138b58d93bdb19f13354c7c.jpg",
-            "filename": "paste-97770635526147.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 105275
-        },
-        "f8d16c3d886672f835fb794955e8893bfc2bb54df57aac2728a71045e13fe924": {
-            "file": "images/f8d16c3d886672f835fb794955e8893bfc2bb54df57aac2728a71045e13fe924.jpg",
-            "filename": "paste-144701743169539.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 59099
         }
     }
 }

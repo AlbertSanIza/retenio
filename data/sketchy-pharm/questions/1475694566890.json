@@ -18,42 +18,21 @@
         "$Antihypertensives"
     ],
     "question": {
-        "text": "§\n\nSuffix: Dihydropyridines",
+        "text": "Suffix: Dihydropyridines",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nSuffix: Dihydropyridines\n\n\"-dipine\"\n\n('-dipine' = Dihydropyrine)\n\n[Image: 718e6b412a74035bb2b73e10958415643bd9ed54bbfadf9aa37e7807793a656e]\n\n3.1 - Calcium channel blockers\n[Image: 2df432313245803a33c91257644f7112990e8a140e530cb65543d93968ad38ad]\n\n[Image: 976514cac00f671ceada131d78161259e7b71f87b223859170924c10f329b1f1]\n\n[Image: 145563c70e7a6531194e688944937bc88523bdc536f6491f5d4d11e642f621a6]",
+        "text": "\"-dipine\"\n\n('-dipine' = Dihydropyrine)\n\n[Image: 718e6b412a74035bb2b73e10958415643bd9ed54bbfadf9aa37e7807793a656e]",
         "imageIds": [
-            "718e6b412a74035bb2b73e10958415643bd9ed54bbfadf9aa37e7807793a656e",
-            "2df432313245803a33c91257644f7112990e8a140e530cb65543d93968ad38ad",
-            "976514cac00f671ceada131d78161259e7b71f87b223859170924c10f329b1f1",
-            "145563c70e7a6531194e688944937bc88523bdc536f6491f5d4d11e642f621a6"
+            "718e6b412a74035bb2b73e10958415643bd9ed54bbfadf9aa37e7807793a656e"
         ]
     },
     "images": {
-        "145563c70e7a6531194e688944937bc88523bdc536f6491f5d4d11e642f621a6": {
-            "file": "images/145563c70e7a6531194e688944937bc88523bdc536f6491f5d4d11e642f621a6.jpg",
-            "filename": "paste-60816736911363 (1).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 59355
-        },
-        "2df432313245803a33c91257644f7112990e8a140e530cb65543d93968ad38ad": {
-            "file": "images/2df432313245803a33c91257644f7112990e8a140e530cb65543d93968ad38ad.jpg",
-            "filename": "paste-634001597399041.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 148325
-        },
         "718e6b412a74035bb2b73e10958415643bd9ed54bbfadf9aa37e7807793a656e": {
             "file": "images/718e6b412a74035bb2b73e10958415643bd9ed54bbfadf9aa37e7807793a656e.jpg",
             "filename": "paste-109929687941123.jpg",
             "mimeType": "image/jpeg",
             "bytes": 39708
-        },
-        "976514cac00f671ceada131d78161259e7b71f87b223859170924c10f329b1f1": {
-            "file": "images/976514cac00f671ceada131d78161259e7b71f87b223859170924c10f329b1f1.jpg",
-            "filename": "paste-666785082769411.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 60858
         }
     }
 }

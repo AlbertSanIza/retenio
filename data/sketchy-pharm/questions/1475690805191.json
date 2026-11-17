@@ -18,21 +18,17 @@
         "$HeartFailureDrugs"
     ],
     "question": {
-        "text": "§\n\nName 5 signs of Digoxin poisoning",
+        "text": "Name 5 signs of Digoxin poisoning",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 5 signs of Digoxin poisoning\n\n(1) Hyperkalemia\n(2) ⇒ Arrhythmias\n\n(3) Bradycardia\n\n(4) Nausea/Vomiting\n\n(5) Xanthopsia\n\n[Image: de7441bcf284dfe2044db533715abe7e3a615d312533d43b0640fefb925da60e]\n\n[Image: 939c92775f40c48252cd417c5cfd903ea6ccab7699c27b5a7c15711a5357a4d4]\n\n[Image: 65a324271e53aa36c7aeefcd3e95908ca0c890e35fb238db98e525fdfc17b69f]\n\n[Image: 9d5692d99c62f707fd068efb2a0f0a89b54797b698a5aeeb3b460dba784aacb3]\n\n[Image: d8a5b9302d7d4bb673bc72c1878cb7435e8a2709165a5c4f40469aa492fc3daf]\n\n1.1 - Digoxin, milrinone, nesiritide\n[Image: e4710e7cdd2eb8b0c4fcdd4f47e9c0298d7bc834ea44b17703e0ed658e992ff3]\n\n[Image: cc39089194326572184bf1c518bc26f5390c4f73a884ec8ad5a12509af47e2cf]\n\n[Image: bc64c259981a2f49c214dc60fdb3640b91401d9fabbcae71eb52515390dbaf48]\n\n[Image: aa726752874900868e52bb4456b25de8c3b4b85eaca0e5aed6f3ad3724afc8b2]",
+        "text": "(1) Hyperkalemia\n(2) ⇒ Arrhythmias\n\n(3) Bradycardia\n\n(4) Nausea/Vomiting\n\n(5) Xanthopsia\n\n[Image: de7441bcf284dfe2044db533715abe7e3a615d312533d43b0640fefb925da60e]\n\n[Image: 939c92775f40c48252cd417c5cfd903ea6ccab7699c27b5a7c15711a5357a4d4]\n\n[Image: 65a324271e53aa36c7aeefcd3e95908ca0c890e35fb238db98e525fdfc17b69f]\n\n[Image: 9d5692d99c62f707fd068efb2a0f0a89b54797b698a5aeeb3b460dba784aacb3]\n\n[Image: d8a5b9302d7d4bb673bc72c1878cb7435e8a2709165a5c4f40469aa492fc3daf]",
         "imageIds": [
             "de7441bcf284dfe2044db533715abe7e3a615d312533d43b0640fefb925da60e",
             "939c92775f40c48252cd417c5cfd903ea6ccab7699c27b5a7c15711a5357a4d4",
             "65a324271e53aa36c7aeefcd3e95908ca0c890e35fb238db98e525fdfc17b69f",
             "9d5692d99c62f707fd068efb2a0f0a89b54797b698a5aeeb3b460dba784aacb3",
-            "d8a5b9302d7d4bb673bc72c1878cb7435e8a2709165a5c4f40469aa492fc3daf",
-            "e4710e7cdd2eb8b0c4fcdd4f47e9c0298d7bc834ea44b17703e0ed658e992ff3",
-            "cc39089194326572184bf1c518bc26f5390c4f73a884ec8ad5a12509af47e2cf",
-            "bc64c259981a2f49c214dc60fdb3640b91401d9fabbcae71eb52515390dbaf48",
-            "aa726752874900868e52bb4456b25de8c3b4b85eaca0e5aed6f3ad3724afc8b2"
+            "d8a5b9302d7d4bb673bc72c1878cb7435e8a2709165a5c4f40469aa492fc3daf"
         ]
     },
     "images": {
@@ -54,24 +50,6 @@
             "mimeType": "image/jpeg",
             "bytes": 75032
         },
-        "aa726752874900868e52bb4456b25de8c3b4b85eaca0e5aed6f3ad3724afc8b2": {
-            "file": "images/aa726752874900868e52bb4456b25de8c3b4b85eaca0e5aed6f3ad3724afc8b2.jpg",
-            "filename": "paste-88450556493827.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 59364
-        },
-        "bc64c259981a2f49c214dc60fdb3640b91401d9fabbcae71eb52515390dbaf48": {
-            "file": "images/bc64c259981a2f49c214dc60fdb3640b91401d9fabbcae71eb52515390dbaf48.jpg",
-            "filename": "paste-84082574753795.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 36182
-        },
-        "cc39089194326572184bf1c518bc26f5390c4f73a884ec8ad5a12509af47e2cf": {
-            "file": "images/cc39089194326572184bf1c518bc26f5390c4f73a884ec8ad5a12509af47e2cf.jpg",
-            "filename": "paste-85959475462147.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 91768
-        },
         "d8a5b9302d7d4bb673bc72c1878cb7435e8a2709165a5c4f40469aa492fc3daf": {
             "file": "images/d8a5b9302d7d4bb673bc72c1878cb7435e8a2709165a5c4f40469aa492fc3daf.jpg",
             "filename": "paste-955853561659395.jpg",
@@ -83,12 +61,6 @@
             "filename": "paste-917825921220611.jpg",
             "mimeType": "image/jpeg",
             "bytes": 63331
-        },
-        "e4710e7cdd2eb8b0c4fcdd4f47e9c0298d7bc834ea44b17703e0ed658e992ff3": {
-            "file": "images/e4710e7cdd2eb8b0c4fcdd4f47e9c0298d7bc834ea44b17703e0ed658e992ff3.jpg",
-            "filename": "paste-602038450782209.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 138139
         }
     }
 }

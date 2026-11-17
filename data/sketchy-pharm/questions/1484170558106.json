@@ -18,35 +18,21 @@
         "$Anesthetics_&_Analgesics"
     ],
     "question": {
-        "text": "§\n\nWhat aspect of anesthesia can barbituates be used for?",
+        "text": "What aspect of anesthesia can barbituates be used for?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat aspect of anesthesia can barbituates be used for?\n\nInduction\n\n[Image: 3ce34040ed38633d42d0f52ef165ff1f888d1890f9708f999c87d80b52dac0db]\n\n2.1 - Propofol, etomidate, ketamine\n[Image: 258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc]\n\n[Image: 876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc]",
+        "text": "Induction\n\n[Image: 3ce34040ed38633d42d0f52ef165ff1f888d1890f9708f999c87d80b52dac0db]",
         "imageIds": [
-            "3ce34040ed38633d42d0f52ef165ff1f888d1890f9708f999c87d80b52dac0db",
-            "258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc",
-            "876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc"
+            "3ce34040ed38633d42d0f52ef165ff1f888d1890f9708f999c87d80b52dac0db"
         ]
     },
     "images": {
-        "258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc": {
-            "file": "images/258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc.jpg",
-            "filename": "paste-490476675268611.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 83285
-        },
         "3ce34040ed38633d42d0f52ef165ff1f888d1890f9708f999c87d80b52dac0db": {
             "file": "images/3ce34040ed38633d42d0f52ef165ff1f888d1890f9708f999c87d80b52dac0db.jpg",
             "filename": "paste-498834681626627.jpg",
             "mimeType": "image/jpeg",
             "bytes": 72388
-        },
-        "876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc": {
-            "file": "images/876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc.jpg",
-            "filename": "paste-501411662004227.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 93496
         }
     }
 }

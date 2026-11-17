@@ -18,20 +18,17 @@
         "$DNA_&_Cellular_Division"
     ],
     "question": {
-        "text": "§\n\nAdverse Effects (5) : Cyclophosphamide",
+        "text": "Adverse Effects (5) : Cyclophosphamide",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAdverse Effects (5) : Cyclophosphamide\n\n(1) Myelosupression\n(2) Hemorrhagic cystitis\n\n(3) Bladder cancer (transitional cell)\n\n(4) SIADH\n\n(5) Infertility\n\n[Image: ae6f66ef9af0f2850e231e4fc614487e207cda8186a100dbe81029a982688ea3]\n\n[Image: 3667cb4ad44789747dfb0e9e4ca1ed8db375e744f78e972c9f669fb3f14dd5a7]\n\n[Image: 0e6d93f53597914cd4dfb48eee03f105cc09cea4ba4a84390143695401e2a11d]\n\n[Image: 3faa85769e1dca17c521ea4f09c49ed7ff1cea1c3df6aca1999224fcd281ed00]\n\n[Image: 7ba9c197ac1eebf80424ca7e67a6594f09c1b361e331728c8c62461e6df28017]\n\n2.1 - Cyclophosphamide, ifosfamide, busulfan, nitrosoureas (carmustine, lomustine, streptozocin)\n[Image: e7a45d4238dfec58284e8d77b5193bca605ac94634c0be183ab3a952da54522c]\n\n[Image: 5139224e271f489560439aa704474d6736dbc68de75aeb16bb61ba05a3db4414]\n\n[Image: e4b5939c955bd5aac8d660d774938712293554645ac90c867e9b4d6d33e582b5]",
+        "text": "(1) Myelosupression\n(2) Hemorrhagic cystitis\n\n(3) Bladder cancer (transitional cell)\n\n(4) SIADH\n\n(5) Infertility\n\n[Image: ae6f66ef9af0f2850e231e4fc614487e207cda8186a100dbe81029a982688ea3]\n\n[Image: 3667cb4ad44789747dfb0e9e4ca1ed8db375e744f78e972c9f669fb3f14dd5a7]\n\n[Image: 0e6d93f53597914cd4dfb48eee03f105cc09cea4ba4a84390143695401e2a11d]\n\n[Image: 3faa85769e1dca17c521ea4f09c49ed7ff1cea1c3df6aca1999224fcd281ed00]\n\n[Image: 7ba9c197ac1eebf80424ca7e67a6594f09c1b361e331728c8c62461e6df28017]",
         "imageIds": [
             "ae6f66ef9af0f2850e231e4fc614487e207cda8186a100dbe81029a982688ea3",
             "3667cb4ad44789747dfb0e9e4ca1ed8db375e744f78e972c9f669fb3f14dd5a7",
             "0e6d93f53597914cd4dfb48eee03f105cc09cea4ba4a84390143695401e2a11d",
             "3faa85769e1dca17c521ea4f09c49ed7ff1cea1c3df6aca1999224fcd281ed00",
-            "7ba9c197ac1eebf80424ca7e67a6594f09c1b361e331728c8c62461e6df28017",
-            "e7a45d4238dfec58284e8d77b5193bca605ac94634c0be183ab3a952da54522c",
-            "5139224e271f489560439aa704474d6736dbc68de75aeb16bb61ba05a3db4414",
-            "e4b5939c955bd5aac8d660d774938712293554645ac90c867e9b4d6d33e582b5"
+            "7ba9c197ac1eebf80424ca7e67a6594f09c1b361e331728c8c62461e6df28017"
         ]
     },
     "images": {
@@ -53,12 +50,6 @@
             "mimeType": "image/jpeg",
             "bytes": 53367
         },
-        "5139224e271f489560439aa704474d6736dbc68de75aeb16bb61ba05a3db4414": {
-            "file": "images/5139224e271f489560439aa704474d6736dbc68de75aeb16bb61ba05a3db4414.jpg",
-            "filename": "paste-183068686024707.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 30967
-        },
         "7ba9c197ac1eebf80424ca7e67a6594f09c1b361e331728c8c62461e6df28017": {
             "file": "images/7ba9c197ac1eebf80424ca7e67a6594f09c1b361e331728c8c62461e6df28017.jpg",
             "filename": "paste-28836410425347.jpg",
@@ -70,18 +61,6 @@
             "filename": "paste-30550102376451.jpg",
             "mimeType": "image/jpeg",
             "bytes": 109554
-        },
-        "e4b5939c955bd5aac8d660d774938712293554645ac90c867e9b4d6d33e582b5": {
-            "file": "images/e4b5939c955bd5aac8d660d774938712293554645ac90c867e9b4d6d33e582b5.jpg",
-            "filename": "paste-71386651426819.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 75698
-        },
-        "e7a45d4238dfec58284e8d77b5193bca605ac94634c0be183ab3a952da54522c": {
-            "file": "images/e7a45d4238dfec58284e8d77b5193bca605ac94634c0be183ab3a952da54522c.jpg",
-            "filename": "paste-359858129862657.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 136466
         }
     }
 }

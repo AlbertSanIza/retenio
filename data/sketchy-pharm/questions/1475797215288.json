@@ -18,49 +18,28 @@
         "$Antidepressants&Anxiolytics"
     ],
     "question": {
-        "text": "§\n\nName 2 benefits of Bupropion over other antidepressants",
+        "text": "Name 2 benefits of Bupropion over other antidepressants",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 2 benefits of Bupropion over other antidepressants\n\n(1) No sexual side effects\n(2) No weight gain\n\n(Also reduces desire to smoke ∴ indicated with comorbid tobacco addiction)\n\n[Image: cb6312fda06d95ed45350ef177c2edfed506d7eed1dba07b212f299b6c6e00ea]\n\n[Image: 6e3dbfbec959d529be3496b2d9ad99c4ff0c1ac9326693065f195bebfcde8f13]\n\n3.4 - Bupropion, mirtazapine, trazodone\n[Image: 53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064]\n\n[Image: 7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943]\n\n[Image: f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2]",
+        "text": "(1) No sexual side effects\n(2) No weight gain\n\n(Also reduces desire to smoke ∴ indicated with comorbid tobacco addiction)\n\n[Image: cb6312fda06d95ed45350ef177c2edfed506d7eed1dba07b212f299b6c6e00ea]\n\n[Image: 6e3dbfbec959d529be3496b2d9ad99c4ff0c1ac9326693065f195bebfcde8f13]",
         "imageIds": [
             "cb6312fda06d95ed45350ef177c2edfed506d7eed1dba07b212f299b6c6e00ea",
-            "6e3dbfbec959d529be3496b2d9ad99c4ff0c1ac9326693065f195bebfcde8f13",
-            "53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064",
-            "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943",
-            "f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2"
+            "6e3dbfbec959d529be3496b2d9ad99c4ff0c1ac9326693065f195bebfcde8f13"
         ]
     },
     "images": {
-        "53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064": {
-            "file": "images/53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064.jpg",
-            "filename": "paste-1199537121132547.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 140326
-        },
         "6e3dbfbec959d529be3496b2d9ad99c4ff0c1ac9326693065f195bebfcde8f13": {
             "file": "images/6e3dbfbec959d529be3496b2d9ad99c4ff0c1ac9326693065f195bebfcde8f13.jpg",
             "filename": "paste-27633819582467.jpg",
             "mimeType": "image/jpeg",
             "bytes": 51876
         },
-        "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943": {
-            "file": "images/7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943.jpg",
-            "filename": "paste-1171594063904771.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 89818
-        },
         "cb6312fda06d95ed45350ef177c2edfed506d7eed1dba07b212f299b6c6e00ea": {
             "file": "images/cb6312fda06d95ed45350ef177c2edfed506d7eed1dba07b212f299b6c6e00ea.jpg",
             "filename": "paste-27496380628995.jpg",
             "mimeType": "image/jpeg",
             "bytes": 54807
-        },
-        "f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2": {
-            "file": "images/f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2.jpg",
-            "filename": "paste-173976240259075.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 148735
         }
     }
 }

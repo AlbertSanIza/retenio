@@ -18,19 +18,16 @@
         "$Antidepressants&Anxiolytics"
     ],
     "question": {
-        "text": "§\n\nAdverse Effects (4) : Trazodone",
+        "text": "Adverse Effects (4) : Trazodone",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nAdverse Effects (4) : Trazodone\n\n(1) Orthostatic hypotension\n(2) Sedation\n\n(3) Sexual dysfunction\n\n(4) Serotonin syndrome\n\n[Image: 96c55e029571549ab3d41a136e86fbefe5b8aa44e8e9fed0f60944a48445b1df]\n\n[Image: c9fbdb0e127709c036c167530d8a35a7768535af4999ef3d601b96609247b59d]\n\n[Image: 25c03701f9f876b0aa91e107aafd174af4b865b869cb29d264ff390baa3c1c82]\n\n[Image: 95a0c0889fbdace8d67acbd3bcf2f501bf13c85ff95e3a0c68180148bee1be46]\n\n3.4 - Bupropion, mirtazapine, trazodone\n[Image: 53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064]\n\n[Image: 7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943]\n\n[Image: f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2]",
+        "text": "(1) Orthostatic hypotension\n(2) Sedation\n\n(3) Sexual dysfunction\n\n(4) Serotonin syndrome\n\n[Image: 96c55e029571549ab3d41a136e86fbefe5b8aa44e8e9fed0f60944a48445b1df]\n\n[Image: c9fbdb0e127709c036c167530d8a35a7768535af4999ef3d601b96609247b59d]\n\n[Image: 25c03701f9f876b0aa91e107aafd174af4b865b869cb29d264ff390baa3c1c82]\n\n[Image: 95a0c0889fbdace8d67acbd3bcf2f501bf13c85ff95e3a0c68180148bee1be46]",
         "imageIds": [
             "96c55e029571549ab3d41a136e86fbefe5b8aa44e8e9fed0f60944a48445b1df",
             "c9fbdb0e127709c036c167530d8a35a7768535af4999ef3d601b96609247b59d",
             "25c03701f9f876b0aa91e107aafd174af4b865b869cb29d264ff390baa3c1c82",
-            "95a0c0889fbdace8d67acbd3bcf2f501bf13c85ff95e3a0c68180148bee1be46",
-            "53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064",
-            "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943",
-            "f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2"
+            "95a0c0889fbdace8d67acbd3bcf2f501bf13c85ff95e3a0c68180148bee1be46"
         ]
     },
     "images": {
@@ -39,18 +36,6 @@
             "filename": "paste-31666793873411.jpg",
             "mimeType": "image/jpeg",
             "bytes": 66476
-        },
-        "53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064": {
-            "file": "images/53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064.jpg",
-            "filename": "paste-1199537121132547.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 140326
-        },
-        "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943": {
-            "file": "images/7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943.jpg",
-            "filename": "paste-1171594063904771.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 89818
         },
         "95a0c0889fbdace8d67acbd3bcf2f501bf13c85ff95e3a0c68180148bee1be46": {
             "file": "images/95a0c0889fbdace8d67acbd3bcf2f501bf13c85ff95e3a0c68180148bee1be46.jpg",
@@ -69,12 +54,6 @@
             "filename": "paste-31241592111107.jpg",
             "mimeType": "image/jpeg",
             "bytes": 58821
-        },
-        "f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2": {
-            "file": "images/f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2.jpg",
-            "filename": "paste-173976240259075.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 148735
         }
     }
 }

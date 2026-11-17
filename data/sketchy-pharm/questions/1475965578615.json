@@ -18,18 +18,16 @@
         "$Antiarrhythmics"
     ],
     "question": {
-        "text": "§\n\nWhich antiarrhythmic agents do not fall into class I-IV designation?",
+        "text": "Which antiarrhythmic agents do not fall into class I-IV designation?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhich antiarrhythmic agents do not fall into class I-IV designation?\n\n(1) Digoxin\n(2) Mg2+\n\n(3) K+\n\n(4) Adenosine\n\n[Image: b992447f6859cbfe50cf26123e1dd036c35a5ceec61a44a2e30e0e7e8ffd9c69]\n\n[Image: 0c4fdd49f68fd7201e48613dd13b431f1c17a800cebf909663af2a5e4fe86284]\n\n[Image: 40265900c81cfa7f97513b819ba003eff04d2657d6fab9f351856682e8554458]\n\n[Image: 6ab5d2e28dfdb793b24ab0229241669c7bc2b2a078ca03c1e5190c490822b5e8]\n\n4.5 - \"Class V\"\n[Image: 314a9d9956154c93a28c11da294df9fba3bba8c86bfa2c83b2350434f676e34f]\n\n[Image: 1c24c7fc018e2e9a9366e655fe8c5bb583bb8a13f6a423cbe2de86d4e46c6595]",
+        "text": "(1) Digoxin\n(2) Mg2+\n\n(3) K+\n\n(4) Adenosine\n\n[Image: b992447f6859cbfe50cf26123e1dd036c35a5ceec61a44a2e30e0e7e8ffd9c69]\n\n[Image: 0c4fdd49f68fd7201e48613dd13b431f1c17a800cebf909663af2a5e4fe86284]\n\n[Image: 40265900c81cfa7f97513b819ba003eff04d2657d6fab9f351856682e8554458]\n\n[Image: 6ab5d2e28dfdb793b24ab0229241669c7bc2b2a078ca03c1e5190c490822b5e8]",
         "imageIds": [
             "b992447f6859cbfe50cf26123e1dd036c35a5ceec61a44a2e30e0e7e8ffd9c69",
             "0c4fdd49f68fd7201e48613dd13b431f1c17a800cebf909663af2a5e4fe86284",
             "40265900c81cfa7f97513b819ba003eff04d2657d6fab9f351856682e8554458",
-            "6ab5d2e28dfdb793b24ab0229241669c7bc2b2a078ca03c1e5190c490822b5e8",
-            "314a9d9956154c93a28c11da294df9fba3bba8c86bfa2c83b2350434f676e34f",
-            "1c24c7fc018e2e9a9366e655fe8c5bb583bb8a13f6a423cbe2de86d4e46c6595"
+            "6ab5d2e28dfdb793b24ab0229241669c7bc2b2a078ca03c1e5190c490822b5e8"
         ]
     },
     "images": {
@@ -38,18 +36,6 @@
             "filename": "paste-46226733006851.jpg",
             "mimeType": "image/jpeg",
             "bytes": 61828
-        },
-        "1c24c7fc018e2e9a9366e655fe8c5bb583bb8a13f6a423cbe2de86d4e46c6595": {
-            "file": "images/1c24c7fc018e2e9a9366e655fe8c5bb583bb8a13f6a423cbe2de86d4e46c6595.jpg",
-            "filename": "paste-258750304747523.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 44883
-        },
-        "314a9d9956154c93a28c11da294df9fba3bba8c86bfa2c83b2350434f676e34f": {
-            "file": "images/314a9d9956154c93a28c11da294df9fba3bba8c86bfa2c83b2350434f676e34f.jpg",
-            "filename": "paste-664169447686145.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 124309
         },
         "40265900c81cfa7f97513b819ba003eff04d2657d6fab9f351856682e8554458": {
             "file": "images/40265900c81cfa7f97513b819ba003eff04d2657d6fab9f351856682e8554458.jpg",

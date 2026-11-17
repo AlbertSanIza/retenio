@@ -18,38 +18,17 @@
         "$Other_Antibiotics"
     ],
     "question": {
-        "text": "§\n\nTreatment: Toxoplasma gondii",
+        "text": "Treatment: Toxoplasma gondii",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nTreatment: Toxoplasma gondii\n\n(1) Pyrimethamine\n(2) + Sulfadiazine\n\n(TMP-SMX is preferred for PROPHYLAXIS, whereas Pyrimethamine-Sulfadiazine is preferred against an active infection)\n\n[Image: cbabcbc5050bb0fd8b5f6978bc8aa3c5b2f0cc76b7def115c07e594b28909a6d]\n\n[Image: 916ac143e5337ee6a2be8a53e547d86f9387cf5b076554a0431bb3616c158f22]\n\n4.1 - Trimethoprim/Sulfamethoxazole\n[Image: 37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da]\n\n[Image: 415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9]\n\n[Image: 302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70]",
+        "text": "(1) Pyrimethamine\n(2) + Sulfadiazine\n\n(TMP-SMX is preferred for PROPHYLAXIS, whereas Pyrimethamine-Sulfadiazine is preferred against an active infection)\n\n[Image: cbabcbc5050bb0fd8b5f6978bc8aa3c5b2f0cc76b7def115c07e594b28909a6d]\n\n[Image: 916ac143e5337ee6a2be8a53e547d86f9387cf5b076554a0431bb3616c158f22]",
         "imageIds": [
             "cbabcbc5050bb0fd8b5f6978bc8aa3c5b2f0cc76b7def115c07e594b28909a6d",
-            "916ac143e5337ee6a2be8a53e547d86f9387cf5b076554a0431bb3616c158f22",
-            "37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da",
-            "415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9",
-            "302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70"
+            "916ac143e5337ee6a2be8a53e547d86f9387cf5b076554a0431bb3616c158f22"
         ]
     },
     "images": {
-        "302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70": {
-            "file": "images/302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70.jpg",
-            "filename": "paste-184696478629891.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 30701
-        },
-        "37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da": {
-            "file": "images/37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da.jpg",
-            "filename": "paste-247265562198017.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 141182
-        },
-        "415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9": {
-            "file": "images/415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9.jpg",
-            "filename": "paste-413223098515459.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 75809
-        },
         "916ac143e5337ee6a2be8a53e547d86f9387cf5b076554a0431bb3616c158f22": {
             "file": "images/916ac143e5337ee6a2be8a53e547d86f9387cf5b076554a0431bb3616c158f22.jpg",
             "filename": "paste-203903572377603.jpg",

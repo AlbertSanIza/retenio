@@ -18,46 +18,24 @@
         "$Mood_Stabilizers_&_Antiepileptics"
     ],
     "question": {
-        "text": "§\n\nOther than Lithium and antipsychotics, name 3 drugs used to treat bipolar disorder",
+        "text": "Other than Lithium and antipsychotics, name 3 drugs used to treat bipolar disorder",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nOther than Lithium and antipsychotics, name 3 drugs used to treat bipolar disorder\n\n(1) Valproate\n(2) Carbamazepine\n\n(3) Lamotrigine\n\n[Image: db61c3ce6c7e5bc89ec68cadf2a8fc4edc0741a9ec99be8e46a69267d670c612]\n\n[Image: d3977489326cbc2266ac700af0d1223a5d84333d13548153c032f4c9a6ea661a]\n\n[Image: ff08efc9b60122d2c2059b4590fdf4f4acf9e32f8276f0cd8159b95814aea359]\n\n[Image: 3f61ef05ebdf5206d636b214bf6c2189ce4a23c045494077228241cc1eb5278c]\n\n4.1 - Lithium\n[Image: 906e1cbe8badcd1dcc8d21e284dc64d1af2bbf639abc16d617e4308bb635713e]\n\n[Image: 89c6e786d10c9cae20acc6a8cc5dd3f044e63f70369c505225950c9204c4947e]\n\n[Image: 1ee8313ee6ae61b2ae9c5345f38d5e3ae221ed66fbeb9f01adf12024c513515a]\n\n[Image: dc73572f5b9694ad38c1446590293cc46e29fa79e26146eb63185b7b0ad5c8a2]",
+        "text": "(1) Valproate\n(2) Carbamazepine\n\n(3) Lamotrigine\n\n[Image: db61c3ce6c7e5bc89ec68cadf2a8fc4edc0741a9ec99be8e46a69267d670c612]\n\n[Image: d3977489326cbc2266ac700af0d1223a5d84333d13548153c032f4c9a6ea661a]\n\n[Image: ff08efc9b60122d2c2059b4590fdf4f4acf9e32f8276f0cd8159b95814aea359]\n\n[Image: 3f61ef05ebdf5206d636b214bf6c2189ce4a23c045494077228241cc1eb5278c]",
         "imageIds": [
             "db61c3ce6c7e5bc89ec68cadf2a8fc4edc0741a9ec99be8e46a69267d670c612",
             "d3977489326cbc2266ac700af0d1223a5d84333d13548153c032f4c9a6ea661a",
             "ff08efc9b60122d2c2059b4590fdf4f4acf9e32f8276f0cd8159b95814aea359",
-            "3f61ef05ebdf5206d636b214bf6c2189ce4a23c045494077228241cc1eb5278c",
-            "906e1cbe8badcd1dcc8d21e284dc64d1af2bbf639abc16d617e4308bb635713e",
-            "89c6e786d10c9cae20acc6a8cc5dd3f044e63f70369c505225950c9204c4947e",
-            "1ee8313ee6ae61b2ae9c5345f38d5e3ae221ed66fbeb9f01adf12024c513515a",
-            "dc73572f5b9694ad38c1446590293cc46e29fa79e26146eb63185b7b0ad5c8a2"
+            "3f61ef05ebdf5206d636b214bf6c2189ce4a23c045494077228241cc1eb5278c"
         ]
     },
     "images": {
-        "1ee8313ee6ae61b2ae9c5345f38d5e3ae221ed66fbeb9f01adf12024c513515a": {
-            "file": "images/1ee8313ee6ae61b2ae9c5345f38d5e3ae221ed66fbeb9f01adf12024c513515a.jpg",
-            "filename": "paste-1215879471693827.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 62582
-        },
         "3f61ef05ebdf5206d636b214bf6c2189ce4a23c045494077228241cc1eb5278c": {
             "file": "images/3f61ef05ebdf5206d636b214bf6c2189ce4a23c045494077228241cc1eb5278c.jpg",
             "filename": "paste-87488483819523.jpg",
             "mimeType": "image/jpeg",
             "bytes": 48815
-        },
-        "89c6e786d10c9cae20acc6a8cc5dd3f044e63f70369c505225950c9204c4947e": {
-            "file": "images/89c6e786d10c9cae20acc6a8cc5dd3f044e63f70369c505225950c9204c4947e.jpg",
-            "filename": "paste-1207010364227587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 121390
-        },
-        "906e1cbe8badcd1dcc8d21e284dc64d1af2bbf639abc16d617e4308bb635713e": {
-            "file": "images/906e1cbe8badcd1dcc8d21e284dc64d1af2bbf639abc16d617e4308bb635713e.jpg",
-            "filename": "paste-1203505670914049.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 112568
         },
         "d3977489326cbc2266ac700af0d1223a5d84333d13548153c032f4c9a6ea661a": {
             "file": "images/d3977489326cbc2266ac700af0d1223a5d84333d13548153c032f4c9a6ea661a.jpg",
@@ -70,12 +48,6 @@
             "filename": "paste-87020332384259.jpg",
             "mimeType": "image/jpeg",
             "bytes": 40891
-        },
-        "dc73572f5b9694ad38c1446590293cc46e29fa79e26146eb63185b7b0ad5c8a2": {
-            "file": "images/dc73572f5b9694ad38c1446590293cc46e29fa79e26146eb63185b7b0ad5c8a2.jpg",
-            "filename": "paste-1212022591062019.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 52455
         },
         "ff08efc9b60122d2c2059b4590fdf4f4acf9e32f8276f0cd8159b95814aea359": {
             "file": "images/ff08efc9b60122d2c2059b4590fdf4f4acf9e32f8276f0cd8159b95814aea359.jpg",

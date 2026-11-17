@@ -18,20 +18,17 @@
         "$Diuretics"
     ],
     "question": {
-        "text": "§\n\nIndications (5) : Thiazides",
+        "text": "Indications (5) : Thiazides",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nIndications (5) : Thiazides\n\n(1) Hypertension\n(2) Heart failure\n\n(3) Nephrogenic diabetes insipidus\n\n(4) Ca2+ stones\n\n(5) Osteoporosis\n\n[Image: 00800dd75600628f605f7b3eb394db591fecfb827b533fb54dbfabb97e38c197]\n\n[Image: 18617720f88f5a63840a405d21905dd7aa8caaf82a33480e2bface07027f7312]\n\n[Image: 2fb6691f45a44667d7ca8ee08f5d149300c8ef62b94374b0f16b059da30d7ae3]\n\n[Image: cdb9adbf54287cf8a875f58bbb9e9f8522c58008dc462d837dd83511d1c397ba]\n\n[Image: e10fe2988e6f77029826078ddb0aff588fd4df00fe029b18ff218965b413cca0]\n\n2.3 - Thiazides\n[Image: a5a59fef330fe02b89052204b14e10d5dee2c1296e5d97581aa2b331bb3a4342]\n\n[Image: 0b633d1ad98cf4dfb153c8a5f7e3b1f9ea2c1fa40896efea8d14971580df2658]\n\n[Image: e6e88325112ce114c3b542f6b7b5b2940db081cf6a98f199c896ed0dec87c53a]",
+        "text": "(1) Hypertension\n(2) Heart failure\n\n(3) Nephrogenic diabetes insipidus\n\n(4) Ca2+ stones\n\n(5) Osteoporosis\n\n[Image: 00800dd75600628f605f7b3eb394db591fecfb827b533fb54dbfabb97e38c197]\n\n[Image: 18617720f88f5a63840a405d21905dd7aa8caaf82a33480e2bface07027f7312]\n\n[Image: 2fb6691f45a44667d7ca8ee08f5d149300c8ef62b94374b0f16b059da30d7ae3]\n\n[Image: cdb9adbf54287cf8a875f58bbb9e9f8522c58008dc462d837dd83511d1c397ba]\n\n[Image: e10fe2988e6f77029826078ddb0aff588fd4df00fe029b18ff218965b413cca0]",
         "imageIds": [
             "00800dd75600628f605f7b3eb394db591fecfb827b533fb54dbfabb97e38c197",
             "18617720f88f5a63840a405d21905dd7aa8caaf82a33480e2bface07027f7312",
             "2fb6691f45a44667d7ca8ee08f5d149300c8ef62b94374b0f16b059da30d7ae3",
             "cdb9adbf54287cf8a875f58bbb9e9f8522c58008dc462d837dd83511d1c397ba",
-            "e10fe2988e6f77029826078ddb0aff588fd4df00fe029b18ff218965b413cca0",
-            "a5a59fef330fe02b89052204b14e10d5dee2c1296e5d97581aa2b331bb3a4342",
-            "0b633d1ad98cf4dfb153c8a5f7e3b1f9ea2c1fa40896efea8d14971580df2658",
-            "e6e88325112ce114c3b542f6b7b5b2940db081cf6a98f199c896ed0dec87c53a"
+            "e10fe2988e6f77029826078ddb0aff588fd4df00fe029b18ff218965b413cca0"
         ]
     },
     "images": {
@@ -40,12 +37,6 @@
             "filename": "paste-75496935129091.jpg",
             "mimeType": "image/jpeg",
             "bytes": 60345
-        },
-        "0b633d1ad98cf4dfb153c8a5f7e3b1f9ea2c1fa40896efea8d14971580df2658": {
-            "file": "images/0b633d1ad98cf4dfb153c8a5f7e3b1f9ea2c1fa40896efea8d14971580df2658.jpg",
-            "filename": "paste-201738908860419.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 33095
         },
         "18617720f88f5a63840a405d21905dd7aa8caaf82a33480e2bface07027f7312": {
             "file": "images/18617720f88f5a63840a405d21905dd7aa8caaf82a33480e2bface07027f7312.jpg",
@@ -59,12 +50,6 @@
             "mimeType": "image/jpeg",
             "bytes": 56293
         },
-        "a5a59fef330fe02b89052204b14e10d5dee2c1296e5d97581aa2b331bb3a4342": {
-            "file": "images/a5a59fef330fe02b89052204b14e10d5dee2c1296e5d97581aa2b331bb3a4342.jpg",
-            "filename": "paste-622430955503617.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 168603
-        },
         "cdb9adbf54287cf8a875f58bbb9e9f8522c58008dc462d837dd83511d1c397ba": {
             "file": "images/cdb9adbf54287cf8a875f58bbb9e9f8522c58008dc462d837dd83511d1c397ba.jpg",
             "filename": "paste-76287209111555.jpg",
@@ -76,12 +61,6 @@
             "filename": "paste-76553497083907.jpg",
             "mimeType": "image/jpeg",
             "bytes": 58060
-        },
-        "e6e88325112ce114c3b542f6b7b5b2940db081cf6a98f199c896ed0dec87c53a": {
-            "file": "images/e6e88325112ce114c3b542f6b7b5b2940db081cf6a98f199c896ed0dec87c53a.jpg",
-            "filename": "paste-197048804573187.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 54248
         }
     }
 }

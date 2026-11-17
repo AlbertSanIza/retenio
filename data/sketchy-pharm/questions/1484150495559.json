@@ -18,77 +18,28 @@
         "$GI"
     ],
     "question": {
-        "text": "§\n\nWhat type of gastrinomas can be treated with somatostatin?",
+        "text": "What type of gastrinomas can be treated with somatostatin?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat type of gastrinomas can be treated with somatostatin?\n\nSST receptor (+)\n\n(... obviously need the receptor to mediate the ligand's effect)\n\n[Image: bf568ff8b698698938fd2b512d0636e39f7c9ad22b68b230be24922624554acf]\n\n[Image: 3526ee7eee8b2cb49bf1b021b89f1304b2be46c00daf9f6a48613f2486cd828a]\n\n1.2 - H2 receptor blockers, PPIs\n[Image: 9dba8c277ce7510d092efa9203df57f234b50abbd7a844e882147933982b3998]\n\n[Image: 1a5be55801cb6e1fe815d8fe4e22744ce722a8436ae966c178ec116fd33db54f]\n\n[Image: c588a2e68d46d29f8420230fdf77f9e534fddb591f470dc318423fc98ca9097d]\n\n[Image: 04ce2b1c7320a42479e7c20fb5be378d320ba2e59732a088c989802db9225389]\n\n[Image: 3a164a2757ec20aa07890edad608f3993dcdd6778f7b83a5ad616e7d15326599]\n\n[Image: 60a771df2244fd1c8b922f4399d2543404c22761678dbe5bd0258ff9b5bd57be]\n\n[Image: 728e826b9159d23e31773aa533b199df82965eee2620e5d782c24eee87555a92]",
+        "text": "SST receptor (+)\n\n(... obviously need the receptor to mediate the ligand's effect)\n\n[Image: bf568ff8b698698938fd2b512d0636e39f7c9ad22b68b230be24922624554acf]\n\n[Image: 3526ee7eee8b2cb49bf1b021b89f1304b2be46c00daf9f6a48613f2486cd828a]",
         "imageIds": [
             "bf568ff8b698698938fd2b512d0636e39f7c9ad22b68b230be24922624554acf",
-            "3526ee7eee8b2cb49bf1b021b89f1304b2be46c00daf9f6a48613f2486cd828a",
-            "9dba8c277ce7510d092efa9203df57f234b50abbd7a844e882147933982b3998",
-            "1a5be55801cb6e1fe815d8fe4e22744ce722a8436ae966c178ec116fd33db54f",
-            "c588a2e68d46d29f8420230fdf77f9e534fddb591f470dc318423fc98ca9097d",
-            "04ce2b1c7320a42479e7c20fb5be378d320ba2e59732a088c989802db9225389",
-            "3a164a2757ec20aa07890edad608f3993dcdd6778f7b83a5ad616e7d15326599",
-            "60a771df2244fd1c8b922f4399d2543404c22761678dbe5bd0258ff9b5bd57be",
-            "728e826b9159d23e31773aa533b199df82965eee2620e5d782c24eee87555a92"
+            "3526ee7eee8b2cb49bf1b021b89f1304b2be46c00daf9f6a48613f2486cd828a"
         ]
     },
     "images": {
-        "04ce2b1c7320a42479e7c20fb5be378d320ba2e59732a088c989802db9225389": {
-            "file": "images/04ce2b1c7320a42479e7c20fb5be378d320ba2e59732a088c989802db9225389.jpg",
-            "filename": "paste-649046867836931.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 33421
-        },
-        "1a5be55801cb6e1fe815d8fe4e22744ce722a8436ae966c178ec116fd33db54f": {
-            "file": "images/1a5be55801cb6e1fe815d8fe4e22744ce722a8436ae966c178ec116fd33db54f.jpg",
-            "filename": "paste-645263001649155.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 67361
-        },
         "3526ee7eee8b2cb49bf1b021b89f1304b2be46c00daf9f6a48613f2486cd828a": {
             "file": "images/3526ee7eee8b2cb49bf1b021b89f1304b2be46c00daf9f6a48613f2486cd828a.jpg",
             "filename": "paste-629478996836355.jpg",
             "mimeType": "image/jpeg",
             "bytes": 100490
         },
-        "3a164a2757ec20aa07890edad608f3993dcdd6778f7b83a5ad616e7d15326599": {
-            "file": "images/3a164a2757ec20aa07890edad608f3993dcdd6778f7b83a5ad616e7d15326599.jpg",
-            "filename": "paste-793520977739779.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 91715
-        },
-        "60a771df2244fd1c8b922f4399d2543404c22761678dbe5bd0258ff9b5bd57be": {
-            "file": "images/60a771df2244fd1c8b922f4399d2543404c22761678dbe5bd0258ff9b5bd57be.jpg",
-            "filename": "paste-651314610569219.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 56790
-        },
-        "728e826b9159d23e31773aa533b199df82965eee2620e5d782c24eee87555a92": {
-            "file": "images/728e826b9159d23e31773aa533b199df82965eee2620e5d782c24eee87555a92.jpg",
-            "filename": "paste-89253715378179 (1).jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 81669
-        },
-        "9dba8c277ce7510d092efa9203df57f234b50abbd7a844e882147933982b3998": {
-            "file": "images/9dba8c277ce7510d092efa9203df57f234b50abbd7a844e882147933982b3998.jpg",
-            "filename": "paste-442729523838979.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 146111
-        },
         "bf568ff8b698698938fd2b512d0636e39f7c9ad22b68b230be24922624554acf": {
             "file": "images/bf568ff8b698698938fd2b512d0636e39f7c9ad22b68b230be24922624554acf.jpg",
             "filename": "paste-626863361753091.jpg",
             "mimeType": "image/jpeg",
             "bytes": 99435
-        },
-        "c588a2e68d46d29f8420230fdf77f9e534fddb591f470dc318423fc98ca9097d": {
-            "file": "images/c588a2e68d46d29f8420230fdf77f9e534fddb591f470dc318423fc98ca9097d.jpg",
-            "filename": "paste-647152787259395.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 104732
         }
     }
 }

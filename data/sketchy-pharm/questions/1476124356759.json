@@ -18,56 +18,21 @@
         "$Diabetes"
     ],
     "question": {
-        "text": "§\n\nWhat second-generation sulfonylurea has the shortest duration of action?",
+        "text": "What second-generation sulfonylurea has the shortest duration of action?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat second-generation sulfonylurea has the shortest duration of action?\n\nGlipizide\n\n[Image: 4d5e5ffa8f065ac998e7afe2a9c0b6fba0d1e535673b361bf097387845b932da]\n\n2.1 - Insulin, sulfonylureas, meglitinides, GLP-1 agonists, DPP-4 inhibitors\n[Image: d4563c0f5a190a17a7288e0360e41e8d67c6dbfcab9d7378abb51e3904b2eeed]\n\n[Image: 13d541a77f83d6ca646a7cbd73bb415478e28faa82e25f8a178f2ea9764498e1]\n\n[Image: 5f500a024f2eda7523cefeadb00a605e0dc8488e9a0a92d15694571abf122dbc]\n\n[Image: 172ef24da9f1adb51fb31db427845467485fb3776c926c1dee0227bc915055e3]\n\n[Image: d6823ca16897e3745b029b6da053e5e131bb1a0f92c5cab1bf13124952c69874]",
+        "text": "Glipizide\n\n[Image: 4d5e5ffa8f065ac998e7afe2a9c0b6fba0d1e535673b361bf097387845b932da]",
         "imageIds": [
-            "4d5e5ffa8f065ac998e7afe2a9c0b6fba0d1e535673b361bf097387845b932da",
-            "d4563c0f5a190a17a7288e0360e41e8d67c6dbfcab9d7378abb51e3904b2eeed",
-            "13d541a77f83d6ca646a7cbd73bb415478e28faa82e25f8a178f2ea9764498e1",
-            "5f500a024f2eda7523cefeadb00a605e0dc8488e9a0a92d15694571abf122dbc",
-            "172ef24da9f1adb51fb31db427845467485fb3776c926c1dee0227bc915055e3",
-            "d6823ca16897e3745b029b6da053e5e131bb1a0f92c5cab1bf13124952c69874"
+            "4d5e5ffa8f065ac998e7afe2a9c0b6fba0d1e535673b361bf097387845b932da"
         ]
     },
     "images": {
-        "13d541a77f83d6ca646a7cbd73bb415478e28faa82e25f8a178f2ea9764498e1": {
-            "file": "images/13d541a77f83d6ca646a7cbd73bb415478e28faa82e25f8a178f2ea9764498e1.jpg",
-            "filename": "paste-728576777256963.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 77849
-        },
-        "172ef24da9f1adb51fb31db427845467485fb3776c926c1dee0227bc915055e3": {
-            "file": "images/172ef24da9f1adb51fb31db427845467485fb3776c926c1dee0227bc915055e3.jpg",
-            "filename": "paste-96877282328579.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 133257
-        },
         "4d5e5ffa8f065ac998e7afe2a9c0b6fba0d1e535673b361bf097387845b932da": {
             "file": "images/4d5e5ffa8f065ac998e7afe2a9c0b6fba0d1e535673b361bf097387845b932da.jpg",
             "filename": "paste-41437844471811.jpg",
             "mimeType": "image/jpeg",
             "bytes": 54576
-        },
-        "5f500a024f2eda7523cefeadb00a605e0dc8488e9a0a92d15694571abf122dbc": {
-            "file": "images/5f500a024f2eda7523cefeadb00a605e0dc8488e9a0a92d15694571abf122dbc.jpg",
-            "filename": "paste-722838700949507.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 28342
-        },
-        "d4563c0f5a190a17a7288e0360e41e8d67c6dbfcab9d7378abb51e3904b2eeed": {
-            "file": "images/d4563c0f5a190a17a7288e0360e41e8d67c6dbfcab9d7378abb51e3904b2eeed.jpg",
-            "filename": "paste-684905549791233.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 118710
-        },
-        "d6823ca16897e3745b029b6da053e5e131bb1a0f92c5cab1bf13124952c69874": {
-            "file": "images/d6823ca16897e3745b029b6da053e5e131bb1a0f92c5cab1bf13124952c69874.jpg",
-            "filename": "paste-99097780420611.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 104792
         }
     }
 }

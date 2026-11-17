@@ -18,45 +18,17 @@
         "$HeartFailureDrugs"
     ],
     "question": {
-        "text": "§\n\nMOA: Cardiac glycosides",
+        "text": "MOA: Cardiac glycosides",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nMOA: Cardiac glycosides\n\nInhibit Na+/K+ ATPase\n\n(⇒ ↓ Ca2+ efflux due to inhibition of Na+/Ca2+ exchanger)\n\n[Image: f0d8bfae18d267638086812fe46bff8e1fffc6007e04280725edfd956e417764]\n\n[Image: ea978d4c3a093601240a4e49e3cde06b5e8a9c4544791f19ee2a7a9433c50aa1]\n\n1.1 - Digoxin, milrinone, nesiritide\n[Image: e4710e7cdd2eb8b0c4fcdd4f47e9c0298d7bc834ea44b17703e0ed658e992ff3]\n\n[Image: cc39089194326572184bf1c518bc26f5390c4f73a884ec8ad5a12509af47e2cf]\n\n[Image: bc64c259981a2f49c214dc60fdb3640b91401d9fabbcae71eb52515390dbaf48]\n\n[Image: aa726752874900868e52bb4456b25de8c3b4b85eaca0e5aed6f3ad3724afc8b2]",
+        "text": "Inhibit Na+/K+ ATPase\n\n(⇒ ↓ Ca2+ efflux due to inhibition of Na+/Ca2+ exchanger)\n\n[Image: f0d8bfae18d267638086812fe46bff8e1fffc6007e04280725edfd956e417764]\n\n[Image: ea978d4c3a093601240a4e49e3cde06b5e8a9c4544791f19ee2a7a9433c50aa1]",
         "imageIds": [
             "f0d8bfae18d267638086812fe46bff8e1fffc6007e04280725edfd956e417764",
-            "ea978d4c3a093601240a4e49e3cde06b5e8a9c4544791f19ee2a7a9433c50aa1",
-            "e4710e7cdd2eb8b0c4fcdd4f47e9c0298d7bc834ea44b17703e0ed658e992ff3",
-            "cc39089194326572184bf1c518bc26f5390c4f73a884ec8ad5a12509af47e2cf",
-            "bc64c259981a2f49c214dc60fdb3640b91401d9fabbcae71eb52515390dbaf48",
-            "aa726752874900868e52bb4456b25de8c3b4b85eaca0e5aed6f3ad3724afc8b2"
+            "ea978d4c3a093601240a4e49e3cde06b5e8a9c4544791f19ee2a7a9433c50aa1"
         ]
     },
     "images": {
-        "aa726752874900868e52bb4456b25de8c3b4b85eaca0e5aed6f3ad3724afc8b2": {
-            "file": "images/aa726752874900868e52bb4456b25de8c3b4b85eaca0e5aed6f3ad3724afc8b2.jpg",
-            "filename": "paste-88450556493827.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 59364
-        },
-        "bc64c259981a2f49c214dc60fdb3640b91401d9fabbcae71eb52515390dbaf48": {
-            "file": "images/bc64c259981a2f49c214dc60fdb3640b91401d9fabbcae71eb52515390dbaf48.jpg",
-            "filename": "paste-84082574753795.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 36182
-        },
-        "cc39089194326572184bf1c518bc26f5390c4f73a884ec8ad5a12509af47e2cf": {
-            "file": "images/cc39089194326572184bf1c518bc26f5390c4f73a884ec8ad5a12509af47e2cf.jpg",
-            "filename": "paste-85959475462147.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 91768
-        },
-        "e4710e7cdd2eb8b0c4fcdd4f47e9c0298d7bc834ea44b17703e0ed658e992ff3": {
-            "file": "images/e4710e7cdd2eb8b0c4fcdd4f47e9c0298d7bc834ea44b17703e0ed658e992ff3.jpg",
-            "filename": "paste-602038450782209.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 138139
-        },
         "ea978d4c3a093601240a4e49e3cde06b5e8a9c4544791f19ee2a7a9433c50aa1": {
             "file": "images/ea978d4c3a093601240a4e49e3cde06b5e8a9c4544791f19ee2a7a9433c50aa1.jpg",
             "filename": "paste-9856949944323.jpg",

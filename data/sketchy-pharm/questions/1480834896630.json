@@ -18,43 +18,22 @@
         "$Antivirals_Hepatitis"
     ],
     "question": {
-        "text": "§\n\nMOA: Sofosbuvir",
+        "text": "MOA: Sofosbuvir",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nMOA: Sofosbuvir\n\nNucleoside analog\n\n(⇒ Inhibition of NS5B RNA production)\n\n[Image: fc8a42e4359fa9637835532b963d0640b0d9b36957b2ddb1e95e3b18dfbefa1d]\n\n[Image: a52a3c37a68f0bad3b25069e412864630087ece6147ae38396ea438c2ff5284f]\n\n7.2 - Ribavirin, sofosbuvir, simeprevir\n[Image: cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1]\n\n[Image: 27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc]\n\n[Image: c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81]\n\u001b\u001b",
+        "text": "Nucleoside analog\n\n(⇒ Inhibition of NS5B RNA production)\n\n[Image: fc8a42e4359fa9637835532b963d0640b0d9b36957b2ddb1e95e3b18dfbefa1d]\n\n[Image: a52a3c37a68f0bad3b25069e412864630087ece6147ae38396ea438c2ff5284f]",
         "imageIds": [
             "fc8a42e4359fa9637835532b963d0640b0d9b36957b2ddb1e95e3b18dfbefa1d",
-            "a52a3c37a68f0bad3b25069e412864630087ece6147ae38396ea438c2ff5284f",
-            "cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1",
-            "27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc",
-            "c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81"
+            "a52a3c37a68f0bad3b25069e412864630087ece6147ae38396ea438c2ff5284f"
         ]
     },
     "images": {
-        "27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc": {
-            "file": "images/27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc.jpg",
-            "filename": "paste-380113195630595.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 70126
-        },
         "a52a3c37a68f0bad3b25069e412864630087ece6147ae38396ea438c2ff5284f": {
             "file": "images/a52a3c37a68f0bad3b25069e412864630087ece6147ae38396ea438c2ff5284f.jpg",
             "filename": "paste-382346578624515.jpg",
             "mimeType": "image/jpeg",
             "bytes": 47474
-        },
-        "c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81": {
-            "file": "images/c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81.jpg",
-            "filename": "paste-755235639263235.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 72171
-        },
-        "cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1": {
-            "file": "images/cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1.jpg",
-            "filename": "paste-308125248782337.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 122787
         },
         "fc8a42e4359fa9637835532b963d0640b0d9b36957b2ddb1e95e3b18dfbefa1d": {
             "file": "images/fc8a42e4359fa9637835532b963d0640b0d9b36957b2ddb1e95e3b18dfbefa1d.jpg",

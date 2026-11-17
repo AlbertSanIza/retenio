@@ -18,35 +18,21 @@
         "$DNA_&_Cellular_Division"
     ],
     "question": {
-        "text": "§\n\nSuffix: Topoisomerase I Inhibitors",
+        "text": "Suffix: Topoisomerase I Inhibitors",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nSuffix: Topoisomerase I Inhibitors\n\n\"-tecan\"\n\n[Image: 8218c1dfc11f80baf7cc20692178ac00043ee2701c11f3e688f25a5f1435a161]\n\n2.4 - Etoposide, teniposide, topotecan, irinotecan\n[Image: 11288f4fb9b522f2cdc4355502d1496591261217813a12198739b8e123c3312a]\n\n[Image: 8a03d8e0ce5dfff46fe30a2aaa7d656abcf9160171e11d1f64d69ce72be9acf3]",
+        "text": "\"-tecan\"\n\n[Image: 8218c1dfc11f80baf7cc20692178ac00043ee2701c11f3e688f25a5f1435a161]",
         "imageIds": [
-            "8218c1dfc11f80baf7cc20692178ac00043ee2701c11f3e688f25a5f1435a161",
-            "11288f4fb9b522f2cdc4355502d1496591261217813a12198739b8e123c3312a",
-            "8a03d8e0ce5dfff46fe30a2aaa7d656abcf9160171e11d1f64d69ce72be9acf3"
+            "8218c1dfc11f80baf7cc20692178ac00043ee2701c11f3e688f25a5f1435a161"
         ]
     },
     "images": {
-        "11288f4fb9b522f2cdc4355502d1496591261217813a12198739b8e123c3312a": {
-            "file": "images/11288f4fb9b522f2cdc4355502d1496591261217813a12198739b8e123c3312a.jpg",
-            "filename": "paste-376995049373697.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 110522
-        },
         "8218c1dfc11f80baf7cc20692178ac00043ee2701c11f3e688f25a5f1435a161": {
             "file": "images/8218c1dfc11f80baf7cc20692178ac00043ee2701c11f3e688f25a5f1435a161.jpg",
             "filename": "paste-9762460663811 (1).jpg",
             "mimeType": "image/jpeg",
             "bytes": 56399
-        },
-        "8a03d8e0ce5dfff46fe30a2aaa7d656abcf9160171e11d1f64d69ce72be9acf3": {
-            "file": "images/8a03d8e0ce5dfff46fe30a2aaa7d656abcf9160171e11d1f64d69ce72be9acf3.jpg",
-            "filename": "paste-171519518965763.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 22325
         }
     }
 }

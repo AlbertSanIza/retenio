@@ -18,39 +18,23 @@
         "$Inhibitors_of_Bacterial_Protein_Synthesis"
     ],
     "question": {
-        "text": "§\n\nName 3 zoonotic infections Tetracyclines are used to treat",
+        "text": "Name 3 zoonotic infections Tetracyclines are used to treat",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nName 3 zoonotic infections Tetracyclines are used to treat\n\n(1) Coxiella\n(2) Brucella\n\n(3) Yersinia\n\n[Image: 1067cd5b6f51e1318035c014c1a7b8e4b44ce56c11dbd32f58117e5f7e5d3cd7]\n\n[Image: 8831433e45caa6f3bb25e33d0177c9f4b4c79508cfb5a27754a313c52e623971]\n\n[Image: 24ede9a27c33ff16c4c20c3895ba66184023b63fa0d2450242f1987a6f644f13]\n\n2.1 - Tetracyclines\n[Image: 029f50df8c964a648f90565fdbb5c978b9fd2ef074dcadbbea4bbd78e283b7e2]\n\n[Image: 8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4]\n\n[Image: 148da3dca16d7ef2f00b70fd9989e6e2d2e10a6064cebc60234d37881f6e3c8f]\n\n[Image: 9a41cab91cd4ec097690589c9f9104229795d2ceafec69d88dd531b79934ed66]",
+        "text": "(1) Coxiella\n(2) Brucella\n\n(3) Yersinia\n\n[Image: 1067cd5b6f51e1318035c014c1a7b8e4b44ce56c11dbd32f58117e5f7e5d3cd7]\n\n[Image: 8831433e45caa6f3bb25e33d0177c9f4b4c79508cfb5a27754a313c52e623971]\n\n[Image: 24ede9a27c33ff16c4c20c3895ba66184023b63fa0d2450242f1987a6f644f13]",
         "imageIds": [
             "1067cd5b6f51e1318035c014c1a7b8e4b44ce56c11dbd32f58117e5f7e5d3cd7",
             "8831433e45caa6f3bb25e33d0177c9f4b4c79508cfb5a27754a313c52e623971",
-            "24ede9a27c33ff16c4c20c3895ba66184023b63fa0d2450242f1987a6f644f13",
-            "029f50df8c964a648f90565fdbb5c978b9fd2ef074dcadbbea4bbd78e283b7e2",
-            "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4",
-            "148da3dca16d7ef2f00b70fd9989e6e2d2e10a6064cebc60234d37881f6e3c8f",
-            "9a41cab91cd4ec097690589c9f9104229795d2ceafec69d88dd531b79934ed66"
+            "24ede9a27c33ff16c4c20c3895ba66184023b63fa0d2450242f1987a6f644f13"
         ]
     },
     "images": {
-        "029f50df8c964a648f90565fdbb5c978b9fd2ef074dcadbbea4bbd78e283b7e2": {
-            "file": "images/029f50df8c964a648f90565fdbb5c978b9fd2ef074dcadbbea4bbd78e283b7e2.jpg",
-            "filename": "paste-215521458913281.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 151592
-        },
         "1067cd5b6f51e1318035c014c1a7b8e4b44ce56c11dbd32f58117e5f7e5d3cd7": {
             "file": "images/1067cd5b6f51e1318035c014c1a7b8e4b44ce56c11dbd32f58117e5f7e5d3cd7.jpg",
             "filename": "paste-6807523164163.jpg",
             "mimeType": "image/jpeg",
             "bytes": 51652
-        },
-        "148da3dca16d7ef2f00b70fd9989e6e2d2e10a6064cebc60234d37881f6e3c8f": {
-            "file": "images/148da3dca16d7ef2f00b70fd9989e6e2d2e10a6064cebc60234d37881f6e3c8f.jpg",
-            "filename": "paste-392190643666947.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 66003
         },
         "24ede9a27c33ff16c4c20c3895ba66184023b63fa0d2450242f1987a6f644f13": {
             "file": "images/24ede9a27c33ff16c4c20c3895ba66184023b63fa0d2450242f1987a6f644f13.jpg",
@@ -63,18 +47,6 @@
             "filename": "paste-6923487281155 (3).jpg",
             "mimeType": "image/jpeg",
             "bytes": 48533
-        },
-        "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4": {
-            "file": "images/8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4.jpg",
-            "filename": "paste-321710230339587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 76271
-        },
-        "9a41cab91cd4ec097690589c9f9104229795d2ceafec69d88dd531b79934ed66": {
-            "file": "images/9a41cab91cd4ec097690589c9f9104229795d2ceafec69d88dd531b79934ed66.jpg",
-            "filename": "paste-427198922096643.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 38007
         }
     }
 }

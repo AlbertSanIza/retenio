@@ -18,17 +18,14 @@
         "$DNA_&_Cellular_Division"
     ],
     "question": {
-        "text": "§\n\nMOA: Busulfan",
+        "text": "MOA: Busulfan",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nMOA: Busulfan\n\nCytotoxic alkylating agent\n\n[Image: aa85e7daa73b0fc97fc50b3d1f68f1186ddb1641c087fc449bf3e0fad20a004d]\n\n[Image: 2680eb0268e7a8f6c1c21c83ce05eb5049b681aa4ffc4adfdf60dbc9f619392a]\n\n2.1 - Cyclophosphamide, ifosfamide, busulfan, nitrosoureas (carmustine, lomustine, streptozocin)\n[Image: e7a45d4238dfec58284e8d77b5193bca605ac94634c0be183ab3a952da54522c]\n\n[Image: 5139224e271f489560439aa704474d6736dbc68de75aeb16bb61ba05a3db4414]\n\n[Image: e4b5939c955bd5aac8d660d774938712293554645ac90c867e9b4d6d33e582b5]",
+        "text": "Cytotoxic alkylating agent\n\n[Image: aa85e7daa73b0fc97fc50b3d1f68f1186ddb1641c087fc449bf3e0fad20a004d]\n\n[Image: 2680eb0268e7a8f6c1c21c83ce05eb5049b681aa4ffc4adfdf60dbc9f619392a]",
         "imageIds": [
             "aa85e7daa73b0fc97fc50b3d1f68f1186ddb1641c087fc449bf3e0fad20a004d",
-            "2680eb0268e7a8f6c1c21c83ce05eb5049b681aa4ffc4adfdf60dbc9f619392a",
-            "e7a45d4238dfec58284e8d77b5193bca605ac94634c0be183ab3a952da54522c",
-            "5139224e271f489560439aa704474d6736dbc68de75aeb16bb61ba05a3db4414",
-            "e4b5939c955bd5aac8d660d774938712293554645ac90c867e9b4d6d33e582b5"
+            "2680eb0268e7a8f6c1c21c83ce05eb5049b681aa4ffc4adfdf60dbc9f619392a"
         ]
     },
     "images": {
@@ -38,29 +35,11 @@
             "mimeType": "image/jpeg",
             "bytes": 56094
         },
-        "5139224e271f489560439aa704474d6736dbc68de75aeb16bb61ba05a3db4414": {
-            "file": "images/5139224e271f489560439aa704474d6736dbc68de75aeb16bb61ba05a3db4414.jpg",
-            "filename": "paste-183068686024707.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 30967
-        },
         "aa85e7daa73b0fc97fc50b3d1f68f1186ddb1641c087fc449bf3e0fad20a004d": {
             "file": "images/aa85e7daa73b0fc97fc50b3d1f68f1186ddb1641c087fc449bf3e0fad20a004d.jpg",
             "filename": "paste-29094108463107.jpg",
             "mimeType": "image/jpeg",
             "bytes": 58722
-        },
-        "e4b5939c955bd5aac8d660d774938712293554645ac90c867e9b4d6d33e582b5": {
-            "file": "images/e4b5939c955bd5aac8d660d774938712293554645ac90c867e9b4d6d33e582b5.jpg",
-            "filename": "paste-71386651426819.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 75698
-        },
-        "e7a45d4238dfec58284e8d77b5193bca605ac94634c0be183ab3a952da54522c": {
-            "file": "images/e7a45d4238dfec58284e8d77b5193bca605ac94634c0be183ab3a952da54522c.jpg",
-            "filename": "paste-359858129862657.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 136466
         }
     }
 }

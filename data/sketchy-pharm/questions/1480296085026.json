@@ -18,17 +18,14 @@
         "$Antimetabolites"
     ],
     "question": {
-        "text": "§\n\nWhat enzyme activates 6-mercaptopurine?",
+        "text": "What enzyme activates 6-mercaptopurine?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat enzyme activates 6-mercaptopurine?\n\nHGPRT\n\n[Image: 4187cebc1f1035a9de7c1b75b4a89471407723beccdc911689be63661f76fdd5]\n\n[Image: 99d4fd7fe60d671c81e9d972c037614bd10a0929e140540e74b041224a24859b]\n\n1.2 - Azathioprine, 6-mercaptopurine, mycophenolate mofetil\n[Image: d2bdd79bc4ae3f60d8c0e14fcb3dd0af16bc03c2cfa0dc07325ab541a5e1fa11]\n\n[Image: 84ba1e25ca7d6be138bfb929220d7171594d2b977c19dd2d5f17e2a7fa0bda8c]\n\n[Image: e19f5a1ffca1b6101ba47e85c3245210cc16464227cefb77f324c5526bbbd848]",
+        "text": "HGPRT\n\n[Image: 4187cebc1f1035a9de7c1b75b4a89471407723beccdc911689be63661f76fdd5]\n\n[Image: 99d4fd7fe60d671c81e9d972c037614bd10a0929e140540e74b041224a24859b]",
         "imageIds": [
             "4187cebc1f1035a9de7c1b75b4a89471407723beccdc911689be63661f76fdd5",
-            "99d4fd7fe60d671c81e9d972c037614bd10a0929e140540e74b041224a24859b",
-            "d2bdd79bc4ae3f60d8c0e14fcb3dd0af16bc03c2cfa0dc07325ab541a5e1fa11",
-            "84ba1e25ca7d6be138bfb929220d7171594d2b977c19dd2d5f17e2a7fa0bda8c",
-            "e19f5a1ffca1b6101ba47e85c3245210cc16464227cefb77f324c5526bbbd848"
+            "99d4fd7fe60d671c81e9d972c037614bd10a0929e140540e74b041224a24859b"
         ]
     },
     "images": {
@@ -38,29 +35,11 @@
             "mimeType": "image/jpeg",
             "bytes": 53657
         },
-        "84ba1e25ca7d6be138bfb929220d7171594d2b977c19dd2d5f17e2a7fa0bda8c": {
-            "file": "images/84ba1e25ca7d6be138bfb929220d7171594d2b977c19dd2d5f17e2a7fa0bda8c.jpg",
-            "filename": "paste-160206575108099.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 33038
-        },
         "99d4fd7fe60d671c81e9d972c037614bd10a0929e140540e74b041224a24859b": {
             "file": "images/99d4fd7fe60d671c81e9d972c037614bd10a0929e140540e74b041224a24859b.jpg",
             "filename": "paste-41051297415171.jpg",
             "mimeType": "image/jpeg",
             "bytes": 53411
-        },
-        "d2bdd79bc4ae3f60d8c0e14fcb3dd0af16bc03c2cfa0dc07325ab541a5e1fa11": {
-            "file": "images/d2bdd79bc4ae3f60d8c0e14fcb3dd0af16bc03c2cfa0dc07325ab541a5e1fa11.jpg",
-            "filename": "paste-339392610697217.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 143365
-        },
-        "e19f5a1ffca1b6101ba47e85c3245210cc16464227cefb77f324c5526bbbd848": {
-            "file": "images/e19f5a1ffca1b6101ba47e85c3245210cc16464227cefb77f324c5526bbbd848.jpg",
-            "filename": "paste-55825984913411.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 121727
         }
     }
 }

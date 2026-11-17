@@ -18,17 +18,13 @@
         "$Mood_Stabilizers_&_Antiepileptics"
     ],
     "question": {
-        "text": "§\n\nDescribe Ebstein's anomaly",
+        "text": "Describe Ebstein's anomaly",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nDescribe Ebstein's anomaly\n\nAtrialization of right ventricle\n\n(Due to severely incompetent tricuspid valve)\n\n[Image: 1d692d53432ddd156881fb387e6360d0827ef0ec68fd64cab3c1442b77cc244d]\n\n4.1 - Lithium\n[Image: 906e1cbe8badcd1dcc8d21e284dc64d1af2bbf639abc16d617e4308bb635713e]\n\n[Image: 89c6e786d10c9cae20acc6a8cc5dd3f044e63f70369c505225950c9204c4947e]\n\n[Image: 1ee8313ee6ae61b2ae9c5345f38d5e3ae221ed66fbeb9f01adf12024c513515a]\n\n[Image: dc73572f5b9694ad38c1446590293cc46e29fa79e26146eb63185b7b0ad5c8a2]",
+        "text": "Atrialization of right ventricle\n\n(Due to severely incompetent tricuspid valve)\n\n[Image: 1d692d53432ddd156881fb387e6360d0827ef0ec68fd64cab3c1442b77cc244d]",
         "imageIds": [
-            "1d692d53432ddd156881fb387e6360d0827ef0ec68fd64cab3c1442b77cc244d",
-            "906e1cbe8badcd1dcc8d21e284dc64d1af2bbf639abc16d617e4308bb635713e",
-            "89c6e786d10c9cae20acc6a8cc5dd3f044e63f70369c505225950c9204c4947e",
-            "1ee8313ee6ae61b2ae9c5345f38d5e3ae221ed66fbeb9f01adf12024c513515a",
-            "dc73572f5b9694ad38c1446590293cc46e29fa79e26146eb63185b7b0ad5c8a2"
+            "1d692d53432ddd156881fb387e6360d0827ef0ec68fd64cab3c1442b77cc244d"
         ]
     },
     "images": {
@@ -37,30 +33,6 @@
             "filename": "paste-86758339379203.jpg",
             "mimeType": "image/jpeg",
             "bytes": 49978
-        },
-        "1ee8313ee6ae61b2ae9c5345f38d5e3ae221ed66fbeb9f01adf12024c513515a": {
-            "file": "images/1ee8313ee6ae61b2ae9c5345f38d5e3ae221ed66fbeb9f01adf12024c513515a.jpg",
-            "filename": "paste-1215879471693827.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 62582
-        },
-        "89c6e786d10c9cae20acc6a8cc5dd3f044e63f70369c505225950c9204c4947e": {
-            "file": "images/89c6e786d10c9cae20acc6a8cc5dd3f044e63f70369c505225950c9204c4947e.jpg",
-            "filename": "paste-1207010364227587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 121390
-        },
-        "906e1cbe8badcd1dcc8d21e284dc64d1af2bbf639abc16d617e4308bb635713e": {
-            "file": "images/906e1cbe8badcd1dcc8d21e284dc64d1af2bbf639abc16d617e4308bb635713e.jpg",
-            "filename": "paste-1203505670914049.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 112568
-        },
-        "dc73572f5b9694ad38c1446590293cc46e29fa79e26146eb63185b7b0ad5c8a2": {
-            "file": "images/dc73572f5b9694ad38c1446590293cc46e29fa79e26146eb63185b7b0ad5c8a2.jpg",
-            "filename": "paste-1212022591062019.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 52455
         }
     }
 }

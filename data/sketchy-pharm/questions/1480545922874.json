@@ -18,16 +18,13 @@
         "$Inhibitors_of_Bacterial_Protein_Synthesis"
     ],
     "question": {
-        "text": "§\n\nWhat is Enterococcus' mechanism of resistance to aminoglycosides?",
+        "text": "What is Enterococcus' mechanism of resistance to aminoglycosides?",
         "imageIds": []
     },
     "answer": {
-        "text": "§\nWhat is Enterococcus' mechanism of resistance to aminoglycosides?\n\nAcetylation\n\n[Image: 00fb51a4c86130d96b3b73ad2d5b545f6fe03a9984b43d674ec20617e755fc3d]\n\n2.6 - Aminoglycosides\n[Image: 9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d]\n\n[Image: 8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4]\n\n[Image: 4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1]",
+        "text": "Acetylation\n\n[Image: 00fb51a4c86130d96b3b73ad2d5b545f6fe03a9984b43d674ec20617e755fc3d]",
         "imageIds": [
-            "00fb51a4c86130d96b3b73ad2d5b545f6fe03a9984b43d674ec20617e755fc3d",
-            "9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d",
-            "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4",
-            "4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1"
+            "00fb51a4c86130d96b3b73ad2d5b545f6fe03a9984b43d674ec20617e755fc3d"
         ]
     },
     "images": {
@@ -36,24 +33,6 @@
             "filename": "paste-26671746908163.jpg",
             "mimeType": "image/jpeg",
             "bytes": 41761
-        },
-        "4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1": {
-            "file": "images/4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1.jpg",
-            "filename": "paste-32100585570307.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 91413
-        },
-        "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4": {
-            "file": "images/8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4.jpg",
-            "filename": "paste-321710230339587.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 76271
-        },
-        "9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d": {
-            "file": "images/9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d.jpg",
-            "filename": "paste-232065672937473.jpg",
-            "mimeType": "image/jpeg",
-            "bytes": 108815
         }
     }
 }
