@@ -5,7 +5,7 @@ import { z } from 'zod'
 import { loadCatalog, type Catalog } from './anki-data'
 
 export const randomQuestionsSchema = z.object({
-    count: z.number().int().min(1).max(20).describe('Number of distinct random cards to return (1–20).'),
+    count: z.number().int().min(1).max(10).describe('Number of distinct random cards to return (1–10).'),
     excludeCardIds: z.array(z.string()).max(5000).default([]).describe('Previously seen card IDs to avoid repeating during a quiz.')
 })
 
@@ -61,7 +61,7 @@ async function imageContent(catalog: Catalog, imageId: string): Promise<Content[
 
 export async function getRandomQuestions(input: z.input<typeof randomQuestionsSchema>): Promise<ToolResult> {
     const parsed = randomQuestionsSchema.safeParse(input)
-    if (!parsed.success) return toolError('Provide an integer count from 1 to 20 and optional excludeCardIds.')
+    if (!parsed.success) return toolError('Provide an integer count from 1 to 10 and optional excludeCardIds.')
     try {
         const catalog = await getCatalog()
         const { count, excludeCardIds } = parsed.data

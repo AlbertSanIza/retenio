@@ -10,31 +10,31 @@ describe('Anki sampling', () => {
     test('samples without repeats, respects exclusions, and preserves the source', () => {
         const cards = Array.from({ length: 30 }, (_, index) => ({ id: String(index) }))
         const before = structuredClone(cards)
-        const selected = sampleCards(cards, 20, ['0', '1', '2'])
-        expect(selected).toHaveLength(20)
-        expect(new Set(selected.map((card) => card.id)).size).toBe(20)
+        const selected = sampleCards(cards, 10, ['0', '1', '2'])
+        expect(selected).toHaveLength(10)
+        expect(new Set(selected.map((card) => card.id)).size).toBe(10)
         expect(selected.every((card) => !['0', '1', '2'].includes(card.id))).toBe(true)
         expect(cards).toEqual(before)
         expect(() => sampleCards(cards, 31)).toThrow('available')
     })
 
-    test('enforces the 1–20 count limit', async () => {
-        for (const count of [0, -1, 1.5, 21]) {
+    test('enforces the 1–10 count limit', async () => {
+        for (const count of [0, -1, 1.5, 11]) {
             expect((await getRandomQuestions({ count })).isError).toBe(true)
         }
     })
 })
 
 describe('Imported deck and MCP images', () => {
-    test('returns 20 cards, matching image blocks, and retrievable deferred images', async () => {
-        const result = await getRandomQuestions({ count: 20 })
+    test('returns 10 cards, matching image blocks, and retrievable deferred images', async () => {
+        const result = await getRandomQuestions({ count: 10 })
         expect(result.isError).toBeUndefined()
         const first = result.content[0]
         if (first.type !== 'text') throw new Error('Expected card metadata')
         const metadata = JSON.parse(first.text)
         expect(metadata.totalCards).toBe(1318)
-        expect(metadata.cards).toHaveLength(20)
-        expect(new Set(metadata.cards.map((card: { id: string }) => card.id)).size).toBe(20)
+        expect(metadata.cards).toHaveLength(10)
+        expect(new Set(metadata.cards.map((card: { id: string }) => card.id)).size).toBe(10)
         for (const card of metadata.cards) {
             expect(card.question.text.length).toBeGreaterThan(0)
             expect(card.answer.text.length).toBeGreaterThan(0)
