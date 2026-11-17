@@ -17,7 +17,7 @@ export async function GET(request: Request) {
         const page = Math.min(input.data.page, Math.max(1, Math.ceil(filtered.length / pageSize)))
         const questions = filtered
             .slice((page - 1) * pageSize, page * pageSize)
-            .map(({ id, collectionId, categories, question }) => ({ id, collectionId, categories, question }))
+            .map(({ id, collectionId, categories, question, dueAt }) => ({ id, collectionId, categories, question, dueAt }))
         return Response.json(
             { questions, total: filtered.length, page, pageSize, totalQuestions: cards.length, catalogCardIds: cards.map((card) => card.id), collections },
             { headers: { 'Cache-Control': 'no-store' } }

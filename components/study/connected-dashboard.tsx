@@ -1,9 +1,10 @@
 'use client'
 
 import { api } from '@/convex/_generated/api'
-import { ConvexProvider, ConvexReactClient, useConvexConnectionState, useMutation, useQuery } from 'convex/react'
+import { ConvexProvider, ConvexReactClient, useConvexConnectionState, useMutation, usePaginatedQuery, useQuery } from 'convex/react'
 import { Component, useEffect, useRef, useState, useSyncExternalStore, type ReactNode } from 'react'
 import { Dashboard } from './dashboard'
+import { UploadBank } from './upload-bank'
 
 class ApprovalBoundary extends Component<{ children: ReactNode }, { failed: boolean }> {
     state = { failed: false }
@@ -20,7 +21,13 @@ class ApprovalBoundary extends Component<{ children: ReactNode }, { failed: bool
 }
 
 function ReactiveDashboard() {
-    const ids = useQuery(api.approvals.list)
+    const { results: reviews, status, loadMore } = usePaginatedQuery(api.reviews.page, {}, { initialNumItems: 500 })
+    const banks = useQuery(api.library.collections)
+    const rate = useMutation(api.reviews.submit)
+    useEffect(() => {
+        if (status === 'CanLoadMore') loadMore(500)
+    }, [status, loadMore])
+    const ids = status === 'Exhausted' ? reviews.filter((r) => r.approved).map((r) => r.cardId) : undefined
     const mutate = useMutation(api.approvals.setApproval)
     const connection = useConvexConnectionState()
     const [connectionDelayed, setConnectionDelayed] = useState(false)
@@ -30,8 +37,12 @@ function ReactiveDashboard() {
     }, [])
     return (
         <Dashboard
+            importButton={<UploadBank />}
+            catalogRevision={JSON.stringify(banks?.map((b) => b.activeImportId))}
             approvals={{
                 ids,
+                reviews,
+                rate: (cardId, rating, requestId) => rate({ cardId, rating, requestId }),
                 ready: ids !== undefined && connection.isWebSocketConnected,
                 unavailable: !connection.isWebSocketConnected && (connection.hasEverConnected || connectionDelayed),
                 save: (cardId, approved) => mutate({ cardId, approved })

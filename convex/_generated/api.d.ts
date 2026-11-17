@@ -9,6 +9,12 @@
  */
 
 import type * as approvals from "../approvals.js";
+import type * as cardFields from "../cardFields.js";
+import type * as crons from "../crons.js";
+import type * as imports from "../imports.js";
+import type * as library from "../library.js";
+import type * as maintenance from "../maintenance.js";
+import type * as reviews from "../reviews.js";
 
 import type {
   ApiFromModules,
@@ -18,6 +24,12 @@ import type {
 
 declare const fullApi: ApiFromModules<{
   approvals: typeof approvals;
+  cardFields: typeof cardFields;
+  crons: typeof crons;
+  imports: typeof imports;
+  library: typeof library;
+  maintenance: typeof maintenance;
+  reviews: typeof reviews;
 }>;
 
 /**

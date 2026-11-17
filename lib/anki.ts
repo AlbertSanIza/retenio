@@ -1,10 +1,9 @@
 import { createHash, randomInt } from 'node:crypto'
-import { readFile } from 'node:fs/promises'
 import { z } from 'zod'
-import type { Catalog } from './anki-data'
-import { getApprovedCardIds } from './approvals'
-import { getCatalog } from './catalog'
-import { toQuizCard } from './quiz'
+import { getReviewStates } from './approvals'
+import type { BankCard } from './bank-types'
+import { getCatalog, getStoredImage } from './catalog'
+import { isDue, type ReviewState } from './review-schedule'
 export { toQuizCard } from './quiz'
 
 export const randomQuestionsSchema = z.object({
@@ -37,40 +36,47 @@ function toolError(message: string): ToolResult {
     return { isError: true, content: [{ type: 'text', text: message }] }
 }
 
-async function imageContent(catalog: Catalog, imageId: string): Promise<Content[]> {
-    const image = catalog.media[imageId]
-    if (!image) throw new Error('Unknown image ID')
-    const data = await readFile(image.url)
-    if (data.length !== image.bytes || createHash('sha256').update(data).digest('hex') !== imageId) {
-        throw new Error('Image contents do not match the imported metadata')
-    }
-    if (Math.ceil(data.length / 3) * 4 > maxImageResponseBytes) throw new Error('Image is too large for an MCP response')
-    return [
-        { type: 'text', text: `Image ${imageId}: ${image.filename}` },
-        { type: 'image', mimeType: image.mimeType, data: data.toString('base64') }
-    ]
+type Dependencies = {
+    reviews: () => Promise<ReviewState[]>
+    catalog: () => Promise<{ cards: BankCard[] }>
+    image: typeof getStoredImage
+    fetch: (url: string, init?: RequestInit) => Promise<Response>
+    now: () => number
 }
-
-export function createAnkiTools(readApprovedIds: () => Promise<string[]> = getApprovedCardIds) {
+const defaults: Dependencies = { reviews: getReviewStates, catalog: getCatalog, image: getStoredImage, fetch, now: Date.now }
+export function createAnkiTools(dependencies: Partial<Dependencies> = {}) {
+    const deps = { ...defaults, ...dependencies }
     async function approvedCatalog() {
-        const [catalog, ids] = await Promise.all([getCatalog(), readApprovedIds()])
-        const approved = new Set(ids)
-        return { catalog, cards: catalog.cards.filter((card) => approved.has(card.id)) }
+        const [catalog, reviews] = await Promise.all([deps.catalog(), deps.reviews()])
+        const approved = new Set(reviews.filter((r) => r.approved && isDue(r.dueAt, deps.now())).map((r) => r.cardId))
+        return catalog.cards.filter((card) => approved.has(card.id))
     }
-
     async function getRandomQuestions(input: z.input<typeof randomQuestionsSchema>): Promise<ToolResult> {
         const parsed = randomQuestionsSchema.safeParse(input)
         if (!parsed.success) return toolError('Provide an integer count from 1 to 10 and optional excludeCardIds.')
         try {
-            const { cards: approved } = await approvedCatalog()
-            if (!approved.length)
-                return toolError('No approved questions yet. Study a question on the website, reveal its answer, then approve it for agent practice.')
+            const approved = await approvedCatalog()
+            if (!approved.length) return toolError('No practice questions are due. Study and rate questions on the website, or wait until their next review.')
             const { count, excludeCardIds } = parsed.data
             const excluded = new Set(excludeCardIds)
             const availableCount = approved.filter((card) => !excluded.has(card.id)).length
             if (count > availableCount)
-                return toolError(`Only ${availableCount} approved questions remain after exclusions. Request fewer questions or reset excludeCardIds.`)
-            return { content: [{ type: 'text', text: JSON.stringify({ cards: sampleCards(approved, count, excludeCardIds).map(toQuizCard) }) }] }
+                return toolError(`Only ${availableCount} due practice questions remain after exclusions. Request fewer questions or reset excludeCardIds.`)
+            return {
+                content: [
+                    {
+                        type: 'text',
+                        text: JSON.stringify({
+                            cards: sampleCards(approved, count, excludeCardIds).map(({ id, categories, question, answer }) => ({
+                                id,
+                                categories,
+                                question: { text: question.text, ...(question.imageIds.length && { imageIds: question.imageIds }) },
+                                answer: { text: answer.text, ...(answer.imageIds.length && { imageIds: answer.imageIds }) }
+                            }))
+                        })
+                    }
+                ]
+            }
         } catch (error) {
             console.error('Unable to load approved Anki cards:', error)
             return toolError('Unable to verify approved questions right now. Try again later; unapproved questions will not be returned.')
@@ -81,11 +87,33 @@ export function createAnkiTools(readApprovedIds: () => Promise<string[]> = getAp
         const parsed = imageInputSchema.safeParse(input)
         if (!parsed.success) return toolError('Provide an image ID returned by get_random_questions.')
         try {
-            const { catalog, cards } = await approvedCatalog()
+            const cards = await approvedCatalog()
             const { imageId } = parsed.data
             const eligible = cards.some((card) => card.question.imageIds.includes(imageId) || card.answer.imageIds.includes(imageId))
             if (!eligible) return toolError('Image is not available from an approved question. Use an image ID from get_random_questions.')
-            return { content: await imageContent(catalog, imageId) }
+            const image = await deps.image(imageId)
+            if (!image) throw new Error('Unknown image')
+            if (Math.ceil(image.bytes / 3) * 4 > maxImageResponseBytes) throw new Error('Image is too large for an MCP response')
+            const response = await deps.fetch(image.url, { signal: AbortSignal.timeout(5000) })
+            if (!response.ok) throw new Error('Image download failed')
+            const reader = response.body?.getReader()
+            if (!reader) throw new Error('Missing image body')
+            const chunks: Uint8Array[] = []
+            let bytes = 0
+            try {
+                for (;;) {
+                    const part = await reader.read()
+                    if (part.done) break
+                    bytes += part.value.length
+                    if (bytes > image.bytes) throw new Error('Image exceeds metadata size')
+                    chunks.push(part.value)
+                }
+            } finally {
+                await reader.cancel()
+            }
+            const data = Buffer.concat(chunks)
+            if (data.length !== image.bytes || createHash('sha256').update(data).digest('hex') !== imageId) throw new Error('Image integrity check failed')
+            return { content: [{ type: 'image', mimeType: image.mimeType, data: data.toString('base64') }] }
         } catch (error) {
             console.error('Unable to load approved Anki image:', error)
             return toolError('Unable to verify or load this approved image right now. Try again later.')

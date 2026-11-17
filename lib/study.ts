@@ -2,10 +2,10 @@ import type { QuizCard } from './quiz'
 
 export type CategoryNode = { name: string; path: string[]; count: number; children: CategoryNode[] }
 export type CollectionTree = { id: string; name: string; count: number; categories: CategoryNode[] }
-export type LibraryCard = QuizCard & { collectionId: string }
+export type LibraryCard = QuizCard & { collectionId: string; dueAt?: number }
 export type StudyScope = { collection?: string; category: string[]; search: string; status: 'all' | 'new' | 'approved' }
 export type LibraryPage = {
-    questions: Array<Pick<LibraryCard, 'id' | 'collectionId' | 'categories' | 'question'>>
+    questions: Array<Pick<LibraryCard, 'id' | 'collectionId' | 'categories' | 'question' | 'dueAt'>>
     total: number
     page: number
     pageSize: number

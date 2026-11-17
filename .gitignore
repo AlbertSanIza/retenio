@@ -45,3 +45,7 @@ next-env.d.ts
 /test-results/
 /playwright-report/
 !.env.example
+
+# Optional local exports; deployed banks are stored in Convex
+/data/
+*.apkg

@@ -1,5 +1,6 @@
 'use client'
 
+import { ConvexError } from 'convex/values'
 import Link from 'next/link'
 
 import { Badge } from '@/components/ui/badge'
@@ -8,15 +9,18 @@ import { Card } from '@/components/ui/card'
 import { Dialog, DialogContent, DialogDescription, DialogTitle } from '@/components/ui/dialog'
 import { Input } from '@/components/ui/input'
 import { Skeleton } from '@/components/ui/skeleton'
+import { isDue, type ReviewRating, type ReviewState } from '@/lib/review-schedule'
 import type { LibraryCard, LibraryPage, StudyScope } from '@/lib/study'
 import { cn } from '@/lib/utils'
 import { ArrowRight, BookOpen, Check, ChevronLeft, ChevronRight, CircleHelp, Layers3, Menu, Search, Shuffle, Sparkles, X } from 'lucide-react'
-import { useEffect, useRef, useState } from 'react'
+import { useEffect, useRef, useState, type ReactNode } from 'react'
 import { CategoryTree } from './category-tree'
 import { StudyCard } from './study-card'
 
 export type ApprovalState = {
     ids: string[] | undefined
+    reviews?: ReviewState[]
+    rate?: (cardId: string, rating: ReviewRating, requestId: string) => Promise<unknown>
     ready: boolean
     unavailable: boolean
     save?: (cardId: string, approved: boolean) => Promise<unknown>
@@ -24,7 +28,7 @@ export type ApprovalState = {
 }
 const initialScope: StudyScope = { category: [], search: '', status: 'all' }
 
-export function Dashboard({ approvals }: { approvals: ApprovalState }) {
+export function Dashboard({ approvals, importButton, catalogRevision }: { approvals: ApprovalState; importButton?: ReactNode; catalogRevision?: string }) {
     const [scope, setScope] = useState<StudyScope>(initialScope)
     const [page, setPage] = useState(1)
     const [data, setData] = useState<LibraryPage | null>(null)
@@ -40,6 +44,18 @@ export function Dashboard({ approvals }: { approvals: ApprovalState }) {
     const [notice, setNotice] = useState('')
     const [studied, setStudied] = useState<string[]>([])
     const [topicsOpen, setTopicsOpen] = useState(false)
+    const [now, setNow] = useState(0)
+    const [nextDueAt, setNextDueAt] = useState<number | null>(null)
+    const ratingAttempt = useRef<{ cardId: string; rating: ReviewRating; requestId: string } | null>(null)
+    const dueById = new Map(approvals.reviews?.map((r) => [r.cardId, r.dueAt]))
+    useEffect(() => {
+        const initial = setTimeout(() => setNow(Date.now()), 0)
+        const timer = setInterval(() => setNow(Date.now()), 1000)
+        return () => {
+            clearTimeout(initial)
+            clearInterval(timer)
+        }
+    }, [])
     const history = useRef<string[]>([])
     const requestController = useRef<AbortController | null>(null)
     const studyRef = useRef<HTMLDivElement>(null)
@@ -82,7 +98,7 @@ export function Dashboard({ approvals }: { approvals: ApprovalState }) {
             clearTimeout(timer)
             controller.abort()
         }
-    }, [scope, page, retry, approvalFilterKey])
+    }, [scope, page, retry, approvalFilterKey, catalogRevision])
 
     useEffect(() => () => requestController.current?.abort(), [])
 
@@ -103,17 +119,19 @@ export function Dashboard({ approvals }: { approvals: ApprovalState }) {
             selectedId.current = null
         }
         setStudyError(null)
+        setNextDueAt(null)
         setRoundComplete(false)
         setSaveError(null)
         setNotice('')
         history.current = selectedId.current ? [selectedId.current] : []
     }
 
-    async function openQuestion(id?: string, reset = false) {
+    async function openQuestion(id?: string, reset = false, afterRating = false) {
         requestController.current?.abort()
         const controller = new AbortController()
         requestController.current = controller
         setBusy(true)
+        setNextDueAt(null)
         setStudyError(null)
         setSaveError(null)
         setNotice('')
@@ -132,6 +150,7 @@ export function Dashboard({ approvals }: { approvals: ApprovalState }) {
             if (controller.signal.aborted) return
             if (!response.ok) {
                 if (body.code === 'ROUND_COMPLETE') setRoundComplete(true)
+                if (body.code === 'NOT_DUE') setNextDueAt(body.nextDueAt)
                 throw new Error(body.error || 'Could not load this question.')
             }
             history.current = [...new Set([...history.current, body.card.id])].slice(-5000)
@@ -139,7 +158,13 @@ export function Dashboard({ approvals }: { approvals: ApprovalState }) {
             setSelected((previous) => ({ card: body.card, revision: (previous?.revision ?? 0) + 1 }))
             requestAnimationFrame(() => studyRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' }))
         } catch (cause) {
-            if (!controller.signal.aborted) setStudyError(cause instanceof Error ? cause.message : 'Please try again.')
+            if (!controller.signal.aborted) {
+                if (afterRating) {
+                    setSelected(null)
+                    selectedId.current = null
+                }
+                setStudyError(cause instanceof Error ? cause.message : 'Please try again.')
+            }
         } finally {
             if (!controller.signal.aborted) setBusy(false)
         }
@@ -162,6 +187,41 @@ export function Dashboard({ approvals }: { approvals: ApprovalState }) {
                 setNotice(approved ? 'Added. Your agent can now practice this question with you.' : 'Removed. Your agent will no longer ask this question.')
         } catch {
             if (selectedId.current === id) setSaveError('We could not confirm that change. Check your connection and try again.')
+        } finally {
+            clearTimeout(timeout)
+            setSaving(false)
+        }
+    }
+
+    async function rateQuestion(rating: ReviewRating) {
+        if (!selected || !approvals.ready || !approvals.rate || saving) return
+        const id = selected.card.id
+        if (!ratingAttempt.current || ratingAttempt.current.cardId !== id || ratingAttempt.current.rating !== rating) {
+            ratingAttempt.current = { cardId: id, rating, requestId: crypto.randomUUID() }
+        }
+        setSaving(true)
+        setSaveError(null)
+        let timeout: ReturnType<typeof setTimeout> | undefined
+        try {
+            await Promise.race([
+                approvals.rate(id, rating, ratingAttempt.current.requestId),
+                new Promise<never>((_, reject) => {
+                    timeout = setTimeout(() => reject(new Error('Review confirmation timed out')), 12000)
+                })
+            ])
+            ratingAttempt.current = null
+            if (selectedId.current === id) {
+                setRetry((n) => n + 1)
+                await openQuestion(undefined, true, true)
+            }
+        } catch (cause) {
+            if (selectedId.current === id) {
+                if (cause instanceof ConvexError && cause.data && typeof cause.data === 'object' && 'code' in cause.data && cause.data.code === 'NOT_DUE') {
+                    ratingAttempt.current = null
+                    setRetry((n) => n + 1)
+                    await openQuestion(undefined, true, true)
+                } else setSaveError('Your review could not be confirmed. Please retry the same rating; it will only be saved once.')
+            }
         } finally {
             clearTimeout(timeout)
             setSaving(false)
@@ -194,8 +254,9 @@ export function Dashboard({ approvals }: { approvals: ApprovalState }) {
                         </span>
                     </Link>
                     <div className="flex items-center gap-2 text-xs text-muted-foreground">
+                        {importButton}
                         <span className={cn('size-1.5 rounded-full', approvals.ready ? 'bg-primary' : 'bg-amber-500')} />
-                        <span>
+                        <span className="hidden sm:inline">
                             {approvals.ready ? 'Your shared learning library' : approvals.unavailable ? 'Study library' : 'Connecting your practice set'}
                         </span>
                     </div>
@@ -296,7 +357,7 @@ export function Dashboard({ approvals }: { approvals: ApprovalState }) {
                                     error={saveError}
                                     busy={busy}
                                     onApproval={saveApproval}
-                                    onNext={() => openQuestion()}
+                                    onRate={rateQuestion}
                                     onClose={() => {
                                         requestController.current?.abort()
                                         setBusy(false)
@@ -316,10 +377,11 @@ export function Dashboard({ approvals }: { approvals: ApprovalState }) {
                                         </span>
                                         <h2 className="text-xl font-medium tracking-tight sm:text-2xl">Start with a little curiosity.</h2>
                                         <p className="mt-2 max-w-md text-sm leading-6 text-[#53655b]">
-                                            Pick a topic, or open a question below. Add it to agent practice only when you have had a chance to learn it.
+                                            Pick a topic, or open a question below. Reveal the answer, then choose how well you remembered. Your rating sets its
+                                            next review and adds it to agent practice.
                                         </p>
                                         <div className="mt-5 flex flex-wrap gap-x-5 gap-y-2 text-xs text-[#53655b]">
-                                            {['Think it through', 'Reveal the answer', 'Add when ready'].map((step, i) => (
+                                            {['Think it through', 'Reveal the answer', 'Choose your next review'].map((step, i) => (
                                                 <span key={step} className="flex items-center gap-1.5">
                                                     <span className="flex size-4 items-center justify-center rounded-full border border-primary/25 text-[9px]">
                                                         {i + 1}
@@ -343,15 +405,27 @@ export function Dashboard({ approvals }: { approvals: ApprovalState }) {
                             )}
                             {studyError && (
                                 <div ref={studyErrorRef} tabIndex={-1} role="alert" className="mt-3 scroll-mt-4 rounded-xl border bg-card px-4 py-3">
-                                    <p className="text-sm">{studyError}</p>
+                                    <p className="text-sm" role="status">
+                                        {nextDueAt && nextDueAt <= now ? 'A question is ready to review.' : studyError}
+                                    </p>
+                                    {nextDueAt && (
+                                        <p className="mt-2 text-xs text-muted-foreground">
+                                            {nextDueAt > now ? `Next review ${new Date(nextDueAt).toLocaleString()}` : 'Continue whenever you are ready.'}
+                                        </p>
+                                    )}
                                     {roundComplete ? (
                                         <Button variant="outline" className="mt-3" onClick={() => openQuestion(undefined, true)}>
                                             <Shuffle className="size-4" />
                                             Start another round
                                         </Button>
                                     ) : (
-                                        <Button variant="ghost" className="mt-2" onClick={() => openQuestion()}>
-                                            Try again
+                                        <Button
+                                            variant="ghost"
+                                            className="mt-2"
+                                            disabled={!!nextDueAt && nextDueAt > now}
+                                            onClick={() => openQuestion(undefined, true)}
+                                        >
+                                            {nextDueAt ? (nextDueAt <= now ? 'Continue practice' : 'Check due questions') : 'Try again'}
                                         </Button>
                                     )}
                                 </div>
@@ -438,7 +512,8 @@ export function Dashboard({ approvals }: { approvals: ApprovalState }) {
                                     <Search className="size-6 text-muted-foreground" />
                                     <h3 className="font-medium">No questions here yet</h3>
                                     <p className="max-w-sm text-sm leading-6 text-muted-foreground">
-                                        Try a different search or topic. Questions appear in agent practice after you reveal their answer and add them.
+                                        Try a different search or topic. Import a bank to begin. Questions enter agent practice after you reveal and rate them,
+                                        when their next review is due.
                                     </p>
                                     <Button variant="outline" onClick={() => changeScope(initialScope)}>
                                         Clear filters
@@ -451,9 +526,12 @@ export function Dashboard({ approvals }: { approvals: ApprovalState }) {
                                             <li key={question.id}>
                                                 <button
                                                     type="button"
-                                                    disabled={busy || saving}
-                                                    onClick={() => openQuestion(question.id)}
-                                                    className="group/row flex w-full items-center gap-4 px-4 py-4 text-left transition-colors hover:bg-muted/60 focus-visible:bg-muted focus-visible:outline-2 focus-visible:outline-ring disabled:opacity-60 sm:px-5"
+                                                    aria-disabled={busy || saving || !isDue(dueById.get(question.id) ?? question.dueAt, now)}
+                                                    onClick={() => {
+                                                        if (!busy && !saving && isDue(dueById.get(question.id) ?? question.dueAt, now))
+                                                            void openQuestion(question.id)
+                                                    }}
+                                                    className="group/row flex w-full items-center gap-4 px-4 py-4 text-left transition-colors hover:bg-muted/60 focus-visible:bg-muted focus-visible:outline-2 focus-visible:outline-ring aria-disabled:opacity-60 sm:px-5"
                                                 >
                                                     <span
                                                         className={cn(
@@ -469,7 +547,13 @@ export function Dashboard({ approvals }: { approvals: ApprovalState }) {
                                                             {question.question.text}
                                                         </p>
                                                         <p className="mt-1 text-[11px] leading-4 text-muted-foreground">{question.categories?.join(' / ')}</p>
-                                                        <span className="sr-only sm:hidden">{approvedIds.has(question.id) ? 'In practice' : 'Not added'}</span>
+                                                        <span className="text-[11px] text-muted-foreground">
+                                                            {!isDue(dueById.get(question.id) ?? question.dueAt, now)
+                                                                ? `Review ${new Date((dueById.get(question.id) ?? question.dueAt)!).toLocaleString()}`
+                                                                : approvedIds.has(question.id)
+                                                                  ? 'Ready to review'
+                                                                  : 'New question'}
+                                                        </span>
                                                     </div>
                                                     <Badge
                                                         variant="secondary"

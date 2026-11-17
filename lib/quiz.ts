@@ -1,6 +1,6 @@
-import type { Catalog } from './anki-data'
+type RenderedCard = { id: string; deck: string; question: { text: string; imageIds: string[] }; answer: { text: string; imageIds: string[] } }
 
-export function toQuizCard(card: Catalog['cards'][number]) {
+export function toQuizCard(card: RenderedCard) {
     function cleanSide(side: typeof card.question) {
         const text = side.text
             .replace(/^§[ \t]*\n/, '')

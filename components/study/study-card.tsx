@@ -4,8 +4,9 @@ import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent, CardHeader } from '@/components/ui/card'
 import { Dialog, DialogContent, DialogDescription, DialogTitle } from '@/components/ui/dialog'
+import { reviewIntervals, type ReviewRating } from '@/lib/review-schedule'
 import type { LibraryCard } from '@/lib/study'
-import { ArrowLeft, ArrowRight, Check, CheckCheck, Eye, ImageOff, LoaderCircle, Maximize2, RotateCcw, X } from 'lucide-react'
+import { ArrowLeft, Check, CheckCheck, Eye, ImageOff, LoaderCircle, Maximize2, X } from 'lucide-react'
 import { useEffect, useRef, useState } from 'react'
 
 function StudyImage({ imageId, index, side, onZoom }: { imageId: string; index: number; side: string; onZoom: (id: string) => void }) {
@@ -53,7 +54,7 @@ export function StudyCard({
     canSave,
     error,
     onApproval,
-    onNext,
+    onRate,
     onClose,
     onReveal,
     busy
@@ -65,7 +66,7 @@ export function StudyCard({
     error: string | null
     busy: boolean
     onApproval: (approved: boolean) => void
-    onNext: () => void
+    onRate: (rating: ReviewRating) => void
     onClose: () => void
     onReveal: () => void
 }) {
@@ -112,6 +113,9 @@ export function StudyCard({
                             <Check className="size-3" />
                             In agent practice
                         </Badge>
+                        <Button variant="ghost" size="sm" disabled={!canSave || saving || busy} onClick={() => onApproval(false)} className="ml-2 text-xs">
+                            Remove from agent practice
+                        </Button>
                     </div>
                 )}
                 <h2 ref={headingRef} tabIndex={-1} className="max-w-3xl text-xl leading-relaxed font-medium tracking-tight whitespace-pre-wrap sm:text-2xl">
@@ -143,54 +147,49 @@ export function StudyCard({
                     data-testid="study-actions"
                     className="fixed inset-x-0 bottom-0 z-20 space-y-2 border-t bg-background/95 px-4 pt-3 pb-[max(1rem,env(safe-area-inset-bottom))] backdrop-blur-sm lg:static lg:space-y-3 lg:bg-transparent lg:px-0 lg:pt-5 lg:pb-0 lg:backdrop-blur-none"
                 >
-                    <div className="grid grid-cols-[minmax(0,1fr)_auto] items-center gap-2 lg:flex lg:flex-wrap">
-                        {!revealed ? (
-                            <Button
-                                size="lg"
-                                onClick={() => {
-                                    setRevealed(true)
-                                    onReveal()
-                                }}
-                                className="h-12 px-4"
-                            >
-                                <Eye className="size-4" />
-                                Reveal answer
-                            </Button>
-                        ) : (
-                            <Button
-                                size="lg"
-                                variant={approved ? 'outline' : 'default'}
-                                disabled={!canSave || saving}
-                                onClick={() => onApproval(!approved)}
-                                aria-label={saving ? 'Saving…' : approved ? 'Remove from agent practice' : 'Add to practice'}
-                                className="h-12 min-w-0 px-3 lg:px-4"
-                            >
-                                {saving ? (
-                                    <LoaderCircle className="size-4 animate-spin" />
-                                ) : approved ? (
-                                    <RotateCcw className="size-4" />
-                                ) : (
-                                    <Check className="size-4" />
-                                )}
-                                <span className="lg:hidden">{saving ? 'Saving…' : approved ? 'Remove' : 'Add to practice'}</span>
-                                <span className="hidden lg:inline">{saving ? 'Saving…' : approved ? 'Remove from agent practice' : 'Add to practice'}</span>
-                            </Button>
-                        )}
+                    {revealed ? (
+                        <div className="grid grid-cols-4 gap-2" aria-label="Choose your next review" role="group">
+                            {(Object.entries(reviewIntervals) as [ReviewRating, (typeof reviewIntervals)[ReviewRating]][]).map(([rating, option]) => (
+                                <Button
+                                    key={rating}
+                                    variant="outline"
+                                    disabled={!canSave || saving || busy}
+                                    onClick={() => onRate(rating)}
+                                    aria-label={`${option.label}, review in ${option.interval}`}
+                                    className={`h-16 min-w-0 flex-col gap-1 px-1 text-sm ${rating === 'again' ? 'border-rose-200 bg-rose-50 text-rose-800' : rating === 'hard' ? 'border-amber-200 bg-amber-50 text-amber-900' : rating === 'good' ? 'border-emerald-200 bg-emerald-50 text-emerald-900' : 'border-sky-200 bg-sky-50 text-sky-900'}`}
+                                >
+                                    <span className="text-[11px] font-normal">{option.interval}</span>
+                                    <span>{option.label}</span>
+                                </Button>
+                            ))}
+                        </div>
+                    ) : (
                         <Button
                             size="lg"
-                            variant="outline"
                             disabled={busy || saving}
-                            onClick={onNext}
-                            aria-label={revealed ? 'Next question' : 'Skip for now'}
-                            className="h-12 px-4"
+                            onClick={() => {
+                                setRevealed(true)
+                                onReveal()
+                            }}
+                            className="h-12 w-full"
                         >
-                            {busy ? <LoaderCircle className="size-4 animate-spin" /> : <ArrowRight className="size-4" />}
-                            <span className="lg:hidden">{revealed ? 'Next' : 'Skip'}</span>
-                            <span className="hidden lg:inline">{revealed ? 'Next question' : 'Skip for now'}</span>
+                            <Eye className="size-4" />
+                            Reveal answer
                         </Button>
-                    </div>
-                    <p className="text-center text-xs leading-relaxed text-muted-foreground lg:text-left">
-                        {revealed ? 'Add only when it feels familiar. Next never adds it.' : 'Think it through, then reveal. No rush.'}
+                    )}
+                    <p role="status" className="text-center text-xs leading-relaxed text-muted-foreground lg:text-left">
+                        {saving ? (
+                            <span className="inline-flex items-center gap-2">
+                                <LoaderCircle className="size-3 animate-spin" />
+                                Saving your review…
+                            </span>
+                        ) : !canSave ? (
+                            'Practice is not connected yet. Reconnect to save your review.'
+                        ) : revealed ? (
+                            'Your rating saves this question for practice when it is due.'
+                        ) : (
+                            'Think it through, then reveal. No rush.'
+                        )}
                     </p>
                 </div>
             </CardContent>
