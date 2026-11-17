@@ -43,6 +43,7 @@ export function Dashboard({ approvals }: { approvals: ApprovalState }) {
     const history = useRef<string[]>([])
     const requestController = useRef<AbortController | null>(null)
     const studyRef = useRef<HTMLDivElement>(null)
+    const studyErrorRef = useRef<HTMLDivElement>(null)
     const selectedId = useRef<string | null>(null)
     const approvedIds = new Set(approvals.ids ?? [])
     const approvedCount = data?.catalogCardIds.filter((id) => approvedIds.has(id)).length
@@ -84,6 +85,12 @@ export function Dashboard({ approvals }: { approvals: ApprovalState }) {
     }, [scope, page, retry, approvalFilterKey])
 
     useEffect(() => () => requestController.current?.abort(), [])
+
+    useEffect(() => {
+        if (!studyError) return
+        studyErrorRef.current?.focus({ preventScroll: true })
+        studyErrorRef.current?.scrollIntoView({ block: 'start' })
+    }, [studyError])
 
     function changeScope(next: StudyScope) {
         const topicChanged = scope.collection !== next.collection || JSON.stringify(scope.category) !== JSON.stringify(next.category)
@@ -176,7 +183,7 @@ export function Dashboard({ approvals }: { approvals: ApprovalState }) {
 
     return (
         <div className="min-h-screen bg-background">
-            <header className="border-b bg-card/80">
+            <header className={cn('border-b bg-card/80', selected && 'hidden lg:block')}>
                 <div className="mx-auto flex h-[76px] max-w-[1440px] items-center justify-between px-5 sm:px-8 lg:px-12">
                     <Link href="/" className="flex items-center gap-2.5 rounded-lg focus-visible:ring-2 focus-visible:ring-ring" aria-label="Retenio home">
                         <span className="flex size-9 items-center justify-center rounded-xl bg-primary text-primary-foreground">
@@ -194,8 +201,14 @@ export function Dashboard({ approvals }: { approvals: ApprovalState }) {
                     </div>
                 </div>
             </header>
-            <main className="mx-auto max-w-[1440px] px-5 py-8 sm:px-8 sm:py-10 lg:px-12">
-                <section className="mb-8 flex flex-col justify-between gap-6 sm:flex-row sm:items-end">
+            <main
+                className={cn(
+                    'mx-auto max-w-[1440px] px-5 py-8 sm:px-8 sm:py-10 lg:px-12',
+                    selected &&
+                        'px-3 pt-3 pb-[calc(11rem+env(safe-area-inset-bottom))] sm:px-5 sm:pt-5 sm:pb-[calc(11rem+env(safe-area-inset-bottom))] lg:px-12 lg:py-10'
+                )}
+            >
+                <section className={cn('mb-8 flex flex-col justify-between gap-6 sm:flex-row sm:items-end', selected && 'hidden lg:flex')}>
                     <div>
                         <p className="mb-3 text-[10px] font-semibold tracking-[0.2em] text-primary uppercase">A little practice, every day</p>
                         <h1 className="text-3xl font-medium tracking-[-0.045em] sm:text-[42px] sm:leading-tight">Make it familiar.</h1>
@@ -213,7 +226,7 @@ export function Dashboard({ approvals }: { approvals: ApprovalState }) {
                         Study a random question
                     </Button>
                 </section>
-                <div className="mb-8 grid grid-cols-3 gap-2 sm:gap-4">
+                <div className={cn('mb-8 grid grid-cols-3 gap-2 sm:gap-4', selected && 'hidden lg:grid')}>
                     {[
                         { label: 'Questions to explore', value: data?.totalQuestions.toLocaleString() ?? '—', icon: Layers3 },
                         { label: 'In agent practice', value: approvals.ids && approvedCount !== undefined ? String(approvedCount) : '—', icon: Sparkles },
@@ -265,7 +278,7 @@ export function Dashboard({ approvals }: { approvals: ApprovalState }) {
                         <p className="mt-5 border-t px-2 pt-4 text-[11px] leading-5 text-muted-foreground">Choose any level to study everything within it.</p>
                     </aside>
                     <div className="min-w-0 space-y-7">
-                        <div className="flex items-center gap-2 lg:hidden">
+                        <div className={cn('flex items-center gap-2 lg:hidden', selected && 'hidden')}>
                             <Button variant="outline" className="h-10" disabled={!data} onClick={() => setTopicsOpen(true)}>
                                 <Menu className="size-4" />
                                 Topics
@@ -329,7 +342,7 @@ export function Dashboard({ approvals }: { approvals: ApprovalState }) {
                                 </p>
                             )}
                             {studyError && (
-                                <div role="alert" className="mt-3 rounded-xl border bg-card px-4 py-3">
+                                <div ref={studyErrorRef} tabIndex={-1} role="alert" className="mt-3 scroll-mt-4 rounded-xl border bg-card px-4 py-3">
                                     <p className="text-sm">{studyError}</p>
                                     {roundComplete ? (
                                         <Button variant="outline" className="mt-3" onClick={() => openQuestion(undefined, true)}>
@@ -344,7 +357,7 @@ export function Dashboard({ approvals }: { approvals: ApprovalState }) {
                                 </div>
                             )}
                         </div>
-                        <section aria-label="Question library" className="min-w-0">
+                        <section aria-label="Question library" className={cn('min-w-0', selected && 'hidden lg:block')}>
                             <div className="mb-4 flex flex-wrap items-end justify-between gap-3">
                                 <div>
                                     <p className="mb-1 text-[10px] font-semibold tracking-[0.16em] text-muted-foreground uppercase">Question library</p>
@@ -506,7 +519,7 @@ export function Dashboard({ approvals }: { approvals: ApprovalState }) {
                         </section>
                     </div>
                 </div>
-                <footer className="mt-12 border-t pt-5 text-center text-[11px] text-muted-foreground">
+                <footer className={cn('mt-12 border-t pt-5 text-center text-[11px] text-muted-foreground', selected && 'hidden lg:block')}>
                     A space to learn at your own pace. No scores. No rush.
                 </footer>
             </main>
