@@ -1,8 +1,11 @@
 import { createHash, randomInt } from 'node:crypto'
 import { readFile } from 'node:fs/promises'
-import path from 'node:path'
 import { z } from 'zod'
-import { loadCatalog, type Catalog } from './anki-data'
+import type { Catalog } from './anki-data'
+import { getApprovedCardIds } from './approvals'
+import { getCatalog } from './catalog'
+import { toQuizCard } from './quiz'
+export { toQuizCard } from './quiz'
 
 export const randomQuestionsSchema = z.object({
     count: z.number().int().min(1).max(10).describe('Number of distinct random cards to return (1–10).'),
@@ -14,19 +17,8 @@ export const imageInputSchema = z.object({ imageId: z.string().regex(/^[a-f0-9]{
 type Content = { type: 'text'; text: string } | { type: 'image'; data: string; mimeType: string }
 type ToolResult = { content: Content[]; isError?: boolean }
 
-const dataDirectory = path.join(process.cwd(), 'data')
 // Leave room for JSON metadata and the MCP envelope within a serverless response.
 const maxImageResponseBytes = 3_000_000
-let catalogPromise: Promise<Catalog> | undefined
-
-async function getCatalog() {
-    catalogPromise ??= loadCatalog(dataDirectory).catch((error) => {
-        catalogPromise = undefined
-        throw error
-    })
-    return catalogPromise
-}
-
 export function sampleCards<T extends { id: string }>(cards: T[], count: number, excludeCardIds: string[] = []): T[] {
     const excluded = new Set(excludeCardIds)
     const available = cards.filter((card) => !excluded.has(card.id))
@@ -45,31 +37,6 @@ function toolError(message: string): ToolResult {
     return { isError: true, content: [{ type: 'text', text: message }] }
 }
 
-export function toQuizCard(card: Catalog['cards'][number]) {
-    function cleanSide(side: typeof card.question) {
-        const text = side.text
-            .replace(/^§[ \t]*\n/, '')
-            .replace(/\[Image: ([a-f0-9]{64})\]/g, (marker, id: string) => (side.imageIds.includes(id) ? '' : marker))
-            .replace(/\n(?:[ \t]*\n)+/g, '\n\n')
-            .trim()
-        return { text, ...(side.imageIds.length > 0 && { imageIds: side.imageIds }) }
-    }
-    const question = cleanSide(card.question)
-    const answer = cleanSide(card.answer)
-    // Anki's FrontSide commonly repeats the question before the answer.
-    if (question.text && answer.text.startsWith(`${question.text}\n`)) {
-        answer.text = answer.text.slice(question.text.length).trim()
-    }
-    const deckParts = card.deck
-        .split('::')
-        .map((part) => part.trim())
-        .filter(Boolean)
-    const categories = (deckParts.length > 1 ? deckParts.slice(1) : deckParts)
-        .map((part) => part.replace(/^\d+(?:\.\d+)*(?:\s*-\s*|\s+)/, '').trim())
-        .filter(Boolean)
-    return { id: card.id, ...(categories.length > 0 && { categories }), question, answer }
-}
-
 async function imageContent(catalog: Catalog, imageId: string): Promise<Content[]> {
     const image = catalog.media[imageId]
     if (!image) throw new Error('Unknown image ID')
@@ -84,44 +51,47 @@ async function imageContent(catalog: Catalog, imageId: string): Promise<Content[
     ]
 }
 
-export async function getRandomQuestions(input: z.input<typeof randomQuestionsSchema>): Promise<ToolResult> {
-    const parsed = randomQuestionsSchema.safeParse(input)
-    if (!parsed.success) return toolError('Provide an integer count from 1 to 10 and optional excludeCardIds.')
-    try {
-        const catalog = await getCatalog()
-        const { count, excludeCardIds } = parsed.data
-        const availableCount = catalog.cards.filter((card) => !excludeCardIds.includes(card.id)).length
-        if (count > availableCount) {
-            return toolError(`Only ${availableCount} cards remain after exclusions. Request fewer cards or reset excludeCardIds.`)
-        }
-        const cards = sampleCards(catalog.cards, count, excludeCardIds)
-        return {
-            content: [
-                {
-                    type: 'text',
-                    text: JSON.stringify({
-                        cards: cards.map(toQuizCard)
-                    })
-                }
-            ]
-        }
-    } catch (error) {
-        console.error('Unable to load Anki cards:', error)
-        return toolError(
-            'Unable to load the Anki collections. Verify data/<collection>/collection.json, questions/, and images/ are included in the deployment.'
-        )
+export function createAnkiTools(readApprovedIds: () => Promise<string[]> = getApprovedCardIds) {
+    async function approvedCatalog() {
+        const [catalog, ids] = await Promise.all([getCatalog(), readApprovedIds()])
+        const approved = new Set(ids)
+        return { catalog, cards: catalog.cards.filter((card) => approved.has(card.id)) }
     }
+
+    async function getRandomQuestions(input: z.input<typeof randomQuestionsSchema>): Promise<ToolResult> {
+        const parsed = randomQuestionsSchema.safeParse(input)
+        if (!parsed.success) return toolError('Provide an integer count from 1 to 10 and optional excludeCardIds.')
+        try {
+            const { cards: approved } = await approvedCatalog()
+            if (!approved.length)
+                return toolError('No approved questions yet. Study a question on the website, reveal its answer, then approve it for agent practice.')
+            const { count, excludeCardIds } = parsed.data
+            const excluded = new Set(excludeCardIds)
+            const availableCount = approved.filter((card) => !excluded.has(card.id)).length
+            if (count > availableCount)
+                return toolError(`Only ${availableCount} approved questions remain after exclusions. Request fewer questions or reset excludeCardIds.`)
+            return { content: [{ type: 'text', text: JSON.stringify({ cards: sampleCards(approved, count, excludeCardIds).map(toQuizCard) }) }] }
+        } catch (error) {
+            console.error('Unable to load approved Anki cards:', error)
+            return toolError('Unable to verify approved questions right now. Try again later; unapproved questions will not be returned.')
+        }
+    }
+
+    async function getAnkiImage(input: z.input<typeof imageInputSchema>): Promise<ToolResult> {
+        const parsed = imageInputSchema.safeParse(input)
+        if (!parsed.success) return toolError('Provide an image ID returned by get_random_questions.')
+        try {
+            const { catalog, cards } = await approvedCatalog()
+            const { imageId } = parsed.data
+            const eligible = cards.some((card) => card.question.imageIds.includes(imageId) || card.answer.imageIds.includes(imageId))
+            if (!eligible) return toolError('Image is not available from an approved question. Use an image ID from get_random_questions.')
+            return { content: await imageContent(catalog, imageId) }
+        } catch (error) {
+            console.error('Unable to load approved Anki image:', error)
+            return toolError('Unable to verify or load this approved image right now. Try again later.')
+        }
+    }
+    return { getRandomQuestions, getAnkiImage }
 }
 
-export async function getAnkiImage(input: z.input<typeof imageInputSchema>): Promise<ToolResult> {
-    const parsed = imageInputSchema.safeParse(input)
-    if (!parsed.success) return toolError('Provide an image ID returned by get_random_questions.')
-    try {
-        const catalog = await getCatalog()
-        if (!catalog.media[parsed.data.imageId]) return toolError('Image not found. Use an image ID returned by get_random_questions.')
-        return { content: await imageContent(catalog, parsed.data.imageId) }
-    } catch (error) {
-        console.error('Unable to load Anki image:', error)
-        return toolError('Unable to load this image. Verify its media file is included in the deployment.')
-    }
-}
+export const { getRandomQuestions, getAnkiImage } = createAnkiTools()

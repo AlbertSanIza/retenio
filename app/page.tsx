@@ -1,3 +1,11 @@
+import { ConnectedDashboard } from '@/components/study/connected-dashboard'
+import { Dashboard } from '@/components/study/dashboard'
+import { Suspense } from 'react'
+
 export default function HomePage() {
-    return <div className="fixed inset-0 flex items-center justify-center text-7xl">Retenio</div>
+    return (
+        <Suspense fallback={<Dashboard approvals={{ ids: undefined, ready: false, unavailable: false }} />}>
+            <ConnectedDashboard />
+        </Suspense>
+    )
 }

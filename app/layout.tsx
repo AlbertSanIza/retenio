@@ -7,7 +7,8 @@ const geistSans = Geist({ variable: '--font-geist-sans', subsets: ['latin'] })
 const geistMono = Geist_Mono({ variable: '--font-geist-mono', subsets: ['latin'] })
 
 export const metadata: Metadata = {
-    title: 'Retenio'
+    title: 'Retenio — Your learning space',
+    description: 'Explore your flashcards, study at your own pace, and build a question library for agent practice.'
 }
 
 export default function RootLayout({ children }: LayoutProps<'/'>) {

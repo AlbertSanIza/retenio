@@ -3,8 +3,10 @@ import { createHash } from 'node:crypto'
 import { mkdir, mkdtemp, readFile, rm, writeFile } from 'node:fs/promises'
 import { tmpdir } from 'node:os'
 import path from 'node:path'
-import { getAnkiImage, getRandomQuestions, sampleCards, toQuizCard } from './anki'
+import { createAnkiTools, sampleCards, toQuizCard } from './anki'
 import { loadCatalog } from './anki-data'
+
+const { getAnkiImage, getRandomQuestions } = createAnkiTools(async () => (await loadCatalog('data')).cards.map((card) => card.id))
 
 describe('Anki sampling', () => {
     test('samples without repeats, respects exclusions, and preserves the source', () => {
@@ -157,5 +159,55 @@ describe('Collection file loading', () => {
         } finally {
             await rm(root, { recursive: true, force: true })
         }
+    })
+})
+
+describe('MCP approval gate', () => {
+    test('samples only approved existing cards and applies exclusions afterward', async () => {
+        const catalog = await loadCatalog('data')
+        const card = catalog.cards[0]
+        const tools = createAnkiTools(async () => [card.id, 'deleted-collection:999'])
+        const result = await tools.getRandomQuestions({ count: 1 })
+        const content = result.content[0]
+        if (content.type !== 'text') throw new Error('Expected text')
+        expect(JSON.parse(content.text).cards.map((item: { id: string }) => item.id)).toEqual([card.id])
+        expect((await tools.getRandomQuestions({ count: 2 })).isError).toBe(true)
+        expect((await tools.getRandomQuestions({ count: 1, excludeCardIds: [card.id] })).isError).toBe(true)
+    })
+
+    test('revocation takes effect on the next question and image call', async () => {
+        const catalog = await loadCatalog('data')
+        const card = catalog.cards[0]
+        let approved = [card.id]
+        const tools = createAnkiTools(async () => approved)
+        const imageId = card.answer.imageIds[0]
+        expect((await tools.getAnkiImage({ imageId })).isError).toBeUndefined()
+        approved = []
+        const result = await tools.getRandomQuestions({ count: 1 })
+        expect(result.isError).toBe(true)
+        expect(result.content[0]).toEqual({ type: 'text', text: expect.stringContaining('No approved questions yet') })
+        expect((await tools.getAnkiImage({ imageId })).isError).toBe(true)
+    })
+
+    test('allows shared images only while at least one referencing card is approved', async () => {
+        const catalog = await loadCatalog('data')
+        const byImage = new Map<string, string[]>()
+        for (const card of catalog.cards)
+            for (const id of new Set([...card.question.imageIds, ...card.answer.imageIds])) {
+                byImage.set(id, [...(byImage.get(id) ?? []), card.id])
+            }
+        const [imageId, cardIds] = [...byImage].find(([, ids]) => ids.length > 1)!
+        const tools = createAnkiTools(async () => [cardIds[1]])
+        expect((await tools.getAnkiImage({ imageId })).isError).toBeUndefined()
+        const privateImage = [...byImage].find(([, ids]) => !ids.includes(cardIds[1]))![0]
+        expect((await tools.getAnkiImage({ imageId: privateImage })).isError).toBe(true)
+    })
+
+    test('database failures never fall back to the full catalog', async () => {
+        const tools = createAnkiTools(async () => {
+            throw new Error('Test database unavailable')
+        })
+        expect((await tools.getRandomQuestions({ count: 1 })).isError).toBe(true)
+        expect((await tools.getAnkiImage({ imageId: '0'.repeat(64) })).isError).toBe(true)
     })
 })

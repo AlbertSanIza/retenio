@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Local Convex state and browser test output
+/.convex/
+/test-results/
+/playwright-report/
+!.env.example
