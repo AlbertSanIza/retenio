@@ -9,3 +9,5 @@ export const card = v.object({
     source: v.object({ cardId: v.string(), noteId: v.string(), noteGuid: v.string(), templateOrdinal: v.number() })
 })
 export const rating = v.union(v.literal('again'), v.literal('hard'), v.literal('good'), v.literal('easy'))
+
+export const reportReason = v.union(v.literal('confusing'), v.literal('answer'), v.literal('image'))

@@ -8,13 +8,21 @@ import { isDue, reviewIntervals, type ReviewRating } from '@/lib/review-schedule
 import { useMutation, usePaginatedQuery, useQuery } from 'convex/react'
 import { ConvexError } from 'convex/values'
 import { ArrowLeft, ArrowRight, Check, Clock3, MessageCircle } from 'lucide-react'
-import { useEffect, useState } from 'react'
+import { useEffect, useState, type ReactNode } from 'react'
 import { StudyCard } from './study-card'
 
 function when(timestamp: number) {
     return new Date(timestamp).toLocaleString(undefined, { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' })
 }
-export function AgentSessions({ canSave, onStudying }: { canSave: boolean; onStudying: (studying: boolean) => void }) {
+export function AgentSessions({
+    canSave,
+    onStudying,
+    reportQuestion
+}: {
+    canSave: boolean
+    onStudying: (studying: boolean) => void
+    reportQuestion?: (cardId: string) => ReactNode
+}) {
     const { results, status, loadMore } = usePaginatedQuery(api.sessions.list, {}, { initialNumItems: 6 })
     const [sessionId, setSessionId] = useState<Id<'agentSessions'> | null>(null)
     const session = useQuery(api.sessions.get, sessionId ? { sessionId } : 'skip')
@@ -81,6 +89,7 @@ export function AgentSessions({ canSave, onStudying }: { canSave: boolean; onStu
                 <StudyCard
                     key={`${sessionId}:${entry.card.id}`}
                     card={entry.card}
+                    reportAction={reportQuestion?.(entry.card.id)}
                     approved={entry.approved}
                     saving={saving}
                     busy={false}

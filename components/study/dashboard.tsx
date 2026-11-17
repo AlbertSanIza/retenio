@@ -32,14 +32,18 @@ export function Dashboard({
     approvals,
     importButton,
     catalogRevision,
-    recentPractice
+    recentPractice,
+    reportQuestion,
+    reports
 }: {
     approvals: ApprovalState
     importButton?: ReactNode
     catalogRevision?: string
+    reports?: ReactNode
+    reportQuestion?: (cardId: string) => ReactNode
     recentPractice?: (onStudying: (studying: boolean) => void) => ReactNode
 }) {
-    const [view, setView] = useState<'library' | 'sessions'>('library')
+    const [view, setView] = useState<'library' | 'sessions' | 'reports'>('library')
     const [sessionStudying, setSessionStudying] = useState(false)
     const [scope, setScope] = useState<StudyScope>(initialScope)
     const [page, setPage] = useState(1)
@@ -248,7 +252,7 @@ export function Dashboard({
 
     return (
         <div className="min-h-screen bg-background">
-            <header className={cn('border-b bg-card/80', ((view === 'library' && selected) || sessionStudying) && 'hidden lg:block')}>
+            <header className={cn('border-b bg-card/80', ((view === 'library' && selected) || (view === 'sessions' && sessionStudying)) && 'hidden lg:block')}>
                 <div className="mx-auto flex h-[76px] max-w-[1440px] items-center justify-between px-5 sm:px-8 lg:px-12">
                     <Link href="/" className="flex items-center gap-2.5 rounded-lg focus-visible:ring-2 focus-visible:ring-ring" aria-label="Retenio home">
                         <span className="flex size-9 items-center justify-center rounded-xl bg-primary text-primary-foreground">
@@ -267,17 +271,39 @@ export function Dashboard({
                     </div>
                 </div>
                 {recentPractice && (
-                    <nav aria-label="Practice views" className="mx-auto flex max-w-[1440px] gap-2 px-5 pb-4 sm:px-8 lg:px-12">
-                        <Button variant={view === 'library' ? 'default' : 'ghost'} aria-pressed={view === 'library'} onClick={() => setView('library')}>
+                    <nav aria-label="Practice views" className="mx-auto flex max-w-[1440px] gap-1 overflow-x-auto px-3 pb-4 sm:px-8 lg:px-12">
+                        <Button
+                            className="h-11 shrink-0 px-3"
+                            variant={view === 'library' ? 'default' : 'ghost'}
+                            aria-pressed={view === 'library'}
+                            onClick={() => setView('library')}
+                        >
                             Library
                         </Button>
-                        <Button variant={view === 'sessions' ? 'default' : 'ghost'} aria-pressed={view === 'sessions'} onClick={() => setView('sessions')}>
+                        <Button
+                            className="h-11 shrink-0 px-3"
+                            variant={view === 'sessions' ? 'default' : 'ghost'}
+                            aria-pressed={view === 'sessions'}
+                            onClick={() => setView('sessions')}
+                        >
                             Agent sessions
                         </Button>
+                        {reports && (
+                            <Button
+                                className="h-11 shrink-0 px-3"
+                                variant={view === 'reports' ? 'default' : 'ghost'}
+                                aria-pressed={view === 'reports'}
+                                onClick={() => setView('reports')}
+                            >
+                                Card reports
+                            </Button>
+                        )}
                     </nav>
                 )}
             </header>
-            {view === 'sessions' && recentPractice ? (
+            {view === 'reports' && reports ? (
+                <main className="px-3 py-4 sm:px-8 sm:py-8">{reports}</main>
+            ) : view === 'sessions' && recentPractice ? (
                 <main className="mx-auto max-w-[1440px] px-3 py-4 sm:px-8 sm:py-8">{recentPractice(setSessionStudying)}</main>
             ) : (
                 <main
@@ -371,6 +397,7 @@ export function Dashboard({
                                     <StudyCard
                                         key={`${selected.card.id}:${selected.revision}`}
                                         card={selected.card}
+                                        reportAction={reportQuestion?.(selected.card.id)}
                                         approved={approvedIds.has(selected.card.id)}
                                         saving={saving}
                                         canSave={approvals.ready}

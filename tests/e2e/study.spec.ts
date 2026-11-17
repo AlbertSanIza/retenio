@@ -1,5 +1,6 @@
 import { expect, test, type APIRequestContext } from '@playwright/test'
 import { ConvexHttpClient } from 'convex/browser'
+import type { FunctionReturnType } from 'convex/server'
 import { api } from '../../convex/_generated/api'
 import { readPackage } from '../../lib/import/package'
 import { fixturePackage } from '../../lib/import/test-package'
@@ -24,6 +25,19 @@ async function mcp(request: APIRequestContext, name: string, args: Record<string
             .find((line) => line.startsWith('data: '))
             ?.slice(6) ?? text
     ).result
+}
+async function resolveFixtureReport(cardId: string) {
+    let cursor: string | null = null
+    do {
+        const result: FunctionReturnType<typeof api.reports.list> = await convex.query(api.reports.list, { paginationOpts: { cursor, numItems: 20 } })
+        const report = result.page.find((r) => r.cardId === cardId)
+        if (report) {
+            await convex.mutation(api.reports.resolve, { id: report._id })
+            return
+        }
+        if (result.isDone) return
+        cursor = result.continueCursor
+    } while (cursor)
 }
 test.beforeAll(async () => {
     const fixture = await fixturePackage(),
@@ -288,6 +302,11 @@ test('MCP sessions persist and share ratings with the mobile history', async ({ 
                     .evaluate((img) => (img as HTMLImageElement).naturalWidth)
             )
             .toBeGreaterThan(0)
+        await page.getByRole('button', { name: 'Something’s off' }).click()
+        await page.getByLabel('Note (optional)').fill('Reported from session history')
+        await page.getByRole('button', { name: 'Save report', exact: true }).click()
+        await expect(page.getByText('Report saved.', { exact: false })).toBeVisible()
+        await page.getByRole('button', { name: 'Keep studying' }).click()
         const rated = JSON.parse((await mcp(request, 'rate_question', { sessionId: batch.sessionId, cardId: ids[0], rating: 'hard' })).content[0].text)
         expect(rated.rating).toBe('hard')
         await expect(page.getByText(/Rated Hard · Scheduled/)).toBeVisible()
@@ -313,6 +332,54 @@ test('MCP sessions persist and share ratings with the mobile history', async ({ 
         expect(state!.entries.map((e) => e.rating).sort()).toEqual(['good', 'hard'])
         expect(await page.evaluate(() => document.documentElement.scrollWidth)).toBeLessThanOrEqual(390)
     } finally {
-        for (const id of ids) await convex.mutation(api.approvals.setApproval, { cardId: id, approved: false })
+        for (const id of ids) {
+            await convex.mutation(api.approvals.setApproval, { cardId: id, approved: false })
+            await resolveFixtureReport(id)
+        }
+    }
+})
+
+test('mobile card reports persist, resolve, and leave study content and schedules untouched', async ({ page }) => {
+    const fixture = await fixturePackage(),
+        plan = await readPackage(fixture.file, fixture.SQL),
+        reportKey = `${key}-reports`
+    await uploadBank({ client: convex, file: fixture.file, plan, key: reportKey, name: reportKey, signal: new AbortController().signal, onProgress: () => {} })
+    try {
+        await page.setViewportSize({ width: 390, height: 844 })
+        await page.goto('/')
+        await page.getByRole('button', { name: 'Topics', exact: true }).click()
+        await page.getByRole('dialog').getByRole('button', { name: reportKey, exact: true }).click()
+        await page.getByRole('button', { name: 'Study a random question' }).click()
+        await expect(page.getByRole('button', { name: 'Something’s off' })).toHaveCount(0)
+        await page.getByRole('button', { name: 'Reveal answer' }).click()
+        await page.getByRole('button', { name: 'Something’s off' }).click()
+        await page.getByLabel('What needs a look?').selectOption('image')
+        await page.getByLabel('Note (optional)').fill(`Diagram needs a look ${reportKey}`)
+        await page.getByRole('button', { name: 'Save report', exact: true }).click()
+        await expect(page.getByText('Report saved.', { exact: false })).toBeVisible()
+        await page.getByRole('button', { name: 'Keep studying' }).click()
+        await page.getByRole('button', { name: 'Something’s off' }).click()
+        await page.getByRole('button', { name: 'Save report', exact: true }).click()
+        await expect(page.getByText('This question already has an open report.', { exact: false })).toBeVisible()
+        await page.getByRole('button', { name: 'Keep studying' }).click()
+        await expect(page.getByRole('region', { name: 'Answer', exact: true })).toBeVisible()
+        await expect(page.getByRole('button', { name: 'Good, review in 10 min' })).toBeEnabled()
+        await page.getByRole('button', { name: 'Back to library' }).click()
+        await page.getByRole('button', { name: 'Card reports', exact: true }).click()
+        const report = page.getByRole('listitem').filter({ hasText: `Diagram needs a look ${reportKey}` })
+        await expect(report).toBeVisible()
+        await page.reload()
+        await page.getByRole('button', { name: 'Card reports', exact: true }).click()
+        await expect(report).toBeVisible()
+        expect(await page.evaluate(() => document.documentElement.scrollWidth)).toBeLessThanOrEqual(390)
+        await expect(page.getByRole('button', { name: 'Card reports', exact: true })).toHaveAttribute('aria-pressed', 'true')
+        await page.screenshot({ path: 'test-results/card-reports-mobile.png', fullPage: true, animations: 'disabled' })
+        await report.getByRole('button', { name: 'Mark resolved' }).click()
+        await expect(report).toHaveCount(0)
+        await expect(page.getByRole('heading', { name: 'Card reports', exact: true })).toBeFocused()
+        const reviews = await convex.query(api.reviews.page, { paginationOpts: { numItems: 500, cursor: null } })
+        expect(reviews.page.some((r) => r.cardId === `${reportKey}:1`)).toBe(false)
+    } finally {
+        await resolveFixtureReport(`${reportKey}:1`)
     }
 })

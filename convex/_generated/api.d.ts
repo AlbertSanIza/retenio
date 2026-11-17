@@ -15,6 +15,7 @@ import type * as imports from "../imports.js";
 import type * as library from "../library.js";
 import type * as maintenance from "../maintenance.js";
 import type * as media from "../media.js";
+import type * as reports from "../reports.js";
 import type * as reviews from "../reviews.js";
 import type * as sessions from "../sessions.js";
 
@@ -32,6 +33,7 @@ declare const fullApi: ApiFromModules<{
   library: typeof library;
   maintenance: typeof maintenance;
   media: typeof media;
+  reports: typeof reports;
   reviews: typeof reviews;
   sessions: typeof sessions;
 }>;

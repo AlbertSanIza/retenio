@@ -7,7 +7,7 @@ import { Dialog, DialogContent, DialogDescription, DialogTitle } from '@/compone
 import { reviewIntervals, type ReviewRating } from '@/lib/review-schedule'
 import type { LibraryCard } from '@/lib/study'
 import { ArrowLeft, Check, CheckCheck, Eye, ImageOff, LoaderCircle, Maximize2, X } from 'lucide-react'
-import { useEffect, useRef, useState } from 'react'
+import { useEffect, useRef, useState, type ReactNode } from 'react'
 
 function StudyImage({ imageId, index, side, onZoom }: { imageId: string; index: number; side: string; onZoom: (id: string) => void }) {
     const [failed, setFailed] = useState(false)
@@ -59,6 +59,7 @@ export function StudyCard({
     onReveal,
     busy,
     ratingNotice,
+    reportAction,
     backLabel = 'Back to library',
     backText = 'Library'
 }: {
@@ -69,6 +70,7 @@ export function StudyCard({
     error: string | null
     busy: boolean
     onRemove?: () => void
+    reportAction?: ReactNode
     ratingNotice?: string
     backLabel?: string
     backText?: string
@@ -144,6 +146,7 @@ export function StudyCard({
                         {card.answer.imageIds?.map((id, index) => (
                             <StudyImage key={id} imageId={id} index={index} side="Answer" onZoom={setZoomed} />
                         ))}
+                        {reportAction}
                     </section>
                 )}
                 {error && (

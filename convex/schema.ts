@@ -1,8 +1,19 @@
 import { defineSchema, defineTable } from 'convex/server'
 import { v } from 'convex/values'
-import { card, rating } from './cardFields'
+import { card, rating, reportReason } from './cardFields'
 
 export default defineSchema({
+    reports: defineTable({
+        cardId: v.string(),
+        question: v.string(),
+        categories: v.array(v.string()),
+        reason: reportReason,
+        note: v.string(),
+        resolved: v.boolean(),
+        updatedAt: v.number()
+    })
+        .index('by_card', ['cardId'])
+        .index('by_resolved', ['resolved', 'updatedAt']),
     agentSessions: defineTable({ requestId: v.string(), createdAt: v.number(), expiresAt: v.number(), count: v.number(), reviewedCount: v.number() })
         .index('by_request', ['requestId'])
         .index('by_expiry', ['expiresAt']),
