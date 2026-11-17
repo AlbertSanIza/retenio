@@ -46,6 +46,6 @@ next-env.d.ts
 /playwright-report/
 !.env.example
 
-# Optional local exports; deployed banks are stored in Convex
+# Question banks are stored in Convex, never committed
 /data/
 *.apkg

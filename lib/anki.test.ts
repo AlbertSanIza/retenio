@@ -1,6 +1,6 @@
 import { describe, expect, test } from 'bun:test'
 import { createHash } from 'node:crypto'
-import { createAnkiTools, sampleCards, toQuizCard } from './anki'
+import { createAnkiTools, sampleCards } from './anki'
 import type { BankCard } from './bank-types'
 import type { ReviewState } from './review-schedule'
 const bytes = Buffer.from('fixture image'),
@@ -101,15 +101,5 @@ describe('MCP practice and due gates', () => {
             ).isError
         ).toBe(true)
         expect((await createAnkiTools({ ...f.dependencies, fetch: async () => new Response('wrong') }).getAnkiImage({ imageId: hash })).isError).toBe(true)
-    })
-    test('legacy text cleanup keeps meaningful text and categories', () => {
-        expect(
-            toQuizCard({
-                id: 'bank:1',
-                deck: 'Root::2 Topic::2.1 - Leaf',
-                question: { text: '§\nQuestion?', imageIds: [] },
-                answer: { text: `Question?\n\nAnswer\n\n[Image: ${hash}]`, imageIds: [hash] }
-            })
-        ).toEqual({ id: 'bank:1', categories: ['Topic', 'Leaf'], question: { text: 'Question?' }, answer: { text: 'Answer', imageIds: [hash] } })
     })
 })

@@ -4,7 +4,6 @@ import { getReviewStates } from './approvals'
 import type { BankCard } from './bank-types'
 import { getCatalog, getStoredImage } from './catalog'
 import { isDue, type ReviewState } from './review-schedule'
-export { toQuizCard } from './quiz'
 
 export const randomQuestionsSchema = z.object({
     count: z.number().int().min(1).max(10).describe('Number of distinct random cards to return (1–10).'),

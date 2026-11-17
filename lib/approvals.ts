@@ -13,6 +13,3 @@ export async function getReviewStates(): Promise<ReviewState[]> {
         cursor = page.continueCursor
     }
 }
-export async function getApprovedCardIds() {
-    return (await getReviewStates()).filter((row) => row.approved).map((row) => row.cardId)
-}

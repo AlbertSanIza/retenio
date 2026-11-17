@@ -1,8 +1,8 @@
-import type { QuizCard } from './quiz'
+import type { BankCard } from './bank-types'
 
 export type CategoryNode = { name: string; path: string[]; count: number; children: CategoryNode[] }
 export type CollectionTree = { id: string; name: string; count: number; categories: CategoryNode[] }
-export type LibraryCard = QuizCard & { collectionId: string; dueAt?: number }
+export type LibraryCard = Omit<BankCard, 'source'> & { dueAt?: number }
 export type StudyScope = { collection?: string; category: string[]; search: string; status: 'all' | 'new' | 'approved' }
 export type LibraryPage = {
     questions: Array<Pick<LibraryCard, 'id' | 'collectionId' | 'categories' | 'question' | 'dueAt'>>

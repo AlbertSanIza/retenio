@@ -53,7 +53,7 @@ export function StudyCard({
     saving,
     canSave,
     error,
-    onApproval,
+    onRemove,
     onRate,
     onClose,
     onReveal,
@@ -65,7 +65,7 @@ export function StudyCard({
     canSave: boolean
     error: string | null
     busy: boolean
-    onApproval: (approved: boolean) => void
+    onRemove: () => void
     onRate: (rating: ReviewRating) => void
     onClose: () => void
     onReveal: () => void
@@ -113,7 +113,7 @@ export function StudyCard({
                             <Check className="size-3" />
                             In agent practice
                         </Badge>
-                        <Button variant="ghost" size="sm" disabled={!canSave || saving || busy} onClick={() => onApproval(false)} className="ml-2 text-xs">
+                        <Button variant="ghost" size="sm" disabled={!canSave || saving || busy} onClick={onRemove} className="ml-2 text-xs">
                             Remove from agent practice
                         </Button>
                     </div>

@@ -1,11 +1,11 @@
 import { expect, test } from 'bun:test'
-import { getApprovedCardIds } from './approvals'
+import { getReviewStates } from './approvals'
 
-test('a missing Convex URL rejects rather than approving every card', async () => {
+test('a missing Convex URL rejects rather than returning study state', async () => {
     const original = process.env.NEXT_PUBLIC_CONVEX_URL
     delete process.env.NEXT_PUBLIC_CONVEX_URL
     try {
-        await expect(getApprovedCardIds()).rejects.toThrow('not configured')
+        await expect(getReviewStates()).rejects.toThrow('not configured')
     } finally {
         if (original === undefined) delete process.env.NEXT_PUBLIC_CONVEX_URL
         else process.env.NEXT_PUBLIC_CONVEX_URL = original
@@ -17,7 +17,7 @@ test('a stalled approval backend fails within the five-second lookup limit', asy
     const original = process.env.NEXT_PUBLIC_CONVEX_URL
     process.env.NEXT_PUBLIC_CONVEX_URL = server.url.toString()
     try {
-        await expect(getApprovedCardIds()).rejects.toThrow('timed out')
+        await expect(getReviewStates()).rejects.toThrow('timed out')
     } finally {
         if (original === undefined) delete process.env.NEXT_PUBLIC_CONVEX_URL
         else process.env.NEXT_PUBLIC_CONVEX_URL = original

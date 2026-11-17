@@ -38,7 +38,6 @@ export function Dashboard({ approvals, importButton, catalogRevision }: { approv
     const [selected, setSelected] = useState<{ card: LibraryCard; revision: number } | null>(null)
     const [busy, setBusy] = useState(false)
     const [studyError, setStudyError] = useState<string | null>(null)
-    const [roundComplete, setRoundComplete] = useState(false)
     const [saving, setSaving] = useState(false)
     const [saveError, setSaveError] = useState<string | null>(null)
     const [notice, setNotice] = useState('')
@@ -56,7 +55,6 @@ export function Dashboard({ approvals, importButton, catalogRevision }: { approv
             clearInterval(timer)
         }
     }, [])
-    const history = useRef<string[]>([])
     const requestController = useRef<AbortController | null>(null)
     const studyRef = useRef<HTMLDivElement>(null)
     const studyErrorRef = useRef<HTMLDivElement>(null)
@@ -120,13 +118,12 @@ export function Dashboard({ approvals, importButton, catalogRevision }: { approv
         }
         setStudyError(null)
         setNextDueAt(null)
-        setRoundComplete(false)
+
         setSaveError(null)
         setNotice('')
-        history.current = selectedId.current ? [selectedId.current] : []
     }
 
-    async function openQuestion(id?: string, reset = false, afterRating = false) {
+    async function openQuestion(id?: string, afterRating = false) {
         requestController.current?.abort()
         const controller = new AbortController()
         requestController.current = controller
@@ -135,13 +132,12 @@ export function Dashboard({ approvals, importButton, catalogRevision }: { approv
         setStudyError(null)
         setSaveError(null)
         setNotice('')
-        setRoundComplete(false)
-        if (reset) history.current = []
+
         try {
             const response = await fetch(id ? `/api/questions/${encodeURIComponent(id)}` : '/api/questions/random', {
                 method: id ? 'GET' : 'POST',
                 headers: id ? undefined : { 'Content-Type': 'application/json' },
-                body: id ? undefined : JSON.stringify({ ...scope, excludeCardIds: history.current }),
+                body: id ? undefined : JSON.stringify(scope),
                 signal: controller.signal
             })
             const body = await response.json().catch(() => {
@@ -149,11 +145,9 @@ export function Dashboard({ approvals, importButton, catalogRevision }: { approv
             })
             if (controller.signal.aborted) return
             if (!response.ok) {
-                if (body.code === 'ROUND_COMPLETE') setRoundComplete(true)
                 if (body.code === 'NOT_DUE') setNextDueAt(body.nextDueAt)
                 throw new Error(body.error || 'Could not load this question.')
             }
-            history.current = [...new Set([...history.current, body.card.id])].slice(-5000)
             selectedId.current = body.card.id
             setSelected((previous) => ({ card: body.card, revision: (previous?.revision ?? 0) + 1 }))
             requestAnimationFrame(() => studyRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' }))
@@ -170,7 +164,7 @@ export function Dashboard({ approvals, importButton, catalogRevision }: { approv
         }
     }
 
-    async function saveApproval(approved: boolean) {
+    async function removeFromPractice() {
         if (!selected || !approvals.ready || !approvals.save) return
         setSaving(true)
         setSaveError(null)
@@ -178,13 +172,12 @@ export function Dashboard({ approvals, importButton, catalogRevision }: { approv
         let timeout: ReturnType<typeof setTimeout> | undefined
         try {
             await Promise.race([
-                approvals.save(id, approved),
+                approvals.save(id, false),
                 new Promise<never>((_, reject) => {
                     timeout = setTimeout(() => reject(new Error('Save confirmation timed out')), 12000)
                 })
             ])
-            if (selectedId.current === id)
-                setNotice(approved ? 'Added. Your agent can now practice this question with you.' : 'Removed. Your agent will no longer ask this question.')
+            if (selectedId.current === id) setNotice('Removed. Your agent will no longer ask this question.')
         } catch {
             if (selectedId.current === id) setSaveError('We could not confirm that change. Check your connection and try again.')
         } finally {
@@ -212,14 +205,14 @@ export function Dashboard({ approvals, importButton, catalogRevision }: { approv
             ratingAttempt.current = null
             if (selectedId.current === id) {
                 setRetry((n) => n + 1)
-                await openQuestion(undefined, true, true)
+                await openQuestion(undefined, true)
             }
         } catch (cause) {
             if (selectedId.current === id) {
                 if (cause instanceof ConvexError && cause.data && typeof cause.data === 'object' && 'code' in cause.data && cause.data.code === 'NOT_DUE') {
                     ratingAttempt.current = null
                     setRetry((n) => n + 1)
-                    await openQuestion(undefined, true, true)
+                    await openQuestion(undefined, true)
                 } else setSaveError('Your review could not be confirmed. Please retry the same rating; it will only be saved once.')
             }
         } finally {
@@ -356,7 +349,7 @@ export function Dashboard({ approvals, importButton, catalogRevision }: { approv
                                     canSave={approvals.ready}
                                     error={saveError}
                                     busy={busy}
-                                    onApproval={saveApproval}
+                                    onRemove={removeFromPractice}
                                     onRate={rateQuestion}
                                     onClose={() => {
                                         requestController.current?.abort()
@@ -365,7 +358,6 @@ export function Dashboard({ approvals, importButton, catalogRevision }: { approv
                                         selectedId.current = null
                                         setNotice('')
                                         setStudyError(null)
-                                        setRoundComplete(false)
                                     }}
                                     onReveal={() => setStudied((ids) => (ids.includes(selected.card.id) ? ids : [...ids, selected.card.id]))}
                                 />
@@ -413,21 +405,9 @@ export function Dashboard({ approvals, importButton, catalogRevision }: { approv
                                             {nextDueAt > now ? `Next review ${new Date(nextDueAt).toLocaleString()}` : 'Continue whenever you are ready.'}
                                         </p>
                                     )}
-                                    {roundComplete ? (
-                                        <Button variant="outline" className="mt-3" onClick={() => openQuestion(undefined, true)}>
-                                            <Shuffle className="size-4" />
-                                            Start another round
-                                        </Button>
-                                    ) : (
-                                        <Button
-                                            variant="ghost"
-                                            className="mt-2"
-                                            disabled={!!nextDueAt && nextDueAt > now}
-                                            onClick={() => openQuestion(undefined, true)}
-                                        >
-                                            {nextDueAt ? (nextDueAt <= now ? 'Continue practice' : 'Check due questions') : 'Try again'}
-                                        </Button>
-                                    )}
+                                    <Button variant="ghost" className="mt-2" disabled={!!nextDueAt && nextDueAt > now} onClick={() => openQuestion()}>
+                                        {nextDueAt ? (nextDueAt <= now ? 'Continue practice' : 'Next review soon') : 'Try again'}
+                                    </Button>
                                 </div>
                             )}
                         </div>

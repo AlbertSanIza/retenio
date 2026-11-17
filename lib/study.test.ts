@@ -6,19 +6,37 @@ const cards: LibraryCard[] = [
         id: 'first:1',
         collectionId: 'first',
         categories: ['Heart', 'Diuretics', 'Loop'],
-        question: { text: 'First question' },
-        answer: { text: 'Secret answer' }
+        question: { text: 'First question', imageIds: [] },
+        answer: { text: 'Secret answer', imageIds: [] }
     },
     {
         id: 'first:2',
         collectionId: 'first',
         categories: ['Heart', 'Diuretics', 'Other'],
-        question: { text: 'Second question' },
-        answer: { text: 'Second answer' }
+        question: { text: 'Second question', imageIds: [] },
+        answer: { text: 'Second answer', imageIds: [] }
     },
-    { id: 'first:3', collectionId: 'first', categories: ['Heart', 'Diuretics II'], question: { text: 'Third question' }, answer: { text: 'Third answer' } },
-    { id: 'second:1', collectionId: 'second', categories: ['Heart', 'Diuretics'], question: { text: 'Fourth question' }, answer: { text: 'Fourth answer' } },
-    { id: 'first:4', collectionId: 'first', categories: ['Putting It Together'], question: { text: 'Short path' }, answer: { text: 'Answer' } }
+    {
+        id: 'first:3',
+        collectionId: 'first',
+        categories: ['Heart', 'Diuretics II'],
+        question: { text: 'Third question', imageIds: [] },
+        answer: { text: 'Third answer', imageIds: [] }
+    },
+    {
+        id: 'second:1',
+        collectionId: 'second',
+        categories: ['Heart', 'Diuretics'],
+        question: { text: 'Fourth question', imageIds: [] },
+        answer: { text: 'Fourth answer', imageIds: [] }
+    },
+    {
+        id: 'first:4',
+        collectionId: 'first',
+        categories: ['Putting It Together'],
+        question: { text: 'Short path', imageIds: [] },
+        answer: { text: 'Answer', imageIds: [] }
+    }
 ]
 const scope: StudyScope = { collection: 'first', category: [], search: '', status: 'all' }
 
