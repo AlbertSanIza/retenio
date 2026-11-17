@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476057868172",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476057868172",
+        "noteId": "1476057511630",
+        "noteGuid": "DX{(cXG7Pq",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::2 Allergy & Pulmonary::2.2 - Asthma therapy",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(2)-Allergy_&_Pulmonary::2.2-Asthma_Therapy",
+        "$$Smooth_Muscle",
+        "$Allergy&Pulmonary"
+    ],
+    "question": {
+        "text": "What β2 does not end in \"-erol\" and is used to treat asthma?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Terbutaline\n\n[Image: 8b2794195cb32b2d9b5c0472eb6fb98b1aee3865c71a442ab80ea1d007f45565]\n\n[Image: 6c49509112035ccaf54bcd1b5d146506c81d36f72cbbfaeaf5f0d59bcc39a244]",
+        "imageIds": [
+            "8b2794195cb32b2d9b5c0472eb6fb98b1aee3865c71a442ab80ea1d007f45565",
+            "6c49509112035ccaf54bcd1b5d146506c81d36f72cbbfaeaf5f0d59bcc39a244"
+        ]
+    },
+    "images": {
+        "6c49509112035ccaf54bcd1b5d146506c81d36f72cbbfaeaf5f0d59bcc39a244": {
+            "file": "images/6c49509112035ccaf54bcd1b5d146506c81d36f72cbbfaeaf5f0d59bcc39a244.jpg",
+            "filename": "paste-21345987461123.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 77669
+        },
+        "8b2794195cb32b2d9b5c0472eb6fb98b1aee3865c71a442ab80ea1d007f45565": {
+            "file": "images/8b2794195cb32b2d9b5c0472eb6fb98b1aee3865c71a442ab80ea1d007f45565.jpg",
+            "filename": "paste-21088289423363.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60968
+        }
+    }
+}

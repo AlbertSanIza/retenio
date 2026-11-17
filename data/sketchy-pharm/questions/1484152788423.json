@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484152788423",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484152788423",
+        "noteId": "1484148711756",
+        "noteGuid": "v$dEtPd[H<",
+        "modelId": "1475688242543",
+        "templateOrdinal": 12
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::1 GI::1.3 - Laxatives & antidiarrheal agents",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(1)-GI::1.3-Laxatives_&_Antidiarrheal_Agents",
+        "$$GI_&_Endocrine",
+        "$GI"
+    ],
+    "question": {
+        "text": "Name a contraindication to antidiarrheals",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Bloody diarrhea / Fever\n\n[Image: 16d9040b2e84002bae633504b632da623680d9689f256b4a0fdd3a964a23621b]",
+        "imageIds": [
+            "16d9040b2e84002bae633504b632da623680d9689f256b4a0fdd3a964a23621b"
+        ]
+    },
+    "images": {
+        "16d9040b2e84002bae633504b632da623680d9689f256b4a0fdd3a964a23621b": {
+            "file": "images/16d9040b2e84002bae633504b632da623680d9689f256b4a0fdd3a964a23621b.jpg",
+            "filename": "paste-767669569585155.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 102148
+        }
+    }
+}

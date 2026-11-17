@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475730679315",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475730679315",
+        "noteId": "1475730097704",
+        "noteGuid": "OD@.lTw{<=",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.2 - Indirect sympathomimetics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.2-Indirect_Sympathomimetics",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "What drug inhibits the conversion of tyrosine to L-DOPA?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Metyrosine\n\n[Image: 6c5408a403ce781a2aa64dab98a9ebeb378ecd92f69f67c64f8b4875f59dc81c]",
+        "imageIds": [
+            "6c5408a403ce781a2aa64dab98a9ebeb378ecd92f69f67c64f8b4875f59dc81c"
+        ]
+    },
+    "images": {
+        "6c5408a403ce781a2aa64dab98a9ebeb378ecd92f69f67c64f8b4875f59dc81c": {
+            "file": "images/6c5408a403ce781a2aa64dab98a9ebeb378ecd92f69f67c64f8b4875f59dc81c.jpg",
+            "filename": "paste-28080496181251.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 35129
+        }
+    }
+}

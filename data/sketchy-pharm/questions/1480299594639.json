@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480299594639",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480299594639",
+        "noteId": "1480298206862",
+        "noteGuid": "n}<zAn6=@Y",
+        "modelId": "1475688242543",
+        "templateOrdinal": 12
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.3 - Opiates, naloxone, naltrexone",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.3-Opiates,Naloxone,Naltrexone",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "What μ-opioid antagonist is used to reverse acute opioid toxicity?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Naloxone\n\n(Naloxone is a shorter word than Naltrexone ∴ shorter acting)\n\n[Image: 8041a850c62b37f201d11f34abd1f5c46429f7c30492567933838df4efebc242]",
+        "imageIds": [
+            "8041a850c62b37f201d11f34abd1f5c46429f7c30492567933838df4efebc242"
+        ]
+    },
+    "images": {
+        "8041a850c62b37f201d11f34abd1f5c46429f7c30492567933838df4efebc242": {
+            "file": "images/8041a850c62b37f201d11f34abd1f5c46429f7c30492567933838df4efebc242.jpg",
+            "filename": "paste-92745523789827.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63449
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484171189297",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484171189297",
+        "noteId": "1484170558195",
+        "noteGuid": "IPW<ydy+.t",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.2 - Inhaled anesthetics, dantrolene",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.2-Inhaled_Anesthetics,Dantrolene",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "When does the arterial tension curve for N2O plateau relative to Halothane?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Earlier\n\n(Because it's less soluble)\n\n[Image: 75de621d7a529a45581adb8e9944dc0694bbbacb6f2f1fd19dfbb31562914084]\n\n[Image: 45d2ff25691ce101d8e4173a759ca78306092dc8371e23ea67f84bc8cb3e5b19]",
+        "imageIds": [
+            "75de621d7a529a45581adb8e9944dc0694bbbacb6f2f1fd19dfbb31562914084",
+            "45d2ff25691ce101d8e4173a759ca78306092dc8371e23ea67f84bc8cb3e5b19"
+        ]
+    },
+    "images": {
+        "45d2ff25691ce101d8e4173a759ca78306092dc8371e23ea67f84bc8cb3e5b19": {
+            "file": "images/45d2ff25691ce101d8e4173a759ca78306092dc8371e23ea67f84bc8cb3e5b19.jpg",
+            "filename": "paste-534693363580931.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 75125
+        },
+        "75de621d7a529a45581adb8e9944dc0694bbbacb6f2f1fd19dfbb31562914084": {
+            "file": "images/75de621d7a529a45581adb8e9944dc0694bbbacb6f2f1fd19dfbb31562914084.jpg",
+            "filename": "paste-533164355223555.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 75199
+        }
+    }
+}

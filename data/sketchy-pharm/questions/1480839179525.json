@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480839179525",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480839179525",
+        "noteId": "1480838072386",
+        "noteGuid": "GOwg%g_S%>",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.1 - Penicillin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.1-Penicillin",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "ROA: Penicillin G",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "IV\n\n[Image: f2d197cca292c11bb0c12ed113774648f6c2b96abf870878d4bd81c54c09f08c]\n\n[Image: 0113db9e08823cd2a0e4a13d11ec7d6695c08e5c94ba5d22df9d33df370d11eb]",
+        "imageIds": [
+            "f2d197cca292c11bb0c12ed113774648f6c2b96abf870878d4bd81c54c09f08c",
+            "0113db9e08823cd2a0e4a13d11ec7d6695c08e5c94ba5d22df9d33df370d11eb"
+        ]
+    },
+    "images": {
+        "0113db9e08823cd2a0e4a13d11ec7d6695c08e5c94ba5d22df9d33df370d11eb": {
+            "file": "images/0113db9e08823cd2a0e4a13d11ec7d6695c08e5c94ba5d22df9d33df370d11eb.jpg",
+            "filename": "paste-426863914647555.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 30319
+        },
+        "f2d197cca292c11bb0c12ed113774648f6c2b96abf870878d4bd81c54c09f08c": {
+            "file": "images/f2d197cca292c11bb0c12ed113774648f6c2b96abf870878d4bd81c54c09f08c.jpg",
+            "filename": "paste-426833849876483.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 30868
+        }
+    }
+}

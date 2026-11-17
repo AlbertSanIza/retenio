@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476123573812",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476123573812",
+        "noteId": "1476057511630",
+        "noteGuid": "DX{(cXG7Pq",
+        "modelId": "1475688242543",
+        "templateOrdinal": 21
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::2 Allergy & Pulmonary::2.2 - Asthma therapy",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(2)-Allergy_&_Pulmonary::2.2-Asthma_Therapy",
+        "$$Smooth_Muscle",
+        "$Allergy&Pulmonary"
+    ],
+    "question": {
+        "text": "Treatment (4) : Acute severe asthma attack",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) IV corticosteroid\n\n(2) β2 agonist\n\n(3) Ipratropium\n(4) Epinephrine\n\n[Image: e40d5b4f2fc492c5787ee9b88a851b2960c69277eb01f8c10504427f516ba042]\n\n[Image: ad23c74c8160a30bfacb58a1cc6b5ee3fc80271e775d99f8ae68da23c4d3b6b4]\n\n[Image: 267f34aeaada9599b89708ca74beae6adf6f7f7b767799680c26c62f0769ddc8]",
+        "imageIds": [
+            "e40d5b4f2fc492c5787ee9b88a851b2960c69277eb01f8c10504427f516ba042",
+            "ad23c74c8160a30bfacb58a1cc6b5ee3fc80271e775d99f8ae68da23c4d3b6b4",
+            "267f34aeaada9599b89708ca74beae6adf6f7f7b767799680c26c62f0769ddc8"
+        ]
+    },
+    "images": {
+        "267f34aeaada9599b89708ca74beae6adf6f7f7b767799680c26c62f0769ddc8": {
+            "file": "images/267f34aeaada9599b89708ca74beae6adf6f7f7b767799680c26c62f0769ddc8.jpg",
+            "filename": "paste-157041184210947.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62838
+        },
+        "ad23c74c8160a30bfacb58a1cc6b5ee3fc80271e775d99f8ae68da23c4d3b6b4": {
+            "file": "images/ad23c74c8160a30bfacb58a1cc6b5ee3fc80271e775d99f8ae68da23c4d3b6b4.jpg",
+            "filename": "paste-31830002630659.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 80388
+        },
+        "e40d5b4f2fc492c5787ee9b88a851b2960c69277eb01f8c10504427f516ba042": {
+            "file": "images/e40d5b4f2fc492c5787ee9b88a851b2960c69277eb01f8c10504427f516ba042.jpg",
+            "filename": "paste-31778463023107.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 80736
+        }
+    }
+}

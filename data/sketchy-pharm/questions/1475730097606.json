@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475730097606",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475730097606",
+        "noteId": "1475728663965",
+        "noteGuid": "jP0(HG/*Ec",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.1 - Sympathomimetics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.1-Sympathomimetics",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "Which adrenergic receptor inhibits the release of insulin?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "α2\n\n[Image: c11e1897bf92363b5c2d635f7d61926a19410e1d8fca4dea1f9582512fa3df6c]",
+        "imageIds": [
+            "c11e1897bf92363b5c2d635f7d61926a19410e1d8fca4dea1f9582512fa3df6c"
+        ]
+    },
+    "images": {
+        "c11e1897bf92363b5c2d635f7d61926a19410e1d8fca4dea1f9582512fa3df6c": {
+            "file": "images/c11e1897bf92363b5c2d635f7d61926a19410e1d8fca4dea1f9582512fa3df6c.jpg",
+            "filename": "paste-19481971654659.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56818
+        }
+    }
+}

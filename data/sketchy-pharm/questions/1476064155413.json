@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476064155413",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476064155413",
+        "noteId": "1476063149826",
+        "noteGuid": "z+V/(i)+AN",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::1 Vasoactive::1.2 - Triptans & migraine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(1)-Vasoactive::1.2-Triptans_&_Migraines",
+        "$$Smooth_Muscle",
+        "$Vasoactive"
+    ],
+    "question": {
+        "text": "Adverse Effect: Triptans",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Coronary vasospasm\n\n[Image: d4249b20e7cfe834a265cc4007fda090ad45af28c01836d9c6d1ec00756a8abe]",
+        "imageIds": [
+            "d4249b20e7cfe834a265cc4007fda090ad45af28c01836d9c6d1ec00756a8abe"
+        ]
+    },
+    "images": {
+        "d4249b20e7cfe834a265cc4007fda090ad45af28c01836d9c6d1ec00756a8abe": {
+            "file": "images/d4249b20e7cfe834a265cc4007fda090ad45af28c01836d9c6d1ec00756a8abe.jpg",
+            "filename": "paste-79834852098051.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63839
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476029652810",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476029652810",
+        "noteId": "1476028790280",
+        "noteGuid": "hTu{S)5RkV",
+        "modelId": "1475688242543",
+        "templateOrdinal": 12
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.2 - Warfarin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.2-Warfarin",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "Why do we need to monitor patients early in Warfarin therapy?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Warfarin induced skin necrosis\n\n(Common initial presentation of Protein C/S deficiency)\n\n[Image: 378b344d203d16b0f8bb79819fe4f1ebb5199abe481c034ed2c17db75e07e654]",
+        "imageIds": [
+            "378b344d203d16b0f8bb79819fe4f1ebb5199abe481c034ed2c17db75e07e654"
+        ]
+    },
+    "images": {
+        "378b344d203d16b0f8bb79819fe4f1ebb5199abe481c034ed2c17db75e07e654": {
+            "file": "images/378b344d203d16b0f8bb79819fe4f1ebb5199abe481c034ed2c17db75e07e654.jpg",
+            "filename": "paste-9848360009731.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55969
+        }
+    }
+}

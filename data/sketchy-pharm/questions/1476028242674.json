@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476028242674",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476028242674",
+        "noteId": "1476026238349",
+        "noteGuid": "q{jN<,Pl7#",
+        "modelId": "1475688242543",
+        "templateOrdinal": 20
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.1 - Heparin, LMWH, fondaparinux, direct thrombin inhibitors, Xa inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.1-Heparin,LMWH,Fondaparinux,Direct_Thrombin_Inhibitors",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "Other than Warfarin, what class of anticoagulant is used in long term therapy of atrial fibrillation?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Direct factor Xa inhibitors\n\n[Image: c4001566895d958a4a3f82c0db55b10645d64fbbcf19cad535e28c3e2af67f89]",
+        "imageIds": [
+            "c4001566895d958a4a3f82c0db55b10645d64fbbcf19cad535e28c3e2af67f89"
+        ]
+    },
+    "images": {
+        "c4001566895d958a4a3f82c0db55b10645d64fbbcf19cad535e28c3e2af67f89": {
+            "file": "images/c4001566895d958a4a3f82c0db55b10645d64fbbcf19cad535e28c3e2af67f89.jpg",
+            "filename": "paste-90752658964483.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 94699
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475702036422",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475702036422",
+        "noteId": "1475701051571",
+        "noteGuid": "sja8v*xun+",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::2 Dyslipidemia Drugs::2.1 - Statins",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(2)-Dyslipidemia_Drugs::2.1-Statins",
+        "$$Blood_&_Inflammation",
+        "$DyslipidemiaDrugs"
+    ],
+    "question": {
+        "text": "What is the product of HMG-CoA reductase?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Mevalonate\n\n[Image: a084b8a73f0d47ecd97bebf41a4d2214a0badacb3b3285c760b95f97186e012b]",
+        "imageIds": [
+            "a084b8a73f0d47ecd97bebf41a4d2214a0badacb3b3285c760b95f97186e012b"
+        ]
+    },
+    "images": {
+        "a084b8a73f0d47ecd97bebf41a4d2214a0badacb3b3285c760b95f97186e012b": {
+            "file": "images/a084b8a73f0d47ecd97bebf41a4d2214a0badacb3b3285c760b95f97186e012b.jpg",
+            "filename": "paste-132426726637571.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 41281
+        }
+    }
+}

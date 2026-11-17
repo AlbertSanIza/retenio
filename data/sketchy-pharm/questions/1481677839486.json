@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1481677839486",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1481677839486",
+        "noteId": "1481676393166",
+        "noteGuid": "oJpn5okB#l",
+        "modelId": "1475688242543",
+        "templateOrdinal": 14
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::3 Anti-inflammatory::3.1 - NSAIDs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(3)-Anti-Inflammatory_Drugs::3.1-NSAIDs",
+        "$$Blood_&_Inflammation",
+        "$Anti-inflammatory"
+    ],
+    "question": {
+        "text": "Name 2 signs/symptoms of Reye's syndrome",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Encephalopathy\n(2) Liver dysfunction\n\n[Image: f95802313fdc9709279a92aa9777e38580ad9ada3488b758e8901801535faca1]\n\n[Image: 8d2451896446d50782f76464ff95faae38ca420435f852f88861dd90f5a813c3]",
+        "imageIds": [
+            "f95802313fdc9709279a92aa9777e38580ad9ada3488b758e8901801535faca1",
+            "8d2451896446d50782f76464ff95faae38ca420435f852f88861dd90f5a813c3"
+        ]
+    },
+    "images": {
+        "8d2451896446d50782f76464ff95faae38ca420435f852f88861dd90f5a813c3": {
+            "file": "images/8d2451896446d50782f76464ff95faae38ca420435f852f88861dd90f5a813c3.jpg",
+            "filename": "paste-96705483636739.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 106546
+        },
+        "f95802313fdc9709279a92aa9777e38580ad9ada3488b758e8901801535faca1": {
+            "file": "images/f95802313fdc9709279a92aa9777e38580ad9ada3488b758e8901801535faca1.jpg",
+            "filename": "paste-103397042683907.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 103352
+        }
+    }
+}

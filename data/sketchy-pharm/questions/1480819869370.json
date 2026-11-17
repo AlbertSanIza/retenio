@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480819869370",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480819869370",
+        "noteId": "1480817330855",
+        "noteGuid": "JorE&S@rr3",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::4 Other Antibiotics::4.1 - Trimethoprim/Sulfamethoxazole",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(4)-Other_Antibiotics::4.1-Trimethoprim/Sulfamethoxazole",
+        "$$Antimicrobials",
+        "$Other_Antibiotics"
+    ],
+    "question": {
+        "text": "Adverse Effects - In neonates (2) : TMP-SMX",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Neural tube defects\n(2) Kernicterus\n\n(Note: TMP-SMX ⇒ Neural tube defects due to ↓ folate levels)\n\n[Image: 8ac2c79f550d19dd36cc9a1d2f7ec13a41b8d05af9c4e82aba3e83cb7f9919b6]\n\n[Image: e143feb13fb33996df0be55307008693ccf5e30262b747791ae33eff2807c103]",
+        "imageIds": [
+            "8ac2c79f550d19dd36cc9a1d2f7ec13a41b8d05af9c4e82aba3e83cb7f9919b6",
+            "e143feb13fb33996df0be55307008693ccf5e30262b747791ae33eff2807c103"
+        ]
+    },
+    "images": {
+        "8ac2c79f550d19dd36cc9a1d2f7ec13a41b8d05af9c4e82aba3e83cb7f9919b6": {
+            "file": "images/8ac2c79f550d19dd36cc9a1d2f7ec13a41b8d05af9c4e82aba3e83cb7f9919b6.jpg",
+            "filename": "paste-204633716817923.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57674
+        },
+        "e143feb13fb33996df0be55307008693ccf5e30262b747791ae33eff2807c103": {
+            "file": "images/e143feb13fb33996df0be55307008693ccf5e30262b747791ae33eff2807c103.jpg",
+            "filename": "paste-205827717726211.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65402
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480306961185",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480306961185",
+        "noteId": "1480306575061",
+        "noteGuid": "N%mpUOn}i_",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.7 - Daptomycin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.7-Daptomycin",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "Is Daptomycin effective against VRSA?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Yes\n\n[Image: 1c080c17b57d9742376639601e029993f58891f8b5f4e0df9b420b719d0782f3]",
+        "imageIds": [
+            "1c080c17b57d9742376639601e029993f58891f8b5f4e0df9b420b719d0782f3"
+        ]
+    },
+    "images": {
+        "1c080c17b57d9742376639601e029993f58891f8b5f4e0df9b420b719d0782f3": {
+            "file": "images/1c080c17b57d9742376639601e029993f58891f8b5f4e0df9b420b719d0782f3.jpg",
+            "filename": "paste-114276194844675.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 41911
+        }
+    }
+}

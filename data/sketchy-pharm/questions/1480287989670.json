@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480287989670",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480287989670",
+        "noteId": "1480286851836",
+        "noteGuid": "uXl&+5/(rn",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.1 - Cyclophosphamide, ifosfamide, busulifan, nitrosoureas (carmustine, lomustine, streptozocin)",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(2)-DNA_&_Cellular_Division::2.1-Cyclophosphamide,Busulfan,Nitrosoureas",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "How can you prevent hemorrhagic cystitis when administering Cyclophosphamide?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Hydration + MESNA\n\n[Image: 74fd9ab43b57a4a6c4ae5f27f15d17419259fdca4125f7081f13e3d19fa1ac88]",
+        "imageIds": [
+            "74fd9ab43b57a4a6c4ae5f27f15d17419259fdca4125f7081f13e3d19fa1ac88"
+        ]
+    },
+    "images": {
+        "74fd9ab43b57a4a6c4ae5f27f15d17419259fdca4125f7081f13e3d19fa1ac88": {
+            "file": "images/74fd9ab43b57a4a6c4ae5f27f15d17419259fdca4125f7081f13e3d19fa1ac88.jpg",
+            "filename": "paste-28402618728451.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52784
+        }
+    }
+}

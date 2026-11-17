@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479166589835",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479166589835",
+        "noteId": "1479166331886",
+        "noteGuid": "nZiAb4L,QC",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::5 Antipsychotics & Parkinson's::5.1 - First generation antipsychotics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(5)-Antipsychotics_&_Parkinsons::5.1-First_Generation_Antipsychotics",
+        "$$Neuro/Psych",
+        "$Antipsychotics_&_Parkinsons"
+    ],
+    "question": {
+        "text": "MOA: First generation antipsychotics",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Inhibit central D2 receptors\n\n(Its primary mechanism of action)\n\n[Image: 7829d211230bc360487bfe21dcc18c3ed191e6ec219b1175ec613b1ffbe3014d]",
+        "imageIds": [
+            "7829d211230bc360487bfe21dcc18c3ed191e6ec219b1175ec613b1ffbe3014d"
+        ]
+    },
+    "images": {
+        "7829d211230bc360487bfe21dcc18c3ed191e6ec219b1175ec613b1ffbe3014d": {
+            "file": "images/7829d211230bc360487bfe21dcc18c3ed191e6ec219b1175ec613b1ffbe3014d.jpg",
+            "filename": "paste-138757508431875.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52992
+        }
+    }
+}

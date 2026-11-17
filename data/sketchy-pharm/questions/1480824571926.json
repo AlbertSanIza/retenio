@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480824571926",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480824571926",
+        "noteId": "1480823075841",
+        "noteGuid": "r}/0-Xm6|3",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::5 Antifungals::5.1 - Amphotericin, flucytosine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(5)-Antifungals::5.1-AmphotericinB,Flucytosine,Nystatin",
+        "$$Antimicrobials",
+        "$Antifungals"
+    ],
+    "question": {
+        "text": "What is the active form of Flucytosine?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "5-Flourouracil\n\n(Activated by cytosine deaminase)\n\n[Image: b75a7a2463e7b5e891154b6e734b5d38631f3427475e94444e781d1745d41859]",
+        "imageIds": [
+            "b75a7a2463e7b5e891154b6e734b5d38631f3427475e94444e781d1745d41859"
+        ]
+    },
+    "images": {
+        "b75a7a2463e7b5e891154b6e734b5d38631f3427475e94444e781d1745d41859": {
+            "file": "images/b75a7a2463e7b5e891154b6e734b5d38631f3427475e94444e781d1745d41859.jpg",
+            "filename": "paste-261000867610627.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44542
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480287989664",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480287989664",
+        "noteId": "1480286851836",
+        "noteGuid": "uXl&+5/(rn",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.1 - Cyclophosphamide, ifosfamide, busulifan, nitrosoureas (carmustine, lomustine, streptozocin)",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(2)-DNA_&_Cellular_Division::2.1-Cyclophosphamide,Busulfan,Nitrosoureas",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "Indication - Non-neoplastic: Cyclophosphamide",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Immunosupressive agent\n\n(Note: According to Golan, suppresses B-cell response, but actually potentiates T-cell response)\n\n[Image: e0e50f9b7152b4b5c9974036fded70ca9e354260a46c065ce313a2b9f4daf0ac]",
+        "imageIds": [
+            "e0e50f9b7152b4b5c9974036fded70ca9e354260a46c065ce313a2b9f4daf0ac"
+        ]
+    },
+    "images": {
+        "e0e50f9b7152b4b5c9974036fded70ca9e354260a46c065ce313a2b9f4daf0ac": {
+            "file": "images/e0e50f9b7152b4b5c9974036fded70ca9e354260a46c065ce313a2b9f4daf0ac.jpg",
+            "filename": "paste-27865747816451.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54000
+        }
+    }
+}

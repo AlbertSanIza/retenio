@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476057868177",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476057868177",
+        "noteId": "1476057511630",
+        "noteGuid": "DX{(cXG7Pq",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::2 Allergy & Pulmonary::2.2 - Asthma therapy",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(2)-Allergy_&_Pulmonary::2.2-Asthma_Therapy",
+        "$$Smooth_Muscle",
+        "$Allergy&Pulmonary"
+    ],
+    "question": {
+        "text": "Which leukotrienes are potent bronchoconstrictors?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "LTC4, D4, E4\n\n(Also ↑ Airway vascular permeability and mucus production)\n\n[Image: 97c129fd0bc87e8838f85cbfc5a1b514decc30c7731a2f78459e613c0dc6598e]",
+        "imageIds": [
+            "97c129fd0bc87e8838f85cbfc5a1b514decc30c7731a2f78459e613c0dc6598e"
+        ]
+    },
+    "images": {
+        "97c129fd0bc87e8838f85cbfc5a1b514decc30c7731a2f78459e613c0dc6598e": {
+            "file": "images/97c129fd0bc87e8838f85cbfc5a1b514decc30c7731a2f78459e613c0dc6598e.jpg",
+            "filename": "paste-23540715749379.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 74811
+        }
+    }
+}

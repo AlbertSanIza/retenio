@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476210878808",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476210878808",
+        "noteId": "1476210297974",
+        "noteGuid": "n:FNxZoP&d",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.1 - Acetazolamide, mannitol",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.1-Acetazolamide",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "What acid/base disorder does Acetazolamide cause?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Normal anion gap metabolic acidosis\n\n(Remember, anion gap acidosis is due to production of volatile organic acids such as in diabetic ketoacidosis)\n\n[Image: 5242187d47e06f71c02a393953ec9710f1b5b8038780d9a09b0537a46c9d4201]",
+        "imageIds": [
+            "5242187d47e06f71c02a393953ec9710f1b5b8038780d9a09b0537a46c9d4201"
+        ]
+    },
+    "images": {
+        "5242187d47e06f71c02a393953ec9710f1b5b8038780d9a09b0537a46c9d4201": {
+            "file": "images/5242187d47e06f71c02a393953ec9710f1b5b8038780d9a09b0537a46c9d4201.jpg",
+            "filename": "paste-52918292054019.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50578
+        }
+    }
+}

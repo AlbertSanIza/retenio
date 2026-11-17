@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476064155415",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476064155415",
+        "noteId": "1476063149826",
+        "noteGuid": "z+V/(i)+AN",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::1 Vasoactive::1.2 - Triptans & migraine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(1)-Vasoactive::1.2-Triptans_&_Migraines",
+        "$$Smooth_Muscle",
+        "$Vasoactive"
+    ],
+    "question": {
+        "text": "Treatment: Acute cluster headache",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Triptans + O2\n\n[Image: 8dcc524ec0e21407fd832c50731a0bb99f19f20ca8323b85f6f81f0a9ba12359]",
+        "imageIds": [
+            "8dcc524ec0e21407fd832c50731a0bb99f19f20ca8323b85f6f81f0a9ba12359"
+        ]
+    },
+    "images": {
+        "8dcc524ec0e21407fd832c50731a0bb99f19f20ca8323b85f6f81f0a9ba12359": {
+            "file": "images/8dcc524ec0e21407fd832c50731a0bb99f19f20ca8323b85f6f81f0a9ba12359.jpg",
+            "filename": "paste-80410377715715.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 71206
+        }
+    }
+}

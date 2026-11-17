@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475962431756",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475962431756",
+        "noteId": "1475962037924",
+        "noteGuid": "LK=6#G=0_h",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.1 - Class I A-C",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.1-Class_I_(A-C)",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "What are the class IA antiarrhythmics?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Quinidine\n(2) Procainamide\n\n(3) Disopyramide\n\n[Image: 4c98eebe4d0d8460aaf157cad26bd0c65b5c1e988b1d3859f9708ef722801776]\n\n[Image: 48c2e58fc2672e5d6fdc640d7cadc7ffcf81633fa5280fdf0d07b3016350f27b]\n\n[Image: e7a65ffcaed09d01e62e7adf7ab54ff478c1c21e51114aedba559fdf73431a98]",
+        "imageIds": [
+            "4c98eebe4d0d8460aaf157cad26bd0c65b5c1e988b1d3859f9708ef722801776",
+            "48c2e58fc2672e5d6fdc640d7cadc7ffcf81633fa5280fdf0d07b3016350f27b",
+            "e7a65ffcaed09d01e62e7adf7ab54ff478c1c21e51114aedba559fdf73431a98"
+        ]
+    },
+    "images": {
+        "48c2e58fc2672e5d6fdc640d7cadc7ffcf81633fa5280fdf0d07b3016350f27b": {
+            "file": "images/48c2e58fc2672e5d6fdc640d7cadc7ffcf81633fa5280fdf0d07b3016350f27b.jpg",
+            "filename": "paste-25963077304323 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48709
+        },
+        "4c98eebe4d0d8460aaf157cad26bd0c65b5c1e988b1d3859f9708ef722801776": {
+            "file": "images/4c98eebe4d0d8460aaf157cad26bd0c65b5c1e988b1d3859f9708ef722801776.jpg",
+            "filename": "paste-8018703941635.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49190
+        },
+        "e7a65ffcaed09d01e62e7adf7ab54ff478c1c21e51114aedba559fdf73431a98": {
+            "file": "images/e7a65ffcaed09d01e62e7adf7ab54ff478c1c21e51114aedba559fdf73431a98.jpg",
+            "filename": "paste-26104811225091.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48555
+        }
+    }
+}

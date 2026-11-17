@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480824571918",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480824571918",
+        "noteId": "1480823075841",
+        "noteGuid": "r}/0-Xm6|3",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::5 Antifungals::5.1 - Amphotericin, flucytosine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(5)-Antifungals::5.1-AmphotericinB,Flucytosine,Nystatin",
+        "$$Antimicrobials",
+        "$Antifungals"
+    ],
+    "question": {
+        "text": "What serves the role of cholesterol in a fungus' cell membrane?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Ergosterol\n\n[Image: 70b05656c35bc00ac8bc240bbe07f03e8bc37524e536793146b0659d58d61a7a]",
+        "imageIds": [
+            "70b05656c35bc00ac8bc240bbe07f03e8bc37524e536793146b0659d58d61a7a"
+        ]
+    },
+    "images": {
+        "70b05656c35bc00ac8bc240bbe07f03e8bc37524e536793146b0659d58d61a7a": {
+            "file": "images/70b05656c35bc00ac8bc240bbe07f03e8bc37524e536793146b0659d58d61a7a.jpg",
+            "filename": "paste-257461814558723.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 25134
+        }
+    }
+}

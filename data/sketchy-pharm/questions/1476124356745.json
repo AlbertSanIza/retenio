@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476124356745",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476124356745",
+        "noteId": "1476123573815",
+        "noteGuid": "k=!B>3>6eG",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::2 Diabetes::2.1 - Insulin, Sulfonylureas, Meglitinides, GLP-1 Agonists, DPP-4 Inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(2)-Diabetes::2.1-Insulin,Sulfonylureas,Meglitinides,GLP-1_Agonists,DPP-4_Inhibitors",
+        "$$GI_&_Endocrine",
+        "$Diabetes"
+    ],
+    "question": {
+        "text": "What receptor does insulin upregulate in peripheral tissue?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "GLUT4\n\n[Image: 7c3194298aa39f7f224333b1228e124138db8dab13cfc949da1da885c8d6bf13]",
+        "imageIds": [
+            "7c3194298aa39f7f224333b1228e124138db8dab13cfc949da1da885c8d6bf13"
+        ]
+    },
+    "images": {
+        "7c3194298aa39f7f224333b1228e124138db8dab13cfc949da1da885c8d6bf13": {
+            "file": "images/7c3194298aa39f7f224333b1228e124138db8dab13cfc949da1da885c8d6bf13.jpg",
+            "filename": "paste-38530151612419.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 39602
+        }
+    }
+}

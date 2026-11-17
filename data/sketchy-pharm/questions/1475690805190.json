@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475690805190",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475690805190",
+        "noteId": "1475689796727",
+        "noteGuid": "kCV^~E(MCS",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::1 Heart Failure Drugs::1.1 - Digoxin, milrinone, nesiritide",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(1)-Heart_Failure_Drugs::1.1-Digoxin,Milrinone,Nesiritide",
+        "$$Cardiovascular_&_Renal",
+        "$HeartFailureDrugs"
+    ],
+    "question": {
+        "text": "Indications (2) : Digoxin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Heart failure\n(2) Atrial arrhythmias\n\n(Inhibition of neuronal Na+,K+ ATPase ⇒ Depolarization of ANS efferents ⇒ ↑ PNS on nodes (↓ HR) and ↑ SNS on ventricles (↑ Contractility) )\n\n[Image: 658a273921fea54d20b94915bf313800e6cf7ed1787bf4ecd845a58a3fbb2993]\n\n[Image: 1585aef30271537a8a3e3c6e7e2ba53a75a4cc03361cd43f39287b16944def6a]",
+        "imageIds": [
+            "658a273921fea54d20b94915bf313800e6cf7ed1787bf4ecd845a58a3fbb2993",
+            "1585aef30271537a8a3e3c6e7e2ba53a75a4cc03361cd43f39287b16944def6a"
+        ]
+    },
+    "images": {
+        "1585aef30271537a8a3e3c6e7e2ba53a75a4cc03361cd43f39287b16944def6a": {
+            "file": "images/1585aef30271537a8a3e3c6e7e2ba53a75a4cc03361cd43f39287b16944def6a.jpg",
+            "filename": "paste-10097468112899.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44896
+        },
+        "658a273921fea54d20b94915bf313800e6cf7ed1787bf4ecd845a58a3fbb2993": {
+            "file": "images/658a273921fea54d20b94915bf313800e6cf7ed1787bf4ecd845a58a3fbb2993.jpg",
+            "filename": "paste-9977209028611.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 37389
+        }
+    }
+}

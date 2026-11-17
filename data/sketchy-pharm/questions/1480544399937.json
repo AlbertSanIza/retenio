@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480544399937",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480544399937",
+        "noteId": "1480543987032",
+        "noteGuid": "N#HRdX_!QM",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.4 - Chloramphenicol",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.4-Chloramphenicol",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "Adverse Effects (3) : Chloramphenicol",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Reversible RBC suppression\n(2) Aplastic anemia\n\n(3) Grey baby syndrome\n\n[Image: fda24782e96f0b5a45242ab67497aa9928113892a3817107b0359b0b2eb1de56]\n\n[Image: e78cbbfbad2867f4cd3b935ca98878af8db711f0a6b7e0e1654b0a9ed893aca0]\n\n[Image: 29e5459c44b547503a90f91784fc6de88d6689c74c37b4c1c71291c6e2fe0a2a]",
+        "imageIds": [
+            "fda24782e96f0b5a45242ab67497aa9928113892a3817107b0359b0b2eb1de56",
+            "e78cbbfbad2867f4cd3b935ca98878af8db711f0a6b7e0e1654b0a9ed893aca0",
+            "29e5459c44b547503a90f91784fc6de88d6689c74c37b4c1c71291c6e2fe0a2a"
+        ]
+    },
+    "images": {
+        "29e5459c44b547503a90f91784fc6de88d6689c74c37b4c1c71291c6e2fe0a2a": {
+            "file": "images/29e5459c44b547503a90f91784fc6de88d6689c74c37b4c1c71291c6e2fe0a2a.jpg",
+            "filename": "paste-22050362097667.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50264
+        },
+        "e78cbbfbad2867f4cd3b935ca98878af8db711f0a6b7e0e1654b0a9ed893aca0": {
+            "file": "images/e78cbbfbad2867f4cd3b935ca98878af8db711f0a6b7e0e1654b0a9ed893aca0.jpg",
+            "filename": "paste-21977347653635.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47007
+        },
+        "fda24782e96f0b5a45242ab67497aa9928113892a3817107b0359b0b2eb1de56": {
+            "file": "images/fda24782e96f0b5a45242ab67497aa9928113892a3817107b0359b0b2eb1de56.jpg",
+            "filename": "paste-21831318765571.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48434
+        }
+    }
+}

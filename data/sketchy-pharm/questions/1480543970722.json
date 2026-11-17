@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480543970722",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480543970722",
+        "noteId": "1480543237615",
+        "noteGuid": "B[kX09:NFF",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.3 - Clindamycin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.3-Clindamycin",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "What type of anaerobic infection is Clindamycin particularly effective against?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Lung abscesses\n\n(Accumulates in MΦs)\n\n[Image: 18bbd0e8119e73b0ff5952e11f7f804bd2e7096fcf2c2056bfe6e91143d83a23]",
+        "imageIds": [
+            "18bbd0e8119e73b0ff5952e11f7f804bd2e7096fcf2c2056bfe6e91143d83a23"
+        ]
+    },
+    "images": {
+        "18bbd0e8119e73b0ff5952e11f7f804bd2e7096fcf2c2056bfe6e91143d83a23": {
+            "file": "images/18bbd0e8119e73b0ff5952e11f7f804bd2e7096fcf2c2056bfe6e91143d83a23.jpg",
+            "filename": "paste-14559939133443 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 32721
+        }
+    }
+}

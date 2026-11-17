@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484170558105",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484170558105",
+        "noteId": "1484169055669",
+        "noteGuid": "QrQ#;bxg=`",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.1 - Propofol, etomidate, ketamine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.1-Propofol,Etomidate,Ketamine",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "Name a drug class used in conscious sedation",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Benzodiazepines\n\n[Image: a82e2abfee3b43bb4ed554d608280e2a86f95b373464af1f29ddc4152f5d58ee]",
+        "imageIds": [
+            "a82e2abfee3b43bb4ed554d608280e2a86f95b373464af1f29ddc4152f5d58ee"
+        ]
+    },
+    "images": {
+        "a82e2abfee3b43bb4ed554d608280e2a86f95b373464af1f29ddc4152f5d58ee": {
+            "file": "images/a82e2abfee3b43bb4ed554d608280e2a86f95b373464af1f29ddc4152f5d58ee.jpg",
+            "filename": "paste-498564098686979.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66017
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480290406524",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480290406524",
+        "noteId": "1480289740188",
+        "noteGuid": "yRA]LR7@/u",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.3 - Bleomycin, doxorubicin, daunorubicin, actinomycin D",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(2)-DNA_&_Cellular_Division::2.3-Bleomycin,Doxorubicin,Daunorubicin,Actinomycin_D",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "MOA: Actinomycin D",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Intercalates DNA\n\n[Image: 6a8f42ab0117ad24519d8983b5f539715535282343c9efa0856f24734ce294e6]\n\n[Image: 02c33db45bbda4b6fcb661260c6e5d6a308aad1d2f707dd356f2cfcc323b72b9]",
+        "imageIds": [
+            "6a8f42ab0117ad24519d8983b5f539715535282343c9efa0856f24734ce294e6",
+            "02c33db45bbda4b6fcb661260c6e5d6a308aad1d2f707dd356f2cfcc323b72b9"
+        ]
+    },
+    "images": {
+        "02c33db45bbda4b6fcb661260c6e5d6a308aad1d2f707dd356f2cfcc323b72b9": {
+            "file": "images/02c33db45bbda4b6fcb661260c6e5d6a308aad1d2f707dd356f2cfcc323b72b9.jpg",
+            "filename": "paste-43787191582723.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55770
+        },
+        "6a8f42ab0117ad24519d8983b5f539715535282343c9efa0856f24734ce294e6": {
+            "file": "images/6a8f42ab0117ad24519d8983b5f539715535282343c9efa0856f24734ce294e6.jpg",
+            "filename": "paste-44336947396611.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59774
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484174108121",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484174108121",
+        "noteId": "1484172521200",
+        "noteGuid": "rxvt]42rcP",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::4 Mood Stabilizers & Antiepileptic Drugs::4.3 - Valproate, topiramate, lamotrigine, levetiracetam",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(4)-Mood_Stabilizers_&_Antiepileptics::4.2-Valproate,Topiramate,Lamotrigine,Levetiracetam",
+        "$$Neuro/Psych",
+        "$Mood_Stabilizers_&_Antiepileptics"
+    ],
+    "question": {
+        "text": "Adverse Effect: Levatiracetam",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Somnolence\n\n[Image: 423145a036d175b52f868a19fc956eaca380447b5ca9b3c4bc847079b040ce72]",
+        "imageIds": [
+            "423145a036d175b52f868a19fc956eaca380447b5ca9b3c4bc847079b040ce72"
+        ]
+    },
+    "images": {
+        "423145a036d175b52f868a19fc956eaca380447b5ca9b3c4bc847079b040ce72": {
+            "file": "images/423145a036d175b52f868a19fc956eaca380447b5ca9b3c4bc847079b040ce72.jpg",
+            "filename": "paste-684884074954755.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 100606
+        }
+    }
+}

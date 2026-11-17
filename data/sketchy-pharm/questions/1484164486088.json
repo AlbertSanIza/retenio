@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484164486088",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484164486088",
+        "noteId": "1484162877085",
+        "noteGuid": "K^0}t0mL6T",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::5 Antipsychotics & Parkinson's::5.3 - Levodopa/carbidopa, entacapone, tolcapone, selegiline, ropinirole, pramipexole, amantadine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(5)-Antipsychotics_&_Parkinsons::5.3-Parkinsons_Drugs",
+        "$$Neuro/Psych",
+        "$Antipsychotics_&_Parkinsons"
+    ],
+    "question": {
+        "text": "What's the difference between Tolcapone and Entacapone?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Entacapone is NOT active in CNS\n\n(Notice Tall Al Capone is in the vault ∴ can cross BBB)\n\n[Image: 6af216b9a6006b700144b7237a6e54958ca3ee659b6e66f0a074b660254ce5ce]",
+        "imageIds": [
+            "6af216b9a6006b700144b7237a6e54958ca3ee659b6e66f0a074b660254ce5ce"
+        ]
+    },
+    "images": {
+        "6af216b9a6006b700144b7237a6e54958ca3ee659b6e66f0a074b660254ce5ce": {
+            "file": "images/6af216b9a6006b700144b7237a6e54958ca3ee659b6e66f0a074b660254ce5ce.jpg",
+            "filename": "paste-282050502328323.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 76667
+        }
+    }
+}

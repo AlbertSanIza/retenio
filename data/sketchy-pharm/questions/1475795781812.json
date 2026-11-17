@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475795781812",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475795781812",
+        "noteId": "1475794790683",
+        "noteGuid": "l!ym7T{M~Z",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.2 - Tricyclic antidepressants",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.2-TCAs",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "Suffix: TCAs",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) \"-pramine\"\n(2) \"-triptyline\"\n\n[Image: 2a9dc880dde33e3356443dccf196ac9688bc5b5e20ade820aaf417ba1a82d4c6]\n\n[Image: 55298d7f174ca814dd0d68cb3cc993126f4f5e8e8b3a1115393b0377ecab8880]",
+        "imageIds": [
+            "2a9dc880dde33e3356443dccf196ac9688bc5b5e20ade820aaf417ba1a82d4c6",
+            "55298d7f174ca814dd0d68cb3cc993126f4f5e8e8b3a1115393b0377ecab8880"
+        ]
+    },
+    "images": {
+        "2a9dc880dde33e3356443dccf196ac9688bc5b5e20ade820aaf417ba1a82d4c6": {
+            "file": "images/2a9dc880dde33e3356443dccf196ac9688bc5b5e20ade820aaf417ba1a82d4c6.jpg",
+            "filename": "paste-17682380357635.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 37437
+        },
+        "55298d7f174ca814dd0d68cb3cc993126f4f5e8e8b3a1115393b0377ecab8880": {
+            "file": "images/55298d7f174ca814dd0d68cb3cc993126f4f5e8e8b3a1115393b0377ecab8880.jpg",
+            "filename": "paste-17708150161411.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 35782
+        }
+    }
+}

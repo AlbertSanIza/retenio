@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475707071641",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475707071641",
+        "noteId": "1475705886299",
+        "noteGuid": "K{:IknGMa;",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::1 Vasoactive::1.1 - Nitrates",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(1)-Vasoactive::1.1-Nitrates",
+        "$$Smooth_Muscle",
+        "$Vasoactive"
+    ],
+    "question": {
+        "text": "ROA: Isosorbide Nitrate",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Oral\n\n[Image: 619414c341c17b6ee397f4af51c97888d5739e46860a52ef0148e2e48a600bde]\n\n[Image: bfd3bce6b5f40f6a737e88505aead8269d92557f6adb35533dddaa87397034a2]",
+        "imageIds": [
+            "619414c341c17b6ee397f4af51c97888d5739e46860a52ef0148e2e48a600bde",
+            "bfd3bce6b5f40f6a737e88505aead8269d92557f6adb35533dddaa87397034a2"
+        ]
+    },
+    "images": {
+        "619414c341c17b6ee397f4af51c97888d5739e46860a52ef0148e2e48a600bde": {
+            "file": "images/619414c341c17b6ee397f4af51c97888d5739e46860a52ef0148e2e48a600bde.jpg",
+            "filename": "paste-41953240547331.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51570
+        },
+        "bfd3bce6b5f40f6a737e88505aead8269d92557f6adb35533dddaa87397034a2": {
+            "file": "images/bfd3bce6b5f40f6a737e88505aead8269d92557f6adb35533dddaa87397034a2.jpg",
+            "filename": "paste-42043434860547.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51247
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1489381099421",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1489381099421",
+        "noteId": "1489377832406",
+        "noteGuid": "qXy^sYw?Ac",
+        "modelId": "1475688242543",
+        "templateOrdinal": 17
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.3 - Teriparatide, Vitamin D, Cinacalcet, Sevelamer",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.3-Teriparatide,Vitamin_D,Cinacalcet,Sevelamer",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "Indication: Cinacalcet",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Hyperparathyroidism\n\n[Image: b41753526ffa728541e6bddbd69898d73c726fa139ad095afc0e003a5dc39b4d]",
+        "imageIds": [
+            "b41753526ffa728541e6bddbd69898d73c726fa139ad095afc0e003a5dc39b4d"
+        ]
+    },
+    "images": {
+        "b41753526ffa728541e6bddbd69898d73c726fa139ad095afc0e003a5dc39b4d": {
+            "file": "images/b41753526ffa728541e6bddbd69898d73c726fa139ad095afc0e003a5dc39b4d.jpg",
+            "filename": "paste-77597174136835.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 91209
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475793532081",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475793532081",
+        "noteId": "1475793075945",
+        "noteGuid": "uhGglrcsj9",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::1 Sedative-hypnotics::1.3 - Barbiturates",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(1)-Sedatives_&_Hypnotics::1.3-Barbituates",
+        "$$Neuro/Psych",
+        "$Sedatives&Hypnotics"
+    ],
+    "question": {
+        "text": "What effect do barbituates have on GABAA receptor?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "↑ Duration channel is open\n\n(Barbi-durates increase duration of channel opening)\n\n[Image: 50a18ea5246834223fbd35469406aebf6902a3665ee9d447a7dce65ced5276e8]",
+        "imageIds": [
+            "50a18ea5246834223fbd35469406aebf6902a3665ee9d447a7dce65ced5276e8"
+        ]
+    },
+    "images": {
+        "50a18ea5246834223fbd35469406aebf6902a3665ee9d447a7dce65ced5276e8": {
+            "file": "images/50a18ea5246834223fbd35469406aebf6902a3665ee9d447a7dce65ced5276e8.jpg",
+            "filename": "paste-8967891714051.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 68525
+        }
+    }
+}

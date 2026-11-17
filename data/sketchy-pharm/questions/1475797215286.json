@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475797215286",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475797215286",
+        "noteId": "1475796463230",
+        "noteGuid": "dVn&?O~Nzk",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.4 - Bupropion, mirtazapine, trazodone",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.4-Bupropion,Mirtazapine,Trazodone",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "Adverse Effect: Bupropion",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Seizures\n\n[Image: 277a65183176dcd5d143aa9f8582fbeba91dd6cf539996ab6aae5ffb11e75387]",
+        "imageIds": [
+            "277a65183176dcd5d143aa9f8582fbeba91dd6cf539996ab6aae5ffb11e75387"
+        ]
+    },
+    "images": {
+        "277a65183176dcd5d143aa9f8582fbeba91dd6cf539996ab6aae5ffb11e75387": {
+            "file": "images/277a65183176dcd5d143aa9f8582fbeba91dd6cf539996ab6aae5ffb11e75387.jpg",
+            "filename": "paste-27157078212611.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47858
+        }
+    }
+}

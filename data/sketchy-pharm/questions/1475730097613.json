@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475730097613",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475730097613",
+        "noteId": "1475728663965",
+        "noteGuid": "jP0(HG/*Ec",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.1 - Sympathomimetics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.1-Sympathomimetics",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "What is the receptor specificity of Norepinephrine?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "α > β\n\n[Image: 7664fac2c187e5566d34de3214c629539c43d06670b070b00006721198f33c8f]\n\n[Image: 1bef640fe9e80a364eedc78db13945d6fcb70cbf99be0f7f80acdf44fe261d46]",
+        "imageIds": [
+            "7664fac2c187e5566d34de3214c629539c43d06670b070b00006721198f33c8f",
+            "1bef640fe9e80a364eedc78db13945d6fcb70cbf99be0f7f80acdf44fe261d46"
+        ]
+    },
+    "images": {
+        "1bef640fe9e80a364eedc78db13945d6fcb70cbf99be0f7f80acdf44fe261d46": {
+            "file": "images/1bef640fe9e80a364eedc78db13945d6fcb70cbf99be0f7f80acdf44fe261d46.jpg",
+            "filename": "paste-24502788423683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58118
+        },
+        "7664fac2c187e5566d34de3214c629539c43d06670b070b00006721198f33c8f": {
+            "file": "images/7664fac2c187e5566d34de3214c629539c43d06670b070b00006721198f33c8f.jpg",
+            "filename": "paste-23222888169475.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60289
+        }
+    }
+}

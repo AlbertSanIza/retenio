@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476140451491",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476140451491",
+        "noteId": "1476139819858",
+        "noteGuid": "eO7SmiTCn*",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.4 - Glucocorticoids",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.4-Glucocorticoids",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "What inflammatory enzyme do glucocorticoids inhibit?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Phospholipase A2\n\n(By upregulating Lipocortin = Annexin)\n\n[Image: 6d55c09cce86ae9afef8fe781ab2097ef11bc55a80500a85e41e4e668c8a90c2]\n\n[Image: d2373815300e9df1b2e060848f4e6190a7936681fc36301a518c8cd5e20ec81b]\n\n[Image: 0a8d2f22e9ab4fcbdc7118d59f40719d6796918ecec728a2bfe842651a3be849]",
+        "imageIds": [
+            "6d55c09cce86ae9afef8fe781ab2097ef11bc55a80500a85e41e4e668c8a90c2",
+            "d2373815300e9df1b2e060848f4e6190a7936681fc36301a518c8cd5e20ec81b",
+            "0a8d2f22e9ab4fcbdc7118d59f40719d6796918ecec728a2bfe842651a3be849"
+        ]
+    },
+    "images": {
+        "0a8d2f22e9ab4fcbdc7118d59f40719d6796918ecec728a2bfe842651a3be849": {
+            "file": "images/0a8d2f22e9ab4fcbdc7118d59f40719d6796918ecec728a2bfe842651a3be849.jpg",
+            "filename": "paste-105037720190979.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 39719
+        },
+        "6d55c09cce86ae9afef8fe781ab2097ef11bc55a80500a85e41e4e668c8a90c2": {
+            "file": "images/6d55c09cce86ae9afef8fe781ab2097ef11bc55a80500a85e41e4e668c8a90c2.jpg",
+            "filename": "paste-104947525877763.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 37702
+        },
+        "d2373815300e9df1b2e060848f4e6190a7936681fc36301a518c8cd5e20ec81b": {
+            "file": "images/d2373815300e9df1b2e060848f4e6190a7936681fc36301a518c8cd5e20ec81b.jpg",
+            "filename": "paste-104977590648835.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 36038
+        }
+    }
+}

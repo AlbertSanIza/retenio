@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480816165690",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480816165690",
+        "noteId": "1480812867870",
+        "noteGuid": "B.#W9#QCRN",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::3 Antimycobacterials::3.1 - Tuberculosis Drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(3)-Antimycobacterials::3.1-Tuberculosis_Drugs",
+        "$$Antimicrobials",
+        "$Antimycobacterials"
+    ],
+    "question": {
+        "text": "Resistance: Isoniazid",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Downregulation of Kat G\n\n(Kat G ≡ catalase-peroxidase)\n\n[Image: 168bb8d314c637cda2636f2a32d5c2ad0032a6f6b90bb9219151aa1867fafa65]",
+        "imageIds": [
+            "168bb8d314c637cda2636f2a32d5c2ad0032a6f6b90bb9219151aa1867fafa65"
+        ]
+    },
+    "images": {
+        "168bb8d314c637cda2636f2a32d5c2ad0032a6f6b90bb9219151aa1867fafa65": {
+            "file": "images/168bb8d314c637cda2636f2a32d5c2ad0032a6f6b90bb9219151aa1867fafa65.jpg",
+            "filename": "paste-173155901505539.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43834
+        }
+    }
+}

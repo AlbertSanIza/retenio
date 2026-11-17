@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480827472481",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480827472481",
+        "noteId": "1480827467194",
+        "noteGuid": "BVb_d[(|[)",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::5 Antifungals::5.3 - Griseofulvin, Terbinafine, Echinocandins",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(5)-Antifungals::5.3-Griseofulvin,Terbinafine,Echinocandins",
+        "$$Antimicrobials",
+        "$Antifungals"
+    ],
+    "question": {
+        "text": "Treatment (2) : Onychomycosis",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Griseofulvin\n(2) Terbinafine\n\n(∵ it accumulates in keratin)\n\n[Image: 02cbda1dba2730d4ad61a537cf1567cbb5ab38f162fdc342dcd6f90a1d33eea4]\n\n[Image: 642b53f7f02da603762de0eab5c2d9557b17c07cf387d91503ff352b9d9f8c5f]\n\n[Image: b4e8751e3cc0889b274313be000c9c3c4780bb5f74905fa6ed017164902ed909]\n\n[Image: d8f30c2a66f4b99bf54c1f26f7e26b63bb4636c823424233301051e1a507ba17]",
+        "imageIds": [
+            "02cbda1dba2730d4ad61a537cf1567cbb5ab38f162fdc342dcd6f90a1d33eea4",
+            "642b53f7f02da603762de0eab5c2d9557b17c07cf387d91503ff352b9d9f8c5f",
+            "b4e8751e3cc0889b274313be000c9c3c4780bb5f74905fa6ed017164902ed909",
+            "d8f30c2a66f4b99bf54c1f26f7e26b63bb4636c823424233301051e1a507ba17"
+        ]
+    },
+    "images": {
+        "02cbda1dba2730d4ad61a537cf1567cbb5ab38f162fdc342dcd6f90a1d33eea4": {
+            "file": "images/02cbda1dba2730d4ad61a537cf1567cbb5ab38f162fdc342dcd6f90a1d33eea4.jpg",
+            "filename": "paste-297984830996483.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 31240
+        },
+        "642b53f7f02da603762de0eab5c2d9557b17c07cf387d91503ff352b9d9f8c5f": {
+            "file": "images/642b53f7f02da603762de0eab5c2d9557b17c07cf387d91503ff352b9d9f8c5f.jpg",
+            "filename": "paste-299024213082115.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 39736
+        },
+        "b4e8751e3cc0889b274313be000c9c3c4780bb5f74905fa6ed017164902ed909": {
+            "file": "images/b4e8751e3cc0889b274313be000c9c3c4780bb5f74905fa6ed017164902ed909.jpg",
+            "filename": "paste-574877077602307.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46712
+        },
+        "d8f30c2a66f4b99bf54c1f26f7e26b63bb4636c823424233301051e1a507ba17": {
+            "file": "images/d8f30c2a66f4b99bf54c1f26f7e26b63bb4636c823424233301051e1a507ba17.jpg",
+            "filename": "paste-574950092046339.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47543
+        }
+    }
+}

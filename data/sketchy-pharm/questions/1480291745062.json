@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480291745062",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480291745062",
+        "noteId": "1480291378231",
+        "noteGuid": "kQ,lW$HiT;",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.4 - Etoposide, teniposide, topotecan, irinotecan",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(2)-DNA_&_Cellular_Division::2.4-Etoposide,Teniposide,Topotecan,Irinotecan",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "What is the function of Topoisomerase II?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Induces dsDNA nicks ⇒ Relieves supercoiling stress\n\n(Topoisomerase I ⇒ ssDNA nicks)\n\n[Image: ef011940d0066cd8bc452640443548915b0a66601409496f0d959206b1cb36fb]\n\n[Image: fccb8d998555cdf95dafecf4835b0d38d20171d4402dee19d4251e30712b5487]",
+        "imageIds": [
+            "ef011940d0066cd8bc452640443548915b0a66601409496f0d959206b1cb36fb",
+            "fccb8d998555cdf95dafecf4835b0d38d20171d4402dee19d4251e30712b5487"
+        ]
+    },
+    "images": {
+        "ef011940d0066cd8bc452640443548915b0a66601409496f0d959206b1cb36fb": {
+            "file": "images/ef011940d0066cd8bc452640443548915b0a66601409496f0d959206b1cb36fb.jpg",
+            "filename": "paste-9929964388355 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47303
+        },
+        "fccb8d998555cdf95dafecf4835b0d38d20171d4402dee19d4251e30712b5487": {
+            "file": "images/fccb8d998555cdf95dafecf4835b0d38d20171d4402dee19d4251e30712b5487.jpg",
+            "filename": "paste-9972914061315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48182
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480296085028",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480296085028",
+        "noteId": "1480295213390",
+        "noteGuid": "N?I@y:78Z^",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::1 Antimetabolites::1.2 - Azathioprine, 6-mercaptopurine, mycophenolate mofetil",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(1)-Antimetabolites::1.2-AZA,6-MP,Mycophenolate",
+        "$$Antineoplastics",
+        "$Antimetabolites"
+    ],
+    "question": {
+        "text": "Cell Cycle Specificity: Azathioprine",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "S phase\n\n[Image: 062a0c6c1123d5b1c7c9f88abb7bac54c11c5b838f74e0c82d032c0f5eadd5dd]",
+        "imageIds": [
+            "062a0c6c1123d5b1c7c9f88abb7bac54c11c5b838f74e0c82d032c0f5eadd5dd"
+        ]
+    },
+    "images": {
+        "062a0c6c1123d5b1c7c9f88abb7bac54c11c5b838f74e0c82d032c0f5eadd5dd": {
+            "file": "images/062a0c6c1123d5b1c7c9f88abb7bac54c11c5b838f74e0c82d032c0f5eadd5dd.jpg",
+            "filename": "paste-46420006535171.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54296
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476130090206",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476130090206",
+        "noteId": "1476128325499",
+        "noteGuid": "K=&GVJlRkw",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.2 - Biphosphonates, Raloxifene, Denosumab, Calcitonin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.2-Biphosphonates,Raloxifene,Denosumab,Calcitonin",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "Adverse Effects (3) : Biphosphonates",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Corrosive esophagitis\n(2) Osteonecrosis of jaw\n\n(3) Hypocalcemia\n\n[Image: 3dae59e5b828c15ff1321a1e55261aeb820127cf77f7c507c93b659a156b21d5]\n\n[Image: 08418e60988e40cd84184ff6a7f75f7d9b8e0c4244e07875186efcc32df039cd]\n\n[Image: 7a53f5f28f0322cfdc741e6bbe536aa826f30265557061ff516720810255f6ce]",
+        "imageIds": [
+            "3dae59e5b828c15ff1321a1e55261aeb820127cf77f7c507c93b659a156b21d5",
+            "08418e60988e40cd84184ff6a7f75f7d9b8e0c4244e07875186efcc32df039cd",
+            "7a53f5f28f0322cfdc741e6bbe536aa826f30265557061ff516720810255f6ce"
+        ]
+    },
+    "images": {
+        "08418e60988e40cd84184ff6a7f75f7d9b8e0c4244e07875186efcc32df039cd": {
+            "file": "images/08418e60988e40cd84184ff6a7f75f7d9b8e0c4244e07875186efcc32df039cd.jpg",
+            "filename": "paste-81819126988803.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58393
+        },
+        "3dae59e5b828c15ff1321a1e55261aeb820127cf77f7c507c93b659a156b21d5": {
+            "file": "images/3dae59e5b828c15ff1321a1e55261aeb820127cf77f7c507c93b659a156b21d5.jpg",
+            "filename": "paste-81746112544771.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57683
+        },
+        "7a53f5f28f0322cfdc741e6bbe536aa826f30265557061ff516720810255f6ce": {
+            "file": "images/7a53f5f28f0322cfdc741e6bbe536aa826f30265557061ff516720810255f6ce.jpg",
+            "filename": "paste-81935091105795.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56878
+        }
+    }
+}

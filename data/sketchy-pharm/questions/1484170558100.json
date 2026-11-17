@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484170558100",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484170558100",
+        "noteId": "1484169055669",
+        "noteGuid": "QrQ#;bxg=`",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.1 - Propofol, etomidate, ketamine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.1-Propofol,Etomidate,Ketamine",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "Which induction anesthetic has minimal effect on cardiac function?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Etomidate\n\n(Minimal changes to HR, BP, and contractility ∴ preferred for patients with heart disease)\n\n[Image: ba5edebaa9dccaf29ebced8c632cd0a4ccc534fb7719bba66a9e154975a5753c]",
+        "imageIds": [
+            "ba5edebaa9dccaf29ebced8c632cd0a4ccc534fb7719bba66a9e154975a5753c"
+        ]
+    },
+    "images": {
+        "ba5edebaa9dccaf29ebced8c632cd0a4ccc534fb7719bba66a9e154975a5753c": {
+            "file": "images/ba5edebaa9dccaf29ebced8c632cd0a4ccc534fb7719bba66a9e154975a5753c.jpg",
+            "filename": "paste-492160302448643.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 76796
+        }
+    }
+}

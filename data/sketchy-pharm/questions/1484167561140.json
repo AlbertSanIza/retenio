@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484167561140",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484167561140",
+        "noteId": "1475730679415",
+        "noteGuid": "OyB|BPtZk?",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.3 - Alpha drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.3-Alpha_drugs",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "MOA: Clonidine",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "α2 agonist\n\n[Image: 1336351fa355b8c088c980b9d7509ef9592aba988180380f6aacf2ce6498f90e]",
+        "imageIds": [
+            "1336351fa355b8c088c980b9d7509ef9592aba988180380f6aacf2ce6498f90e"
+        ]
+    },
+    "images": {
+        "1336351fa355b8c088c980b9d7509ef9592aba988180380f6aacf2ce6498f90e": {
+            "file": "images/1336351fa355b8c088c980b9d7509ef9592aba988180380f6aacf2ce6498f90e.jpg",
+            "filename": "paste-459784838971395.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65336
+        }
+    }
+}

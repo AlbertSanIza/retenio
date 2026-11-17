@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475696334080",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475696334080",
+        "noteId": "1475694860200",
+        "noteGuid": "NtP#}A1%P}",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::3 Antihypertensives::3.2 - Primary hypertension & hypertensive emergency",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(3)-Antihypertensives::3.2-Primary_Hypertension_&_Hypertensive_Emergency",
+        "$$Cardiovascular_&_Renal",
+        "$Antihypertensives"
+    ],
+    "question": {
+        "text": "Other than hypotension, what is a major possible side effect of Hydralazine?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Drug induced lupus\n\n[Image: 0fa1ba8a438ca84af39e75e772ddfa89a7e89e700d12f13c8e41820b9fd1a7c0]",
+        "imageIds": [
+            "0fa1ba8a438ca84af39e75e772ddfa89a7e89e700d12f13c8e41820b9fd1a7c0"
+        ]
+    },
+    "images": {
+        "0fa1ba8a438ca84af39e75e772ddfa89a7e89e700d12f13c8e41820b9fd1a7c0": {
+            "file": "images/0fa1ba8a438ca84af39e75e772ddfa89a7e89e700d12f13c8e41820b9fd1a7c0.jpg",
+            "filename": "paste-124944893607939.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47415
+        }
+    }
+}

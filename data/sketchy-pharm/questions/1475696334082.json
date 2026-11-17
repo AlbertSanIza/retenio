@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475696334082",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475696334082",
+        "noteId": "1475694860200",
+        "noteGuid": "NtP#}A1%P}",
+        "modelId": "1475688242543",
+        "templateOrdinal": 12
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::3 Antihypertensives::3.2 - Primary hypertension & hypertensive emergency",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(3)-Antihypertensives::3.2-Primary_Hypertension_&_Hypertensive_Emergency",
+        "$$Cardiovascular_&_Renal",
+        "$Antihypertensives"
+    ],
+    "question": {
+        "text": "What toxicity is associated with Nitroprusside?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Cyanide poisoning\n\n[Image: d5bb3b2ffcfbd32da42729ede6a760863e7ec7ee960502601df4cb0bc5ad220e]",
+        "imageIds": [
+            "d5bb3b2ffcfbd32da42729ede6a760863e7ec7ee960502601df4cb0bc5ad220e"
+        ]
+    },
+    "images": {
+        "d5bb3b2ffcfbd32da42729ede6a760863e7ec7ee960502601df4cb0bc5ad220e": {
+            "file": "images/d5bb3b2ffcfbd32da42729ede6a760863e7ec7ee960502601df4cb0bc5ad220e.jpg",
+            "filename": "paste-37263136260099.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51929
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484171512049",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484171512049",
+        "noteId": "1484170558195",
+        "noteGuid": "IPW<ydy+.t",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.2 - Inhaled anesthetics, dantrolene",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.2-Inhaled_Anesthetics,Dantrolene",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "Adverse Effects (4) : Inhaled anesthetics",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Cardiac depression\n(2) Malignant hyperthermia\n\n(3) Respiratory depression\n\n(4) ↓ Cerebral vascular resistant ⇒ Edema\n\n(Note: N2O is an exception, it does NOT cause respiratory depression or malignant hyperthermia)\n\n[Image: da79c02a6c1f28c9a097a1ca9f970eaea4ad02dc1b31cd8d82b1910149581954]\n\n[Image: cd8d09690d2a6539eafdaab815d6ca99fd9248a430d99b7f79a983bb98b73dbe]\n\n[Image: 424f17da3f440dddc8b1470bd300fff3415ec3ac23701c4393a2ab90e2319c3c]\n\n[Image: de0bc7c387c3b6838a6646b7886b13956e7025114226f3959cad2b62120e4f0f]",
+        "imageIds": [
+            "da79c02a6c1f28c9a097a1ca9f970eaea4ad02dc1b31cd8d82b1910149581954",
+            "cd8d09690d2a6539eafdaab815d6ca99fd9248a430d99b7f79a983bb98b73dbe",
+            "424f17da3f440dddc8b1470bd300fff3415ec3ac23701c4393a2ab90e2319c3c",
+            "de0bc7c387c3b6838a6646b7886b13956e7025114226f3959cad2b62120e4f0f"
+        ]
+    },
+    "images": {
+        "424f17da3f440dddc8b1470bd300fff3415ec3ac23701c4393a2ab90e2319c3c": {
+            "file": "images/424f17da3f440dddc8b1470bd300fff3415ec3ac23701c4393a2ab90e2319c3c.jpg",
+            "filename": "paste-557568359399427.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 83887
+        },
+        "cd8d09690d2a6539eafdaab815d6ca99fd9248a430d99b7f79a983bb98b73dbe": {
+            "file": "images/cd8d09690d2a6539eafdaab815d6ca99fd9248a430d99b7f79a983bb98b73dbe.jpg",
+            "filename": "paste-579060375748611.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 78690
+        },
+        "da79c02a6c1f28c9a097a1ca9f970eaea4ad02dc1b31cd8d82b1910149581954": {
+            "file": "images/da79c02a6c1f28c9a097a1ca9f970eaea4ad02dc1b31cd8d82b1910149581954.jpg",
+            "filename": "paste-553054348771331.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 83618
+        },
+        "de0bc7c387c3b6838a6646b7886b13956e7025114226f3959cad2b62120e4f0f": {
+            "file": "images/de0bc7c387c3b6838a6646b7886b13956e7025114226f3959cad2b62120e4f0f.jpg",
+            "filename": "paste-560647850950659.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 80823
+        }
+    }
+}

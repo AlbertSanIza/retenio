@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480834896629",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480834896629",
+        "noteId": "1480833587852",
+        "noteGuid": "uqQIy,Xsey",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::7 Antivirals: Hepatitis::7.2 - Ribavirin, sofosbuvir, simeprevir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(7)-Antivirals-Hepatitis::7.2-Ribavirin,Sofosbuvir,Simeprevir",
+        "$$Antimicrobials",
+        "$Antivirals_Hepatitis"
+    ],
+    "question": {
+        "text": "Name 2 infections that Ribavirin has been used to treat",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Hepatitis C\n(2) Respiratory synctial virus\n\n(RSV treatment now typically involves Palivizumab instead)\n\n[Image: 3ab50e554cc96f29eec731f5ded53fdcaeb27451b6b1af972ebe0c3c020caf7a]\n\n[Image: 849fbe1b768254647537073d39df6f95a1b4ebb8521ae2eafc3fcdd7aadef9f4]\n\n[Image: eb7431dc61121240e4f13abb87e9bb7aa4e8946493259cb24ccca4b04f2f5d64]",
+        "imageIds": [
+            "3ab50e554cc96f29eec731f5ded53fdcaeb27451b6b1af972ebe0c3c020caf7a",
+            "849fbe1b768254647537073d39df6f95a1b4ebb8521ae2eafc3fcdd7aadef9f4",
+            "eb7431dc61121240e4f13abb87e9bb7aa4e8946493259cb24ccca4b04f2f5d64"
+        ]
+    },
+    "images": {
+        "3ab50e554cc96f29eec731f5ded53fdcaeb27451b6b1af972ebe0c3c020caf7a": {
+            "file": "images/3ab50e554cc96f29eec731f5ded53fdcaeb27451b6b1af972ebe0c3c020caf7a.jpg",
+            "filename": "paste-380899174645763.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45445
+        },
+        "849fbe1b768254647537073d39df6f95a1b4ebb8521ae2eafc3fcdd7aadef9f4": {
+            "file": "images/849fbe1b768254647537073d39df6f95a1b4ebb8521ae2eafc3fcdd7aadef9f4.jpg",
+            "filename": "paste-77111842832387.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47454
+        },
+        "eb7431dc61121240e4f13abb87e9bb7aa4e8946493259cb24ccca4b04f2f5d64": {
+            "file": "images/eb7431dc61121240e4f13abb87e9bb7aa4e8946493259cb24ccca4b04f2f5d64.jpg",
+            "filename": "paste-381762463072259.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50438
+        }
+    }
+}

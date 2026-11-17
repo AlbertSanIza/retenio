@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475964331507",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475964331507",
+        "noteId": "1475963419084",
+        "noteGuid": "tV}T0_?yzP",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.3 - Class III",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.3-Class_III",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "What type of arrhythmias can class III antiarrhythmics treat?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Supraventricular and ventricular\n\n[Image: ae2b6e3bcb0c65621ba9df5c6ec30b42c2d748d42cf31eecac70cd19ed1c5cf8]\n\n[Image: 0b5b127993ac4bb0dc691614b639a2c4247273a8668a68a0e67192e9d1c26b25]",
+        "imageIds": [
+            "ae2b6e3bcb0c65621ba9df5c6ec30b42c2d748d42cf31eecac70cd19ed1c5cf8",
+            "0b5b127993ac4bb0dc691614b639a2c4247273a8668a68a0e67192e9d1c26b25"
+        ]
+    },
+    "images": {
+        "0b5b127993ac4bb0dc691614b639a2c4247273a8668a68a0e67192e9d1c26b25": {
+            "file": "images/0b5b127993ac4bb0dc691614b639a2c4247273a8668a68a0e67192e9d1c26b25.jpg",
+            "filename": "paste-42726334660611.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 40421
+        },
+        "ae2b6e3bcb0c65621ba9df5c6ec30b42c2d748d42cf31eecac70cd19ed1c5cf8": {
+            "file": "images/ae2b6e3bcb0c65621ba9df5c6ec30b42c2d748d42cf31eecac70cd19ed1c5cf8.jpg",
+            "filename": "paste-42670500085763.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44532
+        }
+    }
+}

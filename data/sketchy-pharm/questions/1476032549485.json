@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476032549485",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476032549485",
+        "noteId": "1476031894774",
+        "noteGuid": "r/v.#B/vmp",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.4 - Thrombolytics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.4-Thrombolytics",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "Contraindications (3) : Thrombolytic therapy",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Recent head trauma\n(2) Recent intracranial surgery\n\n(3) Severe hypertension\n\n[Image: aba21acff965154bf53fce3e497052be8b4363b31274739dbe8b526dc4ed7b3c]\n\n[Image: c67f95f39a99fa85d1528b3a536b2eb5620a01a37ccc808d5f6378ed76b3ed15]",
+        "imageIds": [
+            "aba21acff965154bf53fce3e497052be8b4363b31274739dbe8b526dc4ed7b3c",
+            "c67f95f39a99fa85d1528b3a536b2eb5620a01a37ccc808d5f6378ed76b3ed15"
+        ]
+    },
+    "images": {
+        "aba21acff965154bf53fce3e497052be8b4363b31274739dbe8b526dc4ed7b3c": {
+            "file": "images/aba21acff965154bf53fce3e497052be8b4363b31274739dbe8b526dc4ed7b3c.jpg",
+            "filename": "paste-25340307046403.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70859
+        },
+        "c67f95f39a99fa85d1528b3a536b2eb5620a01a37ccc808d5f6378ed76b3ed15": {
+            "file": "images/c67f95f39a99fa85d1528b3a536b2eb5620a01a37ccc808d5f6378ed76b3ed15.jpg",
+            "filename": "paste-25945897435139.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 75358
+        }
+    }
+}

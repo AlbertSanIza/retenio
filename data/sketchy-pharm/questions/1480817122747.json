@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480817122747",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480817122747",
+        "noteId": "1480816165877",
+        "noteGuid": "Qi(.XU0Lz8",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::3 Antimycobacterials::3.2 - Leprosy drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(3)-Antimycobacterials::3.2-Leprosy_Drugs",
+        "$$Antimicrobials",
+        "$Antimycobacterials"
+    ],
+    "question": {
+        "text": "Reservoir: Mycobacterium leprae",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Armadillo\n\n[Image: 0b4592c96bfc246108ef8e6f3c97447c6afebf02dc9823190d0c76dd593b797e]",
+        "imageIds": [
+            "0b4592c96bfc246108ef8e6f3c97447c6afebf02dc9823190d0c76dd593b797e"
+        ]
+    },
+    "images": {
+        "0b4592c96bfc246108ef8e6f3c97447c6afebf02dc9823190d0c76dd593b797e": {
+            "file": "images/0b4592c96bfc246108ef8e6f3c97447c6afebf02dc9823190d0c76dd593b797e.jpg",
+            "filename": "paste-192500434206723.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47610
+        }
+    }
+}

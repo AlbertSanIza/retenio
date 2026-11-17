@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480290406519",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480290406519",
+        "noteId": "1480289740188",
+        "noteGuid": "yRA]LR7@/u",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.3 - Bleomycin, doxorubicin, daunorubicin, actinomycin D",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(2)-DNA_&_Cellular_Division::2.3-Bleomycin,Doxorubicin,Daunorubicin,Actinomycin_D",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "Suffix: Anthracyclines",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "\"-rubicin\"\n\n[Image: 84ee2d01c8cd238bea1b258029cf247d41655255b5a82170b51384baab12d423]\n\n[Image: 2d54735021f56df8cab333341409d03bcebe3668f6e33ddb0d563d13fc901fa9]",
+        "imageIds": [
+            "84ee2d01c8cd238bea1b258029cf247d41655255b5a82170b51384baab12d423",
+            "2d54735021f56df8cab333341409d03bcebe3668f6e33ddb0d563d13fc901fa9"
+        ]
+    },
+    "images": {
+        "2d54735021f56df8cab333341409d03bcebe3668f6e33ddb0d563d13fc901fa9": {
+            "file": "images/2d54735021f56df8cab333341409d03bcebe3668f6e33ddb0d563d13fc901fa9.jpg",
+            "filename": "paste-44135083933699.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45008
+        },
+        "84ee2d01c8cd238bea1b258029cf247d41655255b5a82170b51384baab12d423": {
+            "file": "images/84ee2d01c8cd238bea1b258029cf247d41655255b5a82170b51384baab12d423.jpg",
+            "filename": "paste-41979010351107.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46359
+        }
+    }
+}

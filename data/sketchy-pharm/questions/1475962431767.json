@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475962431767",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475962431767",
+        "noteId": "1475962037924",
+        "noteGuid": "LK=6#G=0_h",
+        "modelId": "1475688242543",
+        "templateOrdinal": 16
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.1 - Class I A-C",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.1-Class_I_(A-C)",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "Adverse Effect: Class IB antiarrhythmics",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Neurological side effects\n\n[Image: 22f2767ec56067ff2508cdfc20d8a91a4f16347a14d88fe50795f07d8ef8c451]",
+        "imageIds": [
+            "22f2767ec56067ff2508cdfc20d8a91a4f16347a14d88fe50795f07d8ef8c451"
+        ]
+    },
+    "images": {
+        "22f2767ec56067ff2508cdfc20d8a91a4f16347a14d88fe50795f07d8ef8c451": {
+            "file": "images/22f2767ec56067ff2508cdfc20d8a91a4f16347a14d88fe50795f07d8ef8c451.jpg",
+            "filename": "paste-31353261260803.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65876
+        }
+    }
+}

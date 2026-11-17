@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475794790571",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475794790571",
+        "noteId": "1475793971812",
+        "noteGuid": "lxQq)Zvao+",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.1 - SSRIs, SNRIs, cyproheptadine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.1-SSRIs,SNRIs,Cyproheptadine",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "Treatment: Serotonin syndrome",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Cyproheptadine\n\n(Considered an H1 antagonist with secondary anti-serotonergic effects)\n\n[Image: eeea53297e4b7b7574b09c91428925e4eb244217a20ebeb15eb0907f246e581c]",
+        "imageIds": [
+            "eeea53297e4b7b7574b09c91428925e4eb244217a20ebeb15eb0907f246e581c"
+        ]
+    },
+    "images": {
+        "eeea53297e4b7b7574b09c91428925e4eb244217a20ebeb15eb0907f246e581c": {
+            "file": "images/eeea53297e4b7b7574b09c91428925e4eb244217a20ebeb15eb0907f246e581c.jpg",
+            "filename": "paste-16600048599043.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 72785
+        }
+    }
+}

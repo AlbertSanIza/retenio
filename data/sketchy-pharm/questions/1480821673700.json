@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480821673700",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480821673700",
+        "noteId": "1480821057791",
+        "noteGuid": "dR)O:O`t)>",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::4 Other Antibiotics::4.2 - Fluoroquinolones",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(4)-Other_Antibiotics::4.2-Flouroquinolones",
+        "$$Antimicrobials",
+        "$Other_Antibiotics"
+    ],
+    "question": {
+        "text": "Adverse Effects (4) : Flouroquinolones",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Torsades\n(2) GI distress\n\n(3) Tendon rupture\n\n(4) Teratogen\n\n(Teratogen ⇒ Abnormal cartilage development)\n\n[Image: 62cfcc3f5fa0940915ceeaaf313333793ce62c3523f64e1e09b14d4780245bae]\n\n[Image: b33c811f8b1f2f744346fe6a8cc131fda8a53f38520c6dd52577babb2e9c346f]\n\n[Image: da2211b06a3a86a0e7034fb847bf6b8402959ac6509d3f68228b67aa0bf5f876]\n\n[Image: 1d08e91cd2a03e2b565b92aacfa1cdd939f920cfdc455127f3a83cbe64bd69f6]",
+        "imageIds": [
+            "62cfcc3f5fa0940915ceeaaf313333793ce62c3523f64e1e09b14d4780245bae",
+            "b33c811f8b1f2f744346fe6a8cc131fda8a53f38520c6dd52577babb2e9c346f",
+            "da2211b06a3a86a0e7034fb847bf6b8402959ac6509d3f68228b67aa0bf5f876",
+            "1d08e91cd2a03e2b565b92aacfa1cdd939f920cfdc455127f3a83cbe64bd69f6"
+        ]
+    },
+    "images": {
+        "1d08e91cd2a03e2b565b92aacfa1cdd939f920cfdc455127f3a83cbe64bd69f6": {
+            "file": "images/1d08e91cd2a03e2b565b92aacfa1cdd939f920cfdc455127f3a83cbe64bd69f6.jpg",
+            "filename": "paste-235063560110083.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48721
+        },
+        "62cfcc3f5fa0940915ceeaaf313333793ce62c3523f64e1e09b14d4780245bae": {
+            "file": "images/62cfcc3f5fa0940915ceeaaf313333793ce62c3523f64e1e09b14d4780245bae.jpg",
+            "filename": "paste-231326938562563.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43793
+        },
+        "b33c811f8b1f2f744346fe6a8cc131fda8a53f38520c6dd52577babb2e9c346f": {
+            "file": "images/b33c811f8b1f2f744346fe6a8cc131fda8a53f38520c6dd52577babb2e9c346f.jpg",
+            "filename": "paste-234406430113795.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43675
+        },
+        "da2211b06a3a86a0e7034fb847bf6b8402959ac6509d3f68228b67aa0bf5f876": {
+            "file": "images/da2211b06a3a86a0e7034fb847bf6b8402959ac6509d3f68228b67aa0bf5f876.jpg",
+            "filename": "paste-234488034492419.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46992
+        }
+    }
+}

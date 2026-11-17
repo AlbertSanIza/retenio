@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476062885321",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476062885321",
+        "noteId": "1476060361139",
+        "noteGuid": "z-O#q8*S,w",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::1 Vasoactive::1.3-Prostaglandins,Prostacyclin,Bosentan, PDE5 inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(1)-Vasoactive::1.3-Prostaglandins,Prostacyclin,Bosentan,PDE-5_Inhibitors",
+        "$$Smooth_Muscle",
+        "$Vasoactive"
+    ],
+    "question": {
+        "text": "Name 3 physiologic effects of PGE1",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Arteriolar vasodilation\n(2) ↑ Gastric mucus secretion\n\n(3) ↑ Uterine contraction\n\n(Also prevents platelet aggregation)\n\n[Image: 1fcd93c48dd1bdcfa856887fb8bd5bd7324878f553490882a54c70352fe76e0c]\n\n[Image: 8d65e1ded7f4a86e065f055d5300dd656648aae23fa3083724318443f1dec984]",
+        "imageIds": [
+            "1fcd93c48dd1bdcfa856887fb8bd5bd7324878f553490882a54c70352fe76e0c",
+            "8d65e1ded7f4a86e065f055d5300dd656648aae23fa3083724318443f1dec984"
+        ]
+    },
+    "images": {
+        "1fcd93c48dd1bdcfa856887fb8bd5bd7324878f553490882a54c70352fe76e0c": {
+            "file": "images/1fcd93c48dd1bdcfa856887fb8bd5bd7324878f553490882a54c70352fe76e0c.jpg",
+            "filename": "paste-154949535137795.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57896
+        },
+        "8d65e1ded7f4a86e065f055d5300dd656648aae23fa3083724318443f1dec984": {
+            "file": "images/8d65e1ded7f4a86e065f055d5300dd656648aae23fa3083724318443f1dec984.jpg",
+            "filename": "paste-173112951832579.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65224
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480824571922",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480824571922",
+        "noteId": "1480823075841",
+        "noteGuid": "r}/0-Xm6|3",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::5 Antifungals::5.1 - Amphotericin, flucytosine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(5)-Antifungals::5.1-AmphotericinB,Flucytosine,Nystatin",
+        "$$Antimicrobials",
+        "$Antifungals"
+    ],
+    "question": {
+        "text": "Adverse Effects - Unrelated to kidneys (4) : Amphotericin B",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Infusion reaction ⇒ Hypotension\n(2) \"Shake and bake\" chills\n\n(3) Seizures\n\n(4) Thrombophlebitis\n\n(Note: Seizures usually due to intrathecal administration)\n\n[Image: aa194760484b485913949f4c0f547e31bda0d102372d40b00c9ed95779681eb1]\n\n[Image: 3c51675ea0dd7a885476d6b99c99612bd1e31e70f27fe70f7d71bfe40dd99e51]\n\n[Image: 6ebfefdf9594e4385709bdb4b325093785826e26fe2dcec94f37250beb0d9650]\n\n[Image: 88a5b77d52c173815c589f46a911b3c8e10e4836f4fab0cdbc2c9533a88021d1]",
+        "imageIds": [
+            "aa194760484b485913949f4c0f547e31bda0d102372d40b00c9ed95779681eb1",
+            "3c51675ea0dd7a885476d6b99c99612bd1e31e70f27fe70f7d71bfe40dd99e51",
+            "6ebfefdf9594e4385709bdb4b325093785826e26fe2dcec94f37250beb0d9650",
+            "88a5b77d52c173815c589f46a911b3c8e10e4836f4fab0cdbc2c9533a88021d1"
+        ]
+    },
+    "images": {
+        "3c51675ea0dd7a885476d6b99c99612bd1e31e70f27fe70f7d71bfe40dd99e51": {
+            "file": "images/3c51675ea0dd7a885476d6b99c99612bd1e31e70f27fe70f7d71bfe40dd99e51.jpg",
+            "filename": "paste-258398117429251.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 36319
+        },
+        "6ebfefdf9594e4385709bdb4b325093785826e26fe2dcec94f37250beb0d9650": {
+            "file": "images/6ebfefdf9594e4385709bdb4b325093785826e26fe2dcec94f37250beb0d9650.jpg",
+            "filename": "paste-258849088995331.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 39213
+        },
+        "88a5b77d52c173815c589f46a911b3c8e10e4836f4fab0cdbc2c9533a88021d1": {
+            "file": "images/88a5b77d52c173815c589f46a911b3c8e10e4836f4fab0cdbc2c9533a88021d1.jpg",
+            "filename": "paste-259003707817987.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 39161
+        },
+        "aa194760484b485913949f4c0f547e31bda0d102372d40b00c9ed95779681eb1": {
+            "file": "images/aa194760484b485913949f4c0f547e31bda0d102372d40b00c9ed95779681eb1.jpg",
+            "filename": "paste-258329397952515.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 35030
+        }
+    }
+}

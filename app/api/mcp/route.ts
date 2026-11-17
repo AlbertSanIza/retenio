@@ -1,16 +1,25 @@
+import { getAnkiImage, getRandomQuestions, imageInputSchema, randomQuestionsSchema } from '@/lib/anki'
 import { createMcpHandler } from 'mcp-handler'
-import { z } from 'zod'
 
 const handler = createMcpHandler((server) => {
     server.registerTool(
-        'hello',
+        'get_random_questions',
         {
-            description: 'Say hello from the Next.js MCP server.',
-            inputSchema: z.object({ name: z.string() })
+            description:
+                'Get 1–10 random Anki cards with stable IDs, categories ordered from broad to specific, question and answer text, and optional imageIds on each side. Image data is not included; call get_anki_image only when an image is needed. Cards do not repeat within a call; pass excludeCardIds to avoid earlier cards. When quizzing, show only the question and any needed question images until the learner answers. Answer images may reveal the solution.',
+            inputSchema: randomQuestionsSchema,
+            annotations: { readOnlyHint: true, destructiveHint: false, openWorldHint: false }
         },
-        async ({ name }) => ({
-            content: [{ type: 'text', text: `Hello, ${name}! From Next.js via MCP.` }]
-        })
+        getRandomQuestions
+    )
+    server.registerTool(
+        'get_anki_image',
+        {
+            description: 'Get an original Anki image on demand using an ID from question.imageIds or answer.imageIds returned by get_random_questions.',
+            inputSchema: imageInputSchema,
+            annotations: { readOnlyHint: true, destructiveHint: false, openWorldHint: false }
+        },
+        getAnkiImage
     )
 })
 

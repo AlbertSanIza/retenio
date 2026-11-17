@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479168771444",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479168771444",
+        "noteId": "1479167856326",
+        "noteGuid": "gr<{i]C0f-",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::5 Antipsychotics & Parkinson's::5.2 - Second generation antipsychotics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(5)-Antipsychotics_&_Parkinsons::5.2-Second_Generation_Antipsychotics",
+        "$$Neuro/Psych",
+        "$Antipsychotics_&_Parkinsons"
+    ],
+    "question": {
+        "text": "What adverse cardiac effect is associated with atypical antipsychotics?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Torsades de pointes\n\n[Image: 89b63609f40bd6e63d884a7f34506e27986df6b345265bee5319ca1db9d5f90c]",
+        "imageIds": [
+            "89b63609f40bd6e63d884a7f34506e27986df6b345265bee5319ca1db9d5f90c"
+        ]
+    },
+    "images": {
+        "89b63609f40bd6e63d884a7f34506e27986df6b345265bee5319ca1db9d5f90c": {
+            "file": "images/89b63609f40bd6e63d884a7f34506e27986df6b345265bee5319ca1db9d5f90c.jpg",
+            "filename": "paste-294127950364675.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66210
+        }
+    }
+}

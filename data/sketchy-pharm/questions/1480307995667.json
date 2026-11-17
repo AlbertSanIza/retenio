@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480307995667",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480307995667",
+        "noteId": "1480306961331",
+        "noteGuid": "Lpn4BX|*1X",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.1 - NRTIs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.1-NRTIs",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "MOA: NRTIs",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Incorporation into viral DNA ⇒ Premature chain termination\n\n[Image: 62fc2fceadc8db3ae5e27acd327ecbf25f560419cb5fbe8fb9979c0052fe5265]\n\n[Image: 4cdf9d1e2c5e1fb54a4951f59afec4413ebfb0394eef33a71edf30989e6aaeb8]",
+        "imageIds": [
+            "62fc2fceadc8db3ae5e27acd327ecbf25f560419cb5fbe8fb9979c0052fe5265",
+            "4cdf9d1e2c5e1fb54a4951f59afec4413ebfb0394eef33a71edf30989e6aaeb8"
+        ]
+    },
+    "images": {
+        "4cdf9d1e2c5e1fb54a4951f59afec4413ebfb0394eef33a71edf30989e6aaeb8": {
+            "file": "images/4cdf9d1e2c5e1fb54a4951f59afec4413ebfb0394eef33a71edf30989e6aaeb8.jpg",
+            "filename": "paste-257324375605251.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 76086
+        },
+        "62fc2fceadc8db3ae5e27acd327ecbf25f560419cb5fbe8fb9979c0052fe5265": {
+            "file": "images/62fc2fceadc8db3ae5e27acd327ecbf25f560419cb5fbe8fb9979c0052fe5265.jpg",
+            "filename": "paste-115349936668675.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44991
+        }
+    }
+}

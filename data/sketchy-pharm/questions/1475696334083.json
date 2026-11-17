@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475696334083",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475696334083",
+        "noteId": "1475694860200",
+        "noteGuid": "NtP#}A1%P}",
+        "modelId": "1475688242543",
+        "templateOrdinal": 13
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::3 Antihypertensives::3.2 - Primary hypertension & hypertensive emergency",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(3)-Antihypertensives::3.2-Primary_Hypertension_&_Hypertensive_Emergency",
+        "$$Cardiovascular_&_Renal",
+        "$Antihypertensives"
+    ],
+    "question": {
+        "text": "MOA: Fenoldopam",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "D1 agonist\n\n(⇒ Coronary vasodilation ⇒ ↑ O2 delivery)\n\n(⇒ Renal vasodilation ⇒ Natriuresis)\n\n[Image: a051b4e2f7a010ba0a0d7904fab7c20926b054c2fb4ef947ac0b9662d1adff16]\n\n[Image: 6a98c4d03c851e43d7ff6bbb524aa86cb7f6a6682bf2dd51673254195407d3e6]\n\n[Image: 1ebf208c60cb1ad47fdf3bfca27e1a8883621c30a82e9a69e967ff2d58b3c4a7]",
+        "imageIds": [
+            "a051b4e2f7a010ba0a0d7904fab7c20926b054c2fb4ef947ac0b9662d1adff16",
+            "6a98c4d03c851e43d7ff6bbb524aa86cb7f6a6682bf2dd51673254195407d3e6",
+            "1ebf208c60cb1ad47fdf3bfca27e1a8883621c30a82e9a69e967ff2d58b3c4a7"
+        ]
+    },
+    "images": {
+        "1ebf208c60cb1ad47fdf3bfca27e1a8883621c30a82e9a69e967ff2d58b3c4a7": {
+            "file": "images/1ebf208c60cb1ad47fdf3bfca27e1a8883621c30a82e9a69e967ff2d58b3c4a7.jpg",
+            "filename": "paste-126942053400579.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44671
+        },
+        "6a98c4d03c851e43d7ff6bbb524aa86cb7f6a6682bf2dd51673254195407d3e6": {
+            "file": "images/6a98c4d03c851e43d7ff6bbb524aa86cb7f6a6682bf2dd51673254195407d3e6.jpg",
+            "filename": "paste-126237678764035.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48659
+        },
+        "a051b4e2f7a010ba0a0d7904fab7c20926b054c2fb4ef947ac0b9662d1adff16": {
+            "file": "images/a051b4e2f7a010ba0a0d7904fab7c20926b054c2fb4ef947ac0b9662d1adff16.jpg",
+            "filename": "paste-37963215929347.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66870
+        }
+    }
+}

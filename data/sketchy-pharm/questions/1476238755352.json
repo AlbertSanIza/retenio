@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476238755352",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476238755352",
+        "noteId": "1476236480934",
+        "noteGuid": "cj@yKLEX0c",
+        "modelId": "1475688242543",
+        "templateOrdinal": 18
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.4 - K+ sparing diuretics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.4-Potassium_Sparing_Diuretics",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "What diuretic can be used to treat polycystic ovarian syndrome?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Spironolactone\n\n[Image: 71dfb23048b3b47c518330f66a3c64d8ac4ef81a67d8323240181e55ea801af7]\n\n[Image: fd055bc7564e11cdfa38b4827169e7700d07944d7110209737bb1583ea698b0b]",
+        "imageIds": [
+            "71dfb23048b3b47c518330f66a3c64d8ac4ef81a67d8323240181e55ea801af7",
+            "fd055bc7564e11cdfa38b4827169e7700d07944d7110209737bb1583ea698b0b"
+        ]
+    },
+    "images": {
+        "71dfb23048b3b47c518330f66a3c64d8ac4ef81a67d8323240181e55ea801af7": {
+            "file": "images/71dfb23048b3b47c518330f66a3c64d8ac4ef81a67d8323240181e55ea801af7.jpg",
+            "filename": "paste-118614111813635.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 69341
+        },
+        "fd055bc7564e11cdfa38b4827169e7700d07944d7110209737bb1583ea698b0b": {
+            "file": "images/fd055bc7564e11cdfa38b4827169e7700d07944d7110209737bb1583ea698b0b.jpg",
+            "filename": "paste-118983479001091.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 67993
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476057868191",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476057868191",
+        "noteId": "1476057511630",
+        "noteGuid": "DX{(cXG7Pq",
+        "modelId": "1475688242543",
+        "templateOrdinal": 20
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::2 Allergy & Pulmonary::2.2 - Asthma therapy",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(2)-Allergy_&_Pulmonary::2.2-Asthma_Therapy",
+        "$$Smooth_Muscle",
+        "$Allergy&Pulmonary"
+    ],
+    "question": {
+        "text": "MOA: Cromolyn Sulfate",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Inhibits mast cell degranulation\n\n(And ∴ histamine release)\n\n[Image: 9228b69ea03bd96774e17292e2a364f46f60663c22b201db5cd9d6a5935eed42]",
+        "imageIds": [
+            "9228b69ea03bd96774e17292e2a364f46f60663c22b201db5cd9d6a5935eed42"
+        ]
+    },
+    "images": {
+        "9228b69ea03bd96774e17292e2a364f46f60663c22b201db5cd9d6a5935eed42": {
+            "file": "images/9228b69ea03bd96774e17292e2a364f46f60663c22b201db5cd9d6a5935eed42.jpg",
+            "filename": "paste-27522150432771 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 95103
+        }
+    }
+}

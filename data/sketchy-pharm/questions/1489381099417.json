@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1489381099417",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1489381099417",
+        "noteId": "1489377832406",
+        "noteGuid": "qXy^sYw?Ac",
+        "modelId": "1475688242543",
+        "templateOrdinal": 13
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.3 - Teriparatide, Vitamin D, Cinacalcet, Sevelamer",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.3-Teriparatide,Vitamin_D,Cinacalcet,Sevelamer",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "What effect does Calcitriol have on GI electrolyte handling?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) ↑ Ca2+ reabsorption\n(2) ↑ PO42- reabsorption\n\n[Image: b1e05343d3816b87e867042f27d393dd15980e3247fe69c733f83e20c69abbe3]",
+        "imageIds": [
+            "b1e05343d3816b87e867042f27d393dd15980e3247fe69c733f83e20c69abbe3"
+        ]
+    },
+    "images": {
+        "b1e05343d3816b87e867042f27d393dd15980e3247fe69c733f83e20c69abbe3": {
+            "file": "images/b1e05343d3816b87e867042f27d393dd15980e3247fe69c733f83e20c69abbe3.jpg",
+            "filename": "paste-70123931041795.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 99738
+        }
+    }
+}

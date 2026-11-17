@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476032549483",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476032549483",
+        "noteId": "1476031894774",
+        "noteGuid": "r/v.#B/vmp",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.4 - Thrombolytics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.4-Thrombolytics",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "What is the time frame for percutaneous coronary intervention?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Within 2 hrs\n\n[Image: 93ecbab06f03d2177a21f90391f3f1be9b077aa1e4af76235a78b551e0a1533c]",
+        "imageIds": [
+            "93ecbab06f03d2177a21f90391f3f1be9b077aa1e4af76235a78b551e0a1533c"
+        ]
+    },
+    "images": {
+        "93ecbab06f03d2177a21f90391f3f1be9b077aa1e4af76235a78b551e0a1533c": {
+            "file": "images/93ecbab06f03d2177a21f90391f3f1be9b077aa1e4af76235a78b551e0a1533c.jpg",
+            "filename": "paste-24803436134403.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66779
+        }
+    }
+}

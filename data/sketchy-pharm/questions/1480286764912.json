@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480286764912",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480286764912",
+        "noteId": "1480285917662",
+        "noteGuid": "BKzdsM>lW[",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::3 Kinase Inhibitors & Monoclonal Antibodies\n::3.2 - Rituximab, cetuximab, bevacizumab, alemtuzumab, trastuzumab",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(3)-Kinase_Inhibitors_&_Monoclonal_Abs::3.2-Rituximab,Cetuximab,Bevacizumab,Alemtuzumab,Trastuzumab",
+        "$$Antineoplastics",
+        "$Kinase_Inhibitors_&_MonoclonalAbsbb"
+    ],
+    "question": {
+        "text": "MOA: Cetuximab",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "anti-EGFR\n\n[Image: cc4a304e40941e56c5d6055cb76eb691c043d2696f41ff393a70f0013db03276]\n\n[Image: f81687145eb6bc17187fe9f1aa8e676bc23d4fcc877ba2f3e219cba3c3830fc5]\n\n[Image: 875d78d9bb1cb9b61ca032ed522017cb4eac5b25a929193780da58e1f2da5083]",
+        "imageIds": [
+            "cc4a304e40941e56c5d6055cb76eb691c043d2696f41ff393a70f0013db03276",
+            "f81687145eb6bc17187fe9f1aa8e676bc23d4fcc877ba2f3e219cba3c3830fc5",
+            "875d78d9bb1cb9b61ca032ed522017cb4eac5b25a929193780da58e1f2da5083"
+        ]
+    },
+    "images": {
+        "875d78d9bb1cb9b61ca032ed522017cb4eac5b25a929193780da58e1f2da5083": {
+            "file": "images/875d78d9bb1cb9b61ca032ed522017cb4eac5b25a929193780da58e1f2da5083.jpg",
+            "filename": "paste-12790412607491.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46666
+        },
+        "cc4a304e40941e56c5d6055cb76eb691c043d2696f41ff393a70f0013db03276": {
+            "file": "images/cc4a304e40941e56c5d6055cb76eb691c043d2696f41ff393a70f0013db03276.jpg",
+            "filename": "paste-12932146528259.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49078
+        },
+        "f81687145eb6bc17187fe9f1aa8e676bc23d4fcc877ba2f3e219cba3c3830fc5": {
+            "file": "images/f81687145eb6bc17187fe9f1aa8e676bc23d4fcc877ba2f3e219cba3c3830fc5.jpg",
+            "filename": "paste-12987981103107 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48769
+        }
+    }
+}

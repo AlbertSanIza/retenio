@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475730097618",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475730097618",
+        "noteId": "1475728663965",
+        "noteGuid": "jP0(HG/*Ec",
+        "modelId": "1475688242543",
+        "templateOrdinal": 14
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.1 - Sympathomimetics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.1-Sympathomimetics",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "Indications (2) : Terbutaline",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Asthma\n(2) Preventing premature labor\n\n[Image: 8b2794195cb32b2d9b5c0472eb6fb98b1aee3865c71a442ab80ea1d007f45565]\n\n[Image: 79683b3e4b296cb3522c113b88a27fb95dcbd427b3557485c5ec74ae68b59258]\n\n[Image: ccca9e9f75997aec885a1c29faec05b84c4606e777088aa43fda5815997a7364]",
+        "imageIds": [
+            "8b2794195cb32b2d9b5c0472eb6fb98b1aee3865c71a442ab80ea1d007f45565",
+            "79683b3e4b296cb3522c113b88a27fb95dcbd427b3557485c5ec74ae68b59258",
+            "ccca9e9f75997aec885a1c29faec05b84c4606e777088aa43fda5815997a7364"
+        ]
+    },
+    "images": {
+        "79683b3e4b296cb3522c113b88a27fb95dcbd427b3557485c5ec74ae68b59258": {
+            "file": "images/79683b3e4b296cb3522c113b88a27fb95dcbd427b3557485c5ec74ae68b59258.jpg",
+            "filename": "paste-26409753903107.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60976
+        },
+        "8b2794195cb32b2d9b5c0472eb6fb98b1aee3865c71a442ab80ea1d007f45565": {
+            "file": "images/8b2794195cb32b2d9b5c0472eb6fb98b1aee3865c71a442ab80ea1d007f45565.jpg",
+            "filename": "paste-21088289423363.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60968
+        },
+        "ccca9e9f75997aec885a1c29faec05b84c4606e777088aa43fda5815997a7364": {
+            "file": "images/ccca9e9f75997aec885a1c29faec05b84c4606e777088aa43fda5815997a7364.jpg",
+            "filename": "paste-26164940767235.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60490
+        }
+    }
+}

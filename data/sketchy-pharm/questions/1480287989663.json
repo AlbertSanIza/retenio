@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480287989663",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480287989663",
+        "noteId": "1480286851836",
+        "noteGuid": "uXl&+5/(rn",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.1 - Cyclophosphamide, ifosfamide, busulifan, nitrosoureas (carmustine, lomustine, streptozocin)",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(2)-DNA_&_Cellular_Division::2.1-Cyclophosphamide,Busulfan,Nitrosoureas",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "How is Cyclophosphamide activated?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Hepatic CYP450 system\n\n[Image: 9ef5a4ef97227e53ecbaca2e83a11ee781f5ba222efd6451bc02a2d6a0b0b4d8]",
+        "imageIds": [
+            "9ef5a4ef97227e53ecbaca2e83a11ee781f5ba222efd6451bc02a2d6a0b0b4d8"
+        ]
+    },
+    "images": {
+        "9ef5a4ef97227e53ecbaca2e83a11ee781f5ba222efd6451bc02a2d6a0b0b4d8": {
+            "file": "images/9ef5a4ef97227e53ecbaca2e83a11ee781f5ba222efd6451bc02a2d6a0b0b4d8.jpg",
+            "filename": "paste-27724013895683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53298
+        }
+    }
+}

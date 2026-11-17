@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475796463155",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475796463155",
+        "noteId": "1475795781882",
+        "noteGuid": "uOs}?_Z]ZW",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.3 - MAO inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.3-MAOIs",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "Adverse Effects (2) : MAOIs",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Hypertensive crisis with Tyramine ingestion\n(2) Serotonin syndrome\n\n[Image: a6dddf2d12664d5754a5dac4bb6383692cadbb4d3861c165c3788c2c81f52341]\n\n[Image: 4186c418cb004e92866ab2a9253f3299cb46af8bc1f5bf9c049ddc5286312309]",
+        "imageIds": [
+            "a6dddf2d12664d5754a5dac4bb6383692cadbb4d3861c165c3788c2c81f52341",
+            "4186c418cb004e92866ab2a9253f3299cb46af8bc1f5bf9c049ddc5286312309"
+        ]
+    },
+    "images": {
+        "4186c418cb004e92866ab2a9253f3299cb46af8bc1f5bf9c049ddc5286312309": {
+            "file": "images/4186c418cb004e92866ab2a9253f3299cb46af8bc1f5bf9c049ddc5286312309.jpg",
+            "filename": "paste-26487063314435.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57402
+        },
+        "a6dddf2d12664d5754a5dac4bb6383692cadbb4d3861c165c3788c2c81f52341": {
+            "file": "images/a6dddf2d12664d5754a5dac4bb6383692cadbb4d3861c165c3788c2c81f52341.jpg",
+            "filename": "paste-26422638804995.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55290
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479166626411",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479166626411",
+        "noteId": "1479166331886",
+        "noteGuid": "nZiAb4L,QC",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::5 Antipsychotics & Parkinson's::5.1 - First generation antipsychotics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(5)-Antipsychotics_&_Parkinsons::5.1-First_Generation_Antipsychotics",
+        "$$Neuro/Psych",
+        "$Antipsychotics_&_Parkinsons"
+    ],
+    "question": {
+        "text": "What are the high potency first generation antipsychotics?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Trifluoperazine/Fluphenazine\n(2) Haloperidol\n\n[Image: 5cd08b6aeea99381231056e6734c09591375956aa61d8e12a0038be849cc2dfe]",
+        "imageIds": [
+            "5cd08b6aeea99381231056e6734c09591375956aa61d8e12a0038be849cc2dfe"
+        ]
+    },
+    "images": {
+        "5cd08b6aeea99381231056e6734c09591375956aa61d8e12a0038be849cc2dfe": {
+            "file": "images/5cd08b6aeea99381231056e6734c09591375956aa61d8e12a0038be849cc2dfe.jpg",
+            "filename": "paste-141313013972995.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62270
+        }
+    }
+}

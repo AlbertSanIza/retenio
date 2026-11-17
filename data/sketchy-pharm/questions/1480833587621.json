@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480833587621",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480833587621",
+        "noteId": "1480832933361",
+        "noteGuid": "tH&5`k/vx|",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::7 Antivirals: Hepatitis::7.1 - Interferon α, β, γ",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(7)-Antivirals-Hepatitis::7.1-Interferon_α,β,γ",
+        "$$Antimicrobials",
+        "$Antivirals_Hepatitis"
+    ],
+    "question": {
+        "text": "Adverse Effects (3) : Interferon-α",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Flu-like symptoms\n(2) Myelosuppression\n\n(3) Drug induced lupus\n\n[Image: 0bed83b8497b9c6c375d9547e970a2990dc36d3f8415e81aa8afb78f0b7e308b]\n\n[Image: a7990c2bcd0116b8c9555f6ecd93795e28ad046bb17ef5745619a864a01ce117]\n\n[Image: 46874f99b1a30375035c3e25a2f0cbd815c2dbfa39434c76a5b74c5f315a09fb]",
+        "imageIds": [
+            "0bed83b8497b9c6c375d9547e970a2990dc36d3f8415e81aa8afb78f0b7e308b",
+            "a7990c2bcd0116b8c9555f6ecd93795e28ad046bb17ef5745619a864a01ce117",
+            "46874f99b1a30375035c3e25a2f0cbd815c2dbfa39434c76a5b74c5f315a09fb"
+        ]
+    },
+    "images": {
+        "0bed83b8497b9c6c375d9547e970a2990dc36d3f8415e81aa8afb78f0b7e308b": {
+            "file": "images/0bed83b8497b9c6c375d9547e970a2990dc36d3f8415e81aa8afb78f0b7e308b.jpg",
+            "filename": "paste-378090266034179.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45887
+        },
+        "46874f99b1a30375035c3e25a2f0cbd815c2dbfa39434c76a5b74c5f315a09fb": {
+            "file": "images/46874f99b1a30375035c3e25a2f0cbd815c2dbfa39434c76a5b74c5f315a09fb.jpg",
+            "filename": "paste-378403798646787.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 33197
+        },
+        "a7990c2bcd0116b8c9555f6ecd93795e28ad046bb17ef5745619a864a01ce117": {
+            "file": "images/a7990c2bcd0116b8c9555f6ecd93795e28ad046bb17ef5745619a864a01ce117.jpg",
+            "filename": "paste-378305014398979.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51446
+        }
+    }
+}

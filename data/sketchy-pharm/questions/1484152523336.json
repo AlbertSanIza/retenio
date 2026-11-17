@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484152523336",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484152523336",
+        "noteId": "1484148711756",
+        "noteGuid": "v$dEtPd[H<",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::1 GI::1.3 - Laxatives & antidiarrheal agents",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(1)-GI::1.3-Laxatives_&_Antidiarrheal_Agents",
+        "$$GI_&_Endocrine",
+        "$GI"
+    ],
+    "question": {
+        "text": "Which μ-opioid agonist does not cross the BBB?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Loperamide\n\n[Image: 1a892102489683e3446611cdb474de08236a108291d76c86a5da58dfbe53a5c2]",
+        "imageIds": [
+            "1a892102489683e3446611cdb474de08236a108291d76c86a5da58dfbe53a5c2"
+        ]
+    },
+    "images": {
+        "1a892102489683e3446611cdb474de08236a108291d76c86a5da58dfbe53a5c2": {
+            "file": "images/1a892102489683e3446611cdb474de08236a108291d76c86a5da58dfbe53a5c2.jpg",
+            "filename": "paste-747027956760579.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 96059
+        }
+    }
+}

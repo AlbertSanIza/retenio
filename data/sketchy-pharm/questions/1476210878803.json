@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476210878803",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476210878803",
+        "noteId": "1476210297974",
+        "noteGuid": "n:FNxZoP&d",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.1 - Acetazolamide, mannitol",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.1-Acetazolamide",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "Is the renal tubule Na+/H+ exchanger located on the apical or basolateral membrane?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Apical\n\n[Image: e01ef9a06931dc9d5d2732b3e092fce227b7ef040556d0ec7a526e60eeb012cf]",
+        "imageIds": [
+            "e01ef9a06931dc9d5d2732b3e092fce227b7ef040556d0ec7a526e60eeb012cf"
+        ]
+    },
+    "images": {
+        "e01ef9a06931dc9d5d2732b3e092fce227b7ef040556d0ec7a526e60eeb012cf": {
+            "file": "images/e01ef9a06931dc9d5d2732b3e092fce227b7ef040556d0ec7a526e60eeb012cf.jpg",
+            "filename": "paste-48992691945475.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 40167
+        }
+    }
+}

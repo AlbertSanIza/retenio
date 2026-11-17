@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480290406523",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480290406523",
+        "noteId": "1480289740188",
+        "noteGuid": "yRA]LR7@/u",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.3 - Bleomycin, doxorubicin, daunorubicin, actinomycin D",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(2)-DNA_&_Cellular_Division::2.3-Bleomycin,Doxorubicin,Daunorubicin,Actinomycin_D",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "MOA: Dexrazoxane",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Iron chelator\n\n(Scavenging iron prevents the Fenton reaction from generating free radicals)\n\n[Image: 2a77739252463656e45d9fdbac5d81a52b085457488898f4736a416ccb4a85d1]",
+        "imageIds": [
+            "2a77739252463656e45d9fdbac5d81a52b085457488898f4736a416ccb4a85d1"
+        ]
+    },
+    "images": {
+        "2a77739252463656e45d9fdbac5d81a52b085457488898f4736a416ccb4a85d1": {
+            "file": "images/2a77739252463656e45d9fdbac5d81a52b085457488898f4736a416ccb4a85d1.jpg",
+            "filename": "paste-42795054137347.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54173
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480306961183",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480306961183",
+        "noteId": "1480306575061",
+        "noteGuid": "N%mpUOn}i_",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.7 - Daptomycin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.7-Daptomycin",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "What is the spectrum of activity of Daptomycin?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Gram (+)\n\n[Image: aab41b3fe45495826a8f87d6d6a455f316e48d8bd6cb7b51e42f10315ee7cebf]",
+        "imageIds": [
+            "aab41b3fe45495826a8f87d6d6a455f316e48d8bd6cb7b51e42f10315ee7cebf"
+        ]
+    },
+    "images": {
+        "aab41b3fe45495826a8f87d6d6a455f316e48d8bd6cb7b51e42f10315ee7cebf": {
+            "file": "images/aab41b3fe45495826a8f87d6d6a455f316e48d8bd6cb7b51e42f10315ee7cebf.jpg",
+            "filename": "paste-114087216283651.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 38705
+        }
+    }
+}

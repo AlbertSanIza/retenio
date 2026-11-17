@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480285212157",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480285212157",
+        "noteId": "1480284242370",
+        "noteGuid": "sm5L!@Ga^j",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::3 Kinase Inhibitors & Monoclonal Antibodies\n::3.1 - Imatinib, erlotinib, sorafenib, sunitinib, vemurafenib",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(3)-Kinase_Inhibitors_&_Monoclonal_Abs::3.1-Imatinib,Erlotinib,Sorafenib,Sunitinib,Vemurafenib",
+        "$$Antineoplastics",
+        "$Kinase_Inhibitors_&_MonoclonalAbs"
+    ],
+    "question": {
+        "text": "Suffix: Small molecule kinase inhibitors",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "\"-nib\"\n\n[Image: 67bb28dd10508245f76f39cdb9b29e3dc23b41c040ec13372bc760c38cda6149]",
+        "imageIds": [
+            "67bb28dd10508245f76f39cdb9b29e3dc23b41c040ec13372bc760c38cda6149"
+        ]
+    },
+    "images": {
+        "67bb28dd10508245f76f39cdb9b29e3dc23b41c040ec13372bc760c38cda6149": {
+            "file": "images/67bb28dd10508245f76f39cdb9b29e3dc23b41c040ec13372bc760c38cda6149.jpg",
+            "filename": "paste-6305011990531 (2).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 35331
+        }
+    }
+}

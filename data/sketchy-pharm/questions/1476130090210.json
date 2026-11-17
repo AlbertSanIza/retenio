@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476130090210",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476130090210",
+        "noteId": "1476128325499",
+        "noteGuid": "K=&GVJlRkw",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.2 - Biphosphonates, Raloxifene, Denosumab, Calcitonin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.2-Biphosphonates,Raloxifene,Denosumab,Calcitonin",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "MOA: Denosumab",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "anti-RANKL antibody\n\n[Image: ae24a87798050da66f372de555116228ac371feda0cd01d05b7794384c6a5fff]",
+        "imageIds": [
+            "ae24a87798050da66f372de555116228ac371feda0cd01d05b7794384c6a5fff"
+        ]
+    },
+    "images": {
+        "ae24a87798050da66f372de555116228ac371feda0cd01d05b7794384c6a5fff": {
+            "file": "images/ae24a87798050da66f372de555116228ac371feda0cd01d05b7794384c6a5fff.jpg",
+            "filename": "paste-82849919139843.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61363
+        }
+    }
+}

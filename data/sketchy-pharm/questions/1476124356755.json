@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476124356755",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476124356755",
+        "noteId": "1476123573815",
+        "noteGuid": "k=!B>3>6eG",
+        "modelId": "1475688242543",
+        "templateOrdinal": 14
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::2 Diabetes::2.1 - Insulin, Sulfonylureas, Meglitinides, GLP-1 Agonists, DPP-4 Inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(2)-Diabetes::2.1-Insulin,Sulfonylureas,Meglitinides,GLP-1_Agonists,DPP-4_Inhibitors",
+        "$$GI_&_Endocrine",
+        "$Diabetes"
+    ],
+    "question": {
+        "text": "What is the most common complication of insulin therapy?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Hypoglycemia\n\n(Duh!)\n\n[Image: 5e8e3d9406e1ce1e0ecb098042750783f30812b1a25bb07fab8eff741ba16d75]\n\n[Image: 822cb2576a946200e6d1b6404e8aaf49cbee2cf67a5f97bd831adda64dd877d0]",
+        "imageIds": [
+            "5e8e3d9406e1ce1e0ecb098042750783f30812b1a25bb07fab8eff741ba16d75",
+            "822cb2576a946200e6d1b6404e8aaf49cbee2cf67a5f97bd831adda64dd877d0"
+        ]
+    },
+    "images": {
+        "5e8e3d9406e1ce1e0ecb098042750783f30812b1a25bb07fab8eff741ba16d75": {
+            "file": "images/5e8e3d9406e1ce1e0ecb098042750783f30812b1a25bb07fab8eff741ba16d75.jpg",
+            "filename": "paste-40626095652867.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51662
+        },
+        "822cb2576a946200e6d1b6404e8aaf49cbee2cf67a5f97bd831adda64dd877d0": {
+            "file": "images/822cb2576a946200e6d1b6404e8aaf49cbee2cf67a5f97bd831adda64dd877d0.jpg",
+            "filename": "paste-41751377084419.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56292
+        }
+    }
+}

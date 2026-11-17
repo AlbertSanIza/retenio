@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480309372891",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480309372891",
+        "noteId": "1480309209169",
+        "noteGuid": "t(.L7mj0T?",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.4 - Maraviroc, fusion inhibitors, integrase inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.4-Maraviroc,Fusion_Inhibitors,_&_Integrase_Inhibitors",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "What does HIV pol gene code for?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Protease\n(2) Reverse transcriptase\n\n(3) Integrase\n\n[Image: 6220cd3b089e5a60e328f0bf57c26788c6890c7f7bd127d8454b6b3d4453d2de]\n\n[Image: 66078c1804e05e0a5c2d22e9e674ba4ae638033df58256dffeb2d6d347749b91]",
+        "imageIds": [
+            "6220cd3b089e5a60e328f0bf57c26788c6890c7f7bd127d8454b6b3d4453d2de",
+            "66078c1804e05e0a5c2d22e9e674ba4ae638033df58256dffeb2d6d347749b91"
+        ]
+    },
+    "images": {
+        "6220cd3b089e5a60e328f0bf57c26788c6890c7f7bd127d8454b6b3d4453d2de": {
+            "file": "images/6220cd3b089e5a60e328f0bf57c26788c6890c7f7bd127d8454b6b3d4453d2de.jpg",
+            "filename": "paste-126564096278531.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56667
+        },
+        "66078c1804e05e0a5c2d22e9e674ba4ae638033df58256dffeb2d6d347749b91": {
+            "file": "images/66078c1804e05e0a5c2d22e9e674ba4ae638033df58256dffeb2d6d347749b91.jpg",
+            "filename": "paste-240329190014979.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49492
+        }
+    }
+}

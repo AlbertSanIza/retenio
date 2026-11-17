@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476128325365",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476128325365",
+        "noteId": "1476127443039",
+        "noteGuid": "k+=G!`Nk3M",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::2 Diabetes::2.2 - Metformin,Thiazolidinediones, Pramlintide, SGLT-2 Inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(2)-Diabetes::2.2-Metformin,Thiazolidinediones,Pramlintide,SGLT-2_Inhibitors",
+        "$$GI_&_Endocrine",
+        "$Diabetes"
+    ],
+    "question": {
+        "text": "How do glitazones ↓ serum triglyceride levels?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) ↑ Fatty acid oxidation\n(2) ↑ Differentiation of adipocytes\n\n[Image: 219afaf8f8b0762b4b2255fe41bb8133636b91d1c8cfcfb5133c678bc387a492]\n\n[Image: ec4a33beff181f9849cc0b58ae2c5cf107f249dad91651555b6e43c20746200e]",
+        "imageIds": [
+            "219afaf8f8b0762b4b2255fe41bb8133636b91d1c8cfcfb5133c678bc387a492",
+            "ec4a33beff181f9849cc0b58ae2c5cf107f249dad91651555b6e43c20746200e"
+        ]
+    },
+    "images": {
+        "219afaf8f8b0762b4b2255fe41bb8133636b91d1c8cfcfb5133c678bc387a492": {
+            "file": "images/219afaf8f8b0762b4b2255fe41bb8133636b91d1c8cfcfb5133c678bc387a492.jpg",
+            "filename": "paste-64317135257603.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47418
+        },
+        "ec4a33beff181f9849cc0b58ae2c5cf107f249dad91651555b6e43c20746200e": {
+            "file": "images/ec4a33beff181f9849cc0b58ae2c5cf107f249dad91651555b6e43c20746200e.jpg",
+            "filename": "paste-64360084930563.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47853
+        }
+    }
+}

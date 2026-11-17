@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480816165701",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480816165701",
+        "noteId": "1480812867870",
+        "noteGuid": "B.#W9#QCRN",
+        "modelId": "1475688242543",
+        "templateOrdinal": 16
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::3 Antimycobacterials::3.1 - Tuberculosis Drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(3)-Antimycobacterials::3.1-Tuberculosis_Drugs",
+        "$$Antimicrobials",
+        "$Antimycobacterials"
+    ],
+    "question": {
+        "text": "Is Ethambutol bacteriostatic or bacteriocidal?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Bacteriostatic\n\n[Image: 3ac156b477cdbe043bf0e3986378a4aec533e1a0c652a839dbc8b5c890641b0f]",
+        "imageIds": [
+            "3ac156b477cdbe043bf0e3986378a4aec533e1a0c652a839dbc8b5c890641b0f"
+        ]
+    },
+    "images": {
+        "3ac156b477cdbe043bf0e3986378a4aec533e1a0c652a839dbc8b5c890641b0f": {
+            "file": "images/3ac156b477cdbe043bf0e3986378a4aec533e1a0c652a839dbc8b5c890641b0f.jpg",
+            "filename": "paste-183605556936707.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61893
+        }
+    }
+}

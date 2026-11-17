@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479164740209",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479164740209",
+        "noteId": "1479164083148",
+        "noteGuid": "iA?3DF,6G1",
+        "modelId": "1475688242543",
+        "templateOrdinal": 15
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::3 Anti-inflammatory::3.2 - Gout drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(3)-Anti-Inflammatory_Drugs::3.2-Gout_Drugs",
+        "$$Blood_&_Inflammation",
+        "$Anti-inflammatory"
+    ],
+    "question": {
+        "text": "What drug used to treat gout is notable for increasing the serum levels of several antibiotics?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Probenicid\n\n[Image: 6eaf20ee0c119bd26ee8d069d0d0dbb4013a5d1c9cb4a99da4aa402ae5d59f56]",
+        "imageIds": [
+            "6eaf20ee0c119bd26ee8d069d0d0dbb4013a5d1c9cb4a99da4aa402ae5d59f56"
+        ]
+    },
+    "images": {
+        "6eaf20ee0c119bd26ee8d069d0d0dbb4013a5d1c9cb4a99da4aa402ae5d59f56": {
+            "file": "images/6eaf20ee0c119bd26ee8d069d0d0dbb4013a5d1c9cb4a99da4aa402ae5d59f56.jpg",
+            "filename": "paste-86414741995523.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54914
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480307995676",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480307995676",
+        "noteId": "1480306961331",
+        "noteGuid": "Lpn4BX|*1X",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.1 - NRTIs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.1-NRTIs",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "Which NRTI is associated with pancreatitis?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Didanosine\n\n[Image: 42bb934e91bd09dec4c48c1360cd0ad2491801700e10ad64cfb6d8614b7d680b]\n\n[Image: 65beb2e6da0e353b7e7431ba9f867449b962c069a017ef6016c2fe201c69c025]",
+        "imageIds": [
+            "42bb934e91bd09dec4c48c1360cd0ad2491801700e10ad64cfb6d8614b7d680b",
+            "65beb2e6da0e353b7e7431ba9f867449b962c069a017ef6016c2fe201c69c025"
+        ]
+    },
+    "images": {
+        "42bb934e91bd09dec4c48c1360cd0ad2491801700e10ad64cfb6d8614b7d680b": {
+            "file": "images/42bb934e91bd09dec4c48c1360cd0ad2491801700e10ad64cfb6d8614b7d680b.jpg",
+            "filename": "paste-118047176130563.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58556
+        },
+        "65beb2e6da0e353b7e7431ba9f867449b962c069a017ef6016c2fe201c69c025": {
+            "file": "images/65beb2e6da0e353b7e7431ba9f867449b962c069a017ef6016c2fe201c69c025.jpg",
+            "filename": "paste-117991341555715.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59204
+        }
+    }
+}

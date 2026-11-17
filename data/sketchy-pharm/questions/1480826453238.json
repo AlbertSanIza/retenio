@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480826453238",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480826453238",
+        "noteId": "1480825958438",
+        "noteGuid": "wh`5lM*zbv",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::5 Antifungals::5.2 - Azoles",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(5)-Antifungals::5.2-Azoles",
+        "$$Antimicrobials",
+        "$Antifungals"
+    ],
+    "question": {
+        "text": "What is the azole of choice for the treatment of Cryptococcal meningitis?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Fluconazole\n\n(Combined with Flucytosine)\n\n[Image: 72ffdce2f317c5b4545174248ac98eb5ea71f9a6c21add29f9b790766bb2d8c6]",
+        "imageIds": [
+            "72ffdce2f317c5b4545174248ac98eb5ea71f9a6c21add29f9b790766bb2d8c6"
+        ]
+    },
+    "images": {
+        "72ffdce2f317c5b4545174248ac98eb5ea71f9a6c21add29f9b790766bb2d8c6": {
+            "file": "images/72ffdce2f317c5b4545174248ac98eb5ea71f9a6c21add29f9b790766bb2d8c6.jpg",
+            "filename": "paste-281947423113219.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50990
+        }
+    }
+}

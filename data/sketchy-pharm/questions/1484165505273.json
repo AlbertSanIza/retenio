@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484165505273",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484165505273",
+        "noteId": "1484162877085",
+        "noteGuid": "K^0}t0mL6T",
+        "modelId": "1475688242543",
+        "templateOrdinal": 15
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::5 Antipsychotics & Parkinson's::5.3 - Levodopa/carbidopa, entacapone, tolcapone, selegiline, ropinirole, pramipexole, amantadine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(5)-Antipsychotics_&_Parkinsons::5.3-Parkinsons_Drugs",
+        "$$Neuro/Psych",
+        "$Antipsychotics_&_Parkinsons"
+    ],
+    "question": {
+        "text": "Which symptom of Parkinsons is NOT treated by centrally acting anti-muscarinics?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Bradykinesia\n\n[Image: 9fc27735755fd694ecc4239b8e0cfe32e5d1c5fe338b1ffe1515d6099b51d795]\n\n[Image: ae2523413a9823aabf01bac95b1d0cefbab00dab9092ed872b9deb4e9db6ef6b]",
+        "imageIds": [
+            "9fc27735755fd694ecc4239b8e0cfe32e5d1c5fe338b1ffe1515d6099b51d795",
+            "ae2523413a9823aabf01bac95b1d0cefbab00dab9092ed872b9deb4e9db6ef6b"
+        ]
+    },
+    "images": {
+        "9fc27735755fd694ecc4239b8e0cfe32e5d1c5fe338b1ffe1515d6099b51d795": {
+            "file": "images/9fc27735755fd694ecc4239b8e0cfe32e5d1c5fe338b1ffe1515d6099b51d795.jpg",
+            "filename": "paste-323376677650435.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 77103
+        },
+        "ae2523413a9823aabf01bac95b1d0cefbab00dab9092ed872b9deb4e9db6ef6b": {
+            "file": "images/ae2523413a9823aabf01bac95b1d0cefbab00dab9092ed872b9deb4e9db6ef6b.jpg",
+            "filename": "paste-320391675379715.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 75066
+        }
+    }
+}

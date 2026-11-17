@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476064155416",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476064155416",
+        "noteId": "1476063149826",
+        "noteGuid": "z+V/(i)+AN",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::1 Vasoactive::1.2 - Triptans & migraine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(1)-Vasoactive::1.2-Triptans_&_Migraines",
+        "$$Smooth_Muscle",
+        "$Vasoactive"
+    ],
+    "question": {
+        "text": "Name 5 options available for migraine prophylaxis",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Calcium channel blockers\n(2) β-blockers\n\n(3) Valproic acid\n\n(4) Topiramate\n\n(5) Tricyclic antidepressants\n\n[Image: 3d176f198f34a3b128cc6856091a6478109029842444444f1ca876776ac2c29a]\n\n[Image: db1c172de6904911f1f5069bd080553b801101ab7af3417c13e22d2a5e7d7afa]\n\n[Image: 8db52ebb9cfe4bf393be62087b0677aa63b3defaad7ceca670d953fed02955b2]\n\n[Image: 102d6a068573346472bbb7ec69822904b60f3754647b84588c779adf99d52e27]\n\n[Image: 8359788da9477f1ff849d9b781ae0f7b37d4dfef8863978db9d4a50b36507be3]",
+        "imageIds": [
+            "3d176f198f34a3b128cc6856091a6478109029842444444f1ca876776ac2c29a",
+            "db1c172de6904911f1f5069bd080553b801101ab7af3417c13e22d2a5e7d7afa",
+            "8db52ebb9cfe4bf393be62087b0677aa63b3defaad7ceca670d953fed02955b2",
+            "102d6a068573346472bbb7ec69822904b60f3754647b84588c779adf99d52e27",
+            "8359788da9477f1ff849d9b781ae0f7b37d4dfef8863978db9d4a50b36507be3"
+        ]
+    },
+    "images": {
+        "102d6a068573346472bbb7ec69822904b60f3754647b84588c779adf99d52e27": {
+            "file": "images/102d6a068573346472bbb7ec69822904b60f3754647b84588c779adf99d52e27.jpg",
+            "filename": "paste-80891414052867.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 82585
+        },
+        "3d176f198f34a3b128cc6856091a6478109029842444444f1ca876776ac2c29a": {
+            "file": "images/3d176f198f34a3b128cc6856091a6478109029842444444f1ca876776ac2c29a.jpg",
+            "filename": "paste-80586471374851.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70750
+        },
+        "8359788da9477f1ff849d9b781ae0f7b37d4dfef8863978db9d4a50b36507be3": {
+            "file": "images/8359788da9477f1ff849d9b781ae0f7b37d4dfef8863978db9d4a50b36507be3.jpg",
+            "filename": "paste-80964428496899.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 83413
+        },
+        "8db52ebb9cfe4bf393be62087b0677aa63b3defaad7ceca670d953fed02955b2": {
+            "file": "images/8db52ebb9cfe4bf393be62087b0677aa63b3defaad7ceca670d953fed02955b2.jpg",
+            "filename": "paste-80762565033987.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 81909
+        },
+        "db1c172de6904911f1f5069bd080553b801101ab7af3417c13e22d2a5e7d7afa": {
+            "file": "images/db1c172de6904911f1f5069bd080553b801101ab7af3417c13e22d2a5e7d7afa.jpg",
+            "filename": "paste-80693845557251.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 68038
+        }
+    }
+}

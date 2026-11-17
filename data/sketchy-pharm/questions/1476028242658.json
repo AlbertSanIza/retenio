@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476028242658",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476028242658",
+        "noteId": "1476026238349",
+        "noteGuid": "q{jN<,Pl7#",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.1 - Heparin, LMWH, fondaparinux, direct thrombin inhibitors, Xa inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.1-Heparin,LMWH,Fondaparinux,Direct_Thrombin_Inhibitors",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "Which coagulation factors does Heparin inhibit?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Factor IIa\n\n(2) Factor Xa\n\n[Image: ab0ae0385d886e50cd1710e8719dedf2c0a7c5891ad07eaf4e7a821af316671e]",
+        "imageIds": [
+            "ab0ae0385d886e50cd1710e8719dedf2c0a7c5891ad07eaf4e7a821af316671e"
+        ]
+    },
+    "images": {
+        "ab0ae0385d886e50cd1710e8719dedf2c0a7c5891ad07eaf4e7a821af316671e": {
+            "file": "images/ab0ae0385d886e50cd1710e8719dedf2c0a7c5891ad07eaf4e7a821af316671e.jpg",
+            "filename": "paste-86612310491139.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 67633
+        }
+    }
+}

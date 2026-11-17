@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475704943312",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475704943312",
+        "noteId": "1475704171002",
+        "noteGuid": "M|s^}DGXy|",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::2 Dyslipidemia Drugs::2.3 - Fibrates, niacin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(2)-Dyslipidemia_Drugs::2.3-Fibrates,Niacin",
+        "$$Blood_&_Inflammation",
+        "$DyslipidemiaDrugs"
+    ],
+    "question": {
+        "text": "Contraindications (3) : Niacin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Liver disease\n(2) Diabetics\n\n(3) Gout\n\n[Image: 407a7f9010c00569f769302d6a841dfb8ba54f8882ff7531e5d954a37171ea4c]\n\n[Image: 1843d42817ce6d9f47fa5301110f9c551fb02d576ed402ea53033e0d44a12e94]\n\n[Image: af2657a5567229788df2c4d7d2621b3bd615b2f2a3df6e6b27dc2794a1ca5dfe]",
+        "imageIds": [
+            "407a7f9010c00569f769302d6a841dfb8ba54f8882ff7531e5d954a37171ea4c",
+            "1843d42817ce6d9f47fa5301110f9c551fb02d576ed402ea53033e0d44a12e94",
+            "af2657a5567229788df2c4d7d2621b3bd615b2f2a3df6e6b27dc2794a1ca5dfe"
+        ]
+    },
+    "images": {
+        "1843d42817ce6d9f47fa5301110f9c551fb02d576ed402ea53033e0d44a12e94": {
+            "file": "images/1843d42817ce6d9f47fa5301110f9c551fb02d576ed402ea53033e0d44a12e94.jpg",
+            "filename": "paste-16509854285827.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 96632
+        },
+        "407a7f9010c00569f769302d6a841dfb8ba54f8882ff7531e5d954a37171ea4c": {
+            "file": "images/407a7f9010c00569f769302d6a841dfb8ba54f8882ff7531e5d954a37171ea4c.jpg",
+            "filename": "paste-16707422781443.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60838
+        },
+        "af2657a5567229788df2c4d7d2621b3bd615b2f2a3df6e6b27dc2794a1ca5dfe": {
+            "file": "images/af2657a5567229788df2c4d7d2621b3bd615b2f2a3df6e6b27dc2794a1ca5dfe.jpg",
+            "filename": "paste-16582868729859.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 98309
+        }
+    }
+}

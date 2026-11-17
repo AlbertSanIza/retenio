@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480307995679",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480307995679",
+        "noteId": "1480306961331",
+        "noteGuid": "Lpn4BX|*1X",
+        "modelId": "1475688242543",
+        "templateOrdinal": 13
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.1 - NRTIs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.1-NRTIs",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "What type of hypersensitivity reaction is associated with Abacavir?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Type IV\n\n[Image: edfd8affd9f440bdd910564911317495049b86023af237ef79e5eca2dba1b2a7]",
+        "imageIds": [
+            "edfd8affd9f440bdd910564911317495049b86023af237ef79e5eca2dba1b2a7"
+        ]
+    },
+    "images": {
+        "edfd8affd9f440bdd910564911317495049b86023af237ef79e5eca2dba1b2a7": {
+            "file": "images/edfd8affd9f440bdd910564911317495049b86023af237ef79e5eca2dba1b2a7.jpg",
+            "filename": "paste-118596931944451.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65063
+        }
+    }
+}

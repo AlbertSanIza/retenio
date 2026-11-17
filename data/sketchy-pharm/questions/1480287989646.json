@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480287989646",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480287989646",
+        "noteId": "1480286851836",
+        "noteGuid": "uXl&+5/(rn",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.1 - Cyclophosphamide, ifosfamide, busulifan, nitrosoureas (carmustine, lomustine, streptozocin)",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(2)-DNA_&_Cellular_Division::2.1-Cyclophosphamide,Busulfan,Nitrosoureas",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "MOA: Cyclophosphamide",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Cytotoxic alkylating agent\n\n[Image: 5bbdf36ce58d193fbb33cf6f93f00318781e540c2b13427e5fff7cefbc82b76b]\n\n[Image: 78c5e5d03611a7222bada3fd829f13dfe398f39f21945e4c200c98f3f732791a]",
+        "imageIds": [
+            "5bbdf36ce58d193fbb33cf6f93f00318781e540c2b13427e5fff7cefbc82b76b",
+            "78c5e5d03611a7222bada3fd829f13dfe398f39f21945e4c200c98f3f732791a"
+        ]
+    },
+    "images": {
+        "5bbdf36ce58d193fbb33cf6f93f00318781e540c2b13427e5fff7cefbc82b76b": {
+            "file": "images/5bbdf36ce58d193fbb33cf6f93f00318781e540c2b13427e5fff7cefbc82b76b.jpg",
+            "filename": "paste-27608049778691.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51008
+        },
+        "78c5e5d03611a7222bada3fd829f13dfe398f39f21945e4c200c98f3f732791a": {
+            "file": "images/78c5e5d03611a7222bada3fd829f13dfe398f39f21945e4c200c98f3f732791a.jpg",
+            "filename": "paste-27590869909507.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49766
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476124356740",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476124356740",
+        "noteId": "1476123573815",
+        "noteGuid": "k=!B>3>6eG",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::2 Diabetes::2.1 - Insulin, Sulfonylureas, Meglitinides, GLP-1 Agonists, DPP-4 Inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(2)-Diabetes::2.1-Insulin,Sulfonylureas,Meglitinides,GLP-1_Agonists,DPP-4_Inhibitors",
+        "$$GI_&_Endocrine",
+        "$Diabetes"
+    ],
+    "question": {
+        "text": "Stimulation of what adrenergic receptor increases insulin secretion?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "β2\n\n[Image: e6e9a7f00e964846b818f90480d503db93a8fa9edf9aee15d02ae6ef6bc8e6cd]\n\n[Image: 761ef5f115a38adec73a8ca95205245e7973524cb83774b8ccf4275e9c80d90e]\n\n[Image: d5722b0e393ea7189fcdcc0ca559cb80e723a9222337507233a5e0f00163745f]",
+        "imageIds": [
+            "e6e9a7f00e964846b818f90480d503db93a8fa9edf9aee15d02ae6ef6bc8e6cd",
+            "761ef5f115a38adec73a8ca95205245e7973524cb83774b8ccf4275e9c80d90e",
+            "d5722b0e393ea7189fcdcc0ca559cb80e723a9222337507233a5e0f00163745f"
+        ]
+    },
+    "images": {
+        "761ef5f115a38adec73a8ca95205245e7973524cb83774b8ccf4275e9c80d90e": {
+            "file": "images/761ef5f115a38adec73a8ca95205245e7973524cb83774b8ccf4275e9c80d90e.jpg",
+            "filename": "paste-36391257899011.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 33964
+        },
+        "d5722b0e393ea7189fcdcc0ca559cb80e723a9222337507233a5e0f00163745f": {
+            "file": "images/d5722b0e393ea7189fcdcc0ca559cb80e723a9222337507233a5e0f00163745f.jpg",
+            "filename": "paste-36404142800899.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 36223
+        },
+        "e6e9a7f00e964846b818f90480d503db93a8fa9edf9aee15d02ae6ef6bc8e6cd": {
+            "file": "images/e6e9a7f00e964846b818f90480d503db93a8fa9edf9aee15d02ae6ef6bc8e6cd.jpg",
+            "filename": "paste-28754806046723.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 36297
+        }
+    }
+}

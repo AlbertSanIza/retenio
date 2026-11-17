@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480819869361",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480819869361",
+        "noteId": "1480817330855",
+        "noteGuid": "JorE&S@rr3",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::4 Other Antibiotics::4.1 - Trimethoprim/Sulfamethoxazole",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(4)-Other_Antibiotics::4.1-Trimethoprim/Sulfamethoxazole",
+        "$$Antimicrobials",
+        "$Other_Antibiotics"
+    ],
+    "question": {
+        "text": "MOA: Sulfamethoxazole",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "PABA analog ⇒ Inhibits dihydropterate synthase\n\n[Image: fffbda928975925af9339b90359150fc4f83656f0c3fa643c6693a11e1f79663]\n\n[Image: 1eb3980c9b62ad0117e46f77ce1af6f16036638e42408d5778c2cafb9273af45]",
+        "imageIds": [
+            "fffbda928975925af9339b90359150fc4f83656f0c3fa643c6693a11e1f79663",
+            "1eb3980c9b62ad0117e46f77ce1af6f16036638e42408d5778c2cafb9273af45"
+        ]
+    },
+    "images": {
+        "1eb3980c9b62ad0117e46f77ce1af6f16036638e42408d5778c2cafb9273af45": {
+            "file": "images/1eb3980c9b62ad0117e46f77ce1af6f16036638e42408d5778c2cafb9273af45.jpg",
+            "filename": "paste-200291504881667.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49950
+        },
+        "fffbda928975925af9339b90359150fc4f83656f0c3fa643c6693a11e1f79663": {
+            "file": "images/fffbda928975925af9339b90359150fc4f83656f0c3fa643c6693a11e1f79663.jpg",
+            "filename": "paste-200244260241411.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48561
+        }
+    }
+}

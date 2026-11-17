@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475962431752",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475962431752",
+        "noteId": "1475962037924",
+        "noteGuid": "LK=6#G=0_h",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.1 - Class I A-C",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.1-Class_I_(A-C)",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "Class I antiarrhythmics readily bind to Na+ channels in what state?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Open or inactivated\n\n(Not resting)\n\n[Image: b5be276c8a05e531785ac33e74feddee09b30db7ffb52e3f8e660367657a7d33]",
+        "imageIds": [
+            "b5be276c8a05e531785ac33e74feddee09b30db7ffb52e3f8e660367657a7d33"
+        ]
+    },
+    "images": {
+        "b5be276c8a05e531785ac33e74feddee09b30db7ffb52e3f8e660367657a7d33": {
+            "file": "images/b5be276c8a05e531785ac33e74feddee09b30db7ffb52e3f8e660367657a7d33.jpg",
+            "filename": "paste-24949465022467.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 40446
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475732239201",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475732239201",
+        "noteId": "1475731410843",
+        "noteGuid": "KE^F%)4EQ[",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.4 - Beta blockers",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.4-Beta_Drugs",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "What drug is a selective β1-blocker with partial agonist activity?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Acebutolol\n\n[Image: 24b2c37dce0bd4d700c1856a9392fdda404d3b80a026d069abb2b2afec612266]",
+        "imageIds": [
+            "24b2c37dce0bd4d700c1856a9392fdda404d3b80a026d069abb2b2afec612266"
+        ]
+    },
+    "images": {
+        "24b2c37dce0bd4d700c1856a9392fdda404d3b80a026d069abb2b2afec612266": {
+            "file": "images/24b2c37dce0bd4d700c1856a9392fdda404d3b80a026d069abb2b2afec612266.jpg",
+            "filename": "paste-39530878992387.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59741
+        }
+    }
+}

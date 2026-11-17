@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475704943314",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475704943314",
+        "noteId": "1475704171002",
+        "noteGuid": "M|s^}DGXy|",
+        "modelId": "1475688242543",
+        "templateOrdinal": 12
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::2 Dyslipidemia Drugs::2.3 - Fibrates, niacin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(2)-Dyslipidemia_Drugs::2.3-Fibrates,Niacin",
+        "$$Blood_&_Inflammation",
+        "$DyslipidemiaDrugs"
+    ],
+    "question": {
+        "text": "How does fish oil lower serum triglycerides?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) ↓ VLDL\n(2) ↓ ApoB\n\n[Image: b392fb6c5cada1f0855707eb2259eb94bc66a211490c1738b81003004363e03a]",
+        "imageIds": [
+            "b392fb6c5cada1f0855707eb2259eb94bc66a211490c1738b81003004363e03a"
+        ]
+    },
+    "images": {
+        "b392fb6c5cada1f0855707eb2259eb94bc66a211490c1738b81003004363e03a": {
+            "file": "images/b392fb6c5cada1f0855707eb2259eb94bc66a211490c1738b81003004363e03a.jpg",
+            "filename": "paste-17291538333699.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56596
+        }
+    }
+}

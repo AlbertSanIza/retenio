@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476124356764",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476124356764",
+        "noteId": "1476123573815",
+        "noteGuid": "k=!B>3>6eG",
+        "modelId": "1475688242543",
+        "templateOrdinal": 23
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::2 Diabetes::2.1 - Insulin, Sulfonylureas, Meglitinides, GLP-1 Agonists, DPP-4 Inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(2)-Diabetes::2.1-Insulin,Sulfonylureas,Meglitinides,GLP-1_Agonists,DPP-4_Inhibitors",
+        "$$GI_&_Endocrine",
+        "$Diabetes"
+    ],
+    "question": {
+        "text": "What are the physiologic actions of GLP-1?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) ↓ Glucagon secretion\n\n(2) Delay gastric emptying\n\n(Satiety, ↓ Glucagon release, Inhibit gastric emptying)\n\n[Image: e02f54c71063f4b807decde8798f8fddb7af7b3c94b1a19c993ef829a70d1067]\n\n[Image: b33ad591766df408657854c129db26de3120c08bca9eff2bbe3a23b372090e99]\n\n[Image: 99c148165103c320de9c81974b03544a517b4cff4a071b3a63b756d8ceece896]",
+        "imageIds": [
+            "e02f54c71063f4b807decde8798f8fddb7af7b3c94b1a19c993ef829a70d1067",
+            "b33ad591766df408657854c129db26de3120c08bca9eff2bbe3a23b372090e99",
+            "99c148165103c320de9c81974b03544a517b4cff4a071b3a63b756d8ceece896"
+        ]
+    },
+    "images": {
+        "99c148165103c320de9c81974b03544a517b4cff4a071b3a63b756d8ceece896": {
+            "file": "images/99c148165103c320de9c81974b03544a517b4cff4a071b3a63b756d8ceece896.jpg",
+            "filename": "paste-47605417508867.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55570
+        },
+        "b33ad591766df408657854c129db26de3120c08bca9eff2bbe3a23b372090e99": {
+            "file": "images/b33ad591766df408657854c129db26de3120c08bca9eff2bbe3a23b372090e99.jpg",
+            "filename": "paste-48614734823427.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57498
+        },
+        "e02f54c71063f4b807decde8798f8fddb7af7b3c94b1a19c993ef829a70d1067": {
+            "file": "images/e02f54c71063f4b807decde8798f8fddb7af7b3c94b1a19c993ef829a70d1067.jpg",
+            "filename": "paste-48322677047299.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56187
+        }
+    }
+}

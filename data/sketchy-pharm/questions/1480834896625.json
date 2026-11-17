@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480834896625",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480834896625",
+        "noteId": "1480833587852",
+        "noteGuid": "uqQIy,Xsey",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::7 Antivirals: Hepatitis::7.2 - Ribavirin, sofosbuvir, simeprevir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(7)-Antivirals-Hepatitis::7.2-Ribavirin,Sofosbuvir,Simeprevir",
+        "$$Antimicrobials",
+        "$Antivirals_Hepatitis"
+    ],
+    "question": {
+        "text": "What is/was the traditional treatment for Hepatitis C?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Interferon-α\n(2) Ribavirin\n\n(However treatment is changing quickly with new protease and polymerase inhibitors)\n\n[Image: 1b0a30dbc7fd0dd38cccf632e4d19ccbde8b8faebe86b9388b4b2b1dfcb86ac8]\n\n[Image: be5cbed77ee2fe84b75c7b1dc12242c7c3b9ca83c3785608c3abcaacb4a1895f]\n\n[Image: 3ab50e554cc96f29eec731f5ded53fdcaeb27451b6b1af972ebe0c3c020caf7a]\n\n[Image: 849fbe1b768254647537073d39df6f95a1b4ebb8521ae2eafc3fcdd7aadef9f4]",
+        "imageIds": [
+            "1b0a30dbc7fd0dd38cccf632e4d19ccbde8b8faebe86b9388b4b2b1dfcb86ac8",
+            "be5cbed77ee2fe84b75c7b1dc12242c7c3b9ca83c3785608c3abcaacb4a1895f",
+            "3ab50e554cc96f29eec731f5ded53fdcaeb27451b6b1af972ebe0c3c020caf7a",
+            "849fbe1b768254647537073d39df6f95a1b4ebb8521ae2eafc3fcdd7aadef9f4"
+        ]
+    },
+    "images": {
+        "1b0a30dbc7fd0dd38cccf632e4d19ccbde8b8faebe86b9388b4b2b1dfcb86ac8": {
+            "file": "images/1b0a30dbc7fd0dd38cccf632e4d19ccbde8b8faebe86b9388b4b2b1dfcb86ac8.jpg",
+            "filename": "paste-380796095430659.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34683
+        },
+        "3ab50e554cc96f29eec731f5ded53fdcaeb27451b6b1af972ebe0c3c020caf7a": {
+            "file": "images/3ab50e554cc96f29eec731f5ded53fdcaeb27451b6b1af972ebe0c3c020caf7a.jpg",
+            "filename": "paste-380899174645763.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45445
+        },
+        "849fbe1b768254647537073d39df6f95a1b4ebb8521ae2eafc3fcdd7aadef9f4": {
+            "file": "images/849fbe1b768254647537073d39df6f95a1b4ebb8521ae2eafc3fcdd7aadef9f4.jpg",
+            "filename": "paste-77111842832387.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47454
+        },
+        "be5cbed77ee2fe84b75c7b1dc12242c7c3b9ca83c3785608c3abcaacb4a1895f": {
+            "file": "images/be5cbed77ee2fe84b75c7b1dc12242c7c3b9ca83c3785608c3abcaacb4a1895f.jpg",
+            "filename": "paste-78872779423747.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49694
+        }
+    }
+}

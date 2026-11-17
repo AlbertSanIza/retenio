@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480296085032",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480296085032",
+        "noteId": "1480295213390",
+        "noteGuid": "N?I@y:78Z^",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::1 Antimetabolites::1.2 - Azathioprine, 6-mercaptopurine, mycophenolate mofetil",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(1)-Antimetabolites::1.2-AZA,6-MP,Mycophenolate",
+        "$$Antineoplastics",
+        "$Antimetabolites"
+    ],
+    "question": {
+        "text": "What notable drug interaction does AZA/6-MP have?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Xanthine oxidase inhibitors\n\n(I.e., Allopurinol, Febuxostat)\n\n[Image: 1c4738d31abf30fde9e967c70e67777536a0d96b187e28305afe74c518b26385]",
+        "imageIds": [
+            "1c4738d31abf30fde9e967c70e67777536a0d96b187e28305afe74c518b26385"
+        ]
+    },
+    "images": {
+        "1c4738d31abf30fde9e967c70e67777536a0d96b187e28305afe74c518b26385": {
+            "file": "images/1c4738d31abf30fde9e967c70e67777536a0d96b187e28305afe74c518b26385.jpg",
+            "filename": "paste-48554605281283 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63286
+        }
+    }
+}

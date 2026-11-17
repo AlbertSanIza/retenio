@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476139074863",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476139074863",
+        "noteId": "1476138898498",
+        "noteGuid": "fK:F+/_9Ap",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::4 Hypothalamic & Pituitary::4.1 - Growth_Hormone,Mecasermin,Octreotide,Pegvisomant",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(4)-Hypothalamic_&_Pituitary::4.2-Growth_Hormone,Mecasermin,Octreotide,Pegvisomant",
+        "$$GI_&_Endocrine",
+        "$Hypothalamic_&_Pituitary"
+    ],
+    "question": {
+        "text": "Indications (3) : Growth hormone (short stature)",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Idiopathic\n(2) Prader-Willi syndrome\n\n(3) Turner syndrome\n\n[Image: 45677d9663c22d8b9640a47aee24d7f361fafbb7a0f62082f9d3d85d6283eb7d]\n\n[Image: f985972e413a7e90d062e281198033189bedf96ca5557f10d56d6582cf36d875]",
+        "imageIds": [
+            "45677d9663c22d8b9640a47aee24d7f361fafbb7a0f62082f9d3d85d6283eb7d",
+            "f985972e413a7e90d062e281198033189bedf96ca5557f10d56d6582cf36d875"
+        ]
+    },
+    "images": {
+        "45677d9663c22d8b9640a47aee24d7f361fafbb7a0f62082f9d3d85d6283eb7d": {
+            "file": "images/45677d9663c22d8b9640a47aee24d7f361fafbb7a0f62082f9d3d85d6283eb7d.jpg",
+            "filename": "paste-94648194301955.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43942
+        },
+        "f985972e413a7e90d062e281198033189bedf96ca5557f10d56d6582cf36d875": {
+            "file": "images/f985972e413a7e90d062e281198033189bedf96ca5557f10d56d6582cf36d875.jpg",
+            "filename": "paste-94897302405123.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45810
+        }
+    }
+}

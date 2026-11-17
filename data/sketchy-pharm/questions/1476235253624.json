@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476235253624",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476235253624",
+        "noteId": "1476235100464",
+        "noteGuid": "vE5{@SswBz",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.2 - Loop diuretics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.2-Loop_Diuretics",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "Indications (3) : Loop diuretics",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Pulmonary edema/CHF\n(2) Ascites\n\n(3) Hypertension\n\n(Also useful in hypercalcemia)\n\n[Image: 55c8574dc2eb4ef8c98aa795e0fdfc0e3c851b97d3b22fdbe9f208a1d75411ab]\n\n[Image: e3869a53d321e28782ecfcb242d90d34791af81a2842f9260336aeefff0350d0]\n\n[Image: 23ec25d1ac9411e767dcb19c7f1068fe2c68cc423b09350b17b09702d7cd53b3]",
+        "imageIds": [
+            "55c8574dc2eb4ef8c98aa795e0fdfc0e3c851b97d3b22fdbe9f208a1d75411ab",
+            "e3869a53d321e28782ecfcb242d90d34791af81a2842f9260336aeefff0350d0",
+            "23ec25d1ac9411e767dcb19c7f1068fe2c68cc423b09350b17b09702d7cd53b3"
+        ]
+    },
+    "images": {
+        "23ec25d1ac9411e767dcb19c7f1068fe2c68cc423b09350b17b09702d7cd53b3": {
+            "file": "images/23ec25d1ac9411e767dcb19c7f1068fe2c68cc423b09350b17b09702d7cd53b3.jpg",
+            "filename": "paste-23210003267587.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62659
+        },
+        "55c8574dc2eb4ef8c98aa795e0fdfc0e3c851b97d3b22fdbe9f208a1d75411ab": {
+            "file": "images/55c8574dc2eb4ef8c98aa795e0fdfc0e3c851b97d3b22fdbe9f208a1d75411ab.jpg",
+            "filename": "paste-22260815495171.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 64926
+        },
+        "e3869a53d321e28782ecfcb242d90d34791af81a2842f9260336aeefff0350d0": {
+            "file": "images/e3869a53d321e28782ecfcb242d90d34791af81a2842f9260336aeefff0350d0.jpg",
+            "filename": "paste-22965190131715.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63566
+        }
+    }
+}

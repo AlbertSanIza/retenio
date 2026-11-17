@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475795781822",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475795781822",
+        "noteId": "1475794790683",
+        "noteGuid": "l!ym7T{M~Z",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.2 - Tricyclic antidepressants",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.2-TCAs",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "What is the treatment for widened QRS and arrhythmia in TCA overdose?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Sodium bicarbonate\n\n[Image: 9f2ebbc7de7b4eb4f5004ea3a106427d5299c000c606cf79da6143b11b4952d7]",
+        "imageIds": [
+            "9f2ebbc7de7b4eb4f5004ea3a106427d5299c000c606cf79da6143b11b4952d7"
+        ]
+    },
+    "images": {
+        "9f2ebbc7de7b4eb4f5004ea3a106427d5299c000c606cf79da6143b11b4952d7": {
+            "file": "images/9f2ebbc7de7b4eb4f5004ea3a106427d5299c000c606cf79da6143b11b4952d7.jpg",
+            "filename": "paste-22703197126659.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62238
+        }
+    }
+}

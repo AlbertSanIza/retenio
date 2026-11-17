@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476140451496",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476140451496",
+        "noteId": "1476139819858",
+        "noteGuid": "eO7SmiTCn*",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.4 - Glucocorticoids",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.4-Glucocorticoids",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "Name 4 physical symptoms of Cushing's syndrome",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Moon facie\n(2) Central adipose tissue\n\n(3) Muscle wasting\n\n(4) Skin thinning\n\n[Image: 34f50c5f0281fd190e6d1b018143bdefc37172fb9657a46dcff287980e9e840a]\n\n[Image: 8af28c947f0c27e4e4f14482a10ddb2dcd45a73d441b12266065ba791911e4af]\n\n[Image: 7070940807ead39ff661ee7b2e9160a6de5ca3643ae82ae15275657d06eb6a56]\n\n[Image: 8b4c988914e1984dacc1507a170719722a33a8598dcfe28240821b6ba578bba4]\n\n[Image: a52dc5b3986ea4bea9c2827813b5a1a03762b19219acd58d27b37af26c9eb3ed]",
+        "imageIds": [
+            "34f50c5f0281fd190e6d1b018143bdefc37172fb9657a46dcff287980e9e840a",
+            "8af28c947f0c27e4e4f14482a10ddb2dcd45a73d441b12266065ba791911e4af",
+            "7070940807ead39ff661ee7b2e9160a6de5ca3643ae82ae15275657d06eb6a56",
+            "8b4c988914e1984dacc1507a170719722a33a8598dcfe28240821b6ba578bba4",
+            "a52dc5b3986ea4bea9c2827813b5a1a03762b19219acd58d27b37af26c9eb3ed"
+        ]
+    },
+    "images": {
+        "34f50c5f0281fd190e6d1b018143bdefc37172fb9657a46dcff287980e9e840a": {
+            "file": "images/34f50c5f0281fd190e6d1b018143bdefc37172fb9657a46dcff287980e9e840a.jpg",
+            "filename": "paste-110625472643075.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55641
+        },
+        "7070940807ead39ff661ee7b2e9160a6de5ca3643ae82ae15275657d06eb6a56": {
+            "file": "images/7070940807ead39ff661ee7b2e9160a6de5ca3643ae82ae15275657d06eb6a56.jpg",
+            "filename": "paste-110775796498435.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53690
+        },
+        "8af28c947f0c27e4e4f14482a10ddb2dcd45a73d441b12266065ba791911e4af": {
+            "file": "images/8af28c947f0c27e4e4f14482a10ddb2dcd45a73d441b12266065ba791911e4af.jpg",
+            "filename": "paste-110707077021699.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54112
+        },
+        "8b4c988914e1984dacc1507a170719722a33a8598dcfe28240821b6ba578bba4": {
+            "file": "images/8b4c988914e1984dacc1507a170719722a33a8598dcfe28240821b6ba578bba4.jpg",
+            "filename": "paste-110831631073283.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54047
+        },
+        "a52dc5b3986ea4bea9c2827813b5a1a03762b19219acd58d27b37af26c9eb3ed": {
+            "file": "images/a52dc5b3986ea4bea9c2827813b5a1a03762b19219acd58d27b37af26c9eb3ed.jpg",
+            "filename": "paste-110969070026755.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54901
+        }
+    }
+}

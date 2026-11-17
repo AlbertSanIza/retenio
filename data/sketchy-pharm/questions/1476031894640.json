@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476031894640",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476031894640",
+        "noteId": "1476030554170",
+        "noteGuid": "m_Papk8UP1",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.3 - Antiplatelet agents",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.3-Antiplatelet_Agents",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "MOA: Aspirin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Irreversibly inhibits COX-1 and COX-2\n\n[Image: ba43f26b034e001c610f5d822700e6e53c8cee683e08308d24b6fa52354eff54]",
+        "imageIds": [
+            "ba43f26b034e001c610f5d822700e6e53c8cee683e08308d24b6fa52354eff54"
+        ]
+    },
+    "images": {
+        "ba43f26b034e001c610f5d822700e6e53c8cee683e08308d24b6fa52354eff54": {
+            "file": "images/ba43f26b034e001c610f5d822700e6e53c8cee683e08308d24b6fa52354eff54.jpg",
+            "filename": "paste-17051020165123.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55703
+        }
+    }
+}

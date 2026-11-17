@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480816165696",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480816165696",
+        "noteId": "1480812867870",
+        "noteGuid": "B.#W9#QCRN",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::3 Antimycobacterials::3.1 - Tuberculosis Drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(3)-Antimycobacterials::3.1-Tuberculosis_Drugs",
+        "$$Antimicrobials",
+        "$Antimycobacterials"
+    ],
+    "question": {
+        "text": "Which antimycobacterial agent is a potent inducer of CYP450?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Rifampin\n\n(Compared to Isoniazid which inhibits CYP450)\n\n[Image: 4cb1876032c5574fab79bfc6094f24ba959db7b862df9c78ad9d88b4034e3614]",
+        "imageIds": [
+            "4cb1876032c5574fab79bfc6094f24ba959db7b862df9c78ad9d88b4034e3614"
+        ]
+    },
+    "images": {
+        "4cb1876032c5574fab79bfc6094f24ba959db7b862df9c78ad9d88b4034e3614": {
+            "file": "images/4cb1876032c5574fab79bfc6094f24ba959db7b862df9c78ad9d88b4034e3614.jpg",
+            "filename": "paste-180216827740163.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51985
+        }
+    }
+}

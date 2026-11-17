@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476128325369",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476128325369",
+        "noteId": "1476127443039",
+        "noteGuid": "k+=G!`Nk3M",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::2 Diabetes::2.2 - Metformin,Thiazolidinediones, Pramlintide, SGLT-2 Inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(2)-Diabetes::2.2-Metformin,Thiazolidinediones,Pramlintide,SGLT-2_Inhibitors",
+        "$$GI_&_Endocrine",
+        "$Diabetes"
+    ],
+    "question": {
+        "text": "What drug can be used to treat T1DM and T2DM but is not an insulin analog?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Amylin\n\n[Image: 3554cefd8af7ede063c2cc6777408e2fa2e38fe6c704a3e4575e902c05536592]",
+        "imageIds": [
+            "3554cefd8af7ede063c2cc6777408e2fa2e38fe6c704a3e4575e902c05536592"
+        ]
+    },
+    "images": {
+        "3554cefd8af7ede063c2cc6777408e2fa2e38fe6c704a3e4575e902c05536592": {
+            "file": "images/3554cefd8af7ede063c2cc6777408e2fa2e38fe6c704a3e4575e902c05536592.jpg",
+            "filename": "paste-74191265071107.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50505
+        }
+    }
+}

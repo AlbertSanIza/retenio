@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475731410754",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475731410754",
+        "noteId": "1475730679415",
+        "noteGuid": "OyB|BPtZk?",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.3 - Alpha drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.3-Alpha_drugs",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "MOA: Phenoxybenzamine",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Irreversibly inhibits α1 and α2\n\n[Image: 81821ed93532e3b1d4db6d981572a475e661c5ef0cc4fe467407f46379342b3e]",
+        "imageIds": [
+            "81821ed93532e3b1d4db6d981572a475e661c5ef0cc4fe467407f46379342b3e"
+        ]
+    },
+    "images": {
+        "81821ed93532e3b1d4db6d981572a475e661c5ef0cc4fe467407f46379342b3e": {
+            "file": "images/81821ed93532e3b1d4db6d981572a475e661c5ef0cc4fe467407f46379342b3e.jpg",
+            "filename": "paste-32624571580419.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50529
+        }
+    }
+}

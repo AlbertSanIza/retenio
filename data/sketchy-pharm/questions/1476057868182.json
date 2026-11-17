@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476057868182",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476057868182",
+        "noteId": "1476057511630",
+        "noteGuid": "DX{(cXG7Pq",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::2 Allergy & Pulmonary::2.2 - Asthma therapy",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(2)-Allergy_&_Pulmonary::2.2-Asthma_Therapy",
+        "$$Smooth_Muscle",
+        "$Allergy&Pulmonary"
+    ],
+    "question": {
+        "text": "Which asthma drug requires monitoring for hepatotoxicity?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Zileuton\n\n[Image: 48e5ded7a29bcaca11460e119ab0785cdf96f654d3071bd02f658f7caa5d39d6]",
+        "imageIds": [
+            "48e5ded7a29bcaca11460e119ab0785cdf96f654d3071bd02f658f7caa5d39d6"
+        ]
+    },
+    "images": {
+        "48e5ded7a29bcaca11460e119ab0785cdf96f654d3071bd02f658f7caa5d39d6": {
+            "file": "images/48e5ded7a29bcaca11460e119ab0785cdf96f654d3071bd02f658f7caa5d39d6.jpg",
+            "filename": "paste-24820616003587.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70693
+        }
+    }
+}

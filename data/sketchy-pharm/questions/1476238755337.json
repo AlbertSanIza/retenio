@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476238755337",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476238755337",
+        "noteId": "1476236480934",
+        "noteGuid": "cj@yKLEX0c",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.4 - K+ sparing diuretics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.4-Potassium_Sparing_Diuretics",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "Where is ENaC located?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Apical collecting duct membrane\n\n[Image: dc48431c026f0197edce750ac31c9ed4365563000d733e4d927ee402e9636c9b]",
+        "imageIds": [
+            "dc48431c026f0197edce750ac31c9ed4365563000d733e4d927ee402e9636c9b"
+        ]
+    },
+    "images": {
+        "dc48431c026f0197edce750ac31c9ed4365563000d733e4d927ee402e9636c9b": {
+            "file": "images/dc48431c026f0197edce750ac31c9ed4365563000d733e4d927ee402e9636c9b.jpg",
+            "filename": "paste-92324616994819.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48376
+        }
+    }
+}

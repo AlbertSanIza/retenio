@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475963418998",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475963418998",
+        "noteId": "1475962431917",
+        "noteGuid": "g~p_aT&`(Y",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.2 - Class II",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.2-Class_II",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "What type of arrhythmias do class II antiarrhythmics treat?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Supraventricular\n\n(i.e., atrial fibrillation)\n\n[Image: 3f2545d5a4fd5bea73611c7423cab92af2435539a34d5436539a5606b10c4aaf]\n\n[Image: 4706a18bd09b6cbb849902eb2bf6b6f4cae65290d4a9f55abeb1801164db3dde]",
+        "imageIds": [
+            "3f2545d5a4fd5bea73611c7423cab92af2435539a34d5436539a5606b10c4aaf",
+            "4706a18bd09b6cbb849902eb2bf6b6f4cae65290d4a9f55abeb1801164db3dde"
+        ]
+    },
+    "images": {
+        "3f2545d5a4fd5bea73611c7423cab92af2435539a34d5436539a5606b10c4aaf": {
+            "file": "images/3f2545d5a4fd5bea73611c7423cab92af2435539a34d5436539a5606b10c4aaf.jpg",
+            "filename": "paste-40523016437763.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48117
+        },
+        "4706a18bd09b6cbb849902eb2bf6b6f4cae65290d4a9f55abeb1801164db3dde": {
+            "file": "images/4706a18bd09b6cbb849902eb2bf6b6f4cae65290d4a9f55abeb1801164db3dde.jpg",
+            "filename": "paste-41575283425283.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49890
+        }
+    }
+}

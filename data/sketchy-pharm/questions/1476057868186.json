@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476057868186",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476057868186",
+        "noteId": "1476057511630",
+        "noteGuid": "DX{(cXG7Pq",
+        "modelId": "1475688242543",
+        "templateOrdinal": 15
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::2 Allergy & Pulmonary::2.2 - Asthma therapy",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(2)-Allergy_&_Pulmonary::2.2-Asthma_Therapy",
+        "$$Smooth_Muscle",
+        "$Allergy&Pulmonary"
+    ],
+    "question": {
+        "text": "ROA: Theophylline",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Oral\n\n[Image: f06bb0fd957e385c93e7fe0aad0d2ceef5c927c121ce72bf6820dc76d143ed2b]",
+        "imageIds": [
+            "f06bb0fd957e385c93e7fe0aad0d2ceef5c927c121ce72bf6820dc76d143ed2b"
+        ]
+    },
+    "images": {
+        "f06bb0fd957e385c93e7fe0aad0d2ceef5c927c121ce72bf6820dc76d143ed2b": {
+            "file": "images/f06bb0fd957e385c93e7fe0aad0d2ceef5c927c121ce72bf6820dc76d143ed2b.jpg",
+            "filename": "paste-26027501813763.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61605
+        }
+    }
+}

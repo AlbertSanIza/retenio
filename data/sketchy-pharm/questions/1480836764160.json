@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480836764160",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480836764160",
+        "noteId": "1480835348971",
+        "noteGuid": "i*mBW%(]hE",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::8 Antivirals: other::8.1 - Acyclovir, valacyclovir, famciclovir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(8)-Antivirals-Other::8.1-Acyclovir,Valacyclovir,Famiciclovir",
+        "$$Antimicrobials",
+        "$Antivirals_Others"
+    ],
+    "question": {
+        "text": "Which antiviral is used to treat HSV encephalitis?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Acyclovir\n\n(Acyclovir is likely preferred over Valacyclovir in serious situations due to IV administration)\n\n[Image: dfaba8d251600c454b51956a6ec617eb0081d138f465ed84bb9a47cc72aba175]",
+        "imageIds": [
+            "dfaba8d251600c454b51956a6ec617eb0081d138f465ed84bb9a47cc72aba175"
+        ]
+    },
+    "images": {
+        "dfaba8d251600c454b51956a6ec617eb0081d138f465ed84bb9a47cc72aba175": {
+            "file": "images/dfaba8d251600c454b51956a6ec617eb0081d138f465ed84bb9a47cc72aba175.jpg",
+            "filename": "paste-391589348245507.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46784
+        }
+    }
+}

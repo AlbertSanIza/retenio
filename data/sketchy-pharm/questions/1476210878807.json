@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476210878807",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476210878807",
+        "noteId": "1476210297974",
+        "noteGuid": "n:FNxZoP&d",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.1 - Acetazolamide, mannitol",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.1-Acetazolamide",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "Name 3 effects Acetazolamide has on renal electrolyte concentrations",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) ↑ HCO3-\n(2) ↑ Na+\n\n(3) ↑ K+\n\n(↓ CA ⇒ ↓ Intracellular H+ ⇒ Inhibition of Na+/H+ exchanger ⇒ ↑ lumenal [Na+])\n\n[Image: 2d35b75d2b65b443d1e35aaf83946595116a4bfaa6ab82a3d65275693b215424]\n\n[Image: c80d65611bc474a041fccfbc756a79a5ea4a51aa5d54927fcbca46798ca02b4c]\n\n[Image: 00fdf6cd98faa0a6ddde1e76dbabd4183d6bdca7887ac44f9e8c9993df8f9d2a]",
+        "imageIds": [
+            "2d35b75d2b65b443d1e35aaf83946595116a4bfaa6ab82a3d65275693b215424",
+            "c80d65611bc474a041fccfbc756a79a5ea4a51aa5d54927fcbca46798ca02b4c",
+            "00fdf6cd98faa0a6ddde1e76dbabd4183d6bdca7887ac44f9e8c9993df8f9d2a"
+        ]
+    },
+    "images": {
+        "00fdf6cd98faa0a6ddde1e76dbabd4183d6bdca7887ac44f9e8c9993df8f9d2a": {
+            "file": "images/00fdf6cd98faa0a6ddde1e76dbabd4183d6bdca7887ac44f9e8c9993df8f9d2a.jpg",
+            "filename": "paste-53974854008835.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55415
+        },
+        "2d35b75d2b65b443d1e35aaf83946595116a4bfaa6ab82a3d65275693b215424": {
+            "file": "images/2d35b75d2b65b443d1e35aaf83946595116a4bfaa6ab82a3d65275693b215424.jpg",
+            "filename": "paste-52463025520643.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55331
+        },
+        "c80d65611bc474a041fccfbc756a79a5ea4a51aa5d54927fcbca46798ca02b4c": {
+            "file": "images/c80d65611bc474a041fccfbc756a79a5ea4a51aa5d54927fcbca46798ca02b4c.jpg",
+            "filename": "paste-52583284604931.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50541
+        }
+    }
+}

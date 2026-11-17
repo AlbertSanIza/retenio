@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480289483957",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480289483957",
+        "noteId": "1480287989907",
+        "noteGuid": "Ns&j{vB_eR",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.2 - Cisplatin, carboplatin, oxaliplatin, amifostine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(2)-DNA_&_Cellular_Division::2.2-Platin_Drugs_&_Amifostine",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "Name 2 ways to prevent Cisplatin-induced nephrotoxicity",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Co-administer Amifostine\n(2) IV Saline diuresis\n\n[Image: 448205fd91b91eca4df5f1793966dd6a2093268e4fe8ca8deb4408a67e00d35c]\n\n[Image: 9ccea6c878c7b574dc326d4c8148380b6fa94a4842d7dafc7987b5d70f42bfe0]",
+        "imageIds": [
+            "448205fd91b91eca4df5f1793966dd6a2093268e4fe8ca8deb4408a67e00d35c",
+            "9ccea6c878c7b574dc326d4c8148380b6fa94a4842d7dafc7987b5d70f42bfe0"
+        ]
+    },
+    "images": {
+        "448205fd91b91eca4df5f1793966dd6a2093268e4fe8ca8deb4408a67e00d35c": {
+            "file": "images/448205fd91b91eca4df5f1793966dd6a2093268e4fe8ca8deb4408a67e00d35c.jpg",
+            "filename": "paste-32315333935107.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50452
+        },
+        "9ccea6c878c7b574dc326d4c8148380b6fa94a4842d7dafc7987b5d70f42bfe0": {
+            "file": "images/9ccea6c878c7b574dc326d4c8148380b6fa94a4842d7dafc7987b5d70f42bfe0.jpg",
+            "filename": "paste-32796370272259.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51653
+        }
+    }
+}

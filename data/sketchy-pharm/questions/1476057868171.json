@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476057868171",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476057868171",
+        "noteId": "1476057511630",
+        "noteGuid": "DX{(cXG7Pq",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::2 Allergy & Pulmonary::2.2 - Asthma therapy",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(2)-Allergy_&_Pulmonary::2.2-Asthma_Therapy",
+        "$$Smooth_Muscle",
+        "$Allergy&Pulmonary"
+    ],
+    "question": {
+        "text": "Which class of sympathomimetics are used to treat bronchoconstriction in asthma?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "β2 agonists\n\n(\"-rol\" drugs)\n\n[Image: 5b55fb1cb3ce93172d1b379ba3e02e4cc759e2716e0d09135e7d5b4f92eedf3d]\n\n[Image: 50405c5e2ee5b2a2e17de084e9db86f411205baa48c7021e2b7c4c666ccb0206]",
+        "imageIds": [
+            "5b55fb1cb3ce93172d1b379ba3e02e4cc759e2716e0d09135e7d5b4f92eedf3d",
+            "50405c5e2ee5b2a2e17de084e9db86f411205baa48c7021e2b7c4c666ccb0206"
+        ]
+    },
+    "images": {
+        "50405c5e2ee5b2a2e17de084e9db86f411205baa48c7021e2b7c4c666ccb0206": {
+            "file": "images/50405c5e2ee5b2a2e17de084e9db86f411205baa48c7021e2b7c4c666ccb0206.jpg",
+            "filename": "paste-20980915240963.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54138
+        },
+        "5b55fb1cb3ce93172d1b379ba3e02e4cc759e2716e0d09135e7d5b4f92eedf3d": {
+            "file": "images/5b55fb1cb3ce93172d1b379ba3e02e4cc759e2716e0d09135e7d5b4f92eedf3d.jpg",
+            "filename": "paste-20757576941571.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54570
+        }
+    }
+}

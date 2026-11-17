@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476028242665",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476028242665",
+        "noteId": "1476026238349",
+        "noteGuid": "q{jN<,Pl7#",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.1 - Heparin, LMWH, fondaparinux, direct thrombin inhibitors, Xa inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.1-Heparin,LMWH,Fondaparinux,Direct_Thrombin_Inhibitors",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "What is the difference LMWH and Heparin?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "LMWH is more specific for Factor Xa\n\n[Image: 6879c48168ff0aa9779816641d1f36360772667e2bcc6ac673365c01e7c9606c]\n\n[Image: 417e9ad48b51f7f73358fd3a34b180f594418f9efe1b2a1135e071f3691d97de]",
+        "imageIds": [
+            "6879c48168ff0aa9779816641d1f36360772667e2bcc6ac673365c01e7c9606c",
+            "417e9ad48b51f7f73358fd3a34b180f594418f9efe1b2a1135e071f3691d97de"
+        ]
+    },
+    "images": {
+        "417e9ad48b51f7f73358fd3a34b180f594418f9efe1b2a1135e071f3691d97de": {
+            "file": "images/417e9ad48b51f7f73358fd3a34b180f594418f9efe1b2a1135e071f3691d97de.jpg",
+            "filename": "paste-91061896609795.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 85608
+        },
+        "6879c48168ff0aa9779816641d1f36360772667e2bcc6ac673365c01e7c9606c": {
+            "file": "images/6879c48168ff0aa9779816641d1f36360772667e2bcc6ac673365c01e7c9606c.jpg",
+            "filename": "paste-91237990268931.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 88110
+        }
+    }
+}

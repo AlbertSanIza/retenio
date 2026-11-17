@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480285212168",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480285212168",
+        "noteId": "1480284242370",
+        "noteGuid": "sm5L!@Ga^j",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::3 Kinase Inhibitors & Monoclonal Antibodies\n::3.1 - Imatinib, erlotinib, sorafenib, sunitinib, vemurafenib",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(3)-Kinase_Inhibitors_&_Monoclonal_Abs::3.1-Imatinib,Erlotinib,Sorafenib,Sunitinib,Vemurafenib",
+        "$$Antineoplastics",
+        "$Kinase_Inhibitors_&_MonoclonalAbs"
+    ],
+    "question": {
+        "text": "MOA: Vemurafenib",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Inhibits B-Raf\n\n[Image: a0205969b0c1a4e31a0b20501cf5a0a8ea9eff4c712313ecd72087859f60e15e]\n\n[Image: 8aebb10c4524f66c0d2d35e1dc4ef4f72e417a5e9a9cf22123ed3e9e9e6a35ac]",
+        "imageIds": [
+            "a0205969b0c1a4e31a0b20501cf5a0a8ea9eff4c712313ecd72087859f60e15e",
+            "8aebb10c4524f66c0d2d35e1dc4ef4f72e417a5e9a9cf22123ed3e9e9e6a35ac"
+        ]
+    },
+    "images": {
+        "8aebb10c4524f66c0d2d35e1dc4ef4f72e417a5e9a9cf22123ed3e9e9e6a35ac": {
+            "file": "images/8aebb10c4524f66c0d2d35e1dc4ef4f72e417a5e9a9cf22123ed3e9e9e6a35ac.jpg",
+            "filename": "paste-9659381448707 (2).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45067
+        },
+        "a0205969b0c1a4e31a0b20501cf5a0a8ea9eff4c712313ecd72087859f60e15e": {
+            "file": "images/a0205969b0c1a4e31a0b20501cf5a0a8ea9eff4c712313ecd72087859f60e15e.jpg",
+            "filename": "paste-9822590205955 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45985
+        }
+    }
+}

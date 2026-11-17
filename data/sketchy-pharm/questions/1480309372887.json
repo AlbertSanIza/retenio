@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480309372887",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480309372887",
+        "noteId": "1480309209169",
+        "noteGuid": "t(.L7mj0T?",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.4 - Maraviroc, fusion inhibitors, integrase inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.4-Maraviroc,Fusion_Inhibitors,_&_Integrase_Inhibitors",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "What HIV protein binds host CD4/CCR5?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "gp120\n\n[Image: 41a20a5ca0d97fd841155546a5fac45bbd4ccf73c86ba2c4306f8f19244e19a7]\n\n[Image: 76610cb7491c0e7af305c79c91cbabd468e6d7a64f423a7b630c6b9810c15b2a]",
+        "imageIds": [
+            "41a20a5ca0d97fd841155546a5fac45bbd4ccf73c86ba2c4306f8f19244e19a7",
+            "76610cb7491c0e7af305c79c91cbabd468e6d7a64f423a7b630c6b9810c15b2a"
+        ]
+    },
+    "images": {
+        "41a20a5ca0d97fd841155546a5fac45bbd4ccf73c86ba2c4306f8f19244e19a7": {
+            "file": "images/41a20a5ca0d97fd841155546a5fac45bbd4ccf73c86ba2c4306f8f19244e19a7.jpg",
+            "filename": "paste-121594819117059.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52606
+        },
+        "76610cb7491c0e7af305c79c91cbabd468e6d7a64f423a7b630c6b9810c15b2a": {
+            "file": "images/76610cb7491c0e7af305c79c91cbabd468e6d7a64f423a7b630c6b9810c15b2a.jpg",
+            "filename": "paste-121659243626499.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53838
+        }
+    }
+}

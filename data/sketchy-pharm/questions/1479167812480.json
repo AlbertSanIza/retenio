@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479167812480",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479167812480",
+        "noteId": "1479166331886",
+        "noteGuid": "nZiAb4L,QC",
+        "modelId": "1475688242543",
+        "templateOrdinal": 17
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::5 Antipsychotics & Parkinson's::5.1 - First generation antipsychotics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(5)-Antipsychotics_&_Parkinsons::5.1-First_Generation_Antipsychotics",
+        "$$Neuro/Psych",
+        "$Antipsychotics_&_Parkinsons"
+    ],
+    "question": {
+        "text": "Do first generation antipsychotics better treat positive or negative symptoms of schizophrenia?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Positive\n\n[Image: 41b12bdeaaa573f1dace84be8988fcfa9364a086c022b5840af29468ff805ce0]",
+        "imageIds": [
+            "41b12bdeaaa573f1dace84be8988fcfa9364a086c022b5840af29468ff805ce0"
+        ]
+    },
+    "images": {
+        "41b12bdeaaa573f1dace84be8988fcfa9364a086c022b5840af29468ff805ce0": {
+            "file": "images/41b12bdeaaa573f1dace84be8988fcfa9364a086c022b5840af29468ff805ce0.jpg",
+            "filename": "paste-151333172674563.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61042
+        }
+    }
+}

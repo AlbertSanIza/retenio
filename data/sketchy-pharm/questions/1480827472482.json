@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480827472482",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480827472482",
+        "noteId": "1480827467194",
+        "noteGuid": "BVb_d[(|[)",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::5 Antifungals::5.3 - Griseofulvin, Terbinafine, Echinocandins",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(5)-Antifungals::5.3-Griseofulvin,Terbinafine,Echinocandins",
+        "$$Antimicrobials",
+        "$Antifungals"
+    ],
+    "question": {
+        "text": "MOA: Terbinafine",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Inhibits squalene epoxidase\n\n[Image: 96d979fc852f3b3ce6b5c125fbc67a41a425c6c509317ae8a63150d502bfc065]\n\n[Image: 900df0cb87afd178d8498f2a7fdc7b8ebfa17a800b2adf1d97b3e24b8cd8be70]",
+        "imageIds": [
+            "96d979fc852f3b3ce6b5c125fbc67a41a425c6c509317ae8a63150d502bfc065",
+            "900df0cb87afd178d8498f2a7fdc7b8ebfa17a800b2adf1d97b3e24b8cd8be70"
+        ]
+    },
+    "images": {
+        "900df0cb87afd178d8498f2a7fdc7b8ebfa17a800b2adf1d97b3e24b8cd8be70": {
+            "file": "images/900df0cb87afd178d8498f2a7fdc7b8ebfa17a800b2adf1d97b3e24b8cd8be70.jpg",
+            "filename": "paste-298276888772611.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 37958
+        },
+        "96d979fc852f3b3ce6b5c125fbc67a41a425c6c509317ae8a63150d502bfc065": {
+            "file": "images/96d979fc852f3b3ce6b5c125fbc67a41a425c6c509317ae8a63150d502bfc065.jpg",
+            "filename": "paste-299694227980291.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44528
+        }
+    }
+}

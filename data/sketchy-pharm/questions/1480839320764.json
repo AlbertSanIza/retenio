@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480839320764",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480839320764",
+        "noteId": "1480838072386",
+        "noteGuid": "GOwg%g_S%>",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.1 - Penicillin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.1-Penicillin",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "MOA: Penicillin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Inhibits PBP\n\n(Leads to osmotic cellular lysis)\n\n[Image: da9326c0c6a031a8a310f99af7e41ac1d6afc4e1d36abc3cf625e49a4b386385]\n\n[Image: 4e7b91fcbe38f6ca0090f08165de943def3b9320a6bd6c4e98e9a898db421edf]",
+        "imageIds": [
+            "da9326c0c6a031a8a310f99af7e41ac1d6afc4e1d36abc3cf625e49a4b386385",
+            "4e7b91fcbe38f6ca0090f08165de943def3b9320a6bd6c4e98e9a898db421edf"
+        ]
+    },
+    "images": {
+        "4e7b91fcbe38f6ca0090f08165de943def3b9320a6bd6c4e98e9a898db421edf": {
+            "file": "images/4e7b91fcbe38f6ca0090f08165de943def3b9320a6bd6c4e98e9a898db421edf.jpg",
+            "filename": "paste-464273079795715.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 31642
+        },
+        "da9326c0c6a031a8a310f99af7e41ac1d6afc4e1d36abc3cf625e49a4b386385": {
+            "file": "images/da9326c0c6a031a8a310f99af7e41ac1d6afc4e1d36abc3cf625e49a4b386385.jpg",
+            "filename": "paste-467008973963267.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 32963
+        }
+    }
+}

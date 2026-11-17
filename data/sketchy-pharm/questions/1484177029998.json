@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484177029998",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484177029998",
+        "noteId": "1484175022469",
+        "noteGuid": "L&Kl!{]`hQ",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::4 Mood Stabilizers & Antiepileptic Drugs::4.6 - Ethosuximide",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(4)-Mood_Stabilizers_&_Antiepileptics::4.4-Ethosuximide",
+        "$$Neuro/Psych",
+        "$Mood_Stabilizers_&_Antiepileptics"
+    ],
+    "question": {
+        "text": "Which 2 broad spectrum antiepileptics are most effective against absence seizures?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Valproate\n(2) Lamotrigine\n\n(Valproate > Lamotrigine)\n\n[Image: 9c45262513189d1f44af8bf5f0d06cd4d86e89456b0ee7e377a8d358e7c06752]\n\n[Image: 24d2a986afe46195fd0828b96f3e2624962c5b64bfab463c7cb205c76239eac5]",
+        "imageIds": [
+            "9c45262513189d1f44af8bf5f0d06cd4d86e89456b0ee7e377a8d358e7c06752",
+            "24d2a986afe46195fd0828b96f3e2624962c5b64bfab463c7cb205c76239eac5"
+        ]
+    },
+    "images": {
+        "24d2a986afe46195fd0828b96f3e2624962c5b64bfab463c7cb205c76239eac5": {
+            "file": "images/24d2a986afe46195fd0828b96f3e2624962c5b64bfab463c7cb205c76239eac5.jpg",
+            "filename": "paste-805267713294339.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 86523
+        },
+        "9c45262513189d1f44af8bf5f0d06cd4d86e89456b0ee7e377a8d358e7c06752": {
+            "file": "images/9c45262513189d1f44af8bf5f0d06cd4d86e89456b0ee7e377a8d358e7c06752.jpg",
+            "filename": "paste-804683597742083.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 82471
+        }
+    }
+}

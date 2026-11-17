@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480827472478",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480827472478",
+        "noteId": "1480827467194",
+        "noteGuid": "BVb_d[(|[)",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::5 Antifungals::5.3 - Griseofulvin, Terbinafine, Echinocandins",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(5)-Antifungals::5.3-Griseofulvin,Terbinafine,Echinocandins",
+        "$$Antimicrobials",
+        "$Antifungals"
+    ],
+    "question": {
+        "text": "MOA: Griseofulvin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Binds microtubules ⇒ Halts mitosis\n\n[Image: 545a8c0765c1a50f70c770b6c28a6d33da3631aefe4e825d9fd11e7f0fae6a6a]\n\n[Image: 32a5702cb5ebc39833bd0b6258d42024d1fb0d2c9732965ae852eef7ab7cae3a]",
+        "imageIds": [
+            "545a8c0765c1a50f70c770b6c28a6d33da3631aefe4e825d9fd11e7f0fae6a6a",
+            "32a5702cb5ebc39833bd0b6258d42024d1fb0d2c9732965ae852eef7ab7cae3a"
+        ]
+    },
+    "images": {
+        "32a5702cb5ebc39833bd0b6258d42024d1fb0d2c9732965ae852eef7ab7cae3a": {
+            "file": "images/32a5702cb5ebc39833bd0b6258d42024d1fb0d2c9732965ae852eef7ab7cae3a.jpg",
+            "filename": "paste-297658413481987.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 31512
+        },
+        "545a8c0765c1a50f70c770b6c28a6d33da3631aefe4e825d9fd11e7f0fae6a6a": {
+            "file": "images/545a8c0765c1a50f70c770b6c28a6d33da3631aefe4e825d9fd11e7f0fae6a6a.jpg",
+            "filename": "paste-298044960538627.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 35065
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480287989675",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480287989675",
+        "noteId": "1480286851836",
+        "noteGuid": "uXl&+5/(rn",
+        "modelId": "1475688242543",
+        "templateOrdinal": 12
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.1 - Cyclophosphamide, ifosfamide, busulifan, nitrosoureas (carmustine, lomustine, streptozocin)",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(2)-DNA_&_Cellular_Division::2.1-Cyclophosphamide,Busulfan,Nitrosoureas",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "Adverse Effect (1) : Nitrosoureas",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Neurotoxicity\n\n[Image: 8fd6dc275e5df14b7689c113b472aae321e75f58cc22f5389fe874b89837b25d]",
+        "imageIds": [
+            "8fd6dc275e5df14b7689c113b472aae321e75f58cc22f5389fe874b89837b25d"
+        ]
+    },
+    "images": {
+        "8fd6dc275e5df14b7689c113b472aae321e75f58cc22f5389fe874b89837b25d": {
+            "file": "images/8fd6dc275e5df14b7689c113b472aae321e75f58cc22f5389fe874b89837b25d.jpg",
+            "filename": "paste-31374736097283.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53025
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475964798604",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475964798604",
+        "noteId": "1475964331558",
+        "noteGuid": "BD^R)Z4Bh4",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.4 - Class IV",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.4-Class_IV",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "MOA: Class IV antiarrhythmics",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Calcium channel blockers\n\n(Non-dihydropyridine reduce Δ of AP upstroke in SA/AV)\n\n[Image: 8f4c3a585908e792a12992addedae2b894337c01e79adb51f05f0cf457b2bb90]\n\n[Image: d01aff5b95ceabbca7824fa43c03fd0cefbe07651c16bb0f5a081b28713dcb23]",
+        "imageIds": [
+            "8f4c3a585908e792a12992addedae2b894337c01e79adb51f05f0cf457b2bb90",
+            "d01aff5b95ceabbca7824fa43c03fd0cefbe07651c16bb0f5a081b28713dcb23"
+        ]
+    },
+    "images": {
+        "8f4c3a585908e792a12992addedae2b894337c01e79adb51f05f0cf457b2bb90": {
+            "file": "images/8f4c3a585908e792a12992addedae2b894337c01e79adb51f05f0cf457b2bb90.jpg",
+            "filename": "paste-45238890528771.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59484
+        },
+        "d01aff5b95ceabbca7824fa43c03fd0cefbe07651c16bb0f5a081b28713dcb23": {
+            "file": "images/d01aff5b95ceabbca7824fa43c03fd0cefbe07651c16bb0f5a081b28713dcb23.jpg",
+            "filename": "paste-45316199940099.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62861
+        }
+    }
+}

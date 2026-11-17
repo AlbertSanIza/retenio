@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1481678038348",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1481678038348",
+        "noteId": "1481676393166",
+        "noteGuid": "oJpn5okB#l",
+        "modelId": "1475688242543",
+        "templateOrdinal": 17
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::3 Anti-inflammatory::3.1 - NSAIDs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(3)-Anti-Inflammatory_Drugs::3.1-NSAIDs",
+        "$$Blood_&_Inflammation",
+        "$Anti-inflammatory"
+    ],
+    "question": {
+        "text": "Contraindications (2) : NSAIDs",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Kidney ischemia\n(2) Pregnancy\n\n(i.e., ACE inhibitors ⇒ ↓ renal perfusion. Also remember they antagonize the effects of loop diuretics)\n\n[Image: 83d18a3a25bd8126002e1872814ac4b4d9bead2ac00d2663d0092158a3aeb191]\n\n[Image: e40826856489049563cef3d63d707e3d681fcddeaf2bf91dc23e0872cbaf6e07]\n\n[Image: c12a6f8177f81884547dde941e783e6c3244e87cfc6220eaa0c645d1c393d928]\n\n[Image: 7676c42a46d47afe97bf8b09e18b3de8e4f7f7e0d59d87ab41731322cb237b2a]",
+        "imageIds": [
+            "83d18a3a25bd8126002e1872814ac4b4d9bead2ac00d2663d0092158a3aeb191",
+            "e40826856489049563cef3d63d707e3d681fcddeaf2bf91dc23e0872cbaf6e07",
+            "c12a6f8177f81884547dde941e783e6c3244e87cfc6220eaa0c645d1c393d928",
+            "7676c42a46d47afe97bf8b09e18b3de8e4f7f7e0d59d87ab41731322cb237b2a"
+        ]
+    },
+    "images": {
+        "7676c42a46d47afe97bf8b09e18b3de8e4f7f7e0d59d87ab41731322cb237b2a": {
+            "file": "images/7676c42a46d47afe97bf8b09e18b3de8e4f7f7e0d59d87ab41731322cb237b2a.jpg",
+            "filename": "paste-21947282882563.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65242
+        },
+        "83d18a3a25bd8126002e1872814ac4b4d9bead2ac00d2663d0092158a3aeb191": {
+            "file": "images/83d18a3a25bd8126002e1872814ac4b4d9bead2ac00d2663d0092158a3aeb191.jpg",
+            "filename": "paste-141858474819587.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 94694
+        },
+        "c12a6f8177f81884547dde941e783e6c3244e87cfc6220eaa0c645d1c393d928": {
+            "file": "images/c12a6f8177f81884547dde941e783e6c3244e87cfc6220eaa0c645d1c393d928.jpg",
+            "filename": "paste-57531086929923.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43255
+        },
+        "e40826856489049563cef3d63d707e3d681fcddeaf2bf91dc23e0872cbaf6e07": {
+            "file": "images/e40826856489049563cef3d63d707e3d681fcddeaf2bf91dc23e0872cbaf6e07.jpg",
+            "filename": "paste-144813412319235.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 98878
+        }
+    }
+}

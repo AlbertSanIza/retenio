@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480286764924",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480286764924",
+        "noteId": "1480285917662",
+        "noteGuid": "BKzdsM>lW[",
+        "modelId": "1475688242543",
+        "templateOrdinal": 13
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::3 Kinase Inhibitors & Monoclonal Antibodies\n::3.2 - Rituximab, cetuximab, bevacizumab, alemtuzumab, trastuzumab",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(3)-Kinase_Inhibitors_&_Monoclonal_Abs::3.2-Rituximab,Cetuximab,Bevacizumab,Alemtuzumab,Trastuzumab",
+        "$$Antineoplastics",
+        "$Kinase_Inhibitors_&_MonoclonalAbsbb"
+    ],
+    "question": {
+        "text": "Indication - Non-neoplastic: Bevacizumab",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Wet macular degeneration\n\n[Image: 28301a42baaa91f305008517da4d8885bda1350dea36f380873c97400faa5ba1]",
+        "imageIds": [
+            "28301a42baaa91f305008517da4d8885bda1350dea36f380873c97400faa5ba1"
+        ]
+    },
+    "images": {
+        "28301a42baaa91f305008517da4d8885bda1350dea36f380873c97400faa5ba1": {
+            "file": "images/28301a42baaa91f305008517da4d8885bda1350dea36f380873c97400faa5ba1.jpg",
+            "filename": "paste-19580755902467.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60692
+        }
+    }
+}

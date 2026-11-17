@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480544399935",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480544399935",
+        "noteId": "1480543987032",
+        "noteGuid": "N#HRdX_!QM",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.4 - Chloramphenicol",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.4-Chloramphenicol",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "Is Chloramphenicol bacteristatic or bacteriocidal?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Bacteriostatic\n\n[Image: d911c66e213db99af2d768882b9eaad7774c839d39e41f5cf6c6ef951b6a9804]",
+        "imageIds": [
+            "d911c66e213db99af2d768882b9eaad7774c839d39e41f5cf6c6ef951b6a9804"
+        ]
+    },
+    "images": {
+        "d911c66e213db99af2d768882b9eaad7774c839d39e41f5cf6c6ef951b6a9804": {
+            "file": "images/d911c66e213db99af2d768882b9eaad7774c839d39e41f5cf6c6ef951b6a9804.jpg",
+            "filename": "paste-21393232101379.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 37819
+        }
+    }
+}

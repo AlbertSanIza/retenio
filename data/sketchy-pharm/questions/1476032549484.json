@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476032549484",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476032549484",
+        "noteId": "1476031894774",
+        "noteGuid": "r/v.#B/vmp",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.4 - Thrombolytics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.4-Thrombolytics",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "Adverse Effect: Thrombolytic therapy",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Hemorrhagic stroke\n\n[Image: 049697f913cdf1c0d914a5c76660643b798c4749e77bd6ad77c50dcdbf2fac01]",
+        "imageIds": [
+            "049697f913cdf1c0d914a5c76660643b798c4749e77bd6ad77c50dcdbf2fac01"
+        ]
+    },
+    "images": {
+        "049697f913cdf1c0d914a5c76660643b798c4749e77bd6ad77c50dcdbf2fac01": {
+            "file": "images/049697f913cdf1c0d914a5c76660643b798c4749e77bd6ad77c50dcdbf2fac01.jpg",
+            "filename": "paste-25237227831299.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70620
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475730097611",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475730097611",
+        "noteId": "1475728663965",
+        "noteGuid": "jP0(HG/*Ec",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.1 - Sympathomimetics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.1-Sympathomimetics",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "Which adrenergic receptor can cause hypokalemia?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "β2\n\n[Image: 1fef8e50b37a173a343804b7ef69b6f6df128c53b523f431947e5e3412253d73]",
+        "imageIds": [
+            "1fef8e50b37a173a343804b7ef69b6f6df128c53b523f431947e5e3412253d73"
+        ]
+    },
+    "images": {
+        "1fef8e50b37a173a343804b7ef69b6f6df128c53b523f431947e5e3412253d73": {
+            "file": "images/1fef8e50b37a173a343804b7ef69b6f6df128c53b523f431947e5e3412253d73.jpg",
+            "filename": "paste-21749714386947.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57395
+        }
+    }
+}

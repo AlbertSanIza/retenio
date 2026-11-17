@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476029652803",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476029652803",
+        "noteId": "1476028790280",
+        "noteGuid": "hTu{S)5RkV",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.2 - Warfarin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.2-Warfarin",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "What is the first clotting factor affected by Warfarin?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Factor VII\n\n[Image: e33729cfc224ca16221a4e3585e3f2ea85dfbbb63dffd13e89b5a6098047b523]",
+        "imageIds": [
+            "e33729cfc224ca16221a4e3585e3f2ea85dfbbb63dffd13e89b5a6098047b523"
+        ]
+    },
+    "images": {
+        "e33729cfc224ca16221a4e3585e3f2ea85dfbbb63dffd13e89b5a6098047b523": {
+            "file": "images/e33729cfc224ca16221a4e3585e3f2ea85dfbbb63dffd13e89b5a6098047b523.jpg",
+            "filename": "paste-6846177869827.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63201
+        }
+    }
+}

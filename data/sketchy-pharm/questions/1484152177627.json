@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484152177627",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484152177627",
+        "noteId": "1484148711756",
+        "noteGuid": "v$dEtPd[H<",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::1 GI::1.3 - Laxatives & antidiarrheal agents",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(1)-GI::1.3-Laxatives_&_Antidiarrheal_Agents",
+        "$$GI_&_Endocrine",
+        "$GI"
+    ],
+    "question": {
+        "text": "MOA: Psyllium",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Indigestible material ⇒ Distention ⇒ Promotes peristalsis\n\n[Image: 9edf936bf17fa7b75f6028be0c2f3acfb5d127f26d2692cf127b2dfa06a85ac2]",
+        "imageIds": [
+            "9edf936bf17fa7b75f6028be0c2f3acfb5d127f26d2692cf127b2dfa06a85ac2"
+        ]
+    },
+    "images": {
+        "9edf936bf17fa7b75f6028be0c2f3acfb5d127f26d2692cf127b2dfa06a85ac2": {
+            "file": "images/9edf936bf17fa7b75f6028be0c2f3acfb5d127f26d2692cf127b2dfa06a85ac2.jpg",
+            "filename": "paste-712672513359875.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 92364
+        }
+    }
+}

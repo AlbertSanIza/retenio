@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480824571923",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480824571923",
+        "noteId": "1480823075841",
+        "noteGuid": "r}/0-Xm6|3",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::5 Antifungals::5.1 - Amphotericin, flucytosine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(5)-Antifungals::5.1-AmphotericinB,Flucytosine,Nystatin",
+        "$$Antimicrobials",
+        "$Antifungals"
+    ],
+    "question": {
+        "text": "Under what scenario does Amphotericin B most commonly cause seizures and CNS side effects?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Intrathecal administration\n\n[Image: 6ebfefdf9594e4385709bdb4b325093785826e26fe2dcec94f37250beb0d9650]\n\n[Image: cc8bf58006351c9d03f09933558b722491090c35e60d4f497704655ca39a78fc]",
+        "imageIds": [
+            "6ebfefdf9594e4385709bdb4b325093785826e26fe2dcec94f37250beb0d9650",
+            "cc8bf58006351c9d03f09933558b722491090c35e60d4f497704655ca39a78fc"
+        ]
+    },
+    "images": {
+        "6ebfefdf9594e4385709bdb4b325093785826e26fe2dcec94f37250beb0d9650": {
+            "file": "images/6ebfefdf9594e4385709bdb4b325093785826e26fe2dcec94f37250beb0d9650.jpg",
+            "filename": "paste-258849088995331.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 39213
+        },
+        "cc8bf58006351c9d03f09933558b722491090c35e60d4f497704655ca39a78fc": {
+            "file": "images/cc8bf58006351c9d03f09933558b722491090c35e60d4f497704655ca39a78fc.jpg",
+            "filename": "paste-35025458298883 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49656
+        }
+    }
+}

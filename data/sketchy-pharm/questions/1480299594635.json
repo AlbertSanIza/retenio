@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480299594635",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480299594635",
+        "noteId": "1480298206862",
+        "noteGuid": "n}<zAn6=@Y",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.3 - Opiates, naloxone, naltrexone",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.3-Opiates,Naloxone,Naltrexone",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "What phrase summarizes the symptoms of opiate withdrawal?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "\"Anxious, hot, and moist\"\n\n[Image: 67b7788dc818b154641d81cb8782271bd8c2858e677af7d15ae550d9338232e7]",
+        "imageIds": [
+            "67b7788dc818b154641d81cb8782271bd8c2858e677af7d15ae550d9338232e7"
+        ]
+    },
+    "images": {
+        "67b7788dc818b154641d81cb8782271bd8c2858e677af7d15ae550d9338232e7": {
+            "file": "images/67b7788dc818b154641d81cb8782271bd8c2858e677af7d15ae550d9338232e7.jpg",
+            "filename": "paste-91242285236227.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58762
+        }
+    }
+}

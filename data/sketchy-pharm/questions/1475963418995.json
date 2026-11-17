@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475963418995",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475963418995",
+        "noteId": "1475962431917",
+        "noteGuid": "g~p_aT&`(Y",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.2 - Class II",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.2-Class_II",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "What are the class II antiarrhythmics?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "β-blockers\n\n[Image: 3f93a9fbd2e5f5b4a6d4cc7b1236b6eea1e5e1a322e98590f30d8ff1bad49300]",
+        "imageIds": [
+            "3f93a9fbd2e5f5b4a6d4cc7b1236b6eea1e5e1a322e98590f30d8ff1bad49300"
+        ]
+    },
+    "images": {
+        "3f93a9fbd2e5f5b4a6d4cc7b1236b6eea1e5e1a322e98590f30d8ff1bad49300": {
+            "file": "images/3f93a9fbd2e5f5b4a6d4cc7b1236b6eea1e5e1a322e98590f30d8ff1bad49300.jpg",
+            "filename": "paste-39260296052739.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 33724
+        }
+    }
+}

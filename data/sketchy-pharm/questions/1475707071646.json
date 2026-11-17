@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475707071646",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475707071646",
+        "noteId": "1475705886299",
+        "noteGuid": "K{:IknGMa;",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::1 Vasoactive::1.1 - Nitrates",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(1)-Vasoactive::1.1-Nitrates",
+        "$$Smooth_Muscle",
+        "$Vasoactive"
+    ],
+    "question": {
+        "text": "What drug class is an absolute contraindication to nitrates?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "PDE-5 inhibitors\n\n[Image: a22e6b5be760d6e8036509d4191de2799ee5c2db4c9ec8fc3b625be6457f4fdb]",
+        "imageIds": [
+            "a22e6b5be760d6e8036509d4191de2799ee5c2db4c9ec8fc3b625be6457f4fdb"
+        ]
+    },
+    "images": {
+        "a22e6b5be760d6e8036509d4191de2799ee5c2db4c9ec8fc3b625be6457f4fdb": {
+            "file": "images/a22e6b5be760d6e8036509d4191de2799ee5c2db4c9ec8fc3b625be6457f4fdb.jpg",
+            "filename": "paste-45844480917507.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59471
+        }
+    }
+}

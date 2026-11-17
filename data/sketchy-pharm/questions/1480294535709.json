@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480294535709",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480294535709",
+        "noteId": "1480292425830",
+        "noteGuid": "F-Oy]]*-Bc",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::1 Antimetabolites::1.1 - Methotrexate, leucovorin, 5-fluorouracil, hydroxyurea",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(1)-Antimetabolites::1.1-Methotrexate,Leucovorin,5-FU,Hydroxyurea",
+        "$$Antineoplastics",
+        "$Antimetabolites"
+    ],
+    "question": {
+        "text": "What cofactor does Thymidylate Synthase require?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "THF\n\n[Image: 472188ce2100083a7164de9d6fe6adb0373b0f6429fcf145f7e7acf402e465ce]\n\n[Image: fcb1a15c0f360e6cf149335b0d09d1dc336c9b9f52412c4734e99824ab0088bc]",
+        "imageIds": [
+            "472188ce2100083a7164de9d6fe6adb0373b0f6429fcf145f7e7acf402e465ce",
+            "fcb1a15c0f360e6cf149335b0d09d1dc336c9b9f52412c4734e99824ab0088bc"
+        ]
+    },
+    "images": {
+        "472188ce2100083a7164de9d6fe6adb0373b0f6429fcf145f7e7acf402e465ce": {
+            "file": "images/472188ce2100083a7164de9d6fe6adb0373b0f6429fcf145f7e7acf402e465ce.jpg",
+            "filename": "paste-31834297597955.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 32783
+        },
+        "fcb1a15c0f360e6cf149335b0d09d1dc336c9b9f52412c4734e99824ab0088bc": {
+            "file": "images/fcb1a15c0f360e6cf149335b0d09d1dc336c9b9f52412c4734e99824ab0088bc.jpg",
+            "filename": "paste-31860067401731.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34891
+        }
+    }
+}

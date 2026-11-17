@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475727285512",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475727285512",
+        "noteId": "1475726464638",
+        "noteGuid": "JpARMA.2Xe",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::1 Parasympathetic::1.1 - Cholinomimetics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(1)-Parasympathetics::1.1-Cholinomimetics",
+        "$$Autonomic_Drugs",
+        "$Parasympathetics"
+    ],
+    "question": {
+        "text": "How does M3 activation lead to vasodilation?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "NO release\n\n(Binding M3 on endothelium ⇒ NO release ⇒ Dilate smooth muscle)\n\n[Image: 4760e83d70c974427b65e15687c944b7fd0a373097fdb4a2d6d1f5b1c86387e8]",
+        "imageIds": [
+            "4760e83d70c974427b65e15687c944b7fd0a373097fdb4a2d6d1f5b1c86387e8"
+        ]
+    },
+    "images": {
+        "4760e83d70c974427b65e15687c944b7fd0a373097fdb4a2d6d1f5b1c86387e8": {
+            "file": "images/4760e83d70c974427b65e15687c944b7fd0a373097fdb4a2d6d1f5b1c86387e8.jpg",
+            "filename": "paste-6975026888707.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61197
+        }
+    }
+}

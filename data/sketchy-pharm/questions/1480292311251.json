@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480292311251",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480292311251",
+        "noteId": "1480291959729",
+        "noteGuid": "DTmn*-2U)v",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.5 - Vincristine, vinblastine, paclitaxel",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "Cell Cycle Specificity: Microtubule inhibitors",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "M phase\n\n[Image: ab5fd4847f269b43c932e81987962a482631a58b0e09087ce8accb2017ea1466]",
+        "imageIds": [
+            "ab5fd4847f269b43c932e81987962a482631a58b0e09087ce8accb2017ea1466"
+        ]
+    },
+    "images": {
+        "ab5fd4847f269b43c932e81987962a482631a58b0e09087ce8accb2017ea1466": {
+            "file": "images/ab5fd4847f269b43c932e81987962a482631a58b0e09087ce8accb2017ea1466.jpg",
+            "filename": "paste-22183506083843.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65462
+        }
+    }
+}

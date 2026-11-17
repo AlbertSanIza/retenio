@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476062885323",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476062885323",
+        "noteId": "1476060361139",
+        "noteGuid": "z-O#q8*S,w",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::1 Vasoactive::1.3-Prostaglandins,Prostacyclin,Bosentan, PDE5 inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(1)-Vasoactive::1.3-Prostaglandins,Prostacyclin,Bosentan,PDE-5_Inhibitors",
+        "$$Smooth_Muscle",
+        "$Vasoactive"
+    ],
+    "question": {
+        "text": "Misoprostol is an analog of?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "PGE1\n\n(Don't confuse with Mifepristone which is a progestone antagonist)\n\n[Image: db2bd7bf6f3f0096279d7ebd5d375335125b0b3c7bbdda0e468c152e3d4f40fc]",
+        "imageIds": [
+            "db2bd7bf6f3f0096279d7ebd5d375335125b0b3c7bbdda0e468c152e3d4f40fc"
+        ]
+    },
+    "images": {
+        "db2bd7bf6f3f0096279d7ebd5d375335125b0b3c7bbdda0e468c152e3d4f40fc": {
+            "file": "images/db2bd7bf6f3f0096279d7ebd5d375335125b0b3c7bbdda0e468c152e3d4f40fc.jpg",
+            "filename": "paste-169419279958019.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62364
+        }
+    }
+}

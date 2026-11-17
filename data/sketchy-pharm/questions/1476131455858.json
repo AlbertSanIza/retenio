@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476131455858",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476131455858",
+        "noteId": "1476130090291",
+        "noteGuid": "O>jMOQ>@1^",
+        "modelId": "1475688242543",
+        "templateOrdinal": 13
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::4 Hypothalamic & Pituitary::4.2 - ADH, DDAVP,& ADH Receptor Antagonists",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(4)-Hypothalamic_&_Pituitary::4.1-ADH,DDAVP,_&_ADH_Receptor_Antagonists",
+        "$$GI_&_Endocrine",
+        "$Hypothalamic_&_Pituitary"
+    ],
+    "question": {
+        "text": "Name the potential electrolyte abnormality caused by Desmopressin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Hyponatremia\n\n(↑ Absorption of free water ⇒ Dilution of electrolytes)\n\n[Image: 5850d6b42f389d23974e01301ebc603b4249f06eafe634e572c7cb352e71b9ce]",
+        "imageIds": [
+            "5850d6b42f389d23974e01301ebc603b4249f06eafe634e572c7cb352e71b9ce"
+        ]
+    },
+    "images": {
+        "5850d6b42f389d23974e01301ebc603b4249f06eafe634e572c7cb352e71b9ce": {
+            "file": "images/5850d6b42f389d23974e01301ebc603b4249f06eafe634e572c7cb352e71b9ce.jpg",
+            "filename": "paste-86590835654659.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55786
+        }
+    }
+}

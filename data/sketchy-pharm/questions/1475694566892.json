@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475694566892",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475694566892",
+        "noteId": "1475693558188",
+        "noteGuid": "k2xO-NDlof",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::3 Antihypertensives::3.1 - Calcium channel blockers",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(3)-Antihypertensives::3.1-Calcium_Channel_Blockers",
+        "$$Cardiovascular_&_Renal",
+        "$Antihypertensives"
+    ],
+    "question": {
+        "text": "Name the CCB which causes both vasodilation and an intermediate cardiac effect",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Diltiazem\n\n(Diltiazem = 2 = Affects both smooth muscle and heart)\n\n[Image: 3c221e930e30ed0edc0cc16709dfa6547d390a080c3b3618c01e6c6f2286144f]",
+        "imageIds": [
+            "3c221e930e30ed0edc0cc16709dfa6547d390a080c3b3618c01e6c6f2286144f"
+        ]
+    },
+    "images": {
+        "3c221e930e30ed0edc0cc16709dfa6547d390a080c3b3618c01e6c6f2286144f": {
+            "file": "images/3c221e930e30ed0edc0cc16709dfa6547d390a080c3b3618c01e6c6f2286144f.jpg",
+            "filename": "paste-110092896698371.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 42748
+        }
+    }
+}

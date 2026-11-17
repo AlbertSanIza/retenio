@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476210878806",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476210878806",
+        "noteId": "1476210297974",
+        "noteGuid": "n:FNxZoP&d",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.1 - Acetazolamide, mannitol",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.1-Acetazolamide",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "MOA: Acetazolamide",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Inhibits carbonic anhydrase\n\n[Image: 24dbcd2d50c3ab5ca4d896b5fe7d5b50635c723f27f8cf73ac755928a0729b0d]",
+        "imageIds": [
+            "24dbcd2d50c3ab5ca4d896b5fe7d5b50635c723f27f8cf73ac755928a0729b0d"
+        ]
+    },
+    "images": {
+        "24dbcd2d50c3ab5ca4d896b5fe7d5b50635c723f27f8cf73ac755928a0729b0d": {
+            "file": "images/24dbcd2d50c3ab5ca4d896b5fe7d5b50635c723f27f8cf73ac755928a0729b0d.jpg",
+            "filename": "paste-50800873177091.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47894
+        }
+    }
+}

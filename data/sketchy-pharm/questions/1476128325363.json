@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476128325363",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476128325363",
+        "noteId": "1476127443039",
+        "noteGuid": "k+=G!`Nk3M",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::2 Diabetes::2.2 - Metformin,Thiazolidinediones, Pramlintide, SGLT-2 Inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(2)-Diabetes::2.2-Metformin,Thiazolidinediones,Pramlintide,SGLT-2_Inhibitors",
+        "$$GI_&_Endocrine",
+        "$Diabetes"
+    ],
+    "question": {
+        "text": "Suffix: Thiazolidinediones",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "\"-glitazone\"\n\n[Image: 769c53cfeefe58f3a20ab1feb20b401e260e965c647085e762a97e80c7651359]",
+        "imageIds": [
+            "769c53cfeefe58f3a20ab1feb20b401e260e965c647085e762a97e80c7651359"
+        ]
+    },
+    "images": {
+        "769c53cfeefe58f3a20ab1feb20b401e260e965c647085e762a97e80c7651359": {
+            "file": "images/769c53cfeefe58f3a20ab1feb20b401e260e965c647085e762a97e80c7651359.jpg",
+            "filename": "paste-63685775065091.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44347
+        }
+    }
+}

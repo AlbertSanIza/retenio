@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476028242660",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476028242660",
+        "noteId": "1476026238349",
+        "noteGuid": "q{jN<,Pl7#",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.1 - Heparin, LMWH, fondaparinux, direct thrombin inhibitors, Xa inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.1-Heparin,LMWH,Fondaparinux,Direct_Thrombin_Inhibitors",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "Indications (3) : Heparin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) DVT prophylaxis\n(2) Pulmonary embolism prophylaxis\n\n(3) Acute MI\n\n[Image: fe7443c5e1909e073721dcdaef1c09e2b25af28daa09b94e4acec40f07545e77]\n\n[Image: 39f2ff5384a850f4e27af56b2ca4b1e3f00ace8e4c1c4022ba30ee3bdcf5e59a]\n\n[Image: b40dfdb7a11d0e46aa891ac486ab2590f09f48b6e0b3263a5a075c12017a913d]",
+        "imageIds": [
+            "fe7443c5e1909e073721dcdaef1c09e2b25af28daa09b94e4acec40f07545e77",
+            "39f2ff5384a850f4e27af56b2ca4b1e3f00ace8e4c1c4022ba30ee3bdcf5e59a",
+            "b40dfdb7a11d0e46aa891ac486ab2590f09f48b6e0b3263a5a075c12017a913d"
+        ]
+    },
+    "images": {
+        "39f2ff5384a850f4e27af56b2ca4b1e3f00ace8e4c1c4022ba30ee3bdcf5e59a": {
+            "file": "images/39f2ff5384a850f4e27af56b2ca4b1e3f00ace8e4c1c4022ba30ee3bdcf5e59a.jpg",
+            "filename": "paste-87132001533955.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 81404
+        },
+        "b40dfdb7a11d0e46aa891ac486ab2590f09f48b6e0b3263a5a075c12017a913d": {
+            "file": "images/b40dfdb7a11d0e46aa891ac486ab2590f09f48b6e0b3263a5a075c12017a913d.jpg",
+            "filename": "paste-87230785781763.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 77953
+        },
+        "fe7443c5e1909e073721dcdaef1c09e2b25af28daa09b94e4acec40f07545e77": {
+            "file": "images/fe7443c5e1909e073721dcdaef1c09e2b25af28daa09b94e4acec40f07545e77.jpg",
+            "filename": "paste-86990267613187.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 73578
+        }
+    }
+}

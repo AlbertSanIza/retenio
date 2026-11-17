@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480307995670",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480307995670",
+        "noteId": "1480306961331",
+        "noteGuid": "Lpn4BX|*1X",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.1 - NRTIs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.1-NRTIs",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "Suffix: NRTIs",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "\"-dine\"\n\n[Image: 7df8a4a99aaa960560d03b2dad9e9ef0a1e847c4b23c77e30465af3e8f11eb42]",
+        "imageIds": [
+            "7df8a4a99aaa960560d03b2dad9e9ef0a1e847c4b23c77e30465af3e8f11eb42"
+        ]
+    },
+    "images": {
+        "7df8a4a99aaa960560d03b2dad9e9ef0a1e847c4b23c77e30465af3e8f11eb42": {
+            "file": "images/7df8a4a99aaa960560d03b2dad9e9ef0a1e847c4b23c77e30465af3e8f11eb42.jpg",
+            "filename": "paste-115663469281283.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46826
+        }
+    }
+}

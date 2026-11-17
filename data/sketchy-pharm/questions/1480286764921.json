@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480286764921",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480286764921",
+        "noteId": "1480285917662",
+        "noteGuid": "BKzdsM>lW[",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::3 Kinase Inhibitors & Monoclonal Antibodies\n::3.2 - Rituximab, cetuximab, bevacizumab, alemtuzumab, trastuzumab",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(3)-Kinase_Inhibitors_&_Monoclonal_Abs::3.2-Rituximab,Cetuximab,Bevacizumab,Alemtuzumab,Trastuzumab",
+        "$$Antineoplastics",
+        "$Kinase_Inhibitors_&_MonoclonalAbsbb"
+    ],
+    "question": {
+        "text": "What adverse reaction can occur 7-10 days after administering Rituximab?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Serum sickness\n\n(Type III hypersensitivity reaction, can also occur with Cetuximab, but far less often)\n\n[Image: 7dfbf37846df40371aee1a3f2770f817a93a3a26bb2fa21949739707d2262ffb]\n\n[Image: 6e0574262c58826e26a71c16d7dfc1de8aacb127c58d3e4d472915358a8c207d]",
+        "imageIds": [
+            "7dfbf37846df40371aee1a3f2770f817a93a3a26bb2fa21949739707d2262ffb",
+            "6e0574262c58826e26a71c16d7dfc1de8aacb127c58d3e4d472915358a8c207d"
+        ]
+    },
+    "images": {
+        "6e0574262c58826e26a71c16d7dfc1de8aacb127c58d3e4d472915358a8c207d": {
+            "file": "images/6e0574262c58826e26a71c16d7dfc1de8aacb127c58d3e4d472915358a8c207d.jpg",
+            "filename": "paste-18747532247043.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51357
+        },
+        "7dfbf37846df40371aee1a3f2770f817a93a3a26bb2fa21949739707d2262ffb": {
+            "file": "images/7dfbf37846df40371aee1a3f2770f817a93a3a26bb2fa21949739707d2262ffb.jpg",
+            "filename": "paste-12537009537027.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57182
+        }
+    }
+}

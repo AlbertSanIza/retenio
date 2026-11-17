@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475962431751",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475962431751",
+        "noteId": "1475962037924",
+        "noteGuid": "LK=6#G=0_h",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.1 - Class I A-C",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.1-Class_I_(A-C)",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "MOA: Class I antiarrhythmics",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Block Na+ channels\n\n(and ∴ ↓ Rate of rise of AP)\n\n[Image: ab4b39a4293c72dcd510e75b4bdbf5d27aa388265e832d35509c89a7deeb3f18]\n\n[Image: 5e0d686254924467046759bf68a37c819802d1dd4206a6b118f4c2587f3563bd]",
+        "imageIds": [
+            "ab4b39a4293c72dcd510e75b4bdbf5d27aa388265e832d35509c89a7deeb3f18",
+            "5e0d686254924467046759bf68a37c819802d1dd4206a6b118f4c2587f3563bd"
+        ]
+    },
+    "images": {
+        "5e0d686254924467046759bf68a37c819802d1dd4206a6b118f4c2587f3563bd": {
+            "file": "images/5e0d686254924467046759bf68a37c819802d1dd4206a6b118f4c2587f3563bd.jpg",
+            "filename": "paste-24489903521795 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 40759
+        },
+        "ab4b39a4293c72dcd510e75b4bdbf5d27aa388265e832d35509c89a7deeb3f18": {
+            "file": "images/ab4b39a4293c72dcd510e75b4bdbf5d27aa388265e832d35509c89a7deeb3f18.jpg",
+            "filename": "paste-23871428231171.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 39666
+        }
+    }
+}

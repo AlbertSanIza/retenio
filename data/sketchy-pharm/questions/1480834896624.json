@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480834896624",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480834896624",
+        "noteId": "1480833587852",
+        "noteGuid": "uqQIy,Xsey",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::7 Antivirals: Hepatitis::7.2 - Ribavirin, sofosbuvir, simeprevir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(7)-Antivirals-Hepatitis::7.2-Ribavirin,Sofosbuvir,Simeprevir",
+        "$$Antimicrobials",
+        "$Antivirals_Hepatitis"
+    ],
+    "question": {
+        "text": "Define: Sustained virologic response",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "HCV RNA not detected by PCR for ≥ 6 mos. after treatment has stopped\n\n[Image: 25d0a69263da341b51c0aa1afdd1495f32569070753614c53315c77518bec58f]",
+        "imageIds": [
+            "25d0a69263da341b51c0aa1afdd1495f32569070753614c53315c77518bec58f"
+        ]
+    },
+    "images": {
+        "25d0a69263da341b51c0aa1afdd1495f32569070753614c53315c77518bec58f": {
+            "file": "images/25d0a69263da341b51c0aa1afdd1495f32569070753614c53315c77518bec58f.jpg",
+            "filename": "paste-380718786019331.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46343
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476029652809",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476029652809",
+        "noteId": "1476028790280",
+        "noteGuid": "hTu{S)5RkV",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.2 - Warfarin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.2-Warfarin",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "What causes an initially hypercoagulable state in Warfarin therapy?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Early inhibition of Protein C\n\n[Image: 1f8b53be35551934f543f71d60408a00b5a9958d4dbce78efbcd34b4207bee12]",
+        "imageIds": [
+            "1f8b53be35551934f543f71d60408a00b5a9958d4dbce78efbcd34b4207bee12"
+        ]
+    },
+    "images": {
+        "1f8b53be35551934f543f71d60408a00b5a9958d4dbce78efbcd34b4207bee12": {
+            "file": "images/1f8b53be35551934f543f71d60408a00b5a9958d4dbce78efbcd34b4207bee12.jpg",
+            "filename": "paste-9105330667523.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57061
+        }
+    }
+}

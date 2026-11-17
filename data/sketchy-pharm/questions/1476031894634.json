@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476031894634",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476031894634",
+        "noteId": "1476030554170",
+        "noteGuid": "m_Papk8UP1",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.3 - Antiplatelet agents",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.3-Antiplatelet_Agents",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "What does the damaged vascular endothelium expose which activates platelets?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) vWF\n(2) Collagen\n\n[Image: a39121eaa60436a8f5f2e9657f753f62061bacb8dfce56d9e8b69a63dac1568f]",
+        "imageIds": [
+            "a39121eaa60436a8f5f2e9657f753f62061bacb8dfce56d9e8b69a63dac1568f"
+        ]
+    },
+    "images": {
+        "a39121eaa60436a8f5f2e9657f753f62061bacb8dfce56d9e8b69a63dac1568f": {
+            "file": "images/a39121eaa60436a8f5f2e9657f753f62061bacb8dfce56d9e8b69a63dac1568f.jpg",
+            "filename": "paste-16003048144899 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43461
+        }
+    }
+}

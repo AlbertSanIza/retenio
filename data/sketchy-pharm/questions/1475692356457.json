@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475692356457",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475692356457",
+        "noteId": "1475692048852",
+        "noteGuid": "uAHoblM$cT",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::1 Heart Failure Drugs::1.2 - ACE inhibitors, ARBs, Aliskiren",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(1)-Heart_Failure_Drugs::1.2-ACE_Inhibitors,ARBs,Aliskiren",
+        "$$Cardiovascular_&_Renal",
+        "$HeartFailureDrugs"
+    ],
+    "question": {
+        "text": "Suffix: ACE inhibitors",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "\"-pril\"\n\n[Image: c81e0675f7c4e3ec2fdc23bcf222991f4cd3b242b12a5d9ac792af8330799081]",
+        "imageIds": [
+            "c81e0675f7c4e3ec2fdc23bcf222991f4cd3b242b12a5d9ac792af8330799081"
+        ]
+    },
+    "images": {
+        "c81e0675f7c4e3ec2fdc23bcf222991f4cd3b242b12a5d9ac792af8330799081": {
+            "file": "images/c81e0675f7c4e3ec2fdc23bcf222991f4cd3b242b12a5d9ac792af8330799081.jpg",
+            "filename": "paste-49344879263747.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50198
+        }
+    }
+}

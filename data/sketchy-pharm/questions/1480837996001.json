@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480837996001",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480837996001",
+        "noteId": "1480837653001",
+        "noteGuid": "PaSdeX5^)E",
+        "modelId": "1475688242543",
+        "templateOrdinal": 12
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::8 Antivirals: other::8.2 - Ganciclovir, valganciclovir, foscarnet, cidofovir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(8)-Antivirals-Other::8.2-Ganciclovir,Valganciclovir,Foscarnet,Cidofovir",
+        "$$Antimicrobials",
+        "$Antivirals_Others"
+    ],
+    "question": {
+        "text": "What antiviral is always administered with Probenecid?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Cidofovir\n\n[Image: 7f32d30a19e3c6b0268a625ff27358122f04641bd513fcf27f684cb4df0defc6]",
+        "imageIds": [
+            "7f32d30a19e3c6b0268a625ff27358122f04641bd513fcf27f684cb4df0defc6"
+        ]
+    },
+    "images": {
+        "7f32d30a19e3c6b0268a625ff27358122f04641bd513fcf27f684cb4df0defc6": {
+            "file": "images/7f32d30a19e3c6b0268a625ff27358122f04641bd513fcf27f684cb4df0defc6.jpg",
+            "filename": "paste-419047074168835.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59298
+        }
+    }
+}

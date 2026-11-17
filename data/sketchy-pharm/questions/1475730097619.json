@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475730097619",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475730097619",
+        "noteId": "1475728663965",
+        "noteGuid": "jP0(HG/*Ec",
+        "modelId": "1475688242543",
+        "templateOrdinal": 15
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.1 - Sympathomimetics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.1-Sympathomimetics",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "What is the receptor specificity of Epinephrine?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Low doses: β > α\n(2) High doses: α predominant\n\n[Image: 18ac033faf1438ec175b8e7baa369d0754e39b5c7220d687e5ce4c7d6b031b04]\n\n[Image: 1a22a5f32f76c8af1accc09f1afa843ec684a02acc310eef346211376ec71565]\n\n[Image: 5ffd79bc610bdfd55fc4503a6ce721ac0da98d4881685212c86f0bf649a2ed12]\n\n[Image: 92cfe83089c3bc4e4fbd7a2cfd4b7f1c9fcfba9560356b4b3f43462d7340fda9]",
+        "imageIds": [
+            "18ac033faf1438ec175b8e7baa369d0754e39b5c7220d687e5ce4c7d6b031b04",
+            "1a22a5f32f76c8af1accc09f1afa843ec684a02acc310eef346211376ec71565",
+            "5ffd79bc610bdfd55fc4503a6ce721ac0da98d4881685212c86f0bf649a2ed12",
+            "92cfe83089c3bc4e4fbd7a2cfd4b7f1c9fcfba9560356b4b3f43462d7340fda9"
+        ]
+    },
+    "images": {
+        "18ac033faf1438ec175b8e7baa369d0754e39b5c7220d687e5ce4c7d6b031b04": {
+            "file": "images/18ac033faf1438ec175b8e7baa369d0754e39b5c7220d687e5ce4c7d6b031b04.jpg",
+            "filename": "paste-27152783245315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59538
+        },
+        "1a22a5f32f76c8af1accc09f1afa843ec684a02acc310eef346211376ec71565": {
+            "file": "images/1a22a5f32f76c8af1accc09f1afa843ec684a02acc310eef346211376ec71565.jpg",
+            "filename": "paste-27698244091907.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63103
+        },
+        "5ffd79bc610bdfd55fc4503a6ce721ac0da98d4881685212c86f0bf649a2ed12": {
+            "file": "images/5ffd79bc610bdfd55fc4503a6ce721ac0da98d4881685212c86f0bf649a2ed12.jpg",
+            "filename": "paste-27281632264195.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60853
+        },
+        "92cfe83089c3bc4e4fbd7a2cfd4b7f1c9fcfba9560356b4b3f43462d7340fda9": {
+            "file": "images/92cfe83089c3bc4e4fbd7a2cfd4b7f1c9fcfba9560356b4b3f43462d7340fda9.jpg",
+            "filename": "paste-27552215203843.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60508
+        }
+    }
+}

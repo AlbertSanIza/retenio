@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480998567781",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480998567781",
+        "noteId": "1475728663965",
+        "noteGuid": "jP0(HG/*Ec",
+        "modelId": "1475688242543",
+        "templateOrdinal": 18
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.1 - Sympathomimetics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.1-Sympathomimetics",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "Which adrenergic receptor stimulates the production of aqueous humor?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "β2\n\n[Image: 1e31c82171acba4fdc358547d5d5fcbfd0e85479461507586e216234d117ce4a]",
+        "imageIds": [
+            "1e31c82171acba4fdc358547d5d5fcbfd0e85479461507586e216234d117ce4a"
+        ]
+    },
+    "images": {
+        "1e31c82171acba4fdc358547d5d5fcbfd0e85479461507586e216234d117ce4a": {
+            "file": "images/1e31c82171acba4fdc358547d5d5fcbfd0e85479461507586e216234d117ce4a.jpg",
+            "filename": "paste-22170621181955.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57895
+        }
+    }
+}

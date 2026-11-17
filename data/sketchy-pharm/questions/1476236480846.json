@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476236480846",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476236480846",
+        "noteId": "1476236443812",
+        "noteGuid": "e{>uGA()u@",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.3 - Thiazides",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.3-Thiazides",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "MOA: Thiazide diuretics",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Inhibits NaCl cotransporter\n\n(In DCT)\n\n[Image: f0565ca50f88a393264fab46732d5755a77b1eeb2c845536731d360114bedf5e]\n\n[Image: 25fddd42973501cc09948401e83c932b62797b387293aebf437c25d8286c4265]",
+        "imageIds": [
+            "f0565ca50f88a393264fab46732d5755a77b1eeb2c845536731d360114bedf5e",
+            "25fddd42973501cc09948401e83c932b62797b387293aebf437c25d8286c4265"
+        ]
+    },
+    "images": {
+        "25fddd42973501cc09948401e83c932b62797b387293aebf437c25d8286c4265": {
+            "file": "images/25fddd42973501cc09948401e83c932b62797b387293aebf437c25d8286c4265.jpg",
+            "filename": "paste-74427488272387.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55593
+        },
+        "f0565ca50f88a393264fab46732d5755a77b1eeb2c845536731d360114bedf5e": {
+            "file": "images/f0565ca50f88a393264fab46732d5755a77b1eeb2c845536731d360114bedf5e.jpg",
+            "filename": "paste-74938589380611.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58138
+        }
+    }
+}

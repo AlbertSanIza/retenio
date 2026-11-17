@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480290406522",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480290406522",
+        "noteId": "1480289740188",
+        "noteGuid": "yRA]LR7@/u",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.3 - Bleomycin, doxorubicin, daunorubicin, actinomycin D",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(2)-DNA_&_Cellular_Division::2.3-Bleomycin,Doxorubicin,Daunorubicin,Actinomycin_D",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "What drug can prevent Anthracycline-induced cardiotoxicity?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Dexrazoxane\n\n[Image: 2a77739252463656e45d9fdbac5d81a52b085457488898f4736a416ccb4a85d1]\n\n[Image: 3be7d32d41d29d5af0c4b0eafc976fdc2e6027bf337cd254b81d31185051926c]",
+        "imageIds": [
+            "2a77739252463656e45d9fdbac5d81a52b085457488898f4736a416ccb4a85d1",
+            "3be7d32d41d29d5af0c4b0eafc976fdc2e6027bf337cd254b81d31185051926c"
+        ]
+    },
+    "images": {
+        "2a77739252463656e45d9fdbac5d81a52b085457488898f4736a416ccb4a85d1": {
+            "file": "images/2a77739252463656e45d9fdbac5d81a52b085457488898f4736a416ccb4a85d1.jpg",
+            "filename": "paste-42795054137347.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54173
+        },
+        "3be7d32d41d29d5af0c4b0eafc976fdc2e6027bf337cd254b81d31185051926c": {
+            "file": "images/3be7d32d41d29d5af0c4b0eafc976fdc2e6027bf337cd254b81d31185051926c.jpg",
+            "filename": "paste-42722039693315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55131
+        }
+    }
+}

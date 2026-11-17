@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480827472485",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480827472485",
+        "noteId": "1480827467194",
+        "noteGuid": "BVb_d[(|[)",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::5 Antifungals::5.3 - Griseofulvin, Terbinafine, Echinocandins",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(5)-Antifungals::5.3-Griseofulvin,Terbinafine,Echinocandins",
+        "$$Antimicrobials",
+        "$Antifungals"
+    ],
+    "question": {
+        "text": "Adverse Effects (2) : Terbinafine",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) GI distress\n(2) Hepatotoxicity\n\n[Image: cb3ded095be5f5cc5855517f1630c7f89e8cf5d5de44d257e4309223879a6ab1]\n\n[Image: f7f4194dce4c3c0e7d6981cf0120525201db4ddfb1d416033927285d929f9f1f]",
+        "imageIds": [
+            "cb3ded095be5f5cc5855517f1630c7f89e8cf5d5de44d257e4309223879a6ab1",
+            "f7f4194dce4c3c0e7d6981cf0120525201db4ddfb1d416033927285d929f9f1f"
+        ]
+    },
+    "images": {
+        "cb3ded095be5f5cc5855517f1630c7f89e8cf5d5de44d257e4309223879a6ab1": {
+            "file": "images/cb3ded095be5f5cc5855517f1630c7f89e8cf5d5de44d257e4309223879a6ab1.jpg",
+            "filename": "paste-299913271312387.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43353
+        },
+        "f7f4194dce4c3c0e7d6981cf0120525201db4ddfb1d416033927285d929f9f1f": {
+            "file": "images/f7f4194dce4c3c0e7d6981cf0120525201db4ddfb1d416033927285d929f9f1f.jpg",
+            "filename": "paste-300029235429379.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44360
+        }
+    }
+}

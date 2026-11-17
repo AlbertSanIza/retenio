@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480819869371",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480819869371",
+        "noteId": "1480817330855",
+        "noteGuid": "JorE&S@rr3",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::4 Other Antibiotics::4.1 - Trimethoprim/Sulfamethoxazole",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(4)-Other_Antibiotics::4.1-Trimethoprim/Sulfamethoxazole",
+        "$$Antimicrobials",
+        "$Other_Antibiotics"
+    ],
+    "question": {
+        "text": "Name 3 different mechanisms by which TMP-SMX can lead to anemia",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Pancytopenia ⇒ ↓ RBCs\n(2) ↓ Folate ⇒ Megaloblastic anemia\n\n(3) ↓ GSH ⇒ Hemolytic anemia\n\n[Image: 5ea222767fa56916bfe192db3001362659248a9cba0343b79df6ce830246b68d]\n\n[Image: 217e5ca93018bd8622b3668a45d4be9c19e813b0d688aca80100b840e20a0de4]\n\n[Image: 8a6d4e4b197795dd60264b367a333f6e28cd1181b53391eca21e7190527bac93]",
+        "imageIds": [
+            "5ea222767fa56916bfe192db3001362659248a9cba0343b79df6ce830246b68d",
+            "217e5ca93018bd8622b3668a45d4be9c19e813b0d688aca80100b840e20a0de4",
+            "8a6d4e4b197795dd60264b367a333f6e28cd1181b53391eca21e7190527bac93"
+        ]
+    },
+    "images": {
+        "217e5ca93018bd8622b3668a45d4be9c19e813b0d688aca80100b840e20a0de4": {
+            "file": "images/217e5ca93018bd8622b3668a45d4be9c19e813b0d688aca80100b840e20a0de4.jpg",
+            "filename": "paste-204114025775107.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56086
+        },
+        "5ea222767fa56916bfe192db3001362659248a9cba0343b79df6ce830246b68d": {
+            "file": "images/5ea222767fa56916bfe192db3001362659248a9cba0343b79df6ce830246b68d.jpg",
+            "filename": "paste-204053896232963.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55778
+        },
+        "8a6d4e4b197795dd60264b367a333f6e28cd1181b53391eca21e7190527bac93": {
+            "file": "images/8a6d4e4b197795dd60264b367a333f6e28cd1181b53391eca21e7190527bac93.jpg",
+            "filename": "paste-204960134332419.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62016
+        }
+    }
+}

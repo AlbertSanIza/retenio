@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480294535743",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480294535743",
+        "noteId": "1480292425830",
+        "noteGuid": "F-Oy]]*-Bc",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::1 Antimetabolites::1.1 - Methotrexate, leucovorin, 5-fluorouracil, hydroxyurea",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(1)-Antimetabolites::1.1-Methotrexate,Leucovorin,5-FU,Hydroxyurea",
+        "$$Antineoplastics",
+        "$Antimetabolites"
+    ],
+    "question": {
+        "text": "MOA: Hydroxyurea",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Ribonucleotide reductase inhibitor\n\n(Also prevents HbS polymerization by ↑ [HbF])\n\n[Image: ab132f0e27ff051d2d06d2b90f59ea912f895a564d1ad2479cb9174ba15e2a5d]\n\n[Image: 16542fa8ab5acb6f5f9540f9e1638a8f42ea5314c77740a03c3595a8bf561dbd]",
+        "imageIds": [
+            "ab132f0e27ff051d2d06d2b90f59ea912f895a564d1ad2479cb9174ba15e2a5d",
+            "16542fa8ab5acb6f5f9540f9e1638a8f42ea5314c77740a03c3595a8bf561dbd"
+        ]
+    },
+    "images": {
+        "16542fa8ab5acb6f5f9540f9e1638a8f42ea5314c77740a03c3595a8bf561dbd": {
+            "file": "images/16542fa8ab5acb6f5f9540f9e1638a8f42ea5314c77740a03c3595a8bf561dbd.jpg",
+            "filename": "paste-39990440493059.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57886
+        },
+        "ab132f0e27ff051d2d06d2b90f59ea912f895a564d1ad2479cb9174ba15e2a5d": {
+            "file": "images/ab132f0e27ff051d2d06d2b90f59ea912f895a564d1ad2479cb9174ba15e2a5d.jpg",
+            "filename": "paste-39419209842691 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58338
+        }
+    }
+}

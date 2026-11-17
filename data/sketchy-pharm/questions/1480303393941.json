@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480303393941",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480303393941",
+        "noteId": "1480302756081",
+        "noteGuid": "G@alyBYtFv",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.5 - Monobactams & Carbapenems",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.5-Monobactams_&_Carbapenems",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "What is the spectrum of activity of monobactams?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Aerobic gram (-) rods\n\n(DOC for Enterobacter)\n\n[Image: 3679c5b0d8410d4d66807e8b0391f90ca2fbecffd4558692deb01d00802fcd9f]\n\n[Image: e412ddeea9cf99c9a9f12852e418b69b55f070f1d5ff29e978993fc7e3408f16]",
+        "imageIds": [
+            "3679c5b0d8410d4d66807e8b0391f90ca2fbecffd4558692deb01d00802fcd9f",
+            "e412ddeea9cf99c9a9f12852e418b69b55f070f1d5ff29e978993fc7e3408f16"
+        ]
+    },
+    "images": {
+        "3679c5b0d8410d4d66807e8b0391f90ca2fbecffd4558692deb01d00802fcd9f": {
+            "file": "images/3679c5b0d8410d4d66807e8b0391f90ca2fbecffd4558692deb01d00802fcd9f.jpg",
+            "filename": "paste-103482942029827.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 30554
+        },
+        "e412ddeea9cf99c9a9f12852e418b69b55f070f1d5ff29e978993fc7e3408f16": {
+            "file": "images/e412ddeea9cf99c9a9f12852e418b69b55f070f1d5ff29e978993fc7e3408f16.jpg",
+            "filename": "paste-103504416866307.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 31267
+        }
+    }
+}

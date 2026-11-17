@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484173395890",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484173395890",
+        "noteId": "1484172521200",
+        "noteGuid": "rxvt]42rcP",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::4 Mood Stabilizers & Antiepileptic Drugs::4.3 - Valproate, topiramate, lamotrigine, levetiracetam",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(4)-Mood_Stabilizers_&_Antiepileptics::4.2-Valproate,Topiramate,Lamotrigine,Levetiracetam",
+        "$$Neuro/Psych",
+        "$Mood_Stabilizers_&_Antiepileptics"
+    ],
+    "question": {
+        "text": "Name 4 broad spectrum antiepileptics",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Valproate\n(2) Topiramate\n\n(3) Lamotrigine\n\n(4) Levetiracetam\n\n[Image: 3f26d968a5dc966cf4fa977ed3ac4935e1d4a4e6f6adfe1dc6780257ae03d8eb]\n\n[Image: 94fa69ca682fb456fe0fe47638e3e929726645dd9c40088111afcae36ef0c150]\n\n[Image: 106c477f79004d713e2461df7a7cd0bde0c514965c45633880f8c24b3a7dd044]\n\n[Image: e80d5e72c7dd3212f4a03e673c80376fdd08a28c08a101cd75235f2815e7d5cc]\n\n[Image: 925afda7f408bc99307a144b46f6b5f9a0eb032b22c432e98cd2bdeb298d10d3]",
+        "imageIds": [
+            "3f26d968a5dc966cf4fa977ed3ac4935e1d4a4e6f6adfe1dc6780257ae03d8eb",
+            "94fa69ca682fb456fe0fe47638e3e929726645dd9c40088111afcae36ef0c150",
+            "106c477f79004d713e2461df7a7cd0bde0c514965c45633880f8c24b3a7dd044",
+            "e80d5e72c7dd3212f4a03e673c80376fdd08a28c08a101cd75235f2815e7d5cc",
+            "925afda7f408bc99307a144b46f6b5f9a0eb032b22c432e98cd2bdeb298d10d3"
+        ]
+    },
+    "images": {
+        "106c477f79004d713e2461df7a7cd0bde0c514965c45633880f8c24b3a7dd044": {
+            "file": "images/106c477f79004d713e2461df7a7cd0bde0c514965c45633880f8c24b3a7dd044.jpg",
+            "filename": "paste-661695546523651.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 94702
+        },
+        "3f26d968a5dc966cf4fa977ed3ac4935e1d4a4e6f6adfe1dc6780257ae03d8eb": {
+            "file": "images/3f26d968a5dc966cf4fa977ed3ac4935e1d4a4e6f6adfe1dc6780257ae03d8eb.jpg",
+            "filename": "paste-619261269639171.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 99760
+        },
+        "925afda7f408bc99307a144b46f6b5f9a0eb032b22c432e98cd2bdeb298d10d3": {
+            "file": "images/925afda7f408bc99307a144b46f6b5f9a0eb032b22c432e98cd2bdeb298d10d3.jpg",
+            "filename": "paste-618685744021507.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62414
+        },
+        "94fa69ca682fb456fe0fe47638e3e929726645dd9c40088111afcae36ef0c150": {
+            "file": "images/94fa69ca682fb456fe0fe47638e3e929726645dd9c40088111afcae36ef0c150.jpg",
+            "filename": "paste-621176825053187.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 103282
+        },
+        "e80d5e72c7dd3212f4a03e673c80376fdd08a28c08a101cd75235f2815e7d5cc": {
+            "file": "images/e80d5e72c7dd3212f4a03e673c80376fdd08a28c08a101cd75235f2815e7d5cc.jpg",
+            "filename": "paste-677342112382979.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 98789
+        }
+    }
+}

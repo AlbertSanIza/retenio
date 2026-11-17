@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480302755938",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480302755938",
+        "noteId": "1480301676727",
+        "noteGuid": "oy.7TfmNm^",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.4 - Cephalosporins",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.4-Cephalosporins",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "Name 3 second generation cephalosporins",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Cefuroxime\n(2) Cefotetan\n\n(3) Cefoxitin\n\n[Image: ad8172c668d15c4f9c38c47f9e40f5377ec1d4e57ba97991ed427448c2bf8ac4]",
+        "imageIds": [
+            "ad8172c668d15c4f9c38c47f9e40f5377ec1d4e57ba97991ed427448c2bf8ac4"
+        ]
+    },
+    "images": {
+        "ad8172c668d15c4f9c38c47f9e40f5377ec1d4e57ba97991ed427448c2bf8ac4": {
+            "file": "images/ad8172c668d15c4f9c38c47f9e40f5377ec1d4e57ba97991ed427448c2bf8ac4.jpg",
+            "filename": "paste-99140730093571.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 33145
+        }
+    }
+}

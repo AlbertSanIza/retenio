@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480543237515",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480543237515",
+        "noteId": "1480542313473",
+        "noteGuid": "f(Tr,}<mC3",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.2 - Macrolides",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.2-Macrolides",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "Name 3 atypical pathogens macrolides are used to treat",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Mycoplasma\n(2) Legionella\n\n(3) Chlamydia\n\n[Image: 7ed7fe5dbe2b17b38140ffc7629d83deeb8cf25978d1d7370d8bb860c227718e]\n\n[Image: d3fbecd9ce49dc57fbb1c6e2382eb1bb20c7cac85551a862dca959718cc5a2d3]\n\n[Image: 977bd5660614f31ce2ae138ceca3da54e928a6622945afe90176eb06fc14b0cd]",
+        "imageIds": [
+            "7ed7fe5dbe2b17b38140ffc7629d83deeb8cf25978d1d7370d8bb860c227718e",
+            "d3fbecd9ce49dc57fbb1c6e2382eb1bb20c7cac85551a862dca959718cc5a2d3",
+            "977bd5660614f31ce2ae138ceca3da54e928a6622945afe90176eb06fc14b0cd"
+        ]
+    },
+    "images": {
+        "7ed7fe5dbe2b17b38140ffc7629d83deeb8cf25978d1d7370d8bb860c227718e": {
+            "file": "images/7ed7fe5dbe2b17b38140ffc7629d83deeb8cf25978d1d7370d8bb860c227718e.jpg",
+            "filename": "paste-10290741641219.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44222
+        },
+        "977bd5660614f31ce2ae138ceca3da54e928a6622945afe90176eb06fc14b0cd": {
+            "file": "images/977bd5660614f31ce2ae138ceca3da54e928a6622945afe90176eb06fc14b0cd.jpg",
+            "filename": "paste-10561324580867 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43948
+        },
+        "d3fbecd9ce49dc57fbb1c6e2382eb1bb20c7cac85551a862dca959718cc5a2d3": {
+            "file": "images/d3fbecd9ce49dc57fbb1c6e2382eb1bb20c7cac85551a862dca959718cc5a2d3.jpg",
+            "filename": "paste-10423885627395 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43858
+        }
+    }
+}

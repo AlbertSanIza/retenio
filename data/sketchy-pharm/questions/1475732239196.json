@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475732239196",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475732239196",
+        "noteId": "1475731410843",
+        "noteGuid": "KE^F%)4EQ[",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.4 - Beta blockers",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.4-Beta_Drugs",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "What are the primary indications for the cardio-selective β-blockers?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) CHF\n\n(2) MI\n\n[Image: 7668dabf889232d318281c16e8a11e714819871faf38ad67f14be5336165f04b]\n\n[Image: b4f379f60da1562e3199f878c7b745d7d418da624a147dca9cd2af960fff4cf6]\n\n[Image: 6f92fc43642dbb314a0018d6d8efc4a7a232ebb2d9a12b87a69576ae1de968b7]\n\n[Image: c751027d87202ff06baf83f6353fbb48857d0991585ce0a18db8814130b04d7f]",
+        "imageIds": [
+            "7668dabf889232d318281c16e8a11e714819871faf38ad67f14be5336165f04b",
+            "b4f379f60da1562e3199f878c7b745d7d418da624a147dca9cd2af960fff4cf6",
+            "6f92fc43642dbb314a0018d6d8efc4a7a232ebb2d9a12b87a69576ae1de968b7",
+            "c751027d87202ff06baf83f6353fbb48857d0991585ce0a18db8814130b04d7f"
+        ]
+    },
+    "images": {
+        "6f92fc43642dbb314a0018d6d8efc4a7a232ebb2d9a12b87a69576ae1de968b7": {
+            "file": "images/6f92fc43642dbb314a0018d6d8efc4a7a232ebb2d9a12b87a69576ae1de968b7.jpg",
+            "filename": "paste-36322538422275.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56618
+        },
+        "7668dabf889232d318281c16e8a11e714819871faf38ad67f14be5336165f04b": {
+            "file": "images/7668dabf889232d318281c16e8a11e714819871faf38ad67f14be5336165f04b.jpg",
+            "filename": "paste-36077725286403.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54929
+        },
+        "b4f379f60da1562e3199f878c7b745d7d418da624a147dca9cd2af960fff4cf6": {
+            "file": "images/b4f379f60da1562e3199f878c7b745d7d418da624a147dca9cd2af960fff4cf6.jpg",
+            "filename": "paste-36026185678851.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58512
+        },
+        "c751027d87202ff06baf83f6353fbb48857d0991585ce0a18db8814130b04d7f": {
+            "file": "images/c751027d87202ff06baf83f6353fbb48857d0991585ce0a18db8814130b04d7f.jpg",
+            "filename": "paste-35983236005891.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51995
+        }
+    }
+}

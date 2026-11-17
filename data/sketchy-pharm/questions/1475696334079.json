@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475696334079",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475696334079",
+        "noteId": "1475694860200",
+        "noteGuid": "NtP#}A1%P}",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::3 Antihypertensives::3.2 - Primary hypertension & hypertensive emergency",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(3)-Antihypertensives::3.2-Primary_Hypertension_&_Hypertensive_Emergency",
+        "$$Cardiovascular_&_Renal",
+        "$Antihypertensives"
+    ],
+    "question": {
+        "text": "What combination vasodilatory drug therapy is used in patients with heart failure?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Hydralazine + Nitroglycerin\n\n[Image: 1fc902810f8a348943675807ac9b4274b85b5a5164854263ed85150f2aae214d]\n\n[Image: fbd33933b79ad8627aaf74db83d510eb33e346ea189049d58c5b7a902e39974d]",
+        "imageIds": [
+            "1fc902810f8a348943675807ac9b4274b85b5a5164854263ed85150f2aae214d",
+            "fbd33933b79ad8627aaf74db83d510eb33e346ea189049d58c5b7a902e39974d"
+        ]
+    },
+    "images": {
+        "1fc902810f8a348943675807ac9b4274b85b5a5164854263ed85150f2aae214d": {
+            "file": "images/1fc902810f8a348943675807ac9b4274b85b5a5164854263ed85150f2aae214d.jpg",
+            "filename": "paste-124008590737411.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47743
+        },
+        "fbd33933b79ad8627aaf74db83d510eb33e346ea189049d58c5b7a902e39974d": {
+            "file": "images/fbd33933b79ad8627aaf74db83d510eb33e346ea189049d58c5b7a902e39974d.jpg",
+            "filename": "paste-124188979363843.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45937
+        }
+    }
+}

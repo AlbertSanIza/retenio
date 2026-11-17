@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480308771374",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480308771374",
+        "noteId": "1480308395120",
+        "noteGuid": "e~~s+,_O7W",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.3 - Protease inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.3-Protease_Inhibitors",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "What protease inhibitor is the strongest inhibitor of the CYP450 system?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Ritonavir\n\n[Image: 41873e29d6e971b490fb0ba54bc4c2d44f50d861e8f1bd0f7099010146d7dc44]",
+        "imageIds": [
+            "41873e29d6e971b490fb0ba54bc4c2d44f50d861e8f1bd0f7099010146d7dc44"
+        ]
+    },
+    "images": {
+        "41873e29d6e971b490fb0ba54bc4c2d44f50d861e8f1bd0f7099010146d7dc44": {
+            "file": "images/41873e29d6e971b490fb0ba54bc4c2d44f50d861e8f1bd0f7099010146d7dc44.jpg",
+            "filename": "paste-120903329382403 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59026
+        }
+    }
+}

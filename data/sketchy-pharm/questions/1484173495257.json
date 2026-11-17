@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484173495257",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484173495257",
+        "noteId": "1484172521200",
+        "noteGuid": "rxvt]42rcP",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::4 Mood Stabilizers & Antiepileptic Drugs::4.3 - Valproate, topiramate, lamotrigine, levetiracetam",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(4)-Mood_Stabilizers_&_Antiepileptics::4.2-Valproate,Topiramate,Lamotrigine,Levetiracetam",
+        "$$Neuro/Psych",
+        "$Mood_Stabilizers_&_Antiepileptics"
+    ],
+    "question": {
+        "text": "MOA: Topirate",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Increases Na+ channel inactivation\n(2) Allosterically activates GABAA receptor\n\n[Image: 4687d8cb592d308abca06acf1a1db238bebf7cb67a1897eeadbb76e3b270971a]\n\n[Image: f8349e49389aa9ecb628f9c48f81c207bd06bea4854d1439abcff54b3c760324]",
+        "imageIds": [
+            "4687d8cb592d308abca06acf1a1db238bebf7cb67a1897eeadbb76e3b270971a",
+            "f8349e49389aa9ecb628f9c48f81c207bd06bea4854d1439abcff54b3c760324"
+        ]
+    },
+    "images": {
+        "4687d8cb592d308abca06acf1a1db238bebf7cb67a1897eeadbb76e3b270971a": {
+            "file": "images/4687d8cb592d308abca06acf1a1db238bebf7cb67a1897eeadbb76e3b270971a.jpg",
+            "filename": "paste-638588622471171.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 107587
+        },
+        "f8349e49389aa9ecb628f9c48f81c207bd06bea4854d1439abcff54b3c760324": {
+            "file": "images/f8349e49389aa9ecb628f9c48f81c207bd06bea4854d1439abcff54b3c760324.jpg",
+            "filename": "paste-641607984480259.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 106050
+        }
+    }
+}

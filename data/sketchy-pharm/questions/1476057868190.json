@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476057868190",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476057868190",
+        "noteId": "1476057511630",
+        "noteGuid": "DX{(cXG7Pq",
+        "modelId": "1475688242543",
+        "templateOrdinal": 19
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::2 Allergy & Pulmonary::2.2 - Asthma therapy",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(2)-Allergy_&_Pulmonary::2.2-Asthma_Therapy",
+        "$$Smooth_Muscle",
+        "$Allergy&Pulmonary"
+    ],
+    "question": {
+        "text": "MOA: Omalizumab",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Binds Fc portion of IgE\n\n[Image: dfa5a0e214257c7f6f878c11875c397498f22788c1eaf1afe5747ee89d896ccb]",
+        "imageIds": [
+            "dfa5a0e214257c7f6f878c11875c397498f22788c1eaf1afe5747ee89d896ccb"
+        ]
+    },
+    "images": {
+        "dfa5a0e214257c7f6f878c11875c397498f22788c1eaf1afe5747ee89d896ccb": {
+            "file": "images/dfa5a0e214257c7f6f878c11875c397498f22788c1eaf1afe5747ee89d896ccb.jpg",
+            "filename": "paste-27084063768579.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 89910
+        }
+    }
+}

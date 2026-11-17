@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480836764153",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480836764153",
+        "noteId": "1480835348971",
+        "noteGuid": "i*mBW%(]hE",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::8 Antivirals: other::8.1 - Acyclovir, valacyclovir, famciclovir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(8)-Antivirals-Other::8.1-Acyclovir,Valacyclovir,Famiciclovir",
+        "$$Antimicrobials",
+        "$Antivirals_Others"
+    ],
+    "question": {
+        "text": "MOA: Foscarnet",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "DIRECTLY inhibits Viral DNA Polymerase\n\n(Cidofovir has the same MOA)\n\n[Image: d4a7dea46b5a635a4b497c7a0324e70fe83de483ebe8aef7a734d3ff98073ab2]",
+        "imageIds": [
+            "d4a7dea46b5a635a4b497c7a0324e70fe83de483ebe8aef7a734d3ff98073ab2"
+        ]
+    },
+    "images": {
+        "d4a7dea46b5a635a4b497c7a0324e70fe83de483ebe8aef7a734d3ff98073ab2": {
+            "file": "images/d4a7dea46b5a635a4b497c7a0324e70fe83de483ebe8aef7a734d3ff98073ab2.jpg",
+            "filename": "paste-390592915832835.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47829
+        }
+    }
+}

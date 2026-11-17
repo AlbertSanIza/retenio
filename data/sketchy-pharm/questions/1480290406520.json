@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480290406520",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480290406520",
+        "noteId": "1480289740188",
+        "noteGuid": "yRA]LR7@/u",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.3 - Bleomycin, doxorubicin, daunorubicin, actinomycin D",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(2)-DNA_&_Cellular_Division::2.3-Bleomycin,Doxorubicin,Daunorubicin,Actinomycin_D",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "MOA: Anthracyclines",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Produce free radicals\n(2) Intercalate DNA\n\n[Image: 39202172104fbe2a9e0c03a06d45812359db570f724fe6564473c5150a379932]\n\n[Image: 477b275fd69b6bfdb4df895d5f713433f151927c7ec5bcffe405bc6200f33a9e]",
+        "imageIds": [
+            "39202172104fbe2a9e0c03a06d45812359db570f724fe6564473c5150a379932",
+            "477b275fd69b6bfdb4df895d5f713433f151927c7ec5bcffe405bc6200f33a9e"
+        ]
+    },
+    "images": {
+        "39202172104fbe2a9e0c03a06d45812359db570f724fe6564473c5150a379932": {
+            "file": "images/39202172104fbe2a9e0c03a06d45812359db570f724fe6564473c5150a379932.jpg",
+            "filename": "paste-42206643617795.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46323
+        },
+        "477b275fd69b6bfdb4df895d5f713433f151927c7ec5bcffe405bc6200f33a9e": {
+            "file": "images/477b275fd69b6bfdb4df895d5f713433f151927c7ec5bcffe405bc6200f33a9e.jpg",
+            "filename": "paste-116281944571907.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 69848
+        }
+    }
+}

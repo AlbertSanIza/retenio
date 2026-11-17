@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475703568710",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475703568710",
+        "noteId": "1475702646427",
+        "noteGuid": "g#IU13^g&[",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::2 Dyslipidemia Drugs::2.2 - Cholestyramine, ezetimibe",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(2)-Dyslipidemia_Drugs::2.2-Cholestyramine,Ezetimibe",
+        "$$Blood_&_Inflammation",
+        "$DyslipidemiaDrugs"
+    ],
+    "question": {
+        "text": "What are two examples of bile acid resins?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Cholestyramine\n(2) Cholestipol\n\n[Image: ef32d58e7dad2f0857696fc4e7e7d7ac71e1f3d658a0e0a7e6a051376a573c43]",
+        "imageIds": [
+            "ef32d58e7dad2f0857696fc4e7e7d7ac71e1f3d658a0e0a7e6a051376a573c43"
+        ]
+    },
+    "images": {
+        "ef32d58e7dad2f0857696fc4e7e7d7ac71e1f3d658a0e0a7e6a051376a573c43": {
+            "file": "images/ef32d58e7dad2f0857696fc4e7e7d7ac71e1f3d658a0e0a7e6a051376a573c43.jpg",
+            "filename": "paste-163818642604035.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 41749
+        }
+    }
+}

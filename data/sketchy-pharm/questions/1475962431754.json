@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475962431754",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475962431754",
+        "noteId": "1475962037924",
+        "noteGuid": "LK=6#G=0_h",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.1 - Class I A-C",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.1-Class_I_(A-C)",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "What effect do class I antiarrhythmics have on SA and AV node?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "None\n\n[Image: 1c36988db60deec5f049d09789e47664b3264cae563e7d22bb3007de5301a92e]",
+        "imageIds": [
+            "1c36988db60deec5f049d09789e47664b3264cae563e7d22bb3007de5301a92e"
+        ]
+    },
+    "images": {
+        "1c36988db60deec5f049d09789e47664b3264cae563e7d22bb3007de5301a92e": {
+            "file": "images/1c36988db60deec5f049d09789e47664b3264cae563e7d22bb3007de5301a92e.jpg",
+            "filename": "paste-25396141621251.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45745
+        }
+    }
+}

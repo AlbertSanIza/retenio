@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476028242657",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476028242657",
+        "noteId": "1476026238349",
+        "noteGuid": "q{jN<,Pl7#",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.1 - Heparin, LMWH, fondaparinux, direct thrombin inhibitors, Xa inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.1-Heparin,LMWH,Fondaparinux,Direct_Thrombin_Inhibitors",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "What protein mediates Heparin's effects?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Antithrombin III\n\n[Image: 0c00c940b8d410d1c088895fce1f224177c5fab391b997eb42b28739530b538d]\n\n[Image: 6bdf6cf308f5e29ee749cfeae3c535800163e7cd0f90c40b747fbae5af7d1035]",
+        "imageIds": [
+            "0c00c940b8d410d1c088895fce1f224177c5fab391b997eb42b28739530b538d",
+            "6bdf6cf308f5e29ee749cfeae3c535800163e7cd0f90c40b747fbae5af7d1035"
+        ]
+    },
+    "images": {
+        "0c00c940b8d410d1c088895fce1f224177c5fab391b997eb42b28739530b538d": {
+            "file": "images/0c00c940b8d410d1c088895fce1f224177c5fab391b997eb42b28739530b538d.jpg",
+            "filename": "paste-86406152060931.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66344
+        },
+        "6bdf6cf308f5e29ee749cfeae3c535800163e7cd0f90c40b747fbae5af7d1035": {
+            "file": "images/6bdf6cf308f5e29ee749cfeae3c535800163e7cd0f90c40b747fbae5af7d1035.jpg",
+            "filename": "paste-86496346374147.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62779
+        }
+    }
+}

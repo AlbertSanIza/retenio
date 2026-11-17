@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475727285518",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475727285518",
+        "noteId": "1475726464638",
+        "noteGuid": "JpARMA.2Xe",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::1 Parasympathetic::1.1 - Cholinomimetics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(1)-Parasympathetics::1.1-Cholinomimetics",
+        "$$Autonomic_Drugs",
+        "$Parasympathetics"
+    ],
+    "question": {
+        "text": "What cholinomimetic drug is used for smoking cessation?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Varenicline\n\n[Image: 7ed47c8977ab4076bd90a5baed229f84e195f704527dc233e31627bcaea82b4f]",
+        "imageIds": [
+            "7ed47c8977ab4076bd90a5baed229f84e195f704527dc233e31627bcaea82b4f"
+        ]
+    },
+    "images": {
+        "7ed47c8977ab4076bd90a5baed229f84e195f704527dc233e31627bcaea82b4f": {
+            "file": "images/7ed47c8977ab4076bd90a5baed229f84e195f704527dc233e31627bcaea82b4f.jpg",
+            "filename": "paste-11510512353283.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 67306
+        }
+    }
+}

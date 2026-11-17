@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479166823244",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479166823244",
+        "noteId": "1479166331886",
+        "noteGuid": "nZiAb4L,QC",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::5 Antipsychotics & Parkinson's::5.1 - First generation antipsychotics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(5)-Antipsychotics_&_Parkinsons::5.1-First_Generation_Antipsychotics",
+        "$$Neuro/Psych",
+        "$Antipsychotics_&_Parkinsons"
+    ],
+    "question": {
+        "text": "Other than D2 receptors, what receptors do first generation antipsychotics inhibit?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Muscarinic receptors\n(2) α1 receptors\n\n(3) H1 receptors\n\n(Note: this occurs predominantly in the LOW potency first generation antipsychotics)\n\n[Image: dc9785dcadc307501a271035aba21c0ec38814f9453e06205ccfbb9262dc49a3]\n\n[Image: 63363167bcca489ba9747c41f5d0c5779483c77ec563ad20ead5ca531ad2895a]\n\n[Image: 6b955c00b35ba4c366bc0b33f92ea8456377497ff5c2816d29c6be30c93c4558]",
+        "imageIds": [
+            "dc9785dcadc307501a271035aba21c0ec38814f9453e06205ccfbb9262dc49a3",
+            "63363167bcca489ba9747c41f5d0c5779483c77ec563ad20ead5ca531ad2895a",
+            "6b955c00b35ba4c366bc0b33f92ea8456377497ff5c2816d29c6be30c93c4558"
+        ]
+    },
+    "images": {
+        "63363167bcca489ba9747c41f5d0c5779483c77ec563ad20ead5ca531ad2895a": {
+            "file": "images/63363167bcca489ba9747c41f5d0c5779483c77ec563ad20ead5ca531ad2895a.jpg",
+            "filename": "paste-182360016420867.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65407
+        },
+        "6b955c00b35ba4c366bc0b33f92ea8456377497ff5c2816d29c6be30c93c4558": {
+            "file": "images/6b955c00b35ba4c366bc0b33f92ea8456377497ff5c2816d29c6be30c93c4558.jpg",
+            "filename": "paste-188278481354755.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 69023
+        },
+        "dc9785dcadc307501a271035aba21c0ec38814f9453e06205ccfbb9262dc49a3": {
+            "file": "images/dc9785dcadc307501a271035aba21c0ec38814f9453e06205ccfbb9262dc49a3.jpg",
+            "filename": "paste-175930450378755.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60326
+        }
+    }
+}

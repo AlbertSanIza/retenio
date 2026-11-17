@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480837996000",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480837996000",
+        "noteId": "1480837653001",
+        "noteGuid": "PaSdeX5^)E",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::8 Antivirals: other::8.2 - Ganciclovir, valganciclovir, foscarnet, cidofovir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(8)-Antivirals-Other::8.2-Ganciclovir,Valganciclovir,Foscarnet,Cidofovir",
+        "$$Antimicrobials",
+        "$Antivirals_Others"
+    ],
+    "question": {
+        "text": "What electrolyte abnormalities are common with Foscarnet?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) ↓ Ca2+\n(2) ↓ Mg2+\n\n(3) ↓ K+\n\n[Image: fe7c9921b094860ff7484093252b926f219c400a9da9a5c264c14487c899a98f]\n\n[Image: 4db99e0242967cd31c9922efd017cda8c5791706fc66c9f9c8febbc2b1d8df17]\n\n[Image: 2ee9f66f283662a083ef5b1ba363f4fd8a330a8e91565379e6f244fa16dd9964]",
+        "imageIds": [
+            "fe7c9921b094860ff7484093252b926f219c400a9da9a5c264c14487c899a98f",
+            "4db99e0242967cd31c9922efd017cda8c5791706fc66c9f9c8febbc2b1d8df17",
+            "2ee9f66f283662a083ef5b1ba363f4fd8a330a8e91565379e6f244fa16dd9964"
+        ]
+    },
+    "images": {
+        "2ee9f66f283662a083ef5b1ba363f4fd8a330a8e91565379e6f244fa16dd9964": {
+            "file": "images/2ee9f66f283662a083ef5b1ba363f4fd8a330a8e91565379e6f244fa16dd9964.jpg",
+            "filename": "paste-418488728420355.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48471
+        },
+        "4db99e0242967cd31c9922efd017cda8c5791706fc66c9f9c8febbc2b1d8df17": {
+            "file": "images/4db99e0242967cd31c9922efd017cda8c5791706fc66c9f9c8febbc2b1d8df17.jpg",
+            "filename": "paste-418261095153667.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 40151
+        },
+        "fe7c9921b094860ff7484093252b926f219c400a9da9a5c264c14487c899a98f": {
+            "file": "images/fe7c9921b094860ff7484093252b926f219c400a9da9a5c264c14487c899a98f.jpg",
+            "filename": "paste-418209555546115.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 37580
+        }
+    }
+}

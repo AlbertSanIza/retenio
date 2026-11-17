@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476029652800",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476029652800",
+        "noteId": "1476028790280",
+        "noteGuid": "hTu{S)5RkV",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.2 - Warfarin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.2-Warfarin",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "Which clotting factors does Warfarin inhibit?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Factor II\n(2) Factor VII\n\n(3) Factor IX\n\n(4) Factor X\n\n(5) Factor C\n(6) Factor S\n\n[Image: 455b06e79696b0229bc29b29742128314adda5c21b06afab9797ee65f1fd61a7]\n\n[Image: 0ebf74c35a484de62295a75e87c9399c6ed090b7dd3fe58bb2e64eaa7655e6d9]\n\n[Image: fbddcda3d8a7af27ce9f96a5372605e17ec72f112dad17c7984c2044fbb36328]\n\n[Image: bcfd1130e9b1608204efd137afa667e92728520df3650bbef5a45f14e68e3818]\n\n[Image: cfe4b0bbe867851702f1af960f0048aca910992daebabf15b347ac74476b387c]",
+        "imageIds": [
+            "455b06e79696b0229bc29b29742128314adda5c21b06afab9797ee65f1fd61a7",
+            "0ebf74c35a484de62295a75e87c9399c6ed090b7dd3fe58bb2e64eaa7655e6d9",
+            "fbddcda3d8a7af27ce9f96a5372605e17ec72f112dad17c7984c2044fbb36328",
+            "bcfd1130e9b1608204efd137afa667e92728520df3650bbef5a45f14e68e3818",
+            "cfe4b0bbe867851702f1af960f0048aca910992daebabf15b347ac74476b387c"
+        ]
+    },
+    "images": {
+        "0ebf74c35a484de62295a75e87c9399c6ed090b7dd3fe58bb2e64eaa7655e6d9": {
+            "file": "images/0ebf74c35a484de62295a75e87c9399c6ed090b7dd3fe58bb2e64eaa7655e6d9.jpg",
+            "filename": "paste-6064493821955.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54946
+        },
+        "455b06e79696b0229bc29b29742128314adda5c21b06afab9797ee65f1fd61a7": {
+            "file": "images/455b06e79696b0229bc29b29742128314adda5c21b06afab9797ee65f1fd61a7.jpg",
+            "filename": "paste-6034429050883.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55632
+        },
+        "bcfd1130e9b1608204efd137afa667e92728520df3650bbef5a45f14e68e3818": {
+            "file": "images/bcfd1130e9b1608204efd137afa667e92728520df3650bbef5a45f14e68e3818.jpg",
+            "filename": "paste-6150393167875.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53814
+        },
+        "cfe4b0bbe867851702f1af960f0048aca910992daebabf15b347ac74476b387c": {
+            "file": "images/cfe4b0bbe867851702f1af960f0048aca910992daebabf15b347ac74476b387c.jpg",
+            "filename": "paste-6502580486147 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66573
+        },
+        "fbddcda3d8a7af27ce9f96a5372605e17ec72f112dad17c7984c2044fbb36328": {
+            "file": "images/fbddcda3d8a7af27ce9f96a5372605e17ec72f112dad17c7984c2044fbb36328.jpg",
+            "filename": "paste-6116033429507.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53945
+        }
+    }
+}

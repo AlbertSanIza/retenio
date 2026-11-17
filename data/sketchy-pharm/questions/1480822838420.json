@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480822838420",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480822838420",
+        "noteId": "1480822475400",
+        "noteGuid": "M<MBd)n{6z",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::4 Other Antibiotics::4.3 - Metronidazole",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(4)-Other_Antibiotics::4.3-Metronidazole",
+        "$$Antimicrobials",
+        "$Other_Antibiotics"
+    ],
+    "question": {
+        "text": "Name 3 bacterial infections Metronidazole is used to treat",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Gardnerella vaginalis\n(2) Helicobacter pylori\n\n(3) Clostridium\n\n(And other anaerobes)\n\n[Image: f99e7a99baaa8f3c1a963e9389a39ce288d97450497087e744d6d8799fd400a5]\n\n[Image: 91441839d65472b7d67bbc81935df1d732ffee407cfc2b52d3d60b2d0b150856]\n\n[Image: 22c3eac3ec444e030920bf0c48df8927a39b6b9a6ebe9a21d103b8bf2530f1c5]",
+        "imageIds": [
+            "f99e7a99baaa8f3c1a963e9389a39ce288d97450497087e744d6d8799fd400a5",
+            "91441839d65472b7d67bbc81935df1d732ffee407cfc2b52d3d60b2d0b150856",
+            "22c3eac3ec444e030920bf0c48df8927a39b6b9a6ebe9a21d103b8bf2530f1c5"
+        ]
+    },
+    "images": {
+        "22c3eac3ec444e030920bf0c48df8927a39b6b9a6ebe9a21d103b8bf2530f1c5": {
+            "file": "images/22c3eac3ec444e030920bf0c48df8927a39b6b9a6ebe9a21d103b8bf2530f1c5.jpg",
+            "filename": "paste-239865333547011.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49229
+        },
+        "91441839d65472b7d67bbc81935df1d732ffee407cfc2b52d3d60b2d0b150856": {
+            "file": "images/91441839d65472b7d67bbc81935df1d732ffee407cfc2b52d3d60b2d0b150856.jpg",
+            "filename": "paste-239483081457667.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49633
+        },
+        "f99e7a99baaa8f3c1a963e9389a39ce288d97450497087e744d6d8799fd400a5": {
+            "file": "images/f99e7a99baaa8f3c1a963e9389a39ce288d97450497087e744d6d8799fd400a5.jpg",
+            "filename": "paste-239229678387203.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49434
+        }
+    }
+}

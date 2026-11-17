@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475962431769",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475962431769",
+        "noteId": "1475962037924",
+        "noteGuid": "LK=6#G=0_h",
+        "modelId": "1475688242543",
+        "templateOrdinal": 18
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.1 - Class I A-C",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.1-Class_I_(A-C)",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "Which division of class I antiarrhythmics are used to treat atrial fibrillation?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Class IC\n\n[Image: da5b131f36a7756a6accadc2b02f95a0758909de62e4c9082d093ee4ff3e07f1]\n\n[Image: 08ce2b05df0d88ad8a004f0b93366e71127a2fff20b16daf6a16a95ca31dea3f]",
+        "imageIds": [
+            "da5b131f36a7756a6accadc2b02f95a0758909de62e4c9082d093ee4ff3e07f1",
+            "08ce2b05df0d88ad8a004f0b93366e71127a2fff20b16daf6a16a95ca31dea3f"
+        ]
+    },
+    "images": {
+        "08ce2b05df0d88ad8a004f0b93366e71127a2fff20b16daf6a16a95ca31dea3f": {
+            "file": "images/08ce2b05df0d88ad8a004f0b93366e71127a2fff20b16daf6a16a95ca31dea3f.jpg",
+            "filename": "paste-36829344563203.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63174
+        },
+        "da5b131f36a7756a6accadc2b02f95a0758909de62e4c9082d093ee4ff3e07f1": {
+            "file": "images/da5b131f36a7756a6accadc2b02f95a0758909de62e4c9082d093ee4ff3e07f1.jpg",
+            "filename": "paste-36726265348099.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61956
+        }
+    }
+}

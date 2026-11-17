@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475730679318",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475730679318",
+        "noteId": "1475730097704",
+        "noteGuid": "OD@.lTw{<=",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.2 - Indirect sympathomimetics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.2-Indirect_Sympathomimetics",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "MOA: Atomoxetine",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "NET inhibitor\n\n[Image: 5886ffb00a060dcb94e6fbc2934dd5a33616299c5542cb1d64846b080e5abf44]",
+        "imageIds": [
+            "5886ffb00a060dcb94e6fbc2934dd5a33616299c5542cb1d64846b080e5abf44"
+        ]
+    },
+    "images": {
+        "5886ffb00a060dcb94e6fbc2934dd5a33616299c5542cb1d64846b080e5abf44": {
+            "file": "images/5886ffb00a060dcb94e6fbc2934dd5a33616299c5542cb1d64846b080e5abf44.jpg",
+            "filename": "paste-28647431864323.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56092
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476131455857",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476131455857",
+        "noteId": "1476130090291",
+        "noteGuid": "O>jMOQ>@1^",
+        "modelId": "1475688242543",
+        "templateOrdinal": 12
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::4 Hypothalamic & Pituitary::4.2 - ADH, DDAVP,& ADH Receptor Antagonists",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(4)-Hypothalamic_&_Pituitary::4.1-ADH,DDAVP,_&_ADH_Receptor_Antagonists",
+        "$$GI_&_Endocrine",
+        "$Hypothalamic_&_Pituitary"
+    ],
+    "question": {
+        "text": "Indications (4) : Desmopressin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Central diabetes insipidus\n(2) vWF deficiency\n\n(3) Hemophilia A\n\n(4) Enuresis\n\n[Image: bd62bd270b8a92865d6cca6ffc289429de29711cf48348d434d11853543d5a38]\n\n[Image: e3cdf0e36508be8e92d17a3a8a239c945c75d20ab6465ae1f0ab18c5aa40628b]\n\n[Image: 73a342da98149a0054c3a2b8a1b22adf17b317f1d3e14cf85e57aadb00804b33]\n\n[Image: ae3e7a78b9c60b42598e4849fe79f30fcf2dafeda73724ad714a2c7f8038699f]",
+        "imageIds": [
+            "bd62bd270b8a92865d6cca6ffc289429de29711cf48348d434d11853543d5a38",
+            "e3cdf0e36508be8e92d17a3a8a239c945c75d20ab6465ae1f0ab18c5aa40628b",
+            "73a342da98149a0054c3a2b8a1b22adf17b317f1d3e14cf85e57aadb00804b33",
+            "ae3e7a78b9c60b42598e4849fe79f30fcf2dafeda73724ad714a2c7f8038699f"
+        ]
+    },
+    "images": {
+        "73a342da98149a0054c3a2b8a1b22adf17b317f1d3e14cf85e57aadb00804b33": {
+            "file": "images/73a342da98149a0054c3a2b8a1b22adf17b317f1d3e14cf85e57aadb00804b33.jpg",
+            "filename": "paste-86354612453379.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56905
+        },
+        "ae3e7a78b9c60b42598e4849fe79f30fcf2dafeda73724ad714a2c7f8038699f": {
+            "file": "images/ae3e7a78b9c60b42598e4849fe79f30fcf2dafeda73724ad714a2c7f8038699f.jpg",
+            "filename": "paste-86423331930115.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52937
+        },
+        "bd62bd270b8a92865d6cca6ffc289429de29711cf48348d434d11853543d5a38": {
+            "file": "images/bd62bd270b8a92865d6cca6ffc289429de29711cf48348d434d11853543d5a38.jpg",
+            "filename": "paste-86255828205571.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49663
+        },
+        "e3cdf0e36508be8e92d17a3a8a239c945c75d20ab6465ae1f0ab18c5aa40628b": {
+            "file": "images/e3cdf0e36508be8e92d17a3a8a239c945c75d20ab6465ae1f0ab18c5aa40628b.jpg",
+            "filename": "paste-86290187943939.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58521
+        }
+    }
+}

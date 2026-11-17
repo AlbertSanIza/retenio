@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475727285511",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475727285511",
+        "noteId": "1475726464638",
+        "noteGuid": "JpARMA.2Xe",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::1 Parasympathetic::1.1 - Cholinomimetics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(1)-Parasympathetics::1.1-Cholinomimetics",
+        "$$Autonomic_Drugs",
+        "$Parasympathetics"
+    ],
+    "question": {
+        "text": "Where are M3 receptors found?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Smooth muscle\n(2) Glands\n\n[Image: b1e20d93d889a81c5a4425372d51a6bf2a38a237da4ff4bab901713abb773ce0]",
+        "imageIds": [
+            "b1e20d93d889a81c5a4425372d51a6bf2a38a237da4ff4bab901713abb773ce0"
+        ]
+    },
+    "images": {
+        "b1e20d93d889a81c5a4425372d51a6bf2a38a237da4ff4bab901713abb773ce0": {
+            "file": "images/b1e20d93d889a81c5a4425372d51a6bf2a38a237da4ff4bab901713abb773ce0.jpg",
+            "filename": "paste-6609954668547.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60106
+        }
+    }
+}

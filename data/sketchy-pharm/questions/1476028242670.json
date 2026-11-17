@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476028242670",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476028242670",
+        "noteId": "1476026238349",
+        "noteGuid": "q{jN<,Pl7#",
+        "modelId": "1475688242543",
+        "templateOrdinal": 16
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.1 - Heparin, LMWH, fondaparinux, direct thrombin inhibitors, Xa inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.1-Heparin,LMWH,Fondaparinux,Direct_Thrombin_Inhibitors",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "MOA: Fondaparinux",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "≅ LMWH\n\n(Although even more specific for ATIII)\n\n[Image: e37205b68b89291f3722edf1849146c673e563b0eb581f20fb3f918f0eb9b617]\n\n[Image: 0cc0eaac41a681b830766dc7e356b6ec16fbc49722045cb9d52831e502ff084b]",
+        "imageIds": [
+            "e37205b68b89291f3722edf1849146c673e563b0eb581f20fb3f918f0eb9b617",
+            "0cc0eaac41a681b830766dc7e356b6ec16fbc49722045cb9d52831e502ff084b"
+        ]
+    },
+    "images": {
+        "0cc0eaac41a681b830766dc7e356b6ec16fbc49722045cb9d52831e502ff084b": {
+            "file": "images/0cc0eaac41a681b830766dc7e356b6ec16fbc49722045cb9d52831e502ff084b.jpg",
+            "filename": "paste-89219355639811.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 87693
+        },
+        "e37205b68b89291f3722edf1849146c673e563b0eb581f20fb3f918f0eb9b617": {
+            "file": "images/e37205b68b89291f3722edf1849146c673e563b0eb581f20fb3f918f0eb9b617.jpg",
+            "filename": "paste-89296665051139.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 91013
+        }
+    }
+}

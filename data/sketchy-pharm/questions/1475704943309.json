@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475704943309",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475704943309",
+        "noteId": "1475704171002",
+        "noteGuid": "M|s^}DGXy|",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::2 Dyslipidemia Drugs::2.3 - Fibrates, niacin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(2)-Dyslipidemia_Drugs::2.3-Fibrates,Niacin",
+        "$$Blood_&_Inflammation",
+        "$DyslipidemiaDrugs"
+    ],
+    "question": {
+        "text": "What effect does Niacin have on the lipid fraction?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) ↓ TGs\n(2) ↓ LDL\n\n(3) ↑↑↑ HDL\n\n[Image: eb2c4f1d3267879532ca69d4966ba29665f24f718c931ff7ca9565663e571b43]\n\n[Image: a064d8e577ff1878a2391d444788233f3ac3d982f64f0a364509cbab1bc455d6]\n\n[Image: 9b520f287d9e1cb1a22fc04a23530e2f3af00c8b8e540f91d83d4500118a095d]",
+        "imageIds": [
+            "eb2c4f1d3267879532ca69d4966ba29665f24f718c931ff7ca9565663e571b43",
+            "a064d8e577ff1878a2391d444788233f3ac3d982f64f0a364509cbab1bc455d6",
+            "9b520f287d9e1cb1a22fc04a23530e2f3af00c8b8e540f91d83d4500118a095d"
+        ]
+    },
+    "images": {
+        "9b520f287d9e1cb1a22fc04a23530e2f3af00c8b8e540f91d83d4500118a095d": {
+            "file": "images/9b520f287d9e1cb1a22fc04a23530e2f3af00c8b8e540f91d83d4500118a095d.jpg",
+            "filename": "paste-184778083008515.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 85078
+        },
+        "a064d8e577ff1878a2391d444788233f3ac3d982f64f0a364509cbab1bc455d6": {
+            "file": "images/a064d8e577ff1878a2391d444788233f3ac3d982f64f0a364509cbab1bc455d6.jpg",
+            "filename": "paste-200385994162179.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 91670
+        },
+        "eb2c4f1d3267879532ca69d4966ba29665f24f718c931ff7ca9565663e571b43": {
+            "file": "images/eb2c4f1d3267879532ca69d4966ba29665f24f718c931ff7ca9565663e571b43.jpg",
+            "filename": "paste-191512591728643.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 89638
+        }
+    }
+}

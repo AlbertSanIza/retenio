@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476236480847",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476236480847",
+        "noteId": "1476236443812",
+        "noteGuid": "e{>uGA()u@",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.3 - Thiazides",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.3-Thiazides",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "What is the difference in mechanism of Ca2+ reabsorption in DCT vs. TAL?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) DCT: Active transport\n(2) TAL: Driven by (+) lumenal voltage\n\n[Image: 3fffda0065c4352b10827ad94560a98ab3672fa036e421b93f2dc0818f95318e]",
+        "imageIds": [
+            "3fffda0065c4352b10827ad94560a98ab3672fa036e421b93f2dc0818f95318e"
+        ]
+    },
+    "images": {
+        "3fffda0065c4352b10827ad94560a98ab3672fa036e421b93f2dc0818f95318e": {
+            "file": "images/3fffda0065c4352b10827ad94560a98ab3672fa036e421b93f2dc0818f95318e.jpg",
+            "filename": "paste-75063143432195.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55646
+        }
+    }
+}

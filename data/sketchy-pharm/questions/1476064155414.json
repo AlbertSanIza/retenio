@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476064155414",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476064155414",
+        "noteId": "1476063149826",
+        "noteGuid": "z+V/(i)+AN",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::1 Vasoactive::1.2 - Triptans & migraine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(1)-Vasoactive::1.2-Triptans_&_Migraines",
+        "$$Smooth_Muscle",
+        "$Vasoactive"
+    ],
+    "question": {
+        "text": "Contraindication: Triptans",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Patients with angina\n\n(Also are known to trigger Prinzmetal angina)\n\n[Image: 5beabd1ec8df80b78cd5da0d7f86632e6a4338074be48285fb121f51725e82f6]",
+        "imageIds": [
+            "5beabd1ec8df80b78cd5da0d7f86632e6a4338074be48285fb121f51725e82f6"
+        ]
+    },
+    "images": {
+        "5beabd1ec8df80b78cd5da0d7f86632e6a4338074be48285fb121f51725e82f6": {
+            "file": "images/5beabd1ec8df80b78cd5da0d7f86632e6a4338074be48285fb121f51725e82f6.jpg",
+            "filename": "paste-80010945757187.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70705
+        }
+    }
+}

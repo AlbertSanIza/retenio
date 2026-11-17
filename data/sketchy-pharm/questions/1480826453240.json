@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480826453240",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480826453240",
+        "noteId": "1480825958438",
+        "noteGuid": "wh`5lM*zbv",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::5 Antifungals::5.2 - Azoles",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(5)-Antifungals::5.2-Azoles",
+        "$$Antimicrobials",
+        "$Antifungals"
+    ],
+    "question": {
+        "text": "Which azole is used to treat infections by dimorphic fungi?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Itraconazole\n\n(\"ITTTraconazole for fungi with two ITTTerations\")\n\n[Image: 24a3994edd35fc7a48762cb6724870162f915050d664947f8ddd1f44d2f2695b]\n\n[Image: 2e55b64cecdf5d5ed94d9baf85dac6308176096b9967589efaddb5c6629378f4]",
+        "imageIds": [
+            "24a3994edd35fc7a48762cb6724870162f915050d664947f8ddd1f44d2f2695b",
+            "2e55b64cecdf5d5ed94d9baf85dac6308176096b9967589efaddb5c6629378f4"
+        ]
+    },
+    "images": {
+        "24a3994edd35fc7a48762cb6724870162f915050d664947f8ddd1f44d2f2695b": {
+            "file": "images/24a3994edd35fc7a48762cb6724870162f915050d664947f8ddd1f44d2f2695b.jpg",
+            "filename": "paste-282179351347203.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49895
+        },
+        "2e55b64cecdf5d5ed94d9baf85dac6308176096b9967589efaddb5c6629378f4": {
+            "file": "images/2e55b64cecdf5d5ed94d9baf85dac6308176096b9967589efaddb5c6629378f4.jpg",
+            "filename": "paste-282260955725827.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52281
+        }
+    }
+}

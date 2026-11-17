@@ -1,0 +1,87 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476057868173",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476057868173",
+        "noteId": "1476057511630",
+        "noteGuid": "DX{(cXG7Pq",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::2 Allergy & Pulmonary::2.2 - Asthma therapy",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(2)-Allergy_&_Pulmonary::2.2-Asthma_Therapy",
+        "$$Smooth_Muscle",
+        "$Allergy&Pulmonary"
+    ],
+    "question": {
+        "text": "Treatment (8) : Persistent asthma (not β2 agonist)",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Inhaled corticosteroids\n(2) Direct lipoxygenase inhibitors\n\n(3) Methylxanthines\n\n(4) Omalizumab\n\n(5) Cromolyn Sulfate\n\n(6) LTD4-receptor antagonists\n\n(7) Ipratropium\n\n(8) Epinephrine\n\n[Image: 9a30812ee03fe61ae3e8c6e759b54526c43ab1139ea7d8ceaccf4885e6b897ba]\n\n[Image: 0b140e469e163d0223ec4f1490058e11a7e5cc28749aee2680eb5b647be21ed4]\n\n[Image: 257ccacfe2016633d0c796b31e2c48921c9b3ad3131b8e3248b678630b9ea3ed]\n\n[Image: 1609a1368e1465a4ed05ddde6eed3da4918fb820ac3a28f2ae74f4243434cf14]\n\n[Image: befbcf124f19e32e88d45f3077ddced2bea94e1e57634a85bc58c1a286a2cc01]\n\n[Image: d04e393f21f689bd2b32fd5b2cf54608be8f9df8f2a4f12dd52c7ea0d5067f70]\n\n[Image: bb15127d7d3f9e8d03d864a34c07dc3d2215f3c84f5999cb5efe20eef12d1a64]\n\n[Image: 4a50c6f7be1f46e02c629bd8fd99f266e38a51f41c2a2a870ce22d82b14affd5]",
+        "imageIds": [
+            "9a30812ee03fe61ae3e8c6e759b54526c43ab1139ea7d8ceaccf4885e6b897ba",
+            "0b140e469e163d0223ec4f1490058e11a7e5cc28749aee2680eb5b647be21ed4",
+            "257ccacfe2016633d0c796b31e2c48921c9b3ad3131b8e3248b678630b9ea3ed",
+            "1609a1368e1465a4ed05ddde6eed3da4918fb820ac3a28f2ae74f4243434cf14",
+            "befbcf124f19e32e88d45f3077ddced2bea94e1e57634a85bc58c1a286a2cc01",
+            "d04e393f21f689bd2b32fd5b2cf54608be8f9df8f2a4f12dd52c7ea0d5067f70",
+            "bb15127d7d3f9e8d03d864a34c07dc3d2215f3c84f5999cb5efe20eef12d1a64",
+            "4a50c6f7be1f46e02c629bd8fd99f266e38a51f41c2a2a870ce22d82b14affd5"
+        ]
+    },
+    "images": {
+        "0b140e469e163d0223ec4f1490058e11a7e5cc28749aee2680eb5b647be21ed4": {
+            "file": "images/0b140e469e163d0223ec4f1490058e11a7e5cc28749aee2680eb5b647be21ed4.jpg",
+            "filename": "paste-24644522344451 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 74301
+        },
+        "1609a1368e1465a4ed05ddde6eed3da4918fb820ac3a28f2ae74f4243434cf14": {
+            "file": "images/1609a1368e1465a4ed05ddde6eed3da4918fb820ac3a28f2ae74f4243434cf14.jpg",
+            "filename": "paste-30962419236867.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 90537
+        },
+        "257ccacfe2016633d0c796b31e2c48921c9b3ad3131b8e3248b678630b9ea3ed": {
+            "file": "images/257ccacfe2016633d0c796b31e2c48921c9b3ad3131b8e3248b678630b9ea3ed.jpg",
+            "filename": "paste-25580825214979.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 76199
+        },
+        "4a50c6f7be1f46e02c629bd8fd99f266e38a51f41c2a2a870ce22d82b14affd5": {
+            "file": "images/4a50c6f7be1f46e02c629bd8fd99f266e38a51f41c2a2a870ce22d82b14affd5.jpg",
+            "filename": "paste-27174258081795.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60253
+        },
+        "9a30812ee03fe61ae3e8c6e759b54526c43ab1139ea7d8ceaccf4885e6b897ba": {
+            "file": "images/9a30812ee03fe61ae3e8c6e759b54526c43ab1139ea7d8ceaccf4885e6b897ba.jpg",
+            "filename": "paste-21685289877507.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65479
+        },
+        "bb15127d7d3f9e8d03d864a34c07dc3d2215f3c84f5999cb5efe20eef12d1a64": {
+            "file": "images/bb15127d7d3f9e8d03d864a34c07dc3d2215f3c84f5999cb5efe20eef12d1a64.jpg",
+            "filename": "paste-27066883899395.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62099
+        },
+        "befbcf124f19e32e88d45f3077ddced2bea94e1e57634a85bc58c1a286a2cc01": {
+            "file": "images/befbcf124f19e32e88d45f3077ddced2bea94e1e57634a85bc58c1a286a2cc01.jpg",
+            "filename": "paste-31052613550083.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 94713
+        },
+        "d04e393f21f689bd2b32fd5b2cf54608be8f9df8f2a4f12dd52c7ea0d5067f70": {
+            "file": "images/d04e393f21f689bd2b32fd5b2cf54608be8f9df8f2a4f12dd52c7ea0d5067f70.jpg",
+            "filename": "paste-24099061497859.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 83746
+        }
+    }
+}

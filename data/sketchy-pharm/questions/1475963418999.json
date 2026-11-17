@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475963418999",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475963418999",
+        "noteId": "1475962431917",
+        "noteGuid": "g~p_aT&`(Y",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.2 - Class II",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.2-Class_II",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "Name a class II antiarrhythmic that can be used for acute supraventricular arrhythmia",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Esmolol\n\n(∵ IV administration)\n\n[Image: f4d6e7bf63025758f5da9aefd8c117a071bed148448dfb5d8cea49b878145348]",
+        "imageIds": [
+            "f4d6e7bf63025758f5da9aefd8c117a071bed148448dfb5d8cea49b878145348"
+        ]
+    },
+    "images": {
+        "f4d6e7bf63025758f5da9aefd8c117a071bed148448dfb5d8cea49b878145348": {
+            "file": "images/f4d6e7bf63025758f5da9aefd8c117a071bed148448dfb5d8cea49b878145348.jpg",
+            "filename": "paste-40806484279299.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50747
+        }
+    }
+}

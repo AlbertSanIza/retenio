@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480299594629",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480299594629",
+        "noteId": "1480298206862",
+        "noteGuid": "n}<zAn6=@Y",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.3 - Opiates, naloxone, naltrexone",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.3-Opiates,Naloxone,Naltrexone",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "MOA: Tramadol",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Weak μ-agonist\n(2) NET/SERT Inhibitor\n\n[Image: d34cb3d5e5dcae2a3a393384f369c503d61cdbe36cd59c1779be168ddbd10c33]\n\n[Image: 6755b6b34508943aebefa87a19bcab9d02d41e4dab6925cbaa314583159b9e89]",
+        "imageIds": [
+            "d34cb3d5e5dcae2a3a393384f369c503d61cdbe36cd59c1779be168ddbd10c33",
+            "6755b6b34508943aebefa87a19bcab9d02d41e4dab6925cbaa314583159b9e89"
+        ]
+    },
+    "images": {
+        "6755b6b34508943aebefa87a19bcab9d02d41e4dab6925cbaa314583159b9e89": {
+            "file": "images/6755b6b34508943aebefa87a19bcab9d02d41e4dab6925cbaa314583159b9e89.jpg",
+            "filename": "paste-88119844012035.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53775
+        },
+        "d34cb3d5e5dcae2a3a393384f369c503d61cdbe36cd59c1779be168ddbd10c33": {
+            "file": "images/d34cb3d5e5dcae2a3a393384f369c503d61cdbe36cd59c1779be168ddbd10c33.jpg",
+            "filename": "paste-88072599371779.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50889
+        }
+    }
+}

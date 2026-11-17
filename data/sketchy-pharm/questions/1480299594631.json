@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480299594631",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480299594631",
+        "noteId": "1480298206862",
+        "noteGuid": "n}<zAn6=@Y",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.3 - Opiates, naloxone, naltrexone",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.3-Opiates,Naloxone,Naltrexone",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "Indication: Diphenoxylate",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Diarrhea\n\n[Image: beecfecea0163ccc22e0ff853dec5b699fe56d834d5bbbd30db3fc3724c17c62]",
+        "imageIds": [
+            "beecfecea0163ccc22e0ff853dec5b699fe56d834d5bbbd30db3fc3724c17c62"
+        ]
+    },
+    "images": {
+        "beecfecea0163ccc22e0ff853dec5b699fe56d834d5bbbd30db3fc3724c17c62": {
+            "file": "images/beecfecea0163ccc22e0ff853dec5b699fe56d834d5bbbd30db3fc3724c17c62.jpg",
+            "filename": "paste-88965952569347.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44609
+        }
+    }
+}

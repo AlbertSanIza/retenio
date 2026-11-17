@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484172153424",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484172153424",
+        "noteId": "1484170558195",
+        "noteGuid": "IPW<ydy+.t",
+        "modelId": "1475688242543",
+        "templateOrdinal": 14
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.2 - Inhaled anesthetics, dantrolene",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.2-Inhaled_Anesthetics,Dantrolene",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "Treatment: Malignant hyperthermia",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Dantrolene\n\n[Image: e3d1b6171e801247e4340f4ac9d951076a9c6e62b83bcc453938b5d762c0beed]",
+        "imageIds": [
+            "e3d1b6171e801247e4340f4ac9d951076a9c6e62b83bcc453938b5d762c0beed"
+        ]
+    },
+    "images": {
+        "e3d1b6171e801247e4340f4ac9d951076a9c6e62b83bcc453938b5d762c0beed": {
+            "file": "images/e3d1b6171e801247e4340f4ac9d951076a9c6e62b83bcc453938b5d762c0beed.jpg",
+            "filename": "paste-604903193968643.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 83346
+        }
+    }
+}

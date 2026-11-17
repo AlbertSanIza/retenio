@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476028242667",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476028242667",
+        "noteId": "1476026238349",
+        "noteGuid": "q{jN<,Pl7#",
+        "modelId": "1475688242543",
+        "templateOrdinal": 13
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.1 - Heparin, LMWH, fondaparinux, direct thrombin inhibitors, Xa inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.1-Heparin,LMWH,Fondaparinux,Direct_Thrombin_Inhibitors",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "How is LMWH eliminated?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Renally\n\n(Whereas Heparin is eliminated by the liver)\n\n[Image: 8fa1626fa88246575fd2a2411142329ccfb368b0ebd96e58f5e0d6b14378397e]",
+        "imageIds": [
+            "8fa1626fa88246575fd2a2411142329ccfb368b0ebd96e58f5e0d6b14378397e"
+        ]
+    },
+    "images": {
+        "8fa1626fa88246575fd2a2411142329ccfb368b0ebd96e58f5e0d6b14378397e": {
+            "file": "images/8fa1626fa88246575fd2a2411142329ccfb368b0ebd96e58f5e0d6b14378397e.jpg",
+            "filename": "paste-88970247536643.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 86234
+        }
+    }
+}

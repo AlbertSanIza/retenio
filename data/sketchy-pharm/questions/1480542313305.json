@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480542313305",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480542313305",
+        "noteId": "1480541343233",
+        "noteGuid": "y1kneJEm(h",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.1 - Tetracyclines",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.1-Tetracyclines",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "Contraindications (2) : Tetracyclines",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Children\n(2) Pregnant\n\n[Image: 5732657d9ca89b1dae343b0a86ae086c9e677279de15a5211d1a496a3527dfd1]\n\n[Image: aed7604d2f063bf14db4b3322ea8bd3f5b1837938de5bb620898d4b34f5c8e33]",
+        "imageIds": [
+            "5732657d9ca89b1dae343b0a86ae086c9e677279de15a5211d1a496a3527dfd1",
+            "aed7604d2f063bf14db4b3322ea8bd3f5b1837938de5bb620898d4b34f5c8e33"
+        ]
+    },
+    "images": {
+        "5732657d9ca89b1dae343b0a86ae086c9e677279de15a5211d1a496a3527dfd1": {
+            "file": "images/5732657d9ca89b1dae343b0a86ae086c9e677279de15a5211d1a496a3527dfd1.jpg",
+            "filename": "paste-7718056230915.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53933
+        },
+        "aed7604d2f063bf14db4b3322ea8bd3f5b1837938de5bb620898d4b34f5c8e33": {
+            "file": "images/aed7604d2f063bf14db4b3322ea8bd3f5b1837938de5bb620898d4b34f5c8e33.jpg",
+            "filename": "paste-7786775707651 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56700
+        }
+    }
+}

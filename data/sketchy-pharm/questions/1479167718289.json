@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479167718289",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479167718289",
+        "noteId": "1479166331886",
+        "noteGuid": "nZiAb4L,QC",
+        "modelId": "1475688242543",
+        "templateOrdinal": 16
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::5 Antipsychotics & Parkinson's::5.1 - First generation antipsychotics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(5)-Antipsychotics_&_Parkinsons::5.1-First_Generation_Antipsychotics",
+        "$$Neuro/Psych",
+        "$Antipsychotics_&_Parkinsons"
+    ],
+    "question": {
+        "text": "What is a distinctive side effect of Chlorpromazine?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Yellow corneal deposits\n\n[Image: 6685429b23e880b5b34fae0e03ae047139e23344b7b24d9673bef5d778a75bdb]",
+        "imageIds": [
+            "6685429b23e880b5b34fae0e03ae047139e23344b7b24d9673bef5d778a75bdb"
+        ]
+    },
+    "images": {
+        "6685429b23e880b5b34fae0e03ae047139e23344b7b24d9673bef5d778a75bdb": {
+            "file": "images/6685429b23e880b5b34fae0e03ae047139e23344b7b24d9673bef5d778a75bdb.jpg",
+            "filename": "paste-269230024949763.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63743
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480291745064",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480291745064",
+        "noteId": "1480291378231",
+        "noteGuid": "kQ,lW$HiT;",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.4 - Etoposide, teniposide, topotecan, irinotecan",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(2)-DNA_&_Cellular_Division::2.4-Etoposide,Teniposide,Topotecan,Irinotecan",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "Cell Cycle Specificity: Topoisomerase inhibitors",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) S\n\n(2) G2\n\n[Image: 5008f3214d9bb261ad7ae2e37f508cf1e58e6cc1f2abd6e4e0de50635127d5a9]\n\n[Image: 7912f36768791755804b70414c6a7c4453d51d0ab0d49b2df1f0348c98158e6f]",
+        "imageIds": [
+            "5008f3214d9bb261ad7ae2e37f508cf1e58e6cc1f2abd6e4e0de50635127d5a9",
+            "7912f36768791755804b70414c6a7c4453d51d0ab0d49b2df1f0348c98158e6f"
+        ]
+    },
+    "images": {
+        "5008f3214d9bb261ad7ae2e37f508cf1e58e6cc1f2abd6e4e0de50635127d5a9": {
+            "file": "images/5008f3214d9bb261ad7ae2e37f508cf1e58e6cc1f2abd6e4e0de50635127d5a9.jpg",
+            "filename": "paste-15418932592643.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48722
+        },
+        "7912f36768791755804b70414c6a7c4453d51d0ab0d49b2df1f0348c98158e6f": {
+            "file": "images/7912f36768791755804b70414c6a7c4453d51d0ab0d49b2df1f0348c98158e6f.jpg",
+            "filename": "paste-15491947036675.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51007
+        }
+    }
+}

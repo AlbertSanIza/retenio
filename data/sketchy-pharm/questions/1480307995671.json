@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480307995671",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480307995671",
+        "noteId": "1480306961331",
+        "noteGuid": "Lpn4BX|*1X",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.1 - NRTIs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.1-NRTIs",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "Which NRTIs are used to treat Hepatitis B?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Lamivudine\n(2) Tenofovir\n\n[Image: 84682e6b1ba49356d11aaac925982f9ad15d75b1d1dca55d5fa717b5e28df444]\n\n[Image: 8e8af1c6472f9615435e968ad0114247de390b9805756439b857869517101837]\n\n[Image: f18c92106894ed7dd5d53dbcfbe44833a24e8b6b26a2e6d7c51f86d0d5b7bda1]\n\n[Image: 46b1594795084b652176c5838f38a08f1ed226ff9ad848d5693e5e40f3509b71]",
+        "imageIds": [
+            "84682e6b1ba49356d11aaac925982f9ad15d75b1d1dca55d5fa717b5e28df444",
+            "8e8af1c6472f9615435e968ad0114247de390b9805756439b857869517101837",
+            "f18c92106894ed7dd5d53dbcfbe44833a24e8b6b26a2e6d7c51f86d0d5b7bda1",
+            "46b1594795084b652176c5838f38a08f1ed226ff9ad848d5693e5e40f3509b71"
+        ]
+    },
+    "images": {
+        "46b1594795084b652176c5838f38a08f1ed226ff9ad848d5693e5e40f3509b71": {
+            "file": "images/46b1594795084b652176c5838f38a08f1ed226ff9ad848d5693e5e40f3509b71.jpg",
+            "filename": "paste-115998476730371.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52222
+        },
+        "84682e6b1ba49356d11aaac925982f9ad15d75b1d1dca55d5fa717b5e28df444": {
+            "file": "images/84682e6b1ba49356d11aaac925982f9ad15d75b1d1dca55d5fa717b5e28df444.jpg",
+            "filename": "paste-116161685487619.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51139
+        },
+        "8e8af1c6472f9615435e968ad0114247de390b9805756439b857869517101837": {
+            "file": "images/8e8af1c6472f9615435e968ad0114247de390b9805756439b857869517101837.jpg",
+            "filename": "paste-306312772583427.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 72587
+        },
+        "f18c92106894ed7dd5d53dbcfbe44833a24e8b6b26a2e6d7c51f86d0d5b7bda1": {
+            "file": "images/f18c92106894ed7dd5d53dbcfbe44833a24e8b6b26a2e6d7c51f86d0d5b7bda1.jpg",
+            "filename": "paste-116226109997059.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52711
+        }
+    }
+}

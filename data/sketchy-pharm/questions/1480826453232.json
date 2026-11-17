@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480826453232",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480826453232",
+        "noteId": "1480825958438",
+        "noteGuid": "wh`5lM*zbv",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::5 Antifungals::5.2 - Azoles",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(5)-Antifungals::5.2-Azoles",
+        "$$Antimicrobials",
+        "$Antifungals"
+    ],
+    "question": {
+        "text": "Which azole is the strongest inhibitor of the CYP450 system?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Voriconazole\n\n(Strong enough to throw house onto car)\n\n[Image: 235792acbacbe4a1e24007bb3859c235d2a04c2c05019df863cf1a225bf75b9f]",
+        "imageIds": [
+            "235792acbacbe4a1e24007bb3859c235d2a04c2c05019df863cf1a225bf75b9f"
+        ]
+    },
+    "images": {
+        "235792acbacbe4a1e24007bb3859c235d2a04c2c05019df863cf1a225bf75b9f": {
+            "file": "images/235792acbacbe4a1e24007bb3859c235d2a04c2c05019df863cf1a225bf75b9f.jpg",
+            "filename": "paste-264372416937987.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48202
+        }
+    }
+}

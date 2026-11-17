@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480306961182",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480306961182",
+        "noteId": "1480306575061",
+        "noteGuid": "N%mpUOn}i_",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.7 - Daptomycin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.7-Daptomycin",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "Adverse Effect: Daptomycin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Myopathy\n\n[Image: 072aceecdb1b4816588ae35b51339c6d237d0ffe364fd243fa444c17a7fe10f6]\n\n[Image: 66b8e08c556984787c0152ac20ec754470a89c7fcba8ec57b2d67b9cb410ea84]",
+        "imageIds": [
+            "072aceecdb1b4816588ae35b51339c6d237d0ffe364fd243fa444c17a7fe10f6",
+            "66b8e08c556984787c0152ac20ec754470a89c7fcba8ec57b2d67b9cb410ea84"
+        ]
+    },
+    "images": {
+        "072aceecdb1b4816588ae35b51339c6d237d0ffe364fd243fa444c17a7fe10f6": {
+            "file": "images/072aceecdb1b4816588ae35b51339c6d237d0ffe364fd243fa444c17a7fe10f6.jpg",
+            "filename": "paste-114649856999427.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50234
+        },
+        "66b8e08c556984787c0152ac20ec754470a89c7fcba8ec57b2d67b9cb410ea84": {
+            "file": "images/66b8e08c556984787c0152ac20ec754470a89c7fcba8ec57b2d67b9cb410ea84.jpg",
+            "filename": "paste-114705691574275.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55480
+        }
+    }
+}

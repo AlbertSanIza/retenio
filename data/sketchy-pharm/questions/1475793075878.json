@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475793075878",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475793075878",
+        "noteId": "1475792730633",
+        "noteGuid": "}1|F(;)h}",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::1 Sedative-hypnotics::1.2 - Nonbenzodiazepine hypnotics, melatonin, ramelteon",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(1)-Sedatives_&_Hypnotics::1.2-Nonbenzodiazepine_Hypnotics,Melatonin,Ramelteon",
+        "$$Neuro/Psych",
+        "$Sedatives&Hypnotics"
+    ],
+    "question": {
+        "text": "Do non-benzodiazepines cause tolerance?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Minimally\n\n[Image: 9383cd90543133ac8a2073a1acf531677864266feab0454381db03816eb67ff0]\n\n[Image: 93da4c2e34ca7204faaf8c65a8ce31c195837fa7ee97649fcb3c568b5a80c0d1]",
+        "imageIds": [
+            "9383cd90543133ac8a2073a1acf531677864266feab0454381db03816eb67ff0",
+            "93da4c2e34ca7204faaf8c65a8ce31c195837fa7ee97649fcb3c568b5a80c0d1"
+        ]
+    },
+    "images": {
+        "9383cd90543133ac8a2073a1acf531677864266feab0454381db03816eb67ff0": {
+            "file": "images/9383cd90543133ac8a2073a1acf531677864266feab0454381db03816eb67ff0.jpg",
+            "filename": "paste-8439610736643.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65135
+        },
+        "93da4c2e34ca7204faaf8c65a8ce31c195837fa7ee97649fcb3c568b5a80c0d1": {
+            "file": "images/93da4c2e34ca7204faaf8c65a8ce31c195837fa7ee97649fcb3c568b5a80c0d1.jpg",
+            "filename": "paste-8491150344195.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66674
+        }
+    }
+}

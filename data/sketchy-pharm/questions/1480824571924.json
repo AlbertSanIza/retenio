@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480824571924",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480824571924",
+        "noteId": "1480823075841",
+        "noteGuid": "r}/0-Xm6|3",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::5 Antifungals::5.1 - Amphotericin, flucytosine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(5)-Antifungals::5.1-AmphotericinB,Flucytosine,Nystatin",
+        "$$Antimicrobials",
+        "$Antifungals"
+    ],
+    "question": {
+        "text": "Adverse Effects - Related to kidney (4) : Amphotericin B",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Type I renal tubular acidosis\n\n(2) ⇒ Hypokalemia\n\n(3) & ⇒ Mg2+ wasting\n\n(4) ↓ EPO ⇒ Anemia\n\n(Type I RTA ⇒ More (-) luminal voltage ⇒ ↓ Driving force for Mg2+ reabsorption || ↑ Driving force for K+ secretion)\n\n[Image: 1ca3ba290673c904d1797fc2aeb25eddcd6f7c7665ff17db3a2b66e3c2494204]\n\n[Image: df871e4a6938c507055027977998a805eba59d6d4448d81deef556188671647b]\n\n[Image: 1107122d3d488744f7123c84b8432729d0bb55bfc3bb0ee856e50a799d3d8812]\n\n[Image: f2403230a6bcdb5975ac0bc7f59c1a362f06cd4f352aa3a23783a407cb61943d]",
+        "imageIds": [
+            "1ca3ba290673c904d1797fc2aeb25eddcd6f7c7665ff17db3a2b66e3c2494204",
+            "df871e4a6938c507055027977998a805eba59d6d4448d81deef556188671647b",
+            "1107122d3d488744f7123c84b8432729d0bb55bfc3bb0ee856e50a799d3d8812",
+            "f2403230a6bcdb5975ac0bc7f59c1a362f06cd4f352aa3a23783a407cb61943d"
+        ]
+    },
+    "images": {
+        "1107122d3d488744f7123c84b8432729d0bb55bfc3bb0ee856e50a799d3d8812": {
+            "file": "images/1107122d3d488744f7123c84b8432729d0bb55bfc3bb0ee856e50a799d3d8812.jpg",
+            "filename": "paste-259592118337539.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 40406
+        },
+        "1ca3ba290673c904d1797fc2aeb25eddcd6f7c7665ff17db3a2b66e3c2494204": {
+            "file": "images/1ca3ba290673c904d1797fc2aeb25eddcd6f7c7665ff17db3a2b66e3c2494204.jpg",
+            "filename": "paste-259291470626819.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 39119
+        },
+        "df871e4a6938c507055027977998a805eba59d6d4448d81deef556188671647b": {
+            "file": "images/df871e4a6938c507055027977998a805eba59d6d4448d81deef556188671647b.jpg",
+            "filename": "paste-259420319645699.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 38639
+        },
+        "f2403230a6bcdb5975ac0bc7f59c1a362f06cd4f352aa3a23783a407cb61943d": {
+            "file": "images/f2403230a6bcdb5975ac0bc7f59c1a362f06cd4f352aa3a23783a407cb61943d.jpg",
+            "filename": "paste-260743169572867.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49677
+        }
+    }
+}

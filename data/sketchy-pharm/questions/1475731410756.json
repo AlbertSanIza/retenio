@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475731410756",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475731410756",
+        "noteId": "1475730679415",
+        "noteGuid": "OyB|BPtZk?",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.3 - Alpha drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.3-Alpha_drugs",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "Name a drug that provides symptomatic relief for BPH",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Terazosin\n\n[Image: f457bba7393ccedf6e8d5eb342962ad99f95ee801b03fd2a8e58a5998d6123f6]\n\n[Image: 710bc07b002487bddf006aa19870b7fc5cf80a546d7abc804488b3d580f49488]",
+        "imageIds": [
+            "f457bba7393ccedf6e8d5eb342962ad99f95ee801b03fd2a8e58a5998d6123f6",
+            "710bc07b002487bddf006aa19870b7fc5cf80a546d7abc804488b3d580f49488"
+        ]
+    },
+    "images": {
+        "710bc07b002487bddf006aa19870b7fc5cf80a546d7abc804488b3d580f49488": {
+            "file": "images/710bc07b002487bddf006aa19870b7fc5cf80a546d7abc804488b3d580f49488.jpg",
+            "filename": "paste-34943853920259.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34782
+        },
+        "f457bba7393ccedf6e8d5eb342962ad99f95ee801b03fd2a8e58a5998d6123f6": {
+            "file": "images/f457bba7393ccedf6e8d5eb342962ad99f95ee801b03fd2a8e58a5998d6123f6.jpg",
+            "filename": "paste-34780645163011.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46544
+        }
+    }
+}

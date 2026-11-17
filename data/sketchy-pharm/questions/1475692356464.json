@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475692356464",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475692356464",
+        "noteId": "1475692048852",
+        "noteGuid": "uAHoblM$cT",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::1 Heart Failure Drugs::1.2 - ACE inhibitors, ARBs, Aliskiren",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(1)-Heart_Failure_Drugs::1.2-ACE_Inhibitors,ARBs,Aliskiren",
+        "$$Cardiovascular_&_Renal",
+        "$HeartFailureDrugs"
+    ],
+    "question": {
+        "text": "What is the most distinctive side effect of ACE inhibitors?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Dry cough\n\n(Due to increased bradykinin)\n\n[Image: 4adc7160a24d57f2a78485d5f4075305ed2daa5c7f2641b801d535675ca1c2f3]",
+        "imageIds": [
+            "4adc7160a24d57f2a78485d5f4075305ed2daa5c7f2641b801d535675ca1c2f3"
+        ]
+    },
+    "images": {
+        "4adc7160a24d57f2a78485d5f4075305ed2daa5c7f2641b801d535675ca1c2f3": {
+            "file": "images/4adc7160a24d57f2a78485d5f4075305ed2daa5c7f2641b801d535675ca1c2f3.jpg",
+            "filename": "paste-56418690400259.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50099
+        }
+    }
+}

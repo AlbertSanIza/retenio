@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476128325367",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476128325367",
+        "noteId": "1476127443039",
+        "noteGuid": "k+=G!`Nk3M",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::2 Diabetes::2.2 - Metformin,Thiazolidinediones, Pramlintide, SGLT-2 Inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(2)-Diabetes::2.2-Metformin,Thiazolidinediones,Pramlintide,SGLT-2_Inhibitors",
+        "$$GI_&_Endocrine",
+        "$Diabetes"
+    ],
+    "question": {
+        "text": "Adverse Effects (4) : Glitazones",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Weight gain\n(2) Peripheral edema\n(3) ⇒ Heart failure\n\n(4) ↓ Bone mineral density\n\n[Image: d6857084c4d57fe6e9dd62b07477eb7d58d60096e677c1c06ebb8da835e0f03f]\n\n[Image: 91fd2d4084423a23c2a3150ab44ec8181fd99bf996dd0cc2334d2f414f7ac488]\n\n[Image: 4b84f777e0f593f93dd5c1e4a2d2dbe2da04c39705e3e0280175e9fa47abbbf1]",
+        "imageIds": [
+            "d6857084c4d57fe6e9dd62b07477eb7d58d60096e677c1c06ebb8da835e0f03f",
+            "91fd2d4084423a23c2a3150ab44ec8181fd99bf996dd0cc2334d2f414f7ac488",
+            "4b84f777e0f593f93dd5c1e4a2d2dbe2da04c39705e3e0280175e9fa47abbbf1"
+        ]
+    },
+    "images": {
+        "4b84f777e0f593f93dd5c1e4a2d2dbe2da04c39705e3e0280175e9fa47abbbf1": {
+            "file": "images/4b84f777e0f593f93dd5c1e4a2d2dbe2da04c39705e3e0280175e9fa47abbbf1.jpg",
+            "filename": "paste-64931315580931.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50905
+        },
+        "91fd2d4084423a23c2a3150ab44ec8181fd99bf996dd0cc2334d2f414f7ac488": {
+            "file": "images/91fd2d4084423a23c2a3150ab44ec8181fd99bf996dd0cc2334d2f414f7ac488.jpg",
+            "filename": "paste-64845416235011.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48551
+        },
+        "d6857084c4d57fe6e9dd62b07477eb7d58d60096e677c1c06ebb8da835e0f03f": {
+            "file": "images/d6857084c4d57fe6e9dd62b07477eb7d58d60096e677c1c06ebb8da835e0f03f.jpg",
+            "filename": "paste-64750926954499.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48317
+        }
+    }
+}

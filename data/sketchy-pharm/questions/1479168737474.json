@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479168737474",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479168737474",
+        "noteId": "1479167856326",
+        "noteGuid": "gr<{i]C0f-",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::5 Antipsychotics & Parkinson's::5.2 - Second generation antipsychotics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(5)-Antipsychotics_&_Parkinsons::5.2-Second_Generation_Antipsychotics",
+        "$$Neuro/Psych",
+        "$Antipsychotics_&_Parkinsons"
+    ],
+    "question": {
+        "text": "Indications (3) : Atypical antipsychotics",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Schizophrenia\n(2) Resistant depression\n\n(3) OCD (with SSRI)\n\n[Image: b26b0149dd04b104cc0d74a18583ca0a18ca973551701740e70ca008c54eccea]\n\n[Image: 6cada18c1f629fde1f00f49f97de486e5c30ea6fa79369febf37772e98c96deb]\n\n[Image: 8f7f3fe4bb3c5c67674035f15032d6229e3c069efe08043296dd70448516d487]",
+        "imageIds": [
+            "b26b0149dd04b104cc0d74a18583ca0a18ca973551701740e70ca008c54eccea",
+            "6cada18c1f629fde1f00f49f97de486e5c30ea6fa79369febf37772e98c96deb",
+            "8f7f3fe4bb3c5c67674035f15032d6229e3c069efe08043296dd70448516d487"
+        ]
+    },
+    "images": {
+        "6cada18c1f629fde1f00f49f97de486e5c30ea6fa79369febf37772e98c96deb": {
+            "file": "images/6cada18c1f629fde1f00f49f97de486e5c30ea6fa79369febf37772e98c96deb.jpg",
+            "filename": "paste-282845071278083.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50258
+        },
+        "8f7f3fe4bb3c5c67674035f15032d6229e3c069efe08043296dd70448516d487": {
+            "file": "images/8f7f3fe4bb3c5c67674035f15032d6229e3c069efe08043296dd70448516d487.jpg",
+            "filename": "paste-282922380689411.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52243
+        },
+        "b26b0149dd04b104cc0d74a18583ca0a18ca973551701740e70ca008c54eccea": {
+            "file": "images/b26b0149dd04b104cc0d74a18583ca0a18ca973551701740e70ca008c54eccea.jpg",
+            "filename": "paste-282737697095683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52313
+        }
+    }
+}

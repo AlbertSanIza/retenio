@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475694566893",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475694566893",
+        "noteId": "1475693558188",
+        "noteGuid": "k2xO-NDlof",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::3 Antihypertensives::3.1 - Calcium channel blockers",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(3)-Antihypertensives::3.1-Calcium_Channel_Blockers",
+        "$$Cardiovascular_&_Renal",
+        "$Antihypertensives"
+    ],
+    "question": {
+        "text": "What calcium channel blocker can be used in pregnancy?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Nifedipine\n\n[Image: f1a330b00356928fe7607e3117e8078f55c01df8304b5fa2b4556e0eae197ccd]",
+        "imageIds": [
+            "f1a330b00356928fe7607e3117e8078f55c01df8304b5fa2b4556e0eae197ccd"
+        ]
+    },
+    "images": {
+        "f1a330b00356928fe7607e3117e8078f55c01df8304b5fa2b4556e0eae197ccd": {
+            "file": "images/f1a330b00356928fe7607e3117e8078f55c01df8304b5fa2b4556e0eae197ccd.jpg",
+            "filename": "paste-110307645063171.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49522
+        }
+    }
+}

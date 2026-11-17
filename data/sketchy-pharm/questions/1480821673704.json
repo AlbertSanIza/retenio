@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480821673704",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480821673704",
+        "noteId": "1480821057791",
+        "noteGuid": "dR)O:O`t)>",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::4 Other Antibiotics::4.2 - Fluoroquinolones",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(4)-Other_Antibiotics::4.2-Flouroquinolones",
+        "$$Antimicrobials",
+        "$Other_Antibiotics"
+    ],
+    "question": {
+        "text": "Name 2 poorly gram staining organisms which can be treated with Flouroquinolones",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Mycoplasma\n(2) Legionella\n\n(Legionella is technically gram (-), but stains poorly so I included it here)\n\n[Image: 22d8de06b6df79b6215969bd65d6086414faed943c5c2b8cfaf9d77eaa924f1a]\n\n[Image: 5af916fa0bbc50147824395e0c694cfe11e93479248eb82c1022d1ed7a03f850]",
+        "imageIds": [
+            "22d8de06b6df79b6215969bd65d6086414faed943c5c2b8cfaf9d77eaa924f1a",
+            "5af916fa0bbc50147824395e0c694cfe11e93479248eb82c1022d1ed7a03f850"
+        ]
+    },
+    "images": {
+        "22d8de06b6df79b6215969bd65d6086414faed943c5c2b8cfaf9d77eaa924f1a": {
+            "file": "images/22d8de06b6df79b6215969bd65d6086414faed943c5c2b8cfaf9d77eaa924f1a.jpg",
+            "filename": "paste-226744208457731.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 40173
+        },
+        "5af916fa0bbc50147824395e0c694cfe11e93479248eb82c1022d1ed7a03f850": {
+            "file": "images/5af916fa0bbc50147824395e0c694cfe11e93479248eb82c1022d1ed7a03f850.jpg",
+            "filename": "paste-226933187018755.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 40462
+        }
+    }
+}

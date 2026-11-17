@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480308771368",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480308771368",
+        "noteId": "1480308395120",
+        "noteGuid": "e~~s+,_O7W",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.3 - Protease inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.3-Protease_Inhibitors",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "Suffix: Protease inhibitors",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "\"-navir\"\n\n[Image: d18dfa764904cfb7c5e691866454488c097d587837ae1f8a69a6db4c447cd306]",
+        "imageIds": [
+            "d18dfa764904cfb7c5e691866454488c097d587837ae1f8a69a6db4c447cd306"
+        ]
+    },
+    "images": {
+        "d18dfa764904cfb7c5e691866454488c097d587837ae1f8a69a6db4c447cd306": {
+            "file": "images/d18dfa764904cfb7c5e691866454488c097d587837ae1f8a69a6db4c447cd306.jpg",
+            "filename": "paste-120087285596163.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 35804
+        }
+    }
+}

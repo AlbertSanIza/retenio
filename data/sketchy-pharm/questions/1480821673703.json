@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480821673703",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480821673703",
+        "noteId": "1480821057791",
+        "noteGuid": "dR)O:O`t)>",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::4 Other Antibiotics::4.2 - Fluoroquinolones",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(4)-Other_Antibiotics::4.2-Flouroquinolones",
+        "$$Antimicrobials",
+        "$Other_Antibiotics"
+    ],
+    "question": {
+        "text": "In what age group are Flouroquinolones contraindicated?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "<10\n\n[Image: 4036fd44ef0b5749cb43efa386cfc4ddbfe7af01726c13eb878ce24d0e1d03b5]",
+        "imageIds": [
+            "4036fd44ef0b5749cb43efa386cfc4ddbfe7af01726c13eb878ce24d0e1d03b5"
+        ]
+    },
+    "images": {
+        "4036fd44ef0b5749cb43efa386cfc4ddbfe7af01726c13eb878ce24d0e1d03b5": {
+            "file": "images/4036fd44ef0b5749cb43efa386cfc4ddbfe7af01726c13eb878ce24d0e1d03b5.jpg",
+            "filename": "paste-235239653769219.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50759
+        }
+    }
+}

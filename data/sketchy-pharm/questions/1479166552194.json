@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479166552194",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479166552194",
+        "noteId": "1479166331886",
+        "noteGuid": "nZiAb4L,QC",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::5 Antipsychotics & Parkinson's::5.1 - First generation antipsychotics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(5)-Antipsychotics_&_Parkinsons::5.1-First_Generation_Antipsychotics",
+        "$$Neuro/Psych",
+        "$Antipsychotics_&_Parkinsons"
+    ],
+    "question": {
+        "text": "Name a first generation antispsychotic without the suffix \"-zine\"",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Haloperidol\n\n[Image: 1d058f85e704ef307f5aa2f06fc8fb6e4c94ccb74ce934bb76ab95c6c03cc559]",
+        "imageIds": [
+            "1d058f85e704ef307f5aa2f06fc8fb6e4c94ccb74ce934bb76ab95c6c03cc559"
+        ]
+    },
+    "images": {
+        "1d058f85e704ef307f5aa2f06fc8fb6e4c94ccb74ce934bb76ab95c6c03cc559": {
+            "file": "images/1d058f85e704ef307f5aa2f06fc8fb6e4c94ccb74ce934bb76ab95c6c03cc559.jpg",
+            "filename": "paste-135626477273091.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54740
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480543237516",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480543237516",
+        "noteId": "1480542313473",
+        "noteGuid": "f(Tr,}<mC3",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.2 - Macrolides",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.2-Macrolides",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "What antibiotic is used to treat neonatal conjunctivitis due to Chlamydia trachomatis?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Erythromycin\n\n(Er-redcrow-mycin)\n\n[Image: de6af6a04a2439926bb8402d00d38754d4bd42ff5e36a21f60cdd54c984133aa]",
+        "imageIds": [
+            "de6af6a04a2439926bb8402d00d38754d4bd42ff5e36a21f60cdd54c984133aa"
+        ]
+    },
+    "images": {
+        "de6af6a04a2439926bb8402d00d38754d4bd42ff5e36a21f60cdd54c984133aa": {
+            "file": "images/de6af6a04a2439926bb8402d00d38754d4bd42ff5e36a21f60cdd54c984133aa.jpg",
+            "filename": "paste-11162620002307.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48288
+        }
+    }
+}

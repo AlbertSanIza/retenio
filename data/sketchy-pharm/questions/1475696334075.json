@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475696334075",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475696334075",
+        "noteId": "1475694860200",
+        "noteGuid": "NtP#}A1%P}",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::3 Antihypertensives::3.2 - Primary hypertension & hypertensive emergency",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(3)-Antihypertensives::3.2-Primary_Hypertension_&_Hypertensive_Emergency",
+        "$$Cardiovascular_&_Renal",
+        "$Antihypertensives"
+    ],
+    "question": {
+        "text": "What type of adrenergic antagonists are used in hypertensive emergency?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) β1 antagonists\n(2) Combined α / β antagonists\n\n[Image: 2ee0dd04029f0795c5c5588dbe57caba7c96fe4f88bbeb90e787101307b45429]\n\n[Image: dcbcdf88a36eb744660c219c9cbf7599808cb044e9b2e535c4b37a8b4c511892]\n\n[Image: ab2fedbb558989208ad0f3575ef151870b1fcdde30fff6ecc5e176efa5fc040b]",
+        "imageIds": [
+            "2ee0dd04029f0795c5c5588dbe57caba7c96fe4f88bbeb90e787101307b45429",
+            "dcbcdf88a36eb744660c219c9cbf7599808cb044e9b2e535c4b37a8b4c511892",
+            "ab2fedbb558989208ad0f3575ef151870b1fcdde30fff6ecc5e176efa5fc040b"
+        ]
+    },
+    "images": {
+        "2ee0dd04029f0795c5c5588dbe57caba7c96fe4f88bbeb90e787101307b45429": {
+            "file": "images/2ee0dd04029f0795c5c5588dbe57caba7c96fe4f88bbeb90e787101307b45429.jpg",
+            "filename": "paste-49800145797123.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 83177
+        },
+        "ab2fedbb558989208ad0f3575ef151870b1fcdde30fff6ecc5e176efa5fc040b": {
+            "file": "images/ab2fedbb558989208ad0f3575ef151870b1fcdde30fff6ecc5e176efa5fc040b.jpg",
+            "filename": "paste-49877455208451.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 91585
+        },
+        "dcbcdf88a36eb744660c219c9cbf7599808cb044e9b2e535c4b37a8b4c511892": {
+            "file": "images/dcbcdf88a36eb744660c219c9cbf7599808cb044e9b2e535c4b37a8b4c511892.jpg",
+            "filename": "paste-49843095470083.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 81566
+        }
+    }
+}

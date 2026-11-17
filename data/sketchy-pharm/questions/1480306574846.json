@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480306574846",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480306574846",
+        "noteId": "1480305923806",
+        "noteGuid": "c7-s#c:$D:",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.6 - Vancomycin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.6-Vancomycin",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "What's the empiric treatment for endocarditis?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Vancomycin\n\n[Image: 91e8de2a2febc756f5d514e0000ce0f64af143a2bdd8b80c647e8350c00e85ce]",
+        "imageIds": [
+            "91e8de2a2febc756f5d514e0000ce0f64af143a2bdd8b80c647e8350c00e85ce"
+        ]
+    },
+    "images": {
+        "91e8de2a2febc756f5d514e0000ce0f64af143a2bdd8b80c647e8350c00e85ce": {
+            "file": "images/91e8de2a2febc756f5d514e0000ce0f64af143a2bdd8b80c647e8350c00e85ce.jpg",
+            "filename": "paste-112425063940099.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50956
+        }
+    }
+}

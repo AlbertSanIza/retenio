@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484167254828",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484167254828",
+        "noteId": "1475726464638",
+        "noteGuid": "JpARMA.2Xe",
+        "modelId": "1475688242543",
+        "templateOrdinal": 12
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::1 Parasympathetic::1.1 - Cholinomimetics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(1)-Parasympathetics::1.1-Cholinomimetics",
+        "$$Autonomic_Drugs",
+        "$Parasympathetics"
+    ],
+    "question": {
+        "text": "MOA: Carbachol",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Muscarinic agonist\n(2) Nicotinic agonist\n\n[Image: 575d61d86c825a6e4299bbb8d1360070fd4b52cbc31b1d3e8897a88144a17427]",
+        "imageIds": [
+            "575d61d86c825a6e4299bbb8d1360070fd4b52cbc31b1d3e8897a88144a17427"
+        ]
+    },
+    "images": {
+        "575d61d86c825a6e4299bbb8d1360070fd4b52cbc31b1d3e8897a88144a17427": {
+            "file": "images/575d61d86c825a6e4299bbb8d1360070fd4b52cbc31b1d3e8897a88144a17427.jpg",
+            "filename": "paste-414971150204931.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 85159
+        }
+    }
+}

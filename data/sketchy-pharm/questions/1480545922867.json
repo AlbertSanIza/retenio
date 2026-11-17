@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480545922867",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480545922867",
+        "noteId": "1480544887082",
+        "noteGuid": "u<L|B!T%5S",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.6 - Aminoglycosides",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.6-Aminoglycosides",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "ROA: Aminoglycosides",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "IV\n\n[Image: f2ad3a14e1fb63f3a07545a992bc1995ec4aaae73534a9e34c8e83a2597b1bd6]",
+        "imageIds": [
+            "f2ad3a14e1fb63f3a07545a992bc1995ec4aaae73534a9e34c8e83a2597b1bd6"
+        ]
+    },
+    "images": {
+        "f2ad3a14e1fb63f3a07545a992bc1995ec4aaae73534a9e34c8e83a2597b1bd6": {
+            "file": "images/f2ad3a14e1fb63f3a07545a992bc1995ec4aaae73534a9e34c8e83a2597b1bd6.jpg",
+            "filename": "paste-24605867638787.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34341
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480819869364",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480819869364",
+        "noteId": "1480817330855",
+        "noteGuid": "JorE&S@rr3",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::4 Other Antibiotics::4.1 - Trimethoprim/Sulfamethoxazole",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(4)-Other_Antibiotics::4.1-Trimethoprim/Sulfamethoxazole",
+        "$$Antimicrobials",
+        "$Other_Antibiotics"
+    ],
+    "question": {
+        "text": "Name an antibiotic commonly used for UTIs which is also effective against MRSA",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "TMP-SMX\n\n[Image: c094d0b299a4c11476bcbb81b10aad3f8aae258445932b92d11dcae48eee35a6]\n\n[Image: 72f5e1e15bc9dfc7581f799ccb33f9ed755a3042aa4c4dcded2efe3ae6c20d55]",
+        "imageIds": [
+            "c094d0b299a4c11476bcbb81b10aad3f8aae258445932b92d11dcae48eee35a6",
+            "72f5e1e15bc9dfc7581f799ccb33f9ed755a3042aa4c4dcded2efe3ae6c20d55"
+        ]
+    },
+    "images": {
+        "72f5e1e15bc9dfc7581f799ccb33f9ed755a3042aa4c4dcded2efe3ae6c20d55": {
+            "file": "images/72f5e1e15bc9dfc7581f799ccb33f9ed755a3042aa4c4dcded2efe3ae6c20d55.jpg",
+            "filename": "paste-201296527228931.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50279
+        },
+        "c094d0b299a4c11476bcbb81b10aad3f8aae258445932b92d11dcae48eee35a6": {
+            "file": "images/c094d0b299a4c11476bcbb81b10aad3f8aae258445932b92d11dcae48eee35a6.jpg",
+            "filename": "paste-200763951284227.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50371
+        }
+    }
+}

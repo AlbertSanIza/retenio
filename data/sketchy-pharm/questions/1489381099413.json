@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1489381099413",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1489381099413",
+        "noteId": "1489377832406",
+        "noteGuid": "qXy^sYw?Ac",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.3 - Teriparatide, Vitamin D, Cinacalcet, Sevelamer",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.3-Teriparatide,Vitamin_D,Cinacalcet,Sevelamer",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "What are the source(s) of Vitamin D3?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Dairy products\n(2) UVB radiation\n\n(Vit. D3 = Cholecalciferol. The 3 of Vit. D3 to remember Cholecalciferol starts with the third letter of alphabet)\n\n[Image: 65dae8aba711aa19cd4a0ba9ceef37acee0d8e60fb4de7a8c46216b84cc8bdce]",
+        "imageIds": [
+            "65dae8aba711aa19cd4a0ba9ceef37acee0d8e60fb4de7a8c46216b84cc8bdce"
+        ]
+    },
+    "images": {
+        "65dae8aba711aa19cd4a0ba9ceef37acee0d8e60fb4de7a8c46216b84cc8bdce": {
+            "file": "images/65dae8aba711aa19cd4a0ba9ceef37acee0d8e60fb4de7a8c46216b84cc8bdce.jpg",
+            "filename": "paste-66709432041475.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57037
+        }
+    }
+}

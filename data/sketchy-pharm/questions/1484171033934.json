@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484171033934",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484171033934",
+        "noteId": "1484170558195",
+        "noteGuid": "IPW<ydy+.t",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.2 - Inhaled anesthetics, dantrolene",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.2-Inhaled_Anesthetics,Dantrolene",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "What is the relationship between an inhaled anesthetic's blood:gas partition coefficient and its duration of action?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Blood:gas partition coefficient ∝ Duration of action\n\n[Image: 9c23c47494582f033bdebc489a83ffa2adefbe6768cc859f9a5856d0658d2d3c]\n\n[Image: fd634a3fb4ace685090baf33974f39d605894f183eb194340984ffd6cd76b45a]",
+        "imageIds": [
+            "9c23c47494582f033bdebc489a83ffa2adefbe6768cc859f9a5856d0658d2d3c",
+            "fd634a3fb4ace685090baf33974f39d605894f183eb194340984ffd6cd76b45a"
+        ]
+    },
+    "images": {
+        "9c23c47494582f033bdebc489a83ffa2adefbe6768cc859f9a5856d0658d2d3c": {
+            "file": "images/9c23c47494582f033bdebc489a83ffa2adefbe6768cc859f9a5856d0658d2d3c.jpg",
+            "filename": "paste-527035436892163.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 77871
+        },
+        "fd634a3fb4ace685090baf33974f39d605894f183eb194340984ffd6cd76b45a": {
+            "file": "images/fd634a3fb4ace685090baf33974f39d605894f183eb194340984ffd6cd76b45a.jpg",
+            "filename": "paste-523998895013891.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 77816
+        }
+    }
+}

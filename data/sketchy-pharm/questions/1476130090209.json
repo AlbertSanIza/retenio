@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476130090209",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476130090209",
+        "noteId": "1476128325499",
+        "noteGuid": "K=&GVJlRkw",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.2 - Biphosphonates, Raloxifene, Denosumab, Calcitonin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.2-Biphosphonates,Raloxifene,Denosumab,Calcitonin",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "How does parathyroid hormone stimulate osteoclasts?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "↑ RANKL on Osteoblasts\n\n(⇒ Osteoclast activation)\n\n[Image: 336f876339e51ac997e553d0d70ad89b6ee22c55585a6a99d3da8835dc9daf4f]\n\n[Image: e9068729842152ce54d745cec96553f1a45130de38802c3d260f4452bcecd100]\n\n[Image: 5b3e4bb91d9494e3c389f177163aa3543f13b625783e167c2b7a11d3a1bb692e]\n\n[Image: f2ae8498bc8f4bf4d68b7ca1c2197a993960f7d1ca1fd5c303a7f0fb1ce3ffc6]",
+        "imageIds": [
+            "336f876339e51ac997e553d0d70ad89b6ee22c55585a6a99d3da8835dc9daf4f",
+            "e9068729842152ce54d745cec96553f1a45130de38802c3d260f4452bcecd100",
+            "5b3e4bb91d9494e3c389f177163aa3543f13b625783e167c2b7a11d3a1bb692e",
+            "f2ae8498bc8f4bf4d68b7ca1c2197a993960f7d1ca1fd5c303a7f0fb1ce3ffc6"
+        ]
+    },
+    "images": {
+        "336f876339e51ac997e553d0d70ad89b6ee22c55585a6a99d3da8835dc9daf4f": {
+            "file": "images/336f876339e51ac997e553d0d70ad89b6ee22c55585a6a99d3da8835dc9daf4f.jpg",
+            "filename": "paste-82562156331011.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57238
+        },
+        "5b3e4bb91d9494e3c389f177163aa3543f13b625783e167c2b7a11d3a1bb692e": {
+            "file": "images/5b3e4bb91d9494e3c389f177163aa3543f13b625783e167c2b7a11d3a1bb692e.jpg",
+            "filename": "paste-82660940578819.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57169
+        },
+        "e9068729842152ce54d745cec96553f1a45130de38802c3d260f4452bcecd100": {
+            "file": "images/e9068729842152ce54d745cec96553f1a45130de38802c3d260f4452bcecd100.jpg",
+            "filename": "paste-82592221102083.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60378
+        },
+        "f2ae8498bc8f4bf4d68b7ca1c2197a993960f7d1ca1fd5c303a7f0fb1ce3ffc6": {
+            "file": "images/f2ae8498bc8f4bf4d68b7ca1c2197a993960f7d1ca1fd5c303a7f0fb1ce3ffc6.jpg",
+            "filename": "paste-62384399974403.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 100250
+        }
+    }
+}

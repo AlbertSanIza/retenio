@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475728004076",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475728004076",
+        "noteId": "1475727285686",
+        "noteGuid": "fOwnFa{N9l",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::1 Parasympathetic::1.2 - Acetylcholinesterase Inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(1)-Parasympathetics::1.2-AChE_Inhibitors",
+        "$$Autonomic_Drugs",
+        "$Parasympathetics"
+    ],
+    "question": {
+        "text": "Suffix: AChE inhibitors",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "\"-stigmine\"\n\n[Image: 0ae251f017660fedf8da41a765b8cfcbb2f75d114a2e058654723154c9a53219]",
+        "imageIds": [
+            "0ae251f017660fedf8da41a765b8cfcbb2f75d114a2e058654723154c9a53219"
+        ]
+    },
+    "images": {
+        "0ae251f017660fedf8da41a765b8cfcbb2f75d114a2e058654723154c9a53219": {
+            "file": "images/0ae251f017660fedf8da41a765b8cfcbb2f75d114a2e058654723154c9a53219.jpg",
+            "filename": "paste-11841224835075.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48387
+        }
+    }
+}

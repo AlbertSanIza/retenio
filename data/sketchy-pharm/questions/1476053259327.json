@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476053259327",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476053259327",
+        "noteId": "1476051607217",
+        "noteGuid": "n5FgcoEa,q",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::2 Allergy & Pulmonary::2.1 - Antihistamines",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(2)-Allergy_&_Pulmonary::2.1-Antihistamines",
+        "$$Smooth_Muscle",
+        "$Allergy&Pulmonary"
+    ],
+    "question": {
+        "text": "Which Histamine receptor mediates gastric acid secretion?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "H2\n\n[Image: 497a7f59abe957df7d529899f7ab613261f51e4348bdf53d217851fb397ddd32]",
+        "imageIds": [
+            "497a7f59abe957df7d529899f7ab613261f51e4348bdf53d217851fb397ddd32"
+        ]
+    },
+    "images": {
+        "497a7f59abe957df7d529899f7ab613261f51e4348bdf53d217851fb397ddd32": {
+            "file": "images/497a7f59abe957df7d529899f7ab613261f51e4348bdf53d217851fb397ddd32.jpg",
+            "filename": "paste-6502580486147 (2).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 72293
+        }
+    }
+}

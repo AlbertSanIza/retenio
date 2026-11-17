@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484173395894",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484173395894",
+        "noteId": "1484172521200",
+        "noteGuid": "rxvt]42rcP",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::4 Mood Stabilizers & Antiepileptic Drugs::4.3 - Valproate, topiramate, lamotrigine, levetiracetam",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(4)-Mood_Stabilizers_&_Antiepileptics::4.2-Valproate,Topiramate,Lamotrigine,Levetiracetam",
+        "$$Neuro/Psych",
+        "$Mood_Stabilizers_&_Antiepileptics"
+    ],
+    "question": {
+        "text": "What type of congenital deformity does Valproate cause?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Neural tube defects\n\n(∝ TMP-SMX)\n\n[Image: 2684e2f376bc5367bada274479aff43bbfea771d0dbb90e9efe6626242197662]",
+        "imageIds": [
+            "2684e2f376bc5367bada274479aff43bbfea771d0dbb90e9efe6626242197662"
+        ]
+    },
+    "images": {
+        "2684e2f376bc5367bada274479aff43bbfea771d0dbb90e9efe6626242197662": {
+            "file": "images/2684e2f376bc5367bada274479aff43bbfea771d0dbb90e9efe6626242197662.jpg",
+            "filename": "paste-620897652178947.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 102369
+        }
+    }
+}

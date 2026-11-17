@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480287989672",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480287989672",
+        "noteId": "1480286851836",
+        "noteGuid": "uXl&+5/(rn",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.1 - Cyclophosphamide, ifosfamide, busulifan, nitrosoureas (carmustine, lomustine, streptozocin)",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(2)-DNA_&_Cellular_Division::2.1-Cyclophosphamide,Busulfan,Nitrosoureas",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "Adverse Effects (2) : Busulfan",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Pulmonary fibrosis\n(2) \"Busulfan tan\"\n\n(Severe myelosuppression, blurs the line between effect and adverse effect)\n\n[Image: becbd37c2e81b04abd4b33a2c2eb5b3e59b18ed78148ec12915c74bf3e0a238f]\n\n[Image: 5ce06c26ed29735f29acdcf62c5674cc469d6c5d5f21647fc8ff06adc45b8bfd]\n\n[Image: c74e3e67da049150304b21cae8d4f57b8fc13d86d3db0e58683b67ca227db33c]",
+        "imageIds": [
+            "becbd37c2e81b04abd4b33a2c2eb5b3e59b18ed78148ec12915c74bf3e0a238f",
+            "5ce06c26ed29735f29acdcf62c5674cc469d6c5d5f21647fc8ff06adc45b8bfd",
+            "c74e3e67da049150304b21cae8d4f57b8fc13d86d3db0e58683b67ca227db33c"
+        ]
+    },
+    "images": {
+        "5ce06c26ed29735f29acdcf62c5674cc469d6c5d5f21647fc8ff06adc45b8bfd": {
+            "file": "images/5ce06c26ed29735f29acdcf62c5674cc469d6c5d5f21647fc8ff06adc45b8bfd.jpg",
+            "filename": "paste-30240864731139.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55436
+        },
+        "becbd37c2e81b04abd4b33a2c2eb5b3e59b18ed78148ec12915c74bf3e0a238f": {
+            "file": "images/becbd37c2e81b04abd4b33a2c2eb5b3e59b18ed78148ec12915c74bf3e0a238f.jpg",
+            "filename": "paste-30120605646851.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56120
+        },
+        "c74e3e67da049150304b21cae8d4f57b8fc13d86d3db0e58683b67ca227db33c": {
+            "file": "images/c74e3e67da049150304b21cae8d4f57b8fc13d86d3db0e58683b67ca227db33c.jpg",
+            "filename": "paste-61259118542851.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 87517
+        }
+    }
+}

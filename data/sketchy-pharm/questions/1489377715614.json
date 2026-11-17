@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1489377715614",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1489377715614",
+        "noteId": "1489373732673",
+        "noteGuid": "MVDX:P#kj;",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.1 - Propylthiouracil, Methimazole, Levothyroxine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.1-Propylthiouracil,Methimazole,Levothyroxine",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "In what compartment is thyroid hormone cleaved off of thryoglobulin?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Follicular cell's cytoplasm\n\n[Image: 4bf83fefe52b6585fb6091a35fcf9ca2fb7ce75cb304cacaac799a04c8b5ecc3]",
+        "imageIds": [
+            "4bf83fefe52b6585fb6091a35fcf9ca2fb7ce75cb304cacaac799a04c8b5ecc3"
+        ]
+    },
+    "images": {
+        "4bf83fefe52b6585fb6091a35fcf9ca2fb7ce75cb304cacaac799a04c8b5ecc3": {
+            "file": "images/4bf83fefe52b6585fb6091a35fcf9ca2fb7ce75cb304cacaac799a04c8b5ecc3.jpg",
+            "filename": "paste-10484015169539.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 71416
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476028242672",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476028242672",
+        "noteId": "1476026238349",
+        "noteGuid": "q{jN<,Pl7#",
+        "modelId": "1475688242543",
+        "templateOrdinal": 18
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.1 - Heparin, LMWH, fondaparinux, direct thrombin inhibitors, Xa inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.1-Heparin,LMWH,Fondaparinux,Direct_Thrombin_Inhibitors",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "Suffix: Direct thrombin inhibitors",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) \"-rudin\"\n(2) \"-gatro-\"\n\n[Image: 2b0ec66452ccabed26d718d5d2933a9cb4231da855637d9b052f61074d76bff0]\n\n[Image: c8a5fc3383b81a4cfe76b8f1c7a6fdfc346845f9730afb07383f200ed6bfb628]",
+        "imageIds": [
+            "2b0ec66452ccabed26d718d5d2933a9cb4231da855637d9b052f61074d76bff0",
+            "c8a5fc3383b81a4cfe76b8f1c7a6fdfc346845f9730afb07383f200ed6bfb628"
+        ]
+    },
+    "images": {
+        "2b0ec66452ccabed26d718d5d2933a9cb4231da855637d9b052f61074d76bff0": {
+            "file": "images/2b0ec66452ccabed26d718d5d2933a9cb4231da855637d9b052f61074d76bff0.jpg",
+            "filename": "paste-89532888252419.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 96265
+        },
+        "c8a5fc3383b81a4cfe76b8f1c7a6fdfc346845f9730afb07383f200ed6bfb628": {
+            "file": "images/c8a5fc3383b81a4cfe76b8f1c7a6fdfc346845f9730afb07383f200ed6bfb628.jpg",
+            "filename": "paste-89674622173187.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 94895
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475964331508",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475964331508",
+        "noteId": "1475963419084",
+        "noteGuid": "tV}T0_?yzP",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.3 - Class III",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.3-Class_III",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "Adverse Effects (9) : Amiodarone",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Neurological side effects\n(2) Gray corneal deposits\n\n(3) Hypo/Hyperthyroidism\n\n(4) Pulmonary fibrosi\n\n(5) Heart block\n\n(6) Induce heart failure\n\n(7) Hypersensitivity hepatitis\n\n(8) Gray-blue skin discoloration\n\n(9) Photodermatitis\n\n[Image: 360fc21e9958e8ad112c956f757be40e9cdfa6b0abdd002196f40be55655052f]\n\n[Image: 13febfab7c8b93eaebd6eded4bfbe3e9f7a702d9511b36f92b41502c887d2177]\n\n[Image: dee2a8e169677ff2e3a7a3992c0b60bc28c793847eb6547597f1fa88afc872e8]\n\n[Image: e2f2b7eda8145d6784bdf3551b7ee8a02ab5752a2182b00fab6ef87dc53e88f2]\n\n[Image: 6949ce9adfc35277aea9f1d817de425d58293349a30297ce08f787275d296d46]\n\n[Image: f096be1ef5a35d2711b4cba5715b4dc046080d7cfb1bc884ba203f968fb7ed4e]\n\n[Image: 71713fe852118cf2a9b445e0984188d7a353994b41f176cac7910c0ab270290c]\n\n[Image: 7d46fc3342e79f033203fd5bdde7be413b1300c24473ec1a746a8a346a7fc1c3]",
+        "imageIds": [
+            "360fc21e9958e8ad112c956f757be40e9cdfa6b0abdd002196f40be55655052f",
+            "13febfab7c8b93eaebd6eded4bfbe3e9f7a702d9511b36f92b41502c887d2177",
+            "dee2a8e169677ff2e3a7a3992c0b60bc28c793847eb6547597f1fa88afc872e8",
+            "e2f2b7eda8145d6784bdf3551b7ee8a02ab5752a2182b00fab6ef87dc53e88f2",
+            "6949ce9adfc35277aea9f1d817de425d58293349a30297ce08f787275d296d46",
+            "f096be1ef5a35d2711b4cba5715b4dc046080d7cfb1bc884ba203f968fb7ed4e",
+            "71713fe852118cf2a9b445e0984188d7a353994b41f176cac7910c0ab270290c",
+            "7d46fc3342e79f033203fd5bdde7be413b1300c24473ec1a746a8a346a7fc1c3"
+        ]
+    },
+    "images": {
+        "13febfab7c8b93eaebd6eded4bfbe3e9f7a702d9511b36f92b41502c887d2177": {
+            "file": "images/13febfab7c8b93eaebd6eded4bfbe3e9f7a702d9511b36f92b41502c887d2177.jpg",
+            "filename": "paste-43022687404035.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50970
+        },
+        "360fc21e9958e8ad112c956f757be40e9cdfa6b0abdd002196f40be55655052f": {
+            "file": "images/360fc21e9958e8ad112c956f757be40e9cdfa6b0abdd002196f40be55655052f.jpg",
+            "filename": "paste-42855183679491.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52643
+        },
+        "6949ce9adfc35277aea9f1d817de425d58293349a30297ce08f787275d296d46": {
+            "file": "images/6949ce9adfc35277aea9f1d817de425d58293349a30297ce08f787275d296d46.jpg",
+            "filename": "paste-43679817400323.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51678
+        },
+        "71713fe852118cf2a9b445e0984188d7a353994b41f176cac7910c0ab270290c": {
+            "file": "images/71713fe852118cf2a9b445e0984188d7a353994b41f176cac7910c0ab270290c.jpg",
+            "filename": "paste-43894565765123.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58601
+        },
+        "7d46fc3342e79f033203fd5bdde7be413b1300c24473ec1a746a8a346a7fc1c3": {
+            "file": "images/7d46fc3342e79f033203fd5bdde7be413b1300c24473ec1a746a8a346a7fc1c3.jpg",
+            "filename": "paste-44178033606659.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59743
+        },
+        "dee2a8e169677ff2e3a7a3992c0b60bc28c793847eb6547597f1fa88afc872e8": {
+            "file": "images/dee2a8e169677ff2e3a7a3992c0b60bc28c793847eb6547597f1fa88afc872e8.jpg",
+            "filename": "paste-43207370997763.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51094
+        },
+        "e2f2b7eda8145d6784bdf3551b7ee8a02ab5752a2182b00fab6ef87dc53e88f2": {
+            "file": "images/e2f2b7eda8145d6784bdf3551b7ee8a02ab5752a2182b00fab6ef87dc53e88f2.jpg",
+            "filename": "paste-43353399885827.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54546
+        },
+        "f096be1ef5a35d2711b4cba5715b4dc046080d7cfb1bc884ba203f968fb7ed4e": {
+            "file": "images/f096be1ef5a35d2711b4cba5715b4dc046080d7cfb1bc884ba203f968fb7ed4e.jpg",
+            "filename": "paste-43795781517315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54301
+        }
+    }
+}

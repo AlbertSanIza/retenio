@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480302755939",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480302755939",
+        "noteId": "1480301676727",
+        "noteGuid": "oy.7TfmNm^",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.4 - Cephalosporins",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.4-Cephalosporins",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "What is the difference in spectrum of activity of first and second generation cephalosporins?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Second generation has additional coverage of:\n\n(1) H. influenzae\n\n(2) Neisseria\n\n(3) Serratia\n\n[Image: 7200e4ed24a391ab41e0d409474b0c2b9658168c48d7840494fa6b743f3da058]",
+        "imageIds": [
+            "7200e4ed24a391ab41e0d409474b0c2b9658168c48d7840494fa6b743f3da058"
+        ]
+    },
+    "images": {
+        "7200e4ed24a391ab41e0d409474b0c2b9658168c48d7840494fa6b743f3da058": {
+            "file": "images/7200e4ed24a391ab41e0d409474b0c2b9658168c48d7840494fa6b743f3da058.jpg",
+            "filename": "paste-99415608000515.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 32176
+        }
+    }
+}

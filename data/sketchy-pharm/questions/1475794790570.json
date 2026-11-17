@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475794790570",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475794790570",
+        "noteId": "1475793971812",
+        "noteGuid": "lxQq)Zvao+",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.1 - SSRIs, SNRIs, cyproheptadine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.1-SSRIs,SNRIs,Cyproheptadine",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "What are two drug classes which could cause serotonin syndrome when combined with SSRIs/SNRIs?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) TCAs\n(2) MAO inhibitors\n\n[Image: d2f7b1cbb94bc39cdf4517b8f7d34b8fe618cdb7e6a119388daa25a86ecd8c04]",
+        "imageIds": [
+            "d2f7b1cbb94bc39cdf4517b8f7d34b8fe618cdb7e6a119388daa25a86ecd8c04"
+        ]
+    },
+    "images": {
+        "d2f7b1cbb94bc39cdf4517b8f7d34b8fe618cdb7e6a119388daa25a86ecd8c04": {
+            "file": "images/d2f7b1cbb94bc39cdf4517b8f7d34b8fe618cdb7e6a119388daa25a86ecd8c04.jpg",
+            "filename": "paste-15917148798979.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 72707
+        }
+    }
+}

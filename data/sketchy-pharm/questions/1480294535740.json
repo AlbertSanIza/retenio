@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480294535740",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480294535740",
+        "noteId": "1480292425830",
+        "noteGuid": "F-Oy]]*-Bc",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::1 Antimetabolites::1.1 - Methotrexate, leucovorin, 5-fluorouracil, hydroxyurea",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(1)-Antimetabolites::1.1-Methotrexate,Leucovorin,5-FU,Hydroxyurea",
+        "$$Antineoplastics",
+        "$Antimetabolites"
+    ],
+    "question": {
+        "text": "Name 2 adverse effects more common with 5-FU than MTX",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Severe diarrhea\n(2) Cutaneous complications\n\n[Image: 6fa48d422d19a44f6f43a318d6914f98c83bbb369359cc339a3d3516188b9733]\n\n[Image: 8c8f33a9935d1a56bbf73a729b1b58541e5d7c869281bdaff7c8c0991079f5cd]",
+        "imageIds": [
+            "6fa48d422d19a44f6f43a318d6914f98c83bbb369359cc339a3d3516188b9733",
+            "8c8f33a9935d1a56bbf73a729b1b58541e5d7c869281bdaff7c8c0991079f5cd"
+        ]
+    },
+    "images": {
+        "6fa48d422d19a44f6f43a318d6914f98c83bbb369359cc339a3d3516188b9733": {
+            "file": "images/6fa48d422d19a44f6f43a318d6914f98c83bbb369359cc339a3d3516188b9733.jpg",
+            "filename": "paste-38392712658947 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51511
+        },
+        "8c8f33a9935d1a56bbf73a729b1b58541e5d7c869281bdaff7c8c0991079f5cd": {
+            "file": "images/8c8f33a9935d1a56bbf73a729b1b58541e5d7c869281bdaff7c8c0991079f5cd.jpg",
+            "filename": "paste-38487201939459.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55815
+        }
+    }
+}

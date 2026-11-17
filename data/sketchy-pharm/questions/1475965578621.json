@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475965578621",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475965578621",
+        "noteId": "1475964798680",
+        "noteGuid": "ky(ErQ9#xE",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.5 - Class V",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.5-Class_V",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "What effect does stimulation of A1 receptor have on the cardiac ion currents?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) ↑ Outwart K+ current\n(2) ↓ Inward Ca2+ current\n\n(Both factors inhibit AP)\n\n[Image: aa5304a75cae4885f9710d7ca42a75622fdfc3d7471ae1f9900cbe54d6ce85a3]",
+        "imageIds": [
+            "aa5304a75cae4885f9710d7ca42a75622fdfc3d7471ae1f9900cbe54d6ce85a3"
+        ]
+    },
+    "images": {
+        "aa5304a75cae4885f9710d7ca42a75622fdfc3d7471ae1f9900cbe54d6ce85a3": {
+            "file": "images/aa5304a75cae4885f9710d7ca42a75622fdfc3d7471ae1f9900cbe54d6ce85a3.jpg",
+            "filename": "paste-48348446851075.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 64290
+        }
+    }
+}

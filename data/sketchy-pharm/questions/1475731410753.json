@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475731410753",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475731410753",
+        "noteId": "1475730679415",
+        "noteGuid": "OyB|BPtZk?",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.3 - Alpha drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.3-Alpha_drugs",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "MOA: Phentolamine",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "REVERSIBLE α1 and α2 antagonist\n\n[Image: fb1b9bc1c0b47580d3b13dce1579786dbbd9140aafc014f0d2015f1d55d3cb9a]\n\n[Image: 13df681fbef0b0ebb3c86687953d969d4a49e5e93596302d75f4fc264c1c20e2]\n\n[Image: 3a39684210dcc3ccc2d71e98421162aeda8a5b0f0bd5384fc99431e61d5974b8]",
+        "imageIds": [
+            "fb1b9bc1c0b47580d3b13dce1579786dbbd9140aafc014f0d2015f1d55d3cb9a",
+            "13df681fbef0b0ebb3c86687953d969d4a49e5e93596302d75f4fc264c1c20e2",
+            "3a39684210dcc3ccc2d71e98421162aeda8a5b0f0bd5384fc99431e61d5974b8"
+        ]
+    },
+    "images": {
+        "13df681fbef0b0ebb3c86687953d969d4a49e5e93596302d75f4fc264c1c20e2": {
+            "file": "images/13df681fbef0b0ebb3c86687953d969d4a49e5e93596302d75f4fc264c1c20e2.jpg",
+            "filename": "paste-32083405701123.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53535
+        },
+        "3a39684210dcc3ccc2d71e98421162aeda8a5b0f0bd5384fc99431e61d5974b8": {
+            "file": "images/3a39684210dcc3ccc2d71e98421162aeda8a5b0f0bd5384fc99431e61d5974b8.jpg",
+            "filename": "paste-32195074850819.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49709
+        },
+        "fb1b9bc1c0b47580d3b13dce1579786dbbd9140aafc014f0d2015f1d55d3cb9a": {
+            "file": "images/fb1b9bc1c0b47580d3b13dce1579786dbbd9140aafc014f0d2015f1d55d3cb9a.jpg",
+            "filename": "paste-31971736551427.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49712
+        }
+    }
+}

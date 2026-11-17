@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476130090212",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476130090212",
+        "noteId": "1476128325499",
+        "noteGuid": "K=&GVJlRkw",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.2 - Biphosphonates, Raloxifene, Denosumab, Calcitonin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.2-Biphosphonates,Raloxifene,Denosumab,Calcitonin",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "How does Calcitonin reduce serum calcium?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Inhibits osteoclasts\n(2) ↓ Renal Ca2+ reabsorption\n\n[Image: 6b5df164f10a97646e92c118e0e86e263e0036382f42dca9f0c5cddc082aa09c]\n\n[Image: 7ee2b8e341ae45054b3e3a504e85e8508d3ade4585b77b2d108cc80804e121e3]",
+        "imageIds": [
+            "6b5df164f10a97646e92c118e0e86e263e0036382f42dca9f0c5cddc082aa09c",
+            "7ee2b8e341ae45054b3e3a504e85e8508d3ade4585b77b2d108cc80804e121e3"
+        ]
+    },
+    "images": {
+        "6b5df164f10a97646e92c118e0e86e263e0036382f42dca9f0c5cddc082aa09c": {
+            "file": "images/6b5df164f10a97646e92c118e0e86e263e0036382f42dca9f0c5cddc082aa09c.jpg",
+            "filename": "paste-82978768158723.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66122
+        },
+        "7ee2b8e341ae45054b3e3a504e85e8508d3ade4585b77b2d108cc80804e121e3": {
+            "file": "images/7ee2b8e341ae45054b3e3a504e85e8508d3ade4585b77b2d108cc80804e121e3.jpg",
+            "filename": "paste-83137681948675.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 64816
+        }
+    }
+}

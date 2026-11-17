@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1489377715623",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1489377715623",
+        "noteId": "1489373732673",
+        "noteGuid": "MVDX:P#kj;",
+        "modelId": "1475688242543",
+        "templateOrdinal": 13
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.1 - Propylthiouracil, Methimazole, Levothyroxine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.1-Propylthiouracil,Methimazole,Levothyroxine",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "MOA: Glucocorticoids (in treating hyperthyroidism)",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Inhibits 5' deiodinase\n\n[Image: 079d7f363c78c0206607d5073b08bc071a2ffb9bae40f7ee117bbce2e83c9037]",
+        "imageIds": [
+            "079d7f363c78c0206607d5073b08bc071a2ffb9bae40f7ee117bbce2e83c9037"
+        ]
+    },
+    "images": {
+        "079d7f363c78c0206607d5073b08bc071a2ffb9bae40f7ee117bbce2e83c9037": {
+            "file": "images/079d7f363c78c0206607d5073b08bc071a2ffb9bae40f7ee117bbce2e83c9037.jpg",
+            "filename": "paste-15964393439235.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 95160
+        }
+    }
+}

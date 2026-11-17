@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475702036433",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475702036433",
+        "noteId": "1475701051571",
+        "noteGuid": "sja8v*xun+",
+        "modelId": "1475688242543",
+        "templateOrdinal": 15
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::2 Dyslipidemia Drugs::2.1 - Statins",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(2)-Dyslipidemia_Drugs::2.1-Statins",
+        "$$Blood_&_Inflammation",
+        "$DyslipidemiaDrugs"
+    ],
+    "question": {
+        "text": "What is the only statin drug not metabolized by the CYP-450 system?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Pravastatin\n\n(Primadonna-statin = Too good for CYP-450 system)\n\n[Image: 1b1f2ff968c13e7a53458d1eb7e22367145322d2a74e1cfce536ce53695b4f30]",
+        "imageIds": [
+            "1b1f2ff968c13e7a53458d1eb7e22367145322d2a74e1cfce536ce53695b4f30"
+        ]
+    },
+    "images": {
+        "1b1f2ff968c13e7a53458d1eb7e22367145322d2a74e1cfce536ce53695b4f30": {
+            "file": "images/1b1f2ff968c13e7a53458d1eb7e22367145322d2a74e1cfce536ce53695b4f30.jpg",
+            "filename": "paste-142425410502659.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54103
+        }
+    }
+}

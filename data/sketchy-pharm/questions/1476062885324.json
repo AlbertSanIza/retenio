@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476062885324",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476062885324",
+        "noteId": "1476060361139",
+        "noteGuid": "z-O#q8*S,w",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::1 Vasoactive::1.3-Prostaglandins,Prostacyclin,Bosentan, PDE5 inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(1)-Vasoactive::1.3-Prostaglandins,Prostacyclin,Bosentan,PDE-5_Inhibitors",
+        "$$Smooth_Muscle",
+        "$Vasoactive"
+    ],
+    "question": {
+        "text": "Indications (2) : Misoprostol",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Prevent NSAID-induced peptic ulcer\n(2) Induce contractions\n\n[Image: 98bd0b230082c555c6dd7f446558025f037e8cf9d32146922b884582c04f32f9]\n\n[Image: 03f8fdde064f717efec7951d6a08df7b9ff22b2707e84330edf24b6c99c637f6]",
+        "imageIds": [
+            "98bd0b230082c555c6dd7f446558025f037e8cf9d32146922b884582c04f32f9",
+            "03f8fdde064f717efec7951d6a08df7b9ff22b2707e84330edf24b6c99c637f6"
+        ]
+    },
+    "images": {
+        "03f8fdde064f717efec7951d6a08df7b9ff22b2707e84330edf24b6c99c637f6": {
+            "file": "images/03f8fdde064f717efec7951d6a08df7b9ff22b2707e84330edf24b6c99c637f6.jpg",
+            "filename": "paste-179009941929987.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 75535
+        },
+        "98bd0b230082c555c6dd7f446558025f037e8cf9d32146922b884582c04f32f9": {
+            "file": "images/98bd0b230082c555c6dd7f446558025f037e8cf9d32146922b884582c04f32f9.jpg",
+            "filename": "paste-175281910317059.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 67585
+        }
+    }
+}

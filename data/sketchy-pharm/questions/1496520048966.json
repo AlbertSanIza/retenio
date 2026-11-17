@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1496520048966",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1496520048966",
+        "noteId": "1480307995792",
+        "noteGuid": "llJTLT7ctu",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.2 - NNRTIs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.2-NNRTIs",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "Which NNRTI is NOT contraindicated in pregnancy?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Nevirapine\n\n(N in Nevirapine stands for No contraindication)\n\n[Image: edbdf8a1218085c0906779fc65e36f15552e6986c91ca06918ebd5f3bbec22a2]",
+        "imageIds": [
+            "edbdf8a1218085c0906779fc65e36f15552e6986c91ca06918ebd5f3bbec22a2"
+        ]
+    },
+    "images": {
+        "edbdf8a1218085c0906779fc65e36f15552e6986c91ca06918ebd5f3bbec22a2": {
+            "file": "images/edbdf8a1218085c0906779fc65e36f15552e6986c91ca06918ebd5f3bbec22a2.jpg",
+            "filename": "paste-119601954291715.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61766
+        }
+    }
+}

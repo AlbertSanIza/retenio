@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476053259332",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476053259332",
+        "noteId": "1476051607217",
+        "noteGuid": "n5FgcoEa,q",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::2 Allergy & Pulmonary::2.1 - Antihistamines",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(2)-Allergy_&_Pulmonary::2.1-Antihistamines",
+        "$$Smooth_Muscle",
+        "$Allergy&Pulmonary"
+    ],
+    "question": {
+        "text": "What are the second-generation H1 blockers?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Fexofenadine\n(2) Cetirizine\n\n(3) Loratidine\n\n[Image: 8f091e209cce646529e6da7b3617c011e67e37177b91cce976593120a595a835]",
+        "imageIds": [
+            "8f091e209cce646529e6da7b3617c011e67e37177b91cce976593120a595a835"
+        ]
+    },
+    "images": {
+        "8f091e209cce646529e6da7b3617c011e67e37177b91cce976593120a595a835": {
+            "file": "images/8f091e209cce646529e6da7b3617c011e67e37177b91cce976593120a595a835.jpg",
+            "filename": "paste-11343008628739.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 81866
+        }
+    }
+}

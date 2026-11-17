@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476028242661",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476028242661",
+        "noteId": "1476026238349",
+        "noteGuid": "q{jN<,Pl7#",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.1 - Heparin, LMWH, fondaparinux, direct thrombin inhibitors, Xa inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.1-Heparin,LMWH,Fondaparinux,Direct_Thrombin_Inhibitors",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "ROA: Heparin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "IV\n\n[Image: 23a0e36d4dc7e3b76402cf1e2d5774020848e71cdfb96babb1fed1240c0ffb6b]",
+        "imageIds": [
+            "23a0e36d4dc7e3b76402cf1e2d5774020848e71cdfb96babb1fed1240c0ffb6b"
+        ]
+    },
+    "images": {
+        "23a0e36d4dc7e3b76402cf1e2d5774020848e71cdfb96babb1fed1240c0ffb6b": {
+            "file": "images/23a0e36d4dc7e3b76402cf1e2d5774020848e71cdfb96babb1fed1240c0ffb6b.jpg",
+            "filename": "paste-87415469375491.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 82782
+        }
+    }
+}

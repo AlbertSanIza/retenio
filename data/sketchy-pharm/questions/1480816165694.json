@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480816165694",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480816165694",
+        "noteId": "1480812867870",
+        "noteGuid": "B.#W9#QCRN",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::3 Antimycobacterials::3.1 - Tuberculosis Drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(3)-Antimycobacterials::3.1-Tuberculosis_Drugs",
+        "$$Antimicrobials",
+        "$Antimycobacterials"
+    ],
+    "question": {
+        "text": "What abnormal lab value is expected after administering Isoniazid?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Increased aminotransferases\n\n(Asymptomatic)\n\n[Image: 12f10e05d8bc3ac6232aa56ac44359a35af09e933caea44ae09e820f9864126a]",
+        "imageIds": [
+            "12f10e05d8bc3ac6232aa56ac44359a35af09e933caea44ae09e820f9864126a"
+        ]
+    },
+    "images": {
+        "12f10e05d8bc3ac6232aa56ac44359a35af09e933caea44ae09e820f9864126a": {
+            "file": "images/12f10e05d8bc3ac6232aa56ac44359a35af09e933caea44ae09e820f9864126a.jpg",
+            "filename": "paste-179117316112387.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46661
+        }
+    }
+}

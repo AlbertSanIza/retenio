@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480296085025",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480296085025",
+        "noteId": "1480295213390",
+        "noteGuid": "N?I@y:78Z^",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::1 Antimetabolites::1.2 - Azathioprine, 6-mercaptopurine, mycophenolate mofetil",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(1)-Antimetabolites::1.2-AZA,6-MP,Mycophenolate",
+        "$$Antineoplastics",
+        "$Antimetabolites"
+    ],
+    "question": {
+        "text": "What is a pro-drug of 6-mercaptopurine?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Azathioprine\n\n[Image: c839456fa11653c137436e9dcd3465817440de7a4d47b891a75dc27734d58963]\n\n[Image: f754c1fdf770ec4a035e88d711df0687c001232aa382b20698d4478c37b131ed]",
+        "imageIds": [
+            "c839456fa11653c137436e9dcd3465817440de7a4d47b891a75dc27734d58963",
+            "f754c1fdf770ec4a035e88d711df0687c001232aa382b20698d4478c37b131ed"
+        ]
+    },
+    "images": {
+        "c839456fa11653c137436e9dcd3465817440de7a4d47b891a75dc27734d58963": {
+            "file": "images/c839456fa11653c137436e9dcd3465817440de7a4d47b891a75dc27734d58963.jpg",
+            "filename": "paste-40746354737155.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53325
+        },
+        "f754c1fdf770ec4a035e88d711df0687c001232aa382b20698d4478c37b131ed": {
+            "file": "images/f754c1fdf770ec4a035e88d711df0687c001232aa382b20698d4478c37b131ed.jpg",
+            "filename": "paste-40789304410115.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54390
+        }
+    }
+}

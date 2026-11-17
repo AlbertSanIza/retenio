@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480819869358",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480819869358",
+        "noteId": "1480817330855",
+        "noteGuid": "JorE&S@rr3",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::4 Other Antibiotics::4.1 - Trimethoprim/Sulfamethoxazole",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(4)-Other_Antibiotics::4.1-Trimethoprim/Sulfamethoxazole",
+        "$$Antimicrobials",
+        "$Other_Antibiotics"
+    ],
+    "question": {
+        "text": "What is the precursor molecule to folate?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "PABA\n\n(PABA + Pteridine → → → Folate. The initial reaction only occurs in bacteria)\n\n[Image: 2ef6f210cab5e6f74d68bede537fab07015bc4b4382844145e5ed6eccb038b15]",
+        "imageIds": [
+            "2ef6f210cab5e6f74d68bede537fab07015bc4b4382844145e5ed6eccb038b15"
+        ]
+    },
+    "images": {
+        "2ef6f210cab5e6f74d68bede537fab07015bc4b4382844145e5ed6eccb038b15": {
+            "file": "images/2ef6f210cab5e6f74d68bede537fab07015bc4b4382844145e5ed6eccb038b15.jpg",
+            "filename": "paste-200081051484163.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44348
+        }
+    }
+}

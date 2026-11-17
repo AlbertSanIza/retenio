@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476238755339",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476238755339",
+        "noteId": "1476236480934",
+        "noteGuid": "cj@yKLEX0c",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.4 - K+ sparing diuretics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.4-Potassium_Sparing_Diuretics",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "What cell is responsible for H+ secretion in the collecting duct?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "α-intercalated cells\n\n(α for αcid)\n\n[Image: a02a96bdf59439b44317689ac90b92222dd03aee65c2020d0d2c0fc64039edcb]\n\n[Image: bf6122723e10f9b04ef3a5b48d86358a6cdd5f46301768e6ff2761324654bc94]",
+        "imageIds": [
+            "a02a96bdf59439b44317689ac90b92222dd03aee65c2020d0d2c0fc64039edcb",
+            "bf6122723e10f9b04ef3a5b48d86358a6cdd5f46301768e6ff2761324654bc94"
+        ]
+    },
+    "images": {
+        "a02a96bdf59439b44317689ac90b92222dd03aee65c2020d0d2c0fc64039edcb": {
+            "file": "images/a02a96bdf59439b44317689ac90b92222dd03aee65c2020d0d2c0fc64039edcb.jpg",
+            "filename": "paste-93299574571011.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58059
+        },
+        "bf6122723e10f9b04ef3a5b48d86358a6cdd5f46301768e6ff2761324654bc94": {
+            "file": "images/bf6122723e10f9b04ef3a5b48d86358a6cdd5f46301768e6ff2761324654bc94.jpg",
+            "filename": "paste-93359704113155.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59605
+        }
+    }
+}

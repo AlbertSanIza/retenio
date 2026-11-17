@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475794790562",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475794790562",
+        "noteId": "1475793971812",
+        "noteGuid": "lxQq)Zvao+",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.1 - SSRIs, SNRIs, cyproheptadine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.1-SSRIs,SNRIs,Cyproheptadine",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "Name 4 SSRIs",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Fluoxetine\n(2) Paroxetine\n\n(3) Sertraline\n\n(4) Citalopram\n\n[Image: e427d82da04332dd0176b7a84284f178e96e88fd22a4f0a0cd79fd1867814858]",
+        "imageIds": [
+            "e427d82da04332dd0176b7a84284f178e96e88fd22a4f0a0cd79fd1867814858"
+        ]
+    },
+    "images": {
+        "e427d82da04332dd0176b7a84284f178e96e88fd22a4f0a0cd79fd1867814858": {
+            "file": "images/e427d82da04332dd0176b7a84284f178e96e88fd22a4f0a0cd79fd1867814858.jpg",
+            "filename": "paste-12004433592323.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55602
+        }
+    }
+}

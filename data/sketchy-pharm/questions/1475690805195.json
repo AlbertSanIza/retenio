@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475690805195",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475690805195",
+        "noteId": "1475689796727",
+        "noteGuid": "kCV^~E(MCS",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::1 Heart Failure Drugs::1.1 - Digoxin, milrinone, nesiritide",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(1)-Heart_Failure_Drugs::1.1-Digoxin,Milrinone,Nesiritide",
+        "$$Cardiovascular_&_Renal",
+        "$HeartFailureDrugs"
+    ],
+    "question": {
+        "text": "How is Digoxin eliminated from the body?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Renal clearance\n\n(Note: Digoxin has a huge Vd as its concentration is buffered by the ubiquitous Na+,K+-ATPase)\n\n[Image: c78717e47e335951922662e2f51687dca55d71466d4238f02a65175bd9925ff5]",
+        "imageIds": [
+            "c78717e47e335951922662e2f51687dca55d71466d4238f02a65175bd9925ff5"
+        ]
+    },
+    "images": {
+        "c78717e47e335951922662e2f51687dca55d71466d4238f02a65175bd9925ff5": {
+            "file": "images/c78717e47e335951922662e2f51687dca55d71466d4238f02a65175bd9925ff5.jpg",
+            "filename": "paste-41644002902019.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62298
+        }
+    }
+}

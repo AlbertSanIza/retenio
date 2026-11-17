@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475732239202",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475732239202",
+        "noteId": "1475731410843",
+        "noteGuid": "KE^F%)4EQ[",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.4 - Beta blockers",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.4-Beta_Drugs",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "What drug is a non-selective β-blocker with partial agonist activity?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Pindolol\n\n[Image: 7dab03145a26e9db0f8347d03361c5b4dfcfff5495882cde890096e4c7478b56]",
+        "imageIds": [
+            "7dab03145a26e9db0f8347d03361c5b4dfcfff5495882cde890096e4c7478b56"
+        ]
+    },
+    "images": {
+        "7dab03145a26e9db0f8347d03361c5b4dfcfff5495882cde890096e4c7478b56": {
+            "file": "images/7dab03145a26e9db0f8347d03361c5b4dfcfff5495882cde890096e4c7478b56.jpg",
+            "filename": "paste-154666067296259.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 91684
+        }
+    }
+}

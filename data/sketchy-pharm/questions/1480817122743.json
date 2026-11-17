@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480817122743",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480817122743",
+        "noteId": "1480816165877",
+        "noteGuid": "Qi(.XU0Lz8",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::3 Antimycobacterials::3.2 - Leprosy drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(3)-Antimycobacterials::3.2-Leprosy_Drugs",
+        "$$Antimicrobials",
+        "$Antimycobacterials"
+    ],
+    "question": {
+        "text": "Which mycobacterial species constitute the Mycobacterium avium complex?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Mycobacterium avium\n(2) Mycobacterium intracellulare\n\n[Image: ce88403c905172a200e5935759a5d720b73db2a4ce09f8f9a5036d961d771404]",
+        "imageIds": [
+            "ce88403c905172a200e5935759a5d720b73db2a4ce09f8f9a5036d961d771404"
+        ]
+    },
+    "images": {
+        "ce88403c905172a200e5935759a5d720b73db2a4ce09f8f9a5036d961d771404": {
+            "file": "images/ce88403c905172a200e5935759a5d720b73db2a4ce09f8f9a5036d961d771404.jpg",
+            "filename": "paste-191564131336195.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 37104
+        }
+    }
+}

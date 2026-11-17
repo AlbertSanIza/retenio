@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476210878812",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476210878812",
+        "noteId": "1476210297974",
+        "noteGuid": "n:FNxZoP&d",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.1 - Acetazolamide, mannitol",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.1-Acetazolamide",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "Which diuretics are Sulfa drugs?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Acetazolamide\n(2) Loop diuretics\n\n(3) Thiazide diuretics\n\n(Note: Ethacrynic acid is a loop diuretic but NOT a Sulfa drug)\n\n[Image: 43b98f3112987bdfd6a905c0a5912998579d87a522998c4c9473df4887856b08]\n\n[Image: fd24c8bf36110bc5663f5646ff211f76be28c4a5d9d6dd42dd1e83573e12a788]\n\n[Image: 6b484e2a3b0d9673474877c7979babb032160efaabf982572cab966a08664dcd]\n\n[Image: dab320a1cb8ebaa62d90a9924cf4f1d2e88196a5d6f017b0eb73a7e662345e0d]",
+        "imageIds": [
+            "43b98f3112987bdfd6a905c0a5912998579d87a522998c4c9473df4887856b08",
+            "fd24c8bf36110bc5663f5646ff211f76be28c4a5d9d6dd42dd1e83573e12a788",
+            "6b484e2a3b0d9673474877c7979babb032160efaabf982572cab966a08664dcd",
+            "dab320a1cb8ebaa62d90a9924cf4f1d2e88196a5d6f017b0eb73a7e662345e0d"
+        ]
+    },
+    "images": {
+        "43b98f3112987bdfd6a905c0a5912998579d87a522998c4c9473df4887856b08": {
+            "file": "images/43b98f3112987bdfd6a905c0a5912998579d87a522998c4c9473df4887856b08.jpg",
+            "filename": "paste-58974195941379.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54388
+        },
+        "6b484e2a3b0d9673474877c7979babb032160efaabf982572cab966a08664dcd": {
+            "file": "images/6b484e2a3b0d9673474877c7979babb032160efaabf982572cab966a08664dcd.jpg",
+            "filename": "paste-87754771791875.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 64603
+        },
+        "dab320a1cb8ebaa62d90a9924cf4f1d2e88196a5d6f017b0eb73a7e662345e0d": {
+            "file": "images/dab320a1cb8ebaa62d90a9924cf4f1d2e88196a5d6f017b0eb73a7e662345e0d.jpg",
+            "filename": "paste-55533927137283.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66272
+        },
+        "fd24c8bf36110bc5663f5646ff211f76be28c4a5d9d6dd42dd1e83573e12a788": {
+            "file": "images/fd24c8bf36110bc5663f5646ff211f76be28c4a5d9d6dd42dd1e83573e12a788.jpg",
+            "filename": "paste-41485089112067.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66233
+        }
+    }
+}

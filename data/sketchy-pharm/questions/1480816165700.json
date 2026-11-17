@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480816165700",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480816165700",
+        "noteId": "1480812867870",
+        "noteGuid": "B.#W9#QCRN",
+        "modelId": "1475688242543",
+        "templateOrdinal": 15
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::3 Antimycobacterials::3.1 - Tuberculosis Drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(3)-Antimycobacterials::3.1-Tuberculosis_Drugs",
+        "$$Antimicrobials",
+        "$Antimycobacterials"
+    ],
+    "question": {
+        "text": "MOA: Ethambutol",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Inhibits arabosyl transferase ⇒ inhibits carbohydrate polymerization\n\n(\"Think Ethambutol at the cell wall\")\n\n[Image: 8dd6191e5d4ce0a79c9cabee0df55863c91741be09be8d2d95c8c384d43cd227]\n\n[Image: 83635c840c872c0abd0526191b306532b6df4aa1b58464ddfdcfc1f856c023ee]",
+        "imageIds": [
+            "8dd6191e5d4ce0a79c9cabee0df55863c91741be09be8d2d95c8c384d43cd227",
+            "83635c840c872c0abd0526191b306532b6df4aa1b58464ddfdcfc1f856c023ee"
+        ]
+    },
+    "images": {
+        "83635c840c872c0abd0526191b306532b6df4aa1b58464ddfdcfc1f856c023ee": {
+            "file": "images/83635c840c872c0abd0526191b306532b6df4aa1b58464ddfdcfc1f856c023ee.jpg",
+            "filename": "paste-183914794582019.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61559
+        },
+        "8dd6191e5d4ce0a79c9cabee0df55863c91741be09be8d2d95c8c384d43cd227": {
+            "file": "images/8dd6191e5d4ce0a79c9cabee0df55863c91741be09be8d2d95c8c384d43cd227.jpg",
+            "filename": "paste-183369333735427.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62937
+        }
+    }
+}

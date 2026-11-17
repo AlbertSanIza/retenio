@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1489377715613",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1489377715613",
+        "noteId": "1489373732673",
+        "noteGuid": "MVDX:P#kj;",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.1 - Propylthiouracil, Methimazole, Levothyroxine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.1-Propylthiouracil,Methimazole,Levothyroxine",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "Name 3 functions of thyroid peroxidase",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Oxidation of I- → I2\n(2) Organification of thyroglobulin\n(3) Coupling of iodinated tyrosine residues\n\n[Image: a2641859ef4a8935a498bfe1e1c555d305e511662be17f63ae7db767ff31ac29]\n\n[Image: 92b2087e098a44a6b065b3ba10ec234e9e63650b91f30bc666dbfbea8b20b9b6]\n\n[Image: 3fe527c1ae007be74e4594261fa11824771b57f06689a21022178b3d8a7fe9f0]\n\n[Image: bce9e2609c9ad2738e5d7832e63c28a7c67a366f86b3eb3f2415f995517bacb8]",
+        "imageIds": [
+            "a2641859ef4a8935a498bfe1e1c555d305e511662be17f63ae7db767ff31ac29",
+            "92b2087e098a44a6b065b3ba10ec234e9e63650b91f30bc666dbfbea8b20b9b6",
+            "3fe527c1ae007be74e4594261fa11824771b57f06689a21022178b3d8a7fe9f0",
+            "bce9e2609c9ad2738e5d7832e63c28a7c67a366f86b3eb3f2415f995517bacb8"
+        ]
+    },
+    "images": {
+        "3fe527c1ae007be74e4594261fa11824771b57f06689a21022178b3d8a7fe9f0": {
+            "file": "images/3fe527c1ae007be74e4594261fa11824771b57f06689a21022178b3d8a7fe9f0.jpg",
+            "filename": "paste-9646496546819 (4).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70241
+        },
+        "92b2087e098a44a6b065b3ba10ec234e9e63650b91f30bc666dbfbea8b20b9b6": {
+            "file": "images/92b2087e098a44a6b065b3ba10ec234e9e63650b91f30bc666dbfbea8b20b9b6.jpg",
+            "filename": "paste-8096013352963.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 69287
+        },
+        "a2641859ef4a8935a498bfe1e1c555d305e511662be17f63ae7db767ff31ac29": {
+            "file": "images/a2641859ef4a8935a498bfe1e1c555d305e511662be17f63ae7db767ff31ac29.jpg",
+            "filename": "paste-41923175776259.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 124636
+        },
+        "bce9e2609c9ad2738e5d7832e63c28a7c67a366f86b3eb3f2415f995517bacb8": {
+            "file": "images/bce9e2609c9ad2738e5d7832e63c28a7c67a366f86b3eb3f2415f995517bacb8.jpg",
+            "filename": "paste-9307194130435.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 75408
+        }
+    }
+}

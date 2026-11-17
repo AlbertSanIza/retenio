@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476131455849",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476131455849",
+        "noteId": "1476130090291",
+        "noteGuid": "O>jMOQ>@1^",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::4 Hypothalamic & Pituitary::4.2 - ADH, DDAVP,& ADH Receptor Antagonists",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(4)-Hypothalamic_&_Pituitary::4.1-ADH,DDAVP,_&_ADH_Receptor_Antagonists",
+        "$$GI_&_Endocrine",
+        "$Hypothalamic_&_Pituitary"
+    ],
+    "question": {
+        "text": "Where outside the kidney are V2 receptors found?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Vascular endothelium\n\n(Similar to endothelial M3 receptors which vasodilate by inducing NO release)\n\n[Image: 0087376dbb04ccfaf63b48824f2ec563240818d09f9477a99ee3cc377d8d3bb1]",
+        "imageIds": [
+            "0087376dbb04ccfaf63b48824f2ec563240818d09f9477a99ee3cc377d8d3bb1"
+        ]
+    },
+    "images": {
+        "0087376dbb04ccfaf63b48824f2ec563240818d09f9477a99ee3cc377d8d3bb1": {
+            "file": "images/0087376dbb04ccfaf63b48824f2ec563240818d09f9477a99ee3cc377d8d3bb1.jpg",
+            "filename": "paste-84829899063299.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 42491
+        }
+    }
+}

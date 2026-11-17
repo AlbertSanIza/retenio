@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476139074867",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476139074867",
+        "noteId": "1476138898498",
+        "noteGuid": "fK:F+/_9Ap",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::4 Hypothalamic & Pituitary::4.1 - Growth_Hormone,Mecasermin,Octreotide,Pegvisomant",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(4)-Hypothalamic_&_Pituitary::4.2-Growth_Hormone,Mecasermin,Octreotide,Pegvisomant",
+        "$$GI_&_Endocrine",
+        "$Hypothalamic_&_Pituitary"
+    ],
+    "question": {
+        "text": "What do you call it when an adult has a GH secreting tumor? A child?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Adult: Acromegaly\n(2) Child: Gigantism\n\n[Image: de2fab61708e3bb15b836a13955887fbd4f4fbb63d407099a02e7bc445a3d586]",
+        "imageIds": [
+            "de2fab61708e3bb15b836a13955887fbd4f4fbb63d407099a02e7bc445a3d586"
+        ]
+    },
+    "images": {
+        "de2fab61708e3bb15b836a13955887fbd4f4fbb63d407099a02e7bc445a3d586": {
+            "file": "images/de2fab61708e3bb15b836a13955887fbd4f4fbb63d407099a02e7bc445a3d586.jpg",
+            "filename": "paste-95515777695747.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 41541
+        }
+    }
+}

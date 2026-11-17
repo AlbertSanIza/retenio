@@ -1,0 +1,44 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480300461010",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480300461010",
+        "noteId": "1480299594760",
+        "noteGuid": "GX)zWO73Ma",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.2 - Nafcillin, Oxacillin, Methicillin & Dicloxacillin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.2-Nafcillin,Oxacillin,Methicillin,Dicloxacillin$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "Name 2 alternatives to Methicillin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Nafcillin\n(2) Oxacillin\n\n(And Dicloxacillin, etc.)\n\n[Image: 936af139ca7ffedebaf1bf1cd1852fa97a700d50330ad1d6aa293b199e597a2d]\n\n[Image: f9c499614d56240a3eed60a9b83ba4362da95e04957f1e6bc498de8144c81a76]",
+        "imageIds": [
+            "936af139ca7ffedebaf1bf1cd1852fa97a700d50330ad1d6aa293b199e597a2d",
+            "f9c499614d56240a3eed60a9b83ba4362da95e04957f1e6bc498de8144c81a76"
+        ]
+    },
+    "images": {
+        "936af139ca7ffedebaf1bf1cd1852fa97a700d50330ad1d6aa293b199e597a2d": {
+            "file": "images/936af139ca7ffedebaf1bf1cd1852fa97a700d50330ad1d6aa293b199e597a2d.jpg",
+            "filename": "paste-94046898880515.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 35171
+        },
+        "f9c499614d56240a3eed60a9b83ba4362da95e04957f1e6bc498de8144c81a76": {
+            "file": "images/f9c499614d56240a3eed60a9b83ba4362da95e04957f1e6bc498de8144c81a76.jpg",
+            "filename": "paste-94081258618883.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 35061
+        }
+    }
+}

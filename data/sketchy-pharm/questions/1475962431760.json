@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475962431760",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475962431760",
+        "noteId": "1475962037924",
+        "noteGuid": "LK=6#G=0_h",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.1 - Class I A-C",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.1-Class_I_(A-C)",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "Other than affecting Na+ channels, what is the MOA of class IA antiarrhythmics?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Inhibit K+ channels\n\n[Image: 06bdb62446db845898fa361a3c3155aaff4a9c45b9735cd5eec5ab0fbb14a5c6]",
+        "imageIds": [
+            "06bdb62446db845898fa361a3c3155aaff4a9c45b9735cd5eec5ab0fbb14a5c6"
+        ]
+    },
+    "images": {
+        "06bdb62446db845898fa361a3c3155aaff4a9c45b9735cd5eec5ab0fbb14a5c6": {
+            "file": "images/06bdb62446db845898fa361a3c3155aaff4a9c45b9735cd5eec5ab0fbb14a5c6.jpg",
+            "filename": "paste-26740466384899.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51961
+        }
+    }
+}

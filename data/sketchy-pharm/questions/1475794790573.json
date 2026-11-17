@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475794790573",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475794790573",
+        "noteId": "1475793971812",
+        "noteGuid": "lxQq)Zvao+",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.1 - SSRIs, SNRIs, cyproheptadine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.1-SSRIs,SNRIs,Cyproheptadine",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "Rapid withdrawal of SSRIs/SNRIs can cause what?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Flu-like symptoms\n\n[Image: 5ec3f26a12c2ec75e4b54d9fa6b0516489e6f2c9763b736eb682dd68f4172278]",
+        "imageIds": [
+            "5ec3f26a12c2ec75e4b54d9fa6b0516489e6f2c9763b736eb682dd68f4172278"
+        ]
+    },
+    "images": {
+        "5ec3f26a12c2ec75e4b54d9fa6b0516489e6f2c9763b736eb682dd68f4172278": {
+            "file": "images/5ec3f26a12c2ec75e4b54d9fa6b0516489e6f2c9763b736eb682dd68f4172278.jpg",
+            "filename": "paste-17489106829315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65858
+        }
+    }
+}

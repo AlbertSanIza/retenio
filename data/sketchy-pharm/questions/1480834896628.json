@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480834896628",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480834896628",
+        "noteId": "1480833587852",
+        "noteGuid": "uqQIy,Xsey",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::7 Antivirals: Hepatitis::7.2 - Ribavirin, sofosbuvir, simeprevir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(7)-Antivirals-Hepatitis::7.2-Ribavirin,Sofosbuvir,Simeprevir",
+        "$$Antimicrobials",
+        "$Antivirals_Hepatitis"
+    ],
+    "question": {
+        "text": "Adverse Effects (2) : Ribavirin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Hemolytic anemia\n(2) Teratogen\n\n(Hemolytic anemia is dose dependent)\n\n[Image: b5a8afea2c932f3495a18b9c714907ca339bd1e16fe599563ce410ecf170e6bd]\n\n[Image: c7d4055c1dee02d1db6b5879d1bb248d66473558511c4043d34ef8a4b10f3c6f]",
+        "imageIds": [
+            "b5a8afea2c932f3495a18b9c714907ca339bd1e16fe599563ce410ecf170e6bd",
+            "c7d4055c1dee02d1db6b5879d1bb248d66473558511c4043d34ef8a4b10f3c6f"
+        ]
+    },
+    "images": {
+        "b5a8afea2c932f3495a18b9c714907ca339bd1e16fe599563ce410ecf170e6bd": {
+            "file": "images/b5a8afea2c932f3495a18b9c714907ca339bd1e16fe599563ce410ecf170e6bd.jpg",
+            "filename": "paste-381513354969091.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46949
+        },
+        "c7d4055c1dee02d1db6b5879d1bb248d66473558511c4043d34ef8a4b10f3c6f": {
+            "file": "images/c7d4055c1dee02d1db6b5879d1bb248d66473558511c4043d34ef8a4b10f3c6f.jpg",
+            "filename": "paste-11476152614915.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 86105
+        }
+    }
+}

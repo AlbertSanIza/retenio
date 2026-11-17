@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1481677901447",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1481677901447",
+        "noteId": "1481676393166",
+        "noteGuid": "oJpn5okB#l",
+        "modelId": "1475688242543",
+        "templateOrdinal": 15
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::3 Anti-inflammatory::3.1 - NSAIDs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(3)-Anti-Inflammatory_Drugs::3.1-NSAIDs",
+        "$$Blood_&_Inflammation",
+        "$Anti-inflammatory"
+    ],
+    "question": {
+        "text": "Name 3 signs of aspirin toxicity",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Metabolic acidosis\n(2) Respiratory alkalosis\n\n(3) Tinnitus\n\n(+ Hyperthermia. Tinnitus presents first)\n\n[Image: 740d0933b96e1d0f2628a1e16d1cd4df60bef8e585701530aec13c7e114c1189]\n\n[Image: 5b2536bad88e7334122657f87b8676ff22c2d0f30292642cec5d335f634c43b8]\n\n[Image: f8181d9d2d828226a28327179348fa7427b9f547b82fe14acfe2f227f2f3d864]",
+        "imageIds": [
+            "740d0933b96e1d0f2628a1e16d1cd4df60bef8e585701530aec13c7e114c1189",
+            "5b2536bad88e7334122657f87b8676ff22c2d0f30292642cec5d335f634c43b8",
+            "f8181d9d2d828226a28327179348fa7427b9f547b82fe14acfe2f227f2f3d864"
+        ]
+    },
+    "images": {
+        "5b2536bad88e7334122657f87b8676ff22c2d0f30292642cec5d335f634c43b8": {
+            "file": "images/5b2536bad88e7334122657f87b8676ff22c2d0f30292642cec5d335f634c43b8.jpg",
+            "filename": "paste-115861037776899.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 105382
+        },
+        "740d0933b96e1d0f2628a1e16d1cd4df60bef8e585701530aec13c7e114c1189": {
+            "file": "images/740d0933b96e1d0f2628a1e16d1cd4df60bef8e585701530aec13c7e114c1189.jpg",
+            "filename": "paste-110071421861891.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 103619
+        },
+        "f8181d9d2d828226a28327179348fa7427b9f547b82fe14acfe2f227f2f3d864": {
+            "file": "images/f8181d9d2d828226a28327179348fa7427b9f547b82fe14acfe2f227f2f3d864.jpg",
+            "filename": "paste-120203249713155.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 105087
+        }
+    }
+}

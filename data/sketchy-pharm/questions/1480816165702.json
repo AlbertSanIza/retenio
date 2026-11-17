@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480816165702",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480816165702",
+        "noteId": "1480812867870",
+        "noteGuid": "B.#W9#QCRN",
+        "modelId": "1475688242543",
+        "templateOrdinal": 17
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::3 Antimycobacterials::3.1 - Tuberculosis Drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(3)-Antimycobacterials::3.1-Tuberculosis_Drugs",
+        "$$Antimicrobials",
+        "$Antimycobacterials"
+    ],
+    "question": {
+        "text": "Adverse Effect: Ethambutol",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Optic neuritis\n\n(Including red-green color blindness)\n\n[Image: ea3965aff61a7efa53cc9a5771a648740e72d65a882d4a3e82caaddfc6674cdf]",
+        "imageIds": [
+            "ea3965aff61a7efa53cc9a5771a648740e72d65a882d4a3e82caaddfc6674cdf"
+        ]
+    },
+    "images": {
+        "ea3965aff61a7efa53cc9a5771a648740e72d65a882d4a3e82caaddfc6674cdf": {
+            "file": "images/ea3965aff61a7efa53cc9a5771a648740e72d65a882d4a3e82caaddfc6674cdf.jpg",
+            "filename": "paste-183846075105283.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61733
+        }
+    }
+}

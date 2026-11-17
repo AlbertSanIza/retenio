@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475796463147",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475796463147",
+        "noteId": "1475795781882",
+        "noteGuid": "uOs}?_Z]ZW",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.3 - MAO inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.3-MAOIs",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "Are MAO inhibitors reversible or irreversible?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Irreversible\n\n[Image: 761f865274e34c3bd3b303087174b3066e25cb5008516b5571a6d81ce1132a86]",
+        "imageIds": [
+            "761f865274e34c3bd3b303087174b3066e25cb5008516b5571a6d81ce1132a86"
+        ]
+    },
+    "images": {
+        "761f865274e34c3bd3b303087174b3066e25cb5008516b5571a6d81ce1132a86": {
+            "file": "images/761f865274e34c3bd3b303087174b3066e25cb5008516b5571a6d81ce1132a86.jpg",
+            "filename": "paste-23484881174531.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 39464
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475964331509",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475964331509",
+        "noteId": "1475963419084",
+        "noteGuid": "tV}T0_?yzP",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.3 - Class III",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.3-Class_III",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "Which antiarrhythmic inhibits CYP-450?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Amiodorone\n\n[Image: 4b956f56d2582647d85ee2e1f82b222eeb02b312097996638fc6e5971a743b2e]",
+        "imageIds": [
+            "4b956f56d2582647d85ee2e1f82b222eeb02b312097996638fc6e5971a743b2e"
+        ]
+    },
+    "images": {
+        "4b956f56d2582647d85ee2e1f82b222eeb02b312097996638fc6e5971a743b2e": {
+            "file": "images/4b956f56d2582647d85ee2e1f82b222eeb02b312097996638fc6e5971a743b2e.jpg",
+            "filename": "paste-44354127265795.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59227
+        }
+    }
+}

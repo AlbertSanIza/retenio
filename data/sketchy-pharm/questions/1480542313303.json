@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480542313303",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480542313303",
+        "noteId": "1480541343233",
+        "noteGuid": "y1kneJEm(h",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.1 - Tetracyclines",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.1-Tetracyclines",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "Name 2 atypical (non-zoonotic) infections Tetracyclines are used to treat",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Chlamydia\n(2) Mycoplasma\n\n[Image: 319ab63eec15bd1750676b5a8dc0208a6c9f3961211bb810db799ee9b26e594b]\n\n[Image: f0e059a10f6a163a08661cd29845c6500600a58d64aec8a8a086a8da1cf5d098]\n\n[Image: 0725f99a17d4627eb89d2b856c7cb78bd8be03bba3dd7914e5265525b5ba1b37]",
+        "imageIds": [
+            "319ab63eec15bd1750676b5a8dc0208a6c9f3961211bb810db799ee9b26e594b",
+            "f0e059a10f6a163a08661cd29845c6500600a58d64aec8a8a086a8da1cf5d098",
+            "0725f99a17d4627eb89d2b856c7cb78bd8be03bba3dd7914e5265525b5ba1b37"
+        ]
+    },
+    "images": {
+        "0725f99a17d4627eb89d2b856c7cb78bd8be03bba3dd7914e5265525b5ba1b37": {
+            "file": "images/0725f99a17d4627eb89d2b856c7cb78bd8be03bba3dd7914e5265525b5ba1b37.jpg",
+            "filename": "paste-7271379632131 (2).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50383
+        },
+        "319ab63eec15bd1750676b5a8dc0208a6c9f3961211bb810db799ee9b26e594b": {
+            "file": "images/319ab63eec15bd1750676b5a8dc0208a6c9f3961211bb810db799ee9b26e594b.jpg",
+            "filename": "paste-7095285972995.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54748
+        },
+        "f0e059a10f6a163a08661cd29845c6500600a58d64aec8a8a086a8da1cf5d098": {
+            "file": "images/f0e059a10f6a163a08661cd29845c6500600a58d64aec8a8a086a8da1cf5d098.jpg",
+            "filename": "paste-7228429959171.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55628
+        }
+    }
+}

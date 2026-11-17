@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480833587620",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480833587620",
+        "noteId": "1480832933361",
+        "noteGuid": "tH&5`k/vx|",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::7 Antivirals: Hepatitis::7.1 - Interferon α, β, γ",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(7)-Antivirals-Hepatitis::7.1-Interferon_α,β,γ",
+        "$$Antimicrobials",
+        "$Antivirals_Hepatitis"
+    ],
+    "question": {
+        "text": "Name 3 neoplasms interferon-α been used to treat",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Hairy cell leukemia\n(2) Malignant melanoma\n\n(3) Renal cell carcinoma\n\n[Image: 3fc824a717c20507e8f3ab0cd07dd3ef7f169eb71a18705a95e56d9297244c71]\n\n[Image: 01225424ecc42f719a33ea81b0cfff3fc413c093b30454eb7e0eab7a0f06af27]",
+        "imageIds": [
+            "3fc824a717c20507e8f3ab0cd07dd3ef7f169eb71a18705a95e56d9297244c71",
+            "01225424ecc42f719a33ea81b0cfff3fc413c093b30454eb7e0eab7a0f06af27"
+        ]
+    },
+    "images": {
+        "01225424ecc42f719a33ea81b0cfff3fc413c093b30454eb7e0eab7a0f06af27": {
+            "file": "images/01225424ecc42f719a33ea81b0cfff3fc413c093b30454eb7e0eab7a0f06af27.jpg",
+            "filename": "paste-377935647211523.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45645
+        },
+        "3fc824a717c20507e8f3ab0cd07dd3ef7f169eb71a18705a95e56d9297244c71": {
+            "file": "images/3fc824a717c20507e8f3ab0cd07dd3ef7f169eb71a18705a95e56d9297244c71.jpg",
+            "filename": "paste-377785323356163.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45980
+        }
+    }
+}

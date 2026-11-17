@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480299594636",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480299594636",
+        "noteId": "1480298206862",
+        "noteGuid": "n}<zAn6=@Y",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.3 - Opiates, naloxone, naltrexone",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.3-Opiates,Naloxone,Naltrexone",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "Name a long acting full μ-agonist used to attenuate withdrawal symptoms",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Methadone\n\n[Image: 81e7d996b02c83eaf6c154c94e9975a144d5d63cff0c05c422df8f9840a3c954]\n\n[Image: 10a2a8d583282e9057e51e98bc50e206689842d933ee9a5ee58a33c84afd4d37]",
+        "imageIds": [
+            "81e7d996b02c83eaf6c154c94e9975a144d5d63cff0c05c422df8f9840a3c954",
+            "10a2a8d583282e9057e51e98bc50e206689842d933ee9a5ee58a33c84afd4d37"
+        ]
+    },
+    "images": {
+        "10a2a8d583282e9057e51e98bc50e206689842d933ee9a5ee58a33c84afd4d37": {
+            "file": "images/10a2a8d583282e9057e51e98bc50e206689842d933ee9a5ee58a33c84afd4d37.jpg",
+            "filename": "paste-92264487452675.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55172
+        },
+        "81e7d996b02c83eaf6c154c94e9975a144d5d63cff0c05c422df8f9840a3c954": {
+            "file": "images/81e7d996b02c83eaf6c154c94e9975a144d5d63cff0c05c422df8f9840a3c954.jpg",
+            "filename": "paste-92075508891651.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63360
+        }
+    }
+}

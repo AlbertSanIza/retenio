@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475692356456",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475692356456",
+        "noteId": "1475692048852",
+        "noteGuid": "uAHoblM$cT",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::1 Heart Failure Drugs::1.2 - ACE inhibitors, ARBs, Aliskiren",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(1)-Heart_Failure_Drugs::1.2-ACE_Inhibitors,ARBs,Aliskiren",
+        "$$Cardiovascular_&_Renal",
+        "$HeartFailureDrugs"
+    ],
+    "question": {
+        "text": "What effect does Angiotensin II have on renal electrolyte handling?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "↑ Na+/HCO3- in PCT\n\n[Image: d0cbdb9c15358960ceb905ce93a42e18fd43bcd0b4126150a6b848222ad26fb6]",
+        "imageIds": [
+            "d0cbdb9c15358960ceb905ce93a42e18fd43bcd0b4126150a6b848222ad26fb6"
+        ]
+    },
+    "images": {
+        "d0cbdb9c15358960ceb905ce93a42e18fd43bcd0b4126150a6b848222ad26fb6": {
+            "file": "images/d0cbdb9c15358960ceb905ce93a42e18fd43bcd0b4126150a6b848222ad26fb6.jpg",
+            "filename": "paste-49224620179459.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46312
+        }
+    }
+}

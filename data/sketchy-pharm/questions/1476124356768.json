@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476124356768",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476124356768",
+        "noteId": "1476123573815",
+        "noteGuid": "k=!B>3>6eG",
+        "modelId": "1475688242543",
+        "templateOrdinal": 27
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::2 Diabetes::2.1 - Insulin, Sulfonylureas, Meglitinides, GLP-1 Agonists, DPP-4 Inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(2)-Diabetes::2.1-Insulin,Sulfonylureas,Meglitinides,GLP-1_Agonists,DPP-4_Inhibitors",
+        "$$GI_&_Endocrine",
+        "$Diabetes"
+    ],
+    "question": {
+        "text": "Which diabetes drugs do not cause hypoglycemia?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) GLP-1 analogs\n(2) DDP-4 inhibitors\n\n(∵ Effects are glucose dependent, diminishing as glucose levels approach normal)\n\n[Image: fdb6e46e11a901b75a7b55d54c3949b27262f544ce80a3743b90437786a25c77]",
+        "imageIds": [
+            "fdb6e46e11a901b75a7b55d54c3949b27262f544ce80a3743b90437786a25c77"
+        ]
+    },
+    "images": {
+        "fdb6e46e11a901b75a7b55d54c3949b27262f544ce80a3743b90437786a25c77": {
+            "file": "images/fdb6e46e11a901b75a7b55d54c3949b27262f544ce80a3743b90437786a25c77.jpg",
+            "filename": "paste-49014166781955.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54444
+        }
+    }
+}

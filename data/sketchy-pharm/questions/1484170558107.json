@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484170558107",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484170558107",
+        "noteId": "1484169055669",
+        "noteGuid": "QrQ#;bxg=`",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.1 - Propofol, etomidate, ketamine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.1-Propofol,Etomidate,Ketamine",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "Name 5 IV anesthetics",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Propofol\n(2) Etomidate\n\n(3) Ketamine\n\n(4) Benzodiazepines\n\n(5) Barbituates\n\n[Image: 6df44ffa311e9bb93f4e79e2ad4de6e8980fb41ceac802ec8ae72c0cb0a4edc6]\n\n[Image: 8cfb96d019eb2f83c7587cebd994c74019b132a1222ac9a7dc3445eddeb86672]\n\n[Image: 2d2bca1b6117e138aec087d41f942e0a7968dafa59e386efc88d028aafcaab9c]\n\n[Image: 7bbcb99ca2654e24c7ea6c2ea701fa126be5813bc2930831a9d7ead1671f47af]\n\n[Image: f41516c42d1d54cef0669692f6a7716cbdf5f0c4f064ea264d1a02c9430ee462]",
+        "imageIds": [
+            "6df44ffa311e9bb93f4e79e2ad4de6e8980fb41ceac802ec8ae72c0cb0a4edc6",
+            "8cfb96d019eb2f83c7587cebd994c74019b132a1222ac9a7dc3445eddeb86672",
+            "2d2bca1b6117e138aec087d41f942e0a7968dafa59e386efc88d028aafcaab9c",
+            "7bbcb99ca2654e24c7ea6c2ea701fa126be5813bc2930831a9d7ead1671f47af",
+            "f41516c42d1d54cef0669692f6a7716cbdf5f0c4f064ea264d1a02c9430ee462"
+        ]
+    },
+    "images": {
+        "2d2bca1b6117e138aec087d41f942e0a7968dafa59e386efc88d028aafcaab9c": {
+            "file": "images/2d2bca1b6117e138aec087d41f942e0a7968dafa59e386efc88d028aafcaab9c.jpg",
+            "filename": "paste-500849021288451.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 84305
+        },
+        "6df44ffa311e9bb93f4e79e2ad4de6e8980fb41ceac802ec8ae72c0cb0a4edc6": {
+            "file": "images/6df44ffa311e9bb93f4e79e2ad4de6e8980fb41ceac802ec8ae72c0cb0a4edc6.jpg",
+            "filename": "paste-500629977956355.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 68571
+        },
+        "7bbcb99ca2654e24c7ea6c2ea701fa126be5813bc2930831a9d7ead1671f47af": {
+            "file": "images/7bbcb99ca2654e24c7ea6c2ea701fa126be5813bc2930831a9d7ead1671f47af.jpg",
+            "filename": "paste-500982165274627.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65938
+        },
+        "8cfb96d019eb2f83c7587cebd994c74019b132a1222ac9a7dc3445eddeb86672": {
+            "file": "images/8cfb96d019eb2f83c7587cebd994c74019b132a1222ac9a7dc3445eddeb86672.jpg",
+            "filename": "paste-500758826975235.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 80341
+        },
+        "f41516c42d1d54cef0669692f6a7716cbdf5f0c4f064ea264d1a02c9430ee462": {
+            "file": "images/f41516c42d1d54cef0669692f6a7716cbdf5f0c4f064ea264d1a02c9430ee462.jpg",
+            "filename": "paste-501046589784067.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61583
+        }
+    }
+}

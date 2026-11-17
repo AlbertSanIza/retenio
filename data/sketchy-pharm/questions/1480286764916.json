@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480286764916",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480286764916",
+        "noteId": "1480285917662",
+        "noteGuid": "BKzdsM>lW[",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::3 Kinase Inhibitors & Monoclonal Antibodies\n::3.2 - Rituximab, cetuximab, bevacizumab, alemtuzumab, trastuzumab",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(3)-Kinase_Inhibitors_&_Monoclonal_Abs::3.2-Rituximab,Cetuximab,Bevacizumab,Alemtuzumab,Trastuzumab",
+        "$$Antineoplastics",
+        "$Kinase_Inhibitors_&_MonoclonalAbsbb"
+    ],
+    "question": {
+        "text": "Suffix: Chimeric monoclonal antibodies",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "\"-uximab\"\n\n[Image: 46fb2337a94dc23ae255fda6f9ee6c6ad52c96d4ed7b1ce50226cb1d45a30447]",
+        "imageIds": [
+            "46fb2337a94dc23ae255fda6f9ee6c6ad52c96d4ed7b1ce50226cb1d45a30447"
+        ]
+    },
+    "images": {
+        "46fb2337a94dc23ae255fda6f9ee6c6ad52c96d4ed7b1ce50226cb1d45a30447": {
+            "file": "images/46fb2337a94dc23ae255fda6f9ee6c6ad52c96d4ed7b1ce50226cb1d45a30447.jpg",
+            "filename": "paste-10608569221123.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43079
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476057868175",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476057868175",
+        "noteId": "1476057511630",
+        "noteGuid": "DX{(cXG7Pq",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::2 Allergy & Pulmonary::2.2 - Asthma therapy",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(2)-Allergy_&_Pulmonary::2.2-Asthma_Therapy",
+        "$$Smooth_Muscle",
+        "$Allergy&Pulmonary"
+    ],
+    "question": {
+        "text": "Adverse Effect: Inhaled corticosteroids",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Oral candidiasis\n\n(Inhaled steroids are not absorbed systemically ∴ they avoid systemic effects)\n\n[Image: 9a3997d7359792d18b072c147e7b805a52726953577e7c191c571c75d715ce1f]",
+        "imageIds": [
+            "9a3997d7359792d18b072c147e7b805a52726953577e7c191c571c75d715ce1f"
+        ]
+    },
+    "images": {
+        "9a3997d7359792d18b072c147e7b805a52726953577e7c191c571c75d715ce1f": {
+            "file": "images/9a3997d7359792d18b072c147e7b805a52726953577e7c191c571c75d715ce1f.jpg",
+            "filename": "paste-22776211570691.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66726
+        }
+    }
+}

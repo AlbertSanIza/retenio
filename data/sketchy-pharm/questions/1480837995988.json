@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480837995988",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480837995988",
+        "noteId": "1480837653001",
+        "noteGuid": "PaSdeX5^)E",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::8 Antivirals: other::8.2 - Ganciclovir, valganciclovir, foscarnet, cidofovir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(8)-Antivirals-Other::8.2-Ganciclovir,Valganciclovir,Foscarnet,Cidofovir",
+        "$$Antimicrobials",
+        "$Antivirals_Others"
+    ],
+    "question": {
+        "text": "CD4: CMV",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "CD4 < 50\n\n[Image: 9825314835de54fc3cc14b4cecc8f747d2c6b530b3455a3aeab62d9e1f30d6ef]",
+        "imageIds": [
+            "9825314835de54fc3cc14b4cecc8f747d2c6b530b3455a3aeab62d9e1f30d6ef"
+        ]
+    },
+    "images": {
+        "9825314835de54fc3cc14b4cecc8f747d2c6b530b3455a3aeab62d9e1f30d6ef": {
+            "file": "images/9825314835de54fc3cc14b4cecc8f747d2c6b530b3455a3aeab62d9e1f30d6ef.jpg",
+            "filename": "paste-407910223970307.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 41947
+        }
+    }
+}

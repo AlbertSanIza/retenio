@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480291745066",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480291745066",
+        "noteId": "1480291378231",
+        "noteGuid": "kQ,lW$HiT;",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.4 - Etoposide, teniposide, topotecan, irinotecan",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(2)-DNA_&_Cellular_Division::2.4-Etoposide,Teniposide,Topotecan,Irinotecan",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "MOA: Irinotecan",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Inhibits Topoisomerase I\n\n[Image: c37b3677f85cbca8cd95d178c9925896d85b2a954a3de9d5f870343a51d283ba]",
+        "imageIds": [
+            "c37b3677f85cbca8cd95d178c9925896d85b2a954a3de9d5f870343a51d283ba"
+        ]
+    },
+    "images": {
+        "c37b3677f85cbca8cd95d178c9925896d85b2a954a3de9d5f870343a51d283ba": {
+            "file": "images/c37b3677f85cbca8cd95d178c9925896d85b2a954a3de9d5f870343a51d283ba.jpg",
+            "filename": "paste-16819091931139.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57272
+        }
+    }
+}

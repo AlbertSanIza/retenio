@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484171879439",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484171879439",
+        "noteId": "1484170558195",
+        "noteGuid": "IPW<ydy+.t",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.2 - Inhaled anesthetics, dantrolene",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.2-Inhaled_Anesthetics,Dantrolene",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "Name an NMJ antagonist which can cause malignant hyperthermia",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Succinylcholine\n\n[Image: 901a0b720d2b51df23e523a3731ad59c5811dfac0f3464d1ec92841aa1773154]",
+        "imageIds": [
+            "901a0b720d2b51df23e523a3731ad59c5811dfac0f3464d1ec92841aa1773154"
+        ]
+    },
+    "images": {
+        "901a0b720d2b51df23e523a3731ad59c5811dfac0f3464d1ec92841aa1773154": {
+            "file": "images/901a0b720d2b51df23e523a3731ad59c5811dfac0f3464d1ec92841aa1773154.jpg",
+            "filename": "paste-583587271278595.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 77235
+        }
+    }
+}

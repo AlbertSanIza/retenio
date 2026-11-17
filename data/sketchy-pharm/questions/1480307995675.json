@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480307995675",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480307995675",
+        "noteId": "1480306961331",
+        "noteGuid": "Lpn4BX|*1X",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.1 - NRTIs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.1-NRTIs",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "Which NRTIs are associated with lipodystrophy?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Zidovudine\n(2) Stavudine\n\n[Image: 910130ac336b5384e6391806741469468d702666916d203267a3dfdc73a2367b]\n\n[Image: 23d9e93e9782c4f90a4bafc798dbf87ea6fd1656678d937b26272a0c7be8de39]",
+        "imageIds": [
+            "910130ac336b5384e6391806741469468d702666916d203267a3dfdc73a2367b",
+            "23d9e93e9782c4f90a4bafc798dbf87ea6fd1656678d937b26272a0c7be8de39"
+        ]
+    },
+    "images": {
+        "23d9e93e9782c4f90a4bafc798dbf87ea6fd1656678d937b26272a0c7be8de39": {
+            "file": "images/23d9e93e9782c4f90a4bafc798dbf87ea6fd1656678d937b26272a0c7be8de39.jpg",
+            "filename": "paste-117828132798467.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62056
+        },
+        "910130ac336b5384e6391806741469468d702666916d203267a3dfdc73a2367b": {
+            "file": "images/910130ac336b5384e6391806741469468d702666916d203267a3dfdc73a2367b.jpg",
+            "filename": "paste-117621974368259.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63882
+        }
+    }
+}

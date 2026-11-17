@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480290406518",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480290406518",
+        "noteId": "1480289740188",
+        "noteGuid": "yRA]LR7@/u",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.3 - Bleomycin, doxorubicin, daunorubicin, actinomycin D",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(2)-DNA_&_Cellular_Division::2.3-Bleomycin,Doxorubicin,Daunorubicin,Actinomycin_D",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "Adverse Effects (4) : Bleomycin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Pulmonary toxicity\n(2) Skin toxicity\n\n(3) Stomatitis/Mucositis\n\n(4) Alopecia\n\n(Bleomycin is activated by oxygen ∴ highly oxygenated environment of lung predisposes to collateral damage)\n\n[Image: fb71b5cf323f6001fe93b0ac029cafcc2bd08ab9e03496832f559825d2b3d010]\n\n[Image: edffafcf1984e445c0d4e0f91e1df9bce4af7db401742a71dbedd66115ec99e4]\n\n[Image: 9ecdfb1ded8ae0e86cffabc256e2b41900e6bfea3a22de9c0b00a96f388cb89d]",
+        "imageIds": [
+            "fb71b5cf323f6001fe93b0ac029cafcc2bd08ab9e03496832f559825d2b3d010",
+            "edffafcf1984e445c0d4e0f91e1df9bce4af7db401742a71dbedd66115ec99e4",
+            "9ecdfb1ded8ae0e86cffabc256e2b41900e6bfea3a22de9c0b00a96f388cb89d"
+        ]
+    },
+    "images": {
+        "9ecdfb1ded8ae0e86cffabc256e2b41900e6bfea3a22de9c0b00a96f388cb89d": {
+            "file": "images/9ecdfb1ded8ae0e86cffabc256e2b41900e6bfea3a22de9c0b00a96f388cb89d.jpg",
+            "filename": "paste-41845866364931.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48628
+        },
+        "edffafcf1984e445c0d4e0f91e1df9bce4af7db401742a71dbedd66115ec99e4": {
+            "file": "images/edffafcf1984e445c0d4e0f91e1df9bce4af7db401742a71dbedd66115ec99e4.jpg",
+            "filename": "paste-41639707934723.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46379
+        },
+        "fb71b5cf323f6001fe93b0ac029cafcc2bd08ab9e03496832f559825d2b3d010": {
+            "file": "images/fb71b5cf323f6001fe93b0ac029cafcc2bd08ab9e03496832f559825d2b3d010.jpg",
+            "filename": "paste-41553808588803.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48048
+        }
+    }
+}

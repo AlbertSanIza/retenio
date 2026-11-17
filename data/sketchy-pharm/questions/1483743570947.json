@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1483743570947",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1483743570947",
+        "noteId": "1475731410843",
+        "noteGuid": "KE^F%)4EQ[",
+        "modelId": "1475688242543",
+        "templateOrdinal": 12
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.4 - Beta blockers",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.4-Beta_Drugs",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "How can you identify a β1 selective antagonist?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Name start with A-BEAM\n\n(Note: Nevbivolol is the exception. However, it's memorable as it also induces NO release)\n\n[Image: d74ffc12bb9e22da0366815c6cb673016feec7d36a2943748fe8f7bb4b157767]",
+        "imageIds": [
+            "d74ffc12bb9e22da0366815c6cb673016feec7d36a2943748fe8f7bb4b157767"
+        ]
+    },
+    "images": {
+        "d74ffc12bb9e22da0366815c6cb673016feec7d36a2943748fe8f7bb4b157767": {
+            "file": "images/d74ffc12bb9e22da0366815c6cb673016feec7d36a2943748fe8f7bb4b157767.jpg",
+            "filename": "paste-263504833544195.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 80039
+        }
+    }
+}

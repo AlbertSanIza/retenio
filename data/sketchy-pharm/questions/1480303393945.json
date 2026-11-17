@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480303393945",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480303393945",
+        "noteId": "1480302756081",
+        "noteGuid": "G@alyBYtFv",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.5 - Monobactams & Carbapenems",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.5-Monobactams_&_Carbapenems",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "What antibiotic should you use when infection is resistant to multiple other treatments?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Carbapenems\n\n[Image: 2f13774e18d3a75e706fbc960bab5430a8521a313e79834f1da06272fbd4fa52]",
+        "imageIds": [
+            "2f13774e18d3a75e706fbc960bab5430a8521a313e79834f1da06272fbd4fa52"
+        ]
+    },
+    "images": {
+        "2f13774e18d3a75e706fbc960bab5430a8521a313e79834f1da06272fbd4fa52": {
+            "file": "images/2f13774e18d3a75e706fbc960bab5430a8521a313e79834f1da06272fbd4fa52.jpg",
+            "filename": "paste-104170136797187.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43736
+        }
+    }
+}

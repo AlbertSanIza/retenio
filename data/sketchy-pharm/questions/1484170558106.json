@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484170558106",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484170558106",
+        "noteId": "1484169055669",
+        "noteGuid": "QrQ#;bxg=`",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.1 - Propofol, etomidate, ketamine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.1-Propofol,Etomidate,Ketamine",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "What aspect of anesthesia can barbituates be used for?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Induction\n\n[Image: 3ce34040ed38633d42d0f52ef165ff1f888d1890f9708f999c87d80b52dac0db]",
+        "imageIds": [
+            "3ce34040ed38633d42d0f52ef165ff1f888d1890f9708f999c87d80b52dac0db"
+        ]
+    },
+    "images": {
+        "3ce34040ed38633d42d0f52ef165ff1f888d1890f9708f999c87d80b52dac0db": {
+            "file": "images/3ce34040ed38633d42d0f52ef165ff1f888d1890f9708f999c87d80b52dac0db.jpg",
+            "filename": "paste-498834681626627.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 72388
+        }
+    }
+}

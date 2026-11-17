@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1489381099414",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1489381099414",
+        "noteId": "1489377832406",
+        "noteGuid": "qXy^sYw?Ac",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.3 - Teriparatide, Vitamin D, Cinacalcet, Sevelamer",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.3-Teriparatide,Vitamin_D,Cinacalcet,Sevelamer",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "What are the source(s) of Vitamin D2?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Plants\n\n[Image: 17471a58e05b2d818e187adf465dbf7f61ed0a49bdb983e4aa83d2e2c9acc1ac]",
+        "imageIds": [
+            "17471a58e05b2d818e187adf465dbf7f61ed0a49bdb983e4aa83d2e2c9acc1ac"
+        ]
+    },
+    "images": {
+        "17471a58e05b2d818e187adf465dbf7f61ed0a49bdb983e4aa83d2e2c9acc1ac": {
+            "file": "images/17471a58e05b2d818e187adf465dbf7f61ed0a49bdb983e4aa83d2e2c9acc1ac.jpg",
+            "filename": "paste-67053029425155.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 71972
+        }
+    }
+}

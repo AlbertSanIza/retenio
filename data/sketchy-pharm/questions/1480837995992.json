@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480837995992",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480837995992",
+        "noteId": "1480837653001",
+        "noteGuid": "PaSdeX5^)E",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::8 Antivirals: other::8.2 - Ganciclovir, valganciclovir, foscarnet, cidofovir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(8)-Antivirals-Other::8.2-Ganciclovir,Valganciclovir,Foscarnet,Cidofovir",
+        "$$Antimicrobials",
+        "$Antivirals_Others"
+    ],
+    "question": {
+        "text": "What enzyme activates Ganciclovir?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Viral Kinase UL97\n\n(For first phosphorylation, then cellular kinase for second and third)\n\n[Image: 382f37035c3ae8b4d88115ae0dab493c84a2062f9bb7b188c2bb00da58d91503]\n\n[Image: ccbd02a215806129e4dfbe861a9f844051ac07f5cbddebe85ef539174c8b8672]",
+        "imageIds": [
+            "382f37035c3ae8b4d88115ae0dab493c84a2062f9bb7b188c2bb00da58d91503",
+            "ccbd02a215806129e4dfbe861a9f844051ac07f5cbddebe85ef539174c8b8672"
+        ]
+    },
+    "images": {
+        "382f37035c3ae8b4d88115ae0dab493c84a2062f9bb7b188c2bb00da58d91503": {
+            "file": "images/382f37035c3ae8b4d88115ae0dab493c84a2062f9bb7b188c2bb00da58d91503.jpg",
+            "filename": "paste-408047662923779.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50071
+        },
+        "ccbd02a215806129e4dfbe861a9f844051ac07f5cbddebe85ef539174c8b8672": {
+            "file": "images/ccbd02a215806129e4dfbe861a9f844051ac07f5cbddebe85ef539174c8b8672.jpg",
+            "filename": "paste-408374080438275.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51246
+        }
+    }
+}

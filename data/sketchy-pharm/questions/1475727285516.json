@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475727285516",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475727285516",
+        "noteId": "1475726464638",
+        "noteGuid": "JpARMA.2Xe",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::1 Parasympathetic::1.1 - Cholinomimetics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(1)-Parasympathetics::1.1-Cholinomimetics",
+        "$$Autonomic_Drugs",
+        "$Parasympathetics"
+    ],
+    "question": {
+        "text": "MOA: Varenicline",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Nicotinic receptor PARTIAL agonist\n\n[Image: a9c055450e0c791bc3b341253194e52d6562bbee051bdfed072986d920a8bbd4]",
+        "imageIds": [
+            "a9c055450e0c791bc3b341253194e52d6562bbee051bdfed072986d920a8bbd4"
+        ]
+    },
+    "images": {
+        "a9c055450e0c791bc3b341253194e52d6562bbee051bdfed072986d920a8bbd4": {
+            "file": "images/a9c055450e0c791bc3b341253194e52d6562bbee051bdfed072986d920a8bbd4.jpg",
+            "filename": "paste-428745110323203.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 87015
+        }
+    }
+}

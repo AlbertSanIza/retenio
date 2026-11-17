@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476235253623",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476235253623",
+        "noteId": "1476235100464",
+        "noteGuid": "vE5{@SswBz",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.2 - Loop diuretics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.2-Loop_Diuretics",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "Which class of pain medication can interfere with loop diuretics?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "NSAIDs\n\n[Image: 53576c9febc16250a6ba203588cb4554197dff813f0554176511336b5d1724d8]\n\n[Image: 7676c42a46d47afe97bf8b09e18b3de8e4f7f7e0d59d87ab41731322cb237b2a]",
+        "imageIds": [
+            "53576c9febc16250a6ba203588cb4554197dff813f0554176511336b5d1724d8",
+            "7676c42a46d47afe97bf8b09e18b3de8e4f7f7e0d59d87ab41731322cb237b2a"
+        ]
+    },
+    "images": {
+        "53576c9febc16250a6ba203588cb4554197dff813f0554176511336b5d1724d8": {
+            "file": "images/53576c9febc16250a6ba203588cb4554197dff813f0554176511336b5d1724d8.jpg",
+            "filename": "paste-21565030793219.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63308
+        },
+        "7676c42a46d47afe97bf8b09e18b3de8e4f7f7e0d59d87ab41731322cb237b2a": {
+            "file": "images/7676c42a46d47afe97bf8b09e18b3de8e4f7f7e0d59d87ab41731322cb237b2a.jpg",
+            "filename": "paste-21947282882563.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65242
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476128325376",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476128325376",
+        "noteId": "1476127443039",
+        "noteGuid": "k+=G!`Nk3M",
+        "modelId": "1475688242543",
+        "templateOrdinal": 18
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::2 Diabetes::2.2 - Metformin,Thiazolidinediones, Pramlintide, SGLT-2 Inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(2)-Diabetes::2.2-Metformin,Thiazolidinediones,Pramlintide,SGLT-2_Inhibitors",
+        "$$GI_&_Endocrine",
+        "$Diabetes"
+    ],
+    "question": {
+        "text": "Adverse Effects (3) : SGLT2 inhibitors",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) ↑ Frequency of urination\n(2) UTIs\n\n(3) ↑ Risk of vaginal candidiasis\n\n(↑ Urination ⇒ Hypotension)\n\n[Image: 476fee2da7e5c5af5d95e9cdb728e8ab8b6ed130815c4a71fef3534d92717edf]\n\n[Image: c9c5a362ac4340412aed441be918d93555650e9533a6573affb7e0acfbaf3507]\n\n[Image: c43b046d24b4061f9a17394e362d505fb76149cfed0e0625f26d682bb27715cb]",
+        "imageIds": [
+            "476fee2da7e5c5af5d95e9cdb728e8ab8b6ed130815c4a71fef3534d92717edf",
+            "c9c5a362ac4340412aed441be918d93555650e9533a6573affb7e0acfbaf3507",
+            "c43b046d24b4061f9a17394e362d505fb76149cfed0e0625f26d682bb27715cb"
+        ]
+    },
+    "images": {
+        "476fee2da7e5c5af5d95e9cdb728e8ab8b6ed130815c4a71fef3534d92717edf": {
+            "file": "images/476fee2da7e5c5af5d95e9cdb728e8ab8b6ed130815c4a71fef3534d92717edf.jpg",
+            "filename": "paste-79654463471619.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61700
+        },
+        "c43b046d24b4061f9a17394e362d505fb76149cfed0e0625f26d682bb27715cb": {
+            "file": "images/c43b046d24b4061f9a17394e362d505fb76149cfed0e0625f26d682bb27715cb.jpg",
+            "filename": "paste-80006650789891.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50878
+        },
+        "c9c5a362ac4340412aed441be918d93555650e9533a6573affb7e0acfbaf3507": {
+            "file": "images/c9c5a362ac4340412aed441be918d93555650e9533a6573affb7e0acfbaf3507.jpg",
+            "filename": "paste-79959406149635.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60336
+        }
+    }
+}

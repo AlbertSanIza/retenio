@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480834896620",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480834896620",
+        "noteId": "1480833587852",
+        "noteGuid": "uqQIy,Xsey",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::7 Antivirals: Hepatitis::7.2 - Ribavirin, sofosbuvir, simeprevir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(7)-Antivirals-Hepatitis::7.2-Ribavirin,Sofosbuvir,Simeprevir",
+        "$$Antimicrobials",
+        "$Antivirals_Hepatitis"
+    ],
+    "question": {
+        "text": "Prior to beginning treatment for Hepatitis C, what must be assessed?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Extent of liver fibrosis\n\n[Image: 69f5a0056fb4062fe2a8d561771f006119b55da79dcc18b886e808254b9731ac]",
+        "imageIds": [
+            "69f5a0056fb4062fe2a8d561771f006119b55da79dcc18b886e808254b9731ac"
+        ]
+    },
+    "images": {
+        "69f5a0056fb4062fe2a8d561771f006119b55da79dcc18b886e808254b9731ac": {
+            "file": "images/69f5a0056fb4062fe2a8d561771f006119b55da79dcc18b886e808254b9731ac.jpg",
+            "filename": "paste-380254929551363.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 35511
+        }
+    }
+}

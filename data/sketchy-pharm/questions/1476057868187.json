@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476057868187",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476057868187",
+        "noteId": "1476057511630",
+        "noteGuid": "DX{(cXG7Pq",
+        "modelId": "1475688242543",
+        "templateOrdinal": 16
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::2 Allergy & Pulmonary::2.2 - Asthma therapy",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(2)-Allergy_&_Pulmonary::2.2-Asthma_Therapy",
+        "$$Smooth_Muscle",
+        "$Allergy&Pulmonary"
+    ],
+    "question": {
+        "text": "Adverse Effects (2) : Methylxanthines",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) CNS effects incl. tremor\n(2) Tachycardia\n\n[Image: 99de9e2537f2f4d709c40175f6568bf227480dc04bc00f49f694b28adb80b3da]\n\n[Image: 9baf64ac1de0ccbfb7c84f9af745bb23a2d82cb12a91b64622f44d93df24ad38]",
+        "imageIds": [
+            "99de9e2537f2f4d709c40175f6568bf227480dc04bc00f49f694b28adb80b3da",
+            "9baf64ac1de0ccbfb7c84f9af745bb23a2d82cb12a91b64622f44d93df24ad38"
+        ]
+    },
+    "images": {
+        "99de9e2537f2f4d709c40175f6568bf227480dc04bc00f49f694b28adb80b3da": {
+            "file": "images/99de9e2537f2f4d709c40175f6568bf227480dc04bc00f49f694b28adb80b3da.jpg",
+            "filename": "paste-26328149524483.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 68819
+        },
+        "9baf64ac1de0ccbfb7c84f9af745bb23a2d82cb12a91b64622f44d93df24ad38": {
+            "file": "images/9baf64ac1de0ccbfb7c84f9af745bb23a2d82cb12a91b64622f44d93df24ad38.jpg",
+            "filename": "paste-26409753903107 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 67085
+        }
+    }
+}

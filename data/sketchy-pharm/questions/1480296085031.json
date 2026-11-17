@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480296085031",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480296085031",
+        "noteId": "1480295213390",
+        "noteGuid": "N?I@y:78Z^",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::1 Antimetabolites::1.2 - Azathioprine, 6-mercaptopurine, mycophenolate mofetil",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(1)-Antimetabolites::1.2-AZA,6-MP,Mycophenolate",
+        "$$Antineoplastics",
+        "$Antimetabolites"
+    ],
+    "question": {
+        "text": "Adverse Effects (4) : AZA/6-MP",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Myelosuppression\n(2) ⇒ Immunosuppression\n\n(3) Pancreatitis\n\n(4) Hepatitis\n\n[Image: 68c5fe9563f1aa440cc61b903d0e65a34867373221a93661fb7cd209b5917b70]\n\n[Image: 0c4c59be698c70c5f45f57d4803c5aa654699ca587355c7de7626e724d24e819]\n\n[Image: 1c06a51277b3589cbd1b85fb5f56ab68fd20882e3d07309ad11929aa40b857fb]\n\n[Image: accbb184773fc58cf7463017bc1ae19caea0ea5e15ffc454c1f129019aab2400]",
+        "imageIds": [
+            "68c5fe9563f1aa440cc61b903d0e65a34867373221a93661fb7cd209b5917b70",
+            "0c4c59be698c70c5f45f57d4803c5aa654699ca587355c7de7626e724d24e819",
+            "1c06a51277b3589cbd1b85fb5f56ab68fd20882e3d07309ad11929aa40b857fb",
+            "accbb184773fc58cf7463017bc1ae19caea0ea5e15ffc454c1f129019aab2400"
+        ]
+    },
+    "images": {
+        "0c4c59be698c70c5f45f57d4803c5aa654699ca587355c7de7626e724d24e819": {
+            "file": "images/0c4c59be698c70c5f45f57d4803c5aa654699ca587355c7de7626e724d24e819.jpg",
+            "filename": "paste-47807280971779.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62671
+        },
+        "1c06a51277b3589cbd1b85fb5f56ab68fd20882e3d07309ad11929aa40b857fb": {
+            "file": "images/1c06a51277b3589cbd1b85fb5f56ab68fd20882e3d07309ad11929aa40b857fb.jpg",
+            "filename": "paste-47983374630915.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60459
+        },
+        "68c5fe9563f1aa440cc61b903d0e65a34867373221a93661fb7cd209b5917b70": {
+            "file": "images/68c5fe9563f1aa440cc61b903d0e65a34867373221a93661fb7cd209b5917b70.jpg",
+            "filename": "paste-47669842018307.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62368
+        },
+        "accbb184773fc58cf7463017bc1ae19caea0ea5e15ffc454c1f129019aab2400": {
+            "file": "images/accbb184773fc58cf7463017bc1ae19caea0ea5e15ffc454c1f129019aab2400.jpg",
+            "filename": "paste-48120813584387.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61631
+        }
+    }
+}

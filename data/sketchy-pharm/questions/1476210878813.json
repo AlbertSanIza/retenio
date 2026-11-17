@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476210878813",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476210878813",
+        "noteId": "1476210297974",
+        "noteGuid": "n:FNxZoP&d",
+        "modelId": "1475688242543",
+        "templateOrdinal": 12
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.1 - Acetazolamide, mannitol",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.1-Acetazolamide",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "MOA: Mannitol",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Osmotic diuretic\n\n[Image: 2a82efc5679dfad1419106f4ddf3a1df89dbedd797afaf4d0353a11b00ab0bac]",
+        "imageIds": [
+            "2a82efc5679dfad1419106f4ddf3a1df89dbedd797afaf4d0353a11b00ab0bac"
+        ]
+    },
+    "images": {
+        "2a82efc5679dfad1419106f4ddf3a1df89dbedd797afaf4d0353a11b00ab0bac": {
+            "file": "images/2a82efc5679dfad1419106f4ddf3a1df89dbedd797afaf4d0353a11b00ab0bac.jpg",
+            "filename": "paste-12953621364737.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 69035
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1489381099407",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1489381099407",
+        "noteId": "1489377832406",
+        "noteGuid": "qXy^sYw?Ac",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.3 - Teriparatide, Vitamin D, Cinacalcet, Sevelamer",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.3-Teriparatide,Vitamin_D,Cinacalcet,Sevelamer",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "What effect does PTH have on osteoblasts?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Maturation of pre-OB → OB\n\n(The net effect of PTH is bone resorption. Vit. D also stimulates OB maturation)\n\n[Image: 6e12f1e6c771ab6585e914f6ba4a9b92bc56119b1666b7e5e2770b479ac0e166]\n\n[Image: 7f60b5b91276c4a23e9094f11072afead05719d9c8ea0127bd8f7a363642db2e]",
+        "imageIds": [
+            "6e12f1e6c771ab6585e914f6ba4a9b92bc56119b1666b7e5e2770b479ac0e166",
+            "7f60b5b91276c4a23e9094f11072afead05719d9c8ea0127bd8f7a363642db2e"
+        ]
+    },
+    "images": {
+        "6e12f1e6c771ab6585e914f6ba4a9b92bc56119b1666b7e5e2770b479ac0e166": {
+            "file": "images/6e12f1e6c771ab6585e914f6ba4a9b92bc56119b1666b7e5e2770b479ac0e166.jpg",
+            "filename": "paste-63720134803459.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 71526
+        },
+        "7f60b5b91276c4a23e9094f11072afead05719d9c8ea0127bd8f7a363642db2e": {
+            "file": "images/7f60b5b91276c4a23e9094f11072afead05719d9c8ea0127bd8f7a363642db2e.jpg",
+            "filename": "paste-72344429133827.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 75591
+        }
+    }
+}

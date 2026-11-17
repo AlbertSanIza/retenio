@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480837995987",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480837995987",
+        "noteId": "1480837653001",
+        "noteGuid": "PaSdeX5^)E",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::8 Antivirals: other::8.2 - Ganciclovir, valganciclovir, foscarnet, cidofovir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(8)-Antivirals-Other::8.2-Ganciclovir,Valganciclovir,Foscarnet,Cidofovir",
+        "$$Antimicrobials",
+        "$Antivirals_Others"
+    ],
+    "question": {
+        "text": "How does a cytomegalovirus infection usually present in an HIV patient?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Retinitis ⇒ Hemorrhages and infiltrates\n\n[Image: eb592ee7575dff22f6b8739c99f381d0f4cb534247374cc82511a5e303d2c43d]",
+        "imageIds": [
+            "eb592ee7575dff22f6b8739c99f381d0f4cb534247374cc82511a5e303d2c43d"
+        ]
+    },
+    "images": {
+        "eb592ee7575dff22f6b8739c99f381d0f4cb534247374cc82511a5e303d2c43d": {
+            "file": "images/eb592ee7575dff22f6b8739c99f381d0f4cb534247374cc82511a5e303d2c43d.jpg",
+            "filename": "paste-407828619591683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 41225
+        }
+    }
+}

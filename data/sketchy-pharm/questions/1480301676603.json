@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480301676603",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480301676603",
+        "noteId": "1480300461128",
+        "noteGuid": "gen6[eB!s4",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.3 - Ampicillin, Amoxicillin, Piperacillin, Ticarcillin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.3-Ampicillin,Amoxicillin,Piperacillin,Ticaracillin",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "Which penicillin is used as part of triple therapy for H. pylori infections?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Amoxicillin\n\n[Image: f235f45eadc41eccbe92073daba7feef52e9621e03cbac85ecfbb494ccc4489a]\n\n[Image: ba71ed19438812620673ad1bfbdceed1f8ff7ad8c255a036fb4b79566622ae69]",
+        "imageIds": [
+            "f235f45eadc41eccbe92073daba7feef52e9621e03cbac85ecfbb494ccc4489a",
+            "ba71ed19438812620673ad1bfbdceed1f8ff7ad8c255a036fb4b79566622ae69"
+        ]
+    },
+    "images": {
+        "ba71ed19438812620673ad1bfbdceed1f8ff7ad8c255a036fb4b79566622ae69": {
+            "file": "images/ba71ed19438812620673ad1bfbdceed1f8ff7ad8c255a036fb4b79566622ae69.jpg",
+            "filename": "paste-32478542692355.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46898
+        },
+        "f235f45eadc41eccbe92073daba7feef52e9621e03cbac85ecfbb494ccc4489a": {
+            "file": "images/f235f45eadc41eccbe92073daba7feef52e9621e03cbac85ecfbb494ccc4489a.jpg",
+            "filename": "paste-95507187761153.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 36222
+        }
+    }
+}

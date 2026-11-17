@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479164862200",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479164862200",
+        "noteId": "1479164083148",
+        "noteGuid": "iA?3DF,6G1",
+        "modelId": "1475688242543",
+        "templateOrdinal": 17
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::3 Anti-inflammatory::3.2 - Gout drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(3)-Anti-Inflammatory_Drugs::3.2-Gout_Drugs",
+        "$$Blood_&_Inflammation",
+        "$Anti-inflammatory"
+    ],
+    "question": {
+        "text": "MOA: Pegloticase",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Converts uric acid ⇒ Allantoin\n\n[Image: e98e3369c056eeea00f417e58881d9431b2c9e64844f7c8ae92996b5118496ea]",
+        "imageIds": [
+            "e98e3369c056eeea00f417e58881d9431b2c9e64844f7c8ae92996b5118496ea"
+        ]
+    },
+    "images": {
+        "e98e3369c056eeea00f417e58881d9431b2c9e64844f7c8ae92996b5118496ea": {
+            "file": "images/e98e3369c056eeea00f417e58881d9431b2c9e64844f7c8ae92996b5118496ea.jpg",
+            "filename": "paste-102744207654915.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58467
+        }
+    }
+}

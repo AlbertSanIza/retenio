@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484147470823",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484147470823",
+        "noteId": "1484145428631",
+        "noteGuid": "giBHBUiPlE",
+        "modelId": "1475688242543",
+        "templateOrdinal": 14
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::1 GI::1.1 - Antiemetic agents",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(1)-GI::1.1-Antiemetic_Agents",
+        "$$GI_&_Endocrine",
+        "$GI"
+    ],
+    "question": {
+        "text": "What is the endogenous ligand for the NK1 receptor?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Substance P\n\n[Image: a7b66a6a2326a325c2cdb1b0a3bb2aa4db256f5c0b4a4579f4b95a7b7208b9c1]",
+        "imageIds": [
+            "a7b66a6a2326a325c2cdb1b0a3bb2aa4db256f5c0b4a4579f4b95a7b7208b9c1"
+        ]
+    },
+    "images": {
+        "a7b66a6a2326a325c2cdb1b0a3bb2aa4db256f5c0b4a4579f4b95a7b7208b9c1": {
+            "file": "images/a7b66a6a2326a325c2cdb1b0a3bb2aa4db256f5c0b4a4579f4b95a7b7208b9c1.jpg",
+            "filename": "paste-393917220519939.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 91286
+        }
+    }
+}

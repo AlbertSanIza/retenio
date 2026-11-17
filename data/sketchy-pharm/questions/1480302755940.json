@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480302755940",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480302755940",
+        "noteId": "1480301676727",
+        "noteGuid": "oy.7TfmNm^",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.4 - Cephalosporins",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.4-Cephalosporins",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "Name 3 third generation cephalosporins",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Ceftriaxone\n(2) Cefotaxime\n\n(3) Ceftazidime\n\n[Image: 2468b4887e7e258d617aa618439d7365a2104d61e3634c31daf9dd9c60644ce5]\n\n[Image: ccdef0252f995e6208f5d986848d5727a4c7ffe8a6a9885308ce9b0a9d8df253]",
+        "imageIds": [
+            "2468b4887e7e258d617aa618439d7365a2104d61e3634c31daf9dd9c60644ce5",
+            "ccdef0252f995e6208f5d986848d5727a4c7ffe8a6a9885308ce9b0a9d8df253"
+        ]
+    },
+    "images": {
+        "2468b4887e7e258d617aa618439d7365a2104d61e3634c31daf9dd9c60644ce5": {
+            "file": "images/2468b4887e7e258d617aa618439d7365a2104d61e3634c31daf9dd9c60644ce5.jpg",
+            "filename": "paste-99634651332611.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 35719
+        },
+        "ccdef0252f995e6208f5d986848d5727a4c7ffe8a6a9885308ce9b0a9d8df253": {
+            "file": "images/ccdef0252f995e6208f5d986848d5727a4c7ffe8a6a9885308ce9b0a9d8df253.jpg",
+            "filename": "paste-99716255711235.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 35480
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480309372889",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480309372889",
+        "noteId": "1480309209169",
+        "noteGuid": "t(.L7mj0T?",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.4 - Maraviroc, fusion inhibitors, integrase inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.4-Maraviroc,Fusion_Inhibitors,_&_Integrase_Inhibitors",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "What HIV protein is responsible for fusion?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "gp41\n\n[Image: cd29fc894a5d58d8f11f74d9d349fa3d538ed10c97f1437f72d62f9be766266b]",
+        "imageIds": [
+            "cd29fc894a5d58d8f11f74d9d349fa3d538ed10c97f1437f72d62f9be766266b"
+        ]
+    },
+    "images": {
+        "cd29fc894a5d58d8f11f74d9d349fa3d538ed10c97f1437f72d62f9be766266b": {
+            "file": "images/cd29fc894a5d58d8f11f74d9d349fa3d538ed10c97f1437f72d62f9be766266b.jpg",
+            "filename": "paste-121904056762371.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52213
+        }
+    }
+}

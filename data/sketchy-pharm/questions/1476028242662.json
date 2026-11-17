@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476028242662",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476028242662",
+        "noteId": "1476026238349",
+        "noteGuid": "q{jN<,Pl7#",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.1 - Heparin, LMWH, fondaparinux, direct thrombin inhibitors, Xa inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.1-Heparin,LMWH,Fondaparinux,Direct_Thrombin_Inhibitors",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "What is the antigenic target in Heparin Induced Thrombocytopenia?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Platelet Factor 4\n\n[Image: 05a998a2de8e8337f369baaf7fcf4cbc36a8d0101357b1b9fc97c153382f9eb2]\n\n[Image: 12cde46c561071541514c61207685f83e33e7e678e3e5da3b7fea46a50062f65]",
+        "imageIds": [
+            "05a998a2de8e8337f369baaf7fcf4cbc36a8d0101357b1b9fc97c153382f9eb2",
+            "12cde46c561071541514c61207685f83e33e7e678e3e5da3b7fea46a50062f65"
+        ]
+    },
+    "images": {
+        "05a998a2de8e8337f369baaf7fcf4cbc36a8d0101357b1b9fc97c153382f9eb2": {
+            "file": "images/05a998a2de8e8337f369baaf7fcf4cbc36a8d0101357b1b9fc97c153382f9eb2.jpg",
+            "filename": "paste-87518548590595.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 84848
+        },
+        "12cde46c561071541514c61207685f83e33e7e678e3e5da3b7fea46a50062f65": {
+            "file": "images/12cde46c561071541514c61207685f83e33e7e678e3e5da3b7fea46a50062f65.jpg",
+            "filename": "paste-87694642249731.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 89838
+        }
+    }
+}

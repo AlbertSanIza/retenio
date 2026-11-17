@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480826453245",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480826453245",
+        "noteId": "1480825958438",
+        "noteGuid": "wh`5lM*zbv",
+        "modelId": "1475688242543",
+        "templateOrdinal": 15
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::5 Antifungals::5.2 - Azoles",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(5)-Antifungals::5.2-Azoles",
+        "$$Antimicrobials",
+        "$Antifungals"
+    ],
+    "question": {
+        "text": "Name a (1) diuretic and (2) antimicrobial which can cause gynecomastia",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Diuretic: Spironolactone\n(2) Antimicrobial: Ketoconazole\n\n[Image: ec5b734aa80c1f970fb1ee1aacb79ca893aa2998ee274f3d1a5025c226b5e8dc]\n\n[Image: 14fa4618eec009bdf5c0cdf47184205e9da6057330519291fe0d807749a4488a]",
+        "imageIds": [
+            "ec5b734aa80c1f970fb1ee1aacb79ca893aa2998ee274f3d1a5025c226b5e8dc",
+            "14fa4618eec009bdf5c0cdf47184205e9da6057330519291fe0d807749a4488a"
+        ]
+    },
+    "images": {
+        "14fa4618eec009bdf5c0cdf47184205e9da6057330519291fe0d807749a4488a": {
+            "file": "images/14fa4618eec009bdf5c0cdf47184205e9da6057330519291fe0d807749a4488a.jpg",
+            "filename": "paste-296979808649219.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59002
+        },
+        "ec5b734aa80c1f970fb1ee1aacb79ca893aa2998ee274f3d1a5025c226b5e8dc": {
+            "file": "images/ec5b734aa80c1f970fb1ee1aacb79ca893aa2998ee274f3d1a5025c226b5e8dc.jpg",
+            "filename": "paste-297173082177539.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 64238
+        }
+    }
+}

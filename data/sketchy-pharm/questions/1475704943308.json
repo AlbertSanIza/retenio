@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475704943308",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475704943308",
+        "noteId": "1475704171002",
+        "noteGuid": "M|s^}DGXy|",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::2 Dyslipidemia Drugs::2.3 - Fibrates, niacin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(2)-Dyslipidemia_Drugs::2.3-Fibrates,Niacin",
+        "$$Blood_&_Inflammation",
+        "$DyslipidemiaDrugs"
+    ],
+    "question": {
+        "text": "What is the most effective drug for increasing HDL levels?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Niacin\n\n[Image: bbaecf92c4807cb4cf057594cbd9824532bcf50e8343e1ff71d6fe098021d36d]\n\n[Image: b288f56a5b8c47a1d3b138b9a0e3f35018778a8e2572ea60c5824a01039567de]",
+        "imageIds": [
+            "bbaecf92c4807cb4cf057594cbd9824532bcf50e8343e1ff71d6fe098021d36d",
+            "b288f56a5b8c47a1d3b138b9a0e3f35018778a8e2572ea60c5824a01039567de"
+        ]
+    },
+    "images": {
+        "b288f56a5b8c47a1d3b138b9a0e3f35018778a8e2572ea60c5824a01039567de": {
+            "file": "images/b288f56a5b8c47a1d3b138b9a0e3f35018778a8e2572ea60c5824a01039567de.jpg",
+            "filename": "paste-14439680049155 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48476
+        },
+        "bbaecf92c4807cb4cf057594cbd9824532bcf50e8343e1ff71d6fe098021d36d": {
+            "file": "images/bbaecf92c4807cb4cf057594cbd9824532bcf50e8343e1ff71d6fe098021d36d.jpg",
+            "filename": "paste-14559939133443.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52536
+        }
+    }
+}

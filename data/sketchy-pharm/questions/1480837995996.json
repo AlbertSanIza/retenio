@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480837995996",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480837995996",
+        "noteId": "1480837653001",
+        "noteGuid": "PaSdeX5^)E",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::8 Antivirals: other::8.2 - Ganciclovir, valganciclovir, foscarnet, cidofovir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(8)-Antivirals-Other::8.2-Ganciclovir,Valganciclovir,Foscarnet,Cidofovir",
+        "$$Antimicrobials",
+        "$Antivirals_Others"
+    ],
+    "question": {
+        "text": "Adverse Effect: Ganciclovir",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Myelosuppression\n\n[Image: a14e144cbffec7391540f6c1411bae25f76b32685e1b5eb511597116a34ab694]",
+        "imageIds": [
+            "a14e144cbffec7391540f6c1411bae25f76b32685e1b5eb511597116a34ab694"
+        ]
+    },
+    "images": {
+        "a14e144cbffec7391540f6c1411bae25f76b32685e1b5eb511597116a34ab694": {
+            "file": "images/a14e144cbffec7391540f6c1411bae25f76b32685e1b5eb511597116a34ab694.jpg",
+            "filename": "paste-412785011851267.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34756
+        }
+    }
+}

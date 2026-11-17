@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480294535739",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480294535739",
+        "noteId": "1480292425830",
+        "noteGuid": "F-Oy]]*-Bc",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::1 Antimetabolites::1.1 - Methotrexate, leucovorin, 5-fluorouracil, hydroxyurea",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(1)-Antimetabolites::1.1-Methotrexate,Leucovorin,5-FU,Hydroxyurea",
+        "$$Antineoplastics",
+        "$Antimetabolites"
+    ],
+    "question": {
+        "text": "MOA: 5-Fluorouracil",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Inhibits thymidylate synthase\n\n(After activation by THF)\n\n[Image: b1db4c6191ceaf754977991f2737aa45a3f91a2e1a37a2d767ac54ea91a03297]",
+        "imageIds": [
+            "b1db4c6191ceaf754977991f2737aa45a3f91a2e1a37a2d767ac54ea91a03297"
+        ]
+    },
+    "images": {
+        "b1db4c6191ceaf754977991f2737aa45a3f91a2e1a37a2d767ac54ea91a03297": {
+            "file": "images/b1db4c6191ceaf754977991f2737aa45a3f91a2e1a37a2d767ac54ea91a03297.jpg",
+            "filename": "paste-37473589657603.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50868
+        }
+    }
+}

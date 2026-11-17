@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484167190359",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484167190359",
+        "noteId": "1475726464638",
+        "noteGuid": "JpARMA.2Xe",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::1 Parasympathetic::1.1 - Cholinomimetics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(1)-Parasympathetics::1.1-Cholinomimetics",
+        "$$Autonomic_Drugs",
+        "$Parasympathetics"
+    ],
+    "question": {
+        "text": "Why is Pilocarpine helpful in acute angle-closure glaucoma?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Contracts the sphincter pupillae m.\n\n[Image: 226d4a0f4b957a29338b14c801149a64a24014e46a30b0e0132c34ffcfdf589c]",
+        "imageIds": [
+            "226d4a0f4b957a29338b14c801149a64a24014e46a30b0e0132c34ffcfdf589c"
+        ]
+    },
+    "images": {
+        "226d4a0f4b957a29338b14c801149a64a24014e46a30b0e0132c34ffcfdf589c": {
+            "file": "images/226d4a0f4b957a29338b14c801149a64a24014e46a30b0e0132c34ffcfdf589c.jpg",
+            "filename": "paste-408803577167875.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 85972
+        }
+    }
+}

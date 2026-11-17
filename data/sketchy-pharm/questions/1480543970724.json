@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480543970724",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480543970724",
+        "noteId": "1480543237615",
+        "noteGuid": "B[kX09:NFF",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.3 - Clindamycin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.3-Clindamycin",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "What is an example of an anaerobe BELOW the diaphragm treated with Clindamycin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Clostridium perfringens ⇒ Gas gangrene\n\n(Clindamycin above diaphragm, metronidazole below)\n\n[Image: 4790f0c6bef93a2d880db7694e91e2ad169200fd184da4e4be0b1a4dc4dfa59f]",
+        "imageIds": [
+            "4790f0c6bef93a2d880db7694e91e2ad169200fd184da4e4be0b1a4dc4dfa59f"
+        ]
+    },
+    "images": {
+        "4790f0c6bef93a2d880db7694e91e2ad169200fd184da4e4be0b1a4dc4dfa59f": {
+            "file": "images/4790f0c6bef93a2d880db7694e91e2ad169200fd184da4e4be0b1a4dc4dfa59f.jpg",
+            "filename": "paste-15560666513411.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 37872
+        }
+    }
+}

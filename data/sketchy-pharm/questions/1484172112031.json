@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484172112031",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484172112031",
+        "noteId": "1484170558195",
+        "noteGuid": "IPW<ydy+.t",
+        "modelId": "1475688242543",
+        "templateOrdinal": 13
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.2 - Inhaled anesthetics, dantrolene",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.2-Inhaled_Anesthetics,Dantrolene",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "Other than hyperthermia, what is a symptom of malignant hyperthermia?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Rhabdomyolysis\n\n[Image: 382b6eecddb9897a027ae5f980861b3d3a84401d2b77c14b599cb1fae4231a22]",
+        "imageIds": [
+            "382b6eecddb9897a027ae5f980861b3d3a84401d2b77c14b599cb1fae4231a22"
+        ]
+    },
+    "images": {
+        "382b6eecddb9897a027ae5f980861b3d3a84401d2b77c14b599cb1fae4231a22": {
+            "file": "images/382b6eecddb9897a027ae5f980861b3d3a84401d2b77c14b599cb1fae4231a22.jpg",
+            "filename": "paste-600414953144323.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 77779
+        }
+    }
+}

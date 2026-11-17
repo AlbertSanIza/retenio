@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476057868176",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476057868176",
+        "noteId": "1476057511630",
+        "noteGuid": "DX{(cXG7Pq",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::2 Allergy & Pulmonary::2.2 - Asthma therapy",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(2)-Allergy_&_Pulmonary::2.2-Asthma_Therapy",
+        "$$Smooth_Muscle",
+        "$Allergy&Pulmonary"
+    ],
+    "question": {
+        "text": "Which leukotriene is a potent chemoattractant for neutrophils?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "LTB4\n\n(IL-8 also potent neutrophil chemoattractant. IL-8 looks like IL-B)\n\n[Image: d7cf61aa1bdb3a444fc199d8af1992219be2f61fbde3ffdcc18c533de7ddf476]",
+        "imageIds": [
+            "d7cf61aa1bdb3a444fc199d8af1992219be2f61fbde3ffdcc18c533de7ddf476"
+        ]
+    },
+    "images": {
+        "d7cf61aa1bdb3a444fc199d8af1992219be2f61fbde3ffdcc18c533de7ddf476": {
+            "file": "images/d7cf61aa1bdb3a444fc199d8af1992219be2f61fbde3ffdcc18c533de7ddf476.jpg",
+            "filename": "paste-23098334117891.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 69755
+        }
+    }
+}

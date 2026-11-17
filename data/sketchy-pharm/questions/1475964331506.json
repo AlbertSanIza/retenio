@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475964331506",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475964331506",
+        "noteId": "1475963419084",
+        "noteGuid": "tV}T0_?yzP",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.3 - Class III",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.3-Class_III",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "What β-blocker is a class III antiarrhythmic?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Sotalol\n\n[Image: 570bc51460eb43787f4f5592a9cb5cc778944caff01dc99b9ec914ee1c304f48]",
+        "imageIds": [
+            "570bc51460eb43787f4f5592a9cb5cc778944caff01dc99b9ec914ee1c304f48"
+        ]
+    },
+    "images": {
+        "570bc51460eb43787f4f5592a9cb5cc778944caff01dc99b9ec914ee1c304f48": {
+            "file": "images/570bc51460eb43787f4f5592a9cb5cc778944caff01dc99b9ec914ee1c304f48.jpg",
+            "filename": "paste-42511586295811.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48085
+        }
+    }
+}

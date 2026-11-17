@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475707071644",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475707071644",
+        "noteId": "1475705886299",
+        "noteGuid": "K{:IknGMa;",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::1 Vasoactive::1.1 - Nitrates",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(1)-Vasoactive::1.1-Nitrates",
+        "$$Smooth_Muscle",
+        "$Vasoactive"
+    ],
+    "question": {
+        "text": "How can nitrates cause hypoxia?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Oxidize heme Fe2+ → Fe3+\n\n(Nitrates have many oxygens ∴ oxidizing agents ∴ oxidize iron)\n\n[Image: 035abf01881701404d890179fc904031fe507f473a822f38aa4e2743023984f5]",
+        "imageIds": [
+            "035abf01881701404d890179fc904031fe507f473a822f38aa4e2743023984f5"
+        ]
+    },
+    "images": {
+        "035abf01881701404d890179fc904031fe507f473a822f38aa4e2743023984f5": {
+            "file": "images/035abf01881701404d890179fc904031fe507f473a822f38aa4e2743023984f5.jpg",
+            "filename": "paste-45011257262083.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61111
+        }
+    }
+}

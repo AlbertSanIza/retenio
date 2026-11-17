@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475731410752",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475731410752",
+        "noteId": "1475730679415",
+        "noteGuid": "OyB|BPtZk?",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.3 - Alpha drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.3-Alpha_drugs",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "Indication: Tizanidine",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Muscle relaxant\n\n[Image: b1c8083f05705c74796d1f81565694e54a6dc521293d4fc96e6ccc643a87b92e]",
+        "imageIds": [
+            "b1c8083f05705c74796d1f81565694e54a6dc521293d4fc96e6ccc643a87b92e"
+        ]
+    },
+    "images": {
+        "b1c8083f05705c74796d1f81565694e54a6dc521293d4fc96e6ccc643a87b92e": {
+            "file": "images/b1c8083f05705c74796d1f81565694e54a6dc521293d4fc96e6ccc643a87b92e.jpg",
+            "filename": "paste-33603824123907.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53623
+        }
+    }
+}

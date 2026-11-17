@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1489381099405",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1489381099405",
+        "noteId": "1489377832406",
+        "noteGuid": "qXy^sYw?Ac",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.3 - Teriparatide, Vitamin D, Cinacalcet, Sevelamer",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.3-Teriparatide,Vitamin_D,Cinacalcet,Sevelamer",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "Name two mechanisms of negative feedback on PTH",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) ↑ Ca2+\n(2) ↑ Calcitriol\n\n(A rare instance where ↑ intracellular Ca2+ inhibits exocytosis)\n\n[Image: 373388d8c274690cb3b0565f82ff259321ee9b42757447c39a599ab86631c770]\n\n[Image: ae472753598484ca32342fde3e49030ba44aef54efb1cf68226702d7f6052114]\n\n[Image: 53a026f9e63f99cfc2df5fccfb10c5c9b2315b28d7d26201d025724b4330a76a]\n\n[Image: bdb30131690518e097111e5cbc596283344b8eb540a20b2bcfe7c2fbdab9fa30]",
+        "imageIds": [
+            "373388d8c274690cb3b0565f82ff259321ee9b42757447c39a599ab86631c770",
+            "ae472753598484ca32342fde3e49030ba44aef54efb1cf68226702d7f6052114",
+            "53a026f9e63f99cfc2df5fccfb10c5c9b2315b28d7d26201d025724b4330a76a",
+            "bdb30131690518e097111e5cbc596283344b8eb540a20b2bcfe7c2fbdab9fa30"
+        ]
+    },
+    "images": {
+        "373388d8c274690cb3b0565f82ff259321ee9b42757447c39a599ab86631c770": {
+            "file": "images/373388d8c274690cb3b0565f82ff259321ee9b42757447c39a599ab86631c770.jpg",
+            "filename": "paste-21062519619587.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 131417
+        },
+        "53a026f9e63f99cfc2df5fccfb10c5c9b2315b28d7d26201d025724b4330a76a": {
+            "file": "images/53a026f9e63f99cfc2df5fccfb10c5c9b2315b28d7d26201d025724b4330a76a.jpg",
+            "filename": "paste-54670638710787.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52654
+        },
+        "ae472753598484ca32342fde3e49030ba44aef54efb1cf68226702d7f6052114": {
+            "file": "images/ae472753598484ca32342fde3e49030ba44aef54efb1cf68226702d7f6052114.jpg",
+            "filename": "paste-54799487729667.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 73101
+        },
+        "bdb30131690518e097111e5cbc596283344b8eb540a20b2bcfe7c2fbdab9fa30": {
+            "file": "images/bdb30131690518e097111e5cbc596283344b8eb540a20b2bcfe7c2fbdab9fa30.jpg",
+            "filename": "paste-54709293416451.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70232
+        }
+    }
+}

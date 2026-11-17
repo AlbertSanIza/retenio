@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475731410757",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475731410757",
+        "noteId": "1475730679415",
+        "noteGuid": "OyB|BPtZk?",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.3 - Alpha drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.3-Alpha_drugs",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "What sympatholytic is used to treat PTSD?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Prazosin\n\n[Image: 7041344673375f39449624cc3e46663e64bde2470338c53649f3f0fe63b80577]",
+        "imageIds": [
+            "7041344673375f39449624cc3e46663e64bde2470338c53649f3f0fe63b80577"
+        ]
+    },
+    "images": {
+        "7041344673375f39449624cc3e46663e64bde2470338c53649f3f0fe63b80577": {
+            "file": "images/7041344673375f39449624cc3e46663e64bde2470338c53649f3f0fe63b80577.jpg",
+            "filename": "paste-35403415420931.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 37964
+        }
+    }
+}

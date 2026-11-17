@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475964798607",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475964798607",
+        "noteId": "1475964331558",
+        "noteGuid": "BD^R)Z4Bh4",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.4 - Class IV",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.4-Class_IV",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "What effect do class IV antiarrhythmics have on EKG tracing?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Prolonged PR interval\n\n(And ∴ can cause heart block)\n\n[Image: e7a3df99561033f79b48d20204eaa89d7af795a38cc51bcdab9b6d699779481b]\n\n[Image: 8a45632ecfe2f0f0f1b6e1e7776b07dfaf26e41c07feb4f8dae74979ed10c750]",
+        "imageIds": [
+            "e7a3df99561033f79b48d20204eaa89d7af795a38cc51bcdab9b6d699779481b",
+            "8a45632ecfe2f0f0f1b6e1e7776b07dfaf26e41c07feb4f8dae74979ed10c750"
+        ]
+    },
+    "images": {
+        "8a45632ecfe2f0f0f1b6e1e7776b07dfaf26e41c07feb4f8dae74979ed10c750": {
+            "file": "images/8a45632ecfe2f0f0f1b6e1e7776b07dfaf26e41c07feb4f8dae74979ed10c750.jpg",
+            "filename": "paste-45784351375363.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 300
+        },
+        "e7a3df99561033f79b48d20204eaa89d7af795a38cc51bcdab9b6d699779481b": {
+            "file": "images/e7a3df99561033f79b48d20204eaa89d7af795a38cc51bcdab9b6d699779481b.jpg",
+            "filename": "paste-45642617454595.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63703
+        }
+    }
+}

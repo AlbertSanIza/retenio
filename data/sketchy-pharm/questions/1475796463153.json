@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475796463153",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475796463153",
+        "noteId": "1475795781882",
+        "noteGuid": "uOs}?_Z]ZW",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.3 - MAO inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.3-MAOIs",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "When taking MAO inhibitors, what type of food should be avoided?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Aged meats\n(2) Cheeses\n\n(3) Wine\n\n[Image: 7c8a78c3899e5fbeb3992ed6b15085392e84943cdacd96aa2579beab0eff9c59]\n\n[Image: 3fdef201885c408000adf735ca39da11f3deb485758c5c0608e0838fb524d38f]",
+        "imageIds": [
+            "7c8a78c3899e5fbeb3992ed6b15085392e84943cdacd96aa2579beab0eff9c59",
+            "3fdef201885c408000adf735ca39da11f3deb485758c5c0608e0838fb524d38f"
+        ]
+    },
+    "images": {
+        "3fdef201885c408000adf735ca39da11f3deb485758c5c0608e0838fb524d38f": {
+            "file": "images/3fdef201885c408000adf735ca39da11f3deb485758c5c0608e0838fb524d38f.jpg",
+            "filename": "paste-26152055865347.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55244
+        },
+        "7c8a78c3899e5fbeb3992ed6b15085392e84943cdacd96aa2579beab0eff9c59": {
+            "file": "images/7c8a78c3899e5fbeb3992ed6b15085392e84943cdacd96aa2579beab0eff9c59.jpg",
+            "filename": "paste-25387551686659.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52696
+        }
+    }
+}

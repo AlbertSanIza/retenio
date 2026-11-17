@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480837995994",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480837995994",
+        "noteId": "1480837653001",
+        "noteGuid": "PaSdeX5^)E",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::8 Antivirals: other::8.2 - Ganciclovir, valganciclovir, foscarnet, cidofovir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(8)-Antivirals-Other::8.2-Ganciclovir,Valganciclovir,Foscarnet,Cidofovir",
+        "$$Antimicrobials",
+        "$Antivirals_Others"
+    ],
+    "question": {
+        "text": "What is an orally administered version of Ganciclovir?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Valganciclovir\n\n(Val- prefix = prodrug)\n\n[Image: 2b72e4e5bfc4e1298be187f0ff9cf0cafa1d6eebadffb24bdb08b14387b96a37]",
+        "imageIds": [
+            "2b72e4e5bfc4e1298be187f0ff9cf0cafa1d6eebadffb24bdb08b14387b96a37"
+        ]
+    },
+    "images": {
+        "2b72e4e5bfc4e1298be187f0ff9cf0cafa1d6eebadffb24bdb08b14387b96a37": {
+            "file": "images/2b72e4e5bfc4e1298be187f0ff9cf0cafa1d6eebadffb24bdb08b14387b96a37.jpg",
+            "filename": "paste-412355515121667.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 39197
+        }
+    }
+}

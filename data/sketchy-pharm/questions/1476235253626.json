@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476235253626",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476235253626",
+        "noteId": "1476235100464",
+        "noteGuid": "vE5{@SswBz",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.2 - Loop diuretics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.2-Loop_Diuretics",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "Are loop diuretics potassium wasting?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Yes\n\n(Inhibition of Na+/K+/2Cl- cotransporter ⇒ ↑ lumenal Na+ concentration and ∴ increased activity of Na+/K+ ATPase)\n\n[Image: ce74c5c817c4383df31ae7f4f714ed01ab436434346bce792b7b6907e2e42905]",
+        "imageIds": [
+            "ce74c5c817c4383df31ae7f4f714ed01ab436434346bce792b7b6907e2e42905"
+        ]
+    },
+    "images": {
+        "ce74c5c817c4383df31ae7f4f714ed01ab436434346bce792b7b6907e2e42905": {
+            "file": "images/ce74c5c817c4383df31ae7f4f714ed01ab436434346bce792b7b6907e2e42905.jpg",
+            "filename": "paste-23377506992131.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62196
+        }
+    }
+}

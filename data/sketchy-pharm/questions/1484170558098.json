@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484170558098",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484170558098",
+        "noteId": "1484169055669",
+        "noteGuid": "QrQ#;bxg=`",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.1 - Propofol, etomidate, ketamine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.1-Propofol,Etomidate,Ketamine",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "Which IV anesthetic produces the most profound hypotension?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Propofol\n\n[Image: 6dbc213e2301a9c5eb2130c43c36736a5c67f50fcdaefafac01da769e002903f]",
+        "imageIds": [
+            "6dbc213e2301a9c5eb2130c43c36736a5c67f50fcdaefafac01da769e002903f"
+        ]
+    },
+    "images": {
+        "6dbc213e2301a9c5eb2130c43c36736a5c67f50fcdaefafac01da769e002903f": {
+            "file": "images/6dbc213e2301a9c5eb2130c43c36736a5c67f50fcdaefafac01da769e002903f.jpg",
+            "filename": "paste-491327078793219.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65915
+        }
+    }
+}

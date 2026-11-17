@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475795781817",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475795781817",
+        "noteId": "1475794790683",
+        "noteGuid": "l!ym7T{M~Z",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.2 - Tricyclic antidepressants",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.2-TCAs",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "Why are TCAs relatively contraindicated in the elderly?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Severe anticholienrgic and antihistamine effects\n\n(⇒ Excess sedation)\n\n[Image: db9f60b19b37f3d855558e65922c74fbac32c5d50ca9151051311f68c31eab8d]",
+        "imageIds": [
+            "db9f60b19b37f3d855558e65922c74fbac32c5d50ca9151051311f68c31eab8d"
+        ]
+    },
+    "images": {
+        "db9f60b19b37f3d855558e65922c74fbac32c5d50ca9151051311f68c31eab8d": {
+            "file": "images/db9f60b19b37f3d855558e65922c74fbac32c5d50ca9151051311f68c31eab8d.jpg",
+            "filename": "paste-21586505629699.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57201
+        }
+    }
+}

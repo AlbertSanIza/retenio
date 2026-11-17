@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475793532088",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475793532088",
+        "noteId": "1475793075945",
+        "noteGuid": "uhGglrcsj9",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::1 Sedative-hypnotics::1.3 - Barbiturates",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(1)-Sedatives_&_Hypnotics::1.3-Barbituates",
+        "$$Neuro/Psych",
+        "$Sedatives&Hypnotics"
+    ],
+    "question": {
+        "text": "Adverse Effects (3) : Barbituates",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Respiratory depression\n(2) Cardiac depression\n\n(3) CNS depression\n\n(Addiction)\n\n[Image: cae46f2f0165199b03777febf303459cfa4d1078d74e1f6f74ade9345d088f6a]\n\n[Image: c0237686f2565d4730988123d9e8434ecad6bfa9d7fb7c1a85a3fd8cfccd507e]",
+        "imageIds": [
+            "cae46f2f0165199b03777febf303459cfa4d1078d74e1f6f74ade9345d088f6a",
+            "c0237686f2565d4730988123d9e8434ecad6bfa9d7fb7c1a85a3fd8cfccd507e"
+        ]
+    },
+    "images": {
+        "c0237686f2565d4730988123d9e8434ecad6bfa9d7fb7c1a85a3fd8cfccd507e": {
+            "file": "images/c0237686f2565d4730988123d9e8434ecad6bfa9d7fb7c1a85a3fd8cfccd507e.jpg",
+            "filename": "paste-10376640987139.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 82009
+        },
+        "cae46f2f0165199b03777febf303459cfa4d1078d74e1f6f74ade9345d088f6a": {
+            "file": "images/cae46f2f0165199b03777febf303459cfa4d1078d74e1f6f74ade9345d088f6a.jpg",
+            "filename": "paste-10131827851267.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 84168
+        }
+    }
+}

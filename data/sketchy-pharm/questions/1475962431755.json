@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475962431755",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475962431755",
+        "noteId": "1475962037924",
+        "noteGuid": "LK=6#G=0_h",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.1 - Class I A-C",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.1-Class_I_(A-C)",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "What effect do class I antiarrhythmics have on EKG tracing?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Widened QRS complex\n\n[Image: cfba73e86ef76a5d6edf54cc98daa3206dcf328bbec4d656922db9df981d7fc7]",
+        "imageIds": [
+            "cfba73e86ef76a5d6edf54cc98daa3206dcf328bbec4d656922db9df981d7fc7"
+        ]
+    },
+    "images": {
+        "cfba73e86ef76a5d6edf54cc98daa3206dcf328bbec4d656922db9df981d7fc7": {
+            "file": "images/cfba73e86ef76a5d6edf54cc98daa3206dcf328bbec4d656922db9df981d7fc7.jpg",
+            "filename": "paste-25542170509315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48346
+        }
+    }
+}

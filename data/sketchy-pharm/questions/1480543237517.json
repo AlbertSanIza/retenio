@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480543237517",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480543237517",
+        "noteId": "1480542313473",
+        "noteGuid": "f(Tr,}<mC3",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.2 - Macrolides",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.2-Macrolides",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "What is the treatment for babesiosis?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Clindamycin + Atovaquone\n\n[Image: 20ca03a6ba12ce3eb028ccc425c684e006931c1cdb9c6e6b622b89155ae27418]",
+        "imageIds": [
+            "20ca03a6ba12ce3eb028ccc425c684e006931c1cdb9c6e6b622b89155ae27418"
+        ]
+    },
+    "images": {
+        "20ca03a6ba12ce3eb028ccc425c684e006931c1cdb9c6e6b622b89155ae27418": {
+            "file": "images/20ca03a6ba12ce3eb028ccc425c684e006931c1cdb9c6e6b622b89155ae27418.jpg",
+            "filename": "paste-11317238824963.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43380
+        }
+    }
+}

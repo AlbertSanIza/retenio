@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476210878814",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476210878814",
+        "noteId": "1476210297974",
+        "noteGuid": "n:FNxZoP&d",
+        "modelId": "1475688242543",
+        "templateOrdinal": 13
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.1 - Acetazolamide, mannitol",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.1-Acetazolamide",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "Indications (2) : Mannitol",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) ↑ Intracranial pressure\n(2) ↑ Intraocular pressure\n\n[Image: 3ddbe69f185ab84e9b9d7f3d3675d03673d7e5108960cc85cf212071196abdee]\n\n[Image: 534d67a9088f3eada46f209dc49439a9c6c06ce84f73aa17ab560731eb6901f4]",
+        "imageIds": [
+            "3ddbe69f185ab84e9b9d7f3d3675d03673d7e5108960cc85cf212071196abdee",
+            "534d67a9088f3eada46f209dc49439a9c6c06ce84f73aa17ab560731eb6901f4"
+        ]
+    },
+    "images": {
+        "3ddbe69f185ab84e9b9d7f3d3675d03673d7e5108960cc85cf212071196abdee": {
+            "file": "images/3ddbe69f185ab84e9b9d7f3d3675d03673d7e5108960cc85cf212071196abdee.jpg",
+            "filename": "paste-13035225743361.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 71713
+        },
+        "534d67a9088f3eada46f209dc49439a9c6c06ce84f73aa17ab560731eb6901f4": {
+            "file": "images/534d67a9088f3eada46f209dc49439a9c6c06ce84f73aa17ab560731eb6901f4.jpg",
+            "filename": "paste-13086765350913.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 69851
+        }
+    }
+}

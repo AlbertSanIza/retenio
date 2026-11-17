@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480836764152",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480836764152",
+        "noteId": "1480835348971",
+        "noteGuid": "i*mBW%(]hE",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::8 Antivirals: other::8.1 - Acyclovir, valacyclovir, famciclovir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(8)-Antivirals-Other::8.1-Acyclovir,Valacyclovir,Famiciclovir",
+        "$$Antimicrobials",
+        "$Antivirals_Others"
+    ],
+    "question": {
+        "text": "Name 2 drugs with the following characteristics:\n\n(1) Do not require phosphorylation to become active\n\n(2) Spectrum of activity similar to Acyclovir/Ganciclovir",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Cidofovir\n(2) Foscarnet\n\n[Image: c159803f381ad02dfecbc2cee2f0e215301d9fe4aea00e252192a538a8df8240]\n\n[Image: f7e0e5166d43e840016b60cf2517445fbc2acdabe1e163ac86b00a35b09cfde1]",
+        "imageIds": [
+            "c159803f381ad02dfecbc2cee2f0e215301d9fe4aea00e252192a538a8df8240",
+            "f7e0e5166d43e840016b60cf2517445fbc2acdabe1e163ac86b00a35b09cfde1"
+        ]
+    },
+    "images": {
+        "c159803f381ad02dfecbc2cee2f0e215301d9fe4aea00e252192a538a8df8240": {
+            "file": "images/c159803f381ad02dfecbc2cee2f0e215301d9fe4aea00e252192a538a8df8240.jpg",
+            "filename": "paste-389952965705731.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49587
+        },
+        "f7e0e5166d43e840016b60cf2517445fbc2acdabe1e163ac86b00a35b09cfde1": {
+            "file": "images/f7e0e5166d43e840016b60cf2517445fbc2acdabe1e163ac86b00a35b09cfde1.jpg",
+            "filename": "paste-390318037925891.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49045
+        }
+    }
+}

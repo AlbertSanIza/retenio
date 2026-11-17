@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475964798605",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475964798605",
+        "noteId": "1475964331558",
+        "noteGuid": "BD^R)Z4Bh4",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.4 - Class IV",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.4-Class_IV",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "What type of arrhythmias can class IV antiarrhythmics treat?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Supraventricular\n\n[Image: 1f59bdcc54f02e54a0787ac87269c88807f2944e7a574a7b3ee50fce1b8a865d]\n\n[Image: 80fd9c2f549cf751c756e070bc49d4135fdb91c4e8213791a682015647903004]",
+        "imageIds": [
+            "1f59bdcc54f02e54a0787ac87269c88807f2944e7a574a7b3ee50fce1b8a865d",
+            "80fd9c2f549cf751c756e070bc49d4135fdb91c4e8213791a682015647903004"
+        ]
+    },
+    "images": {
+        "1f59bdcc54f02e54a0787ac87269c88807f2944e7a574a7b3ee50fce1b8a865d": {
+            "file": "images/1f59bdcc54f02e54a0787ac87269c88807f2944e7a574a7b3ee50fce1b8a865d.jpg",
+            "filename": "paste-45530948304899.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 68830
+        },
+        "80fd9c2f549cf751c756e070bc49d4135fdb91c4e8213791a682015647903004": {
+            "file": "images/80fd9c2f549cf751c756e070bc49d4135fdb91c4e8213791a682015647903004.jpg",
+            "filename": "paste-45896020525059.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65402
+        }
+    }
+}

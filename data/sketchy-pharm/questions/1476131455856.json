@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476131455856",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476131455856",
+        "noteId": "1476130090291",
+        "noteGuid": "O>jMOQ>@1^",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::4 Hypothalamic & Pituitary::4.2 - ADH, DDAVP,& ADH Receptor Antagonists",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(4)-Hypothalamic_&_Pituitary::4.1-ADH,DDAVP,_&_ADH_Receptor_Antagonists",
+        "$$GI_&_Endocrine",
+        "$Hypothalamic_&_Pituitary"
+    ],
+    "question": {
+        "text": "Treatment - Pharmacologic: Hemophilia A",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Desmopressin\n\n[Image: a561b7a4af8245ab806ed4df7a3d370320bae609769a9f8414b986d251cf7905]\n\n[Image: 4a24acf09bd984789f0452547dfb83e48076d18cb198ce86ae6af3a839b120d9]",
+        "imageIds": [
+            "a561b7a4af8245ab806ed4df7a3d370320bae609769a9f8414b986d251cf7905",
+            "4a24acf09bd984789f0452547dfb83e48076d18cb198ce86ae6af3a839b120d9"
+        ]
+    },
+    "images": {
+        "4a24acf09bd984789f0452547dfb83e48076d18cb198ce86ae6af3a839b120d9": {
+            "file": "images/4a24acf09bd984789f0452547dfb83e48076d18cb198ce86ae6af3a839b120d9.jpg",
+            "filename": "paste-86041079840771.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56874
+        },
+        "a561b7a4af8245ab806ed4df7a3d370320bae609769a9f8414b986d251cf7905": {
+            "file": "images/a561b7a4af8245ab806ed4df7a3d370320bae609769a9f8414b986d251cf7905.jpg",
+            "filename": "paste-85993835200515.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54133
+        }
+    }
+}

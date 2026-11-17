@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480291745067",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480291745067",
+        "noteId": "1480291378231",
+        "noteGuid": "kQ,lW$HiT;",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.4 - Etoposide, teniposide, topotecan, irinotecan",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(2)-DNA_&_Cellular_Division::2.4-Etoposide,Teniposide,Topotecan,Irinotecan",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "Are Topoisomerase I or II inhibitors associated with severe, potentially life threatening, diarrhea?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Topoisomerase I inhibitors\n\n[Image: f18ffadd7086ec4675e1e200c687e62b86c13b781440a7ca4c1ac5da85441b8c]",
+        "imageIds": [
+            "f18ffadd7086ec4675e1e200c687e62b86c13b781440a7ca4c1ac5da85441b8c"
+        ]
+    },
+    "images": {
+        "f18ffadd7086ec4675e1e200c687e62b86c13b781440a7ca4c1ac5da85441b8c": {
+            "file": "images/f18ffadd7086ec4675e1e200c687e62b86c13b781440a7ca4c1ac5da85441b8c.jpg",
+            "filename": "paste-17102559772675.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55470
+        }
+    }
+}

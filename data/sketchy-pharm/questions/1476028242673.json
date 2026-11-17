@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476028242673",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476028242673",
+        "noteId": "1476026238349",
+        "noteGuid": "q{jN<,Pl7#",
+        "modelId": "1475688242543",
+        "templateOrdinal": 19
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.1 - Heparin, LMWH, fondaparinux, direct thrombin inhibitors, Xa inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.1-Heparin,LMWH,Fondaparinux,Direct_Thrombin_Inhibitors",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "Suffix: Direct factor Xa inhibitor",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "\"-xaban\"\n\n[Image: 4d554a235711029a0f0b931ef05e51e14b0277f8e60b2c6c5189c80812ad37d0]\n\n[Image: 5fa320c49eae3335b86ccd2ec1ae3a419cff9b39b806a1da53b215789d1feb25]",
+        "imageIds": [
+            "4d554a235711029a0f0b931ef05e51e14b0277f8e60b2c6c5189c80812ad37d0",
+            "5fa320c49eae3335b86ccd2ec1ae3a419cff9b39b806a1da53b215789d1feb25"
+        ]
+    },
+    "images": {
+        "4d554a235711029a0f0b931ef05e51e14b0277f8e60b2c6c5189c80812ad37d0": {
+            "file": "images/4d554a235711029a0f0b931ef05e51e14b0277f8e60b2c6c5189c80812ad37d0.jpg",
+            "filename": "paste-90005334654979.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 93280
+        },
+        "5fa320c49eae3335b86ccd2ec1ae3a419cff9b39b806a1da53b215789d1feb25": {
+            "file": "images/5fa320c49eae3335b86ccd2ec1ae3a419cff9b39b806a1da53b215789d1feb25.jpg",
+            "filename": "paste-90117003804675.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 94622
+        }
+    }
+}

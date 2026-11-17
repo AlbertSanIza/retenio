@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476238755346",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476238755346",
+        "noteId": "1476236480934",
+        "noteGuid": "cj@yKLEX0c",
+        "modelId": "1475688242543",
+        "templateOrdinal": 12
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.4 - K+ sparing diuretics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.4-Potassium_Sparing_Diuretics",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "What are two classes of diuretics which prevent cardiac remodeling and improve outcomes in heart failure?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Aldosterone receptor antagonists\n(2) ACE Inhibitors\n\n(Theme: ↓ Aldosterone Fx ⇒ ↑ Survival)\n\n[Image: 12852896ab6e89cf73405408c98156342a07a3a65194ce06676fce5a9d0357c6]\n\n[Image: accece7b2a1a6fa0825a5e25158622daacf56fc3a76d7444a4955cdc127a25a4]",
+        "imageIds": [
+            "12852896ab6e89cf73405408c98156342a07a3a65194ce06676fce5a9d0357c6",
+            "accece7b2a1a6fa0825a5e25158622daacf56fc3a76d7444a4955cdc127a25a4"
+        ]
+    },
+    "images": {
+        "12852896ab6e89cf73405408c98156342a07a3a65194ce06676fce5a9d0357c6": {
+            "file": "images/12852896ab6e89cf73405408c98156342a07a3a65194ce06676fce5a9d0357c6.jpg",
+            "filename": "paste-110964775059459.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 68381
+        },
+        "accece7b2a1a6fa0825a5e25158622daacf56fc3a76d7444a4955cdc127a25a4": {
+            "file": "images/accece7b2a1a6fa0825a5e25158622daacf56fc3a76d7444a4955cdc127a25a4.jpg",
+            "filename": "paste-52570399703043.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49502
+        }
+    }
+}

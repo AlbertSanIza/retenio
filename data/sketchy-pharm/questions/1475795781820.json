@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475795781820",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475795781820",
+        "noteId": "1475794790683",
+        "noteGuid": "l!ym7T{M~Z",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.2 - Tricyclic antidepressants",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.2-TCAs",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "What would the EKG show in a TCA overdose?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Widened QRS complex\n\n[Image: dd787166404095d763883b065d9cb9c024217dd1f9def662dbb9d17dd73a0ac3]\n\n[Image: cfba73e86ef76a5d6edf54cc98daa3206dcf328bbec4d656922db9df981d7fc7]",
+        "imageIds": [
+            "dd787166404095d763883b065d9cb9c024217dd1f9def662dbb9d17dd73a0ac3",
+            "cfba73e86ef76a5d6edf54cc98daa3206dcf328bbec4d656922db9df981d7fc7"
+        ]
+    },
+    "images": {
+        "cfba73e86ef76a5d6edf54cc98daa3206dcf328bbec4d656922db9df981d7fc7": {
+            "file": "images/cfba73e86ef76a5d6edf54cc98daa3206dcf328bbec4d656922db9df981d7fc7.jpg",
+            "filename": "paste-25542170509315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48346
+        },
+        "dd787166404095d763883b065d9cb9c024217dd1f9def662dbb9d17dd73a0ac3": {
+            "file": "images/dd787166404095d763883b065d9cb9c024217dd1f9def662dbb9d17dd73a0ac3.jpg",
+            "filename": "paste-22080426868739.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56180
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475732239199",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475732239199",
+        "noteId": "1475731410843",
+        "noteGuid": "KE^F%)4EQ[",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.4 - Beta blockers",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.4-Beta_Drugs",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "Which class of sympatholytic is useful in hypertrophic obstructive cardiomyopathy?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "β-blockers\n\n(↓ Ventricle volume ∝ ↑ Outflow resistance ∴ β-blockers mediated ↓ in stroke volume helps with symptoms)\n\n[Image: 7acac48c18a0e8581bcab015b211468b1530f0cd808bc52cb31f0d780923fdb4]",
+        "imageIds": [
+            "7acac48c18a0e8581bcab015b211468b1530f0cd808bc52cb31f0d780923fdb4"
+        ]
+    },
+    "images": {
+        "7acac48c18a0e8581bcab015b211468b1530f0cd808bc52cb31f0d780923fdb4": {
+            "file": "images/7acac48c18a0e8581bcab015b211468b1530f0cd808bc52cb31f0d780923fdb4.jpg",
+            "filename": "paste-37477884624899.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62618
+        }
+    }
+}

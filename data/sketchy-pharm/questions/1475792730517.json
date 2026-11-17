@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475792730517",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475792730517",
+        "noteId": "1475792044077",
+        "noteGuid": "qVcCznMNv/",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::1 Sedative-hypnotics::1.1 - Benzodiazepines, flumazenil",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(1)-Sedatives_&_Hypnotics::1.1-Benzodiazepines,Flumazenil",
+        "$$Neuro/Psych",
+        "$Sedatives&Hypnotics"
+    ],
+    "question": {
+        "text": "Benzodiazepines increase the conductance of what ion?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Cl-\n\n[Image: 38bfa60a14a2410d98523b77ffe4c0d4a962594bfd42f2c9ff624e4d3b049c37]",
+        "imageIds": [
+            "38bfa60a14a2410d98523b77ffe4c0d4a962594bfd42f2c9ff624e4d3b049c37"
+        ]
+    },
+    "images": {
+        "38bfa60a14a2410d98523b77ffe4c0d4a962594bfd42f2c9ff624e4d3b049c37": {
+            "file": "images/38bfa60a14a2410d98523b77ffe4c0d4a962594bfd42f2c9ff624e4d3b049c37.jpg",
+            "filename": "paste-6287832121347 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53466
+        }
+    }
+}

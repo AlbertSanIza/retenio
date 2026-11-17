@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480822838423",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480822838423",
+        "noteId": "1480822475400",
+        "noteGuid": "M<MBd)n{6z",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::4 Other Antibiotics::4.3 - Metronidazole",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(4)-Other_Antibiotics::4.3-Metronidazole",
+        "$$Antimicrobials",
+        "$Other_Antibiotics"
+    ],
+    "question": {
+        "text": "What is the drug of choice for pseudomembranous colitis caused by Clostridium difficile?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Metronidazole\n\n[Image: 2bf38c163918039100f18181c944d71ce6710207be3e61837452ecf362d92c87]\n\n[Image: 1c420463acc82a998974bef33504bee1ef862bba44de8cac6434238e10e9a34d]",
+        "imageIds": [
+            "2bf38c163918039100f18181c944d71ce6710207be3e61837452ecf362d92c87",
+            "1c420463acc82a998974bef33504bee1ef862bba44de8cac6434238e10e9a34d"
+        ]
+    },
+    "images": {
+        "1c420463acc82a998974bef33504bee1ef862bba44de8cac6434238e10e9a34d": {
+            "file": "images/1c420463acc82a998974bef33504bee1ef862bba44de8cac6434238e10e9a34d.jpg",
+            "filename": "paste-11355893530625.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 76338
+        },
+        "2bf38c163918039100f18181c944d71ce6710207be3e61837452ecf362d92c87": {
+            "file": "images/2bf38c163918039100f18181c944d71ce6710207be3e61837452ecf362d92c87.jpg",
+            "filename": "paste-244976344629251.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50161
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479168737479",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479168737479",
+        "noteId": "1479167856326",
+        "noteGuid": "gr<{i]C0f-",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::5 Antipsychotics & Parkinson's::5.2 - Second generation antipsychotics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(5)-Antipsychotics_&_Parkinsons::5.2-Second_Generation_Antipsychotics",
+        "$$Neuro/Psych",
+        "$Antipsychotics_&_Parkinsons"
+    ],
+    "question": {
+        "text": "What are the potential adverse effects most associated with Clozapine?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Agranulocytosis\n(2) Myocarditis/cardiomyopathy\n\n(3) Seizures\n\n[Image: 0d416840d87f7707cafd4a346968241ccb383d31af17991583bdce5fd40fb673]\n\n[Image: 37855002c3dbcbda49390421c842a2d432b3c9865d20972510a8fb94f5161947]\n\n[Image: e8a99b37f42bd30fbd56ccdaddfed1dae5edc9fffa17da71ff520f8d7116bdcc]",
+        "imageIds": [
+            "0d416840d87f7707cafd4a346968241ccb383d31af17991583bdce5fd40fb673",
+            "37855002c3dbcbda49390421c842a2d432b3c9865d20972510a8fb94f5161947",
+            "e8a99b37f42bd30fbd56ccdaddfed1dae5edc9fffa17da71ff520f8d7116bdcc"
+        ]
+    },
+    "images": {
+        "0d416840d87f7707cafd4a346968241ccb383d31af17991583bdce5fd40fb673": {
+            "file": "images/0d416840d87f7707cafd4a346968241ccb383d31af17991583bdce5fd40fb673.jpg",
+            "filename": "paste-283953172840451.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58214
+        },
+        "37855002c3dbcbda49390421c842a2d432b3c9865d20972510a8fb94f5161947": {
+            "file": "images/37855002c3dbcbda49390421c842a2d432b3c9865d20972510a8fb94f5161947.jpg",
+            "filename": "paste-284056252055555.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59055
+        },
+        "e8a99b37f42bd30fbd56ccdaddfed1dae5edc9fffa17da71ff520f8d7116bdcc": {
+            "file": "images/e8a99b37f42bd30fbd56ccdaddfed1dae5edc9fffa17da71ff520f8d7116bdcc.jpg",
+            "filename": "paste-284206575910915.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57513
+        }
+    }
+}

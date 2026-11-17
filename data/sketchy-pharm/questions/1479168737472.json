@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479168737472",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479168737472",
+        "noteId": "1479167856326",
+        "noteGuid": "gr<{i]C0f-",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::5 Antipsychotics & Parkinson's::5.2 - Second generation antipsychotics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(5)-Antipsychotics_&_Parkinsons::5.2-Second_Generation_Antipsychotics",
+        "$$Neuro/Psych",
+        "$Antipsychotics_&_Parkinsons"
+    ],
+    "question": {
+        "text": "MOA: Atypical antipsychotics",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Central D2-receptor antagonist\n(2) 5-HT2A receptor antagonist\n\n[Image: b502edf839e8a87e961b3452724e7044e496c98a728feb525bc55b89eb80a5a7]\n\n[Image: a1b11691425fe636a0b277fd81bfc6872cf493cca763d1d3806bb16b22c64998]",
+        "imageIds": [
+            "b502edf839e8a87e961b3452724e7044e496c98a728feb525bc55b89eb80a5a7",
+            "a1b11691425fe636a0b277fd81bfc6872cf493cca763d1d3806bb16b22c64998"
+        ]
+    },
+    "images": {
+        "a1b11691425fe636a0b277fd81bfc6872cf493cca763d1d3806bb16b22c64998": {
+            "file": "images/a1b11691425fe636a0b277fd81bfc6872cf493cca763d1d3806bb16b22c64998.jpg",
+            "filename": "paste-282617438011395.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48500
+        },
+        "b502edf839e8a87e961b3452724e7044e496c98a728feb525bc55b89eb80a5a7": {
+            "file": "images/b502edf839e8a87e961b3452724e7044e496c98a728feb525bc55b89eb80a5a7.jpg",
+            "filename": "paste-282591668207619.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49857
+        }
+    }
+}

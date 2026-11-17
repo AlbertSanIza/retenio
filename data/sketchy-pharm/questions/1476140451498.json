@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476140451498",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476140451498",
+        "noteId": "1476139819858",
+        "noteGuid": "eO7SmiTCn*",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.4 - Glucocorticoids",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.4-Glucocorticoids",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "What electrolyte abnormality can glucocorticoids cause?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Hypokalemia\n\n(Due to mineralcorticoid effects)\n\n[Image: 3a10a32afdadd35e64f64edb5e15cd835e54f75efb5cba4e63ed57150129f054]",
+        "imageIds": [
+            "3a10a32afdadd35e64f64edb5e15cd835e54f75efb5cba4e63ed57150129f054"
+        ]
+    },
+    "images": {
+        "3a10a32afdadd35e64f64edb5e15cd835e54f75efb5cba4e63ed57150129f054": {
+            "file": "images/3a10a32afdadd35e64f64edb5e15cd835e54f75efb5cba4e63ed57150129f054.jpg",
+            "filename": "paste-111334142246915.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54126
+        }
+    }
+}

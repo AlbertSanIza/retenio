@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480545922877",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480545922877",
+        "noteId": "1480544887082",
+        "noteGuid": "u<L|B!T%5S",
+        "modelId": "1475688242543",
+        "templateOrdinal": 16
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.6 - Aminoglycosides",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.6-Aminoglycosides",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "What developmental defect is associated with aminoglycoside use during pregnancy?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Deafness\n\n[Image: 1e4b68ff8a55955ea1a5316fbb80808aff4bac935c577634f315dea8b844205a]",
+        "imageIds": [
+            "1e4b68ff8a55955ea1a5316fbb80808aff4bac935c577634f315dea8b844205a"
+        ]
+    },
+    "images": {
+        "1e4b68ff8a55955ea1a5316fbb80808aff4bac935c577634f315dea8b844205a": {
+            "file": "images/1e4b68ff8a55955ea1a5316fbb80808aff4bac935c577634f315dea8b844205a.jpg",
+            "filename": "paste-27749783699459.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44267
+        }
+    }
+}

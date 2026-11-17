@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480291745061",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480291745061",
+        "noteId": "1480291378231",
+        "noteGuid": "kQ,lW$HiT;",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.4 - Etoposide, teniposide, topotecan, irinotecan",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(2)-DNA_&_Cellular_Division::2.4-Etoposide,Teniposide,Topotecan,Irinotecan",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "Suffix: Topoisomerase I Inhibitors",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "\"-tecan\"\n\n[Image: 8218c1dfc11f80baf7cc20692178ac00043ee2701c11f3e688f25a5f1435a161]",
+        "imageIds": [
+            "8218c1dfc11f80baf7cc20692178ac00043ee2701c11f3e688f25a5f1435a161"
+        ]
+    },
+    "images": {
+        "8218c1dfc11f80baf7cc20692178ac00043ee2701c11f3e688f25a5f1435a161": {
+            "file": "images/8218c1dfc11f80baf7cc20692178ac00043ee2701c11f3e688f25a5f1435a161.jpg",
+            "filename": "paste-9762460663811 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56399
+        }
+    }
+}

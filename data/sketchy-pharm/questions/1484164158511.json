@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484164158511",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484164158511",
+        "noteId": "1484162877085",
+        "noteGuid": "K^0}t0mL6T",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::5 Antipsychotics & Parkinson's::5.3 - Levodopa/carbidopa, entacapone, tolcapone, selegiline, ropinirole, pramipexole, amantadine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(5)-Antipsychotics_&_Parkinsons::5.3-Parkinsons_Drugs",
+        "$$Neuro/Psych",
+        "$Antipsychotics_&_Parkinsons"
+    ],
+    "question": {
+        "text": "What drug can be used to alleviate the peripheral side effects of L-DOPA?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Carbidopa\n\n[Image: 4016ecb9f3b4862cd9e311d69f17459b6c745dd983efec4d1bfdfbac6046e253]",
+        "imageIds": [
+            "4016ecb9f3b4862cd9e311d69f17459b6c745dd983efec4d1bfdfbac6046e253"
+        ]
+    },
+    "images": {
+        "4016ecb9f3b4862cd9e311d69f17459b6c745dd983efec4d1bfdfbac6046e253": {
+            "file": "images/4016ecb9f3b4862cd9e311d69f17459b6c745dd983efec4d1bfdfbac6046e253.jpg",
+            "filename": "paste-257131102076931.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 67834
+        }
+    }
+}

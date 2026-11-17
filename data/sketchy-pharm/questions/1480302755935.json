@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480302755935",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480302755935",
+        "noteId": "1480301676727",
+        "noteGuid": "oy.7TfmNm^",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.4 - Cephalosporins",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.4-Cephalosporins",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "Name 2 first generation cephalosporins",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Cefazolin\n(2) Cephalexin\n\n[Image: 14a706bb3e3670284ac2c3f5f2f74131e39f6efae2b8afea8802ed88d7e54261]\n\n[Image: a18c32be5af3908c9d083774fb6c1f7d9eb2fae2ad7f2a3cae77c2cf79e36166]",
+        "imageIds": [
+            "14a706bb3e3670284ac2c3f5f2f74131e39f6efae2b8afea8802ed88d7e54261",
+            "a18c32be5af3908c9d083774fb6c1f7d9eb2fae2ad7f2a3cae77c2cf79e36166"
+        ]
+    },
+    "images": {
+        "14a706bb3e3670284ac2c3f5f2f74131e39f6efae2b8afea8802ed88d7e54261": {
+            "file": "images/14a706bb3e3670284ac2c3f5f2f74131e39f6efae2b8afea8802ed88d7e54261.jpg",
+            "filename": "paste-98749888069635.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 23628
+        },
+        "a18c32be5af3908c9d083774fb6c1f7d9eb2fae2ad7f2a3cae77c2cf79e36166": {
+            "file": "images/a18c32be5af3908c9d083774fb6c1f7d9eb2fae2ad7f2a3cae77c2cf79e36166.jpg",
+            "filename": "paste-98737003167747.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 22747
+        }
+    }
+}

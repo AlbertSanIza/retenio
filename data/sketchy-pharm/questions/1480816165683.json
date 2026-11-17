@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480816165683",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480816165683",
+        "noteId": "1480812867870",
+        "noteGuid": "B.#W9#QCRN",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::3 Antimycobacterials::3.1 - Tuberculosis Drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(3)-Antimycobacterials::3.1-Tuberculosis_Drugs",
+        "$$Antimicrobials",
+        "$Antimycobacterials"
+    ],
+    "question": {
+        "text": "What drug regimen is most commonly used to treat active tuberculosis?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Rifampin\n\n(2) Isoniazid\n\n(3) Pyrazinamide\n\n(4) Ethambutol\n\n(And Vitamin B6)\n\n[Image: ce36b4ddde17f1580fae9b351a07929e529b430039362fc4d119dc2ff712f53d]",
+        "imageIds": [
+            "ce36b4ddde17f1580fae9b351a07929e529b430039362fc4d119dc2ff712f53d"
+        ]
+    },
+    "images": {
+        "ce36b4ddde17f1580fae9b351a07929e529b430039362fc4d119dc2ff712f53d": {
+            "file": "images/ce36b4ddde17f1580fae9b351a07929e529b430039362fc4d119dc2ff712f53d.jpg",
+            "filename": "paste-171888886153219.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 36098
+        }
+    }
+}

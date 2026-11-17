@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480308394939",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480308394939",
+        "noteId": "1480307995792",
+        "noteGuid": "llJTLT7ctu",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.2 - NNRTIs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.2-NNRTIs",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "Do NNRTIs require phosphorylation to be active?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "No\n\n[Image: 7072361ecdbdf4568fc153b70845c2d95781fdbd53a8c5462264b3b7e8d1950e]",
+        "imageIds": [
+            "7072361ecdbdf4568fc153b70845c2d95781fdbd53a8c5462264b3b7e8d1950e"
+        ]
+    },
+    "images": {
+        "7072361ecdbdf4568fc153b70845c2d95781fdbd53a8c5462264b3b7e8d1950e": {
+            "file": "images/7072361ecdbdf4568fc153b70845c2d95781fdbd53a8c5462264b3b7e8d1950e.jpg",
+            "filename": "paste-119099443118083.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48320
+        }
+    }
+}

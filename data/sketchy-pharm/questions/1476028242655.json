@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476028242655",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476028242655",
+        "noteId": "1476026238349",
+        "noteGuid": "q{jN<,Pl7#",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.1 - Heparin, LMWH, fondaparinux, direct thrombin inhibitors, Xa inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.1-Heparin,LMWH,Fondaparinux,Direct_Thrombin_Inhibitors",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "What coagulation factor activates thrombin?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Factor Xa\n\n[Image: 567e8f58484a57ca33fde71fa85364934a0d9cf86a9ab79bf773f59f84a585a6]",
+        "imageIds": [
+            "567e8f58484a57ca33fde71fa85364934a0d9cf86a9ab79bf773f59f84a585a6"
+        ]
+    },
+    "images": {
+        "567e8f58484a57ca33fde71fa85364934a0d9cf86a9ab79bf773f59f84a585a6": {
+            "file": "images/567e8f58484a57ca33fde71fa85364934a0d9cf86a9ab79bf773f59f84a585a6.jpg",
+            "filename": "paste-86230058401795.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60930
+        }
+    }
+}

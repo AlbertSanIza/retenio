@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476235253622",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476235253622",
+        "noteId": "1476235100464",
+        "noteGuid": "vE5{@SswBz",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.2 - Loop diuretics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.2-Loop_Diuretics",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "Which class of diuretics induce the expression of COX-2?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Loop diuretics\n\n[Image: bcc53b45319feac63eeb472fc36bc8805703da44894453492736b2a9257a676f]\n\n[Image: 53576c9febc16250a6ba203588cb4554197dff813f0554176511336b5d1724d8]",
+        "imageIds": [
+            "bcc53b45319feac63eeb472fc36bc8805703da44894453492736b2a9257a676f",
+            "53576c9febc16250a6ba203588cb4554197dff813f0554176511336b5d1724d8"
+        ]
+    },
+    "images": {
+        "53576c9febc16250a6ba203588cb4554197dff813f0554176511336b5d1724d8": {
+            "file": "images/53576c9febc16250a6ba203588cb4554197dff813f0554176511336b5d1724d8.jpg",
+            "filename": "paste-21565030793219.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63308
+        },
+        "bcc53b45319feac63eeb472fc36bc8805703da44894453492736b2a9257a676f": {
+            "file": "images/bcc53b45319feac63eeb472fc36bc8805703da44894453492736b2a9257a676f.jpg",
+            "filename": "paste-21401822035971.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62341
+        }
+    }
+}

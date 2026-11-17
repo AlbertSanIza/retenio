@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480306574849",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480306574849",
+        "noteId": "1480305923806",
+        "noteGuid": "c7-s#c:$D:",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.6 - Vancomycin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.6-Vancomycin",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "Adverse Effects (5) : Vancomycin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Redman syndrome\n(2) Thrombophlebitis\n\n(3) Ototoxicity\n\n(4) Nephrotoxicity\n\n(5) DRESS syndrome\n\n[Image: 29e45003224f06320ebd7c5df9617fcdd809f7125546a99a943828eac1c4d0f1]\n\n[Image: 0b30b7f93370cf972741d24070da27f0ca4e022454fc73b185de1c2c257f5e6f]\n\n[Image: 60a4c36cd362b334fb40ea63203b075853a9079981671270b4006e0775b75fd9]\n\n[Image: fea95d6706ed272fc031fd3ef179bf77b11911556265b0bf1336c78de7bf6591]",
+        "imageIds": [
+            "29e45003224f06320ebd7c5df9617fcdd809f7125546a99a943828eac1c4d0f1",
+            "0b30b7f93370cf972741d24070da27f0ca4e022454fc73b185de1c2c257f5e6f",
+            "60a4c36cd362b334fb40ea63203b075853a9079981671270b4006e0775b75fd9",
+            "fea95d6706ed272fc031fd3ef179bf77b11911556265b0bf1336c78de7bf6591"
+        ]
+    },
+    "images": {
+        "0b30b7f93370cf972741d24070da27f0ca4e022454fc73b185de1c2c257f5e6f": {
+            "file": "images/0b30b7f93370cf972741d24070da27f0ca4e022454fc73b185de1c2c257f5e6f.jpg",
+            "filename": "paste-113657719554051.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61746
+        },
+        "29e45003224f06320ebd7c5df9617fcdd809f7125546a99a943828eac1c4d0f1": {
+            "file": "images/29e45003224f06320ebd7c5df9617fcdd809f7125546a99a943828eac1c4d0f1.jpg",
+            "filename": "paste-113082193936387.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62805
+        },
+        "60a4c36cd362b334fb40ea63203b075853a9079981671270b4006e0775b75fd9": {
+            "file": "images/60a4c36cd362b334fb40ea63203b075853a9079981671270b4006e0775b75fd9.jpg",
+            "filename": "paste-113460151058435.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 64182
+        },
+        "fea95d6706ed272fc031fd3ef179bf77b11911556265b0bf1336c78de7bf6591": {
+            "file": "images/fea95d6706ed272fc031fd3ef179bf77b11911556265b0bf1336c78de7bf6591.jpg",
+            "filename": "paste-113911122624515.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65380
+        }
+    }
+}

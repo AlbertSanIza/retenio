@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476235253625",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476235253625",
+        "noteId": "1476235100464",
+        "noteGuid": "vE5{@SswBz",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.2 - Loop diuretics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.2-Loop_Diuretics",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "Which class of diuretics are the first line treatment for pulmonary edema secondary to heart failure?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Loop diuretics\n\n(∵ They are the most efficacious. Also note the #1 on the baloon)\n\n[Image: d4afff9af3dd32deef39083727fa3315d39252fb25f921ea9969e6548b9eff38]",
+        "imageIds": [
+            "d4afff9af3dd32deef39083727fa3315d39252fb25f921ea9969e6548b9eff38"
+        ]
+    },
+    "images": {
+        "d4afff9af3dd32deef39083727fa3315d39252fb25f921ea9969e6548b9eff38": {
+            "file": "images/d4afff9af3dd32deef39083727fa3315d39252fb25f921ea9969e6548b9eff38.jpg",
+            "filename": "paste-22681722290179.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 64366
+        }
+    }
+}

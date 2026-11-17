@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479166795083",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479166795083",
+        "noteId": "1479166331886",
+        "noteGuid": "nZiAb4L,QC",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::5 Antipsychotics & Parkinson's::5.1 - First generation antipsychotics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(5)-Antipsychotics_&_Parkinsons::5.1-First_Generation_Antipsychotics",
+        "$$Neuro/Psych",
+        "$Antipsychotics_&_Parkinsons"
+    ],
+    "question": {
+        "text": "Do first generation antipsychotics have a short or long half-life?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Long\n\n[Image: a46e724d71dbb85e1e88e3bb028b69f313f2a3f2fc2a68ecd35d42527370f47e]",
+        "imageIds": [
+            "a46e724d71dbb85e1e88e3bb028b69f313f2a3f2fc2a68ecd35d42527370f47e"
+        ]
+    },
+    "images": {
+        "a46e724d71dbb85e1e88e3bb028b69f313f2a3f2fc2a68ecd35d42527370f47e": {
+            "file": "images/a46e724d71dbb85e1e88e3bb028b69f313f2a3f2fc2a68ecd35d42527370f47e.jpg",
+            "filename": "paste-166911019057155.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59880
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1481678414797",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1481678414797",
+        "noteId": "1481676393166",
+        "noteGuid": "oJpn5okB#l",
+        "modelId": "1475688242543",
+        "templateOrdinal": 22
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::3 Anti-inflammatory::3.1 - NSAIDs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(3)-Anti-Inflammatory_Drugs::3.1-NSAIDs",
+        "$$Blood_&_Inflammation",
+        "$Anti-inflammatory"
+    ],
+    "question": {
+        "text": "Treatment: Acetaminophen toxicity",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Charcoal\n(2) N-acetyl-cysteine\n\n[Image: c1914a8766c92dae7dbaf2ed20ae9a5b3138052cae7c0c7d1cc85ab13df67655]\n\n[Image: cc459a3fe15dc670ef5ca6bbd30f3cdea95780ed4a110ccebafec153cc6a8ccb]",
+        "imageIds": [
+            "c1914a8766c92dae7dbaf2ed20ae9a5b3138052cae7c0c7d1cc85ab13df67655",
+            "cc459a3fe15dc670ef5ca6bbd30f3cdea95780ed4a110ccebafec153cc6a8ccb"
+        ]
+    },
+    "images": {
+        "c1914a8766c92dae7dbaf2ed20ae9a5b3138052cae7c0c7d1cc85ab13df67655": {
+            "file": "images/c1914a8766c92dae7dbaf2ed20ae9a5b3138052cae7c0c7d1cc85ab13df67655.jpg",
+            "filename": "paste-208967338819587.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 99412
+        },
+        "cc459a3fe15dc670ef5ca6bbd30f3cdea95780ed4a110ccebafec153cc6a8ccb": {
+            "file": "images/cc459a3fe15dc670ef5ca6bbd30f3cdea95780ed4a110ccebafec153cc6a8ccb.jpg",
+            "filename": "paste-215684667670531.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 98755
+        }
+    }
+}

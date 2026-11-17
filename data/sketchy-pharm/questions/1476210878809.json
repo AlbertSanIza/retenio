@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476210878809",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476210878809",
+        "noteId": "1476210297974",
+        "noteGuid": "n:FNxZoP&d",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.1 - Acetazolamide, mannitol",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.1-Acetazolamide",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "Indications - Non-diuretic (3) : Acetazolamide",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Glaucoma\n(2) Idiopathic intracranial hypertension\n\n(3) Mountain sickness\n\n(Alkalinization of urine also treats gout and cystinuria by ↑ crystal solubility)\n\n[Image: aa4b2a0b9c10b1a8a39baad666c936bf527e0b42a3a5e8b2523402e0c6f184b3]\n\n[Image: d328d5e5d238030bee98d30c5109e071a2364d99611d00ff27c8137f80764dfc]\n\n[Image: e66c32cee0f2f1736426f17638d253268759995bfa485664ca585c6ea1cdbb5e]",
+        "imageIds": [
+            "aa4b2a0b9c10b1a8a39baad666c936bf527e0b42a3a5e8b2523402e0c6f184b3",
+            "d328d5e5d238030bee98d30c5109e071a2364d99611d00ff27c8137f80764dfc",
+            "e66c32cee0f2f1736426f17638d253268759995bfa485664ca585c6ea1cdbb5e"
+        ]
+    },
+    "images": {
+        "aa4b2a0b9c10b1a8a39baad666c936bf527e0b42a3a5e8b2523402e0c6f184b3": {
+            "file": "images/aa4b2a0b9c10b1a8a39baad666c936bf527e0b42a3a5e8b2523402e0c6f184b3.jpg",
+            "filename": "paste-53004191399939.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51995
+        },
+        "d328d5e5d238030bee98d30c5109e071a2364d99611d00ff27c8137f80764dfc": {
+            "file": "images/d328d5e5d238030bee98d30c5109e071a2364d99611d00ff27c8137f80764dfc.jpg",
+            "filename": "paste-53158810222595.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50281
+        },
+        "e66c32cee0f2f1736426f17638d253268759995bfa485664ca585c6ea1cdbb5e": {
+            "file": "images/e66c32cee0f2f1736426f17638d253268759995bfa485664ca585c6ea1cdbb5e.jpg",
+            "filename": "paste-53240414601219.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52328
+        }
+    }
+}

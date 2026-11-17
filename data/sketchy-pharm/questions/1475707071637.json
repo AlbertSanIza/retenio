@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475707071637",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475707071637",
+        "noteId": "1475705886299",
+        "noteGuid": "K{:IknGMa;",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::1 Vasoactive::1.1 - Nitrates",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(1)-Vasoactive::1.1-Nitrates",
+        "$$Smooth_Muscle",
+        "$Vasoactive"
+    ],
+    "question": {
+        "text": "Describe the effect nitrates have on the vasculature",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Significant venous dilation\n(2) Moderate dilation of large arteries\n\n[Image: 1eb072e658ad731213e234ffddfb155a0c02984c8b7ea78e748ed8a5369dc4da]\n\n[Image: ab510255b5cee7d460e1b71dda288602d94457010604f207c330b817154f85c6]",
+        "imageIds": [
+            "1eb072e658ad731213e234ffddfb155a0c02984c8b7ea78e748ed8a5369dc4da",
+            "ab510255b5cee7d460e1b71dda288602d94457010604f207c330b817154f85c6"
+        ]
+    },
+    "images": {
+        "1eb072e658ad731213e234ffddfb155a0c02984c8b7ea78e748ed8a5369dc4da": {
+            "file": "images/1eb072e658ad731213e234ffddfb155a0c02984c8b7ea78e748ed8a5369dc4da.jpg",
+            "filename": "paste-114959094644739.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 72174
+        },
+        "ab510255b5cee7d460e1b71dda288602d94457010604f207c330b817154f85c6": {
+            "file": "images/ab510255b5cee7d460e1b71dda288602d94457010604f207c330b817154f85c6.jpg",
+            "filename": "paste-120645631344643.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 72693
+        }
+    }
+}

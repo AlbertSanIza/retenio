@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475702036425",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475702036425",
+        "noteId": "1475701051571",
+        "noteGuid": "sja8v*xun+",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::2 Dyslipidemia Drugs::2.1 - Statins",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(2)-Dyslipidemia_Drugs::2.1-Statins",
+        "$$Blood_&_Inflammation",
+        "$DyslipidemiaDrugs"
+    ],
+    "question": {
+        "text": "What enzyme converts free cholesterol to cholesterol esters for transport by HDL?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "LCAT\n\n(Lecithin cholesterol acyltransferase)\n\n[Image: 8bae0281ccd4bdc80ffc0f8e94e11fddf5d4c7362cd02eee7fb7ff7d3dcf1b74]",
+        "imageIds": [
+            "8bae0281ccd4bdc80ffc0f8e94e11fddf5d4c7362cd02eee7fb7ff7d3dcf1b74"
+        ]
+    },
+    "images": {
+        "8bae0281ccd4bdc80ffc0f8e94e11fddf5d4c7362cd02eee7fb7ff7d3dcf1b74": {
+            "file": "images/8bae0281ccd4bdc80ffc0f8e94e11fddf5d4c7362cd02eee7fb7ff7d3dcf1b74.jpg",
+            "filename": "paste-135708081651715.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49942
+        }
+    }
+}

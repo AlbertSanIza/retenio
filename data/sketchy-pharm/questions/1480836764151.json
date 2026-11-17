@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480836764151",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480836764151",
+        "noteId": "1480835348971",
+        "noteGuid": "i*mBW%(]hE",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::8 Antivirals: other::8.1 - Acyclovir, valacyclovir, famciclovir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(8)-Antivirals-Other::8.1-Acyclovir,Valacyclovir,Famiciclovir",
+        "$$Antimicrobials",
+        "$Antivirals_Others"
+    ],
+    "question": {
+        "text": "Resistance: Acyclovir",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Absence of Viral Thymidine-kinase\n\n(∴ Acyclovir does not undergo the necessary initial phosphorylation to become activated)\n\n[Image: ba9626fa9e5dcbf2a8c09b1cd6345fe597c1a24c82276c71643078d4bb85ed2f]",
+        "imageIds": [
+            "ba9626fa9e5dcbf2a8c09b1cd6345fe597c1a24c82276c71643078d4bb85ed2f"
+        ]
+    },
+    "images": {
+        "ba9626fa9e5dcbf2a8c09b1cd6345fe597c1a24c82276c71643078d4bb85ed2f": {
+            "file": "images/ba9626fa9e5dcbf2a8c09b1cd6345fe597c1a24c82276c71643078d4bb85ed2f.jpg",
+            "filename": "paste-389600778387459.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43758
+        }
+    }
+}

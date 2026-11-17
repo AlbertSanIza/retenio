@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480826453243",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480826453243",
+        "noteId": "1480825958438",
+        "noteGuid": "wh`5lM*zbv",
+        "modelId": "1475688242543",
+        "templateOrdinal": 13
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::5 Antifungals::5.2 - Azoles",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(5)-Antifungals::5.2-Azoles",
+        "$$Antimicrobials",
+        "$Antifungals"
+    ],
+    "question": {
+        "text": "Other than Itraconazole, which azole can be used to treat dermatophytosis?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Ketoconazole\n\n(However, it's not used due to extensive side effects)\n\n[Image: ec391769b4e578b5f8d5737eba973bc77137e0c800bd5edfc18c6097dedff7a6]",
+        "imageIds": [
+            "ec391769b4e578b5f8d5737eba973bc77137e0c800bd5edfc18c6097dedff7a6"
+        ]
+    },
+    "images": {
+        "ec391769b4e578b5f8d5737eba973bc77137e0c800bd5edfc18c6097dedff7a6": {
+            "file": "images/ec391769b4e578b5f8d5737eba973bc77137e0c800bd5edfc18c6097dedff7a6.jpg",
+            "filename": "paste-295626893950979.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57730
+        }
+    }
+}

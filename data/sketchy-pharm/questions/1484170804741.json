@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484170804741",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484170804741",
+        "noteId": "1484170558195",
+        "noteGuid": "IPW<ydy+.t",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.2 - Inhaled anesthetics, dantrolene",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.2-Inhaled_Anesthetics,Dantrolene",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "What is the relationship between an inhaled anesthetic's solubility in blood and its rate of onset?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Rate of onset ∝ 1/Solubility\n\n(The fat kid passed out before the skinnier kid)\n\n[Image: 6d541920262e6c676b8a8d165ac7be22b0d5393c74fecd12919220cd54912735]\n\n[Image: 8eaaf0c4b40dde6dea803ebf4493d69e8aae159bc2ddb5812dd90059bf7a7d52]\n\n[Image: 54badb531abffbe6713a68ae22a228ab36ca8531f468862029bbf3e80967f903]",
+        "imageIds": [
+            "6d541920262e6c676b8a8d165ac7be22b0d5393c74fecd12919220cd54912735",
+            "8eaaf0c4b40dde6dea803ebf4493d69e8aae159bc2ddb5812dd90059bf7a7d52",
+            "54badb531abffbe6713a68ae22a228ab36ca8531f468862029bbf3e80967f903"
+        ]
+    },
+    "images": {
+        "54badb531abffbe6713a68ae22a228ab36ca8531f468862029bbf3e80967f903": {
+            "file": "images/54badb531abffbe6713a68ae22a228ab36ca8531f468862029bbf3e80967f903.jpg",
+            "filename": "paste-519411869941763.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 75874
+        },
+        "6d541920262e6c676b8a8d165ac7be22b0d5393c74fecd12919220cd54912735": {
+            "file": "images/6d541920262e6c676b8a8d165ac7be22b0d5393c74fecd12919220cd54912735.jpg",
+            "filename": "paste-513390325792771.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 77507
+        },
+        "8eaaf0c4b40dde6dea803ebf4493d69e8aae159bc2ddb5812dd90059bf7a7d52": {
+            "file": "images/8eaaf0c4b40dde6dea803ebf4493d69e8aae159bc2ddb5812dd90059bf7a7d52.jpg",
+            "filename": "paste-517917221322755.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 76000
+        }
+    }
+}

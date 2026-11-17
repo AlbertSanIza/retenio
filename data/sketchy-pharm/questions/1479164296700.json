@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479164296700",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479164296700",
+        "noteId": "1479164083148",
+        "noteGuid": "iA?3DF,6G1",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::3 Anti-inflammatory::3.2 - Gout drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(3)-Anti-Inflammatory_Drugs::3.2-Gout_Drugs",
+        "$$Blood_&_Inflammation",
+        "$Anti-inflammatory"
+    ],
+    "question": {
+        "text": "What enzyme converts hypoxanthine to uric acid?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Xanthine oxidase\n\n[Image: 2a41a54f5d0a3a141763228a08252ee3db8787338d6e194285720c52ef9977cf]\n\n[Image: 7b0c51fa51943d48ca0fcb9f919f800f8542651426246f91354944e3c7a5cc5c]",
+        "imageIds": [
+            "2a41a54f5d0a3a141763228a08252ee3db8787338d6e194285720c52ef9977cf",
+            "7b0c51fa51943d48ca0fcb9f919f800f8542651426246f91354944e3c7a5cc5c"
+        ]
+    },
+    "images": {
+        "2a41a54f5d0a3a141763228a08252ee3db8787338d6e194285720c52ef9977cf": {
+            "file": "images/2a41a54f5d0a3a141763228a08252ee3db8787338d6e194285720c52ef9977cf.jpg",
+            "filename": "paste-11806865096707.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 38511
+        },
+        "7b0c51fa51943d48ca0fcb9f919f800f8542651426246f91354944e3c7a5cc5c": {
+            "file": "images/7b0c51fa51943d48ca0fcb9f919f800f8542651426246f91354944e3c7a5cc5c.jpg",
+            "filename": "paste-11768210391043 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 40733
+        }
+    }
+}

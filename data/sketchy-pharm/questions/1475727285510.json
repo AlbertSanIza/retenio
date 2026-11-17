@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475727285510",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475727285510",
+        "noteId": "1475726464638",
+        "noteGuid": "JpARMA.2Xe",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::1 Parasympathetic::1.1 - Cholinomimetics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(1)-Parasympathetics::1.1-Cholinomimetics",
+        "$$Autonomic_Drugs",
+        "$Parasympathetics"
+    ],
+    "question": {
+        "text": "Where are M2 receptors found?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Atria\n(2) SA\n\n(3) AV\n\n[Image: 8d6b53534fc8a7652aacf7243d62608484c75e2c0065abb757f54b1998482160]",
+        "imageIds": [
+            "8d6b53534fc8a7652aacf7243d62608484c75e2c0065abb757f54b1998482160"
+        ]
+    },
+    "images": {
+        "8d6b53534fc8a7652aacf7243d62608484c75e2c0065abb757f54b1998482160": {
+            "file": "images/8d6b53534fc8a7652aacf7243d62608484c75e2c0065abb757f54b1998482160.jpg",
+            "filename": "paste-6468220747779.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58450
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476124356767",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476124356767",
+        "noteId": "1476123573815",
+        "noteGuid": "k=!B>3>6eG",
+        "modelId": "1475688242543",
+        "templateOrdinal": 26
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::2 Diabetes::2.1 - Insulin, Sulfonylureas, Meglitinides, GLP-1 Agonists, DPP-4 Inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(2)-Diabetes::2.1-Insulin,Sulfonylureas,Meglitinides,GLP-1_Agonists,DPP-4_Inhibitors",
+        "$$GI_&_Endocrine",
+        "$Diabetes"
+    ],
+    "question": {
+        "text": "Adverse Effects (2) : DPP-4 inhibitors",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Nasopharyngitis\n(2) URTIs\n\n[Image: e8f20aa164eb997c9b282b68469d1035620404a4d1278ecadc14af75a436234b]",
+        "imageIds": [
+            "e8f20aa164eb997c9b282b68469d1035620404a4d1278ecadc14af75a436234b"
+        ]
+    },
+    "images": {
+        "e8f20aa164eb997c9b282b68469d1035620404a4d1278ecadc14af75a436234b": {
+            "file": "images/e8f20aa164eb997c9b282b68469d1035620404a4d1278ecadc14af75a436234b.jpg",
+            "filename": "paste-48881022795779.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59084
+        }
+    }
+}

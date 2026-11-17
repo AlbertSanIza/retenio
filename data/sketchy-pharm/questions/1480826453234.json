@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480826453234",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480826453234",
+        "noteId": "1480825958438",
+        "noteGuid": "wh`5lM*zbv",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::5 Antifungals::5.2 - Azoles",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(5)-Antifungals::5.2-Azoles",
+        "$$Antimicrobials",
+        "$Antifungals"
+    ],
+    "question": {
+        "text": "Name 2 antibiotics which may cause changes in color vision",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Voriconazole\n(2) Ethambutol\n\n(Not an antibiotic, but Digoxin)\n\n[Image: 709d5387779408ab9c394cf572588f681b79246f66846574ca8efb245a16b5bc]\n\n[Image: ea3965aff61a7efa53cc9a5771a648740e72d65a882d4a3e82caaddfc6674cdf]\n\n[Image: d8a5b9302d7d4bb673bc72c1878cb7435e8a2709165a5c4f40469aa492fc3daf]",
+        "imageIds": [
+            "709d5387779408ab9c394cf572588f681b79246f66846574ca8efb245a16b5bc",
+            "ea3965aff61a7efa53cc9a5771a648740e72d65a882d4a3e82caaddfc6674cdf",
+            "d8a5b9302d7d4bb673bc72c1878cb7435e8a2709165a5c4f40469aa492fc3daf"
+        ]
+    },
+    "images": {
+        "709d5387779408ab9c394cf572588f681b79246f66846574ca8efb245a16b5bc": {
+            "file": "images/709d5387779408ab9c394cf572588f681b79246f66846574ca8efb245a16b5bc.jpg",
+            "filename": "paste-264771848896515.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46267
+        },
+        "d8a5b9302d7d4bb673bc72c1878cb7435e8a2709165a5c4f40469aa492fc3daf": {
+            "file": "images/d8a5b9302d7d4bb673bc72c1878cb7435e8a2709165a5c4f40469aa492fc3daf.jpg",
+            "filename": "paste-955853561659395.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 76320
+        },
+        "ea3965aff61a7efa53cc9a5771a648740e72d65a882d4a3e82caaddfc6674cdf": {
+            "file": "images/ea3965aff61a7efa53cc9a5771a648740e72d65a882d4a3e82caaddfc6674cdf.jpg",
+            "filename": "paste-183846075105283.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61733
+        }
+    }
+}

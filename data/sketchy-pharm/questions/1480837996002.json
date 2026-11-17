@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480837996002",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480837996002",
+        "noteId": "1480837653001",
+        "noteGuid": "PaSdeX5^)E",
+        "modelId": "1475688242543",
+        "templateOrdinal": 13
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::8 Antivirals: other::8.2 - Ganciclovir, valganciclovir, foscarnet, cidofovir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(8)-Antivirals-Other::8.2-Ganciclovir,Valganciclovir,Foscarnet,Cidofovir",
+        "$$Antimicrobials",
+        "$Antivirals_Others"
+    ],
+    "question": {
+        "text": "How does Probenecid protect the kidney from Cidofovir?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Inhibits tubular secretion\n\n(∴ Reduced intra-lumenal Cidofovir concentration ⇒ Reduced toxicity)\n\n[Image: 7f32d30a19e3c6b0268a625ff27358122f04641bd513fcf27f684cb4df0defc6]\n\n[Image: 2d5f041d8f5ad13faea731234b7c85506d97a73d918ff84b2450e295c985b1fc]",
+        "imageIds": [
+            "7f32d30a19e3c6b0268a625ff27358122f04641bd513fcf27f684cb4df0defc6",
+            "2d5f041d8f5ad13faea731234b7c85506d97a73d918ff84b2450e295c985b1fc"
+        ]
+    },
+    "images": {
+        "2d5f041d8f5ad13faea731234b7c85506d97a73d918ff84b2450e295c985b1fc": {
+            "file": "images/2d5f041d8f5ad13faea731234b7c85506d97a73d918ff84b2450e295c985b1fc.jpg",
+            "filename": "paste-419605419917315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60074
+        },
+        "7f32d30a19e3c6b0268a625ff27358122f04641bd513fcf27f684cb4df0defc6": {
+            "file": "images/7f32d30a19e3c6b0268a625ff27358122f04641bd513fcf27f684cb4df0defc6.jpg",
+            "filename": "paste-419047074168835.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59298
+        }
+    }
+}

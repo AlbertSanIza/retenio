@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476029652807",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476029652807",
+        "noteId": "1476028790280",
+        "noteGuid": "hTu{S)5RkV",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.2 - Warfarin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.2-Warfarin",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "Indications (2) : Warfarin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Prophylaxis in atrial fibrillation\n(2) DVT prophylaxis\n\n[Image: e78361ca2a1440409078f9c2582d8305167b8d30c51e91369f094c770e0dccab]\n\n[Image: 167f6670ad6d65545b9d37dfbf3f905e4d61d21c4b1e3af0bf6661893cf8f7fd]",
+        "imageIds": [
+            "e78361ca2a1440409078f9c2582d8305167b8d30c51e91369f094c770e0dccab",
+            "167f6670ad6d65545b9d37dfbf3f905e4d61d21c4b1e3af0bf6661893cf8f7fd"
+        ]
+    },
+    "images": {
+        "167f6670ad6d65545b9d37dfbf3f905e4d61d21c4b1e3af0bf6661893cf8f7fd": {
+            "file": "images/167f6670ad6d65545b9d37dfbf3f905e4d61d21c4b1e3af0bf6661893cf8f7fd.jpg",
+            "filename": "paste-8705898708995.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60186
+        },
+        "e78361ca2a1440409078f9c2582d8305167b8d30c51e91369f094c770e0dccab": {
+            "file": "images/e78361ca2a1440409078f9c2582d8305167b8d30c51e91369f094c770e0dccab.jpg",
+            "filename": "paste-8250632175619.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58762
+        }
+    }
+}

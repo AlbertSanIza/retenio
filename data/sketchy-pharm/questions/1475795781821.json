@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475795781821",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475795781821",
+        "noteId": "1475794790683",
+        "noteGuid": "l!ym7T{M~Z",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.2 - Tricyclic antidepressants",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.2-TCAs",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "Which antidepressant class is associated with Torsades de Pointes?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "TCAs\n\n[Image: ac8b7b92c2757f692f54269e0a155390cd1f81c9b34e8d48fd37a1993e6989c6]\n\n[Image: 6ea315cf4c822350ad5c99111f14a582c2cef79d30dc66b8504d21801d58afd4]",
+        "imageIds": [
+            "ac8b7b92c2757f692f54269e0a155390cd1f81c9b34e8d48fd37a1993e6989c6",
+            "6ea315cf4c822350ad5c99111f14a582c2cef79d30dc66b8504d21801d58afd4"
+        ]
+    },
+    "images": {
+        "6ea315cf4c822350ad5c99111f14a582c2cef79d30dc66b8504d21801d58afd4": {
+            "file": "images/6ea315cf4c822350ad5c99111f14a582c2cef79d30dc66b8504d21801d58afd4.jpg",
+            "filename": "paste-34741990457347.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 148037
+        },
+        "ac8b7b92c2757f692f54269e0a155390cd1f81c9b34e8d48fd37a1993e6989c6": {
+            "file": "images/ac8b7b92c2757f692f54269e0a155390cd1f81c9b34e8d48fd37a1993e6989c6.jpg",
+            "filename": "paste-22471268892675.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57272
+        }
+    }
+}

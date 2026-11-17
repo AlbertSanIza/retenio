@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1481677293940",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1481677293940",
+        "noteId": "1481676393166",
+        "noteGuid": "oJpn5okB#l",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::3 Anti-inflammatory::3.1 - NSAIDs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(3)-Anti-Inflammatory_Drugs::3.1-NSAIDs",
+        "$$Blood_&_Inflammation",
+        "$Anti-inflammatory"
+    ],
+    "question": {
+        "text": "Which COX enzyme is induced by inflammation?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "COX-2\n\n[Image: c82f4531caa45f053aae7a827ca2c0bae98f85f8f74a3f4d84bf7be2d455a8ae]\n\n[Image: 9524c2415921e1d68d1d0a3ddd7848133e4481dcf4bd4244b26dd8451cac28b4]",
+        "imageIds": [
+            "c82f4531caa45f053aae7a827ca2c0bae98f85f8f74a3f4d84bf7be2d455a8ae",
+            "9524c2415921e1d68d1d0a3ddd7848133e4481dcf4bd4244b26dd8451cac28b4"
+        ]
+    },
+    "images": {
+        "9524c2415921e1d68d1d0a3ddd7848133e4481dcf4bd4244b26dd8451cac28b4": {
+            "file": "images/9524c2415921e1d68d1d0a3ddd7848133e4481dcf4bd4244b26dd8451cac28b4.jpg",
+            "filename": "paste-5480378269699.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60212
+        },
+        "c82f4531caa45f053aae7a827ca2c0bae98f85f8f74a3f4d84bf7be2d455a8ae": {
+            "file": "images/c82f4531caa45f053aae7a827ca2c0bae98f85f8f74a3f4d84bf7be2d455a8ae.jpg",
+            "filename": "paste-5634997092355.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 64402
+        }
+    }
+}

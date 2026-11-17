@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1483743855396",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1483743855396",
+        "noteId": "1475731410843",
+        "noteGuid": "KE^F%)4EQ[",
+        "modelId": "1475688242543",
+        "templateOrdinal": 13
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.4 - Beta blockers",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.4-Beta_Drugs",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "Name 2 reasons β-blockers are helpful in CHF",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Prevents remodeling (due to excess catecholamines)\n(2) ↓ Renin (and ∴ prevents fluid overload and AngII mediated remodeling)\n\n[Image: b98988c89477c1a6bd3fe847f7f234f341f6315e5f6020e5220663f956563f25]\n\n[Image: 699c5752c90c16a2e87c725ee4e86ebe1970c50ab110193f3e93f5ebd891a783]",
+        "imageIds": [
+            "b98988c89477c1a6bd3fe847f7f234f341f6315e5f6020e5220663f956563f25",
+            "699c5752c90c16a2e87c725ee4e86ebe1970c50ab110193f3e93f5ebd891a783"
+        ]
+    },
+    "images": {
+        "699c5752c90c16a2e87c725ee4e86ebe1970c50ab110193f3e93f5ebd891a783": {
+            "file": "images/699c5752c90c16a2e87c725ee4e86ebe1970c50ab110193f3e93f5ebd891a783.jpg",
+            "filename": "paste-276196461903875.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 91738
+        },
+        "b98988c89477c1a6bd3fe847f7f234f341f6315e5f6020e5220663f956563f25": {
+            "file": "images/b98988c89477c1a6bd3fe847f7f234f341f6315e5f6020e5220663f956563f25.jpg",
+            "filename": "paste-273447682834435.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 86572
+        }
+    }
+}

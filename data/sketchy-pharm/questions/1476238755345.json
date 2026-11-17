@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476238755345",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476238755345",
+        "noteId": "1476236480934",
+        "noteGuid": "cj@yKLEX0c",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.4 - K+ sparing diuretics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.4-Potassium_Sparing_Diuretics",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "Other than Spironolactone, what can be used to treat the symptoms of Conn's syndrome?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Eplerenone\n\n[Image: f69d3c75aeb6c171a39f5c02151546203962de6cc207693eb201c9e9f24f69c2]\n\n[Image: fa977f6d87645a47156f56838bb52a536c0114b569b6c619b77ebd5825ed0746]",
+        "imageIds": [
+            "f69d3c75aeb6c171a39f5c02151546203962de6cc207693eb201c9e9f24f69c2",
+            "fa977f6d87645a47156f56838bb52a536c0114b569b6c619b77ebd5825ed0746"
+        ]
+    },
+    "images": {
+        "f69d3c75aeb6c171a39f5c02151546203962de6cc207693eb201c9e9f24f69c2": {
+            "file": "images/f69d3c75aeb6c171a39f5c02151546203962de6cc207693eb201c9e9f24f69c2.jpg",
+            "filename": "paste-95584497172483.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51651
+        },
+        "fa977f6d87645a47156f56838bb52a536c0114b569b6c619b77ebd5825ed0746": {
+            "file": "images/fa977f6d87645a47156f56838bb52a536c0114b569b6c619b77ebd5825ed0746.jpg",
+            "filename": "paste-94583769792515.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57258
+        }
+    }
+}

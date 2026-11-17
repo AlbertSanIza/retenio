@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479167067815",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479167067815",
+        "noteId": "1479166331886",
+        "noteGuid": "nZiAb4L,QC",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::5 Antipsychotics & Parkinson's::5.1 - First generation antipsychotics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(5)-Antipsychotics_&_Parkinsons::5.1-First_Generation_Antipsychotics",
+        "$$Neuro/Psych",
+        "$Antipsychotics_&_Parkinsons"
+    ],
+    "question": {
+        "text": "What type of extra pyramidal symptoms can occur within minutes of starting a high potency first generation antipsychotics?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Acute dystonia\n\n[Image: 3697475cc21ca16d71351b227ff91758fb9e6244322a1ed89ad5631ef6891e2a]",
+        "imageIds": [
+            "3697475cc21ca16d71351b227ff91758fb9e6244322a1ed89ad5631ef6891e2a"
+        ]
+    },
+    "images": {
+        "3697475cc21ca16d71351b227ff91758fb9e6244322a1ed89ad5631ef6891e2a": {
+            "file": "images/3697475cc21ca16d71351b227ff91758fb9e6244322a1ed89ad5631ef6891e2a.jpg",
+            "filename": "paste-203645874339843.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56776
+        }
+    }
+}

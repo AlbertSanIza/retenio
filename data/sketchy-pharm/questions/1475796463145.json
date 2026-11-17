@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475796463145",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475796463145",
+        "noteId": "1475795781882",
+        "noteGuid": "uOs}?_Z]ZW",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.3 - MAO inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.3-MAOIs",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "What does MAOA degrade?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Dopamine\n(2) Norepinephrine\n\n(3) Serotonin\n\n[Image: 2f91af81bc4f6259a983d3f3d75b518fff6cc384c66dbb2f73adbca42e6723db]",
+        "imageIds": [
+            "2f91af81bc4f6259a983d3f3d75b518fff6cc384c66dbb2f73adbca42e6723db"
+        ]
+    },
+    "images": {
+        "2f91af81bc4f6259a983d3f3d75b518fff6cc384c66dbb2f73adbca42e6723db": {
+            "file": "images/2f91af81bc4f6259a983d3f3d75b518fff6cc384c66dbb2f73adbca42e6723db.jpg",
+            "filename": "paste-23433341566979.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44997
+        }
+    }
+}

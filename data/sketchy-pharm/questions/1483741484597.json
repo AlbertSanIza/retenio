@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1483741484597",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1483741484597",
+        "noteId": "1480291378231",
+        "noteGuid": "kQ,lW$HiT;",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.4 - Etoposide, teniposide, topotecan, irinotecan",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(2)-DNA_&_Cellular_Division::2.4-Etoposide,Teniposide,Topotecan,Irinotecan",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "What type of cancers do \"-posides\" treat?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Hematologic\n(2) Solid malignancies\n\n[Image: d89341512959d6e8ea777114a20d6602a3aa7d6f9462a83d2c846dc00bdd0daa]",
+        "imageIds": [
+            "d89341512959d6e8ea777114a20d6602a3aa7d6f9462a83d2c846dc00bdd0daa"
+        ]
+    },
+    "images": {
+        "d89341512959d6e8ea777114a20d6602a3aa7d6f9462a83d2c846dc00bdd0daa": {
+            "file": "images/d89341512959d6e8ea777114a20d6602a3aa7d6f9462a83d2c846dc00bdd0daa.jpg",
+            "filename": "paste-117321326657539.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 76327
+        }
+    }
+}

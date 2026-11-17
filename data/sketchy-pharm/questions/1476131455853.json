@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476131455853",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476131455853",
+        "noteId": "1476130090291",
+        "noteGuid": "O>jMOQ>@1^",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::4 Hypothalamic & Pituitary::4.2 - ADH, DDAVP,& ADH Receptor Antagonists",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(4)-Hypothalamic_&_Pituitary::4.1-ADH,DDAVP,_&_ADH_Receptor_Antagonists",
+        "$$GI_&_Endocrine",
+        "$Hypothalamic_&_Pituitary"
+    ],
+    "question": {
+        "text": "Treatment: Lithium-induced diabetes insipidus",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Amiloride\n\n(Remember, thiazides and NSAIDs will REDUCE clearance of lithium)\n\n[Image: 3510a43c63c67bd68dbba49e2625172cc35707ae05447e994ec77b3ee9dceb12]\n\n[Image: 5270a9fd337106ff11c265c6ef12de6541b0dd4f42537dda94cd5a7d441989f8]\n\n[Image: 7c5d45d60ce4c1aa2d8169b423435e664bf65c26f2e3cd3270f0b28738e3cb5b]\n\n[Image: ae575fc11cbc28e3442c7eafeb5bff478d9b1d357223cd17f5173226930f2c11]",
+        "imageIds": [
+            "3510a43c63c67bd68dbba49e2625172cc35707ae05447e994ec77b3ee9dceb12",
+            "5270a9fd337106ff11c265c6ef12de6541b0dd4f42537dda94cd5a7d441989f8",
+            "7c5d45d60ce4c1aa2d8169b423435e664bf65c26f2e3cd3270f0b28738e3cb5b",
+            "ae575fc11cbc28e3442c7eafeb5bff478d9b1d357223cd17f5173226930f2c11"
+        ]
+    },
+    "images": {
+        "3510a43c63c67bd68dbba49e2625172cc35707ae05447e994ec77b3ee9dceb12": {
+            "file": "images/3510a43c63c67bd68dbba49e2625172cc35707ae05447e994ec77b3ee9dceb12.jpg",
+            "filename": "paste-85624468013059.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48614
+        },
+        "5270a9fd337106ff11c265c6ef12de6541b0dd4f42537dda94cd5a7d441989f8": {
+            "file": "images/5270a9fd337106ff11c265c6ef12de6541b0dd4f42537dda94cd5a7d441989f8.jpg",
+            "filename": "paste-115783728365571.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62104
+        },
+        "7c5d45d60ce4c1aa2d8169b423435e664bf65c26f2e3cd3270f0b28738e3cb5b": {
+            "file": "images/7c5d45d60ce4c1aa2d8169b423435e664bf65c26f2e3cd3270f0b28738e3cb5b.jpg",
+            "filename": "paste-35502199668739.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 42453
+        },
+        "ae575fc11cbc28e3442c7eafeb5bff478d9b1d357223cd17f5173226930f2c11": {
+            "file": "images/ae575fc11cbc28e3442c7eafeb5bff478d9b1d357223cd17f5173226930f2c11.jpg",
+            "filename": "paste-35583804047363.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 42791
+        }
+    }
+}

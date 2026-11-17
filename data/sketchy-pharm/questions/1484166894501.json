@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484166894501",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484166894501",
+        "noteId": "1475727285686",
+        "noteGuid": "fOwnFa{N9l",
+        "modelId": "1475688242543",
+        "templateOrdinal": 15
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::1 Parasympathetic::1.2 - Acetylcholinesterase Inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(1)-Parasympathetics::1.2-AChE_Inhibitors",
+        "$$Autonomic_Drugs",
+        "$Parasympathetics"
+    ],
+    "question": {
+        "text": "What determines whether Pralidoxime will be effective at treating organophosphate poisoning?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Whether the organophosphate-cholinsterase complex has aged\n\n[Image: 357f43cfeb6ae0f18273a4b9f9a720583d4cf3eea73862e93f0d3056107ec5e0]",
+        "imageIds": [
+            "357f43cfeb6ae0f18273a4b9f9a720583d4cf3eea73862e93f0d3056107ec5e0"
+        ]
+    },
+    "images": {
+        "357f43cfeb6ae0f18273a4b9f9a720583d4cf3eea73862e93f0d3056107ec5e0": {
+            "file": "images/357f43cfeb6ae0f18273a4b9f9a720583d4cf3eea73862e93f0d3056107ec5e0.jpg",
+            "filename": "paste-390438297010179.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 95742
+        }
+    }
+}

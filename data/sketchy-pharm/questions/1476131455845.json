@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476131455845",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476131455845",
+        "noteId": "1476130090291",
+        "noteGuid": "O>jMOQ>@1^",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::4 Hypothalamic & Pituitary::4.2 - ADH, DDAVP,& ADH Receptor Antagonists",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(4)-Hypothalamic_&_Pituitary::4.1-ADH,DDAVP,_&_ADH_Receptor_Antagonists",
+        "$$GI_&_Endocrine",
+        "$Hypothalamic_&_Pituitary"
+    ],
+    "question": {
+        "text": "Where in the kidney are V2 receptors found?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Basolateral membrane of collecting duct\n\n[Image: fc943ab115de349e7dd89e6e7005839d93a9d915e5c423bb6ee216a5a0e4822f]\n\n[Image: 7f4cb41de123195e1733bc37996d2644e304b0658e7884858797ef7a829ea66d]\n\n[Image: 31a2038a7fac27365928c291b8bd528749b56a912d51ad020e375116b900b37a]",
+        "imageIds": [
+            "fc943ab115de349e7dd89e6e7005839d93a9d915e5c423bb6ee216a5a0e4822f",
+            "7f4cb41de123195e1733bc37996d2644e304b0658e7884858797ef7a829ea66d",
+            "31a2038a7fac27365928c291b8bd528749b56a912d51ad020e375116b900b37a"
+        ]
+    },
+    "images": {
+        "31a2038a7fac27365928c291b8bd528749b56a912d51ad020e375116b900b37a": {
+            "file": "images/31a2038a7fac27365928c291b8bd528749b56a912d51ad020e375116b900b37a.jpg",
+            "filename": "paste-84512071483395.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43749
+        },
+        "7f4cb41de123195e1733bc37996d2644e304b0658e7884858797ef7a829ea66d": {
+            "file": "images/7f4cb41de123195e1733bc37996d2644e304b0658e7884858797ef7a829ea66d.jpg",
+            "filename": "paste-84086869721091.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 39261
+        },
+        "fc943ab115de349e7dd89e6e7005839d93a9d915e5c423bb6ee216a5a0e4822f": {
+            "file": "images/fc943ab115de349e7dd89e6e7005839d93a9d915e5c423bb6ee216a5a0e4822f.jpg",
+            "filename": "paste-84043920048131.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 35611
+        }
+    }
+}

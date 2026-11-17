@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480834896626",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480834896626",
+        "noteId": "1480833587852",
+        "noteGuid": "uqQIy,Xsey",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::7 Antivirals: Hepatitis::7.2 - Ribavirin, sofosbuvir, simeprevir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(7)-Antivirals-Hepatitis::7.2-Ribavirin,Sofosbuvir,Simeprevir",
+        "$$Antimicrobials",
+        "$Antivirals_Hepatitis"
+    ],
+    "question": {
+        "text": "MOA: Ribavirin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Nucleoside analog\n\n(Guanosine analog)\n\n[Image: cee378a0e2b46a2e156b586ce6d09c2d2214e0edff0cc7e6f4fe393001e59bab]",
+        "imageIds": [
+            "cee378a0e2b46a2e156b586ce6d09c2d2214e0edff0cc7e6f4fe393001e59bab"
+        ]
+    },
+    "images": {
+        "cee378a0e2b46a2e156b586ce6d09c2d2214e0edff0cc7e6f4fe393001e59bab": {
+            "file": "images/cee378a0e2b46a2e156b586ce6d09c2d2214e0edff0cc7e6f4fe393001e59bab.jpg",
+            "filename": "paste-381023728697347.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44170
+        }
+    }
+}

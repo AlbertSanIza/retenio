@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1489377715619",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1489377715619",
+        "noteId": "1489373732673",
+        "noteGuid": "MVDX:P#kj;",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.1 - Propylthiouracil, Methimazole, Levothyroxine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.1-Propylthiouracil,Methimazole,Levothyroxine",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "Adverse Effects (3) : I131 ablation therapy",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Hypothyroidism\n(2) Exacerbation of hyperthyroidism\n\n(3) Exacerbation of Graves ophthalmopathy\n\n(Exacerbation of ophthalmopathy MOA: Rapid reduction in thyroid hormone ⇒ ↑ TSH ⇒ Binds pre-adipocytic fibroblasts ⇒ ↑ Glycosaminoglycan and adipose deposition)\n\n[Image: ff9e4ed93e4564af382fa6859c2e16d3a0d9d8e549a61bbc5d11449cb23ebeb2]",
+        "imageIds": [
+            "ff9e4ed93e4564af382fa6859c2e16d3a0d9d8e549a61bbc5d11449cb23ebeb2"
+        ]
+    },
+    "images": {
+        "ff9e4ed93e4564af382fa6859c2e16d3a0d9d8e549a61bbc5d11449cb23ebeb2": {
+            "file": "images/ff9e4ed93e4564af382fa6859c2e16d3a0d9d8e549a61bbc5d11449cb23ebeb2.jpg",
+            "filename": "paste-12751757901827.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 84537
+        }
+    }
+}

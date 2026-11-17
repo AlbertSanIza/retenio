@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484164940307",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484164940307",
+        "noteId": "1484162877085",
+        "noteGuid": "K^0}t0mL6T",
+        "modelId": "1475688242543",
+        "templateOrdinal": 12
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::5 Antipsychotics & Parkinson's::5.3 - Levodopa/carbidopa, entacapone, tolcapone, selegiline, ropinirole, pramipexole, amantadine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(5)-Antipsychotics_&_Parkinsons::5.3-Parkinsons_Drugs",
+        "$$Neuro/Psych",
+        "$Antipsychotics_&_Parkinsons"
+    ],
+    "question": {
+        "text": "Indications - Non-endocrine (2) : Dopamine receptor agonists",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Parkinsons\n(2) Restless leg syndrome\n\n(Usually initial therapy for Parkinsons, as they are less likely to produce on-off effect)\n\n[Image: 9156ebe329aa29519ba7d152a86ee180af79c05b06b88fc23e379b4e4b9cfec5]\n\n[Image: 36de7d40b39040f885347f8285bd0adb4c33464a2e8f3f6ec5baae44e77d5975]",
+        "imageIds": [
+            "9156ebe329aa29519ba7d152a86ee180af79c05b06b88fc23e379b4e4b9cfec5",
+            "36de7d40b39040f885347f8285bd0adb4c33464a2e8f3f6ec5baae44e77d5975"
+        ]
+    },
+    "images": {
+        "36de7d40b39040f885347f8285bd0adb4c33464a2e8f3f6ec5baae44e77d5975": {
+            "file": "images/36de7d40b39040f885347f8285bd0adb4c33464a2e8f3f6ec5baae44e77d5975.jpg",
+            "filename": "paste-305093001871363.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 74375
+        },
+        "9156ebe329aa29519ba7d152a86ee180af79c05b06b88fc23e379b4e4b9cfec5": {
+            "file": "images/9156ebe329aa29519ba7d152a86ee180af79c05b06b88fc23e379b4e4b9cfec5.jpg",
+            "filename": "paste-306634895130627.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 79902
+        }
+    }
+}

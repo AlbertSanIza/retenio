@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484175492420",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484175492420",
+        "noteId": "1484174506748",
+        "noteGuid": "zAes]>XXQ1",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::4 Mood Stabilizers & Antiepileptic Drugs::4.4 - Carbamazepine, phenytoin, gabapentin, tiagabine, vigabatrin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(4)-Mood_Stabilizers_&_Antiepileptics::4.3-Carbamazepine,Phenytoin,Gabapentin,Tiagabine,Vigabatrin",
+        "$$Neuro/Psych",
+        "$Mood_Stabilizers_&_Antiepileptics"
+    ],
+    "question": {
+        "text": "Define: Status epilepticus",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Continuous (≥ 5-30 min) seizure\n\n[Image: c57459975ecf6b07ce1b58ea4bda4d0099d86aed0e8db2ef7e7855f069143353]",
+        "imageIds": [
+            "c57459975ecf6b07ce1b58ea4bda4d0099d86aed0e8db2ef7e7855f069143353"
+        ]
+    },
+    "images": {
+        "c57459975ecf6b07ce1b58ea4bda4d0099d86aed0e8db2ef7e7855f069143353": {
+            "file": "images/c57459975ecf6b07ce1b58ea4bda4d0099d86aed0e8db2ef7e7855f069143353.jpg",
+            "filename": "paste-737295560867843.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70810
+        }
+    }
+}

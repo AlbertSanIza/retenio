@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479164969055",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479164969055",
+        "noteId": "1479164083148",
+        "noteGuid": "iA?3DF,6G1",
+        "modelId": "1475688242543",
+        "templateOrdinal": 19
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::3 Anti-inflammatory::3.2 - Gout drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(3)-Anti-Inflammatory_Drugs::3.2-Gout_Drugs",
+        "$$Blood_&_Inflammation",
+        "$Anti-inflammatory"
+    ],
+    "question": {
+        "text": "Name a drug used to treat gout which is only administered IV",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Pegloticase\n\n[Image: a4b3f9ec1861a4764d7b4d8653ed05b9c746ea011ebf2d4379f850170b8f67c9]",
+        "imageIds": [
+            "a4b3f9ec1861a4764d7b4d8653ed05b9c746ea011ebf2d4379f850170b8f67c9"
+        ]
+    },
+    "images": {
+        "a4b3f9ec1861a4764d7b4d8653ed05b9c746ea011ebf2d4379f850170b8f67c9": {
+            "file": "images/a4b3f9ec1861a4764d7b4d8653ed05b9c746ea011ebf2d4379f850170b8f67c9.jpg",
+            "filename": "paste-117918327111683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61051
+        }
+    }
+}

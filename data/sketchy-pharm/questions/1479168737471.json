@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479168737471",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479168737471",
+        "noteId": "1479167856326",
+        "noteGuid": "gr<{i]C0f-",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::5 Antipsychotics & Parkinson's::5.2 - Second generation antipsychotics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(5)-Antipsychotics_&_Parkinsons::5.2-Second_Generation_Antipsychotics",
+        "$$Neuro/Psych",
+        "$Antipsychotics_&_Parkinsons"
+    ],
+    "question": {
+        "text": "Name 6 atypical antipsychotics",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Quetiapine\n(2) Olanzapine\n\n(3) Risperidone\n\n(4) Aripiprazole\n\n(5) Ziprasidone\n\n(6) Clozapine\n\n[Image: cfdc290289b8ca0cf70885bf182c7a75d8b4b84cddc8a3d97e7edc4b8e81db8e]\n\n[Image: e93939430fefd90117d16a9c1dbade2a76957ab62873b950e683ddb752b31401]",
+        "imageIds": [
+            "cfdc290289b8ca0cf70885bf182c7a75d8b4b84cddc8a3d97e7edc4b8e81db8e",
+            "e93939430fefd90117d16a9c1dbade2a76957ab62873b950e683ddb752b31401"
+        ]
+    },
+    "images": {
+        "cfdc290289b8ca0cf70885bf182c7a75d8b4b84cddc8a3d97e7edc4b8e81db8e": {
+            "file": "images/cfdc290289b8ca0cf70885bf182c7a75d8b4b84cddc8a3d97e7edc4b8e81db8e.jpg",
+            "filename": "paste-282424164483075.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44802
+        },
+        "e93939430fefd90117d16a9c1dbade2a76957ab62873b950e683ddb752b31401": {
+            "file": "images/e93939430fefd90117d16a9c1dbade2a76957ab62873b950e683ddb752b31401.jpg",
+            "filename": "paste-282437049384963.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44999
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475704943303",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475704943303",
+        "noteId": "1475704171002",
+        "noteGuid": "M|s^}DGXy|",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::2 Dyslipidemia Drugs::2.3 - Fibrates, niacin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(2)-Dyslipidemia_Drugs::2.3-Fibrates,Niacin",
+        "$$Blood_&_Inflammation",
+        "$DyslipidemiaDrugs"
+    ],
+    "question": {
+        "text": "What are two examples of fibrate drugs?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Gemfibrozil\n(2) Fenofibrate\n\n[Image: 84dfac8cd9d21fc97f6641fc97e50852b8fd785233913d69697b8a13d65b6d9c]",
+        "imageIds": [
+            "84dfac8cd9d21fc97f6641fc97e50852b8fd785233913d69697b8a13d65b6d9c"
+        ]
+    },
+    "images": {
+        "84dfac8cd9d21fc97f6641fc97e50852b8fd785233913d69697b8a13d65b6d9c": {
+            "file": "images/84dfac8cd9d21fc97f6641fc97e50852b8fd785233913d69697b8a13d65b6d9c.jpg",
+            "filename": "paste-13099650252803.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46884
+        }
+    }
+}

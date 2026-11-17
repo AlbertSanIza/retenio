@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475796463152",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475796463152",
+        "noteId": "1475795781882",
+        "noteGuid": "uOs}?_Z]ZW",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.3 - MAO inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.3-MAOIs",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "Indication: Selegiline",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Parkinsons disease\n\n[Image: ac994dfe4ded0cda6c19f418336561a1d3dc072a2030179fb38b58c4251a82c8]",
+        "imageIds": [
+            "ac994dfe4ded0cda6c19f418336561a1d3dc072a2030179fb38b58c4251a82c8"
+        ]
+    },
+    "images": {
+        "ac994dfe4ded0cda6c19f418336561a1d3dc072a2030179fb38b58c4251a82c8": {
+            "file": "images/ac994dfe4ded0cda6c19f418336561a1d3dc072a2030179fb38b58c4251a82c8.jpg",
+            "filename": "paste-25001004630019.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54266
+        }
+    }
+}

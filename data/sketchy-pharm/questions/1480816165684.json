@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480816165684",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480816165684",
+        "noteId": "1480812867870",
+        "noteGuid": "B.#W9#QCRN",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::3 Antimycobacterials::3.1 - Tuberculosis Drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(3)-Antimycobacterials::3.1-Tuberculosis_Drugs",
+        "$$Antimicrobials",
+        "$Antimycobacterials"
+    ],
+    "question": {
+        "text": "What are the two phases of treatment for tuberculosis?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) 4 drugs for 2 months\n(2) 2 drugs for 4 months\n\n[Image: 73855d489d0b72283472051a5217611abcee43593bca64eb51b138f0635c6211]",
+        "imageIds": [
+            "73855d489d0b72283472051a5217611abcee43593bca64eb51b138f0635c6211"
+        ]
+    },
+    "images": {
+        "73855d489d0b72283472051a5217611abcee43593bca64eb51b138f0635c6211": {
+            "file": "images/73855d489d0b72283472051a5217611abcee43593bca64eb51b138f0635c6211.jpg",
+            "filename": "paste-171944720728067.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 40468
+        }
+    }
+}

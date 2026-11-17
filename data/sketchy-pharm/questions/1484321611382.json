@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484321611382",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484321611382",
+        "noteId": "1475726464638",
+        "noteGuid": "JpARMA.2Xe",
+        "modelId": "1475688242543",
+        "templateOrdinal": 14
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::1 Parasympathetic::1.1 - Cholinomimetics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(1)-Parasympathetics::1.1-Cholinomimetics",
+        "$$Autonomic_Drugs",
+        "$Parasympathetics"
+    ],
+    "question": {
+        "text": "What is the only cholinergic agonist used to treat xerostomia?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Pilocarpine\n\n[Image: 4c7ad1441fb334674af05dac5c9b49876b9ff1abba88eb181118d16ee636d997]",
+        "imageIds": [
+            "4c7ad1441fb334674af05dac5c9b49876b9ff1abba88eb181118d16ee636d997"
+        ]
+    },
+    "images": {
+        "4c7ad1441fb334674af05dac5c9b49876b9ff1abba88eb181118d16ee636d997": {
+            "file": "images/4c7ad1441fb334674af05dac5c9b49876b9ff1abba88eb181118d16ee636d997.jpg",
+            "filename": "paste-19928648253443 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 97882
+        }
+    }
+}

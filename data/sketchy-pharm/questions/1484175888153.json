@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484175888153",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484175888153",
+        "noteId": "1484174506748",
+        "noteGuid": "zAes]>XXQ1",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::4 Mood Stabilizers & Antiepileptic Drugs::4.4 - Carbamazepine, phenytoin, gabapentin, tiagabine, vigabatrin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(4)-Mood_Stabilizers_&_Antiepileptics::4.3-Carbamazepine,Phenytoin,Gabapentin,Tiagabine,Vigabatrin",
+        "$$Neuro/Psych",
+        "$Mood_Stabilizers_&_Antiepileptics"
+    ],
+    "question": {
+        "text": "Which anti-seizure medication is effective against neuropathic pain?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Gabapentin\n\n[Image: b8d8afca8fc3b74ee916eea4e7ea48e2cb5aea187372cbe2362a619bf8089a0d]\n\n[Image: acc538f686ac738d990bfe5a7fe09115e3fdfdf8a0124199b0f4588c7243815a]\n\n[Image: 967945a69bcf7be64adae0fb72d58872e0422bacb59a522e79c5b48adff6623d]\n\n[Image: 6334911df2ad16318a1faf55c0a391a07d7d1e52074be6442511385727ac9aee]",
+        "imageIds": [
+            "b8d8afca8fc3b74ee916eea4e7ea48e2cb5aea187372cbe2362a619bf8089a0d",
+            "acc538f686ac738d990bfe5a7fe09115e3fdfdf8a0124199b0f4588c7243815a",
+            "967945a69bcf7be64adae0fb72d58872e0422bacb59a522e79c5b48adff6623d",
+            "6334911df2ad16318a1faf55c0a391a07d7d1e52074be6442511385727ac9aee"
+        ]
+    },
+    "images": {
+        "6334911df2ad16318a1faf55c0a391a07d7d1e52074be6442511385727ac9aee": {
+            "file": "images/6334911df2ad16318a1faf55c0a391a07d7d1e52074be6442511385727ac9aee.jpg",
+            "filename": "paste-777814282338307.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 90265
+        },
+        "967945a69bcf7be64adae0fb72d58872e0422bacb59a522e79c5b48adff6623d": {
+            "file": "images/967945a69bcf7be64adae0fb72d58872e0422bacb59a522e79c5b48adff6623d.jpg",
+            "filename": "paste-776289568948227.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 83043
+        },
+        "acc538f686ac738d990bfe5a7fe09115e3fdfdf8a0124199b0f4588c7243815a": {
+            "file": "images/acc538f686ac738d990bfe5a7fe09115e3fdfdf8a0124199b0f4588c7243815a.jpg",
+            "filename": "paste-768704656703491.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 86690
+        },
+        "b8d8afca8fc3b74ee916eea4e7ea48e2cb5aea187372cbe2362a619bf8089a0d": {
+            "file": "images/b8d8afca8fc3b74ee916eea4e7ea48e2cb5aea187372cbe2362a619bf8089a0d.jpg",
+            "filename": "paste-764929380450307.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 84600
+        }
+    }
+}

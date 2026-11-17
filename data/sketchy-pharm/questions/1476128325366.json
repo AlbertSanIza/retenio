@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476128325366",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476128325366",
+        "noteId": "1476127443039",
+        "noteGuid": "k+=G!`Nk3M",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::2 Diabetes::2.2 - Metformin,Thiazolidinediones, Pramlintide, SGLT-2 Inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(2)-Diabetes::2.2-Metformin,Thiazolidinediones,Pramlintide,SGLT-2_Inhibitors",
+        "$$GI_&_Endocrine",
+        "$Diabetes"
+    ],
+    "question": {
+        "text": "Name 2 proteins that glitazones upregulate",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Adiponectin\n(2) GLUT4\n\n[Image: 109b6add32d5e8fd5aabd4573bb6e3a8a9fa055a528343829c6f19c1ffea2f10]\n\n[Image: b869562d3f90bbaa8c629d5940d615d1988bdc550727897557fba2a6e7a7833b]",
+        "imageIds": [
+            "109b6add32d5e8fd5aabd4573bb6e3a8a9fa055a528343829c6f19c1ffea2f10",
+            "b869562d3f90bbaa8c629d5940d615d1988bdc550727897557fba2a6e7a7833b"
+        ]
+    },
+    "images": {
+        "109b6add32d5e8fd5aabd4573bb6e3a8a9fa055a528343829c6f19c1ffea2f10": {
+            "file": "images/109b6add32d5e8fd5aabd4573bb6e3a8a9fa055a528343829c6f19c1ffea2f10.jpg",
+            "filename": "paste-63913408331779.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45487
+        },
+        "b869562d3f90bbaa8c629d5940d615d1988bdc550727897557fba2a6e7a7833b": {
+            "file": "images/b869562d3f90bbaa8c629d5940d615d1988bdc550727897557fba2a6e7a7833b.jpg",
+            "filename": "paste-64536178589699.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49683
+        }
+    }
+}

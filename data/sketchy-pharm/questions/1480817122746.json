@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480817122746",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480817122746",
+        "noteId": "1480816165877",
+        "noteGuid": "Qi(.XU0Lz8",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::3 Antimycobacterials::3.2 - Leprosy drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(3)-Antimycobacterials::3.2-Leprosy_Drugs",
+        "$$Antimicrobials",
+        "$Antimycobacterials"
+    ],
+    "question": {
+        "text": "When treating tuberculosis in an HIV patient, what drug is used in place of Rifampin?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Rifabutin\n\n(∵ It's a weaker inducer of CYP450)\n\n[Image: e40c16cc2e0d4b3ab0ca393fb46c05f76dea143805046035eb0c91194bb40bb3]",
+        "imageIds": [
+            "e40c16cc2e0d4b3ab0ca393fb46c05f76dea143805046035eb0c91194bb40bb3"
+        ]
+    },
+    "images": {
+        "e40c16cc2e0d4b3ab0ca393fb46c05f76dea143805046035eb0c91194bb40bb3": {
+            "file": "images/e40c16cc2e0d4b3ab0ca393fb46c05f76dea143805046035eb0c91194bb40bb3.jpg",
+            "filename": "paste-192384470089731.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47746
+        }
+    }
+}

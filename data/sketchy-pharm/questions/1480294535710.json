@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480294535710",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480294535710",
+        "noteId": "1480292425830",
+        "noteGuid": "F-Oy]]*-Bc",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::1 Antimetabolites::1.1 - Methotrexate, leucovorin, 5-fluorouracil, hydroxyurea",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(1)-Antimetabolites::1.1-Methotrexate,Leucovorin,5-FU,Hydroxyurea",
+        "$$Antineoplastics",
+        "$Antimetabolites"
+    ],
+    "question": {
+        "text": "MOA: Methotrexate",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Inhibits dihydrofolate reductase\n\n[Image: 537c7ac1fe5c4f1758bde3603780ca6a05bd2926ee8b67fda9fb2cbb99f8a6b3]\n\n[Image: 02fe34685afef3c06228f60d44414d8dd84c4e264aed8b2b4e36f31d1b93f673]",
+        "imageIds": [
+            "537c7ac1fe5c4f1758bde3603780ca6a05bd2926ee8b67fda9fb2cbb99f8a6b3",
+            "02fe34685afef3c06228f60d44414d8dd84c4e264aed8b2b4e36f31d1b93f673"
+        ]
+    },
+    "images": {
+        "02fe34685afef3c06228f60d44414d8dd84c4e264aed8b2b4e36f31d1b93f673": {
+            "file": "images/02fe34685afef3c06228f60d44414d8dd84c4e264aed8b2b4e36f31d1b93f673.jpg",
+            "filename": "paste-32087700668419 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 42323
+        },
+        "537c7ac1fe5c4f1758bde3603780ca6a05bd2926ee8b67fda9fb2cbb99f8a6b3": {
+            "file": "images/537c7ac1fe5c4f1758bde3603780ca6a05bd2926ee8b67fda9fb2cbb99f8a6b3.jpg",
+            "filename": "paste-32040456028163.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 41897
+        }
+    }
+}

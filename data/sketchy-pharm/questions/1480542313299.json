@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480542313299",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480542313299",
+        "noteId": "1480541343233",
+        "noteGuid": "y1kneJEm(h",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.1 - Tetracyclines",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.1-Tetracyclines",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "MOA: Tetracyclines",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Inhibit 30s ribosome ⇒ Blocks A-site tRNA binding\n\n[Image: 7b449a3e0d80a47771e0ab5d2305f2fd183942e560a65a6ea17fa1366477158b]\n\n[Image: a0315313de8e6fcebfc98868b67260df680696e3720c9a08fd4ac28721811154]",
+        "imageIds": [
+            "7b449a3e0d80a47771e0ab5d2305f2fd183942e560a65a6ea17fa1366477158b",
+            "a0315313de8e6fcebfc98868b67260df680696e3720c9a08fd4ac28721811154"
+        ]
+    },
+    "images": {
+        "7b449a3e0d80a47771e0ab5d2305f2fd183942e560a65a6ea17fa1366477158b": {
+            "file": "images/7b449a3e0d80a47771e0ab5d2305f2fd183942e560a65a6ea17fa1366477158b.jpg",
+            "filename": "paste-6167573037059.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 37763
+        },
+        "a0315313de8e6fcebfc98868b67260df680696e3720c9a08fd4ac28721811154": {
+            "file": "images/a0315313de8e6fcebfc98868b67260df680696e3720c9a08fd4ac28721811154.jpg",
+            "filename": "paste-5952824672259.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 40921
+        }
+    }
+}

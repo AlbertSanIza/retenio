@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484167142432",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484167142432",
+        "noteId": "1475726464638",
+        "noteGuid": "JpARMA.2Xe",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::1 Parasympathetic::1.1 - Cholinomimetics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(1)-Parasympathetics::1.1-Cholinomimetics",
+        "$$Autonomic_Drugs",
+        "$Parasympathetics"
+    ],
+    "question": {
+        "text": "How does Pilocarpine increase the outflow of aqueous humor?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Contracts the ciliary muscle\n\n[Image: 578299acd5768a1f567993e49b1bc45a880ec8ad1e38ca01a0e6e40a59e4cc2a]",
+        "imageIds": [
+            "578299acd5768a1f567993e49b1bc45a880ec8ad1e38ca01a0e6e40a59e4cc2a"
+        ]
+    },
+    "images": {
+        "578299acd5768a1f567993e49b1bc45a880ec8ad1e38ca01a0e6e40a59e4cc2a": {
+            "file": "images/578299acd5768a1f567993e49b1bc45a880ec8ad1e38ca01a0e6e40a59e4cc2a.jpg",
+            "filename": "paste-405732675551235.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 81569
+        }
+    }
+}

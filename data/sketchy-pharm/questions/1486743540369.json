@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1486743540369",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1486743540369",
+        "noteId": "1476236480934",
+        "noteGuid": "cj@yKLEX0c",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.4 - K+ sparing diuretics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.4-Potassium_Sparing_Diuretics",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "What ENZYME does Spironolactone inhibit?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "17α-hydroxylase\n\n[Image: 2000e30ae3a2c1568c06759d838681f8e30a3814fc0029df7c52d91dacbf12ad]",
+        "imageIds": [
+            "2000e30ae3a2c1568c06759d838681f8e30a3814fc0029df7c52d91dacbf12ad"
+        ]
+    },
+    "images": {
+        "2000e30ae3a2c1568c06759d838681f8e30a3814fc0029df7c52d91dacbf12ad": {
+            "file": "images/2000e30ae3a2c1568c06759d838681f8e30a3814fc0029df7c52d91dacbf12ad.jpg",
+            "filename": "paste-118515327565827.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 69895
+        }
+    }
+}

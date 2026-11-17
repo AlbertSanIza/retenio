@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480834896633",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480834896633",
+        "noteId": "1480833587852",
+        "noteGuid": "uqQIy,Xsey",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::7 Antivirals: Hepatitis::7.2 - Ribavirin, sofosbuvir, simeprevir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(7)-Antivirals-Hepatitis::7.2-Ribavirin,Sofosbuvir,Simeprevir",
+        "$$Antimicrobials",
+        "$Antivirals_Hepatitis"
+    ],
+    "question": {
+        "text": "Adverse Effects (2) : Simeprevir",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Photosensitivity\n(2) Rash\n\n[Image: 119d87a857d27f009f04b254ac7c0ed856bfbfed5102c6714436af0e4a60c572]",
+        "imageIds": [
+            "119d87a857d27f009f04b254ac7c0ed856bfbfed5102c6714436af0e4a60c572"
+        ]
+    },
+    "images": {
+        "119d87a857d27f009f04b254ac7c0ed856bfbfed5102c6714436af0e4a60c572": {
+            "file": "images/119d87a857d27f009f04b254ac7c0ed856bfbfed5102c6714436af0e4a60c572.jpg",
+            "filename": "paste-383115377770499.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57007
+        }
+    }
+}

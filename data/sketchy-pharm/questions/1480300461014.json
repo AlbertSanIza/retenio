@@ -1,0 +1,37 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480300461014",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480300461014",
+        "noteId": "1480299594760",
+        "noteGuid": "GX)zWO73Ma",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.2 - Nafcillin, Oxacillin, Methicillin & Dicloxacillin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.2-Nafcillin,Oxacillin,Methicillin,Dicloxacillin$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "How was Penicillin modified to yield Methicillin?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Addition of bulky R-group\n\n[Image: 4bed1035ed33c356919d9d51759d38366329beb0bcf511d05573f8fdcf6d6003]",
+        "imageIds": [
+            "4bed1035ed33c356919d9d51759d38366329beb0bcf511d05573f8fdcf6d6003"
+        ]
+    },
+    "images": {
+        "4bed1035ed33c356919d9d51759d38366329beb0bcf511d05573f8fdcf6d6003": {
+            "file": "images/4bed1035ed33c356919d9d51759d38366329beb0bcf511d05573f8fdcf6d6003.jpg",
+            "filename": "paste-95099165868035.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 33078
+        }
+    }
+}

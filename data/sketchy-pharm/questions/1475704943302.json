@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475704943302",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475704943302",
+        "noteId": "1475704171002",
+        "noteGuid": "M|s^}DGXy|",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::2 Dyslipidemia Drugs::2.3 - Fibrates, niacin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(2)-Dyslipidemia_Drugs::2.3-Fibrates,Niacin",
+        "$$Blood_&_Inflammation",
+        "$DyslipidemiaDrugs"
+    ],
+    "question": {
+        "text": "What are the possible fates of FFAs released by LPL?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Used by muscle\n(2) Coverted back to TG in adipose tissue\n\n[Image: 3da625b279265ef8b83cac2128764d8acd38e4b86a6c85726bf51be6fbb84de2]\n\n[Image: ac2be823f28d975ba4df88880ae52f2bd4a9c0db5fb5955388bbc4cb687dd710]\n\n[Image: 3a5f4c0d8c2bc6f773218a67d9c04bc0202e2a7d07bd53cd6cd16056dcfb8ffe]",
+        "imageIds": [
+            "3da625b279265ef8b83cac2128764d8acd38e4b86a6c85726bf51be6fbb84de2",
+            "ac2be823f28d975ba4df88880ae52f2bd4a9c0db5fb5955388bbc4cb687dd710",
+            "3a5f4c0d8c2bc6f773218a67d9c04bc0202e2a7d07bd53cd6cd16056dcfb8ffe"
+        ]
+    },
+    "images": {
+        "3a5f4c0d8c2bc6f773218a67d9c04bc0202e2a7d07bd53cd6cd16056dcfb8ffe": {
+            "file": "images/3a5f4c0d8c2bc6f773218a67d9c04bc0202e2a7d07bd53cd6cd16056dcfb8ffe.jpg",
+            "filename": "paste-13056700579843.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43331
+        },
+        "3da625b279265ef8b83cac2128764d8acd38e4b86a6c85726bf51be6fbb84de2": {
+            "file": "images/3da625b279265ef8b83cac2128764d8acd38e4b86a6c85726bf51be6fbb84de2.jpg",
+            "filename": "paste-13013750906883 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 42133
+        },
+        "ac2be823f28d975ba4df88880ae52f2bd4a9c0db5fb5955388bbc4cb687dd710": {
+            "file": "images/ac2be823f28d975ba4df88880ae52f2bd4a9c0db5fb5955388bbc4cb687dd710.jpg",
+            "filename": "paste-13026635808771.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 42750
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476238755336",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476238755336",
+        "noteId": "1476236480934",
+        "noteGuid": "cj@yKLEX0c",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.4 - K+ sparing diuretics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.4-Potassium_Sparing_Diuretics",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "Which cell regulates Na+/K+/H2O reabsorption in the collecting duct?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Principal cell\n\n[Image: 5cbb85a4320f86af41d45808e76e6a304fc1927fb1661398d58c0703ded7fc71]",
+        "imageIds": [
+            "5cbb85a4320f86af41d45808e76e6a304fc1927fb1661398d58c0703ded7fc71"
+        ]
+    },
+    "images": {
+        "5cbb85a4320f86af41d45808e76e6a304fc1927fb1661398d58c0703ded7fc71": {
+            "file": "images/5cbb85a4320f86af41d45808e76e6a304fc1927fb1661398d58c0703ded7fc71.jpg",
+            "filename": "paste-92195767975939.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 40556
+        }
+    }
+}

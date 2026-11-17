@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475727285514",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475727285514",
+        "noteId": "1475726464638",
+        "noteGuid": "JpARMA.2Xe",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::1 Parasympathetic::1.1 - Cholinomimetics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(1)-Parasympathetics::1.1-Cholinomimetics",
+        "$$Autonomic_Drugs",
+        "$Parasympathetics"
+    ],
+    "question": {
+        "text": "Indications (2) : Bethanechol",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Non-obstructive GI dysmotility\n(2) Urinary retention\n\n[Image: 2a62c2f48f7ff873df94829437579bf0e27fdfd36315212e5f3ed827b7da6fad]\n\n[Image: 52be1589d8e12ce460f6924ba839f75edf40c1ceeb8a8b718bcdce46b12408fd]\n\n[Image: 3ee536a4a2d8e9d2a5ca4d6194e057bd60a6ab079165cc398475a50c35dc3421]\n\n[Image: 0f42fd9bc16d35503d18416a09ea1c2a9c3dbe17479c848f253f4e79aabd8dbe]",
+        "imageIds": [
+            "2a62c2f48f7ff873df94829437579bf0e27fdfd36315212e5f3ed827b7da6fad",
+            "52be1589d8e12ce460f6924ba839f75edf40c1ceeb8a8b718bcdce46b12408fd",
+            "3ee536a4a2d8e9d2a5ca4d6194e057bd60a6ab079165cc398475a50c35dc3421",
+            "0f42fd9bc16d35503d18416a09ea1c2a9c3dbe17479c848f253f4e79aabd8dbe"
+        ]
+    },
+    "images": {
+        "0f42fd9bc16d35503d18416a09ea1c2a9c3dbe17479c848f253f4e79aabd8dbe": {
+            "file": "images/0f42fd9bc16d35503d18416a09ea1c2a9c3dbe17479c848f253f4e79aabd8dbe.jpg",
+            "filename": "paste-7164005449731.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62641
+        },
+        "2a62c2f48f7ff873df94829437579bf0e27fdfd36315212e5f3ed827b7da6fad": {
+            "file": "images/2a62c2f48f7ff873df94829437579bf0e27fdfd36315212e5f3ed827b7da6fad.jpg",
+            "filename": "paste-7271379632131.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63345
+        },
+        "3ee536a4a2d8e9d2a5ca4d6194e057bd60a6ab079165cc398475a50c35dc3421": {
+            "file": "images/3ee536a4a2d8e9d2a5ca4d6194e057bd60a6ab079165cc398475a50c35dc3421.jpg",
+            "filename": "paste-7112465842179.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59767
+        },
+        "52be1589d8e12ce460f6924ba839f75edf40c1ceeb8a8b718bcdce46b12408fd": {
+            "file": "images/52be1589d8e12ce460f6924ba839f75edf40c1ceeb8a8b718bcdce46b12408fd.jpg",
+            "filename": "paste-7589207212035.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62787
+        }
+    }
+}

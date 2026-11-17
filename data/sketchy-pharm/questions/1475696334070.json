@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475696334070",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475696334070",
+        "noteId": "1475694860200",
+        "noteGuid": "NtP#}A1%P}",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::3 Antihypertensives::3.2 - Primary hypertension & hypertensive emergency",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(3)-Antihypertensives::3.2-Primary_Hypertension_&_Hypertensive_Emergency",
+        "$$Cardiovascular_&_Renal",
+        "$Antihypertensives"
+    ],
+    "question": {
+        "text": "When should 2 antihypertensive drugs be prescribed?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) >20 lbs overweight\n(2) BP >20/10 above goal\n\n(Note the 2s: 20 lbs, >20 systolic, >20/2 diastolic)\n\n[Image: c7e2b0cb8ea21c48297744fc98c2ff2484b12af1268edcb103cc2b55105935db]\n\u001b",
+        "imageIds": [
+            "c7e2b0cb8ea21c48297744fc98c2ff2484b12af1268edcb103cc2b55105935db"
+        ]
+    },
+    "images": {
+        "c7e2b0cb8ea21c48297744fc98c2ff2484b12af1268edcb103cc2b55105935db": {
+            "file": "images/c7e2b0cb8ea21c48297744fc98c2ff2484b12af1268edcb103cc2b55105935db.jpg",
+            "filename": "paste-120190364811267.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52717
+        }
+    }
+}

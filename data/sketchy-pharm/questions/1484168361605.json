@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484168361605",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484168361605",
+        "noteId": "1475728663965",
+        "noteGuid": "jP0(HG/*Ec",
+        "modelId": "1475688242543",
+        "templateOrdinal": 20
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.1 - Sympathomimetics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.1-Sympathomimetics",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "What effect does Epinephrine have on Psys, Pdia, and MAP?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Psys : ↑\n\n(2) Pdia : ↓\n\n(3) MAP: ↔ / ↑\n\n[Image: cff34eab3a5b3496ce28c6c9307a6e98cc0c884efdcb534afced51ab196afde2]",
+        "imageIds": [
+            "cff34eab3a5b3496ce28c6c9307a6e98cc0c884efdcb534afced51ab196afde2"
+        ]
+    },
+    "images": {
+        "cff34eab3a5b3496ce28c6c9307a6e98cc0c884efdcb534afced51ab196afde2": {
+            "file": "images/cff34eab3a5b3496ce28c6c9307a6e98cc0c884efdcb534afced51ab196afde2.jpg",
+            "filename": "paste-477170866585603.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 92408
+        }
+    }
+}

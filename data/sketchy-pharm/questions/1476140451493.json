@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476140451493",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476140451493",
+        "noteId": "1476139819858",
+        "noteGuid": "eO7SmiTCn*",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.4 - Glucocorticoids",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.4-Glucocorticoids",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "How do glucocorticoids prevent leukocyte migration?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Inhibit adhesion molecules\n\n(∴ Also increase WBC count ∵ less WBCs are attached to endothelium and more are freely floating in blood)\n\n[Image: ba0a89f81d0ef35cd813067318e9b28093bf68d7e9d8d9980c52bcc93767b22c]",
+        "imageIds": [
+            "ba0a89f81d0ef35cd813067318e9b28093bf68d7e9d8d9980c52bcc93767b22c"
+        ]
+    },
+    "images": {
+        "ba0a89f81d0ef35cd813067318e9b28093bf68d7e9d8d9980c52bcc93767b22c": {
+            "file": "images/ba0a89f81d0ef35cd813067318e9b28093bf68d7e9d8d9980c52bcc93767b22c.jpg",
+            "filename": "paste-109431471734787.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47537
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476032549488",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476032549488",
+        "noteId": "1476031894774",
+        "noteGuid": "r/v.#B/vmp",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.4 - Thrombolytics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.4-Thrombolytics",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "MOA: Aminocaproic Acid",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Inhibits plasminogen activation\n\n[Image: b0900f6b27475a4a070bd140e631196e2fedf637155a32d10007396d97a243ab]",
+        "imageIds": [
+            "b0900f6b27475a4a070bd140e631196e2fedf637155a32d10007396d97a243ab"
+        ]
+    },
+    "images": {
+        "b0900f6b27475a4a070bd140e631196e2fedf637155a32d10007396d97a243ab": {
+            "file": "images/b0900f6b27475a4a070bd140e631196e2fedf637155a32d10007396d97a243ab.jpg",
+            "filename": "paste-26980984553475.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 76443
+        }
+    }
+}

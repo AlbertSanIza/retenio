@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475728004081",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475728004081",
+        "noteId": "1475727285686",
+        "noteGuid": "fOwnFa{N9l",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::1 Parasympathetic::1.2 - Acetylcholinesterase Inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(1)-Parasympathetics::1.2-AChE_Inhibitors",
+        "$$Autonomic_Drugs",
+        "$Parasympathetics"
+    ],
+    "question": {
+        "text": "What does a negative tensilon test suggest?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Cholinergic crisis\n\n[Image: f209f0e20861c1c7f439e7633ca840f81b36e331cfb2677f7f44b8507f042681]",
+        "imageIds": [
+            "f209f0e20861c1c7f439e7633ca840f81b36e331cfb2677f7f44b8507f042681"
+        ]
+    },
+    "images": {
+        "f209f0e20861c1c7f439e7633ca840f81b36e331cfb2677f7f44b8507f042681": {
+            "file": "images/f209f0e20861c1c7f439e7633ca840f81b36e331cfb2677f7f44b8507f042681.jpg",
+            "filename": "paste-12013023526915.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50416
+        }
+    }
+}

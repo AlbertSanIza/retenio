@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480817122750",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480817122750",
+        "noteId": "1480816165877",
+        "noteGuid": "Qi(.XU0Lz8",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::3 Antimycobacterials::3.2 - Leprosy drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(3)-Antimycobacterials::3.2-Leprosy_Drugs",
+        "$$Antimicrobials",
+        "$Antimycobacterials"
+    ],
+    "question": {
+        "text": "Treatment: M. leprae",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Dapsone\n(2) Clofazimine\n\n(3) Rifampin\n\n(Clofazimine use only for the lepromatous form. Rifampin added for longterm therapy)\n\n[Image: 48268ba7107da0ad23213f901ad33615d6ef3949b7eb4768df93a8ce152cb290]\n\n[Image: 162d676be2bd357bb5e2e0d0d3297f7c1bcfb2a16eb8b108608e1089efa9da2f]\n\n[Image: 4038d679121d05a611f7f890752f313ab165e4f535707bb6a7b0104856db2d09]\n\n[Image: f7b2f2dbe1fc57e225c773424e797b5e3744dc6f4e5b0d7a17143f8415fd655e]\n\n[Image: 42bd1d988e59ae3440299d63fcbf3949922ec8e1093ec38e2a35ace5e1e61454]",
+        "imageIds": [
+            "48268ba7107da0ad23213f901ad33615d6ef3949b7eb4768df93a8ce152cb290",
+            "162d676be2bd357bb5e2e0d0d3297f7c1bcfb2a16eb8b108608e1089efa9da2f",
+            "4038d679121d05a611f7f890752f313ab165e4f535707bb6a7b0104856db2d09",
+            "f7b2f2dbe1fc57e225c773424e797b5e3744dc6f4e5b0d7a17143f8415fd655e",
+            "42bd1d988e59ae3440299d63fcbf3949922ec8e1093ec38e2a35ace5e1e61454"
+        ]
+    },
+    "images": {
+        "162d676be2bd357bb5e2e0d0d3297f7c1bcfb2a16eb8b108608e1089efa9da2f": {
+            "file": "images/162d676be2bd357bb5e2e0d0d3297f7c1bcfb2a16eb8b108608e1089efa9da2f.jpg",
+            "filename": "paste-193243463548931.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52242
+        },
+        "4038d679121d05a611f7f890752f313ab165e4f535707bb6a7b0104856db2d09": {
+            "file": "images/4038d679121d05a611f7f890752f313ab165e4f535707bb6a7b0104856db2d09.jpg",
+            "filename": "paste-193892003610627.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50478
+        },
+        "42bd1d988e59ae3440299d63fcbf3949922ec8e1093ec38e2a35ace5e1e61454": {
+            "file": "images/42bd1d988e59ae3440299d63fcbf3949922ec8e1093ec38e2a35ace5e1e61454.jpg",
+            "filename": "paste-175427939205123.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70760
+        },
+        "48268ba7107da0ad23213f901ad33615d6ef3949b7eb4768df93a8ce152cb290": {
+            "file": "images/48268ba7107da0ad23213f901ad33615d6ef3949b7eb4768df93a8ce152cb290.jpg",
+            "filename": "paste-194373039947779.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53307
+        },
+        "f7b2f2dbe1fc57e225c773424e797b5e3744dc6f4e5b0d7a17143f8415fd655e": {
+            "file": "images/f7b2f2dbe1fc57e225c773424e797b5e3744dc6f4e5b0d7a17143f8415fd655e.jpg",
+            "filename": "paste-175122996527107.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66976
+        }
+    }
+}

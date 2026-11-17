@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475965578620",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475965578620",
+        "noteId": "1475964798680",
+        "noteGuid": "ky(ErQ9#xE",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.5 - Class V",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.5-Class_V",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "What receptor does Adenosine stimulate to ↓ SA/AV node activity?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "A1\n\n[Image: a3a144a3c5912e92f26bd869b27b5d393152819f326391a71f5e21a022309976]",
+        "imageIds": [
+            "a3a144a3c5912e92f26bd869b27b5d393152819f326391a71f5e21a022309976"
+        ]
+    },
+    "images": {
+        "a3a144a3c5912e92f26bd869b27b5d393152819f326391a71f5e21a022309976": {
+            "file": "images/a3a144a3c5912e92f26bd869b27b5d393152819f326391a71f5e21a022309976.jpg",
+            "filename": "paste-54765127991299.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 99173
+        }
+    }
+}

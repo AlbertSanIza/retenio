@@ -1,0 +1,94 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475694566894",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475694566894",
+        "noteId": "1475693558188",
+        "noteGuid": "k2xO-NDlof",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::3 Antihypertensives::3.1 - Calcium channel blockers",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(3)-Antihypertensives::3.1-Calcium_Channel_Blockers",
+        "$$Cardiovascular_&_Renal",
+        "$Antihypertensives"
+    ],
+    "question": {
+        "text": "Indications (9) : Calcium channel blockers",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Hypertension\n(2) Malignant hypertension\n\n(3) Hypertension in pregnancy\n\n(4) Raynaud's\n\n(5) Subarachnoid hemmorhage\n\n(6) Stable angina\n\n(7) Migraine prophylaxis\n\n(8) Prinzmetal angina\n\n(9) Arrhythmia\n\n(Walk around the room counterclockwise)\n\n[Image: cd8acbc25a0dc72ce40ef3a59f7d92af4b6efe183f30b2c28e7775d4d4a830d8]\n\n[Image: df3b943180e6ea3b5855333c31797073a43840c9625f46a877c1246298e088e5]\n\n[Image: 885d96a82ad46b494469b57b43c63ad0a303f11ba8bb41d9afe86de618c47fbb]\n\n[Image: 76de5dad44fbc70e970b0cddaa56faea93dcdb3f456a0151d3341f5d6d795132]\n\n[Image: 4bf4fbda10095ec7e76d198a5b8450a2e035091e93b90c7b8f2dda235471f33a]\n\n[Image: 0d4373dfcb16827bd4a6499a7e2fd090a7d38de8e3e8482f876a7de41bad4f82]\n\n[Image: fcfb3c576529230945c1f6e2c7563b7b7e942c97d5d6943578ed9f7b184b4b78]\n\n[Image: 204bdab458edf5a913f586133847464b1d03f7263a7d23d0ba99e2b59946523b]\n\n[Image: d5390b42d38b6daaa08abcac3ede56c83dd88e2821f6d3af7536575a38c9d093]",
+        "imageIds": [
+            "cd8acbc25a0dc72ce40ef3a59f7d92af4b6efe183f30b2c28e7775d4d4a830d8",
+            "df3b943180e6ea3b5855333c31797073a43840c9625f46a877c1246298e088e5",
+            "885d96a82ad46b494469b57b43c63ad0a303f11ba8bb41d9afe86de618c47fbb",
+            "76de5dad44fbc70e970b0cddaa56faea93dcdb3f456a0151d3341f5d6d795132",
+            "4bf4fbda10095ec7e76d198a5b8450a2e035091e93b90c7b8f2dda235471f33a",
+            "0d4373dfcb16827bd4a6499a7e2fd090a7d38de8e3e8482f876a7de41bad4f82",
+            "fcfb3c576529230945c1f6e2c7563b7b7e942c97d5d6943578ed9f7b184b4b78",
+            "204bdab458edf5a913f586133847464b1d03f7263a7d23d0ba99e2b59946523b",
+            "d5390b42d38b6daaa08abcac3ede56c83dd88e2821f6d3af7536575a38c9d093"
+        ]
+    },
+    "images": {
+        "0d4373dfcb16827bd4a6499a7e2fd090a7d38de8e3e8482f876a7de41bad4f82": {
+            "file": "images/0d4373dfcb16827bd4a6499a7e2fd090a7d38de8e3e8482f876a7de41bad4f82.jpg",
+            "filename": "paste-101554501713923.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 67073
+        },
+        "204bdab458edf5a913f586133847464b1d03f7263a7d23d0ba99e2b59946523b": {
+            "file": "images/204bdab458edf5a913f586133847464b1d03f7263a7d23d0ba99e2b59946523b.jpg",
+            "filename": "paste-101601746354179.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 81742
+        },
+        "4bf4fbda10095ec7e76d198a5b8450a2e035091e93b90c7b8f2dda235471f33a": {
+            "file": "images/4bf4fbda10095ec7e76d198a5b8450a2e035091e93b90c7b8f2dda235471f33a.jpg",
+            "filename": "paste-101734890340355.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 77989
+        },
+        "76de5dad44fbc70e970b0cddaa56faea93dcdb3f456a0151d3341f5d6d795132": {
+            "file": "images/76de5dad44fbc70e970b0cddaa56faea93dcdb3f456a0151d3341f5d6d795132.jpg",
+            "filename": "paste-101666170863619.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 75908
+        },
+        "885d96a82ad46b494469b57b43c63ad0a303f11ba8bb41d9afe86de618c47fbb": {
+            "file": "images/885d96a82ad46b494469b57b43c63ad0a303f11ba8bb41d9afe86de618c47fbb.jpg",
+            "filename": "paste-105776454565891.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 83107
+        },
+        "cd8acbc25a0dc72ce40ef3a59f7d92af4b6efe183f30b2c28e7775d4d4a830d8": {
+            "file": "images/cd8acbc25a0dc72ce40ef3a59f7d92af4b6efe183f30b2c28e7775d4d4a830d8.jpg",
+            "filename": "paste-101490077204483.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 72175
+        },
+        "d5390b42d38b6daaa08abcac3ede56c83dd88e2821f6d3af7536575a38c9d093": {
+            "file": "images/d5390b42d38b6daaa08abcac3ede56c83dd88e2821f6d3af7536575a38c9d093.jpg",
+            "filename": "paste-101868034326531.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 82928
+        },
+        "df3b943180e6ea3b5855333c31797073a43840c9625f46a877c1246298e088e5": {
+            "file": "images/df3b943180e6ea3b5855333c31797073a43840c9625f46a877c1246298e088e5.jpg",
+            "filename": "paste-101502962106371.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 78220
+        },
+        "fcfb3c576529230945c1f6e2c7563b7b7e942c97d5d6943578ed9f7b184b4b78": {
+            "file": "images/fcfb3c576529230945c1f6e2c7563b7b7e942c97d5d6943578ed9f7b184b4b78.jpg",
+            "filename": "paste-101764955111427.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 85942
+        }
+    }
+}

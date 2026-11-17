@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480826453233",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480826453233",
+        "noteId": "1480825958438",
+        "noteGuid": "wh`5lM*zbv",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::5 Antifungals::5.2 - Azoles",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(5)-Antifungals::5.2-Azoles",
+        "$$Antimicrobials",
+        "$Antifungals"
+    ],
+    "question": {
+        "text": "Adverse Effects (2) : Voraconazole",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Blurry vision with flashes of light\n(2) Changes in color vision\n\n[Image: fbc2242268c84467c8e869dc4f0dc1980a4f8db82ad7a9dc163e8b86e1100092]\n\n[Image: fbc2242268c84467c8e869dc4f0dc1980a4f8db82ad7a9dc163e8b86e1100092]",
+        "imageIds": [
+            "fbc2242268c84467c8e869dc4f0dc1980a4f8db82ad7a9dc163e8b86e1100092"
+        ]
+    },
+    "images": {
+        "fbc2242268c84467c8e869dc4f0dc1980a4f8db82ad7a9dc163e8b86e1100092": {
+            "file": "images/fbc2242268c84467c8e869dc4f0dc1980a4f8db82ad7a9dc163e8b86e1100092.jpg",
+            "filename": "paste-264479791120387.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48936
+        }
+    }
+}

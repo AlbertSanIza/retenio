@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480819869372",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480819869372",
+        "noteId": "1480817330855",
+        "noteGuid": "JorE&S@rr3",
+        "modelId": "1475688242543",
+        "templateOrdinal": 12
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::4 Other Antibiotics::4.1 - Trimethoprim/Sulfamethoxazole",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(4)-Other_Antibiotics::4.1-Trimethoprim/Sulfamethoxazole",
+        "$$Antimicrobials",
+        "$Other_Antibiotics"
+    ],
+    "question": {
+        "text": "Name 3 adverse effects of TMP-SMX that present with cutaneous symptoms",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Atopic reaction\n(2) Steven-Johnson syndrome\n\n(3) Photosensitivity\n\n[Image: 7482f65d2439412ae0ce579b41afa9f30babd3c42b6e56136b2c173195396e18]\n\n[Image: dc431a283ac06fd1b29cb90eee5025c39c6c506c2f2d6bbf18acf49b76d4dcc7]\n\n[Image: 7411b10d57bf80d9ac7ff42a27bf48fda23719bd688f1a219fc30aa1dea85a93]",
+        "imageIds": [
+            "7482f65d2439412ae0ce579b41afa9f30babd3c42b6e56136b2c173195396e18",
+            "dc431a283ac06fd1b29cb90eee5025c39c6c506c2f2d6bbf18acf49b76d4dcc7",
+            "7411b10d57bf80d9ac7ff42a27bf48fda23719bd688f1a219fc30aa1dea85a93"
+        ]
+    },
+    "images": {
+        "7411b10d57bf80d9ac7ff42a27bf48fda23719bd688f1a219fc30aa1dea85a93": {
+            "file": "images/7411b10d57bf80d9ac7ff42a27bf48fda23719bd688f1a219fc30aa1dea85a93.jpg",
+            "filename": "paste-205668803936259.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 64209
+        },
+        "7482f65d2439412ae0ce579b41afa9f30babd3c42b6e56136b2c173195396e18": {
+            "file": "images/7482f65d2439412ae0ce579b41afa9f30babd3c42b6e56136b2c173195396e18.jpg",
+            "filename": "paste-204496277864451.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59889
+        },
+        "dc431a283ac06fd1b29cb90eee5025c39c6c506c2f2d6bbf18acf49b76d4dcc7": {
+            "file": "images/dc431a283ac06fd1b29cb90eee5025c39c6c506c2f2d6bbf18acf49b76d4dcc7.jpg",
+            "filename": "paste-205170587729923.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57916
+        }
+    }
+}

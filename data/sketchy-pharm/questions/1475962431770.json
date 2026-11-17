@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475962431770",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475962431770",
+        "noteId": "1475962037924",
+        "noteGuid": "LK=6#G=0_h",
+        "modelId": "1475688242543",
+        "templateOrdinal": 19
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.1 - Class I A-C",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.1-Class_I_(A-C)",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "Contraindication: Class IC antiarrhythmics",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Structural heart disease\n(2) Ischemic heart disease\n\n(≅ Preexisting heart disease)\n\n[Image: e850c40415deded92c317c2e43575e984bda8550f816280c55188a5915013cc8]",
+        "imageIds": [
+            "e850c40415deded92c317c2e43575e984bda8550f816280c55188a5915013cc8"
+        ]
+    },
+    "images": {
+        "e850c40415deded92c317c2e43575e984bda8550f816280c55188a5915013cc8": {
+            "file": "images/e850c40415deded92c317c2e43575e984bda8550f816280c55188a5915013cc8.jpg",
+            "filename": "paste-36958193582083.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65440
+        }
+    }
+}

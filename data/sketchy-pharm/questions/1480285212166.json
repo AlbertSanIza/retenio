@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480285212166",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480285212166",
+        "noteId": "1480284242370",
+        "noteGuid": "sm5L!@Ga^j",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::3 Kinase Inhibitors & Monoclonal Antibodies\n::3.1 - Imatinib, erlotinib, sorafenib, sunitinib, vemurafenib",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(3)-Kinase_Inhibitors_&_Monoclonal_Abs::3.1-Imatinib,Erlotinib,Sorafenib,Sunitinib,Vemurafenib",
+        "$$Antineoplastics",
+        "$Kinase_Inhibitors_&_MonoclonalAbs"
+    ],
+    "question": {
+        "text": "Name 2 small molecule tyrosine kinase inhibitors of VEGFR",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Sunitinib\n(2) Sorafenib\n\n[Image: 1326b079ec60f500153d2bd19768b796ad8ca824b77dcd0c8694e07a1eb61c74]\n\n[Image: dd0d63bd8b920d23a43602f32b98de4a3f4d13df0cd6f6f7da1156b069121039]",
+        "imageIds": [
+            "1326b079ec60f500153d2bd19768b796ad8ca824b77dcd0c8694e07a1eb61c74",
+            "dd0d63bd8b920d23a43602f32b98de4a3f4d13df0cd6f6f7da1156b069121039"
+        ]
+    },
+    "images": {
+        "1326b079ec60f500153d2bd19768b796ad8ca824b77dcd0c8694e07a1eb61c74": {
+            "file": "images/1326b079ec60f500153d2bd19768b796ad8ca824b77dcd0c8694e07a1eb61c74.jpg",
+            "filename": "paste-8555574853635.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47902
+        },
+        "dd0d63bd8b920d23a43602f32b98de4a3f4d13df0cd6f6f7da1156b069121039": {
+            "file": "images/dd0d63bd8b920d23a43602f32b98de4a3f4d13df0cd6f6f7da1156b069121039.jpg",
+            "filename": "paste-8688718839811.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49464
+        }
+    }
+}

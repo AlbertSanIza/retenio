@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479164554211",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479164554211",
+        "noteId": "1479164083148",
+        "noteGuid": "iA?3DF,6G1",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::3 Anti-inflammatory::3.2 - Gout drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(3)-Anti-Inflammatory_Drugs::3.2-Gout_Drugs",
+        "$$Blood_&_Inflammation",
+        "$Anti-inflammatory"
+    ],
+    "question": {
+        "text": "What type of cancer most commonly causes tumor lysis syndrome?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Lymphoma\n(2) Acute lymphoblastic leukemia\n\n[Image: 722e147bdc21f72b9a9d05ac7217d39b66ebe6c36d2b3d8909376e74d1a02bb5]",
+        "imageIds": [
+            "722e147bdc21f72b9a9d05ac7217d39b66ebe6c36d2b3d8909376e74d1a02bb5"
+        ]
+    },
+    "images": {
+        "722e147bdc21f72b9a9d05ac7217d39b66ebe6c36d2b3d8909376e74d1a02bb5": {
+            "file": "images/722e147bdc21f72b9a9d05ac7217d39b66ebe6c36d2b3d8909376e74d1a02bb5.jpg",
+            "filename": "paste-57256209022979.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66395
+        }
+    }
+}

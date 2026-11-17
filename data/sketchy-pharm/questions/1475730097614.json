@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475730097614",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475730097614",
+        "noteId": "1475728663965",
+        "noteGuid": "jP0(HG/*Ec",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.1 - Sympathomimetics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.1-Sympathomimetics",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "What is the receptor specificity of Dobutamine?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "β1 > β2\n\n[Image: 9bd6b019dc04040a8bda16cdb3e346c4b5a157c9fcd6c9ab25c30e58a0f60152]\n\n[Image: 3e3c796abb8011d179bf289df78f198a9afba46680327e6b73069928fcac0a89]\n\n[Image: 6a2220539b7b52090a60aa5fc160d438d03e0b9f514bfcc399b7fb3eec028036]",
+        "imageIds": [
+            "9bd6b019dc04040a8bda16cdb3e346c4b5a157c9fcd6c9ab25c30e58a0f60152",
+            "3e3c796abb8011d179bf289df78f198a9afba46680327e6b73069928fcac0a89",
+            "6a2220539b7b52090a60aa5fc160d438d03e0b9f514bfcc399b7fb3eec028036"
+        ]
+    },
+    "images": {
+        "3e3c796abb8011d179bf289df78f198a9afba46680327e6b73069928fcac0a89": {
+            "file": "images/3e3c796abb8011d179bf289df78f198a9afba46680327e6b73069928fcac0a89.jpg",
+            "filename": "paste-23837068492803.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55164
+        },
+        "6a2220539b7b52090a60aa5fc160d438d03e0b9f514bfcc399b7fb3eec028036": {
+            "file": "images/6a2220539b7b52090a60aa5fc160d438d03e0b9f514bfcc399b7fb3eec028036.jpg",
+            "filename": "paste-24073291694083.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60092
+        },
+        "9bd6b019dc04040a8bda16cdb3e346c4b5a157c9fcd6c9ab25c30e58a0f60152": {
+            "file": "images/9bd6b019dc04040a8bda16cdb3e346c4b5a157c9fcd6c9ab25c30e58a0f60152.jpg",
+            "filename": "paste-23772643983363.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55985
+        }
+    }
+}

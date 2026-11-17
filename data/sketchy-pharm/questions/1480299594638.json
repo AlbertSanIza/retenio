@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480299594638",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480299594638",
+        "noteId": "1480298206862",
+        "noteGuid": "n}<zAn6=@Y",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.3 - Opiates, naloxone, naltrexone",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.3-Opiates,Naloxone,Naltrexone",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "MOA: Nalbuphine",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Partial μ agonist\n\n[Image: ff9e97632aa2d6eb64440beb484f2e3c0ddce619e0d33ba04e9cabe5885a94b0]",
+        "imageIds": [
+            "ff9e97632aa2d6eb64440beb484f2e3c0ddce619e0d33ba04e9cabe5885a94b0"
+        ]
+    },
+    "images": {
+        "ff9e97632aa2d6eb64440beb484f2e3c0ddce619e0d33ba04e9cabe5885a94b0": {
+            "file": "images/ff9e97632aa2d6eb64440beb484f2e3c0ddce619e0d33ba04e9cabe5885a94b0.jpg",
+            "filename": "paste-92547955294211.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66069
+        }
+    }
+}

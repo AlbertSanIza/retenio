@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484167049061",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484167049061",
+        "noteId": "1475726464638",
+        "noteGuid": "JpARMA.2Xe",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::1 Parasympathetic::1.1 - Cholinomimetics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(1)-Parasympathetics::1.1-Cholinomimetics",
+        "$$Autonomic_Drugs",
+        "$Parasympathetics"
+    ],
+    "question": {
+        "text": "What effect do muscarinic agonists have on the lens of the eye?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Induce accomodation\n\n[Image: f1370053e76ae8cd41e032fecd2903a0fe5b92a4b30e6cbb772e996840a9fb4d]",
+        "imageIds": [
+            "f1370053e76ae8cd41e032fecd2903a0fe5b92a4b30e6cbb772e996840a9fb4d"
+        ]
+    },
+    "images": {
+        "f1370053e76ae8cd41e032fecd2903a0fe5b92a4b30e6cbb772e996840a9fb4d": {
+            "file": "images/f1370053e76ae8cd41e032fecd2903a0fe5b92a4b30e6cbb772e996840a9fb4d.jpg",
+            "filename": "paste-399775555911683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 81797
+        }
+    }
+}

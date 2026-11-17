@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484165156200",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484165156200",
+        "noteId": "1484162877085",
+        "noteGuid": "K^0}t0mL6T",
+        "modelId": "1475688242543",
+        "templateOrdinal": 13
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::5 Antipsychotics & Parkinson's::5.3 - Levodopa/carbidopa, entacapone, tolcapone, selegiline, ropinirole, pramipexole, amantadine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(5)-Antipsychotics_&_Parkinsons::5.3-Parkinsons_Drugs",
+        "$$Neuro/Psych",
+        "$Antipsychotics_&_Parkinsons"
+    ],
+    "question": {
+        "text": "What drug can exacerbate impulse control disorders?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Ropinrole\n\n(\"Just think 'rock and roll' Ropinarole!\")\n\n[Image: 364571bdb05499f7fd127ec09d904b0c9a44d8149d8da29a77f348d4f96a5fa1]",
+        "imageIds": [
+            "364571bdb05499f7fd127ec09d904b0c9a44d8149d8da29a77f348d4f96a5fa1"
+        ]
+    },
+    "images": {
+        "364571bdb05499f7fd127ec09d904b0c9a44d8149d8da29a77f348d4f96a5fa1": {
+            "file": "images/364571bdb05499f7fd127ec09d904b0c9a44d8149d8da29a77f348d4f96a5fa1.jpg",
+            "filename": "paste-313128885682179.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 75071
+        }
+    }
+}

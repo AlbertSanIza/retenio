@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479167177039",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479167177039",
+        "noteId": "1479166331886",
+        "noteGuid": "nZiAb4L,QC",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::5 Antipsychotics & Parkinson's::5.1 - First generation antipsychotics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(5)-Antipsychotics_&_Parkinsons::5.1-First_Generation_Antipsychotics",
+        "$$Neuro/Psych",
+        "$Antipsychotics_&_Parkinsons"
+    ],
+    "question": {
+        "text": "What type of extra pyramidal symptoms can occur within weeks of starting a high potency first generation antipsychotics?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Drug-induced Parkinson\n(2) Tardive dyskinesia\n\n[Image: c314e8fb1ee024ec093deba71d96b4580f0e90ab5c54341d53bd422a2db09fdd]\n\n[Image: 3d198bab6ae18883bdd27815eddbf829a17bb99274a1e6d0fc7ad32610f91fba]",
+        "imageIds": [
+            "c314e8fb1ee024ec093deba71d96b4580f0e90ab5c54341d53bd422a2db09fdd",
+            "3d198bab6ae18883bdd27815eddbf829a17bb99274a1e6d0fc7ad32610f91fba"
+        ]
+    },
+    "images": {
+        "3d198bab6ae18883bdd27815eddbf829a17bb99274a1e6d0fc7ad32610f91fba": {
+            "file": "images/3d198bab6ae18883bdd27815eddbf829a17bb99274a1e6d0fc7ad32610f91fba.jpg",
+            "filename": "paste-216217243615235.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 64148
+        },
+        "c314e8fb1ee024ec093deba71d96b4580f0e90ab5c54341d53bd422a2db09fdd": {
+            "file": "images/c314e8fb1ee024ec093deba71d96b4580f0e90ab5c54341d53bd422a2db09fdd.jpg",
+            "filename": "paste-213696097812483.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62667
+        }
+    }
+}

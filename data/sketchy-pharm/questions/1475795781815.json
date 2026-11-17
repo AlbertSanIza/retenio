@@ -1,0 +1,80 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475795781815",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475795781815",
+        "noteId": "1475794790683",
+        "noteGuid": "l!ym7T{M~Z",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.2 - Tricyclic antidepressants",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.2-TCAs",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "Adverse Effects (8) : TCAs",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Sexual dysfunction\n(2) Anti-muscarinic effects\n\n(3) Sedation\n\n(4) Weight gain\n\n(5) Orthostatic hypotension\n\n(6) Seizures\n\n(7) Serotonin syndrome\n\n(8) Torsades\n\n[Image: a00f6d676b30f038029a8df273002ba9c810e686ac661fa07fc50d568f168585]\n\n[Image: 8717830be29eff65719a83e93206b288edcb511daf08fe6fb95c556ddda837eb]\n\n[Image: 8aee240548602ac571f6b0c7775045052e8e8ed6d30392119d6ba608bbc4ec24]\n\n[Image: 15877edcf69741537963ce1071fe994344479487ae30a77d2beb3191cd81c82c]\n\n[Image: ec6ae9cf2ace314e717c4712512aca9227ad9c5f5c18919a710049d0cf42cbbc]\n\n[Image: 057d117344bdb37415ec0c87fc4351d883179344cd3407f9c0578e6ed8c43c70]\n\n[Image: 19373e6b3d7cecc5a5e38a8907c46d76137110bd691927dfa67eee08b389505a]",
+        "imageIds": [
+            "a00f6d676b30f038029a8df273002ba9c810e686ac661fa07fc50d568f168585",
+            "8717830be29eff65719a83e93206b288edcb511daf08fe6fb95c556ddda837eb",
+            "8aee240548602ac571f6b0c7775045052e8e8ed6d30392119d6ba608bbc4ec24",
+            "15877edcf69741537963ce1071fe994344479487ae30a77d2beb3191cd81c82c",
+            "ec6ae9cf2ace314e717c4712512aca9227ad9c5f5c18919a710049d0cf42cbbc",
+            "057d117344bdb37415ec0c87fc4351d883179344cd3407f9c0578e6ed8c43c70",
+            "19373e6b3d7cecc5a5e38a8907c46d76137110bd691927dfa67eee08b389505a"
+        ]
+    },
+    "images": {
+        "057d117344bdb37415ec0c87fc4351d883179344cd3407f9c0578e6ed8c43c70": {
+            "file": "images/057d117344bdb37415ec0c87fc4351d883179344cd3407f9c0578e6ed8c43c70.jpg",
+            "filename": "paste-23227183136771.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61120
+        },
+        "15877edcf69741537963ce1071fe994344479487ae30a77d2beb3191cd81c82c": {
+            "file": "images/15877edcf69741537963ce1071fe994344479487ae30a77d2beb3191cd81c82c.jpg",
+            "filename": "paste-20920785698819.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57545
+        },
+        "19373e6b3d7cecc5a5e38a8907c46d76137110bd691927dfa67eee08b389505a": {
+            "file": "images/19373e6b3d7cecc5a5e38a8907c46d76137110bd691927dfa67eee08b389505a.jpg",
+            "filename": "paste-887701020606467.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58164
+        },
+        "8717830be29eff65719a83e93206b288edcb511daf08fe6fb95c556ddda837eb": {
+            "file": "images/8717830be29eff65719a83e93206b288edcb511daf08fe6fb95c556ddda837eb.jpg",
+            "filename": "paste-18648747999235.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44586
+        },
+        "8aee240548602ac571f6b0c7775045052e8e8ed6d30392119d6ba608bbc4ec24": {
+            "file": "images/8aee240548602ac571f6b0c7775045052e8e8ed6d30392119d6ba608bbc4ec24.jpg",
+            "filename": "paste-20525648707587.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60292
+        },
+        "a00f6d676b30f038029a8df273002ba9c810e686ac661fa07fc50d568f168585": {
+            "file": "images/a00f6d676b30f038029a8df273002ba9c810e686ac661fa07fc50d568f168585.jpg",
+            "filename": "paste-18481244274691.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54477
+        },
+        "ec6ae9cf2ace314e717c4712512aca9227ad9c5f5c18919a710049d0cf42cbbc": {
+            "file": "images/ec6ae9cf2ace314e717c4712512aca9227ad9c5f5c18919a710049d0cf42cbbc.jpg",
+            "filename": "paste-22913650524163.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57571
+        }
+    }
+}

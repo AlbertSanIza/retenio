@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475731410749",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475731410749",
+        "noteId": "1475730679415",
+        "noteGuid": "OyB|BPtZk?",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.3 - Alpha drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.3-Alpha_drugs",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "Indications (3) : Clonidine",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Hypertension\n(2) ADHD\n(3) Tourettes\n\n[Image: 76a5449881f3a0c22c274ac7f379987e18a26e655a681d6073dcdb62769a9d7c]\n\n[Image: 758158c59fe6f457c7bd165cb9e95a81bcb63a83cac53695932f5b0dca18140b]\n\n[Image: 3ae06dd2ecc3b5e0e24d28801591d62a797394bcfe3113c1db8036efcb9b9ced]\n\n[Image: 514162a848d27a5815fa6a6272bddfcfcd1ed886729b8750ee8cffff77f186bf]",
+        "imageIds": [
+            "76a5449881f3a0c22c274ac7f379987e18a26e655a681d6073dcdb62769a9d7c",
+            "758158c59fe6f457c7bd165cb9e95a81bcb63a83cac53695932f5b0dca18140b",
+            "3ae06dd2ecc3b5e0e24d28801591d62a797394bcfe3113c1db8036efcb9b9ced",
+            "514162a848d27a5815fa6a6272bddfcfcd1ed886729b8750ee8cffff77f186bf"
+        ]
+    },
+    "images": {
+        "3ae06dd2ecc3b5e0e24d28801591d62a797394bcfe3113c1db8036efcb9b9ced": {
+            "file": "images/3ae06dd2ecc3b5e0e24d28801591d62a797394bcfe3113c1db8036efcb9b9ced.jpg",
+            "filename": "paste-31039728648195.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48378
+        },
+        "514162a848d27a5815fa6a6272bddfcfcd1ed886729b8750ee8cffff77f186bf": {
+            "file": "images/514162a848d27a5815fa6a6272bddfcfcd1ed886729b8750ee8cffff77f186bf.jpg",
+            "filename": "paste-433581243498499.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 76015
+        },
+        "758158c59fe6f457c7bd165cb9e95a81bcb63a83cac53695932f5b0dca18140b": {
+            "file": "images/758158c59fe6f457c7bd165cb9e95a81bcb63a83cac53695932f5b0dca18140b.jpg",
+            "filename": "paste-31013958844419.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48122
+        },
+        "76a5449881f3a0c22c274ac7f379987e18a26e655a681d6073dcdb62769a9d7c": {
+            "file": "images/76a5449881f3a0c22c274ac7f379987e18a26e655a681d6073dcdb62769a9d7c.jpg",
+            "filename": "paste-31516470018051.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45422
+        }
+    }
+}

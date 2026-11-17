@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476124356765",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476124356765",
+        "noteId": "1476123573815",
+        "noteGuid": "k=!B>3>6eG",
+        "modelId": "1475688242543",
+        "templateOrdinal": 24
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::2 Diabetes::2.1 - Insulin, Sulfonylureas, Meglitinides, GLP-1 Agonists, DPP-4 Inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(2)-Diabetes::2.1-Insulin,Sulfonylureas,Meglitinides,GLP-1_Agonists,DPP-4_Inhibitors",
+        "$$GI_&_Endocrine",
+        "$Diabetes"
+    ],
+    "question": {
+        "text": "MOA: \"-gliptin\" drugs",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Inhibit DDP-4\n\n(And ∴ degradation of GLP-1. Gliptins be GLP-liftin)\n\n[Image: b72d55ab3ede6ef62f1448e2ac3cbd475d464b7f4272f5283475518f3f0bebc0]\n\n[Image: 72878c55393c1655c03a4373763b68cf9a2ff788b6490bf6d4b4fc356864dd43]",
+        "imageIds": [
+            "b72d55ab3ede6ef62f1448e2ac3cbd475d464b7f4272f5283475518f3f0bebc0",
+            "72878c55393c1655c03a4373763b68cf9a2ff788b6490bf6d4b4fc356864dd43"
+        ]
+    },
+    "images": {
+        "72878c55393c1655c03a4373763b68cf9a2ff788b6490bf6d4b4fc356864dd43": {
+            "file": "images/72878c55393c1655c03a4373763b68cf9a2ff788b6490bf6d4b4fc356864dd43.jpg",
+            "filename": "paste-48112223649795.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54547
+        },
+        "b72d55ab3ede6ef62f1448e2ac3cbd475d464b7f4272f5283475518f3f0bebc0": {
+            "file": "images/b72d55ab3ede6ef62f1448e2ac3cbd475d464b7f4272f5283475518f3f0bebc0.jpg",
+            "filename": "paste-48026324303875.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55896
+        }
+    }
+}

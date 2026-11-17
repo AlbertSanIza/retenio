@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480286764923",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480286764923",
+        "noteId": "1480285917662",
+        "noteGuid": "BKzdsM>lW[",
+        "modelId": "1475688242543",
+        "templateOrdinal": 12
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::3 Kinase Inhibitors & Monoclonal Antibodies\n::3.2 - Rituximab, cetuximab, bevacizumab, alemtuzumab, trastuzumab",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(3)-Kinase_Inhibitors_&_Monoclonal_Abs::3.2-Rituximab,Cetuximab,Bevacizumab,Alemtuzumab,Trastuzumab",
+        "$$Antineoplastics",
+        "$Kinase_Inhibitors_&_MonoclonalAbsbb"
+    ],
+    "question": {
+        "text": "What monoclonal antibody inhibits vasculature proliferation in tumors?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Bevacizumab\n\n[Image: c54c30275aead9a3c129377663c0e6f980869648574ca2b9f602ba987b5ea68e]",
+        "imageIds": [
+            "c54c30275aead9a3c129377663c0e6f980869648574ca2b9f602ba987b5ea68e"
+        ]
+    },
+    "images": {
+        "c54c30275aead9a3c129377663c0e6f980869648574ca2b9f602ba987b5ea68e": {
+            "file": "images/c54c30275aead9a3c129377663c0e6f980869648574ca2b9f602ba987b5ea68e.jpg",
+            "filename": "paste-19327352832003.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58435
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479164434069",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479164434069",
+        "noteId": "1479164083148",
+        "noteGuid": "iA?3DF,6G1",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::3 Anti-inflammatory::3.2 - Gout drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(3)-Anti-Inflammatory_Drugs::3.2-Gout_Drugs",
+        "$$Blood_&_Inflammation",
+        "$Anti-inflammatory"
+    ],
+    "question": {
+        "text": "Describe the crystals of pseudogout",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Rhomboid\n(2) Positively birefringent\n\n[Image: be4578e88461aadc67ef79d05c9f88057df54e85d1591d1fc27c5f10d0d8b96d]\n\n[Image: 25f731a60c087c9dde1caed95419438427dff7790c28c34b8f8e890498f71727]",
+        "imageIds": [
+            "be4578e88461aadc67ef79d05c9f88057df54e85d1591d1fc27c5f10d0d8b96d",
+            "25f731a60c087c9dde1caed95419438427dff7790c28c34b8f8e890498f71727"
+        ]
+    },
+    "images": {
+        "25f731a60c087c9dde1caed95419438427dff7790c28c34b8f8e890498f71727": {
+            "file": "images/25f731a60c087c9dde1caed95419438427dff7790c28c34b8f8e890498f71727.jpg",
+            "filename": "paste-41120016891907.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53839
+        },
+        "be4578e88461aadc67ef79d05c9f88057df54e85d1591d1fc27c5f10d0d8b96d": {
+            "file": "images/be4578e88461aadc67ef79d05c9f88057df54e85d1591d1fc27c5f10d0d8b96d.jpg",
+            "filename": "paste-37228776521731.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48441
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479164379822",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479164379822",
+        "noteId": "1479164083148",
+        "noteGuid": "iA?3DF,6G1",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::3 Anti-inflammatory::3.2 - Gout drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(3)-Anti-Inflammatory_Drugs::3.2-Gout_Drugs",
+        "$$Blood_&_Inflammation",
+        "$Anti-inflammatory"
+    ],
+    "question": {
+        "text": "MOA: Colchicine",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Inhibits polymerization of microtubules\n\n(∝ Vinca alkaloids and Griseofulvin)\n\n[Image: fb982f8ec2d4ea14819c8b3b3d4e5d0621d698f0a1c3836127813448eff35efe]\n\n[Image: 8cd3ae5316d7a015c0756e097a5f3e9a47e3fc8d7afbcc3f75682976a781913a]",
+        "imageIds": [
+            "fb982f8ec2d4ea14819c8b3b3d4e5d0621d698f0a1c3836127813448eff35efe",
+            "8cd3ae5316d7a015c0756e097a5f3e9a47e3fc8d7afbcc3f75682976a781913a"
+        ]
+    },
+    "images": {
+        "8cd3ae5316d7a015c0756e097a5f3e9a47e3fc8d7afbcc3f75682976a781913a": {
+            "file": "images/8cd3ae5316d7a015c0756e097a5f3e9a47e3fc8d7afbcc3f75682976a781913a.jpg",
+            "filename": "paste-32186484916227.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54937
+        },
+        "fb982f8ec2d4ea14819c8b3b3d4e5d0621d698f0a1c3836127813448eff35efe": {
+            "file": "images/fb982f8ec2d4ea14819c8b3b3d4e5d0621d698f0a1c3836127813448eff35efe.jpg",
+            "filename": "paste-30511447670787 (2).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53007
+        }
+    }
+}

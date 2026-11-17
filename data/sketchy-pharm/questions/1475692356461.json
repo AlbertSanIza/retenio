@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475692356461",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475692356461",
+        "noteId": "1475692048852",
+        "noteGuid": "uAHoblM$cT",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::1 Heart Failure Drugs::1.2 - ACE inhibitors, ARBs, Aliskiren",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(1)-Heart_Failure_Drugs::1.2-ACE_Inhibitors,ARBs,Aliskiren",
+        "$$Cardiovascular_&_Renal",
+        "$HeartFailureDrugs"
+    ],
+    "question": {
+        "text": "Indications (4) : ACE inhibitors",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Heart failure\n(2) Myocardial infarction\n\n(3) Hypertension\n\n(4) Diabetic nephropathy\n\n[Image: 295a8f0cf66245073a07717e5fe34cc12f19dc49e7eee6ba4bdae7ae39e88f23]\n\n[Image: b577c9a83803b4c375a64ea5af97320ff3ec1b86929d6f73efcda3d9a936dbd2]\n\n[Image: bf149755eae52aa395c318afef02bb209c1ceb45bbf964a576f727c098be4622]",
+        "imageIds": [
+            "295a8f0cf66245073a07717e5fe34cc12f19dc49e7eee6ba4bdae7ae39e88f23",
+            "b577c9a83803b4c375a64ea5af97320ff3ec1b86929d6f73efcda3d9a936dbd2",
+            "bf149755eae52aa395c318afef02bb209c1ceb45bbf964a576f727c098be4622"
+        ]
+    },
+    "images": {
+        "295a8f0cf66245073a07717e5fe34cc12f19dc49e7eee6ba4bdae7ae39e88f23": {
+            "file": "images/295a8f0cf66245073a07717e5fe34cc12f19dc49e7eee6ba4bdae7ae39e88f23.jpg",
+            "filename": "paste-1031668324368387.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 82121
+        },
+        "b577c9a83803b4c375a64ea5af97320ff3ec1b86929d6f73efcda3d9a936dbd2": {
+            "file": "images/b577c9a83803b4c375a64ea5af97320ff3ec1b86929d6f73efcda3d9a936dbd2.jpg",
+            "filename": "paste-1037591084269571.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 79588
+        },
+        "bf149755eae52aa395c318afef02bb209c1ceb45bbf964a576f727c098be4622": {
+            "file": "images/bf149755eae52aa395c318afef02bb209c1ceb45bbf964a576f727c098be4622.jpg",
+            "filename": "paste-1047237580816387.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 98852
+        }
+    }
+}

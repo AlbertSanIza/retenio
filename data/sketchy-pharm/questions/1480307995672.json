@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480307995672",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480307995672",
+        "noteId": "1480306961331",
+        "noteGuid": "Lpn4BX|*1X",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.1 - NRTIs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.1-NRTIs",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "Is Tenofovir a nucleoside or nucleotide?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Tenofovir = Nucleotide\n\n[Image: f18c92106894ed7dd5d53dbcfbe44833a24e8b6b26a2e6d7c51f86d0d5b7bda1]\n\n[Image: c8240d4bcbfdeff7dbd107499a3f6fa975693cf0341a335e32cce9fb3e219b2b]",
+        "imageIds": [
+            "f18c92106894ed7dd5d53dbcfbe44833a24e8b6b26a2e6d7c51f86d0d5b7bda1",
+            "c8240d4bcbfdeff7dbd107499a3f6fa975693cf0341a335e32cce9fb3e219b2b"
+        ]
+    },
+    "images": {
+        "c8240d4bcbfdeff7dbd107499a3f6fa975693cf0341a335e32cce9fb3e219b2b": {
+            "file": "images/c8240d4bcbfdeff7dbd107499a3f6fa975693cf0341a335e32cce9fb3e219b2b.jpg",
+            "filename": "paste-116500987904003.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54847
+        },
+        "f18c92106894ed7dd5d53dbcfbe44833a24e8b6b26a2e6d7c51f86d0d5b7bda1": {
+            "file": "images/f18c92106894ed7dd5d53dbcfbe44833a24e8b6b26a2e6d7c51f86d0d5b7bda1.jpg",
+            "filename": "paste-116226109997059.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52711
+        }
+    }
+}

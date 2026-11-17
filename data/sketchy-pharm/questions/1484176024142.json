@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484176024142",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484176024142",
+        "noteId": "1484174506748",
+        "noteGuid": "zAes]>XXQ1",
+        "modelId": "1475688242543",
+        "templateOrdinal": 12
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::4 Mood Stabilizers & Antiepileptic Drugs::4.4 - Carbamazepine, phenytoin, gabapentin, tiagabine, vigabatrin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(4)-Mood_Stabilizers_&_Antiepileptics::4.3-Carbamazepine,Phenytoin,Gabapentin,Tiagabine,Vigabatrin",
+        "$$Neuro/Psych",
+        "$Mood_Stabilizers_&_Antiepileptics"
+    ],
+    "question": {
+        "text": "Adverse Effect: Gabapentin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Ataxia\n\n[Image: b655a6da3308222b88b638f78972a89e428e417ee02c56414792b8e96ca84adc]",
+        "imageIds": [
+            "b655a6da3308222b88b638f78972a89e428e417ee02c56414792b8e96ca84adc"
+        ]
+    },
+    "images": {
+        "b655a6da3308222b88b638f78972a89e428e417ee02c56414792b8e96ca84adc": {
+            "file": "images/b655a6da3308222b88b638f78972a89e428e417ee02c56414792b8e96ca84adc.jpg",
+            "filename": "paste-780837939314691.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 87758
+        }
+    }
+}

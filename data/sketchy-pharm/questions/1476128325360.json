@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476128325360",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476128325360",
+        "noteId": "1476127443039",
+        "noteGuid": "k+=G!`Nk3M",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::2 Diabetes::2.2 - Metformin,Thiazolidinediones, Pramlintide, SGLT-2 Inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(2)-Diabetes::2.2-Metformin,Thiazolidinediones,Pramlintide,SGLT-2_Inhibitors",
+        "$$GI_&_Endocrine",
+        "$Diabetes"
+    ],
+    "question": {
+        "text": "Adverse Effects (2) : Metformin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Lactic acidosis\n(2) GI Issues\n\n[Image: 207621723ca6c4de8d97072ff7b0787b6c0f8b49e1d10f77410d075f9b343576]\n\n[Image: 6a0caffbb503fc446b767f3a16e471e9c6a5b53edbab639bc2dd7e26aa31aa9e]",
+        "imageIds": [
+            "207621723ca6c4de8d97072ff7b0787b6c0f8b49e1d10f77410d075f9b343576",
+            "6a0caffbb503fc446b767f3a16e471e9c6a5b53edbab639bc2dd7e26aa31aa9e"
+        ]
+    },
+    "images": {
+        "207621723ca6c4de8d97072ff7b0787b6c0f8b49e1d10f77410d075f9b343576": {
+            "file": "images/207621723ca6c4de8d97072ff7b0787b6c0f8b49e1d10f77410d075f9b343576.jpg",
+            "filename": "paste-63161789054979.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46666
+        },
+        "6a0caffbb503fc446b767f3a16e471e9c6a5b53edbab639bc2dd7e26aa31aa9e": {
+            "file": "images/6a0caffbb503fc446b767f3a16e471e9c6a5b53edbab639bc2dd7e26aa31aa9e.jpg",
+            "filename": "paste-63505386438659.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47899
+        }
+    }
+}

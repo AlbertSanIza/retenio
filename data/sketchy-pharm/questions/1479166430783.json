@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479166430783",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479166430783",
+        "noteId": "1479166331886",
+        "noteGuid": "nZiAb4L,QC",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::5 Antipsychotics & Parkinson's::5.1 - First generation antipsychotics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(5)-Antipsychotics_&_Parkinsons::5.1-First_Generation_Antipsychotics",
+        "$$Neuro/Psych",
+        "$Antipsychotics_&_Parkinsons"
+    ],
+    "question": {
+        "text": "Suffix: First generation antipsychotics",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "\"-azine\"\n\n(Don't confuse the \"-zine\" of H1 receptor blockers with the \"-azine\" of typical antipsychotics)\n\n[Image: 1d058f85e704ef307f5aa2f06fc8fb6e4c94ccb74ce934bb76ab95c6c03cc559]\n\n[Image: 4867e8fed201b41eb1d3e555a27a38bddf9d25b54f0aae415b8e5f450c85bc6c]",
+        "imageIds": [
+            "1d058f85e704ef307f5aa2f06fc8fb6e4c94ccb74ce934bb76ab95c6c03cc559",
+            "4867e8fed201b41eb1d3e555a27a38bddf9d25b54f0aae415b8e5f450c85bc6c"
+        ]
+    },
+    "images": {
+        "1d058f85e704ef307f5aa2f06fc8fb6e4c94ccb74ce934bb76ab95c6c03cc559": {
+            "file": "images/1d058f85e704ef307f5aa2f06fc8fb6e4c94ccb74ce934bb76ab95c6c03cc559.jpg",
+            "filename": "paste-135626477273091.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54740
+        },
+        "4867e8fed201b41eb1d3e555a27a38bddf9d25b54f0aae415b8e5f450c85bc6c": {
+            "file": "images/4867e8fed201b41eb1d3e555a27a38bddf9d25b54f0aae415b8e5f450c85bc6c.jpg",
+            "filename": "paste-8997956485123.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 77770
+        }
+    }
+}

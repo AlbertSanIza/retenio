@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480543237520",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480543237520",
+        "noteId": "1480542313473",
+        "noteGuid": "f(Tr,}<mC3",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.2 - Macrolides",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.2-Macrolides",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "What antibiotic is given as prophylaxis for Mycobacterium intracellulare when CD4 < 50?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Azithromycin\n\n[Image: f9df40266062092710b9faa882fbd9817f664133b12667e89b4bb4ae2bb7a5ab]\n\n[Image: f83096aef8a579bcaafe5454b200295579fd7a1470a3db831ae71fb0abb64eaa]",
+        "imageIds": [
+            "f9df40266062092710b9faa882fbd9817f664133b12667e89b4bb4ae2bb7a5ab",
+            "f83096aef8a579bcaafe5454b200295579fd7a1470a3db831ae71fb0abb64eaa"
+        ]
+    },
+    "images": {
+        "f83096aef8a579bcaafe5454b200295579fd7a1470a3db831ae71fb0abb64eaa": {
+            "file": "images/f83096aef8a579bcaafe5454b200295579fd7a1470a3db831ae71fb0abb64eaa.jpg",
+            "filename": "paste-11948599017475.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47052
+        },
+        "f9df40266062092710b9faa882fbd9817f664133b12667e89b4bb4ae2bb7a5ab": {
+            "file": "images/f9df40266062092710b9faa882fbd9817f664133b12667e89b4bb4ae2bb7a5ab.jpg",
+            "filename": "paste-11879879540739.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47633
+        }
+    }
+}

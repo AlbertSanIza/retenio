@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484176246414",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484176246414",
+        "noteId": "1484174506748",
+        "noteGuid": "zAes]>XXQ1",
+        "modelId": "1475688242543",
+        "templateOrdinal": 13
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::4 Mood Stabilizers & Antiepileptic Drugs::4.4 - Carbamazepine, phenytoin, gabapentin, tiagabine, vigabatrin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(4)-Mood_Stabilizers_&_Antiepileptics::4.3-Carbamazepine,Phenytoin,Gabapentin,Tiagabine,Vigabatrin",
+        "$$Neuro/Psych",
+        "$Mood_Stabilizers_&_Antiepileptics"
+    ],
+    "question": {
+        "text": "MOA: Vigabatrin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Irreversibly inhibits GABA transaminase\n\n(Notice this is an degradative enzyme rather than ion channel/transmembrane receptor)\n\n[Image: f9eeee8c04679a13fe39600fd0e844d2fca5d9cca6f7b52cda535b38101e1e9e]",
+        "imageIds": [
+            "f9eeee8c04679a13fe39600fd0e844d2fca5d9cca6f7b52cda535b38101e1e9e"
+        ]
+    },
+    "images": {
+        "f9eeee8c04679a13fe39600fd0e844d2fca5d9cca6f7b52cda535b38101e1e9e": {
+            "file": "images/f9eeee8c04679a13fe39600fd0e844d2fca5d9cca6f7b52cda535b38101e1e9e.jpg",
+            "filename": "paste-2acf82d30b4b50a78dc940f89e0d7515c499912b.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 98447
+        }
+    }
+}

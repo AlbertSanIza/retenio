@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475797215290",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475797215290",
+        "noteId": "1475796463230",
+        "noteGuid": "dVn&?O~Nzk",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.4 - Bupropion, mirtazapine, trazodone",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.4-Bupropion,Mirtazapine,Trazodone",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "Adverse Effects (2) : Mirtazapine",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Sedation\n(2) Weight gain\n\n[Image: 3bfd6a0936d3f814b26721b7825c3b0229b7fa7ff5e8122e596c2a1075be09ec]\n\n[Image: e2a511ac74f8cde8e53a4a829605ef9b8935319f16bfc11343e52556232a9214]",
+        "imageIds": [
+            "3bfd6a0936d3f814b26721b7825c3b0229b7fa7ff5e8122e596c2a1075be09ec",
+            "e2a511ac74f8cde8e53a4a829605ef9b8935319f16bfc11343e52556232a9214"
+        ]
+    },
+    "images": {
+        "3bfd6a0936d3f814b26721b7825c3b0229b7fa7ff5e8122e596c2a1075be09ec": {
+            "file": "images/3bfd6a0936d3f814b26721b7825c3b0229b7fa7ff5e8122e596c2a1075be09ec.jpg",
+            "filename": "paste-29626684407811.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49081
+        },
+        "e2a511ac74f8cde8e53a4a829605ef9b8935319f16bfc11343e52556232a9214": {
+            "file": "images/e2a511ac74f8cde8e53a4a829605ef9b8935319f16bfc11343e52556232a9214.jpg",
+            "filename": "paste-29785598197763.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49050
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475690805192",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475690805192",
+        "noteId": "1475689796727",
+        "noteGuid": "kCV^~E(MCS",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::1 Heart Failure Drugs::1.1 - Digoxin, milrinone, nesiritide",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(1)-Heart_Failure_Drugs::1.1-Digoxin,Milrinone,Nesiritide",
+        "$$Cardiovascular_&_Renal",
+        "$HeartFailureDrugs"
+    ],
+    "question": {
+        "text": "What effect does Digoxin have on EKG?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "\"Scooped\" concave ST segments\n\n[Image: 7c72e45ea9a71ca9a31831885a35ded53581f11b04e64c2d94fffe035fa7f565]",
+        "imageIds": [
+            "7c72e45ea9a71ca9a31831885a35ded53581f11b04e64c2d94fffe035fa7f565"
+        ]
+    },
+    "images": {
+        "7c72e45ea9a71ca9a31831885a35ded53581f11b04e64c2d94fffe035fa7f565": {
+            "file": "images/7c72e45ea9a71ca9a31831885a35ded53581f11b04e64c2d94fffe035fa7f565.jpg",
+            "filename": "paste-10591389351939.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48848
+        }
+    }
+}

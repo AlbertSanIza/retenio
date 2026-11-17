@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480836764155",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480836764155",
+        "noteId": "1480835348971",
+        "noteGuid": "i*mBW%(]hE",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::8 Antivirals: other::8.1 - Acyclovir, valacyclovir, famciclovir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(8)-Antivirals-Other::8.1-Acyclovir,Valacyclovir,Famiciclovir",
+        "$$Antimicrobials",
+        "$Antivirals_Others"
+    ],
+    "question": {
+        "text": "ROA: Valacyclovir",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Oral\n\n[Image: 58c61924801de250bdb085fd7c8544784dcf9095b4f4c448990d2d65f8e3591d]",
+        "imageIds": [
+            "58c61924801de250bdb085fd7c8544784dcf9095b4f4c448990d2d65f8e3591d"
+        ]
+    },
+    "images": {
+        "58c61924801de250bdb085fd7c8544784dcf9095b4f4c448990d2d65f8e3591d": {
+            "file": "images/58c61924801de250bdb085fd7c8544784dcf9095b4f4c448990d2d65f8e3591d.jpg",
+            "filename": "paste-391129786744835.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 36875
+        }
+    }
+}

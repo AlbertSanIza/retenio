@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480821673693",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480821673693",
+        "noteId": "1480821057791",
+        "noteGuid": "dR)O:O`t)>",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::4 Other Antibiotics::4.2 - Fluoroquinolones",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(4)-Other_Antibiotics::4.2-Flouroquinolones",
+        "$$Antimicrobials",
+        "$Other_Antibiotics"
+    ],
+    "question": {
+        "text": "MOA: Flouroquinolones",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Inhibits bacterial topoisomerase\n\n[Image: 0ea551a9d713061e8ad8209b94de4bf17435f53187f8a3e58873239e1af13231]",
+        "imageIds": [
+            "0ea551a9d713061e8ad8209b94de4bf17435f53187f8a3e58873239e1af13231"
+        ]
+    },
+    "images": {
+        "0ea551a9d713061e8ad8209b94de4bf17435f53187f8a3e58873239e1af13231": {
+            "file": "images/0ea551a9d713061e8ad8209b94de4bf17435f53187f8a3e58873239e1af13231.jpg",
+            "filename": "paste-225009041670147.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 30469
+        }
+    }
+}

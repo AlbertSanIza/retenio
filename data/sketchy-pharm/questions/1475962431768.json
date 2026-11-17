@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475962431768",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475962431768",
+        "noteId": "1475962037924",
+        "noteGuid": "LK=6#G=0_h",
+        "modelId": "1475688242543",
+        "templateOrdinal": 17
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.1 - Class I A-C",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.1-Class_I_(A-C)",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "Distinguish class IA, IB, and IC antiarrhythmics by their effect on action potential duration",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Class IC: No affect\nClass IB: Shorten AP\n\nClass IA: Prolongs AP\n\n[Image: 9540c4e33caeea1c791ef71cd1637927d797cba8cfb25d35ff5ce67b4de6a0a0]\n\n[Image: 4061a57251c84fcc3e597fa0e470944cf15d14fd5bfc55d125c3a1b0676cf092]\n\n[Image: a768372fe118baaf8f4bb53e81cb236e859439154361e55446493dc47f5e3475]",
+        "imageIds": [
+            "9540c4e33caeea1c791ef71cd1637927d797cba8cfb25d35ff5ce67b4de6a0a0",
+            "4061a57251c84fcc3e597fa0e470944cf15d14fd5bfc55d125c3a1b0676cf092",
+            "a768372fe118baaf8f4bb53e81cb236e859439154361e55446493dc47f5e3475"
+        ]
+    },
+    "images": {
+        "4061a57251c84fcc3e597fa0e470944cf15d14fd5bfc55d125c3a1b0676cf092": {
+            "file": "images/4061a57251c84fcc3e597fa0e470944cf15d14fd5bfc55d125c3a1b0676cf092.jpg",
+            "filename": "paste-38384122724355.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62023
+        },
+        "9540c4e33caeea1c791ef71cd1637927d797cba8cfb25d35ff5ce67b4de6a0a0": {
+            "file": "images/9540c4e33caeea1c791ef71cd1637927d797cba8cfb25d35ff5ce67b4de6a0a0.jpg",
+            "filename": "paste-32388348379139.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70203
+        },
+        "a768372fe118baaf8f4bb53e81cb236e859439154361e55446493dc47f5e3475": {
+            "file": "images/a768372fe118baaf8f4bb53e81cb236e859439154361e55446493dc47f5e3475.jpg",
+            "filename": "paste-38289633443843.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51871
+        }
+    }
+}

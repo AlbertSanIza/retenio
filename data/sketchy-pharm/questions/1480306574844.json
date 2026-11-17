@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480306574844",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480306574844",
+        "noteId": "1480305923806",
+        "noteGuid": "c7-s#c:$D:",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.6 - Vancomycin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.6-Vancomycin",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "Are β-lactamases effective against Vancomycin?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "No\n\n[Image: b0ec11f3661de8f3b7450f737ad4b0383767a3335395f6dc3445daec90b45f63]",
+        "imageIds": [
+            "b0ec11f3661de8f3b7450f737ad4b0383767a3335395f6dc3445daec90b45f63"
+        ]
+    },
+    "images": {
+        "b0ec11f3661de8f3b7450f737ad4b0383767a3335395f6dc3445daec90b45f63": {
+            "file": "images/b0ec11f3661de8f3b7450f737ad4b0383767a3335395f6dc3445daec90b45f63.jpg",
+            "filename": "paste-112059991719939.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47969
+        }
+    }
+}

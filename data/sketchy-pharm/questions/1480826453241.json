@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480826453241",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480826453241",
+        "noteId": "1480825958438",
+        "noteGuid": "wh`5lM*zbv",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::5 Antifungals::5.2 - Azoles",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(5)-Antifungals::5.2-Azoles",
+        "$$Antimicrobials",
+        "$Antifungals"
+    ],
+    "question": {
+        "text": "Which azole is used to treat onychomycosis and dermatophytosis?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Itraconazole\n\n[Image: 5656d7d184b07cd075493c655b548218dd5b9aa8379565c3e06ddc6c9a1f9a74]",
+        "imageIds": [
+            "5656d7d184b07cd075493c655b548218dd5b9aa8379565c3e06ddc6c9a1f9a74"
+        ]
+    },
+    "images": {
+        "5656d7d184b07cd075493c655b548218dd5b9aa8379565c3e06ddc6c9a1f9a74": {
+            "file": "images/5656d7d184b07cd075493c655b548218dd5b9aa8379565c3e06ddc6c9a1f9a74.jpg",
+            "filename": "paste-282553013501955.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53495
+        }
+    }
+}

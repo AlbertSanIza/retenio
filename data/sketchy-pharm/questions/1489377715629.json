@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1489377715629",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1489377715629",
+        "noteId": "1489373732673",
+        "noteGuid": "MVDX:P#kj;",
+        "modelId": "1475688242543",
+        "templateOrdinal": 19
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.1 - Propylthiouracil, Methimazole, Levothyroxine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.1-Propylthiouracil,Methimazole,Levothyroxine",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "Name a T4 analog",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Levothyroxine\n\n[Image: 5e497fd5166c56c7df2e45a6e91c712f6422a321736139f174e8c49f10ad48d2]\n\n[Image: 6e7e9f7bb434cda28e336d93450d7d1e6f1b0cf3abde100f67a2ed1656556de4]\n\n[Image: 161bda24104d7033df930049f8f883875460c52036020eeff624ffdd38c9b266]",
+        "imageIds": [
+            "5e497fd5166c56c7df2e45a6e91c712f6422a321736139f174e8c49f10ad48d2",
+            "6e7e9f7bb434cda28e336d93450d7d1e6f1b0cf3abde100f67a2ed1656556de4",
+            "161bda24104d7033df930049f8f883875460c52036020eeff624ffdd38c9b266"
+        ]
+    },
+    "images": {
+        "161bda24104d7033df930049f8f883875460c52036020eeff624ffdd38c9b266": {
+            "file": "images/161bda24104d7033df930049f8f883875460c52036020eeff624ffdd38c9b266.jpg",
+            "filename": "paste-30636001722371 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 91236
+        },
+        "5e497fd5166c56c7df2e45a6e91c712f6422a321736139f174e8c49f10ad48d2": {
+            "file": "images/5e497fd5166c56c7df2e45a6e91c712f6422a321736139f174e8c49f10ad48d2.jpg",
+            "filename": "paste-30773440675843 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 90197
+        },
+        "6e7e9f7bb434cda28e336d93450d7d1e6f1b0cf3abde100f67a2ed1656556de4": {
+            "file": "images/6e7e9f7bb434cda28e336d93450d7d1e6f1b0cf3abde100f67a2ed1656556de4.jpg",
+            "filename": "paste-30245159698435.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 89221
+        }
+    }
+}

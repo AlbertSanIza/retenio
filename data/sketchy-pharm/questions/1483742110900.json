@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1483742110900",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1483742110900",
+        "noteId": "1480284242370",
+        "noteGuid": "sm5L!@Ga^j",
+        "modelId": "1475688242543",
+        "templateOrdinal": 14
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::3 Kinase Inhibitors & Monoclonal Antibodies\n::3.1 - Imatinib, erlotinib, sorafenib, sunitinib, vemurafenib",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(3)-Kinase_Inhibitors_&_Monoclonal_Abs::3.1-Imatinib,Erlotinib,Sorafenib,Sunitinib,Vemurafenib",
+        "$$Antineoplastics",
+        "$Kinase_Inhibitors_&_MonoclonalAbs"
+    ],
+    "question": {
+        "text": "Name 2 cancers Imatinib is used to treat",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Gastrointestinal stromal tumors\n(2) CML -- due to t(9;22)\n\n(Also some forms of ALL that are (+) BCR/ABL)\n\n[Image: 497be1732d294d4c996469861b93af1e4c3ab6755ecf756ba78bc57d5e809668]\n\n[Image: eb586059504b30eb85f9527e3e87c49898ed2e8f56e174fd117576ecc96ea40a]\n\n[Image: d158ff3383756b23ac81fba738ea0afa3f3c1c4b9ee540a68394443689f241b8]\n\n[Image: a0449218b5c0ed779c293be98277cb822532a625cc4d536e4cf2268abf731a70]\n\n[Image: 95c9f67b2df9c89d6169026ba5d44397832da24da0a745a3c3f957fd836d5178]",
+        "imageIds": [
+            "497be1732d294d4c996469861b93af1e4c3ab6755ecf756ba78bc57d5e809668",
+            "eb586059504b30eb85f9527e3e87c49898ed2e8f56e174fd117576ecc96ea40a",
+            "d158ff3383756b23ac81fba738ea0afa3f3c1c4b9ee540a68394443689f241b8",
+            "a0449218b5c0ed779c293be98277cb822532a625cc4d536e4cf2268abf731a70",
+            "95c9f67b2df9c89d6169026ba5d44397832da24da0a745a3c3f957fd836d5178"
+        ]
+    },
+    "images": {
+        "497be1732d294d4c996469861b93af1e4c3ab6755ecf756ba78bc57d5e809668": {
+            "file": "images/497be1732d294d4c996469861b93af1e4c3ab6755ecf756ba78bc57d5e809668.jpg",
+            "filename": "paste-159248797401091.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 71441
+        },
+        "95c9f67b2df9c89d6169026ba5d44397832da24da0a745a3c3f957fd836d5178": {
+            "file": "images/95c9f67b2df9c89d6169026ba5d44397832da24da0a745a3c3f957fd836d5178.jpg",
+            "filename": "paste-165901701742595.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 80806
+        },
+        "a0449218b5c0ed779c293be98277cb822532a625cc4d536e4cf2268abf731a70": {
+            "file": "images/a0449218b5c0ed779c293be98277cb822532a625cc4d536e4cf2268abf731a70.jpg",
+            "filename": "paste-163496520056835.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 78699
+        },
+        "d158ff3383756b23ac81fba738ea0afa3f3c1c4b9ee540a68394443689f241b8": {
+            "file": "images/d158ff3383756b23ac81fba738ea0afa3f3c1c4b9ee540a68394443689f241b8.jpg",
+            "filename": "paste-182372901322755.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 79777
+        },
+        "eb586059504b30eb85f9527e3e87c49898ed2e8f56e174fd117576ecc96ea40a": {
+            "file": "images/eb586059504b30eb85f9527e3e87c49898ed2e8f56e174fd117576ecc96ea40a.jpg",
+            "filename": "paste-177210350632963.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 78621
+        }
+    }
+}

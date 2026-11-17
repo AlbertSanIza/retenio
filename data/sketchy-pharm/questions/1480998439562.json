@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480998439562",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480998439562",
+        "noteId": "1475728663965",
+        "noteGuid": "jP0(HG/*Ec",
+        "modelId": "1475688242543",
+        "templateOrdinal": 17
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.1 - Sympathomimetics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.1-Sympathomimetics",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "Which adrenergic receptor stimulates the release of insulin?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "β2\n\n[Image: 202a1ba2de7f5536d287aa32a10fe85b6f20aefae1b7d5c479eaabb7158658e1]",
+        "imageIds": [
+            "202a1ba2de7f5536d287aa32a10fe85b6f20aefae1b7d5c479eaabb7158658e1"
+        ]
+    },
+    "images": {
+        "202a1ba2de7f5536d287aa32a10fe85b6f20aefae1b7d5c479eaabb7158658e1": {
+            "file": "images/202a1ba2de7f5536d287aa32a10fe85b6f20aefae1b7d5c479eaabb7158658e1.jpg",
+            "filename": "paste-21328807591939.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55482
+        }
+    }
+}

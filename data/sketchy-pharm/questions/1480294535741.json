@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480294535741",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480294535741",
+        "noteId": "1480292425830",
+        "noteGuid": "F-Oy]]*-Bc",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::1 Antimetabolites::1.1 - Methotrexate, leucovorin, 5-fluorouracil, hydroxyurea",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(1)-Antimetabolites::1.1-Methotrexate,Leucovorin,5-FU,Hydroxyurea",
+        "$$Antineoplastics",
+        "$Antimetabolites"
+    ],
+    "question": {
+        "text": "Can you use Folinic Acid to treat 5-FU toxicity?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "No\n\n(It actually potentiates 5-FU)\n\n[Image: 5703d34f63b62a894116509038c64153b3d30669b588c32490638d8acbb5847a]",
+        "imageIds": [
+            "5703d34f63b62a894116509038c64153b3d30669b588c32490638d8acbb5847a"
+        ]
+    },
+    "images": {
+        "5703d34f63b62a894116509038c64153b3d30669b588c32490638d8acbb5847a": {
+            "file": "images/5703d34f63b62a894116509038c64153b3d30669b588c32490638d8acbb5847a.jpg",
+            "filename": "paste-38693360369667.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55545
+        }
+    }
+}

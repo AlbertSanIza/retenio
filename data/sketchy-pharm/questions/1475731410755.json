@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475731410755",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475731410755",
+        "noteId": "1475730679415",
+        "noteGuid": "OyB|BPtZk?",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.3 - Alpha drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.3-Alpha_drugs",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "What drug should be used to treat cocaine toxicity?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Phentolamine\n\n[Image: f656ee88332d74db9e61747e0246ae84c823a92c2f7134aa2925bf0fc7628b44]",
+        "imageIds": [
+            "f656ee88332d74db9e61747e0246ae84c823a92c2f7134aa2925bf0fc7628b44"
+        ]
+    },
+    "images": {
+        "f656ee88332d74db9e61747e0246ae84c823a92c2f7134aa2925bf0fc7628b44": {
+            "file": "images/f656ee88332d74db9e61747e0246ae84c823a92c2f7134aa2925bf0fc7628b44.jpg",
+            "filename": "paste-32981053865987.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51660
+        }
+    }
+}

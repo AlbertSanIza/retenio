@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475696334076",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475696334076",
+        "noteId": "1475694860200",
+        "noteGuid": "NtP#}A1%P}",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::3 Antihypertensives::3.2 - Primary hypertension & hypertensive emergency",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(3)-Antihypertensives::3.2-Primary_Hypertension_&_Hypertensive_Emergency",
+        "$$Cardiovascular_&_Renal",
+        "$Antihypertensives"
+    ],
+    "question": {
+        "text": "What are two calcium channel blockers often used in hypertensive emergency?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Clevidipine\n(2) Nicardipine\n\n[Image: 25a38b77d9f93d8bba7e49be0dc7f79aa76c2bba003d62ef9a5a98a415c373d0]",
+        "imageIds": [
+            "25a38b77d9f93d8bba7e49be0dc7f79aa76c2bba003d62ef9a5a98a415c373d0"
+        ]
+    },
+    "images": {
+        "25a38b77d9f93d8bba7e49be0dc7f79aa76c2bba003d62ef9a5a98a415c373d0": {
+            "file": "images/25a38b77d9f93d8bba7e49be0dc7f79aa76c2bba003d62ef9a5a98a415c373d0.jpg",
+            "filename": "paste-122208999440387.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 42409
+        }
+    }
+}

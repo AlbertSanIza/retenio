@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475792730515",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475792730515",
+        "noteId": "1475792044077",
+        "noteGuid": "qVcCznMNv/",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::1 Sedative-hypnotics::1.1 - Benzodiazepines, flumazenil",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(1)-Sedatives_&_Hypnotics::1.1-Benzodiazepines,Flumazenil",
+        "$$Neuro/Psych",
+        "$Sedatives&Hypnotics"
+    ],
+    "question": {
+        "text": "Where are benzodiazepines metabolized?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Liver\n\n[Image: 3e4dcfe4037f7d21ab626e7e3b282ebddb8ff0ff7630cc95b1bbebe8a44758db]",
+        "imageIds": [
+            "3e4dcfe4037f7d21ab626e7e3b282ebddb8ff0ff7630cc95b1bbebe8a44758db"
+        ]
+    },
+    "images": {
+        "3e4dcfe4037f7d21ab626e7e3b282ebddb8ff0ff7630cc95b1bbebe8a44758db": {
+            "file": "images/3e4dcfe4037f7d21ab626e7e3b282ebddb8ff0ff7630cc95b1bbebe8a44758db.jpg",
+            "filename": "paste-5854040424451.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49430
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475702036423",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475702036423",
+        "noteId": "1475701051571",
+        "noteGuid": "sja8v*xun+",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::2 Dyslipidemia Drugs::2.1 - Statins",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(2)-Dyslipidemia_Drugs::2.1-Statins",
+        "$$Blood_&_Inflammation",
+        "$DyslipidemiaDrugs"
+    ],
+    "question": {
+        "text": "What apolipoprotein is found on \"bad cholesterol\"?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "ApoB100\n\n[Image: abca6d7de04d5a4c1b063ed7b263991aa5b1a47ee2c63d28d709698852272bb4]",
+        "imageIds": [
+            "abca6d7de04d5a4c1b063ed7b263991aa5b1a47ee2c63d28d709698852272bb4"
+        ]
+    },
+    "images": {
+        "abca6d7de04d5a4c1b063ed7b263991aa5b1a47ee2c63d28d709698852272bb4": {
+            "file": "images/abca6d7de04d5a4c1b063ed7b263991aa5b1a47ee2c63d28d709698852272bb4.jpg",
+            "filename": "paste-133002252255235.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49104
+        }
+    }
+}

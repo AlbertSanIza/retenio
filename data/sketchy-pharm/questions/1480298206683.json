@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480298206683",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480298206683",
+        "noteId": "1480297092872",
+        "noteGuid": "JyIhgVZ0$r",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::4 Mood Stabilizers & Antiepileptic Drugs::4.1 - Lithium",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(4)-Mood_Stabilizers_&_Antiepileptics::4.1-Lithium",
+        "$$Neuro/Psych",
+        "$Mood_Stabilizers_&_Antiepileptics"
+    ],
+    "question": {
+        "text": "What fetal abnormality is associated with Lithium use?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Ebstein's anomaly\n\n[Image: 0136c9f7e7b9223d29974c9baa2046da80fa34602e425afd9d9392be1aee5298]\n\n[Image: 1d692d53432ddd156881fb387e6360d0827ef0ec68fd64cab3c1442b77cc244d]",
+        "imageIds": [
+            "0136c9f7e7b9223d29974c9baa2046da80fa34602e425afd9d9392be1aee5298",
+            "1d692d53432ddd156881fb387e6360d0827ef0ec68fd64cab3c1442b77cc244d"
+        ]
+    },
+    "images": {
+        "0136c9f7e7b9223d29974c9baa2046da80fa34602e425afd9d9392be1aee5298": {
+            "file": "images/0136c9f7e7b9223d29974c9baa2046da80fa34602e425afd9d9392be1aee5298.jpg",
+            "filename": "paste-86715389706243.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47913
+        },
+        "1d692d53432ddd156881fb387e6360d0827ef0ec68fd64cab3c1442b77cc244d": {
+            "file": "images/1d692d53432ddd156881fb387e6360d0827ef0ec68fd64cab3c1442b77cc244d.jpg",
+            "filename": "paste-86758339379203.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49978
+        }
+    }
+}

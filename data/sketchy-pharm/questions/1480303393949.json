@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480303393949",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480303393949",
+        "noteId": "1480302756081",
+        "noteGuid": "G@alyBYtFv",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.5 - Monobactams & Carbapenems",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.5-Monobactams_&_Carbapenems",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "Name an antibiotic which lowers the seizure theshold",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Imipenem\n\n[Image: e81456394512ec999e86420e2bf0bddd96f223ea3dba8969fa5fa333cb200e9c]",
+        "imageIds": [
+            "e81456394512ec999e86420e2bf0bddd96f223ea3dba8969fa5fa333cb200e9c"
+        ]
+    },
+    "images": {
+        "e81456394512ec999e86420e2bf0bddd96f223ea3dba8969fa5fa333cb200e9c": {
+            "file": "images/e81456394512ec999e86420e2bf0bddd96f223ea3dba8969fa5fa333cb200e9c.jpg",
+            "filename": "paste-105115029602307.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45505
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484171705977",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484171705977",
+        "noteId": "1484170558195",
+        "noteGuid": "IPW<ydy+.t",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.2 - Inhaled anesthetics, dantrolene",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.2-Inhaled_Anesthetics,Dantrolene",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "What distinguishes Enflurane's adverse effects from the other inhaled anesthetics",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Nephrotoxicity\n(2) Seizures\n\n[Image: 21b498ada994fa086731d09c6483ef3c57e34a05d5fbb88f711fd0f4c187db5e]\n\n[Image: 0d72551cefe2dc91f15ee7ca30accce75e31c2423d989b76d9e661c5b040354f]",
+        "imageIds": [
+            "21b498ada994fa086731d09c6483ef3c57e34a05d5fbb88f711fd0f4c187db5e",
+            "0d72551cefe2dc91f15ee7ca30accce75e31c2423d989b76d9e661c5b040354f"
+        ]
+    },
+    "images": {
+        "0d72551cefe2dc91f15ee7ca30accce75e31c2423d989b76d9e661c5b040354f": {
+            "file": "images/0d72551cefe2dc91f15ee7ca30accce75e31c2423d989b76d9e661c5b040354f.jpg",
+            "filename": "paste-574447580872707.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 81532
+        },
+        "21b498ada994fa086731d09c6483ef3c57e34a05d5fbb88f711fd0f4c187db5e": {
+            "file": "images/21b498ada994fa086731d09c6483ef3c57e34a05d5fbb88f711fd0f4c187db5e.jpg",
+            "filename": "paste-569817606127619.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 81977
+        }
+    }
+}

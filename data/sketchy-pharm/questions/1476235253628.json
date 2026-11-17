@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476235253628",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476235253628",
+        "noteId": "1476235100464",
+        "noteGuid": "vE5{@SswBz",
+        "modelId": "1475688242543",
+        "templateOrdinal": 12
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.2 - Loop diuretics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.2-Loop_Diuretics",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "Name a loop diuretic that is NOT a Sulfa drug",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Ethacrynic acid\n\n[Image: dab320a1cb8ebaa62d90a9924cf4f1d2e88196a5d6f017b0eb73a7e662345e0d]",
+        "imageIds": [
+            "dab320a1cb8ebaa62d90a9924cf4f1d2e88196a5d6f017b0eb73a7e662345e0d"
+        ]
+    },
+    "images": {
+        "dab320a1cb8ebaa62d90a9924cf4f1d2e88196a5d6f017b0eb73a7e662345e0d": {
+            "file": "images/dab320a1cb8ebaa62d90a9924cf4f1d2e88196a5d6f017b0eb73a7e662345e0d.jpg",
+            "filename": "paste-55533927137283.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66272
+        }
+    }
+}

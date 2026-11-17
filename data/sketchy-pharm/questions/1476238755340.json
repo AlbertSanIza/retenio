@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476238755340",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476238755340",
+        "noteId": "1476236480934",
+        "noteGuid": "cj@yKLEX0c",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.4 - K+ sparing diuretics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.4-Potassium_Sparing_Diuretics",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "Name 4 ion transporters in the collecting duct upregulated by Aldosterone",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) K+ channels\n(2) ENaC\n\n(3) Na+/K+ ATPase\n\n(4) H+ ATPase\n\n[Image: 362609da5f60e4e1fc2090a02c06e31f1fe5f39bfdffcec92c3f3610a212d1bd]\n\n[Image: 4bd6eb4d5978a0741702cd7055e43eab7f517235565d2c83fcfce0328bc4b635]\n\n[Image: 96c9373669e29b2e9d9cc0476907045f4c26e53a295fb089f2d5e2e845f4ac56]",
+        "imageIds": [
+            "362609da5f60e4e1fc2090a02c06e31f1fe5f39bfdffcec92c3f3610a212d1bd",
+            "4bd6eb4d5978a0741702cd7055e43eab7f517235565d2c83fcfce0328bc4b635",
+            "96c9373669e29b2e9d9cc0476907045f4c26e53a295fb089f2d5e2e845f4ac56"
+        ]
+    },
+    "images": {
+        "362609da5f60e4e1fc2090a02c06e31f1fe5f39bfdffcec92c3f3610a212d1bd": {
+            "file": "images/362609da5f60e4e1fc2090a02c06e31f1fe5f39bfdffcec92c3f3610a212d1bd.jpg",
+            "filename": "paste-93557272608771.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63197
+        },
+        "4bd6eb4d5978a0741702cd7055e43eab7f517235565d2c83fcfce0328bc4b635": {
+            "file": "images/4bd6eb4d5978a0741702cd7055e43eab7f517235565d2c83fcfce0328bc4b635.jpg",
+            "filename": "paste-93720481366019.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70090
+        },
+        "96c9373669e29b2e9d9cc0476907045f4c26e53a295fb089f2d5e2e845f4ac56": {
+            "file": "images/96c9373669e29b2e9d9cc0476907045f4c26e53a295fb089f2d5e2e845f4ac56.jpg",
+            "filename": "paste-93935229730819.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63851
+        }
+    }
+}

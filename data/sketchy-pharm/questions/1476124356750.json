@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476124356750",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476124356750",
+        "noteId": "1476123573815",
+        "noteGuid": "k=!B>3>6eG",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::2 Diabetes::2.1 - Insulin, Sulfonylureas, Meglitinides, GLP-1 Agonists, DPP-4 Inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(2)-Diabetes::2.1-Insulin,Sulfonylureas,Meglitinides,GLP-1_Agonists,DPP-4_Inhibitors",
+        "$$GI_&_Endocrine",
+        "$Diabetes"
+    ],
+    "question": {
+        "text": "What are the intermediate acting insulin analogs?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Regular insulin\n(2) NPH insulin\n\n[Image: 28bd429e3f2a8b18aaf6cfb9a300154cd3590adaf8553ebdf30e5f7d23808072]",
+        "imageIds": [
+            "28bd429e3f2a8b18aaf6cfb9a300154cd3590adaf8553ebdf30e5f7d23808072"
+        ]
+    },
+    "images": {
+        "28bd429e3f2a8b18aaf6cfb9a300154cd3590adaf8553ebdf30e5f7d23808072": {
+            "file": "images/28bd429e3f2a8b18aaf6cfb9a300154cd3590adaf8553ebdf30e5f7d23808072.jpg",
+            "filename": "paste-39599598469123.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49244
+        }
+    }
+}

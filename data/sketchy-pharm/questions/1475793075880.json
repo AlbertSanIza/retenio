@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475793075880",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475793075880",
+        "noteId": "1475792730633",
+        "noteGuid": "}1|F(;)h}",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::1 Sedative-hypnotics::1.2 - Nonbenzodiazepine hypnotics, melatonin, ramelteon",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(1)-Sedatives_&_Hypnotics::1.2-Nonbenzodiazepine_Hypnotics,Melatonin,Ramelteon",
+        "$$Neuro/Psych",
+        "$Sedatives&Hypnotics"
+    ],
+    "question": {
+        "text": "What is the major CNS role of melatonin receptors?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Maintain circadian rhythm\n\n[Image: 0413bf360a20f755e52d8d44ab2aa49a36ad028fcf84c7924b61d79ee977327d]",
+        "imageIds": [
+            "0413bf360a20f755e52d8d44ab2aa49a36ad028fcf84c7924b61d79ee977327d"
+        ]
+    },
+    "images": {
+        "0413bf360a20f755e52d8d44ab2aa49a36ad028fcf84c7924b61d79ee977327d": {
+            "file": "images/0413bf360a20f755e52d8d44ab2aa49a36ad028fcf84c7924b61d79ee977327d.jpg",
+            "filename": "paste-8710193676291.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 69224
+        }
+    }
+}

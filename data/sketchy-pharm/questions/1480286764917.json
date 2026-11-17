@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480286764917",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480286764917",
+        "noteId": "1480285917662",
+        "noteGuid": "BKzdsM>lW[",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::3 Kinase Inhibitors & Monoclonal Antibodies\n::3.2 - Rituximab, cetuximab, bevacizumab, alemtuzumab, trastuzumab",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(3)-Kinase_Inhibitors_&_Monoclonal_Abs::3.2-Rituximab,Cetuximab,Bevacizumab,Alemtuzumab,Trastuzumab",
+        "$$Antineoplastics",
+        "$Kinase_Inhibitors_&_MonoclonalAbsbb"
+    ],
+    "question": {
+        "text": "Name 2 monoclonal antibodies which can be used to treat CLL",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Rituximab\n(2) Alemtuzumab\n\n[Image: b0af965f8af2b4d00330d57caaa8693308d61c25801c0135b33b7da6a95708a2]\n\n[Image: 72af982bad7a67ead1eb28876fd82ccdbb0f903805e480f5a2493acb6c73fcb3]",
+        "imageIds": [
+            "b0af965f8af2b4d00330d57caaa8693308d61c25801c0135b33b7da6a95708a2",
+            "72af982bad7a67ead1eb28876fd82ccdbb0f903805e480f5a2493acb6c73fcb3"
+        ]
+    },
+    "images": {
+        "72af982bad7a67ead1eb28876fd82ccdbb0f903805e480f5a2493acb6c73fcb3": {
+            "file": "images/72af982bad7a67ead1eb28876fd82ccdbb0f903805e480f5a2493acb6c73fcb3.jpg",
+            "filename": "paste-20985210208259 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63815
+        },
+        "b0af965f8af2b4d00330d57caaa8693308d61c25801c0135b33b7da6a95708a2": {
+            "file": "images/b0af965f8af2b4d00330d57caaa8693308d61c25801c0135b33b7da6a95708a2.jpg",
+            "filename": "paste-11248519348227.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54617
+        }
+    }
+}

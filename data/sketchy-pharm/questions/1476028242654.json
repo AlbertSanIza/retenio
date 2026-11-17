@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476028242654",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476028242654",
+        "noteId": "1476026238349",
+        "noteGuid": "q{jN<,Pl7#",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.1 - Heparin, LMWH, fondaparinux, direct thrombin inhibitors, Xa inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.1-Heparin,LMWH,Fondaparinux,Direct_Thrombin_Inhibitors",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "What enzyme catalyzes the final step of coagulation cascade?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Thrombin\n\n(Factor II, and crosslinking of fibrin occurs via Factor XIII)\n\n[Image: 48519d3747861661c11f1e359b8e0e1bad8378744bd852568d81783dc4219530]\n\n[Image: 23b8432f88a1136bfb631c3007fd623cf9ce1ce955d9041116595e755e1a55d5]",
+        "imageIds": [
+            "48519d3747861661c11f1e359b8e0e1bad8378744bd852568d81783dc4219530",
+            "23b8432f88a1136bfb631c3007fd623cf9ce1ce955d9041116595e755e1a55d5"
+        ]
+    },
+    "images": {
+        "23b8432f88a1136bfb631c3007fd623cf9ce1ce955d9041116595e755e1a55d5": {
+            "file": "images/23b8432f88a1136bfb631c3007fd623cf9ce1ce955d9041116595e755e1a55d5.jpg",
+            "filename": "paste-86118389252099.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60748
+        },
+        "48519d3747861661c11f1e359b8e0e1bad8378744bd852568d81783dc4219530": {
+            "file": "images/48519d3747861661c11f1e359b8e0e1bad8378744bd852568d81783dc4219530.jpg",
+            "filename": "paste-85925115723779.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61599
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1481677966331",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1481677966331",
+        "noteId": "1481676393166",
+        "noteGuid": "oJpn5okB#l",
+        "modelId": "1475688242543",
+        "templateOrdinal": 16
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::3 Anti-inflammatory::3.1 - NSAIDs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(3)-Anti-Inflammatory_Drugs::3.1-NSAIDs",
+        "$$Blood_&_Inflammation",
+        "$Anti-inflammatory"
+    ],
+    "question": {
+        "text": "Treatment: Aspirin toxicity",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Charcoal\n(2) NaHCO3\n\n[Image: 87a1254a75147c3fef9913bb4c0fa205355d9491d7e69aedc92c58ba16582660]\n\n[Image: 9a29fe1e40ed525477df75f96987290517336d92cc4d76ffc12c6de734e5b046]",
+        "imageIds": [
+            "87a1254a75147c3fef9913bb4c0fa205355d9491d7e69aedc92c58ba16582660",
+            "9a29fe1e40ed525477df75f96987290517336d92cc4d76ffc12c6de734e5b046"
+        ]
+    },
+    "images": {
+        "87a1254a75147c3fef9913bb4c0fa205355d9491d7e69aedc92c58ba16582660": {
+            "file": "images/87a1254a75147c3fef9913bb4c0fa205355d9491d7e69aedc92c58ba16582660.jpg",
+            "filename": "paste-128063039864835.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 105233
+        },
+        "9a29fe1e40ed525477df75f96987290517336d92cc4d76ffc12c6de734e5b046": {
+            "file": "images/9a29fe1e40ed525477df75f96987290517336d92cc4d76ffc12c6de734e5b046.jpg",
+            "filename": "paste-130511171223555.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 103867
+        }
+    }
+}

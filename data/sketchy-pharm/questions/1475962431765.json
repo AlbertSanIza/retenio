@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475962431765",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475962431765",
+        "noteId": "1475962037924",
+        "noteGuid": "LK=6#G=0_h",
+        "modelId": "1475688242543",
+        "templateOrdinal": 14
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.1 - Class I A-C",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.1-Class_I_(A-C)",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "Which division of class I antiarrhythmics can cause Torsades de Pointes?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Class IA\n\n[Image: cd28488b61b80a8d37c973be6eb2e05943ab03f50e8b22b7e0644122ae1f8025]",
+        "imageIds": [
+            "cd28488b61b80a8d37c973be6eb2e05943ab03f50e8b22b7e0644122ae1f8025"
+        ]
+    },
+    "images": {
+        "cd28488b61b80a8d37c973be6eb2e05943ab03f50e8b22b7e0644122ae1f8025": {
+            "file": "images/cd28488b61b80a8d37c973be6eb2e05943ab03f50e8b22b7e0644122ae1f8025.jpg",
+            "filename": "paste-27642409517059.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58520
+        }
+    }
+}

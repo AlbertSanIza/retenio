@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1489381099412",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1489381099412",
+        "noteId": "1489377832406",
+        "noteGuid": "qXy^sYw?Ac",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.3 - Teriparatide, Vitamin D, Cinacalcet, Sevelamer",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.3-Teriparatide,Vitamin_D,Cinacalcet,Sevelamer",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "Indication: Teriparatide",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Osteoporosis\n\n[Image: 215e6169b21c5df5d085546c3ef30df5fbdaeb51e4ede07293a494eaa94910a9]",
+        "imageIds": [
+            "215e6169b21c5df5d085546c3ef30df5fbdaeb51e4ede07293a494eaa94910a9"
+        ]
+    },
+    "images": {
+        "215e6169b21c5df5d085546c3ef30df5fbdaeb51e4ede07293a494eaa94910a9": {
+            "file": "images/215e6169b21c5df5d085546c3ef30df5fbdaeb51e4ede07293a494eaa94910a9.jpg",
+            "filename": "paste-66327179952131.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 83937
+        }
+    }
+}

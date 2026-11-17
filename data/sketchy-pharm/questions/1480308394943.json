@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480308394943",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480308394943",
+        "noteId": "1480307995792",
+        "noteGuid": "llJTLT7ctu",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.2 - NNRTIs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.2-NNRTIs",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "Which class of HIV drugs should be avoided in pregnancy?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "NNRTIs\n\n(Nevirapine is not contraindicated)\n\n[Image: edbdf8a1218085c0906779fc65e36f15552e6986c91ca06918ebd5f3bbec22a2]",
+        "imageIds": [
+            "edbdf8a1218085c0906779fc65e36f15552e6986c91ca06918ebd5f3bbec22a2"
+        ]
+    },
+    "images": {
+        "edbdf8a1218085c0906779fc65e36f15552e6986c91ca06918ebd5f3bbec22a2": {
+            "file": "images/edbdf8a1218085c0906779fc65e36f15552e6986c91ca06918ebd5f3bbec22a2.jpg",
+            "filename": "paste-119601954291715.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61766
+        }
+    }
+}

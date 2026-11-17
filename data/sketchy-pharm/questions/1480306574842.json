@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480306574842",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480306574842",
+        "noteId": "1480305923806",
+        "noteGuid": "c7-s#c:$D:",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.6 - Vancomycin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.6-Vancomycin",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "MOA: Vancomycin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Binds D-ala-D-ala ⇒ Inhibits cell wall synthesis\n\n(Unlike penicillins which bind PBP)\n\n[Image: 954a505b3e59952da69b6e35d8a32e9d37b54efcc3658289bc51d0dd53e158f7]",
+        "imageIds": [
+            "954a505b3e59952da69b6e35d8a32e9d37b54efcc3658289bc51d0dd53e158f7"
+        ]
+    },
+    "images": {
+        "954a505b3e59952da69b6e35d8a32e9d37b54efcc3658289bc51d0dd53e158f7": {
+            "file": "images/954a505b3e59952da69b6e35d8a32e9d37b54efcc3658289bc51d0dd53e158f7.jpg",
+            "filename": "paste-112004157145091 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45904
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480308394944",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480308394944",
+        "noteId": "1480307995792",
+        "noteGuid": "llJTLT7ctu",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.2 - NNRTIs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.2-NNRTIs",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "What effect do NNRTIs have on CYP450 system?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Varying -- some induce and others inhibit\n\n[Image: 34c9858882bb128ed1b14eddb6ebb62d0be28cc6d2bfad113436a349a8d92b6c]",
+        "imageIds": [
+            "34c9858882bb128ed1b14eddb6ebb62d0be28cc6d2bfad113436a349a8d92b6c"
+        ]
+    },
+    "images": {
+        "34c9858882bb128ed1b14eddb6ebb62d0be28cc6d2bfad113436a349a8d92b6c": {
+            "file": "images/34c9858882bb128ed1b14eddb6ebb62d0be28cc6d2bfad113436a349a8d92b6c.jpg",
+            "filename": "paste-119911191937027.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53828
+        }
+    }
+}

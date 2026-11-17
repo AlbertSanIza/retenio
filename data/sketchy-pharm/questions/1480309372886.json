@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480309372886",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480309372886",
+        "noteId": "1480309209169",
+        "noteGuid": "t(.L7mj0T?",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.4 - Maraviroc, fusion inhibitors, integrase inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.4-Maraviroc,Fusion_Inhibitors,_&_Integrase_Inhibitors",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "What does the HIV env gene code for?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "The ENVELOPE proteins,\n\n(1) gp41\n\n(2) gp120\n\n[Image: 4987dc36eb7e8f852f624c53515aed0864a87d2b40ec1c222674d372d6a0699e]\n\n[Image: c99e97ccd31b898b303920d359bb6ce105937bcec336c78b11ce91186fadd234]",
+        "imageIds": [
+            "4987dc36eb7e8f852f624c53515aed0864a87d2b40ec1c222674d372d6a0699e",
+            "c99e97ccd31b898b303920d359bb6ce105937bcec336c78b11ce91186fadd234"
+        ]
+    },
+    "images": {
+        "4987dc36eb7e8f852f624c53515aed0864a87d2b40ec1c222674d372d6a0699e": {
+            "file": "images/4987dc36eb7e8f852f624c53515aed0864a87d2b40ec1c222674d372d6a0699e.jpg",
+            "filename": "paste-121534689574915.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50764
+        },
+        "c99e97ccd31b898b303920d359bb6ce105937bcec336c78b11ce91186fadd234": {
+            "file": "images/c99e97ccd31b898b303920d359bb6ce105937bcec336c78b11ce91186fadd234.jpg",
+            "filename": "paste-233830904496131.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49513
+        }
+    }
+}

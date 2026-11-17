@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475796463148",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475796463148",
+        "noteId": "1475795781882",
+        "noteGuid": "uOs}?_Z]ZW",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.3 - MAO inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.3-MAOIs",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "Name 3 non-selective MAO inhibitors",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Tranylcypromine\n(2) Phenelzine\n\n(3) Isocarboxazid\n\n[Image: 3bf234ae66e4494b9def60625f1bdb84da8e0d46242c51dc4bf2246bb45e8c8e]\n\n[Image: 38fbed162095e69a5170a927d5cac88a1e11e5b22f0b083396aba8c8db4069c9]",
+        "imageIds": [
+            "3bf234ae66e4494b9def60625f1bdb84da8e0d46242c51dc4bf2246bb45e8c8e",
+            "38fbed162095e69a5170a927d5cac88a1e11e5b22f0b083396aba8c8db4069c9"
+        ]
+    },
+    "images": {
+        "38fbed162095e69a5170a927d5cac88a1e11e5b22f0b083396aba8c8db4069c9": {
+            "file": "images/38fbed162095e69a5170a927d5cac88a1e11e5b22f0b083396aba8c8db4069c9.jpg",
+            "filename": "paste-23807003721731.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 40959
+        },
+        "3bf234ae66e4494b9def60625f1bdb84da8e0d46242c51dc4bf2246bb45e8c8e": {
+            "file": "images/3bf234ae66e4494b9def60625f1bdb84da8e0d46242c51dc4bf2246bb45e8c8e.jpg",
+            "filename": "paste-23729694310403.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 42490
+        }
+    }
+}

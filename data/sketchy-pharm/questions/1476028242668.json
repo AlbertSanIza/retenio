@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476028242668",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476028242668",
+        "noteId": "1476026238349",
+        "noteGuid": "q{jN<,Pl7#",
+        "modelId": "1475688242543",
+        "templateOrdinal": 14
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.1 - Heparin, LMWH, fondaparinux, direct thrombin inhibitors, Xa inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.1-Heparin,LMWH,Fondaparinux,Direct_Thrombin_Inhibitors",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "Which anticoagulant is indicated in pregnancy?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Heparin\n\n(or LMWH)\n\n[Image: 914065316ac67afc3c9e9058e1565dca1434b279329b8b7632442a1fd542a8a6]",
+        "imageIds": [
+            "914065316ac67afc3c9e9058e1565dca1434b279329b8b7632442a1fd542a8a6"
+        ]
+    },
+    "images": {
+        "914065316ac67afc3c9e9058e1565dca1434b279329b8b7632442a1fd542a8a6": {
+            "file": "images/914065316ac67afc3c9e9058e1565dca1434b279329b8b7632442a1fd542a8a6.jpg",
+            "filename": "paste-89077621719043.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 86449
+        }
+    }
+}

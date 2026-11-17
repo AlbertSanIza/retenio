@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475704943305",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475704943305",
+        "noteId": "1475704171002",
+        "noteGuid": "M|s^}DGXy|",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::2 Dyslipidemia Drugs::2.3 - Fibrates, niacin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(2)-Dyslipidemia_Drugs::2.3-Fibrates,Niacin",
+        "$$Blood_&_Inflammation",
+        "$DyslipidemiaDrugs"
+    ],
+    "question": {
+        "text": "What effect do fibrates on the lipid fraction?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) ↓↓↓ TGs\n(2) ↓ LDL\n(3) ↑ HDL\n\n(↑ HDL by increasing ApoA1 and ApoA2)\n\n[Image: f59c0dc2b29becf974248dc8be4d38a417a17147c4cc0ec14734aee4ae345bcb]\n\n[Image: 9bd88d2d7061fabc1e3fed91d7c0f1c60b6ccf4391bedd43d3be937318a0c22b]\n\n[Image: c0f99bcd8d0ebe6e25817ad3f0347ec8ffeac5e84e55ba778ed5dc07bb135c18]\n\n[Image: c490705868c75943d427842ceda5650559c91d7f3658d22d332f45a3ed90a909]",
+        "imageIds": [
+            "f59c0dc2b29becf974248dc8be4d38a417a17147c4cc0ec14734aee4ae345bcb",
+            "9bd88d2d7061fabc1e3fed91d7c0f1c60b6ccf4391bedd43d3be937318a0c22b",
+            "c0f99bcd8d0ebe6e25817ad3f0347ec8ffeac5e84e55ba778ed5dc07bb135c18",
+            "c490705868c75943d427842ceda5650559c91d7f3658d22d332f45a3ed90a909"
+        ]
+    },
+    "images": {
+        "9bd88d2d7061fabc1e3fed91d7c0f1c60b6ccf4391bedd43d3be937318a0c22b": {
+            "file": "images/9bd88d2d7061fabc1e3fed91d7c0f1c60b6ccf4391bedd43d3be937318a0c22b.jpg",
+            "filename": "paste-158067681394691.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 86209
+        },
+        "c0f99bcd8d0ebe6e25817ad3f0347ec8ffeac5e84e55ba778ed5dc07bb135c18": {
+            "file": "images/c0f99bcd8d0ebe6e25817ad3f0347ec8ffeac5e84e55ba778ed5dc07bb135c18.jpg",
+            "filename": "paste-159669704196099.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 88799
+        },
+        "c490705868c75943d427842ceda5650559c91d7f3658d22d332f45a3ed90a909": {
+            "file": "images/c490705868c75943d427842ceda5650559c91d7f3658d22d332f45a3ed90a909.jpg",
+            "filename": "paste-161585259610115.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 89232
+        },
+        "f59c0dc2b29becf974248dc8be4d38a417a17147c4cc0ec14734aee4ae345bcb": {
+            "file": "images/f59c0dc2b29becf974248dc8be4d38a417a17147c4cc0ec14734aee4ae345bcb.jpg",
+            "filename": "paste-152707562209283.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 84716
+        }
+    }
+}

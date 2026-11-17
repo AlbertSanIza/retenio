@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480543237523",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480543237523",
+        "noteId": "1480542313473",
+        "noteGuid": "f(Tr,}<mC3",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.2 - Macrolides",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.2-Macrolides",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "What protein synthesis inhibitor is used in H. pylori triple therapy?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Clarithromycin\n\n[Image: fca0ee120eb7bf79602565f8e3fa5bc7ebbf19cfa48fb66e93430221c704036b]\n\n[Image: f227acdb6bea009ee178484180791354e4dd9fca629eb56420db626d7af4baee]",
+        "imageIds": [
+            "fca0ee120eb7bf79602565f8e3fa5bc7ebbf19cfa48fb66e93430221c704036b",
+            "f227acdb6bea009ee178484180791354e4dd9fca629eb56420db626d7af4baee"
+        ]
+    },
+    "images": {
+        "f227acdb6bea009ee178484180791354e4dd9fca629eb56420db626d7af4baee": {
+            "file": "images/f227acdb6bea009ee178484180791354e4dd9fca629eb56420db626d7af4baee.jpg",
+            "filename": "paste-13361643257859.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51747
+        },
+        "fca0ee120eb7bf79602565f8e3fa5bc7ebbf19cfa48fb66e93430221c704036b": {
+            "file": "images/fca0ee120eb7bf79602565f8e3fa5bc7ebbf19cfa48fb66e93430221c704036b.jpg",
+            "filename": "paste-34462817583107.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48854
+        }
+    }
+}

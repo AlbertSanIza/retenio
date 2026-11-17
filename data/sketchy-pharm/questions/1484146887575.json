@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484146887575",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484146887575",
+        "noteId": "1484145428631",
+        "noteGuid": "giBHBUiPlE",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::1 GI::1.1 - Antiemetic agents",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(1)-GI::1.1-Antiemetic_Agents",
+        "$$GI_&_Endocrine",
+        "$GI"
+    ],
+    "question": {
+        "text": "Contraindication: Metoclopramide",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Bowel obstruction\n\n(Parkinsons)\n\n[Image: 7a6c8d7b8268a47c4899508dfb53c4617226ef35971c713ff7ed3f3ae43d856f]",
+        "imageIds": [
+            "7a6c8d7b8268a47c4899508dfb53c4617226ef35971c713ff7ed3f3ae43d856f"
+        ]
+    },
+    "images": {
+        "7a6c8d7b8268a47c4899508dfb53c4617226ef35971c713ff7ed3f3ae43d856f": {
+            "file": "images/7a6c8d7b8268a47c4899508dfb53c4617226ef35971c713ff7ed3f3ae43d856f.jpg",
+            "filename": "paste-344069830082563.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 76083
+        }
+    }
+}

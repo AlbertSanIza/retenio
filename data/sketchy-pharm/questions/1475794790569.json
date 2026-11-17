@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475794790569",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475794790569",
+        "noteId": "1475793971812",
+        "noteGuid": "lxQq)Zvao+",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.1 - SSRIs, SNRIs, cyproheptadine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.1-SSRIs,SNRIs,Cyproheptadine",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "What are the symptoms of serotonin syndrome?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Hypertension\n(2) Hyperthermia\n\n(3) Hyperreflexia\n\n[Image: 275313ac6a1664659463b44ed9e5fe819b507d59ddea3ceb41d215e94a1a5318]\n\n[Image: eb00dcc03663490afc7f884c70eb3a2f7341291d8169b79ddf25b091482706a3]",
+        "imageIds": [
+            "275313ac6a1664659463b44ed9e5fe819b507d59ddea3ceb41d215e94a1a5318",
+            "eb00dcc03663490afc7f884c70eb3a2f7341291d8169b79ddf25b091482706a3"
+        ]
+    },
+    "images": {
+        "275313ac6a1664659463b44ed9e5fe819b507d59ddea3ceb41d215e94a1a5318": {
+            "file": "images/275313ac6a1664659463b44ed9e5fe819b507d59ddea3ceb41d215e94a1a5318.jpg",
+            "filename": "paste-15045270437891.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70304
+        },
+        "eb00dcc03663490afc7f884c70eb3a2f7341291d8169b79ddf25b091482706a3": {
+            "file": "images/eb00dcc03663490afc7f884c70eb3a2f7341291d8169b79ddf25b091482706a3.jpg",
+            "filename": "paste-15204184227843.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70169
+        }
+    }
+}

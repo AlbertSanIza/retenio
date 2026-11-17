@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480307995666",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480307995666",
+        "noteId": "1480306961331",
+        "noteGuid": "Lpn4BX|*1X",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.1 - NRTIs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.1-NRTIs",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "How are NRTIs different from endogenous molecules?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Lack 3' hydroxyl\n\n[Image: 079b03037b0288929c6e2c63cf4ea1bbd04ff66b629383ff2389dd7aa19a9ce2]",
+        "imageIds": [
+            "079b03037b0288929c6e2c63cf4ea1bbd04ff66b629383ff2389dd7aa19a9ce2"
+        ]
+    },
+    "images": {
+        "079b03037b0288929c6e2c63cf4ea1bbd04ff66b629383ff2389dd7aa19a9ce2": {
+            "file": "images/079b03037b0288929c6e2c63cf4ea1bbd04ff66b629383ff2389dd7aa19a9ce2.jpg",
+            "filename": "paste-115311281963011.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44073
+        }
+    }
+}

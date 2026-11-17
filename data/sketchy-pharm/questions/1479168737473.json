@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479168737473",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479168737473",
+        "noteId": "1479167856326",
+        "noteGuid": "gr<{i]C0f-",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::5 Antipsychotics & Parkinson's::5.2 - Second generation antipsychotics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(5)-Antipsychotics_&_Parkinsons::5.2-Second_Generation_Antipsychotics",
+        "$$Neuro/Psych",
+        "$Antipsychotics_&_Parkinsons"
+    ],
+    "question": {
+        "text": "Do atypical psychotics treat the positive or negative symptoms of schizophrenia?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Both\n\n[Image: b26b0149dd04b104cc0d74a18583ca0a18ca973551701740e70ca008c54eccea]",
+        "imageIds": [
+            "b26b0149dd04b104cc0d74a18583ca0a18ca973551701740e70ca008c54eccea"
+        ]
+    },
+    "images": {
+        "b26b0149dd04b104cc0d74a18583ca0a18ca973551701740e70ca008c54eccea": {
+            "file": "images/b26b0149dd04b104cc0d74a18583ca0a18ca973551701740e70ca008c54eccea.jpg",
+            "filename": "paste-282737697095683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52313
+        }
+    }
+}

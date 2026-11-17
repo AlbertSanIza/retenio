@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480545922875",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480545922875",
+        "noteId": "1480544887082",
+        "noteGuid": "u<L|B!T%5S",
+        "modelId": "1475688242543",
+        "templateOrdinal": 14
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.6 - Aminoglycosides",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.6-Aminoglycosides",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "Adverse Effects (5) : Aminoglycosides",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Teratogen\n(2) Ototoxicity\n(3) Nephrotoxicity\n\n(4) Acute tubular necrosis\n\n(5) Neuromuscular blockade\n\n(MC cause of acute tubu'ar necrosis)\n\n[Image: 1e4b68ff8a55955ea1a5316fbb80808aff4bac935c577634f315dea8b844205a]\n\n[Image: c9195c31a231c2c6aec280ac9b43b372f80108dc7d1d0e758e4dd73594cd025d]\n\n[Image: e6ace27be52474f45cf5653d8ffa416c98ca476fc2528bc41bb1eb7d4e46c444]\n\n[Image: 78e2d45c9b13e46d20714c867d3b4f53d2b277de7e20621b0686a50c6788c0f8]\n\n[Image: 0e7080c0b2df4d3cafbc1d441a471ed78a36782c07054837f5afdac2f2709548]",
+        "imageIds": [
+            "1e4b68ff8a55955ea1a5316fbb80808aff4bac935c577634f315dea8b844205a",
+            "c9195c31a231c2c6aec280ac9b43b372f80108dc7d1d0e758e4dd73594cd025d",
+            "e6ace27be52474f45cf5653d8ffa416c98ca476fc2528bc41bb1eb7d4e46c444",
+            "78e2d45c9b13e46d20714c867d3b4f53d2b277de7e20621b0686a50c6788c0f8",
+            "0e7080c0b2df4d3cafbc1d441a471ed78a36782c07054837f5afdac2f2709548"
+        ]
+    },
+    "images": {
+        "0e7080c0b2df4d3cafbc1d441a471ed78a36782c07054837f5afdac2f2709548": {
+            "file": "images/0e7080c0b2df4d3cafbc1d441a471ed78a36782c07054837f5afdac2f2709548.jpg",
+            "filename": "paste-27496380628995 (2).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44883
+        },
+        "1e4b68ff8a55955ea1a5316fbb80808aff4bac935c577634f315dea8b844205a": {
+            "file": "images/1e4b68ff8a55955ea1a5316fbb80808aff4bac935c577634f315dea8b844205a.jpg",
+            "filename": "paste-27749783699459.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44267
+        },
+        "78e2d45c9b13e46d20714c867d3b4f53d2b277de7e20621b0686a50c6788c0f8": {
+            "file": "images/78e2d45c9b13e46d20714c867d3b4f53d2b277de7e20621b0686a50c6788c0f8.jpg",
+            "filename": "paste-27208617820163 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43993
+        },
+        "c9195c31a231c2c6aec280ac9b43b372f80108dc7d1d0e758e4dd73594cd025d": {
+            "file": "images/c9195c31a231c2c6aec280ac9b43b372f80108dc7d1d0e758e4dd73594cd025d.jpg",
+            "filename": "paste-26955214749699 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 42779
+        },
+        "e6ace27be52474f45cf5653d8ffa416c98ca476fc2528bc41bb1eb7d4e46c444": {
+            "file": "images/e6ace27be52474f45cf5653d8ffa416c98ca476fc2528bc41bb1eb7d4e46c444.jpg",
+            "filename": "paste-27075473833987.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 42085
+        }
+    }
+}

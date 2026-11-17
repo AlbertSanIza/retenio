@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1489381099406",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1489381099406",
+        "noteId": "1489377832406",
+        "noteGuid": "qXy^sYw?Ac",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.3 - Teriparatide, Vitamin D, Cinacalcet, Sevelamer",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.3-Teriparatide,Vitamin_D,Cinacalcet,Sevelamer",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "What effect does the RANK-RANKL interaction have on osteoclasts?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Differentiation\n(2) Activation\n\n(RANKL is upregulated by PTH, whereas osteoprotegrin is upregulated by Calcitriol)\n\n[Image: af222e8a6f118354de404d564de0015f845baed49f5c9a3ae5db033143f07c34]",
+        "imageIds": [
+            "af222e8a6f118354de404d564de0015f845baed49f5c9a3ae5db033143f07c34"
+        ]
+    },
+    "images": {
+        "af222e8a6f118354de404d564de0015f845baed49f5c9a3ae5db033143f07c34": {
+            "file": "images/af222e8a6f118354de404d564de0015f845baed49f5c9a3ae5db033143f07c34.jpg",
+            "filename": "paste-63273458204675.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 95795
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480302755937",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480302755937",
+        "noteId": "1480301676727",
+        "noteGuid": "oy.7TfmNm^",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.4 - Cephalosporins",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.4-Cephalosporins",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "What is the drug of choice for surgical prophylaxis?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Cefazolin\n\n(Neomycin to sterilize bowel)\n\n[Image: c90abde5c5b153de1245a8404427612d00e213e1be9af2e24ad0200995cee738]\n\n[Image: 1bcf2b9efe90f4f629c442ae760c8d832ee5cbef89f56aec71ca410de6ab00b0]",
+        "imageIds": [
+            "c90abde5c5b153de1245a8404427612d00e213e1be9af2e24ad0200995cee738",
+            "1bcf2b9efe90f4f629c442ae760c8d832ee5cbef89f56aec71ca410de6ab00b0"
+        ]
+    },
+    "images": {
+        "1bcf2b9efe90f4f629c442ae760c8d832ee5cbef89f56aec71ca410de6ab00b0": {
+            "file": "images/1bcf2b9efe90f4f629c442ae760c8d832ee5cbef89f56aec71ca410de6ab00b0.jpg",
+            "filename": "paste-23343147253763.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47225
+        },
+        "c90abde5c5b153de1245a8404427612d00e213e1be9af2e24ad0200995cee738": {
+            "file": "images/c90abde5c5b153de1245a8404427612d00e213e1be9af2e24ad0200995cee738.jpg",
+            "filename": "paste-99029060943875.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 26467
+        }
+    }
+}

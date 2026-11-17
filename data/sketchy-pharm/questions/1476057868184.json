@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476057868184",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476057868184",
+        "noteId": "1476057511630",
+        "noteGuid": "DX{(cXG7Pq",
+        "modelId": "1475688242543",
+        "templateOrdinal": 13
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::2 Allergy & Pulmonary::2.2 - Asthma therapy",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(2)-Allergy_&_Pulmonary::2.2-Asthma_Therapy",
+        "$$Smooth_Muscle",
+        "$Allergy&Pulmonary"
+    ],
+    "question": {
+        "text": "Name two long acting β2 agonists",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Salmeterol\n(2) Formoterol\n\n(Salute ∝ Salmeterol)\n\n(Formation ∝ Formoterol)\n\n[Image: c300e3ca818e4552cbfd7459f12fd259e039c00ae42a3303bceab706cd6e307c]\n\n[Image: 24a662055e1910075d99a825ead414d7f9f298ffd4ab5e89ea976d9e36ea0e73]",
+        "imageIds": [
+            "c300e3ca818e4552cbfd7459f12fd259e039c00ae42a3303bceab706cd6e307c",
+            "24a662055e1910075d99a825ead414d7f9f298ffd4ab5e89ea976d9e36ea0e73"
+        ]
+    },
+    "images": {
+        "24a662055e1910075d99a825ead414d7f9f298ffd4ab5e89ea976d9e36ea0e73": {
+            "file": "images/24a662055e1910075d99a825ead414d7f9f298ffd4ab5e89ea976d9e36ea0e73.jpg",
+            "filename": "paste-25284472471555.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 81035
+        },
+        "c300e3ca818e4552cbfd7459f12fd259e039c00ae42a3303bceab706cd6e307c": {
+            "file": "images/c300e3ca818e4552cbfd7459f12fd259e039c00ae42a3303bceab706cd6e307c.jpg",
+            "filename": "paste-25224342929411.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 80125
+        }
+    }
+}

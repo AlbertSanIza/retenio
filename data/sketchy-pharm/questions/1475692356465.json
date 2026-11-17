@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475692356465",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475692356465",
+        "noteId": "1475692048852",
+        "noteGuid": "uAHoblM$cT",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::1 Heart Failure Drugs::1.2 - ACE inhibitors, ARBs, Aliskiren",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(1)-Heart_Failure_Drugs::1.2-ACE_Inhibitors,ARBs,Aliskiren",
+        "$$Cardiovascular_&_Renal",
+        "$HeartFailureDrugs"
+    ],
+    "question": {
+        "text": "What genetic disease is an absolute contraindication to ACE inhibitors?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Hereditary angioedema\n\n[Image: f94d8fd9d777d787ff7f09c717266149d13f96272a86483ac5fbd56645a1012f]",
+        "imageIds": [
+            "f94d8fd9d777d787ff7f09c717266149d13f96272a86483ac5fbd56645a1012f"
+        ]
+    },
+    "images": {
+        "f94d8fd9d777d787ff7f09c717266149d13f96272a86483ac5fbd56645a1012f": {
+            "file": "images/f94d8fd9d777d787ff7f09c717266149d13f96272a86483ac5fbd56645a1012f.jpg",
+            "filename": "paste-56856777064451.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49446
+        }
+    }
+}

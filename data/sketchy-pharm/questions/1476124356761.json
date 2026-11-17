@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476124356761",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476124356761",
+        "noteId": "1476123573815",
+        "noteGuid": "k=!B>3>6eG",
+        "modelId": "1475688242543",
+        "templateOrdinal": 20
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::2 Diabetes::2.1 - Insulin, Sulfonylureas, Meglitinides, GLP-1 Agonists, DPP-4 Inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(2)-Diabetes::2.1-Insulin,Sulfonylureas,Meglitinides,GLP-1_Agonists,DPP-4_Inhibitors",
+        "$$GI_&_Endocrine",
+        "$Diabetes"
+    ],
+    "question": {
+        "text": "Other than hypoglycemia, what is a common side effect of sulfonylureas and meglitinides?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Weight gain\n\n[Image: bfee7a8f08978817c45c2f9d9f4bda3b089f28b4504be8161be661ce85f3f0bf]",
+        "imageIds": [
+            "bfee7a8f08978817c45c2f9d9f4bda3b089f28b4504be8161be661ce85f3f0bf"
+        ]
+    },
+    "images": {
+        "bfee7a8f08978817c45c2f9d9f4bda3b089f28b4504be8161be661ce85f3f0bf": {
+            "file": "images/bfee7a8f08978817c45c2f9d9f4bda3b089f28b4504be8161be661ce85f3f0bf.jpg",
+            "filename": "paste-41931765710851.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55909
+        }
+    }
+}

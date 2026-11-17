@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475794790567",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475794790567",
+        "noteId": "1475793971812",
+        "noteGuid": "lxQq)Zvao+",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.1 - SSRIs, SNRIs, cyproheptadine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.1-SSRIs,SNRIs,Cyproheptadine",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "How long does it take for SSRIs/SNRIs to achieve maximum effect?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "1-2 months\n\n[Image: 7e7b4ee9c6464337e28527e98409c9f0a0c163a26a92907a22af2d2d02140b8c]",
+        "imageIds": [
+            "7e7b4ee9c6464337e28527e98409c9f0a0c163a26a92907a22af2d2d02140b8c"
+        ]
+    },
+    "images": {
+        "7e7b4ee9c6464337e28527e98409c9f0a0c163a26a92907a22af2d2d02140b8c": {
+            "file": "images/7e7b4ee9c6464337e28527e98409c9f0a0c163a26a92907a22af2d2d02140b8c.jpg",
+            "filename": "paste-13889924235267.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59386
+        }
+    }
+}

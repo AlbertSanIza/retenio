@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480836764149",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480836764149",
+        "noteId": "1480835348971",
+        "noteGuid": "i*mBW%(]hE",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::8 Antivirals: other::8.1 - Acyclovir, valacyclovir, famciclovir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(8)-Antivirals-Other::8.1-Acyclovir,Valacyclovir,Famiciclovir",
+        "$$Antimicrobials",
+        "$Antivirals_Others"
+    ],
+    "question": {
+        "text": "What enzymes activate Acyclovir?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) First Phosphorylation: Viral Thymidine-kinase\n(2) Second & Third: Cellular kinase\n\n[Image: 20a5764b04dab799affd50ba8a737042bc35d0511d04d5898f4c75f242bb818f]\n\n[Image: 9273faa8407614eac1aa347585b3dd075dfc8c9e224cbe6ef733922d38ba81a7]",
+        "imageIds": [
+            "20a5764b04dab799affd50ba8a737042bc35d0511d04d5898f4c75f242bb818f",
+            "9273faa8407614eac1aa347585b3dd075dfc8c9e224cbe6ef733922d38ba81a7"
+        ]
+    },
+    "images": {
+        "20a5764b04dab799affd50ba8a737042bc35d0511d04d5898f4c75f242bb818f": {
+            "file": "images/20a5764b04dab799affd50ba8a737042bc35d0511d04d5898f4c75f242bb818f.jpg",
+            "filename": "paste-388355237871619.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34312
+        },
+        "9273faa8407614eac1aa347585b3dd075dfc8c9e224cbe6ef733922d38ba81a7": {
+            "file": "images/9273faa8407614eac1aa347585b3dd075dfc8c9e224cbe6ef733922d38ba81a7.jpg",
+            "filename": "paste-388552806367235.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 35744
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476032549482",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476032549482",
+        "noteId": "1476031894774",
+        "noteGuid": "r/v.#B/vmp",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.4 - Thrombolytics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.4-Thrombolytics",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "Indications (4) : Fibrinolytics",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Acute ischemic stroke\n(2) Deep venous thrombosis\n\n(3) Pulmonary embolism\n\n(4) Acute myocardial infarction\n\n[Image: 97480de6c347520d47b53b3aa85ece6bb4067fb441a32c7e9491da22ff08dd05]\n\n[Image: f9a56766bde2db262bb05bc49329c204741df8fbc567009b17f2b138061bb483]\n\n[Image: 824bf40e83b8aae4829d66737d32531426a6d112a864cf8e34fbb7428af99f23]",
+        "imageIds": [
+            "97480de6c347520d47b53b3aa85ece6bb4067fb441a32c7e9491da22ff08dd05",
+            "f9a56766bde2db262bb05bc49329c204741df8fbc567009b17f2b138061bb483",
+            "824bf40e83b8aae4829d66737d32531426a6d112a864cf8e34fbb7428af99f23"
+        ]
+    },
+    "images": {
+        "824bf40e83b8aae4829d66737d32531426a6d112a864cf8e34fbb7428af99f23": {
+            "file": "images/824bf40e83b8aae4829d66737d32531426a6d112a864cf8e34fbb7428af99f23.jpg",
+            "filename": "paste-24623047507971.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63725
+        },
+        "97480de6c347520d47b53b3aa85ece6bb4067fb441a32c7e9491da22ff08dd05": {
+            "file": "images/97480de6c347520d47b53b3aa85ece6bb4067fb441a32c7e9491da22ff08dd05.jpg",
+            "filename": "paste-23626615095299.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 74239
+        },
+        "f9a56766bde2db262bb05bc49329c204741df8fbc567009b17f2b138061bb483": {
+            "file": "images/f9a56766bde2db262bb05bc49329c204741df8fbc567009b17f2b138061bb483.jpg",
+            "filename": "paste-24575802867715.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 67710
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475704943310",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475704943310",
+        "noteId": "1475704171002",
+        "noteGuid": "M|s^}DGXy|",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::2 Dyslipidemia Drugs::2.3 - Fibrates, niacin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(2)-Dyslipidemia_Drugs::2.3-Fibrates,Niacin",
+        "$$Blood_&_Inflammation",
+        "$DyslipidemiaDrugs"
+    ],
+    "question": {
+        "text": "Adverse Effect: Niacin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Cutaneous flushing\n\n[Image: e3f23cf0aa4772fc5fad1a28eb63ed6fe7cc861745207ed82058f52e92ce8746]",
+        "imageIds": [
+            "e3f23cf0aa4772fc5fad1a28eb63ed6fe7cc861745207ed82058f52e92ce8746"
+        ]
+    },
+    "images": {
+        "e3f23cf0aa4772fc5fad1a28eb63ed6fe7cc861745207ed82058f52e92ce8746": {
+            "file": "images/e3f23cf0aa4772fc5fad1a28eb63ed6fe7cc861745207ed82058f52e92ce8746.jpg",
+            "filename": "paste-15461882265603.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58912
+        }
+    }
+}

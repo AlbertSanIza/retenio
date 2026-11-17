@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480292311254",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480292311254",
+        "noteId": "1480291959729",
+        "noteGuid": "DTmn*-2U)v",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.5 - Vincristine, vinblastine, paclitaxel",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "MOA: Taxanes",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Inhibit microtubule degradation\n\n(∝ Inhibiting dynein ∝ C. Diff exotoxins B's effect on actin)\n\n[Image: 0b855ad75d0cfc57a0537dd2700d73aff3914d72647d9c39c05a4f83a755eda7]\n\n[Image: f4c89fcf78ebacd548200f6c8f6efb86bf7b29e55b98eb8fd4dcea5c59256523]",
+        "imageIds": [
+            "0b855ad75d0cfc57a0537dd2700d73aff3914d72647d9c39c05a4f83a755eda7",
+            "f4c89fcf78ebacd548200f6c8f6efb86bf7b29e55b98eb8fd4dcea5c59256523"
+        ]
+    },
+    "images": {
+        "0b855ad75d0cfc57a0537dd2700d73aff3914d72647d9c39c05a4f83a755eda7": {
+            "file": "images/0b855ad75d0cfc57a0537dd2700d73aff3914d72647d9c39c05a4f83a755eda7.jpg",
+            "filename": "paste-212832809385987.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62210
+        },
+        "f4c89fcf78ebacd548200f6c8f6efb86bf7b29e55b98eb8fd4dcea5c59256523": {
+            "file": "images/f4c89fcf78ebacd548200f6c8f6efb86bf7b29e55b98eb8fd4dcea5c59256523.jpg",
+            "filename": "paste-214391882514435.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62311
+        }
+    }
+}

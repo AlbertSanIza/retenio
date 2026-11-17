@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476238755334",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476238755334",
+        "noteId": "1476236480934",
+        "noteGuid": "cj@yKLEX0c",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.4 - K+ sparing diuretics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.4-Potassium_Sparing_Diuretics",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "Which part of the renal tubule do K+ sparing diuretics act on?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Collecting duct\n\n[Image: a4a95c6cb2b695026a5f2ece8eb10ac9d5ad746cd61f0921f5974a8bdcba5934]\n\n[Image: 9826500bb82bd2732de2c0b5dafe38a66c4021531d238829fe1fd6b6b768dfd5]",
+        "imageIds": [
+            "a4a95c6cb2b695026a5f2ece8eb10ac9d5ad746cd61f0921f5974a8bdcba5934",
+            "9826500bb82bd2732de2c0b5dafe38a66c4021531d238829fe1fd6b6b768dfd5"
+        ]
+    },
+    "images": {
+        "9826500bb82bd2732de2c0b5dafe38a66c4021531d238829fe1fd6b6b768dfd5": {
+            "file": "images/9826500bb82bd2732de2c0b5dafe38a66c4021531d238829fe1fd6b6b768dfd5.jpg",
+            "filename": "paste-92084098826243.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 42013
+        },
+        "a4a95c6cb2b695026a5f2ece8eb10ac9d5ad746cd61f0921f5974a8bdcba5934": {
+            "file": "images/a4a95c6cb2b695026a5f2ece8eb10ac9d5ad746cd61f0921f5974a8bdcba5934.jpg",
+            "filename": "paste-92058329022467.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 35460
+        }
+    }
+}

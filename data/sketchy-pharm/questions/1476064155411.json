@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476064155411",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476064155411",
+        "noteId": "1476063149826",
+        "noteGuid": "z+V/(i)+AN",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::1 Vasoactive::1.2 - Triptans & migraine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(1)-Vasoactive::1.2-Triptans_&_Migraines",
+        "$$Smooth_Muscle",
+        "$Vasoactive"
+    ],
+    "question": {
+        "text": "What is the effect of stimulating 5-HT1b and 5-HT1d receptors on the trigeminal nerve?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Prevents the release of vasoactive peptides\n\n[Image: fb4a1c276f2a00d9ab571e8ba63ad3f4c7dfbd46162a8d7a984c979bc535745f]",
+        "imageIds": [
+            "fb4a1c276f2a00d9ab571e8ba63ad3f4c7dfbd46162a8d7a984c979bc535745f"
+        ]
+    },
+    "images": {
+        "fb4a1c276f2a00d9ab571e8ba63ad3f4c7dfbd46162a8d7a984c979bc535745f": {
+            "file": "images/fb4a1c276f2a00d9ab571e8ba63ad3f4c7dfbd46162a8d7a984c979bc535745f.jpg",
+            "filename": "paste-79315161055235.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 71702
+        }
+    }
+}

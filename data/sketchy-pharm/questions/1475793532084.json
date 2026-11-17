@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475793532084",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475793532084",
+        "noteId": "1475793075945",
+        "noteGuid": "uhGglrcsj9",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::1 Sedative-hypnotics::1.3 - Barbiturates",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(1)-Sedatives_&_Hypnotics::1.3-Barbituates",
+        "$$Neuro/Psych",
+        "$Sedatives&Hypnotics"
+    ],
+    "question": {
+        "text": "Why does thiopental have a short duration of action?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Rapid redistribution from CNS\n\n[Image: 5a6f62db5bfc7cc7a255a79ec291a5651bd6590025b41e7ccb5ddd02c2119a8a]",
+        "imageIds": [
+            "5a6f62db5bfc7cc7a255a79ec291a5651bd6590025b41e7ccb5ddd02c2119a8a"
+        ]
+    },
+    "images": {
+        "5a6f62db5bfc7cc7a255a79ec291a5651bd6590025b41e7ccb5ddd02c2119a8a": {
+            "file": "images/5a6f62db5bfc7cc7a255a79ec291a5651bd6590025b41e7ccb5ddd02c2119a8a.jpg",
+            "filename": "paste-9436043149315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 81697
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475692356467",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475692356467",
+        "noteId": "1475692048852",
+        "noteGuid": "uAHoblM$cT",
+        "modelId": "1475688242543",
+        "templateOrdinal": 13
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::1 Heart Failure Drugs::1.2 - ACE inhibitors, ARBs, Aliskiren",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(1)-Heart_Failure_Drugs::1.2-ACE_Inhibitors,ARBs,Aliskiren",
+        "$$Cardiovascular_&_Renal",
+        "$HeartFailureDrugs"
+    ],
+    "question": {
+        "text": "What drugs are an absolute contraindication to ACE inhibitors?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "NSAIDs\n\n[Image: c12a6f8177f81884547dde941e783e6c3244e87cfc6220eaa0c645d1c393d928]",
+        "imageIds": [
+            "c12a6f8177f81884547dde941e783e6c3244e87cfc6220eaa0c645d1c393d928"
+        ]
+    },
+    "images": {
+        "c12a6f8177f81884547dde941e783e6c3244e87cfc6220eaa0c645d1c393d928": {
+            "file": "images/c12a6f8177f81884547dde941e783e6c3244e87cfc6220eaa0c645d1c393d928.jpg",
+            "filename": "paste-57531086929923.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43255
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480834896634",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480834896634",
+        "noteId": "1480833587852",
+        "noteGuid": "uqQIy,Xsey",
+        "modelId": "1475688242543",
+        "templateOrdinal": 12
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::7 Antivirals: Hepatitis::7.2 - Ribavirin, sofosbuvir, simeprevir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(7)-Antivirals-Hepatitis::7.2-Ribavirin,Sofosbuvir,Simeprevir",
+        "$$Antimicrobials",
+        "$Antivirals_Hepatitis"
+    ],
+    "question": {
+        "text": "What antiviral used to treat Hepatitis C inhibits the CYP450 system?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Simeprevir\n\n[Image: 562607faee05071b5b470ff15d408df503ed01afd99873800172d51f3627544b]",
+        "imageIds": [
+            "562607faee05071b5b470ff15d408df503ed01afd99873800172d51f3627544b"
+        ]
+    },
+    "images": {
+        "562607faee05071b5b470ff15d408df503ed01afd99873800172d51f3627544b": {
+            "file": "images/562607faee05071b5b470ff15d408df503ed01afd99873800172d51f3627544b.jpg",
+            "filename": "paste-383489039925251.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58088
+        }
+    }
+}

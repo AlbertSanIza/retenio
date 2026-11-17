@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480827472483",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480827472483",
+        "noteId": "1480827467194",
+        "noteGuid": "BVb_d[(|[)",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::5 Antifungals::5.3 - Griseofulvin, Terbinafine, Echinocandins",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(5)-Antifungals::5.3-Griseofulvin,Terbinafine,Echinocandins",
+        "$$Antimicrobials",
+        "$Antifungals"
+    ],
+    "question": {
+        "text": "What type of infections is Griseofulvin used to treat?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Dermatophytic\n\n[Image: 5c5ade50c420ea5a3303ccbb5b8aba6ae4ef6a0c8bc39cb10c23ca03f067d2a6]",
+        "imageIds": [
+            "5c5ade50c420ea5a3303ccbb5b8aba6ae4ef6a0c8bc39cb10c23ca03f067d2a6"
+        ]
+    },
+    "images": {
+        "5c5ade50c420ea5a3303ccbb5b8aba6ae4ef6a0c8bc39cb10c23ca03f067d2a6": {
+            "file": "images/5c5ade50c420ea5a3303ccbb5b8aba6ae4ef6a0c8bc39cb10c23ca03f067d2a6.jpg",
+            "filename": "paste-297697068187651.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 32449
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476062885335",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476062885335",
+        "noteId": "1476060361139",
+        "noteGuid": "z-O#q8*S,w",
+        "modelId": "1475688242543",
+        "templateOrdinal": 16
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::1 Vasoactive::1.3-Prostaglandins,Prostacyclin,Bosentan, PDE5 inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(1)-Vasoactive::1.3-Prostaglandins,Prostacyclin,Bosentan,PDE-5_Inhibitors",
+        "$$Smooth_Muscle",
+        "$Vasoactive"
+    ],
+    "question": {
+        "text": "Suffix: PDE-5 inhibitors",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "\"-fil\"\n\n[Image: deff133926e9f31f89573970969574cbc0bc44da03e92dea3fd51b3bb67bbcbf]",
+        "imageIds": [
+            "deff133926e9f31f89573970969574cbc0bc44da03e92dea3fd51b3bb67bbcbf"
+        ]
+    },
+    "images": {
+        "deff133926e9f31f89573970969574cbc0bc44da03e92dea3fd51b3bb67bbcbf": {
+            "file": "images/deff133926e9f31f89573970969574cbc0bc44da03e92dea3fd51b3bb67bbcbf.jpg",
+            "filename": "paste-234595408674819.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 94967
+        }
+    }
+}

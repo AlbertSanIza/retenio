@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475796463154",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475796463154",
+        "noteId": "1475795781882",
+        "noteGuid": "uOs}?_Z]ZW",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.3 - MAO inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.3-MAOIs",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "How is Tyramine usually metabolized?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "MAOA in GI tract\n\n[Image: c9aca57f49631f9897158dda9af0aa3056f0aad0e7d8f026e920d4833ce88c03]\n\n[Image: 0a2e3f43e75190bf986ee82f4132fc42c223165640e64afb48cb1f546e8d8182]",
+        "imageIds": [
+            "c9aca57f49631f9897158dda9af0aa3056f0aad0e7d8f026e920d4833ce88c03",
+            "0a2e3f43e75190bf986ee82f4132fc42c223165640e64afb48cb1f546e8d8182"
+        ]
+    },
+    "images": {
+        "0a2e3f43e75190bf986ee82f4132fc42c223165640e64afb48cb1f546e8d8182": {
+            "file": "images/0a2e3f43e75190bf986ee82f4132fc42c223165640e64afb48cb1f546e8d8182.jpg",
+            "filename": "paste-25963077304323.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56392
+        },
+        "c9aca57f49631f9897158dda9af0aa3056f0aad0e7d8f026e920d4833ce88c03": {
+            "file": "images/c9aca57f49631f9897158dda9af0aa3056f0aad0e7d8f026e920d4833ce88c03.jpg",
+            "filename": "paste-25744033972227.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52800
+        }
+    }
+}

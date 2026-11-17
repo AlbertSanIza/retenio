@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484177029996",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484177029996",
+        "noteId": "1484175022469",
+        "noteGuid": "L&Kl!{]`hQ",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::4 Mood Stabilizers & Antiepileptic Drugs::4.6 - Ethosuximide",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(4)-Mood_Stabilizers_&_Antiepileptics::4.4-Ethosuximide",
+        "$$Neuro/Psych",
+        "$Mood_Stabilizers_&_Antiepileptics"
+    ],
+    "question": {
+        "text": "Adverse Effects (2) : Ethosuximide",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) GI distress\n(2) Lethary\n\n[Image: 22131327e53056a23a86a96d9cefc893ec5a75d5999bb6d94bbf98797e6a5fea]\n\n[Image: 35570999fcfb6c9a433e6685adf5468084f95a667c01388085faf9ac68dafd30]",
+        "imageIds": [
+            "22131327e53056a23a86a96d9cefc893ec5a75d5999bb6d94bbf98797e6a5fea",
+            "35570999fcfb6c9a433e6685adf5468084f95a667c01388085faf9ac68dafd30"
+        ]
+    },
+    "images": {
+        "22131327e53056a23a86a96d9cefc893ec5a75d5999bb6d94bbf98797e6a5fea": {
+            "file": "images/22131327e53056a23a86a96d9cefc893ec5a75d5999bb6d94bbf98797e6a5fea.jpg",
+            "filename": "paste-804365770162179.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 83206
+        },
+        "35570999fcfb6c9a433e6685adf5468084f95a667c01388085faf9ac68dafd30": {
+            "file": "images/35570999fcfb6c9a433e6685adf5468084f95a667c01388085faf9ac68dafd30.jpg",
+            "filename": "paste-804430194671619.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 85301
+        }
+    }
+}

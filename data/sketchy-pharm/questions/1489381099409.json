@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1489381099409",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1489381099409",
+        "noteId": "1489377832406",
+        "noteGuid": "qXy^sYw?Ac",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.3 - Teriparatide, Vitamin D, Cinacalcet, Sevelamer",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.3-Teriparatide,Vitamin_D,Cinacalcet,Sevelamer",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "Name 3 ways PTH elevates serum [Ca2+]",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Activates osteoclasts\n(2) ↑ Renal Ca2+ reabsorption\n\n(3) Activates Vitamin D\n\n[Image: af222e8a6f118354de404d564de0015f845baed49f5c9a3ae5db033143f07c34]\n\n[Image: 2f804a2e5a52a6fe20a39399674e60033b26303e5919bbace962e8975984d331]\n\n[Image: 4ffcd9b064890bb1c0d7fda7f7f4762d9b85ebb6e0e37068b9ab22f19e39751c]",
+        "imageIds": [
+            "af222e8a6f118354de404d564de0015f845baed49f5c9a3ae5db033143f07c34",
+            "2f804a2e5a52a6fe20a39399674e60033b26303e5919bbace962e8975984d331",
+            "4ffcd9b064890bb1c0d7fda7f7f4762d9b85ebb6e0e37068b9ab22f19e39751c"
+        ]
+    },
+    "images": {
+        "2f804a2e5a52a6fe20a39399674e60033b26303e5919bbace962e8975984d331": {
+            "file": "images/2f804a2e5a52a6fe20a39399674e60033b26303e5919bbace962e8975984d331.jpg",
+            "filename": "paste-64385854734339.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 102755
+        },
+        "4ffcd9b064890bb1c0d7fda7f7f4762d9b85ebb6e0e37068b9ab22f19e39751c": {
+            "file": "images/4ffcd9b064890bb1c0d7fda7f7f4762d9b85ebb6e0e37068b9ab22f19e39751c.jpg",
+            "filename": "paste-65395172048899.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 87485
+        },
+        "af222e8a6f118354de404d564de0015f845baed49f5c9a3ae5db033143f07c34": {
+            "file": "images/af222e8a6f118354de404d564de0015f845baed49f5c9a3ae5db033143f07c34.jpg",
+            "filename": "paste-63273458204675.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 95795
+        }
+    }
+}

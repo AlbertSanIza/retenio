@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484171304772",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484171304772",
+        "noteId": "1484170558195",
+        "noteGuid": "IPW<ydy+.t",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.2 - Inhaled anesthetics, dantrolene",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.2-Inhaled_Anesthetics,Dantrolene",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "What value is used in place of ED50 for inhaled anesthetics?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "MAC\n\n(Minimum alveolar concentration to render 50% of people unresponsive)\n\n[Image: 1b4082e4ef456054f84d6b0a864c4d4d1fa23d2bb9f0a064b8cf49ce605fff04]\n\n[Image: 7439a1335ee6c7fcb416c55ad464bca50d73e242b2a86cd17bf398bb1d629639]",
+        "imageIds": [
+            "1b4082e4ef456054f84d6b0a864c4d4d1fa23d2bb9f0a064b8cf49ce605fff04",
+            "7439a1335ee6c7fcb416c55ad464bca50d73e242b2a86cd17bf398bb1d629639"
+        ]
+    },
+    "images": {
+        "1b4082e4ef456054f84d6b0a864c4d4d1fa23d2bb9f0a064b8cf49ce605fff04": {
+            "file": "images/1b4082e4ef456054f84d6b0a864c4d4d1fa23d2bb9f0a064b8cf49ce605fff04.jpg",
+            "filename": "paste-539396352770051.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 77582
+        },
+        "7439a1335ee6c7fcb416c55ad464bca50d73e242b2a86cd17bf398bb1d629639": {
+            "file": "images/7439a1335ee6c7fcb416c55ad464bca50d73e242b2a86cd17bf398bb1d629639.jpg",
+            "filename": "paste-540882411454467.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 79599
+        }
+    }
+}

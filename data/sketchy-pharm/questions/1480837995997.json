@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480837995997",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480837995997",
+        "noteId": "1480837653001",
+        "noteGuid": "PaSdeX5^)E",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::8 Antivirals: other::8.2 - Ganciclovir, valganciclovir, foscarnet, cidofovir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(8)-Antivirals-Other::8.2-Ganciclovir,Valganciclovir,Foscarnet,Cidofovir",
+        "$$Antimicrobials",
+        "$Antivirals_Others"
+    ],
+    "question": {
+        "text": "An HIV patient is on Zidovudine as an anti-retroviral and Ganciclovir as prophylaxis for CMV. What lab values must you constantly follow?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "WBC/RBC counts\n\n[Image: 0443a2831c5cafd79b376cc8532a581620cfee46c2b22923ef6cd2ae92849477]",
+        "imageIds": [
+            "0443a2831c5cafd79b376cc8532a581620cfee46c2b22923ef6cd2ae92849477"
+        ]
+    },
+    "images": {
+        "0443a2831c5cafd79b376cc8532a581620cfee46c2b22923ef6cd2ae92849477": {
+            "file": "images/0443a2831c5cafd79b376cc8532a581620cfee46c2b22923ef6cd2ae92849477.jpg",
+            "filename": "paste-413214508580867.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 38957
+        }
+    }
+}

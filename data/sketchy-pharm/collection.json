@@ -1,0 +1,8 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm",
+    "name": "Sketchy Pharm",
+    "source": {
+        "type": "anki-apkg"
+    }
+}

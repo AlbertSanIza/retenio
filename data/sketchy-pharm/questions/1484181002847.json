@@ -1,0 +1,50 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484181002847",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484181002847",
+        "noteId": "1484177226936",
+        "noteGuid": "bOwj4X6^p=",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::0 Putting It Together",
+    "tags": [
+        "#SketchyPharm",
+        "$$Putting_It_Together"
+    ],
+    "question": {
+        "text": "Drugs/drug classes (3) : Hyperpigmentation",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Bleomycin\n(2) Busulfan\n\n(3) Emtricitabine\n\n[Image: edffafcf1984e445c0d4e0f91e1df9bce4af7db401742a71dbedd66115ec99e4]\n\n[Image: 5ce06c26ed29735f29acdcf62c5674cc469d6c5d5f21647fc8ff06adc45b8bfd]\n\n[Image: e0560b5e404f24da63af6e45145dc68287acdcae226b165944a7e823be051473]",
+        "imageIds": [
+            "edffafcf1984e445c0d4e0f91e1df9bce4af7db401742a71dbedd66115ec99e4",
+            "5ce06c26ed29735f29acdcf62c5674cc469d6c5d5f21647fc8ff06adc45b8bfd",
+            "e0560b5e404f24da63af6e45145dc68287acdcae226b165944a7e823be051473"
+        ]
+    },
+    "images": {
+        "5ce06c26ed29735f29acdcf62c5674cc469d6c5d5f21647fc8ff06adc45b8bfd": {
+            "file": "images/5ce06c26ed29735f29acdcf62c5674cc469d6c5d5f21647fc8ff06adc45b8bfd.jpg",
+            "filename": "paste-30240864731139.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55436
+        },
+        "e0560b5e404f24da63af6e45145dc68287acdcae226b165944a7e823be051473": {
+            "file": "images/e0560b5e404f24da63af6e45145dc68287acdcae226b165944a7e823be051473.jpg",
+            "filename": "paste-41085657153539.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 113161
+        },
+        "edffafcf1984e445c0d4e0f91e1df9bce4af7db401742a71dbedd66115ec99e4": {
+            "file": "images/edffafcf1984e445c0d4e0f91e1df9bce4af7db401742a71dbedd66115ec99e4.jpg",
+            "filename": "paste-41639707934723.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46379
+        }
+    }
+}

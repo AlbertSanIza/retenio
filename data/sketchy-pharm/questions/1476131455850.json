@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476131455850",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476131455850",
+        "noteId": "1476130090291",
+        "noteGuid": "O>jMOQ>@1^",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::4 Hypothalamic & Pituitary::4.2 - ADH, DDAVP,& ADH Receptor Antagonists",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(4)-Hypothalamic_&_Pituitary::4.1-ADH,DDAVP,_&_ADH_Receptor_Antagonists",
+        "$$GI_&_Endocrine",
+        "$Hypothalamic_&_Pituitary"
+    ],
+    "question": {
+        "text": "Other than increasing water permeability, what physiologic function does stimulation of V2 receptor mediate?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) ↑ vWF\n(2) ↑ Factor VIII\n\n(Remember vWF stabilizes Factor VIII, preventing its degradation, so it's logical they would be affected together)\n\n[Image: 78a1ea43346c55c4e15e0d93d0fcabfd64d7a09479d461892a63d1e5b3276291]",
+        "imageIds": [
+            "78a1ea43346c55c4e15e0d93d0fcabfd64d7a09479d461892a63d1e5b3276291"
+        ]
+    },
+    "images": {
+        "78a1ea43346c55c4e15e0d93d0fcabfd64d7a09479d461892a63d1e5b3276291": {
+            "file": "images/78a1ea43346c55c4e15e0d93d0fcabfd64d7a09479d461892a63d1e5b3276291.jpg",
+            "filename": "paste-84915798409219.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46589
+        }
+    }
+}

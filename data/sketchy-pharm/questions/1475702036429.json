@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475702036429",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475702036429",
+        "noteId": "1475701051571",
+        "noteGuid": "sja8v*xun+",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::2 Dyslipidemia Drugs::2.1 - Statins",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(2)-Dyslipidemia_Drugs::2.1-Statins",
+        "$$Blood_&_Inflammation",
+        "$DyslipidemiaDrugs"
+    ],
+    "question": {
+        "text": "What is the first line treatment for hypercholesterolemia?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Lifestyle modification + statins\n\n[Image: 652a6d987693ea9df1dae42d3f67ef939611de06b6d7d5ffeda3c6d0b39e4918]",
+        "imageIds": [
+            "652a6d987693ea9df1dae42d3f67ef939611de06b6d7d5ffeda3c6d0b39e4918"
+        ]
+    },
+    "images": {
+        "652a6d987693ea9df1dae42d3f67ef939611de06b6d7d5ffeda3c6d0b39e4918": {
+            "file": "images/652a6d987693ea9df1dae42d3f67ef939611de06b6d7d5ffeda3c6d0b39e4918.jpg",
+            "filename": "paste-141158395150339.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54269
+        }
+    }
+}

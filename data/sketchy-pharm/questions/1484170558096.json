@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484170558096",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484170558096",
+        "noteId": "1484169055669",
+        "noteGuid": "QrQ#;bxg=`",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.1 - Propofol, etomidate, ketamine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.1-Propofol,Etomidate,Ketamine",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "Indication(s) : Propofol",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Induction\n(2) Maintenance\n\n(\"Propo-fall-asleep\")\n\n[Image: 59c9c9b6629a124b65b3ea637df7059cc3f595f9bc36eeda34198456d91042e2]\n\n[Image: 1a2e38e954ee3a2cbb32035fd9643e7d0b139ea8f9186542c1dcf87fbe7d9aed]",
+        "imageIds": [
+            "59c9c9b6629a124b65b3ea637df7059cc3f595f9bc36eeda34198456d91042e2",
+            "1a2e38e954ee3a2cbb32035fd9643e7d0b139ea8f9186542c1dcf87fbe7d9aed"
+        ]
+    },
+    "images": {
+        "1a2e38e954ee3a2cbb32035fd9643e7d0b139ea8f9186542c1dcf87fbe7d9aed": {
+            "file": "images/1a2e38e954ee3a2cbb32035fd9643e7d0b139ea8f9186542c1dcf87fbe7d9aed.jpg",
+            "filename": "paste-490777322979331.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66756
+        },
+        "59c9c9b6629a124b65b3ea637df7059cc3f595f9bc36eeda34198456d91042e2": {
+            "file": "images/59c9c9b6629a124b65b3ea637df7059cc3f595f9bc36eeda34198456d91042e2.jpg",
+            "filename": "paste-490734373306371.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 64960
+        }
+    }
+}

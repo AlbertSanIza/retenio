@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1481245821760",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1481245821760",
+        "noteId": "1480302756081",
+        "noteGuid": "G@alyBYtFv",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.5 - Monobactams & Carbapenems",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.5-Monobactams_&_Carbapenems",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "Name a β-lactam that can treat Pseudomonas which is NOT a Cephalosporin or Penicillin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Aztreonam\n\n[Image: 5e41bb429aa3016c2f85c2de17cba5573567ac419afac9a1f9f484707b78c2f8]",
+        "imageIds": [
+            "5e41bb429aa3016c2f85c2de17cba5573567ac419afac9a1f9f484707b78c2f8"
+        ]
+    },
+    "images": {
+        "5e41bb429aa3016c2f85c2de17cba5573567ac419afac9a1f9f484707b78c2f8": {
+            "file": "images/5e41bb429aa3016c2f85c2de17cba5573567ac419afac9a1f9f484707b78c2f8.jpg",
+            "filename": "paste-103551661506563.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 33060
+        }
+    }
+}

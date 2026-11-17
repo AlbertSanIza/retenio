@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484149248527",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484149248527",
+        "noteId": "1484146371456",
+        "noteGuid": "B,)q~3Rva5",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::1 GI::1.2 - H2 receptor blockers, PPIs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(1)-GI::1.2-H2_Receptor_Blockers,PPIs",
+        "$$GI_&_Endocrine",
+        "$GI"
+    ],
+    "question": {
+        "text": "What secretes GRP?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Vagus n.\n\n(Thus indirectly stimulating HCl release via GRP and directly stimulating HCl via ACh)\n\n[Image: d1ba143cf77893bc764864d53171d911c5bdd05dc873c9f4c72897f4a3ba7d5f]",
+        "imageIds": [
+            "d1ba143cf77893bc764864d53171d911c5bdd05dc873c9f4c72897f4a3ba7d5f"
+        ]
+    },
+    "images": {
+        "d1ba143cf77893bc764864d53171d911c5bdd05dc873c9f4c72897f4a3ba7d5f": {
+            "file": "images/d1ba143cf77893bc764864d53171d911c5bdd05dc873c9f4c72897f4a3ba7d5f.jpg",
+            "filename": "paste-506226320343043.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 83508
+        }
+    }
+}

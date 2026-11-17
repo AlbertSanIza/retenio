@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480834896632",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480834896632",
+        "noteId": "1480833587852",
+        "noteGuid": "uqQIy,Xsey",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::7 Antivirals: Hepatitis::7.2 - Ribavirin, sofosbuvir, simeprevir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(7)-Antivirals-Hepatitis::7.2-Ribavirin,Sofosbuvir,Simeprevir",
+        "$$Antimicrobials",
+        "$Antivirals_Hepatitis"
+    ],
+    "question": {
+        "text": "MOA: Simeprevir",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Protease inhibitor\n\n(NS3/4A specifically)\n\n[Image: f34933c49eceb27f9ab71477110bbace7f7212fd5495da00c264dbc3f44fed0a]\n\n[Image: 1078235649c6acc2b9bf7c93533f3d0d48ef64092ffc5fa4b83d859410f0e382]\n\n[Image: ff06a8c0abed7002074f6edc3ff8b6e6e97e839713557c49c6a02972db86ead0]",
+        "imageIds": [
+            "f34933c49eceb27f9ab71477110bbace7f7212fd5495da00c264dbc3f44fed0a",
+            "1078235649c6acc2b9bf7c93533f3d0d48ef64092ffc5fa4b83d859410f0e382",
+            "ff06a8c0abed7002074f6edc3ff8b6e6e97e839713557c49c6a02972db86ead0"
+        ]
+    },
+    "images": {
+        "1078235649c6acc2b9bf7c93533f3d0d48ef64092ffc5fa4b83d859410f0e382": {
+            "file": "images/1078235649c6acc2b9bf7c93533f3d0d48ef64092ffc5fa4b83d859410f0e382.jpg",
+            "filename": "paste-382694470975491.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49718
+        },
+        "f34933c49eceb27f9ab71477110bbace7f7212fd5495da00c264dbc3f44fed0a": {
+            "file": "images/f34933c49eceb27f9ab71477110bbace7f7212fd5495da00c264dbc3f44fed0a.jpg",
+            "filename": "paste-382763190452227.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50976
+        },
+        "ff06a8c0abed7002074f6edc3ff8b6e6e97e839713557c49c6a02972db86ead0": {
+            "file": "images/ff06a8c0abed7002074f6edc3ff8b6e6e97e839713557c49c6a02972db86ead0.jpg",
+            "filename": "paste-79886391705603.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51311
+        }
+    }
+}

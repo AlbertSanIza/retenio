@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476131455852",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476131455852",
+        "noteId": "1476130090291",
+        "noteGuid": "O>jMOQ>@1^",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::4 Hypothalamic & Pituitary::4.2 - ADH, DDAVP,& ADH Receptor Antagonists",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(4)-Hypothalamic_&_Pituitary::4.1-ADH,DDAVP,_&_ADH_Receptor_Antagonists",
+        "$$GI_&_Endocrine",
+        "$Hypothalamic_&_Pituitary"
+    ],
+    "question": {
+        "text": "What drugs can be used to treat nephrogenic diabetes insipidus?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Thiazide diuretics\n(2) Amiloride\n\n(3) NSAIDs\n\n[Image: 9b41079bf850cd0d11f99770296a8118e89318b84d7adc83c4962dda76f27f81]\n\n[Image: 04bfe29c0bc7d74bd30a89574516256f17937899fc560ac13ebe25ea74ad3563]\n\n[Image: ac2b9868309041dfe6114fc15c0c954fceabd8132a8d5d5ed888970805061146]",
+        "imageIds": [
+            "9b41079bf850cd0d11f99770296a8118e89318b84d7adc83c4962dda76f27f81",
+            "04bfe29c0bc7d74bd30a89574516256f17937899fc560ac13ebe25ea74ad3563",
+            "ac2b9868309041dfe6114fc15c0c954fceabd8132a8d5d5ed888970805061146"
+        ]
+    },
+    "images": {
+        "04bfe29c0bc7d74bd30a89574516256f17937899fc560ac13ebe25ea74ad3563": {
+            "file": "images/04bfe29c0bc7d74bd30a89574516256f17937899fc560ac13ebe25ea74ad3563.jpg",
+            "filename": "paste-85538568667139.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48605
+        },
+        "9b41079bf850cd0d11f99770296a8118e89318b84d7adc83c4962dda76f27f81": {
+            "file": "images/9b41079bf850cd0d11f99770296a8118e89318b84d7adc83c4962dda76f27f81.jpg",
+            "filename": "paste-85298050498563.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34874
+        },
+        "ac2b9868309041dfe6114fc15c0c954fceabd8132a8d5d5ed888970805061146": {
+            "file": "images/ac2b9868309041dfe6114fc15c0c954fceabd8132a8d5d5ed888970805061146.jpg",
+            "filename": "paste-85671712653315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43799
+        }
+    }
+}

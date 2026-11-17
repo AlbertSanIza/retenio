@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484149460605",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484149460605",
+        "noteId": "1484146371456",
+        "noteGuid": "B,)q~3Rva5",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::1 GI::1.2 - H2 receptor blockers, PPIs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(1)-GI::1.2-H2_Receptor_Blockers,PPIs",
+        "$$GI_&_Endocrine",
+        "$GI"
+    ],
+    "question": {
+        "text": "Indications (2) : PPIs/H2 receptor antagonists",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) GERD\n(2) GI Ulcers\n\n(PPIs are first line)\n\n[Image: 949905bffd7151a6b8a89c3829eb213f0ec4f3be624aa9ef7b41b7ba9a64db8c]\n\n[Image: 25af5cc27164ac67f4f50dc0845ab671d4c454f833b7fb529345b36019c27855]",
+        "imageIds": [
+            "949905bffd7151a6b8a89c3829eb213f0ec4f3be624aa9ef7b41b7ba9a64db8c",
+            "25af5cc27164ac67f4f50dc0845ab671d4c454f833b7fb529345b36019c27855"
+        ]
+    },
+    "images": {
+        "25af5cc27164ac67f4f50dc0845ab671d4c454f833b7fb529345b36019c27855": {
+            "file": "images/25af5cc27164ac67f4f50dc0845ab671d4c454f833b7fb529345b36019c27855.jpg",
+            "filename": "paste-21513491185667.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 74950
+        },
+        "949905bffd7151a6b8a89c3829eb213f0ec4f3be624aa9ef7b41b7ba9a64db8c": {
+            "file": "images/949905bffd7151a6b8a89c3829eb213f0ec4f3be624aa9ef7b41b7ba9a64db8c.jpg",
+            "filename": "paste-522349627572227.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 79508
+        }
+    }
+}

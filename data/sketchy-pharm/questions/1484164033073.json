@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484164033073",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484164033073",
+        "noteId": "1484162877085",
+        "noteGuid": "K^0}t0mL6T",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::5 Antipsychotics & Parkinson's::5.3 - Levodopa/carbidopa, entacapone, tolcapone, selegiline, ropinirole, pramipexole, amantadine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(5)-Antipsychotics_&_Parkinsons::5.3-Parkinsons_Drugs",
+        "$$Neuro/Psych",
+        "$Antipsychotics_&_Parkinsons"
+    ],
+    "question": {
+        "text": "MOA: Carbidopa",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Peripheral DOPA decarboxylase inhibitor\n\n(⇒ ↓ Peripheral adverse effects + ↑ Bioavailability)\n\n[Image: 18278f0ce2a88a9511af47d732c37cf590634190a9ddff75c1f693cf90eb97b4]\n\n[Image: 0f4affe2385d121b25dfca6798b3ae71e27ff1369f0636ef93d5cb8e5ac1855e]",
+        "imageIds": [
+            "18278f0ce2a88a9511af47d732c37cf590634190a9ddff75c1f693cf90eb97b4",
+            "0f4affe2385d121b25dfca6798b3ae71e27ff1369f0636ef93d5cb8e5ac1855e"
+        ]
+    },
+    "images": {
+        "0f4affe2385d121b25dfca6798b3ae71e27ff1369f0636ef93d5cb8e5ac1855e": {
+            "file": "images/0f4affe2385d121b25dfca6798b3ae71e27ff1369f0636ef93d5cb8e5ac1855e.jpg",
+            "filename": "paste-266378166665219.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52573
+        },
+        "18278f0ce2a88a9511af47d732c37cf590634190a9ddff75c1f693cf90eb97b4": {
+            "file": "images/18278f0ce2a88a9511af47d732c37cf590634190a9ddff75c1f693cf90eb97b4.jpg",
+            "filename": "paste-250783140413443.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66587
+        }
+    }
+}

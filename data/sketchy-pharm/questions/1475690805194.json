@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475690805194",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475690805194",
+        "noteId": "1475689796727",
+        "noteGuid": "kCV^~E(MCS",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::1 Heart Failure Drugs::1.1 - Digoxin, milrinone, nesiritide",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(1)-Heart_Failure_Drugs::1.1-Digoxin,Milrinone,Nesiritide",
+        "$$Cardiovascular_&_Renal",
+        "$HeartFailureDrugs"
+    ],
+    "question": {
+        "text": "What electrolyte abnormality exacerbates Digoxin toxicity?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Hypokalemia\n\n[Image: c532e07dd7d19f778f97310f287a4a58281cb1c60ec9dd61c37c909fddf7617a]",
+        "imageIds": [
+            "c532e07dd7d19f778f97310f287a4a58281cb1c60ec9dd61c37c909fddf7617a"
+        ]
+    },
+    "images": {
+        "c532e07dd7d19f778f97310f287a4a58281cb1c60ec9dd61c37c909fddf7617a": {
+            "file": "images/c532e07dd7d19f778f97310f287a4a58281cb1c60ec9dd61c37c909fddf7617a.jpg",
+            "filename": "paste-41382009896963.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56706
+        }
+    }
+}

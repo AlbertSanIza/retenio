@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475797215285",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475797215285",
+        "noteId": "1475796463230",
+        "noteGuid": "dVn&?O~Nzk",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.4 - Bupropion, mirtazapine, trazodone",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.4-Bupropion,Mirtazapine,Trazodone",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "What is Bupropion used to treat?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Atypical depression\n(2) Tobacco dependence\n\n(3) Somnolence\n\n[Image: 1ed4a8ac172529a343a05d57d580e764370c9df5ed6e1871b3fc1d71c5fb6a3d]\n\n[Image: b2d71736369bb10aa42d5f673b3d30a6f8372714138dc3e5d4aa4b69133641cd]\n\n[Image: 30bb8fb616546a3003a5028d300ccedcec124508e3c1ae86ae20927bb89e40e7]",
+        "imageIds": [
+            "1ed4a8ac172529a343a05d57d580e764370c9df5ed6e1871b3fc1d71c5fb6a3d",
+            "b2d71736369bb10aa42d5f673b3d30a6f8372714138dc3e5d4aa4b69133641cd",
+            "30bb8fb616546a3003a5028d300ccedcec124508e3c1ae86ae20927bb89e40e7"
+        ]
+    },
+    "images": {
+        "1ed4a8ac172529a343a05d57d580e764370c9df5ed6e1871b3fc1d71c5fb6a3d": {
+            "file": "images/1ed4a8ac172529a343a05d57d580e764370c9df5ed6e1871b3fc1d71c5fb6a3d.jpg",
+            "filename": "paste-26946624815107.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 41031
+        },
+        "30bb8fb616546a3003a5028d300ccedcec124508e3c1ae86ae20927bb89e40e7": {
+            "file": "images/30bb8fb616546a3003a5028d300ccedcec124508e3c1ae86ae20927bb89e40e7.jpg",
+            "filename": "paste-8860517531651.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 40567
+        },
+        "b2d71736369bb10aa42d5f673b3d30a6f8372714138dc3e5d4aa4b69133641cd": {
+            "file": "images/b2d71736369bb10aa42d5f673b3d30a6f8372714138dc3e5d4aa4b69133641cd.jpg",
+            "filename": "paste-26989574488067.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45736
+        }
+    }
+}

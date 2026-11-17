@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1489377715630",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1489377715630",
+        "noteId": "1489373732673",
+        "noteGuid": "MVDX:P#kj;",
+        "modelId": "1475688242543",
+        "templateOrdinal": 20
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.1 - Propylthiouracil, Methimazole, Levothyroxine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.1-Propylthiouracil,Methimazole,Levothyroxine",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "Treatment: Radioactive iodine exposure",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Anions\n\n(Such as perchlorate, pertechnetate, and thiocyanate which inhibit the Na+/I- symporter)\n\n[Image: eafbe1b4675ff5631e5ced6803b45c26e349c6cd5014c342d9aadbe6c10b576d]",
+        "imageIds": [
+            "eafbe1b4675ff5631e5ced6803b45c26e349c6cd5014c342d9aadbe6c10b576d"
+        ]
+    },
+    "images": {
+        "eafbe1b4675ff5631e5ced6803b45c26e349c6cd5014c342d9aadbe6c10b576d": {
+            "file": "images/eafbe1b4675ff5631e5ced6803b45c26e349c6cd5014c342d9aadbe6c10b576d.jpg",
+            "filename": "paste-32061930864643 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 91139
+        }
+    }
+}

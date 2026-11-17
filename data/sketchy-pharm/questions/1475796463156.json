@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475796463156",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475796463156",
+        "noteId": "1475795781882",
+        "noteGuid": "uOs}?_Z]ZW",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.3 - MAO inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.3-MAOIs",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "What drug can be used to manage hypertensive symptoms of tyramine toxicity?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Phentolamine\n\n[Image: 947a6f89dec52ff0e93dc8c1e8f37c2a44e6706fa55eb19160a2f1cc67e319f1]",
+        "imageIds": [
+            "947a6f89dec52ff0e93dc8c1e8f37c2a44e6706fa55eb19160a2f1cc67e319f1"
+        ]
+    },
+    "images": {
+        "947a6f89dec52ff0e93dc8c1e8f37c2a44e6706fa55eb19160a2f1cc67e319f1": {
+            "file": "images/947a6f89dec52ff0e93dc8c1e8f37c2a44e6706fa55eb19160a2f1cc67e319f1.jpg",
+            "filename": "paste-26663156973571.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59665
+        }
+    }
+}

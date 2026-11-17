@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475704943313",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475704943313",
+        "noteId": "1475704171002",
+        "noteGuid": "M|s^}DGXy|",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::2 Dyslipidemia Drugs::2.3 - Fibrates, niacin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(2)-Dyslipidemia_Drugs::2.3-Fibrates,Niacin",
+        "$$Blood_&_Inflammation",
+        "$DyslipidemiaDrugs"
+    ],
+    "question": {
+        "text": "Fish oil is rich in what type of fatty acid?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "ω-3 fatty acids\n\n[Image: 056edc6cced5a7fc1d4946aef4c14c5113dbbf872bc5505df354b6c4ace04465]",
+        "imageIds": [
+            "056edc6cced5a7fc1d4946aef4c14c5113dbbf872bc5505df354b6c4ace04465"
+        ]
+    },
+    "images": {
+        "056edc6cced5a7fc1d4946aef4c14c5113dbbf872bc5505df354b6c4ace04465": {
+            "file": "images/056edc6cced5a7fc1d4946aef4c14c5113dbbf872bc5505df354b6c4ace04465.jpg",
+            "filename": "paste-16995185590275.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66443
+        }
+    }
+}

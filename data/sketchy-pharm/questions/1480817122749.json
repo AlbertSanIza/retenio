@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480817122749",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480817122749",
+        "noteId": "1480816165877",
+        "noteGuid": "Qi(.XU0Lz8",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::3 Antimycobacterials::3.2 - Leprosy drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(3)-Antimycobacterials::3.2-Leprosy_Drugs",
+        "$$Antimicrobials",
+        "$Antimycobacterials"
+    ],
+    "question": {
+        "text": "What drug is only used during the treatment of lepromatous leprosy?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Clofazimine\n\n[Image: 162d676be2bd357bb5e2e0d0d3297f7c1bcfb2a16eb8b108608e1089efa9da2f]",
+        "imageIds": [
+            "162d676be2bd357bb5e2e0d0d3297f7c1bcfb2a16eb8b108608e1089efa9da2f"
+        ]
+    },
+    "images": {
+        "162d676be2bd357bb5e2e0d0d3297f7c1bcfb2a16eb8b108608e1089efa9da2f": {
+            "file": "images/162d676be2bd357bb5e2e0d0d3297f7c1bcfb2a16eb8b108608e1089efa9da2f.jpg",
+            "filename": "paste-193243463548931.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52242
+        }
+    }
+}

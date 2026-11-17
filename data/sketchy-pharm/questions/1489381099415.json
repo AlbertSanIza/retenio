@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1489381099415",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1489381099415",
+        "noteId": "1489377832406",
+        "noteGuid": "qXy^sYw?Ac",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.3 - Teriparatide, Vitamin D, Cinacalcet, Sevelamer",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.3-Teriparatide,Vitamin_D,Cinacalcet,Sevelamer",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "Describe how dietary Vitamin D is converted into the active form",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) 25-hydroxylated in the liver\n(2) 1-hydroxylated in the kidney\n\n(∴ Calcitriol would be indicated over Vit. D2/D3 in the setting of renal/liver disease)\n\n[Image: f78a156bb349082af59265500f2ae031868e7f4a3ec7baa11abc2e93af83b8e2]\n\n[Image: 1441600308dce9c28dbbe2a927c865519bd877425637357ca4674006ffbb5a35]",
+        "imageIds": [
+            "f78a156bb349082af59265500f2ae031868e7f4a3ec7baa11abc2e93af83b8e2",
+            "1441600308dce9c28dbbe2a927c865519bd877425637357ca4674006ffbb5a35"
+        ]
+    },
+    "images": {
+        "1441600308dce9c28dbbe2a927c865519bd877425637357ca4674006ffbb5a35": {
+            "file": "images/1441600308dce9c28dbbe2a927c865519bd877425637357ca4674006ffbb5a35.jpg",
+            "filename": "paste-43830141255683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 141423
+        },
+        "f78a156bb349082af59265500f2ae031868e7f4a3ec7baa11abc2e93af83b8e2": {
+            "file": "images/f78a156bb349082af59265500f2ae031868e7f4a3ec7baa11abc2e93af83b8e2.jpg",
+            "filename": "paste-67851893342211.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 102394
+        }
+    }
+}

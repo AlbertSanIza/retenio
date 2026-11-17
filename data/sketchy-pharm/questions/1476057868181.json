@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476057868181",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476057868181",
+        "noteId": "1476057511630",
+        "noteGuid": "DX{(cXG7Pq",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::2 Allergy & Pulmonary::2.2 - Asthma therapy",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(2)-Allergy_&_Pulmonary::2.2-Asthma_Therapy",
+        "$$Smooth_Muscle",
+        "$Allergy&Pulmonary"
+    ],
+    "question": {
+        "text": "What drug is a direct lipoxygenase inhibitor?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Zileuton\n\n[Image: 0b140e469e163d0223ec4f1490058e11a7e5cc28749aee2680eb5b647be21ed4]",
+        "imageIds": [
+            "0b140e469e163d0223ec4f1490058e11a7e5cc28749aee2680eb5b647be21ed4"
+        ]
+    },
+    "images": {
+        "0b140e469e163d0223ec4f1490058e11a7e5cc28749aee2680eb5b647be21ed4": {
+            "file": "images/0b140e469e163d0223ec4f1490058e11a7e5cc28749aee2680eb5b647be21ed4.jpg",
+            "filename": "paste-24644522344451 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 74301
+        }
+    }
+}

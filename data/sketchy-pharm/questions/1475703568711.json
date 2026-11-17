@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475703568711",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475703568711",
+        "noteId": "1475702646427",
+        "noteGuid": "g#IU13^g&[",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::2 Dyslipidemia Drugs::2.2 - Cholestyramine, ezetimibe",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(2)-Dyslipidemia_Drugs::2.2-Cholestyramine,Ezetimibe",
+        "$$Blood_&_Inflammation",
+        "$DyslipidemiaDrugs"
+    ],
+    "question": {
+        "text": "What effect do bile acid resins have on lipid fraction?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) ↓↓↓ LDL\n(2) ↑ TGs\n\n[Image: b2f7b72d0ea06c902ee23e25798928d1c60b1f53571e32ff84117b739c5e312c]\n\n[Image: 3410877c70b356943d45dc246063e5cf8127ccd4a26569f40a712f6dea63fc43]\n\n[Image: f25eb44750c5fd833357475e4cd173d0f2625d21d82ad2aea0ad99dce4b4d14d]",
+        "imageIds": [
+            "b2f7b72d0ea06c902ee23e25798928d1c60b1f53571e32ff84117b739c5e312c",
+            "3410877c70b356943d45dc246063e5cf8127ccd4a26569f40a712f6dea63fc43",
+            "f25eb44750c5fd833357475e4cd173d0f2625d21d82ad2aea0ad99dce4b4d14d"
+        ]
+    },
+    "images": {
+        "3410877c70b356943d45dc246063e5cf8127ccd4a26569f40a712f6dea63fc43": {
+            "file": "images/3410877c70b356943d45dc246063e5cf8127ccd4a26569f40a712f6dea63fc43.jpg",
+            "filename": "paste-139526307577859.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61649
+        },
+        "b2f7b72d0ea06c902ee23e25798928d1c60b1f53571e32ff84117b739c5e312c": {
+            "file": "images/b2f7b72d0ea06c902ee23e25798928d1c60b1f53571e32ff84117b739c5e312c.jpg",
+            "filename": "paste-164359808483331.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55293
+        },
+        "f25eb44750c5fd833357475e4cd173d0f2625d21d82ad2aea0ad99dce4b4d14d": {
+            "file": "images/f25eb44750c5fd833357475e4cd173d0f2625d21d82ad2aea0ad99dce4b4d14d.jpg",
+            "filename": "paste-137954349547523.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66315
+        }
+    }
+}

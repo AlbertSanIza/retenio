@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480303393950",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480303393950",
+        "noteId": "1480302756081",
+        "noteGuid": "G@alyBYtFv",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.5 - Monobactams & Carbapenems",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.5-Monobactams_&_Carbapenems",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "Which drug class is indicated against organisms which synthesize extended spectrum β-lactamase inhibitors?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Monobactams\n\n[Image: 12adba405296966165baf720465b28ffa5f3280521bec30b4e48161cda090fc1]",
+        "imageIds": [
+            "12adba405296966165baf720465b28ffa5f3280521bec30b4e48161cda090fc1"
+        ]
+    },
+    "images": {
+        "12adba405296966165baf720465b28ffa5f3280521bec30b4e48161cda090fc1": {
+            "file": "images/12adba405296966165baf720465b28ffa5f3280521bec30b4e48161cda090fc1.jpg",
+            "filename": "paste-105381317574659.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47610
+        }
+    }
+}

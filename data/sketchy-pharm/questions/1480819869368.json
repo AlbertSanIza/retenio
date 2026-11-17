@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480819869368",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480819869368",
+        "noteId": "1480817330855",
+        "noteGuid": "JorE&S@rr3",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::4 Other Antibiotics::4.1 - Trimethoprim/Sulfamethoxazole",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(4)-Other_Antibiotics::4.1-Trimethoprim/Sulfamethoxazole",
+        "$$Antimicrobials",
+        "$Other_Antibiotics"
+    ],
+    "question": {
+        "text": "Treatment: Toxoplasma gondii",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Pyrimethamine\n(2) + Sulfadiazine\n\n(TMP-SMX is preferred for PROPHYLAXIS, whereas Pyrimethamine-Sulfadiazine is preferred against an active infection)\n\n[Image: cbabcbc5050bb0fd8b5f6978bc8aa3c5b2f0cc76b7def115c07e594b28909a6d]\n\n[Image: 916ac143e5337ee6a2be8a53e547d86f9387cf5b076554a0431bb3616c158f22]",
+        "imageIds": [
+            "cbabcbc5050bb0fd8b5f6978bc8aa3c5b2f0cc76b7def115c07e594b28909a6d",
+            "916ac143e5337ee6a2be8a53e547d86f9387cf5b076554a0431bb3616c158f22"
+        ]
+    },
+    "images": {
+        "916ac143e5337ee6a2be8a53e547d86f9387cf5b076554a0431bb3616c158f22": {
+            "file": "images/916ac143e5337ee6a2be8a53e547d86f9387cf5b076554a0431bb3616c158f22.jpg",
+            "filename": "paste-203903572377603.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54887
+        },
+        "cbabcbc5050bb0fd8b5f6978bc8aa3c5b2f0cc76b7def115c07e594b28909a6d": {
+            "file": "images/cbabcbc5050bb0fd8b5f6978bc8aa3c5b2f0cc76b7def115c07e594b28909a6d.jpg",
+            "filename": "paste-203757543489539.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53993
+        }
+    }
+}

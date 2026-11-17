@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480307995668",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480307995668",
+        "noteId": "1480306961331",
+        "noteGuid": "Lpn4BX|*1X",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.1 - NRTIs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.1-NRTIs",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "How are nucleoside NRTIs activated?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Phosphorylation\n\n[Image: 4f97bc7f3a6e246a7b8d7505d4d8d367728234daf8b4c18f0defa1e4e6999950]",
+        "imageIds": [
+            "4f97bc7f3a6e246a7b8d7505d4d8d367728234daf8b4c18f0defa1e4e6999950"
+        ]
+    },
+    "images": {
+        "4f97bc7f3a6e246a7b8d7505d4d8d367728234daf8b4c18f0defa1e4e6999950": {
+            "file": "images/4f97bc7f3a6e246a7b8d7505d4d8d367728234daf8b4c18f0defa1e4e6999950.jpg",
+            "filename": "paste-115422951112707.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44413
+        }
+    }
+}

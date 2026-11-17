@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480299594641",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480299594641",
+        "noteId": "1480298206862",
+        "noteGuid": "n}<zAn6=@Y",
+        "modelId": "1475688242543",
+        "templateOrdinal": 14
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.3 - Opiates, naloxone, naltrexone",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.3-Opiates,Naloxone,Naltrexone",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "Indications (3) : Naltrexone (unrelated to heroin)",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Alcohol addiction\n(2) Nicotine addiction\n\n(3) Weight loss\n\n[Image: 8f2d72fc9b2d0bcac11247a1ab2df90e2de28987c54c017383ca2a7a911c80d2]\n\n[Image: 88104b5e5fbba74825d3d69685ee3e6f480a0fa295ec6c43ed25710b08c640dc]",
+        "imageIds": [
+            "8f2d72fc9b2d0bcac11247a1ab2df90e2de28987c54c017383ca2a7a911c80d2",
+            "88104b5e5fbba74825d3d69685ee3e6f480a0fa295ec6c43ed25710b08c640dc"
+        ]
+    },
+    "images": {
+        "88104b5e5fbba74825d3d69685ee3e6f480a0fa295ec6c43ed25710b08c640dc": {
+            "file": "images/88104b5e5fbba74825d3d69685ee3e6f480a0fa295ec6c43ed25710b08c640dc.jpg",
+            "filename": "paste-93428423589891.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 68970
+        },
+        "8f2d72fc9b2d0bcac11247a1ab2df90e2de28987c54c017383ca2a7a911c80d2": {
+            "file": "images/8f2d72fc9b2d0bcac11247a1ab2df90e2de28987c54c017383ca2a7a911c80d2.jpg",
+            "filename": "paste-93286689669123.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 69509
+        }
+    }
+}

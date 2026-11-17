@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475795781819",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475795781819",
+        "noteId": "1475794790683",
+        "noteGuid": "l!ym7T{M~Z",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.2 - Tricyclic antidepressants",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.2-TCAs",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "Describe the mechanism of arrhythmia in a TCA overdose",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Inhibition of cardiac fast Na+ channels\n\n(∝ Class IC antiarrhythmic)\n\n[Image: f62a9f6955955c09802a1db2ffc1f8aae9bee6979f9590fa934153578fdad61c]\n\n[Image: ab4b39a4293c72dcd510e75b4bdbf5d27aa388265e832d35509c89a7deeb3f18]",
+        "imageIds": [
+            "f62a9f6955955c09802a1db2ffc1f8aae9bee6979f9590fa934153578fdad61c",
+            "ab4b39a4293c72dcd510e75b4bdbf5d27aa388265e832d35509c89a7deeb3f18"
+        ]
+    },
+    "images": {
+        "ab4b39a4293c72dcd510e75b4bdbf5d27aa388265e832d35509c89a7deeb3f18": {
+            "file": "images/ab4b39a4293c72dcd510e75b4bdbf5d27aa388265e832d35509c89a7deeb3f18.jpg",
+            "filename": "paste-23871428231171.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 39666
+        },
+        "f62a9f6955955c09802a1db2ffc1f8aae9bee6979f9590fa934153578fdad61c": {
+            "file": "images/f62a9f6955955c09802a1db2ffc1f8aae9bee6979f9590fa934153578fdad61c.jpg",
+            "filename": "paste-21869973471235.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56874
+        }
+    }
+}

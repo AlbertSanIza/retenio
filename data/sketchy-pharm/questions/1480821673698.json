@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480821673698",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480821673698",
+        "noteId": "1480821057791",
+        "noteGuid": "dR)O:O`t)>",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::4 Other Antibiotics::4.2 - Fluoroquinolones",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(4)-Other_Antibiotics::4.2-Flouroquinolones",
+        "$$Antimicrobials",
+        "$Other_Antibiotics"
+    ],
+    "question": {
+        "text": "Name 2 gram (+) organisms which can be treated with Flouroquinolones",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Bacillus anthracis\n(2) Strep. pneumoniae\n\n(Levofloxacin and Moxifloxacin are the respiratory flouroquinolones)\n\n[Image: 923a41438860e3ec0ae0beb1282927f051dce8aa89102552fa5f8389784f00f1]\n\n[Image: f5ad623df069198557876bd2781a5f98ee4b7f15e96e195d4ad88cdae738aa11]",
+        "imageIds": [
+            "923a41438860e3ec0ae0beb1282927f051dce8aa89102552fa5f8389784f00f1",
+            "f5ad623df069198557876bd2781a5f98ee4b7f15e96e195d4ad88cdae738aa11"
+        ]
+    },
+    "images": {
+        "923a41438860e3ec0ae0beb1282927f051dce8aa89102552fa5f8389784f00f1": {
+            "file": "images/923a41438860e3ec0ae0beb1282927f051dce8aa89102552fa5f8389784f00f1.jpg",
+            "filename": "paste-226396316106755.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 39820
+        },
+        "f5ad623df069198557876bd2781a5f98ee4b7f15e96e195d4ad88cdae738aa11": {
+            "file": "images/f5ad623df069198557876bd2781a5f98ee4b7f15e96e195d4ad88cdae738aa11.jpg",
+            "filename": "paste-226572409765891.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 41423
+        }
+    }
+}

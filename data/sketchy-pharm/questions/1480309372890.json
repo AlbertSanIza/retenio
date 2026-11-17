@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480309372890",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480309372890",
+        "noteId": "1480309209169",
+        "noteGuid": "t(.L7mj0T?",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.4 - Maraviroc, fusion inhibitors, integrase inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.4-Maraviroc,Fusion_Inhibitors,_&_Integrase_Inhibitors",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "MOA: Enfuvirtide",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Binds gp41 ⇒ Inhibits fusion\n\n[Image: d48d900847ee61d1c6a09c88e99c7ad5ba1b3caf1c09139be09c30117f190286]",
+        "imageIds": [
+            "d48d900847ee61d1c6a09c88e99c7ad5ba1b3caf1c09139be09c30117f190286"
+        ]
+    },
+    "images": {
+        "d48d900847ee61d1c6a09c88e99c7ad5ba1b3caf1c09139be09c30117f190286": {
+            "file": "images/d48d900847ee61d1c6a09c88e99c7ad5ba1b3caf1c09139be09c30117f190286.jpg",
+            "filename": "paste-122054380617731.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52157
+        }
+    }
+}

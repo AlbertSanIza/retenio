@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475690805196",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475690805196",
+        "noteId": "1475689796727",
+        "noteGuid": "kCV^~E(MCS",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::1 Heart Failure Drugs::1.1 - Digoxin, milrinone, nesiritide",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(1)-Heart_Failure_Drugs::1.1-Digoxin,Milrinone,Nesiritide",
+        "$$Cardiovascular_&_Renal",
+        "$HeartFailureDrugs"
+    ],
+    "question": {
+        "text": "Treatment: Digoxin toxicity",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "anti-Digoxin Fabs\n\n(Mg2+ also helpful)\n\n[Image: 498569a36b6de7f5198953d0a4adcfd0475e515eef888ec72f1e842b1faa9e05]",
+        "imageIds": [
+            "498569a36b6de7f5198953d0a4adcfd0475e515eef888ec72f1e842b1faa9e05"
+        ]
+    },
+    "images": {
+        "498569a36b6de7f5198953d0a4adcfd0475e515eef888ec72f1e842b1faa9e05": {
+            "file": "images/498569a36b6de7f5198953d0a4adcfd0475e515eef888ec72f1e842b1faa9e05.jpg",
+            "filename": "paste-42335492636675.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58495
+        }
+    }
+}

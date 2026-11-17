@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476238755341",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476238755341",
+        "noteId": "1476236480934",
+        "noteGuid": "cj@yKLEX0c",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.4 - K+ sparing diuretics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.4-Potassium_Sparing_Diuretics",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "Which K+ sparing diuretics directly inhibit Na+ channels?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Amiloride\n(2) Triamterene\n\n[Image: 2057acd7f4985d8e1a9682646e990ee06d7987291637ee8d54f78585957ea12e]",
+        "imageIds": [
+            "2057acd7f4985d8e1a9682646e990ee06d7987291637ee8d54f78585957ea12e"
+        ]
+    },
+    "images": {
+        "2057acd7f4985d8e1a9682646e990ee06d7987291637ee8d54f78585957ea12e": {
+            "file": "images/2057acd7f4985d8e1a9682646e990ee06d7987291637ee8d54f78585957ea12e.jpg",
+            "filename": "paste-94270237179907.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55739
+        }
+    }
+}

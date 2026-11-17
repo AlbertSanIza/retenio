@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475707071647",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475707071647",
+        "noteId": "1475705886299",
+        "noteGuid": "K{:IknGMa;",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::1 Vasoactive::1.1 - Nitrates",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(1)-Vasoactive::1.1-Nitrates",
+        "$$Smooth_Muscle",
+        "$Vasoactive"
+    ],
+    "question": {
+        "text": "What type of heart disease are nitrates contraindicated in?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Hypertrophic cardiomyopathy\n\n(↓ Chamber vol. exacerbates outflow obstruction and mitral regurgitation)\n\n[Image: 56f89c096abfa32e5c8c73bae58f4d0893046909af82ce69a4cf991a4541e51c]",
+        "imageIds": [
+            "56f89c096abfa32e5c8c73bae58f4d0893046909af82ce69a4cf991a4541e51c"
+        ]
+    },
+    "images": {
+        "56f89c096abfa32e5c8c73bae58f4d0893046909af82ce69a4cf991a4541e51c": {
+            "file": "images/56f89c096abfa32e5c8c73bae58f4d0893046909af82ce69a4cf991a4541e51c.jpg",
+            "filename": "paste-46179488366595.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 71891
+        }
+    }
+}

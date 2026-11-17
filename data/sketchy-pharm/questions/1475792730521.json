@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475792730521",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475792730521",
+        "noteId": "1475792044077",
+        "noteGuid": "qVcCznMNv/",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::1 Sedative-hypnotics::1.1 - Benzodiazepines, flumazenil",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(1)-Sedatives_&_Hypnotics::1.1-Benzodiazepines,Flumazenil",
+        "$$Neuro/Psych",
+        "$Sedatives&Hypnotics"
+    ],
+    "question": {
+        "text": "Why are benzodiazepines useful for conscious sedation?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Induce anterograde amnesia\n\n[Image: 8bd16b0dc2aafe5ea000e2d606fc2b10e52405076ab34b877ea53bf1085df223]",
+        "imageIds": [
+            "8bd16b0dc2aafe5ea000e2d606fc2b10e52405076ab34b877ea53bf1085df223"
+        ]
+    },
+    "images": {
+        "8bd16b0dc2aafe5ea000e2d606fc2b10e52405076ab34b877ea53bf1085df223": {
+            "file": "images/8bd16b0dc2aafe5ea000e2d606fc2b10e52405076ab34b877ea53bf1085df223.jpg",
+            "filename": "paste-7821135446019.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 74732
+        }
+    }
+}

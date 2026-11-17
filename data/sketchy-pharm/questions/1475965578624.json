@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475965578624",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475965578624",
+        "noteId": "1475964798680",
+        "noteGuid": "ky(ErQ9#xE",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.5 - Class V",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.5-Class_V",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "What effect does stimulation of coronary A2 receptors have?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Vasodilation\n\n[Image: 32192c66d9dea7864f21b4b8a5da7c469cf0e53d251a074e2bc933a7fed50d3d]",
+        "imageIds": [
+            "32192c66d9dea7864f21b4b8a5da7c469cf0e53d251a074e2bc933a7fed50d3d"
+        ]
+    },
+    "images": {
+        "32192c66d9dea7864f21b4b8a5da7c469cf0e53d251a074e2bc933a7fed50d3d": {
+            "file": "images/32192c66d9dea7864f21b4b8a5da7c469cf0e53d251a074e2bc933a7fed50d3d.jpg",
+            "filename": "paste-48996986912771.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56457
+        }
+    }
+}

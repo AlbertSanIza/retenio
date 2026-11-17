@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480545922874",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480545922874",
+        "noteId": "1480544887082",
+        "noteGuid": "u<L|B!T%5S",
+        "modelId": "1475688242543",
+        "templateOrdinal": 13
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.6 - Aminoglycosides",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.6-Aminoglycosides",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "What is Enterococcus' mechanism of resistance to aminoglycosides?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Acetylation\n\n[Image: 00fb51a4c86130d96b3b73ad2d5b545f6fe03a9984b43d674ec20617e755fc3d]",
+        "imageIds": [
+            "00fb51a4c86130d96b3b73ad2d5b545f6fe03a9984b43d674ec20617e755fc3d"
+        ]
+    },
+    "images": {
+        "00fb51a4c86130d96b3b73ad2d5b545f6fe03a9984b43d674ec20617e755fc3d": {
+            "file": "images/00fb51a4c86130d96b3b73ad2d5b545f6fe03a9984b43d674ec20617e755fc3d.jpg",
+            "filename": "paste-26671746908163.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 41761
+        }
+    }
+}

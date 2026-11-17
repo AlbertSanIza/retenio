@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1481677293941",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1481677293941",
+        "noteId": "1481676393166",
+        "noteGuid": "oJpn5okB#l",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::3 Anti-inflammatory::3.1 - NSAIDs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(3)-Anti-Inflammatory_Drugs::3.1-NSAIDs",
+        "$$Blood_&_Inflammation",
+        "$Anti-inflammatory"
+    ],
+    "question": {
+        "text": "List 2 functions of COX-1",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) TXA2 ⇒ Platelet aggregation\n(2) Gastric cytoprotective prostaglandins\n\n[Image: f6348bdb2db18eba089a9b5686e9a9fc7cde0653ca2ce1f4e48749b968b09e20]\n\n[Image: c1c501d722c0d1290a1eb37396e82837872a18a3e19dd5eb7d2b5bab93d08b89]",
+        "imageIds": [
+            "f6348bdb2db18eba089a9b5686e9a9fc7cde0653ca2ce1f4e48749b968b09e20",
+            "c1c501d722c0d1290a1eb37396e82837872a18a3e19dd5eb7d2b5bab93d08b89"
+        ]
+    },
+    "images": {
+        "c1c501d722c0d1290a1eb37396e82837872a18a3e19dd5eb7d2b5bab93d08b89": {
+            "file": "images/c1c501d722c0d1290a1eb37396e82837872a18a3e19dd5eb7d2b5bab93d08b89.jpg",
+            "filename": "paste-5965709574147.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 75712
+        },
+        "f6348bdb2db18eba089a9b5686e9a9fc7cde0653ca2ce1f4e48749b968b09e20": {
+            "file": "images/f6348bdb2db18eba089a9b5686e9a9fc7cde0653ca2ce1f4e48749b968b09e20.jpg",
+            "filename": "paste-5763846111235 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 64348
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475797215293",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475797215293",
+        "noteId": "1475796463230",
+        "noteGuid": "dVn&?O~Nzk",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.4 - Bupropion, mirtazapine, trazodone",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.4-Bupropion,Mirtazapine,Trazodone",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "What is a distinctive side effect of Trazodone?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Priapism\n\n[Image: 72b9e25682071d5330b57b1913add01a40c554b808bc77e52a2080b1e22196f8]",
+        "imageIds": [
+            "72b9e25682071d5330b57b1913add01a40c554b808bc77e52a2080b1e22196f8"
+        ]
+    },
+    "images": {
+        "72b9e25682071d5330b57b1913add01a40c554b808bc77e52a2080b1e22196f8": {
+            "file": "images/72b9e25682071d5330b57b1913add01a40c554b808bc77e52a2080b1e22196f8.jpg",
+            "filename": "paste-30966714204163.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46176
+        }
+    }
+}

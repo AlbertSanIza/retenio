@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480836764150",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480836764150",
+        "noteId": "1480835348971",
+        "noteGuid": "i*mBW%(]hE",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::8 Antivirals: other::8.1 - Acyclovir, valacyclovir, famciclovir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(8)-Antivirals-Other::8.1-Acyclovir,Valacyclovir,Famiciclovir",
+        "$$Antimicrobials",
+        "$Antivirals_Others"
+    ],
+    "question": {
+        "text": "What is the rate limiting enzyme in the activation of Acyclovir?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Viral Thymidine-kinase\n\n(Note: This specific herpesvirus enzyme ∴ Acyclovir is ineffective against CMV/EBV)\n\n[Image: f58bc45cf0bf8053f70605d4c3b489cb615b55e61338173978e4b710320ca1d6]",
+        "imageIds": [
+            "f58bc45cf0bf8053f70605d4c3b489cb615b55e61338173978e4b710320ca1d6"
+        ]
+    },
+    "images": {
+        "f58bc45cf0bf8053f70605d4c3b489cb615b55e61338173978e4b710320ca1d6": {
+            "file": "images/f58bc45cf0bf8053f70605d4c3b489cb615b55e61338173978e4b710320ca1d6.jpg",
+            "filename": "paste-389244296101891.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 38499
+        }
+    }
+}

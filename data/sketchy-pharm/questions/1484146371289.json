@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484146371289",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484146371289",
+        "noteId": "1484145428631",
+        "noteGuid": "giBHBUiPlE",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::1 GI::1.1 - Antiemetic agents",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(1)-GI::1.1-Antiemetic_Agents",
+        "$$GI_&_Endocrine",
+        "$GI"
+    ],
+    "question": {
+        "text": "Which cranial nerves signal to the nucleus tractus solitarius?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) CN X\n(2) CN VIII\n\n[Image: 6b38e85d4c50127de5b22c713cf5b12e5ea4306846287e5769a68570b8836b9a]\n\n[Image: 476d9da9f299dfc3baa88e7217b19d8f392a6dbd41f0026e0a8092fe8c0c0f3c]\n\n[Image: cddcb7b539d07bcce7025b30ef1dd8cfc04d72e10ea9180bb2abddefb8694cf7]\n\n[Image: 3421f2868569d39bc1c43f5b523fb315a7e0b3becddcf319ed6c49040855db1d]",
+        "imageIds": [
+            "6b38e85d4c50127de5b22c713cf5b12e5ea4306846287e5769a68570b8836b9a",
+            "476d9da9f299dfc3baa88e7217b19d8f392a6dbd41f0026e0a8092fe8c0c0f3c",
+            "cddcb7b539d07bcce7025b30ef1dd8cfc04d72e10ea9180bb2abddefb8694cf7",
+            "3421f2868569d39bc1c43f5b523fb315a7e0b3becddcf319ed6c49040855db1d"
+        ]
+    },
+    "images": {
+        "3421f2868569d39bc1c43f5b523fb315a7e0b3becddcf319ed6c49040855db1d": {
+            "file": "images/3421f2868569d39bc1c43f5b523fb315a7e0b3becddcf319ed6c49040855db1d.jpg",
+            "filename": "paste-292156560375811.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 82785
+        },
+        "476d9da9f299dfc3baa88e7217b19d8f392a6dbd41f0026e0a8092fe8c0c0f3c": {
+            "file": "images/476d9da9f299dfc3baa88e7217b19d8f392a6dbd41f0026e0a8092fe8c0c0f3c.jpg",
+            "filename": "paste-291546675019779.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 75342
+        },
+        "6b38e85d4c50127de5b22c713cf5b12e5ea4306846287e5769a68570b8836b9a": {
+            "file": "images/6b38e85d4c50127de5b22c713cf5b12e5ea4306846287e5769a68570b8836b9a.jpg",
+            "filename": "paste-291520905216003.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 74307
+        },
+        "cddcb7b539d07bcce7025b30ef1dd8cfc04d72e10ea9180bb2abddefb8694cf7": {
+            "file": "images/cddcb7b539d07bcce7025b30ef1dd8cfc04d72e10ea9180bb2abddefb8694cf7.jpg",
+            "filename": "paste-292014826455043.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 82370
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484165278295",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484165278295",
+        "noteId": "1484162877085",
+        "noteGuid": "K^0}t0mL6T",
+        "modelId": "1475688242543",
+        "templateOrdinal": 14
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::5 Antipsychotics & Parkinson's::5.3 - Levodopa/carbidopa, entacapone, tolcapone, selegiline, ropinirole, pramipexole, amantadine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(5)-Antipsychotics_&_Parkinsons::5.3-Parkinsons_Drugs",
+        "$$Neuro/Psych",
+        "$Antipsychotics_&_Parkinsons"
+    ],
+    "question": {
+        "text": "MOA: Amantadine (in treating Parkinsons)",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) ↑ Endogenous release\n(2) Inhibiting reuptake\n\n(Very similar to amphetamines, it even sounds similar)\n\n[Image: 4757972a3926be7472e942ef88be5f8e097546cf285b6a9d8bf2e66e0ef385f6]",
+        "imageIds": [
+            "4757972a3926be7472e942ef88be5f8e097546cf285b6a9d8bf2e66e0ef385f6"
+        ]
+    },
+    "images": {
+        "4757972a3926be7472e942ef88be5f8e097546cf285b6a9d8bf2e66e0ef385f6": {
+            "file": "images/4757972a3926be7472e942ef88be5f8e097546cf285b6a9d8bf2e66e0ef385f6.jpg",
+            "filename": "paste-316264211808259.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 78983
+        }
+    }
+}

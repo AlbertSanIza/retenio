@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476062885319",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476062885319",
+        "noteId": "1476060361139",
+        "noteGuid": "z-O#q8*S,w",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::1 Vasoactive::1.3-Prostaglandins,Prostacyclin,Bosentan, PDE5 inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(1)-Vasoactive::1.3-Prostaglandins,Prostacyclin,Bosentan,PDE-5_Inhibitors",
+        "$$Smooth_Muscle",
+        "$Vasoactive"
+    ],
+    "question": {
+        "text": "Alprostadil is an analog of?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "PGE1\n\n[Image: a872336bd25f3a716ec34e3f2ec0638306131d32b3cb4c67658261683aaaa734]",
+        "imageIds": [
+            "a872336bd25f3a716ec34e3f2ec0638306131d32b3cb4c67658261683aaaa734"
+        ]
+    },
+    "images": {
+        "a872336bd25f3a716ec34e3f2ec0638306131d32b3cb4c67658261683aaaa734": {
+            "file": "images/a872336bd25f3a716ec34e3f2ec0638306131d32b3cb4c67658261683aaaa734.jpg",
+            "filename": "paste-143245749256195.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59475
+        }
+    }
+}

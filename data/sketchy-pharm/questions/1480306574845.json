@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480306574845",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480306574845",
+        "noteId": "1480305923806",
+        "noteGuid": "c7-s#c:$D:",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.6 - Vancomycin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.6-Vancomycin",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "ROA: Vancomycin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "IV\n\n(Exception: C. difficile)\n\n[Image: 6ec29c80d5eae28270ec2bbdde51e13f173a857c1db073cf1249957e13c6a8fa]",
+        "imageIds": [
+            "6ec29c80d5eae28270ec2bbdde51e13f173a857c1db073cf1249957e13c6a8fa"
+        ]
+    },
+    "images": {
+        "6ec29c80d5eae28270ec2bbdde51e13f173a857c1db073cf1249957e13c6a8fa": {
+            "file": "images/6ec29c80d5eae28270ec2bbdde51e13f173a857c1db073cf1249957e13c6a8fa.jpg",
+            "filename": "paste-112133006163971.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47980
+        }
+    }
+}

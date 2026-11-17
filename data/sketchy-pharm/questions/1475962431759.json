@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475962431759",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475962431759",
+        "noteId": "1475962037924",
+        "noteGuid": "LK=6#G=0_h",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.1 - Class I A-C",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.1-Class_I_(A-C)",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "Rank the class I antiarrhythmics in regards to Na+ channel affinity",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Highest:Class IC\n\nIntermediate: Class IA\n\nLowest:Class IB\n\n(CAB)\n\n[Image: c95db916967457846a999d0368565afe0c8a7dd9835e5664ab8a6b43808f7083]\n\n[Image: c241d8e8db1e8dbef74e8fc036c739c20c6e9f32558d67034cce778062a12780]\n\n[Image: 0c952e95e1cca4f749e658df520b1cce1226974e210159d687009037f4aefc00]",
+        "imageIds": [
+            "c95db916967457846a999d0368565afe0c8a7dd9835e5664ab8a6b43808f7083",
+            "c241d8e8db1e8dbef74e8fc036c739c20c6e9f32558d67034cce778062a12780",
+            "0c952e95e1cca4f749e658df520b1cce1226974e210159d687009037f4aefc00"
+        ]
+    },
+    "images": {
+        "0c952e95e1cca4f749e658df520b1cce1226974e210159d687009037f4aefc00": {
+            "file": "images/0c952e95e1cca4f749e658df520b1cce1226974e210159d687009037f4aefc00.jpg",
+            "filename": "paste-29678224015363.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62504
+        },
+        "c241d8e8db1e8dbef74e8fc036c739c20c6e9f32558d67034cce778062a12780": {
+            "file": "images/c241d8e8db1e8dbef74e8fc036c739c20c6e9f32558d67034cce778062a12780.jpg",
+            "filename": "paste-26581552594947.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53725
+        },
+        "c95db916967457846a999d0368565afe0c8a7dd9835e5664ab8a6b43808f7083": {
+            "file": "images/c95db916967457846a999d0368565afe0c8a7dd9835e5664ab8a6b43808f7083.jpg",
+            "filename": "paste-32087700668419.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70548
+        }
+    }
+}

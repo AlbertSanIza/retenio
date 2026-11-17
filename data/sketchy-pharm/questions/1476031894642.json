@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476031894642",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476031894642",
+        "noteId": "1476030554170",
+        "noteGuid": "m_Papk8UP1",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.3 - Antiplatelet agents",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.3-Antiplatelet_Agents",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "Which cardiovascular diseases are anti-platelet drugs used in?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Peripheral artery disease\n(2) MI and Acute coronary syndromes\n\n[Image: fe4b5b90e15d711b2d47469207226aaa93278c6707e857860e2a895ec2bc9482]\n\n[Image: 7cb6ec003cbd811c9d3fdba1dd0c30f8867b201e8c43ccd382c830d8f72e55fe]\n\n[Image: ba7ed51992cdcdb19cc16510f398c6381f8dc12b4c676c7c630887ade0a0d481]\n\n[Image: 7bc791783a7f3018027cee35fa5e0e1562fa7af2dd43210f8b976e076cf01771]",
+        "imageIds": [
+            "fe4b5b90e15d711b2d47469207226aaa93278c6707e857860e2a895ec2bc9482",
+            "7cb6ec003cbd811c9d3fdba1dd0c30f8867b201e8c43ccd382c830d8f72e55fe",
+            "ba7ed51992cdcdb19cc16510f398c6381f8dc12b4c676c7c630887ade0a0d481",
+            "7bc791783a7f3018027cee35fa5e0e1562fa7af2dd43210f8b976e076cf01771"
+        ]
+    },
+    "images": {
+        "7bc791783a7f3018027cee35fa5e0e1562fa7af2dd43210f8b976e076cf01771": {
+            "file": "images/7bc791783a7f3018027cee35fa5e0e1562fa7af2dd43210f8b976e076cf01771.jpg",
+            "filename": "paste-18884971200515.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 67893
+        },
+        "7cb6ec003cbd811c9d3fdba1dd0c30f8867b201e8c43ccd382c830d8f72e55fe": {
+            "file": "images/7cb6ec003cbd811c9d3fdba1dd0c30f8867b201e8c43ccd382c830d8f72e55fe.jpg",
+            "filename": "paste-17716740096003.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56825
+        },
+        "ba7ed51992cdcdb19cc16510f398c6381f8dc12b4c676c7c630887ade0a0d481": {
+            "file": "images/ba7ed51992cdcdb19cc16510f398c6381f8dc12b4c676c7c630887ade0a0d481.jpg",
+            "filename": "paste-18077517348867.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54972
+        },
+        "fe4b5b90e15d711b2d47469207226aaa93278c6707e857860e2a895ec2bc9482": {
+            "file": "images/fe4b5b90e15d711b2d47469207226aaa93278c6707e857860e2a895ec2bc9482.jpg",
+            "filename": "paste-17652315586563.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61559
+        }
+    }
+}

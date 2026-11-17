@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480308394942",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480308394942",
+        "noteId": "1480307995792",
+        "noteGuid": "llJTLT7ctu",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.2 - NNRTIs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.2-NNRTIs",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "Which NNRTI is most associated with CNS side effects?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Efavirenz\n\n[Image: 5196c5c2ddd1a8185a64e86e2aa49fdacfa97984c84f58cdb34c000c30f17553]",
+        "imageIds": [
+            "5196c5c2ddd1a8185a64e86e2aa49fdacfa97984c84f58cdb34c000c30f17553"
+        ]
+    },
+    "images": {
+        "5196c5c2ddd1a8185a64e86e2aa49fdacfa97984c84f58cdb34c000c30f17553": {
+            "file": "images/5196c5c2ddd1a8185a64e86e2aa49fdacfa97984c84f58cdb34c000c30f17553.jpg",
+            "filename": "paste-119490285142019.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62546
+        }
+    }
+}

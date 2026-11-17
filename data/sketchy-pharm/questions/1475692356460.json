@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475692356460",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475692356460",
+        "noteId": "1475692048852",
+        "noteGuid": "uAHoblM$cT",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::1 Heart Failure Drugs::1.2 - ACE inhibitors, ARBs, Aliskiren",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(1)-Heart_Failure_Drugs::1.2-ACE_Inhibitors,ARBs,Aliskiren",
+        "$$Cardiovascular_&_Renal",
+        "$HeartFailureDrugs"
+    ],
+    "question": {
+        "text": "What is a common initial side effect for heart failure patients started on ACE inhibitors?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Fainting\n\n(Sudden drop in AngII ⇒ Vasodilation ⇒ Syncope)\n\n[Image: e361f63fceda66432c38a0ecc7bae02718f637fa0ad796ad5b6cfe3a2a23b88b]\n\n[Image: 7b13a7749a7fe2b15519e08dcca2e45225aa7581878e7274824851c81fe7ae32]",
+        "imageIds": [
+            "e361f63fceda66432c38a0ecc7bae02718f637fa0ad796ad5b6cfe3a2a23b88b",
+            "7b13a7749a7fe2b15519e08dcca2e45225aa7581878e7274824851c81fe7ae32"
+        ]
+    },
+    "images": {
+        "7b13a7749a7fe2b15519e08dcca2e45225aa7581878e7274824851c81fe7ae32": {
+            "file": "images/7b13a7749a7fe2b15519e08dcca2e45225aa7581878e7274824851c81fe7ae32.jpg",
+            "filename": "paste-22475563859971.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 86790
+        },
+        "e361f63fceda66432c38a0ecc7bae02718f637fa0ad796ad5b6cfe3a2a23b88b": {
+            "file": "images/e361f63fceda66432c38a0ecc7bae02718f637fa0ad796ad5b6cfe3a2a23b88b.jpg",
+            "filename": "paste-52012053954563.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49551
+        }
+    }
+}

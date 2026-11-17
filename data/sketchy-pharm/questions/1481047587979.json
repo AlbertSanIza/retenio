@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1481047587979",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1481047587979",
+        "noteId": "1480284242370",
+        "noteGuid": "sm5L!@Ga^j",
+        "modelId": "1475688242543",
+        "templateOrdinal": 13
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::3 Kinase Inhibitors & Monoclonal Antibodies\n::3.1 - Imatinib, erlotinib, sorafenib, sunitinib, vemurafenib",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(3)-Kinase_Inhibitors_&_Monoclonal_Abs::3.1-Imatinib,Erlotinib,Sorafenib,Sunitinib,Vemurafenib",
+        "$$Antineoplastics",
+        "$Kinase_Inhibitors_&_MonoclonalAbs"
+    ],
+    "question": {
+        "text": "Name a tyrosine kinase inhibitor which is effective against renal cell carcinoma",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Sunitinib\n\n(Sorafenib would work too. Renal cell carcinoma often secretes EPO, so it makes sense)\n\n[Image: 19c88558e9f3bc04e4b8e4f4f3de53660d620123074443a83a3b5018c3e7dc53]",
+        "imageIds": [
+            "19c88558e9f3bc04e4b8e4f4f3de53660d620123074443a83a3b5018c3e7dc53"
+        ]
+    },
+    "images": {
+        "19c88558e9f3bc04e4b8e4f4f3de53660d620123074443a83a3b5018c3e7dc53": {
+            "file": "images/19c88558e9f3bc04e4b8e4f4f3de53660d620123074443a83a3b5018c3e7dc53.jpg",
+            "filename": "paste-79345225826307 (2).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49507
+        }
+    }
+}

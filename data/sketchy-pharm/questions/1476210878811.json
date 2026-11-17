@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476210878811",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476210878811",
+        "noteId": "1476210297974",
+        "noteGuid": "n:FNxZoP&d",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.1 - Acetazolamide, mannitol",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.1-Acetazolamide",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "Acetazolamide promotes the precipitation of what type of kidney stone?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Calcium phosphate\n\n(Tubular alkalinization shifts the HPO42- ↔ PO43- + H+ to the right ∴ ↑ [PO43-] ∴ ↑ Ca3(PO4)2 solubility product ⇒ Precipitation)\n\n[Image: 9390614183437a9fd1edef3281a32fdd58e86f43da56521db794dcfaebb7a04e]",
+        "imageIds": [
+            "9390614183437a9fd1edef3281a32fdd58e86f43da56521db794dcfaebb7a04e"
+        ]
+    },
+    "images": {
+        "9390614183437a9fd1edef3281a32fdd58e86f43da56521db794dcfaebb7a04e": {
+            "file": "images/9390614183437a9fd1edef3281a32fdd58e86f43da56521db794dcfaebb7a04e.jpg",
+            "filename": "paste-58613418688515.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53670
+        }
+    }
+}

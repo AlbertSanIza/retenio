@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480816165685",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480816165685",
+        "noteId": "1480812867870",
+        "noteGuid": "B.#W9#QCRN",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::3 Antimycobacterials::3.1 - Tuberculosis Drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(3)-Antimycobacterials::3.1-Tuberculosis_Drugs",
+        "$$Antimicrobials",
+        "$Antimycobacterials"
+    ],
+    "question": {
+        "text": "What antibiotic can be used alone to treat latent tuberculosis infections?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Isoniazid\n\n(\"Remember, Isoniazid can be used isolated\")\n\n[Image: 0fa67f35cb132af5952ba146eedcdbae661476280771f6b861b653a68bceca14]\n\n[Image: 2fbebe38fe093944a3d6a9826476cec47ea37c481ed0c1c20ba3e7617c7384b5]",
+        "imageIds": [
+            "0fa67f35cb132af5952ba146eedcdbae661476280771f6b861b653a68bceca14",
+            "2fbebe38fe093944a3d6a9826476cec47ea37c481ed0c1c20ba3e7617c7384b5"
+        ]
+    },
+    "images": {
+        "0fa67f35cb132af5952ba146eedcdbae661476280771f6b861b653a68bceca14": {
+            "file": "images/0fa67f35cb132af5952ba146eedcdbae661476280771f6b861b653a68bceca14.jpg",
+            "filename": "paste-172013440204803.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43839
+        },
+        "2fbebe38fe093944a3d6a9826476cec47ea37c481ed0c1c20ba3e7617c7384b5": {
+            "file": "images/2fbebe38fe093944a3d6a9826476cec47ea37c481ed0c1c20ba3e7617c7384b5.jpg",
+            "filename": "paste-172082159681539.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 39589
+        }
+    }
+}

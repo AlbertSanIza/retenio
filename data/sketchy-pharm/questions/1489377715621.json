@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1489377715621",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1489377715621",
+        "noteId": "1489373732673",
+        "noteGuid": "MVDX:P#kj;",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.1 - Propylthiouracil, Methimazole, Levothyroxine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.1-Propylthiouracil,Methimazole,Levothyroxine",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "MOA: Methimazole",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Inhibits TPO\n\n(Methimazole is 10x more potent than Propylthiouracil and is usually the DOC. Exception is in FIRST trimester of pregnancy)\n\n[Image: ab40c3b91ccf49706901a656f9741434ab6e4733d1e1ba7e59d1dc3115f6d03e]",
+        "imageIds": [
+            "ab40c3b91ccf49706901a656f9741434ab6e4733d1e1ba7e59d1dc3115f6d03e"
+        ]
+    },
+    "images": {
+        "ab40c3b91ccf49706901a656f9741434ab6e4733d1e1ba7e59d1dc3115f6d03e": {
+            "file": "images/ab40c3b91ccf49706901a656f9741434ab6e4733d1e1ba7e59d1dc3115f6d03e.jpg",
+            "filename": "paste-13589276524547.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 95166
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475696334078",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475696334078",
+        "noteId": "1475694860200",
+        "noteGuid": "NtP#}A1%P}",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::3 Antihypertensives::3.2 - Primary hypertension & hypertensive emergency",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(3)-Antihypertensives::3.2-Primary_Hypertension_&_Hypertensive_Emergency",
+        "$$Cardiovascular_&_Renal",
+        "$Antihypertensives"
+    ],
+    "question": {
+        "text": "How do you prevent reflex tachycardia when administering Hydralazine?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Administer β1 antagonist\n\n[Image: d3c29c802b55c078b9aec3bce1158dfa8f9601ce34498d599882a308da395186]\n\n[Image: cc90b9772e23160cb759d325bcd153e014ad680bbc847b7035974f0ecdd770de]",
+        "imageIds": [
+            "d3c29c802b55c078b9aec3bce1158dfa8f9601ce34498d599882a308da395186",
+            "cc90b9772e23160cb759d325bcd153e014ad680bbc847b7035974f0ecdd770de"
+        ]
+    },
+    "images": {
+        "cc90b9772e23160cb759d325bcd153e014ad680bbc847b7035974f0ecdd770de": {
+            "file": "images/cc90b9772e23160cb759d325bcd153e014ad680bbc847b7035974f0ecdd770de.jpg",
+            "filename": "paste-123020748259331.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48739
+        },
+        "d3c29c802b55c078b9aec3bce1158dfa8f9601ce34498d599882a308da395186": {
+            "file": "images/d3c29c802b55c078b9aec3bce1158dfa8f9601ce34498d599882a308da395186.jpg",
+            "filename": "paste-122861834469379.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48411
+        }
+    }
+}

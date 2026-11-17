@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1489377715618",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1489377715618",
+        "noteId": "1489373732673",
+        "noteGuid": "MVDX:P#kj;",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.1 - Propylthiouracil, Methimazole, Levothyroxine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.1-Propylthiouracil,Methimazole,Levothyroxine",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "Which thyroid disorder causes exophthalmos?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Graves disease\n\n[Image: a6f897c32d7c97ff6acb0738d7da244eaff164bc46beca37e814341ae5bb1a98]",
+        "imageIds": [
+            "a6f897c32d7c97ff6acb0738d7da244eaff164bc46beca37e814341ae5bb1a98"
+        ]
+    },
+    "images": {
+        "a6f897c32d7c97ff6acb0738d7da244eaff164bc46beca37e814341ae5bb1a98": {
+            "file": "images/a6f897c32d7c97ff6acb0738d7da244eaff164bc46beca37e814341ae5bb1a98.jpg",
+            "filename": "paste-11974368821251 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62232
+        }
+    }
+}

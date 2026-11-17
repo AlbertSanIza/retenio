@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476130090204",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476130090204",
+        "noteId": "1476128325499",
+        "noteGuid": "K=&GVJlRkw",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.2 - Biphosphonates, Raloxifene, Denosumab, Calcitonin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.2-Biphosphonates,Raloxifene,Denosumab,Calcitonin",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "Name 3 ways biphosphonates affect osteoclasts",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Inhibit bone adherence\n(2) Inhibit recruitment/development\n\n(3) Induce apoptosis\n\n[Image: c25b6e840964280c82f831e1da35ac968819da20e3a15b895fb030e8d46e2e29]\n\n[Image: e0f42bb6983cedcda084f1a055bee4f760c356efe95916543ed9b5dd65f4641d]\n\n[Image: 0486d6d21329c0b2dd1ebbe9c2b901aa96879406357eeb5a0688ae53ddc448b6]",
+        "imageIds": [
+            "c25b6e840964280c82f831e1da35ac968819da20e3a15b895fb030e8d46e2e29",
+            "e0f42bb6983cedcda084f1a055bee4f760c356efe95916543ed9b5dd65f4641d",
+            "0486d6d21329c0b2dd1ebbe9c2b901aa96879406357eeb5a0688ae53ddc448b6"
+        ]
+    },
+    "images": {
+        "0486d6d21329c0b2dd1ebbe9c2b901aa96879406357eeb5a0688ae53ddc448b6": {
+            "file": "images/0486d6d21329c0b2dd1ebbe9c2b901aa96879406357eeb5a0688ae53ddc448b6.jpg",
+            "filename": "paste-81170586927107.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 41231
+        },
+        "c25b6e840964280c82f831e1da35ac968819da20e3a15b895fb030e8d46e2e29": {
+            "file": "images/c25b6e840964280c82f831e1da35ac968819da20e3a15b895fb030e8d46e2e29.jpg",
+            "filename": "paste-84378927497219.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53033
+        },
+        "e0f42bb6983cedcda084f1a055bee4f760c356efe95916543ed9b5dd65f4641d": {
+            "file": "images/e0f42bb6983cedcda084f1a055bee4f760c356efe95916543ed9b5dd65f4641d.jpg",
+            "filename": "paste-81119047319555.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44789
+        }
+    }
+}

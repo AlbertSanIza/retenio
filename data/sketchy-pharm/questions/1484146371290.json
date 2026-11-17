@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484146371290",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484146371290",
+        "noteId": "1484145428631",
+        "noteGuid": "giBHBUiPlE",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::1 GI::1.1 - Antiemetic agents",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(1)-GI::1.1-Antiemetic_Agents",
+        "$$GI_&_Endocrine",
+        "$GI"
+    ],
+    "question": {
+        "text": "Which serotonin receptor mediates the vagal afferents from the GI tract?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "5-HT3\n\n[Image: a9b5c5558ea27086fd67e4f716c4a12211867468d456409b475a3966d0cbe140]",
+        "imageIds": [
+            "a9b5c5558ea27086fd67e4f716c4a12211867468d456409b475a3966d0cbe140"
+        ]
+    },
+    "images": {
+        "a9b5c5558ea27086fd67e4f716c4a12211867468d456409b475a3966d0cbe140": {
+            "file": "images/a9b5c5558ea27086fd67e4f716c4a12211867468d456409b475a3966d0cbe140.jpg",
+            "filename": "paste-291821552926723.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 74888
+        }
+    }
+}

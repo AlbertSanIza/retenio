@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484152482978",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484152482978",
+        "noteId": "1484148711756",
+        "noteGuid": "v$dEtPd[H<",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::1 GI::1.3 - Laxatives & antidiarrheal agents",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(1)-GI::1.3-Laxatives_&_Antidiarrheal_Agents",
+        "$$GI_&_Endocrine",
+        "$GI"
+    ],
+    "question": {
+        "text": "Which opioid receptor is found in high density in the GI tract?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "μ\n\n[Image: 165df22478feed3c54bec3fdc8a732cda163ca05a37c4054343e836220bbf669]",
+        "imageIds": [
+            "165df22478feed3c54bec3fdc8a732cda163ca05a37c4054343e836220bbf669"
+        ]
+    },
+    "images": {
+        "165df22478feed3c54bec3fdc8a732cda163ca05a37c4054343e836220bbf669": {
+            "file": "images/165df22478feed3c54bec3fdc8a732cda163ca05a37c4054343e836220bbf669.jpg",
+            "filename": "paste-740980642807811.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 102642
+        }
+    }
+}

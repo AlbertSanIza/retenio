@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484146371288",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484146371288",
+        "noteId": "1484145428631",
+        "noteGuid": "giBHBUiPlE",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::1 GI::1.1 - Antiemetic agents",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(1)-GI::1.1-Antiemetic_Agents",
+        "$$GI_&_Endocrine",
+        "$GI"
+    ],
+    "question": {
+        "text": "What is the neuroanatomical name for the vomiting center?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Nucleus tractus solitarius\n\n[Image: 077dbb3bd76dce273474702834c245267da82a67fc73c58032c68cbf50a2cf08]\n\n[Image: 00af9d4117a9b54352e60f37391120da683baa18257ba2022ad247552bb0ecd2]",
+        "imageIds": [
+            "077dbb3bd76dce273474702834c245267da82a67fc73c58032c68cbf50a2cf08",
+            "00af9d4117a9b54352e60f37391120da683baa18257ba2022ad247552bb0ecd2"
+        ]
+    },
+    "images": {
+        "00af9d4117a9b54352e60f37391120da683baa18257ba2022ad247552bb0ecd2": {
+            "file": "images/00af9d4117a9b54352e60f37391120da683baa18257ba2022ad247552bb0ecd2.jpg",
+            "filename": "paste-291477955543043.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 64474
+        },
+        "077dbb3bd76dce273474702834c245267da82a67fc73c58032c68cbf50a2cf08": {
+            "file": "images/077dbb3bd76dce273474702834c245267da82a67fc73c58032c68cbf50a2cf08.jpg",
+            "filename": "paste-291443595804675.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66518
+        }
+    }
+}

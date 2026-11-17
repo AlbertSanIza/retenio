@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476029652801",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476029652801",
+        "noteId": "1476028790280",
+        "noteGuid": "hTu{S)5RkV",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.2 - Warfarin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.2-Warfarin",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "What enzyme activates Vitamin K?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "VKOR\n\n[Image: 8d3b12acee5b77428600a504a61dd45b374200d87b8ce930eaf0faf7b9c5b96b]",
+        "imageIds": [
+            "8d3b12acee5b77428600a504a61dd45b374200d87b8ce930eaf0faf7b9c5b96b"
+        ]
+    },
+    "images": {
+        "8d3b12acee5b77428600a504a61dd45b374200d87b8ce930eaf0faf7b9c5b96b": {
+            "file": "images/8d3b12acee5b77428600a504a61dd45b374200d87b8ce930eaf0faf7b9c5b96b.jpg",
+            "filename": "paste-6352256630787 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53927
+        }
+    }
+}

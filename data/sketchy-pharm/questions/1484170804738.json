@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484170804738",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484170804738",
+        "noteId": "1484170558195",
+        "noteGuid": "IPW<ydy+.t",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.2 - Inhaled anesthetics, dantrolene",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.2-Inhaled_Anesthetics,Dantrolene",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "Are volatile anesthetics gaseous at room temperature?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "No\n\n[Image: 8d0237b08dc65525949d44937b4d2546df3a748abcf225c1b0997b5520cb8895]",
+        "imageIds": [
+            "8d0237b08dc65525949d44937b4d2546df3a748abcf225c1b0997b5520cb8895"
+        ]
+    },
+    "images": {
+        "8d0237b08dc65525949d44937b4d2546df3a748abcf225c1b0997b5520cb8895": {
+            "file": "images/8d0237b08dc65525949d44937b4d2546df3a748abcf225c1b0997b5520cb8895.jpg",
+            "filename": "paste-505865543090179.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60442
+        }
+    }
+}

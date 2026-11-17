@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475964331505",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475964331505",
+        "noteId": "1475963419084",
+        "noteGuid": "tV}T0_?yzP",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.3 - Class III",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.3-Class_III",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "What class III antiarrhythmic shares mechanistic features of class I-IV drugs?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Amiodorone\n\n[Image: a7d56d6f76463a1d8fce2ae0043cc8fbc1b1f933cd7c9975866d1814902239b5]",
+        "imageIds": [
+            "a7d56d6f76463a1d8fce2ae0043cc8fbc1b1f933cd7c9975866d1814902239b5"
+        ]
+    },
+    "images": {
+        "a7d56d6f76463a1d8fce2ae0043cc8fbc1b1f933cd7c9975866d1814902239b5": {
+            "file": "images/a7d56d6f76463a1d8fce2ae0043cc8fbc1b1f933cd7c9975866d1814902239b5.jpg",
+            "filename": "paste-42142219108355.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 41565
+        }
+    }
+}

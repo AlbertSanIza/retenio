@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484177029993",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484177029993",
+        "noteId": "1484175022469",
+        "noteGuid": "L&Kl!{]`hQ",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::4 Mood Stabilizers & Antiepileptic Drugs::4.6 - Ethosuximide",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(4)-Mood_Stabilizers_&_Antiepileptics::4.4-Ethosuximide",
+        "$$Neuro/Psych",
+        "$Mood_Stabilizers_&_Antiepileptics"
+    ],
+    "question": {
+        "text": "Describe an abscence seizure",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Sudden momentary lapses in awareness\n\n(Most commonly seen in children)\n\n[Image: f1b5311b21b82e17357f70df6818e8a5a06c788c58ba44e0d6d3eae7b69a29be]",
+        "imageIds": [
+            "f1b5311b21b82e17357f70df6818e8a5a06c788c58ba44e0d6d3eae7b69a29be"
+        ]
+    },
+    "images": {
+        "f1b5311b21b82e17357f70df6818e8a5a06c788c58ba44e0d6d3eae7b69a29be": {
+            "file": "images/f1b5311b21b82e17357f70df6818e8a5a06c788c58ba44e0d6d3eae7b69a29be.jpg",
+            "filename": "paste-803755884806147.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 77756
+        }
+    }
+}

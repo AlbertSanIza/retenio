@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480543970723",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480543970723",
+        "noteId": "1480543237615",
+        "noteGuid": "B[kX09:NFF",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.3 - Clindamycin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.3-Clindamycin",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "What antibiotic is indicated in treatment of pneumonia due to Bacteroides fragilis?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Clindamycin\n\n[Image: 3bbb58e229c02a8682e2d3808877ed740eba673a10ffb2b972a07af00be5fa8e]",
+        "imageIds": [
+            "3bbb58e229c02a8682e2d3808877ed740eba673a10ffb2b972a07af00be5fa8e"
+        ]
+    },
+    "images": {
+        "3bbb58e229c02a8682e2d3808877ed740eba673a10ffb2b972a07af00be5fa8e": {
+            "file": "images/3bbb58e229c02a8682e2d3808877ed740eba673a10ffb2b972a07af00be5fa8e.jpg",
+            "filename": "paste-14723147890691 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34506
+        }
+    }
+}

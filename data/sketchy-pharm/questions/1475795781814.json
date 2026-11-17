@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475795781814",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475795781814",
+        "noteId": "1475794790683",
+        "noteGuid": "l!ym7T{M~Z",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.2 - Tricyclic antidepressants",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.2-TCAs",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "Indications (5) : TCAs",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Resistant depression\n(2) Diabetic neuropathy\n\n(3) Chronic pain\n\n(4) Migraines\n\n(5) OCD\n\n[Image: 0b87870390f908d5fbaed87d11502412dd100d7ef712233f8e842f5cc4a19abc]\n\n[Image: 44604a3c67b6feef58adefab8e1078cab4809487c1826e447a24390b402f9eec]\n\n[Image: 4e7cbc4e79bf8915ec503f0cdfe41b1b6ecd690069dc9c45bb929136a5530e21]\n\n[Image: 9034a37bc944434d5f0a70fd1e4069bed7c20aaba8ef6a40fa024006abb328d7]\n\n[Image: 5815e8c8ad435db85c9c252c296308e79c91b198ab9b1bafe72ef26c19f4d945]",
+        "imageIds": [
+            "0b87870390f908d5fbaed87d11502412dd100d7ef712233f8e842f5cc4a19abc",
+            "44604a3c67b6feef58adefab8e1078cab4809487c1826e447a24390b402f9eec",
+            "4e7cbc4e79bf8915ec503f0cdfe41b1b6ecd690069dc9c45bb929136a5530e21",
+            "9034a37bc944434d5f0a70fd1e4069bed7c20aaba8ef6a40fa024006abb328d7",
+            "5815e8c8ad435db85c9c252c296308e79c91b198ab9b1bafe72ef26c19f4d945"
+        ]
+    },
+    "images": {
+        "0b87870390f908d5fbaed87d11502412dd100d7ef712233f8e842f5cc4a19abc": {
+            "file": "images/0b87870390f908d5fbaed87d11502412dd100d7ef712233f8e842f5cc4a19abc.jpg",
+            "filename": "paste-17836999180291.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43323
+        },
+        "44604a3c67b6feef58adefab8e1078cab4809487c1826e447a24390b402f9eec": {
+            "file": "images/44604a3c67b6feef58adefab8e1078cab4809487c1826e447a24390b402f9eec.jpg",
+            "filename": "paste-17948668329987 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46922
+        },
+        "4e7cbc4e79bf8915ec503f0cdfe41b1b6ecd690069dc9c45bb929136a5530e21": {
+            "file": "images/4e7cbc4e79bf8915ec503f0cdfe41b1b6ecd690069dc9c45bb929136a5530e21.jpg",
+            "filename": "paste-18008797872131.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47193
+        },
+        "5815e8c8ad435db85c9c252c296308e79c91b198ab9b1bafe72ef26c19f4d945": {
+            "file": "images/5815e8c8ad435db85c9c252c296308e79c91b198ab9b1bafe72ef26c19f4d945.jpg",
+            "filename": "paste-18395344928771.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50801
+        },
+        "9034a37bc944434d5f0a70fd1e4069bed7c20aaba8ef6a40fa024006abb328d7": {
+            "file": "images/9034a37bc944434d5f0a70fd1e4069bed7c20aaba8ef6a40fa024006abb328d7.jpg",
+            "filename": "paste-18098992185347.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46720
+        }
+    }
+}

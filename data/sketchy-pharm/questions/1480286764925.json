@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480286764925",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480286764925",
+        "noteId": "1480285917662",
+        "noteGuid": "BKzdsM>lW[",
+        "modelId": "1475688242543",
+        "templateOrdinal": 14
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::3 Kinase Inhibitors & Monoclonal Antibodies\n::3.2 - Rituximab, cetuximab, bevacizumab, alemtuzumab, trastuzumab",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(3)-Kinase_Inhibitors_&_Monoclonal_Abs::3.2-Rituximab,Cetuximab,Bevacizumab,Alemtuzumab,Trastuzumab",
+        "$$Antineoplastics",
+        "$Kinase_Inhibitors_&_MonoclonalAbsbb"
+    ],
+    "question": {
+        "text": "Adverse Effects (3) : Bevacizumab",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "(1) Bleeding\n(2) Thrombotic events\n\n(3) GI perforation\n\n[Image: 9de8fbf6d3ed1f8cdd268516e3ee07602e25b219ff61a65d21ada31c4150d1cc]\n\n[Image: e2b2681352a96a637655938bbf03b05b7896714ed2c521127e685e40701e46a4]\n\n[Image: e51415d240ce7fd7f7724208ab164438647a5f8f34ccda2824f85f8cd833903a]",
+        "imageIds": [
+            "9de8fbf6d3ed1f8cdd268516e3ee07602e25b219ff61a65d21ada31c4150d1cc",
+            "e2b2681352a96a637655938bbf03b05b7896714ed2c521127e685e40701e46a4",
+            "e51415d240ce7fd7f7724208ab164438647a5f8f34ccda2824f85f8cd833903a"
+        ]
+    },
+    "images": {
+        "9de8fbf6d3ed1f8cdd268516e3ee07602e25b219ff61a65d21ada31c4150d1cc": {
+            "file": "images/9de8fbf6d3ed1f8cdd268516e3ee07602e25b219ff61a65d21ada31c4150d1cc.jpg",
+            "filename": "paste-19743964659715.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60391
+        },
+        "e2b2681352a96a637655938bbf03b05b7896714ed2c521127e685e40701e46a4": {
+            "file": "images/e2b2681352a96a637655938bbf03b05b7896714ed2c521127e685e40701e46a4.jpg",
+            "filename": "paste-19821274071043.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61460
+        },
+        "e51415d240ce7fd7f7724208ab164438647a5f8f34ccda2824f85f8cd833903a": {
+            "file": "images/e51415d240ce7fd7f7724208ab164438647a5f8f34ccda2824f85f8cd833903a.jpg",
+            "filename": "paste-20173461389315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62990
+        }
+    }
+}

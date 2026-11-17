@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480303393942",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480303393942",
+        "noteId": "1480302756081",
+        "noteGuid": "G@alyBYtFv",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.5 - Monobactams & Carbapenems",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.5-Monobactams_&_Carbapenems",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "What drug should be used in patients with meningitis and a penicillin allergy?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Aztreonam\n\n[Image: 67019ae89d1d908ee509fae277c512dd8d8d2b82cc17ac206e89fdcb6461f634]",
+        "imageIds": [
+            "67019ae89d1d908ee509fae277c512dd8d8d2b82cc17ac206e89fdcb6461f634"
+        ]
+    },
+    "images": {
+        "67019ae89d1d908ee509fae277c512dd8d8d2b82cc17ac206e89fdcb6461f634": {
+            "file": "images/67019ae89d1d908ee509fae277c512dd8d8d2b82cc17ac206e89fdcb6461f634.jpg",
+            "filename": "paste-103835129348099 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34531
+        }
+    }
+}

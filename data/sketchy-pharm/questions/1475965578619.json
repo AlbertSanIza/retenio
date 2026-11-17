@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475965578619",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475965578619",
+        "noteId": "1475964798680",
+        "noteGuid": "ky(ErQ9#xE",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.5 - Class V",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.5-Class_V",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "What changes on EKG tracing will be present in hypokalemia?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "U wave\n\n(At the end of T wave)\n\n[Image: 40265900c81cfa7f97513b819ba003eff04d2657d6fab9f351856682e8554458]\n\n[Image: 96027cfecd5f19c769f5ebd7545199cb80381b6c6d83709bb13b1bb38476e9fa]",
+        "imageIds": [
+            "40265900c81cfa7f97513b819ba003eff04d2657d6fab9f351856682e8554458",
+            "96027cfecd5f19c769f5ebd7545199cb80381b6c6d83709bb13b1bb38476e9fa"
+        ]
+    },
+    "images": {
+        "40265900c81cfa7f97513b819ba003eff04d2657d6fab9f351856682e8554458": {
+            "file": "images/40265900c81cfa7f97513b819ba003eff04d2657d6fab9f351856682e8554458.jpg",
+            "filename": "paste-46703474376707.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50841
+        },
+        "96027cfecd5f19c769f5ebd7545199cb80381b6c6d83709bb13b1bb38476e9fa": {
+            "file": "images/96027cfecd5f19c769f5ebd7545199cb80381b6c6d83709bb13b1bb38476e9fa.jpg",
+            "filename": "paste-46750719016963.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50569
+        }
+    }
+}

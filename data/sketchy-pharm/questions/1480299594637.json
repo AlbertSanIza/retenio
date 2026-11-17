@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480299594637",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480299594637",
+        "noteId": "1480298206862",
+        "noteGuid": "n}<zAn6=@Y",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.3 - Opiates, naloxone, naltrexone",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.3-Opiates,Naloxone,Naltrexone",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "Name a long acting partial μ-agonist used to attenuate withdrawal symptoms",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Buprenorphine\n\n[Image: afc11ac707a56751898a95d7fa91bca3f0455463fffbee9a623537c170b65584]\n\n[Image: 10a2a8d583282e9057e51e98bc50e206689842d933ee9a5ee58a33c84afd4d37]",
+        "imageIds": [
+            "afc11ac707a56751898a95d7fa91bca3f0455463fffbee9a623537c170b65584",
+            "10a2a8d583282e9057e51e98bc50e206689842d933ee9a5ee58a33c84afd4d37"
+        ]
+    },
+    "images": {
+        "10a2a8d583282e9057e51e98bc50e206689842d933ee9a5ee58a33c84afd4d37": {
+            "file": "images/10a2a8d583282e9057e51e98bc50e206689842d933ee9a5ee58a33c84afd4d37.jpg",
+            "filename": "paste-92264487452675.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55172
+        },
+        "afc11ac707a56751898a95d7fa91bca3f0455463fffbee9a623537c170b65584": {
+            "file": "images/afc11ac707a56751898a95d7fa91bca3f0455463fffbee9a623537c170b65584.jpg",
+            "filename": "paste-92376156602371.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56511
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480545922869",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480545922869",
+        "noteId": "1480544887082",
+        "noteGuid": "u<L|B!T%5S",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.6 - Aminoglycosides",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.6-Aminoglycosides",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "Which aminoglycoside is active against GI luminal parasites?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "Paromycin\n\n[Image: 4a2b8c5d31674ee91b06d64edd45a2f0b26c54f1665a55de6c046ef9c0c3e5fd]\n\n[Image: 67e43c95e558a0d5a705c93967ba98a68bd2f62f75dd36e920a041b0e5d07be5]",
+        "imageIds": [
+            "4a2b8c5d31674ee91b06d64edd45a2f0b26c54f1665a55de6c046ef9c0c3e5fd",
+            "67e43c95e558a0d5a705c93967ba98a68bd2f62f75dd36e920a041b0e5d07be5"
+        ]
+    },
+    "images": {
+        "4a2b8c5d31674ee91b06d64edd45a2f0b26c54f1665a55de6c046ef9c0c3e5fd": {
+            "file": "images/4a2b8c5d31674ee91b06d64edd45a2f0b26c54f1665a55de6c046ef9c0c3e5fd.jpg",
+            "filename": "paste-24966644891651.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 33297
+        },
+        "67e43c95e558a0d5a705c93967ba98a68bd2f62f75dd36e920a041b0e5d07be5": {
+            "file": "images/67e43c95e558a0d5a705c93967ba98a68bd2f62f75dd36e920a041b0e5d07be5.jpg",
+            "filename": "paste-81978040778755.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 67892
+        }
+    }
+}
