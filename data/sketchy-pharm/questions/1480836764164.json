@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480836764164",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480836764164",
+        "noteId": "1480835348971",
+        "noteGuid": "i*mBW%(]hE",
+        "modelId": "1475688242543",
+        "templateOrdinal": 13
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::8 Antivirals: other::8.1 - Acyclovir, valacyclovir, famciclovir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(8)-Antivirals-Other::8.1-Acyclovir,Valacyclovir,Famiciclovir",
+        "$$Antimicrobials",
+        "$Antivirals_Others"
+    ],
+    "question": {
+        "text": "§\n\nAdverse Effects (2) : Acyclovir",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nAdverse Effects (2) : Acyclovir\n\n(1) Interstitial nephritis/Crystalline nephropathy\n(2) CNS effects\n\n[Image: 178e6b82d373f4b436ba09e75e9c4de75f5aae3ac78ab627138df40c180580c4]\n\n[Image: 572a2db6b5b065b89473056d4ee80df025a5b0eefb9cb00f4e9a6bb151c60fda]\n\n8.1 - Acyclovir, valacyclovir, famciclovir\n[Image: 40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b]\n\n[Image: a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1]\n\n[Image: a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35]\n\n[Image: 3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b]",
+        "imageIds": [
+            "178e6b82d373f4b436ba09e75e9c4de75f5aae3ac78ab627138df40c180580c4",
+            "572a2db6b5b065b89473056d4ee80df025a5b0eefb9cb00f4e9a6bb151c60fda",
+            "40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b",
+            "a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1",
+            "a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35",
+            "3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b"
+        ]
+    },
+    "images": {
+        "178e6b82d373f4b436ba09e75e9c4de75f5aae3ac78ab627138df40c180580c4": {
+            "file": "images/178e6b82d373f4b436ba09e75e9c4de75f5aae3ac78ab627138df40c180580c4.jpg",
+            "filename": "paste-393934400389123.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 40398
+        },
+        "3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b": {
+            "file": "images/3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b.jpg",
+            "filename": "paste-14950781157379.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 94367
+        },
+        "40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b": {
+            "file": "images/40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b.jpg",
+            "filename": "paste-383768212799491.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59940
+        },
+        "572a2db6b5b065b89473056d4ee80df025a5b0eefb9cb00f4e9a6bb151c60fda": {
+            "file": "images/572a2db6b5b065b89473056d4ee80df025a5b0eefb9cb00f4e9a6bb151c60fda.jpg",
+            "filename": "paste-394140558819331.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 41482
+        },
+        "a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1": {
+            "file": "images/a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1.jpg",
+            "filename": "paste-305286275399683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 100859
+        },
+        "a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35": {
+            "file": "images/a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35.jpg",
+            "filename": "paste-13438952669187.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 81188
+        }
+    }
+}

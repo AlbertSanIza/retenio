@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475793075876",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475793075876",
+        "noteId": "1475792730633",
+        "noteGuid": "}1|F(;)h}",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::1 Sedative-hypnotics::1.2 - Nonbenzodiazepine hypnotics, melatonin, ramelteon",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(1)-Sedatives_&_Hypnotics::1.2-Nonbenzodiazepine_Hypnotics,Melatonin,Ramelteon",
+        "$$Neuro/Psych",
+        "$Sedatives&Hypnotics"
+    ],
+    "question": {
+        "text": "§\n\nDoes alcohol bind to the same allosteric site as benzodiazepines?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nDoes alcohol bind to the same allosteric site as benzodiazepines?\n\nNo\n\n[Image: 1b90995a1fe897e76955991d02d123f8f6b75753279bd3864be5c06b92645842]\n\n1.2 - Nonbenzodiazepine hypnotics, melatonin, ramelteon\n[Image: c26e57369914287622e90ccbd794e296a902ef296815c1640698020c1992aa99]\n\n[Image: b2e336a8e131880ec626dba7cd8039faaa6d4bb85a01a024a73fd9b26685c692]",
+        "imageIds": [
+            "1b90995a1fe897e76955991d02d123f8f6b75753279bd3864be5c06b92645842",
+            "c26e57369914287622e90ccbd794e296a902ef296815c1640698020c1992aa99",
+            "b2e336a8e131880ec626dba7cd8039faaa6d4bb85a01a024a73fd9b26685c692"
+        ]
+    },
+    "images": {
+        "1b90995a1fe897e76955991d02d123f8f6b75753279bd3864be5c06b92645842": {
+            "file": "images/1b90995a1fe897e76955991d02d123f8f6b75753279bd3864be5c06b92645842.jpg",
+            "filename": "paste-8267812044803.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61975
+        },
+        "b2e336a8e131880ec626dba7cd8039faaa6d4bb85a01a024a73fd9b26685c692": {
+            "file": "images/b2e336a8e131880ec626dba7cd8039faaa6d4bb85a01a024a73fd9b26685c692.jpg",
+            "filename": "paste-158260954923011.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50982
+        },
+        "c26e57369914287622e90ccbd794e296a902ef296815c1640698020c1992aa99": {
+            "file": "images/c26e57369914287622e90ccbd794e296a902ef296815c1640698020c1992aa99.jpg",
+            "filename": "paste-825273670959105.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 119694
+        }
+    }
+}

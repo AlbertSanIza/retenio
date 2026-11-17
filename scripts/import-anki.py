@@ -1,6 +1,10 @@
 """Extract legacy .apkg cards and images using only the Python standard library.
 
-Usage: python3 scripts/import-anki.py ~/Downloads/questions.apkg
+Usage: python3 scripts/import-anki.py ~/Downloads/questions.apkg --collection sketchy-pharm
+Writes data/<collection>/collection.json, questions/<anki-card-id>.json, and images/.
+Reuse the same collection key for every export of that collection: it namespaces
+permanent question IDs. Imports refresh matching cards and retain absent cards.
+Votes, scheduling, and other user activity belong in a separate service keyed by ID.
 Supports regular card templates, conditional fields, FrontSide, text and hint
 filters. Unsupported formats/filters fail explicitly instead of losing content.
 Package reference: https://github.com/ankitects/anki/tree/main/rslib/src/import_export/package
@@ -10,6 +14,7 @@ import argparse
 import hashlib
 import json
 import re
+import shutil
 import sqlite3
 import tempfile
 import zipfile
@@ -124,20 +129,44 @@ def image_format(data):
     raise ValueError("Unsupported image format; expected JPEG, PNG, GIF or WebP")
 
 
-def extract_package(source, output):
+def write_json(path, value):
+    data = (json.dumps(value, ensure_ascii=False, indent=4) + "\n").encode("utf-8")
+    if path.exists() and path.read_bytes() == data:
+        return False
+    path.write_bytes(data)
+    return True
+
+
+def extract_package(source, data_root, collection_id, name=None):
+    if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", collection_id):
+        raise ValueError("Collection key must contain lowercase letters, digits, and single hyphens")
+    output = data_root / collection_id
     if output.exists():
-        raise ValueError(f"Output already exists: {output}. Choose a new --output directory.")
-    output.parent.mkdir(parents=True, exist_ok=True)
-    # Stage everything first: a bad package must not leave a partial catalog.
-    with zipfile.ZipFile(source) as archive, tempfile.TemporaryDirectory(dir=output.parent) as temporary:
-        staging = Path(temporary)
-        media_dir = staging / "media"
-        media_dir.mkdir()
+        manifest_path = output / "collection.json"
+        if not manifest_path.is_file():
+            raise ValueError("Existing collection is missing collection.json; refusing to overwrite")
+        existing = json.loads(manifest_path.read_text(encoding="utf-8"))
+        if existing.get("id") != collection_id or existing.get("schemaVersion") != 1:
+            raise ValueError("Existing collection identity or schema does not match")
+    data_root.mkdir(parents=True, exist_ok=True)
+    # Build a complete candidate and validate collisions before changing any live file.
+    with zipfile.ZipFile(source) as archive, tempfile.TemporaryDirectory(dir=data_root, prefix=f".{collection_id}-import-") as temporary:
+        workspace = Path(temporary)
+        staging = workspace / "candidate"
+        if output.exists():
+            shutil.copytree(output, staging)
+        else:
+            staging.mkdir()
+        media_dir = staging / "images"
+        questions_dir = staging / "questions"
+        media_dir.mkdir(exist_ok=True)
+        questions_dir.mkdir(exist_ok=True)
+        changed = False
         entries = set(archive.namelist())
         if "collection.anki21b" in entries:
             raise ValueError("Compressed Anki packages are not supported yet. Re-export with compatibility enabled.")
         collection = "collection.anki21" if "collection.anki21" in entries else "collection.anki2"
-        db_path = staging / "collection.sqlite"
+        db_path = workspace / "collection.sqlite"
         db_path.write_bytes(archive.read(collection))
         media_map = json.loads(archive.read("media"))
         if any(not re.fullmatch(r"[0-9]+", key) for key in media_map):
@@ -149,6 +178,7 @@ def extract_package(source, output):
         resolved = {}
 
         def image_reference(filename):
+            nonlocal changed
             if filename in resolved:
                 return resolved[filename]
             if filename not in by_filename:
@@ -158,8 +188,16 @@ def extract_package(source, output):
             image_id = hashlib.sha256(data).hexdigest()
             stored_name = f"{image_id}.{extension}"
             # Original names never become output paths (including ../ or absolute names).
-            (media_dir / stored_name).write_bytes(data)
-            media[image_id] = {"file": stored_name, "filename": filename, "mimeType": mime_type, "bytes": len(data)}
+            destination = media_dir / stored_name
+            if destination.exists():
+                if destination.read_bytes() != data:
+                    raise ValueError(f"Existing image has unexpected contents: {stored_name}")
+            else:
+                destination.write_bytes(data)
+                changed = True
+            # Pick a deterministic label when the same bytes have multiple names.
+            label = min(filename, media.get(image_id, {}).get("filename", filename))
+            media[image_id] = {"file": f"images/{stored_name}", "filename": label, "mimeType": mime_type, "bytes": len(data)}
             resolved[filename] = image_id
             return image_id
 
@@ -171,10 +209,12 @@ def extract_package(source, output):
             models, decks = json.loads(models_json), json.loads(decks_json)
             cards = []
             rows = db.execute("""
-                select c.id, c.nid, c.did, c.odid, c.ord, n.mid, n.flds, n.tags
+                select c.id, c.nid, c.did, c.odid, c.ord, n.mid, n.flds, n.tags, n.guid
                 from cards c join notes n on n.id = c.nid order by c.id
             """)
-            for card_id, note_id, deck_id, original_deck_id, ordinal, model_id, values, tags in rows:
+            for card_id, note_id, deck_id, original_deck_id, ordinal, model_id, values, tags, note_guid in rows:
+                if card_id <= 0 or note_id <= 0 or not note_guid:
+                    raise ValueError("Card and note identities must be present")
                 model = models[str(model_id)]
                 if model["type"] != 0:
                     raise ValueError(f"Unsupported note type: {model['name']} (cloze cards need Anki's renderer)")
@@ -192,26 +232,60 @@ def extract_package(source, output):
                 question, answer = parse_html(front, image_reference), parse_html(back, image_reference)
                 if not question["text"] or not answer["text"]:
                     raise ValueError(f"Empty question or answer for card {card_id}")
-                cards.append({"id": str(card_id), "noteId": str(note_id), "deck": deck,
-                              "tags": tags.split(), "question": question, "answer": answer})
+                cards.append({
+                    "schemaVersion": 1,
+                    "id": f"{collection_id}:{card_id}",
+                    "collectionId": collection_id,
+                    "source": {"type": "anki", "cardId": str(card_id), "noteId": str(note_id),
+                               "noteGuid": note_guid, "modelId": str(model_id), "templateOrdinal": ordinal},
+                    "deck": deck, "tags": sorted(tags.split()), "question": question, "answer": answer
+                })
             if not cards:
                 raise ValueError("Package contains no cards")
+            if len({card["id"] for card in cards}) != len(cards):
+                raise ValueError("Package contains duplicate card IDs")
         finally:
             db.close()
-        db_path.unlink()
-        catalog = {"schemaVersion": 1, "source": source.name, "cards": cards, "media": media}
-        (staging / "cards.json").write_text(json.dumps(catalog, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
-        staging.rename(output)
+        for card in cards:
+            question_file = questions_dir / f"{card['source']['cardId']}.json"
+            if question_file.exists():
+                previous = json.loads(question_file.read_text(encoding="utf-8"))
+                identity_fields = ["type", "cardId", "noteId", "noteGuid", "templateOrdinal"]
+                if (previous.get("id") != card["id"] or previous.get("collectionId") != collection_id
+                        or any(previous.get("source", {}).get(key) != card["source"][key] for key in identity_fields)):
+                    raise ValueError(f"ID collision for {card['id']}; refusing to replace a different question")
+            image_ids = sorted(set(card["question"]["imageIds"] + card["answer"]["imageIds"]))
+            card["images"] = {image_id: media[image_id] for image_id in image_ids}
+            changed = write_json(question_file, card) or changed
+        manifest = {
+            "schemaVersion": 1,
+            "id": collection_id,
+            "name": name or collection_id.replace("-", " ").title(),
+            "source": {"type": "anki-apkg"}
+        }
+        changed = write_json(staging / "collection.json", manifest) or changed
+        if changed:
+            backup = workspace / "previous"
+            if output.exists():
+                output.rename(backup)
+            try:
+                staging.rename(output)
+            except OSError:
+                if backup.exists():
+                    backup.rename(output)
+                raise
         return len(cards), len(media)
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("package", type=Path)
-    parser.add_argument("--output", type=Path, default=Path(__file__).resolve().parents[1] / "data" / "anki")
+    parser.add_argument("--collection", required=True, help="Permanent collection key, e.g. sketchy-pharm; reuse it on every import")
+    parser.add_argument("--name", help="Display name (defaults to the collection key in title case)")
+    parser.add_argument("--data-dir", type=Path, default=Path(__file__).resolve().parents[1] / "data")
     args = parser.parse_args()
     try:
-        card_count, image_count = extract_package(args.package.resolve(), args.output.resolve())
+        card_count, image_count = extract_package(args.package.resolve(), args.data_dir.resolve(), args.collection, args.name)
     except (ValueError, KeyError, sqlite3.Error, zipfile.BadZipFile) as error:
         parser.exit(1, f"Import failed: {error}\n")
-    print(f"Extracted {card_count} cards and {image_count} unique images to {args.output}")
+    print(f"Imported {card_count} questions and {image_count} referenced images into {args.data_dir / args.collection}")

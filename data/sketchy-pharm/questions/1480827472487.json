@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480827472487",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480827472487",
+        "noteId": "1480827467194",
+        "noteGuid": "BVb_d[(|[)",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::5 Antifungals::5.3 - Griseofulvin, Terbinafine, Echinocandins",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(5)-Antifungals::5.3-Griseofulvin,Terbinafine,Echinocandins",
+        "$$Antimicrobials",
+        "$Antifungals"
+    ],
+    "question": {
+        "text": "§\n\nWhere in the fungal cell are echinocandins active?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhere in the fungal cell are echinocandins active?\n\nCell wall\n\n[Image: 78c01b40061792dd5b12463948a43e3a045effb1fc206a6640936f84791b1d81]\n\n[Image: 471b1d1aefca789e37ac0237b21ded13e8484eda651bbfb4a583d4c9e6192fc5]\n\n5.3 - Griseofulvin, Terbinafine, Echinocandins\n[Image: 2d7e10caae0c230d403e7691da8c4850daa650cda0578393cf6c5320c62542c5]\n\n[Image: 9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63]\n\n[Image: 6610a1b578a676ad2726708c7e395e54397b53e9071afe193aa111ca42f50d84]\n\n[Image: af03d85a1070877db571ba7ed090440e65432000ef345f00dd46f538b7567543]",
+        "imageIds": [
+            "78c01b40061792dd5b12463948a43e3a045effb1fc206a6640936f84791b1d81",
+            "471b1d1aefca789e37ac0237b21ded13e8484eda651bbfb4a583d4c9e6192fc5",
+            "2d7e10caae0c230d403e7691da8c4850daa650cda0578393cf6c5320c62542c5",
+            "9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63",
+            "6610a1b578a676ad2726708c7e395e54397b53e9071afe193aa111ca42f50d84",
+            "af03d85a1070877db571ba7ed090440e65432000ef345f00dd46f538b7567543"
+        ]
+    },
+    "images": {
+        "2d7e10caae0c230d403e7691da8c4850daa650cda0578393cf6c5320c62542c5": {
+            "file": "images/2d7e10caae0c230d403e7691da8c4850daa650cda0578393cf6c5320c62542c5.jpg",
+            "filename": "paste-10432475561987.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 123871
+        },
+        "471b1d1aefca789e37ac0237b21ded13e8484eda651bbfb4a583d4c9e6192fc5": {
+            "file": "images/471b1d1aefca789e37ac0237b21ded13e8484eda651bbfb4a583d4c9e6192fc5.jpg",
+            "filename": "paste-178056459190275.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 88321
+        },
+        "6610a1b578a676ad2726708c7e395e54397b53e9071afe193aa111ca42f50d84": {
+            "file": "images/6610a1b578a676ad2726708c7e395e54397b53e9071afe193aa111ca42f50d84.jpg",
+            "filename": "paste-192642168127491.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 25446
+        },
+        "78c01b40061792dd5b12463948a43e3a045effb1fc206a6640936f84791b1d81": {
+            "file": "images/78c01b40061792dd5b12463948a43e3a045effb1fc206a6640936f84791b1d81.jpg",
+            "filename": "paste-172546016149507.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 90267
+        },
+        "9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63": {
+            "file": "images/9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63.jpg",
+            "filename": "paste-468138550362115.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53292
+        },
+        "af03d85a1070877db571ba7ed090440e65432000ef345f00dd46f538b7567543": {
+            "file": "images/af03d85a1070877db571ba7ed090440e65432000ef345f00dd46f538b7567543.jpg",
+            "filename": "paste-194665097723907.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59632
+        }
+    }
+}

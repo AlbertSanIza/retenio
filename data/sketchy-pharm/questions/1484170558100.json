@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484170558100",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484170558100",
+        "noteId": "1484169055669",
+        "noteGuid": "QrQ#;bxg=`",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.1 - Propofol, etomidate, ketamine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.1-Propofol,Etomidate,Ketamine",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "§\n\nWhich induction anesthetic has minimal effect on cardiac function?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhich induction anesthetic has minimal effect on cardiac function?\n\nEtomidate\n\n(Minimal changes to HR, BP, and contractility ∴ preferred for patients with heart disease)\n\n[Image: ba5edebaa9dccaf29ebced8c632cd0a4ccc534fb7719bba66a9e154975a5753c]\n\n2.1 - Propofol, etomidate, ketamine\n[Image: 258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc]\n\n[Image: 876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc]",
+        "imageIds": [
+            "ba5edebaa9dccaf29ebced8c632cd0a4ccc534fb7719bba66a9e154975a5753c",
+            "258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc",
+            "876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc"
+        ]
+    },
+    "images": {
+        "258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc": {
+            "file": "images/258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc.jpg",
+            "filename": "paste-490476675268611.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 83285
+        },
+        "876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc": {
+            "file": "images/876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc.jpg",
+            "filename": "paste-501411662004227.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 93496
+        },
+        "ba5edebaa9dccaf29ebced8c632cd0a4ccc534fb7719bba66a9e154975a5753c": {
+            "file": "images/ba5edebaa9dccaf29ebced8c632cd0a4ccc534fb7719bba66a9e154975a5753c.jpg",
+            "filename": "paste-492160302448643.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 76796
+        }
+    }
+}

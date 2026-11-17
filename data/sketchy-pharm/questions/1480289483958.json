@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480289483958",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480289483958",
+        "noteId": "1480287989907",
+        "noteGuid": "Ns&j{vB_eR",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.2 - Cisplatin, carboplatin, oxaliplatin, amifostine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(2)-DNA_&_Cellular_Division::2.2-Platin_Drugs_&_Amifostine",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "§\n\nMOA: Amifostine",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nMOA: Amifostine\n\nNeutralizes free-radicals (in kidney)\n\n[Image: e15c1a1bcf681415ac26156b492e5c5eed13c4288a992916ff22e75ae95b4d75]\n\n2.2 - Cisplatin, carboplatin, oxaliplatin, amifostine\n[Image: 39e77f32bc3c3c1d24e22b8d2a483bb424ad4524cb4c652a7d939b14cddb6eb0]\n\n[Image: 0cac665e307a95318ba64875f612cbbef8931ab8c0c1ca7e7135dcfd0a5727d6]",
+        "imageIds": [
+            "e15c1a1bcf681415ac26156b492e5c5eed13c4288a992916ff22e75ae95b4d75",
+            "39e77f32bc3c3c1d24e22b8d2a483bb424ad4524cb4c652a7d939b14cddb6eb0",
+            "0cac665e307a95318ba64875f612cbbef8931ab8c0c1ca7e7135dcfd0a5727d6"
+        ]
+    },
+    "images": {
+        "0cac665e307a95318ba64875f612cbbef8931ab8c0c1ca7e7135dcfd0a5727d6": {
+            "file": "images/0cac665e307a95318ba64875f612cbbef8931ab8c0c1ca7e7135dcfd0a5727d6.jpg",
+            "filename": "paste-179804510879747.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 10296
+        },
+        "39e77f32bc3c3c1d24e22b8d2a483bb424ad4524cb4c652a7d939b14cddb6eb0": {
+            "file": "images/39e77f32bc3c3c1d24e22b8d2a483bb424ad4524cb4c652a7d939b14cddb6eb0.jpg",
+            "filename": "paste-366274811002881.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 108353
+        },
+        "e15c1a1bcf681415ac26156b492e5c5eed13c4288a992916ff22e75ae95b4d75": {
+            "file": "images/e15c1a1bcf681415ac26156b492e5c5eed13c4288a992916ff22e75ae95b4d75.jpg",
+            "filename": "paste-32555852103683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52666
+        }
+    }
+}

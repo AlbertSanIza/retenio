@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480308394940",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480308394940",
+        "noteId": "1480307995792",
+        "noteGuid": "llJTLT7ctu",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.2 - NNRTIs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.2-NNRTIs",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "§\n\nMOA: NNRTIs",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nMOA: NNRTIs\n\nDirectly bind reverse transcriptase and inhibit enzyme\n\n[Image: fa4bde4a274736e9fddc7e52e0526a0cbe9fcc86558daf622c1fd76fabbf897a]\n\n6.2 - NNRTI\u001b\n[Image: 6e4e85cbbd0e2b918a5c150a391f96aab11a292aa42b9523fc1e2e45a413d339]\n\n[Image: be98b4216c5d68e50cd98a0356a889ff0864cfa2016f168995903e3ecf166d4a]",
+        "imageIds": [
+            "fa4bde4a274736e9fddc7e52e0526a0cbe9fcc86558daf622c1fd76fabbf897a",
+            "6e4e85cbbd0e2b918a5c150a391f96aab11a292aa42b9523fc1e2e45a413d339",
+            "be98b4216c5d68e50cd98a0356a889ff0864cfa2016f168995903e3ecf166d4a"
+        ]
+    },
+    "images": {
+        "6e4e85cbbd0e2b918a5c150a391f96aab11a292aa42b9523fc1e2e45a413d339": {
+            "file": "images/6e4e85cbbd0e2b918a5c150a391f96aab11a292aa42b9523fc1e2e45a413d339.jpg",
+            "filename": "paste-289566695096321.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 138607
+        },
+        "be98b4216c5d68e50cd98a0356a889ff0864cfa2016f168995903e3ecf166d4a": {
+            "file": "images/be98b4216c5d68e50cd98a0356a889ff0864cfa2016f168995903e3ecf166d4a.jpg",
+            "filename": "paste-544193831239683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 19209
+        },
+        "fa4bde4a274736e9fddc7e52e0526a0cbe9fcc86558daf622c1fd76fabbf897a": {
+            "file": "images/fa4bde4a274736e9fddc7e52e0526a0cbe9fcc86558daf622c1fd76fabbf897a.jpg",
+            "filename": "paste-119159572660227.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60296
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480301676604",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480301676604",
+        "noteId": "1480300461128",
+        "noteGuid": "gen6[eB!s4",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.3 - Ampicillin, Amoxicillin, Piperacillin, Ticarcillin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.3-Ampicillin,Amoxicillin,Piperacillin,Ticaracillin",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "§\n\nWhat infections is Amoxicillin used to treat?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat infections is Amoxicillin used to treat?\n\n(1) Streptococcal pharyngitis\n(2) Otitis media & Sinusitis\n\n(3) Pneumonia\n\n(4) Early lyme disease\n\n[Image: 9d20caf09609aac18b9bcebf94327f9249b5178ef0cb8c4b2d148ca323e98509]\n\n[Image: b7f77c563654a3f7f7e047327d830cb6f91d847a61ca81e368784cb216822e8c]\n\n[Image: 77f404e893359a29cd6800da4637d9c3a49872cdb9e6f00d62ac048c80784994]\n\n[Image: 491881e628dd3d39d9f2872b83e94fd016c2638337ed86a08f1aa2d23b2a2ae4]\n\n1.3 - Ampicillin, Amoxicillin, Piperacillin, Ticarcillin\n[Image: 73649876eb90940a2752e430d48e8b86fa74f357ee4b66ebcc0c785bdb3d9a75]\n\n[Image: e247dc64a8f74ff65fa3d44949043d8004ba0ee12839e32679e234e2233f2722]\n\n[Image: 8e0858281ca4bfb7a1bd12c078d95409c582c615ea7260b31a32bbb31fa1d57f]",
+        "imageIds": [
+            "9d20caf09609aac18b9bcebf94327f9249b5178ef0cb8c4b2d148ca323e98509",
+            "b7f77c563654a3f7f7e047327d830cb6f91d847a61ca81e368784cb216822e8c",
+            "77f404e893359a29cd6800da4637d9c3a49872cdb9e6f00d62ac048c80784994",
+            "491881e628dd3d39d9f2872b83e94fd016c2638337ed86a08f1aa2d23b2a2ae4",
+            "73649876eb90940a2752e430d48e8b86fa74f357ee4b66ebcc0c785bdb3d9a75",
+            "e247dc64a8f74ff65fa3d44949043d8004ba0ee12839e32679e234e2233f2722",
+            "8e0858281ca4bfb7a1bd12c078d95409c582c615ea7260b31a32bbb31fa1d57f"
+        ]
+    },
+    "images": {
+        "491881e628dd3d39d9f2872b83e94fd016c2638337ed86a08f1aa2d23b2a2ae4": {
+            "file": "images/491881e628dd3d39d9f2872b83e94fd016c2638337ed86a08f1aa2d23b2a2ae4.jpg",
+            "filename": "paste-95756295864323.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 30353
+        },
+        "73649876eb90940a2752e430d48e8b86fa74f357ee4b66ebcc0c785bdb3d9a75": {
+            "file": "images/73649876eb90940a2752e430d48e8b86fa74f357ee4b66ebcc0c785bdb3d9a75.jpg",
+            "filename": "paste-62818191671299 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 102811
+        },
+        "77f404e893359a29cd6800da4637d9c3a49872cdb9e6f00d62ac048c80784994": {
+            "file": "images/77f404e893359a29cd6800da4637d9c3a49872cdb9e6f00d62ac048c80784994.jpg",
+            "filename": "paste-95979634163713.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 33003
+        },
+        "8e0858281ca4bfb7a1bd12c078d95409c582c615ea7260b31a32bbb31fa1d57f": {
+            "file": "images/8e0858281ca4bfb7a1bd12c078d95409c582c615ea7260b31a32bbb31fa1d57f.jpg",
+            "filename": "paste-485790865948675.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 36322
+        },
+        "9d20caf09609aac18b9bcebf94327f9249b5178ef0cb8c4b2d148ca323e98509": {
+            "file": "images/9d20caf09609aac18b9bcebf94327f9249b5178ef0cb8c4b2d148ca323e98509.jpg",
+            "filename": "paste-95777770700803.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 29259
+        },
+        "b7f77c563654a3f7f7e047327d830cb6f91d847a61ca81e368784cb216822e8c": {
+            "file": "images/b7f77c563654a3f7f7e047327d830cb6f91d847a61ca81e368784cb216822e8c.jpg",
+            "filename": "paste-95902324752387.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 32321
+        },
+        "e247dc64a8f74ff65fa3d44949043d8004ba0ee12839e32679e234e2233f2722": {
+            "file": "images/e247dc64a8f74ff65fa3d44949043d8004ba0ee12839e32679e234e2233f2722.jpg",
+            "filename": "paste-328711027032067.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 77523
+        }
+    }
+}

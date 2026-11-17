@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479164740209",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479164740209",
+        "noteId": "1479164083148",
+        "noteGuid": "iA?3DF,6G1",
+        "modelId": "1475688242543",
+        "templateOrdinal": 15
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::3 Anti-inflammatory::3.2 - Gout drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(3)-Anti-Inflammatory_Drugs::3.2-Gout_Drugs",
+        "$$Blood_&_Inflammation",
+        "$Anti-inflammatory"
+    ],
+    "question": {
+        "text": "§\n\nWhat drug used to treat gout is notable for increasing the serum levels of several antibiotics?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat drug used to treat gout is notable for increasing the serum levels of several antibiotics?\n\nProbenicid\n\n[Image: 6eaf20ee0c119bd26ee8d069d0d0dbb4013a5d1c9cb4a99da4aa402ae5d59f56]\n\n3.2 - Gout Drugs\n[Image: be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df]\n\n[Image: 558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616]\n\n[Image: d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b]\n\n[Image: a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730]",
+        "imageIds": [
+            "6eaf20ee0c119bd26ee8d069d0d0dbb4013a5d1c9cb4a99da4aa402ae5d59f56",
+            "be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df",
+            "558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616",
+            "d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b",
+            "a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730"
+        ]
+    },
+    "images": {
+        "558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616": {
+            "file": "images/558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616.jpg",
+            "filename": "paste-121358595915779.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 132759
+        },
+        "6eaf20ee0c119bd26ee8d069d0d0dbb4013a5d1c9cb4a99da4aa402ae5d59f56": {
+            "file": "images/6eaf20ee0c119bd26ee8d069d0d0dbb4013a5d1c9cb4a99da4aa402ae5d59f56.jpg",
+            "filename": "paste-86414741995523.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54914
+        },
+        "a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730": {
+            "file": "images/a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730.jpg",
+            "filename": "paste-123982820933635.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34602
+        },
+        "be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df": {
+            "file": "images/be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df.jpg",
+            "filename": "paste-583518551801857.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 158251
+        },
+        "d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b": {
+            "file": "images/d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b.jpg",
+            "filename": "paste-113215337922563.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 184086
+        }
+    }
+}

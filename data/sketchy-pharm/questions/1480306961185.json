@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480306961185",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480306961185",
+        "noteId": "1480306575061",
+        "noteGuid": "N%mpUOn}i_",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.7 - Daptomycin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.7-Daptomycin",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "§\n\nIs Daptomycin effective against VRSA?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nIs Daptomycin effective against VRSA?\n\nYes\n\n[Image: 1c080c17b57d9742376639601e029993f58891f8b5f4e0df9b420b719d0782f3]\n\n1.7 - Daptomycin\n[Image: 772114ca42eabbb12d001c0fb91a080af3cb2dcf2425e6a2659b2a0e25d932d2]\n\n[Image: b29c86e99a9e017729055a5e674e0c52fc9247f3793f96dbe7bb0f6508fa5281]\n\n[Image: 903556ea94520c74fa95c0442a85c5dbc83c357a265b3eaa7a180a61f248d990]",
+        "imageIds": [
+            "1c080c17b57d9742376639601e029993f58891f8b5f4e0df9b420b719d0782f3",
+            "772114ca42eabbb12d001c0fb91a080af3cb2dcf2425e6a2659b2a0e25d932d2",
+            "b29c86e99a9e017729055a5e674e0c52fc9247f3793f96dbe7bb0f6508fa5281",
+            "903556ea94520c74fa95c0442a85c5dbc83c357a265b3eaa7a180a61f248d990"
+        ]
+    },
+    "images": {
+        "1c080c17b57d9742376639601e029993f58891f8b5f4e0df9b420b719d0782f3": {
+            "file": "images/1c080c17b57d9742376639601e029993f58891f8b5f4e0df9b420b719d0782f3.jpg",
+            "filename": "paste-114276194844675.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 41911
+        },
+        "772114ca42eabbb12d001c0fb91a080af3cb2dcf2425e6a2659b2a0e25d932d2": {
+            "file": "images/772114ca42eabbb12d001c0fb91a080af3cb2dcf2425e6a2659b2a0e25d932d2.jpg",
+            "filename": "paste-207691733532673.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 118887
+        },
+        "903556ea94520c74fa95c0442a85c5dbc83c357a265b3eaa7a180a61f248d990": {
+            "file": "images/903556ea94520c74fa95c0442a85c5dbc83c357a265b3eaa7a180a61f248d990.jpg",
+            "filename": "paste-420722111414275.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 22844
+        },
+        "b29c86e99a9e017729055a5e674e0c52fc9247f3793f96dbe7bb0f6508fa5281": {
+            "file": "images/b29c86e99a9e017729055a5e674e0c52fc9247f3793f96dbe7bb0f6508fa5281.jpg",
+            "filename": "paste-429178902020099.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 117704
+        }
+    }
+}

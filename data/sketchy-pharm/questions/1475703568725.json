@@ -1,0 +1,80 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475703568725",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475703568725",
+        "noteId": "1475702646427",
+        "noteGuid": "g#IU13^g&[",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::2 Dyslipidemia Drugs::2.2 - Cholestyramine, ezetimibe",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(2)-Dyslipidemia_Drugs::2.2-Cholestyramine,Ezetimibe",
+        "$$Blood_&_Inflammation",
+        "$DyslipidemiaDrugs"
+    ],
+    "question": {
+        "text": "§\n\nWhat type of vitamin deficiency can result from using bile acid resins?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat type of vitamin deficiency can result from using bile acid resins?\n\nFat soluble vitamin deficiency\n\n(A, D, E, K)\n\n[Image: cc5c03868a187e4bc0e297979a4422b9be4dfe6e7a328427a5e42def45d2704c]\n\n2.2 - Cholestyramine, ezetimibe\n[Image: 2322dda2cc97451bd4ab90bb4d48ffd9046228d04be4e1f1edc365d32a0865aa]\n\n[Image: 1ff2e5c8d7b65724c52932379aaaea511e9bd6b323e9d06f462e9d20c881ad43]\n\n[Image: 27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9]\n\n[Image: b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e]\n\n[Image: dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139]\n\n[Image: 88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39]",
+        "imageIds": [
+            "cc5c03868a187e4bc0e297979a4422b9be4dfe6e7a328427a5e42def45d2704c",
+            "2322dda2cc97451bd4ab90bb4d48ffd9046228d04be4e1f1edc365d32a0865aa",
+            "1ff2e5c8d7b65724c52932379aaaea511e9bd6b323e9d06f462e9d20c881ad43",
+            "27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9",
+            "b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e",
+            "dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139",
+            "88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39"
+        ]
+    },
+    "images": {
+        "1ff2e5c8d7b65724c52932379aaaea511e9bd6b323e9d06f462e9d20c881ad43": {
+            "file": "images/1ff2e5c8d7b65724c52932379aaaea511e9bd6b323e9d06f462e9d20c881ad43.jpg",
+            "filename": "paste-240672787398659.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63725
+        },
+        "2322dda2cc97451bd4ab90bb4d48ffd9046228d04be4e1f1edc365d32a0865aa": {
+            "file": "images/2322dda2cc97451bd4ab90bb4d48ffd9046228d04be4e1f1edc365d32a0865aa.jpg",
+            "filename": "paste-565307890466817.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 155083
+        },
+        "27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9": {
+            "file": "images/27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9.jpg",
+            "filename": "paste-203263622250499.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 84124
+        },
+        "88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39": {
+            "file": "images/88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39.jpg",
+            "filename": "paste-235252538671107.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 88003
+        },
+        "b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e": {
+            "file": "images/b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e.jpg",
+            "filename": "paste-230506599809027.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 80740
+        },
+        "cc5c03868a187e4bc0e297979a4422b9be4dfe6e7a328427a5e42def45d2704c": {
+            "file": "images/cc5c03868a187e4bc0e297979a4422b9be4dfe6e7a328427a5e42def45d2704c.jpg",
+            "filename": "paste-164604621619203.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60622
+        },
+        "dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139": {
+            "file": "images/dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139.jpg",
+            "filename": "paste-225266739707907.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 37177
+        }
+    }
+}

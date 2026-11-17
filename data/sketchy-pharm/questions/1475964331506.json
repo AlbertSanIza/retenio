@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475964331506",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475964331506",
+        "noteId": "1475963419084",
+        "noteGuid": "tV}T0_?yzP",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.3 - Class III",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.3-Class_III",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "§\n\nWhat β-blocker is a class III antiarrhythmic?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat β-blocker is a class III antiarrhythmic?\n\nSotalol\n\n[Image: 570bc51460eb43787f4f5592a9cb5cc778944caff01dc99b9ec914ee1c304f48]\n\n4.3 - Class III\n[Image: 69c6a857f25b4d9db05caf993274d30160588b4f22c91e884f3d30da532643d7]\n\n[Image: 54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801]\n\n[Image: 68c67db95c25755c22892a511f56c60cad5e8660dbf87b4a32dba4829039fe79]",
+        "imageIds": [
+            "570bc51460eb43787f4f5592a9cb5cc778944caff01dc99b9ec914ee1c304f48",
+            "69c6a857f25b4d9db05caf993274d30160588b4f22c91e884f3d30da532643d7",
+            "54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801",
+            "68c67db95c25755c22892a511f56c60cad5e8660dbf87b4a32dba4829039fe79"
+        ]
+    },
+    "images": {
+        "54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801": {
+            "file": "images/54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801.jpg",
+            "filename": "paste-246930554748931.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 98421
+        },
+        "570bc51460eb43787f4f5592a9cb5cc778944caff01dc99b9ec914ee1c304f48": {
+            "file": "images/570bc51460eb43787f4f5592a9cb5cc778944caff01dc99b9ec914ee1c304f48.jpg",
+            "filename": "paste-42511586295811.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48085
+        },
+        "68c67db95c25755c22892a511f56c60cad5e8660dbf87b4a32dba4829039fe79": {
+            "file": "images/68c67db95c25755c22892a511f56c60cad5e8660dbf87b4a32dba4829039fe79.jpg",
+            "filename": "paste-638515608027139.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58528
+        },
+        "69c6a857f25b4d9db05caf993274d30160588b4f22c91e884f3d30da532643d7": {
+            "file": "images/69c6a857f25b4d9db05caf993274d30160588b4f22c91e884f3d30da532643d7.jpg",
+            "filename": "paste-653814281535489.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 131376
+        }
+    }
+}

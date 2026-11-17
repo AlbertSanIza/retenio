@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475795781821",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475795781821",
+        "noteId": "1475794790683",
+        "noteGuid": "l!ym7T{M~Z",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.2 - Tricyclic antidepressants",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.2-TCAs",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "§\n\nWhich antidepressant class is associated with Torsades de Pointes?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhich antidepressant class is associated with Torsades de Pointes?\n\nTCAs\n\n[Image: ac8b7b92c2757f692f54269e0a155390cd1f81c9b34e8d48fd37a1993e6989c6]\n\n[Image: 6ea315cf4c822350ad5c99111f14a582c2cef79d30dc66b8504d21801d58afd4]\n\n3.2 - Tricyclic antidepressants\n[Image: a3f23e4dcd50b9f1834323d97fc20d54d5b0758e68c130ac40a5e8c3c947585a]\n\n[Image: 7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943]\n\n[Image: 9edbc7fc3f713d22d9b419759a69c9a11192096715a986eb50ff1b30e5048e0f]",
+        "imageIds": [
+            "ac8b7b92c2757f692f54269e0a155390cd1f81c9b34e8d48fd37a1993e6989c6",
+            "6ea315cf4c822350ad5c99111f14a582c2cef79d30dc66b8504d21801d58afd4",
+            "a3f23e4dcd50b9f1834323d97fc20d54d5b0758e68c130ac40a5e8c3c947585a",
+            "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943",
+            "9edbc7fc3f713d22d9b419759a69c9a11192096715a986eb50ff1b30e5048e0f"
+        ]
+    },
+    "images": {
+        "6ea315cf4c822350ad5c99111f14a582c2cef79d30dc66b8504d21801d58afd4": {
+            "file": "images/6ea315cf4c822350ad5c99111f14a582c2cef79d30dc66b8504d21801d58afd4.jpg",
+            "filename": "paste-34741990457347.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 148037
+        },
+        "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943": {
+            "file": "images/7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943.jpg",
+            "filename": "paste-1171594063904771.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 89818
+        },
+        "9edbc7fc3f713d22d9b419759a69c9a11192096715a986eb50ff1b30e5048e0f": {
+            "file": "images/9edbc7fc3f713d22d9b419759a69c9a11192096715a986eb50ff1b30e5048e0f.jpg",
+            "filename": "paste-179001351995395.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 89530
+        },
+        "a3f23e4dcd50b9f1834323d97fc20d54d5b0758e68c130ac40a5e8c3c947585a": {
+            "file": "images/a3f23e4dcd50b9f1834323d97fc20d54d5b0758e68c130ac40a5e8c3c947585a.jpg",
+            "filename": "paste-1189491192627201.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 128034
+        },
+        "ac8b7b92c2757f692f54269e0a155390cd1f81c9b34e8d48fd37a1993e6989c6": {
+            "file": "images/ac8b7b92c2757f692f54269e0a155390cd1f81c9b34e8d48fd37a1993e6989c6.jpg",
+            "filename": "paste-22471268892675.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57272
+        }
+    }
+}

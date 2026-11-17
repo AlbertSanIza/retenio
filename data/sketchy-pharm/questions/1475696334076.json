@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475696334076",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475696334076",
+        "noteId": "1475694860200",
+        "noteGuid": "NtP#}A1%P}",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::3 Antihypertensives::3.2 - Primary hypertension & hypertensive emergency",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(3)-Antihypertensives::3.2-Primary_Hypertension_&_Hypertensive_Emergency",
+        "$$Cardiovascular_&_Renal",
+        "$Antihypertensives"
+    ],
+    "question": {
+        "text": "§\n\nWhat are two calcium channel blockers often used in hypertensive emergency?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat are two calcium channel blockers often used in hypertensive emergency?\n\n(1) Clevidipine\n(2) Nicardipine\n\n[Image: 25a38b77d9f93d8bba7e49be0dc7f79aa76c2bba003d62ef9a5a98a415c373d0]\n\n3.2 - Primary hypertension & hypertensive emergency\n[Image: 558c8aea88389d648e7a436e46dada6c4ba4d7158519e9d31282f97d08e386fb]\n\n[Image: 527ef845c1c081f398af849bf7d8e9f8ceb5c6c73d85204b4834400f36c4e08b]\n\n[Image: 45b72dad285f9c6947b00c612fc94df93f1d5074c6cd922801c49a8f1d2f4ffb]\n\n[Image: 0e92bb92cae876485d96ea6194e6102ab2db7ce1594db214c5e6d773cc2401df]",
+        "imageIds": [
+            "25a38b77d9f93d8bba7e49be0dc7f79aa76c2bba003d62ef9a5a98a415c373d0",
+            "558c8aea88389d648e7a436e46dada6c4ba4d7158519e9d31282f97d08e386fb",
+            "527ef845c1c081f398af849bf7d8e9f8ceb5c6c73d85204b4834400f36c4e08b",
+            "45b72dad285f9c6947b00c612fc94df93f1d5074c6cd922801c49a8f1d2f4ffb",
+            "0e92bb92cae876485d96ea6194e6102ab2db7ce1594db214c5e6d773cc2401df"
+        ]
+    },
+    "images": {
+        "0e92bb92cae876485d96ea6194e6102ab2db7ce1594db214c5e6d773cc2401df": {
+            "file": "images/0e92bb92cae876485d96ea6194e6102ab2db7ce1594db214c5e6d773cc2401df.jpg",
+            "filename": "paste-686305709129731.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53533
+        },
+        "25a38b77d9f93d8bba7e49be0dc7f79aa76c2bba003d62ef9a5a98a415c373d0": {
+            "file": "images/25a38b77d9f93d8bba7e49be0dc7f79aa76c2bba003d62ef9a5a98a415c373d0.jpg",
+            "filename": "paste-122208999440387.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 42409
+        },
+        "45b72dad285f9c6947b00c612fc94df93f1d5074c6cd922801c49a8f1d2f4ffb": {
+            "file": "images/45b72dad285f9c6947b00c612fc94df93f1d5074c6cd922801c49a8f1d2f4ffb.jpg",
+            "filename": "paste-669701365563395.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53703
+        },
+        "527ef845c1c081f398af849bf7d8e9f8ceb5c6c73d85204b4834400f36c4e08b": {
+            "file": "images/527ef845c1c081f398af849bf7d8e9f8ceb5c6c73d85204b4834400f36c4e08b.jpg",
+            "filename": "paste-15131169783811.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58426
+        },
+        "558c8aea88389d648e7a436e46dada6c4ba4d7158519e9d31282f97d08e386fb": {
+            "file": "images/558c8aea88389d648e7a436e46dada6c4ba4d7158519e9d31282f97d08e386fb.jpg",
+            "filename": "paste-639413256192001.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 143058
+        }
+    }
+}

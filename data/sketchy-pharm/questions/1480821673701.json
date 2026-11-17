@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480821673701",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480821673701",
+        "noteId": "1480821057791",
+        "noteGuid": "dR)O:O`t)>",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::4 Other Antibiotics::4.2 - Fluoroquinolones",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(4)-Other_Antibiotics::4.2-Flouroquinolones",
+        "$$Antimicrobials",
+        "$Other_Antibiotics"
+    ],
+    "question": {
+        "text": "§\n\nName 2 classes of antibiotics associated with Torsades de pointes",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nName 2 classes of antibiotics associated with Torsades de pointes\n\n(1) Flouroquinolones\n(2) Macrolides\n\n[Image: 62cfcc3f5fa0940915ceeaaf313333793ce62c3523f64e1e09b14d4780245bae]\n\n[Image: b3f4fb464588acbc4754ced22874083e258dc0f7844f31dbbe6c0ce6e8ab5f84]\n\n4.2 - Fluoroquinolones\n[Image: 46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1]\n\n[Image: 84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810]\n\n[Image: 1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff]",
+        "imageIds": [
+            "62cfcc3f5fa0940915ceeaaf313333793ce62c3523f64e1e09b14d4780245bae",
+            "b3f4fb464588acbc4754ced22874083e258dc0f7844f31dbbe6c0ce6e8ab5f84",
+            "46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1",
+            "84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810",
+            "1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff"
+        ]
+    },
+    "images": {
+        "1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff": {
+            "file": "images/1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff.jpg",
+            "filename": "paste-418875275476995.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59243
+        },
+        "46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1": {
+            "file": "images/46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1.jpg",
+            "filename": "paste-257496174297089.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 119195
+        },
+        "62cfcc3f5fa0940915ceeaaf313333793ce62c3523f64e1e09b14d4780245bae": {
+            "file": "images/62cfcc3f5fa0940915ceeaaf313333793ce62c3523f64e1e09b14d4780245bae.jpg",
+            "filename": "paste-231326938562563.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43793
+        },
+        "84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810": {
+            "file": "images/84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810.jpg",
+            "filename": "paste-348472171560963.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 67900
+        },
+        "b3f4fb464588acbc4754ced22874083e258dc0f7844f31dbbe6c0ce6e8ab5f84": {
+            "file": "images/b3f4fb464588acbc4754ced22874083e258dc0f7844f31dbbe6c0ce6e8ab5f84.jpg",
+            "filename": "paste-12524124635139.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48417
+        }
+    }
+}

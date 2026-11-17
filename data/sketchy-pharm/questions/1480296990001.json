@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480296990001",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480296990001",
+        "noteId": "1480296209578",
+        "noteGuid": "j.~2cB|JJp",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::1 Antimetabolites::1.3 - Cladribine, cytarabine, gemcitabine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(1)-Antimetabolites::1.3-Cladribine,Cytarabine,Gemcitabine",
+        "$$Antineoplastics",
+        "$Antimetabolites"
+    ],
+    "question": {
+        "text": "§\n\nWhat is the difference in the type of cancers Gemcitabine and Cytarabine treat?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat is the difference in the type of cancers Gemcitabine and Cytarabine treat?\n\n(1) Gemcitabine: Hematologic AND solid tumors\n(2) Cytarabine: Only hematologic\n\n[Image: 4044ebd9acc140aa582d6989554613fb32789a4af7e86c7ffeb4385029ff3026]\n\n[Image: 96d50a49e98c935ffe2fc98a68ae5d7567401b002d8e8844940c4d0772965938]\n\n1.3 - Cladribine, cytarabine, gemcitabine\n[Image: 11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce]\n\n[Image: 517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a]",
+        "imageIds": [
+            "4044ebd9acc140aa582d6989554613fb32789a4af7e86c7ffeb4385029ff3026",
+            "96d50a49e98c935ffe2fc98a68ae5d7567401b002d8e8844940c4d0772965938",
+            "11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce",
+            "517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a"
+        ]
+    },
+    "images": {
+        "11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce": {
+            "file": "images/11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce.jpg",
+            "filename": "paste-350980432461825.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 98866
+        },
+        "4044ebd9acc140aa582d6989554613fb32789a4af7e86c7ffeb4385029ff3026": {
+            "file": "images/4044ebd9acc140aa582d6989554613fb32789a4af7e86c7ffeb4385029ff3026.jpg",
+            "filename": "paste-65949222830083.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47627
+        },
+        "517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a": {
+            "file": "images/517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a.jpg",
+            "filename": "paste-156474248527875.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 31622
+        },
+        "96d50a49e98c935ffe2fc98a68ae5d7567401b002d8e8844940c4d0772965938": {
+            "file": "images/96d50a49e98c935ffe2fc98a68ae5d7567401b002d8e8844940c4d0772965938.jpg",
+            "filename": "paste-28557237551107.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 92901
+        }
+    }
+}

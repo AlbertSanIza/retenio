@@ -1,0 +1,80 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475962431757",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475962431757",
+        "noteId": "1475962037924",
+        "noteGuid": "LK=6#G=0_h",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.1 - Class I A-C",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.1-Class_I_(A-C)",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "§\n\nWhat are the class IB antiarrhythmics?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat are the class IB antiarrhythmics?\n\n(1) Lidocaine\n(2) Phenytoin\n\n(3) Mexilitine\n\n[Image: 3a696645a62ac8c2c66a96873948a7d3829ab89ea696fb0b1fad7272ab53eb6c]\n\n[Image: 1605a6b0595a0fcabe4db12436feb524c5e87141ea2b69c8ad725a1a1866da0c]\n\n[Image: 1df8d751f789bd4680bc4d3d0aa28f04b9b43302b0744bcc36a01ee1e0085a8f]\n\n4.1 - Class I A-C\n[Image: 738c430e76dec4470186db851078490a3a51075efd684bef3901aeb427d60f40]\n\n[Image: b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c]\n\n[Image: 54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801]\n\n[Image: 79026d35323ca42dbf5588ebdebcaef015a5a5e5def4d0aadf9d75a383beb2a3]",
+        "imageIds": [
+            "3a696645a62ac8c2c66a96873948a7d3829ab89ea696fb0b1fad7272ab53eb6c",
+            "1605a6b0595a0fcabe4db12436feb524c5e87141ea2b69c8ad725a1a1866da0c",
+            "1df8d751f789bd4680bc4d3d0aa28f04b9b43302b0744bcc36a01ee1e0085a8f",
+            "738c430e76dec4470186db851078490a3a51075efd684bef3901aeb427d60f40",
+            "b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c",
+            "54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801",
+            "79026d35323ca42dbf5588ebdebcaef015a5a5e5def4d0aadf9d75a383beb2a3"
+        ]
+    },
+    "images": {
+        "1605a6b0595a0fcabe4db12436feb524c5e87141ea2b69c8ad725a1a1866da0c": {
+            "file": "images/1605a6b0595a0fcabe4db12436feb524c5e87141ea2b69c8ad725a1a1866da0c.jpg",
+            "filename": "paste-28127740821507.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61172
+        },
+        "1df8d751f789bd4680bc4d3d0aa28f04b9b43302b0744bcc36a01ee1e0085a8f": {
+            "file": "images/1df8d751f789bd4680bc4d3d0aa28f04b9b43302b0744bcc36a01ee1e0085a8f.jpg",
+            "filename": "paste-15341623181315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 83223
+        },
+        "3a696645a62ac8c2c66a96873948a7d3829ab89ea696fb0b1fad7272ab53eb6c": {
+            "file": "images/3a696645a62ac8c2c66a96873948a7d3829ab89ea696fb0b1fad7272ab53eb6c.jpg",
+            "filename": "paste-27964532064259.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54926
+        },
+        "54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801": {
+            "file": "images/54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801.jpg",
+            "filename": "paste-246930554748931.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 98421
+        },
+        "738c430e76dec4470186db851078490a3a51075efd684bef3901aeb427d60f40": {
+            "file": "images/738c430e76dec4470186db851078490a3a51075efd684bef3901aeb427d60f40.jpg",
+            "filename": "paste-644945174069249.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 148479
+        },
+        "79026d35323ca42dbf5588ebdebcaef015a5a5e5def4d0aadf9d75a383beb2a3": {
+            "file": "images/79026d35323ca42dbf5588ebdebcaef015a5a5e5def4d0aadf9d75a383beb2a3.jpg",
+            "filename": "paste-631579235844099.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 95806
+        },
+        "b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c": {
+            "file": "images/b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c.jpg",
+            "filename": "paste-63204738727939.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55713
+        }
+    }
+}

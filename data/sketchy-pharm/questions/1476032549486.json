@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476032549486",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476032549486",
+        "noteId": "1476031894774",
+        "noteGuid": "r/v.#B/vmp",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.4 - Thrombolytics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.4-Thrombolytics",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "§\n\nWhich thrombolytic can cause anaphylaxis?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhich thrombolytic can cause anaphylaxis?\n\nStreptokinase\n\n(Derived from Streptococcus ∴ foreign protein ∴ immunogenic)\n\n[Image: 27d0f6e6c189ed3b6b9a07f1171ee6569e9468b16f84287a25d4aeb1acfc1bfc]\n\n1.4 - Thrombolytics\n[Image: c97d692746fe1bbdd95df33fc5ed61a2857c0092adaea02d6e70278e6f47f486]\n\n[Image: 79bfed7172db4b9cd4194469848eaf5644bd064312603d878d78c92a9675b49a]\n\n[Image: c3fc86c8b86793b560d992764fddd3cd1374fb45c40ee17959972514c75c57ad]\n\n[Image: dcb54ca655e04fdd87a661a3fc00fccb5ceb0067d577be9ac50dfa4bff444b32]",
+        "imageIds": [
+            "27d0f6e6c189ed3b6b9a07f1171ee6569e9468b16f84287a25d4aeb1acfc1bfc",
+            "c97d692746fe1bbdd95df33fc5ed61a2857c0092adaea02d6e70278e6f47f486",
+            "79bfed7172db4b9cd4194469848eaf5644bd064312603d878d78c92a9675b49a",
+            "c3fc86c8b86793b560d992764fddd3cd1374fb45c40ee17959972514c75c57ad",
+            "dcb54ca655e04fdd87a661a3fc00fccb5ceb0067d577be9ac50dfa4bff444b32"
+        ]
+    },
+    "images": {
+        "27d0f6e6c189ed3b6b9a07f1171ee6569e9468b16f84287a25d4aeb1acfc1bfc": {
+            "file": "images/27d0f6e6c189ed3b6b9a07f1171ee6569e9468b16f84287a25d4aeb1acfc1bfc.jpg",
+            "filename": "paste-26164940767235 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 82323
+        },
+        "79bfed7172db4b9cd4194469848eaf5644bd064312603d878d78c92a9675b49a": {
+            "file": "images/79bfed7172db4b9cd4194469848eaf5644bd064312603d878d78c92a9675b49a.jpg",
+            "filename": "paste-181818850541571.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55971
+        },
+        "c3fc86c8b86793b560d992764fddd3cd1374fb45c40ee17959972514c75c57ad": {
+            "file": "images/c3fc86c8b86793b560d992764fddd3cd1374fb45c40ee17959972514c75c57ad.jpg",
+            "filename": "paste-384335148482563.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62390
+        },
+        "c97d692746fe1bbdd95df33fc5ed61a2857c0092adaea02d6e70278e6f47f486": {
+            "file": "images/c97d692746fe1bbdd95df33fc5ed61a2857c0092adaea02d6e70278e6f47f486.jpg",
+            "filename": "paste-23111219019779.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 102920
+        },
+        "dcb54ca655e04fdd87a661a3fc00fccb5ceb0067d577be9ac50dfa4bff444b32": {
+            "file": "images/dcb54ca655e04fdd87a661a3fc00fccb5ceb0067d577be9ac50dfa4bff444b32.jpg",
+            "filename": "paste-385782552461315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 79084
+        }
+    }
+}

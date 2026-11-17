@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484170804738",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484170804738",
+        "noteId": "1484170558195",
+        "noteGuid": "IPW<ydy+.t",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.2 - Inhaled anesthetics, dantrolene",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.2-Inhaled_Anesthetics,Dantrolene",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "§\n\nAre volatile anesthetics gaseous at room temperature?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nAre volatile anesthetics gaseous at room temperature?\n\nNo\n\n[Image: 8d0237b08dc65525949d44937b4d2546df3a748abcf225c1b0997b5520cb8895]\n\n2.2 - Inhaled anesthetics, dantrolene\n[Image: 841351d541bd1828e52d927251f5aacc57e51e7a1e46005a8cd8b78e8d28e735]\n\n[Image: 9778704df2765446c1484487e7b9c9e6997c463d608a23a3626bab8278b1d02d]\n\n[Image: e01e35cdcba99d0842810e410179d824206ac2f5bf7e2cc6e28ecee89d3026d8]\n\n[Image: 8406284991efa74ea239e04834e15735af6121805ec033faa0fa97cbadf4c981]\n\n[Image: befecdd7943656d961805680c16c53d71f31eb2074b6f57ac0a52a6d08aec2b1]",
+        "imageIds": [
+            "8d0237b08dc65525949d44937b4d2546df3a748abcf225c1b0997b5520cb8895",
+            "841351d541bd1828e52d927251f5aacc57e51e7a1e46005a8cd8b78e8d28e735",
+            "9778704df2765446c1484487e7b9c9e6997c463d608a23a3626bab8278b1d02d",
+            "e01e35cdcba99d0842810e410179d824206ac2f5bf7e2cc6e28ecee89d3026d8",
+            "8406284991efa74ea239e04834e15735af6121805ec033faa0fa97cbadf4c981",
+            "befecdd7943656d961805680c16c53d71f31eb2074b6f57ac0a52a6d08aec2b1"
+        ]
+    },
+    "images": {
+        "8406284991efa74ea239e04834e15735af6121805ec033faa0fa97cbadf4c981": {
+            "file": "images/8406284991efa74ea239e04834e15735af6121805ec033faa0fa97cbadf4c981.jpg",
+            "filename": "paste-611066472038403.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 29653
+        },
+        "841351d541bd1828e52d927251f5aacc57e51e7a1e46005a8cd8b78e8d28e735": {
+            "file": "images/841351d541bd1828e52d927251f5aacc57e51e7a1e46005a8cd8b78e8d28e735.jpg",
+            "filename": "paste-505796823613443.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 89900
+        },
+        "8d0237b08dc65525949d44937b4d2546df3a748abcf225c1b0997b5520cb8895": {
+            "file": "images/8d0237b08dc65525949d44937b4d2546df3a748abcf225c1b0997b5520cb8895.jpg",
+            "filename": "paste-505865543090179.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60442
+        },
+        "9778704df2765446c1484487e7b9c9e6997c463d608a23a3626bab8278b1d02d": {
+            "file": "images/9778704df2765446c1484487e7b9c9e6997c463d608a23a3626bab8278b1d02d.jpg",
+            "filename": "paste-608017045258243.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59832
+        },
+        "befecdd7943656d961805680c16c53d71f31eb2074b6f57ac0a52a6d08aec2b1": {
+            "file": "images/befecdd7943656d961805680c16c53d71f31eb2074b6f57ac0a52a6d08aec2b1.jpg",
+            "filename": "paste-44147968835587.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 179776
+        },
+        "e01e35cdcba99d0842810e410179d824206ac2f5bf7e2cc6e28ecee89d3026d8": {
+            "file": "images/e01e35cdcba99d0842810e410179d824206ac2f5bf7e2cc6e28ecee89d3026d8.jpg",
+            "filename": "paste-609537463681027.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 78221
+        }
+    }
+}

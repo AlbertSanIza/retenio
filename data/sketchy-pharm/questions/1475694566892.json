@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475694566892",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475694566892",
+        "noteId": "1475693558188",
+        "noteGuid": "k2xO-NDlof",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::3 Antihypertensives::3.1 - Calcium channel blockers",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(3)-Antihypertensives::3.1-Calcium_Channel_Blockers",
+        "$$Cardiovascular_&_Renal",
+        "$Antihypertensives"
+    ],
+    "question": {
+        "text": "§\n\nName the CCB which causes both vasodilation and an intermediate cardiac effect",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nName the CCB which causes both vasodilation and an intermediate cardiac effect\n\nDiltiazem\n\n(Diltiazem = 2 = Affects both smooth muscle and heart)\n\n[Image: 3c221e930e30ed0edc0cc16709dfa6547d390a080c3b3618c01e6c6f2286144f]\n\n3.1 - Calcium channel blockers\n[Image: 2df432313245803a33c91257644f7112990e8a140e530cb65543d93968ad38ad]\n\n[Image: 976514cac00f671ceada131d78161259e7b71f87b223859170924c10f329b1f1]\n\n[Image: 145563c70e7a6531194e688944937bc88523bdc536f6491f5d4d11e642f621a6]",
+        "imageIds": [
+            "3c221e930e30ed0edc0cc16709dfa6547d390a080c3b3618c01e6c6f2286144f",
+            "2df432313245803a33c91257644f7112990e8a140e530cb65543d93968ad38ad",
+            "976514cac00f671ceada131d78161259e7b71f87b223859170924c10f329b1f1",
+            "145563c70e7a6531194e688944937bc88523bdc536f6491f5d4d11e642f621a6"
+        ]
+    },
+    "images": {
+        "145563c70e7a6531194e688944937bc88523bdc536f6491f5d4d11e642f621a6": {
+            "file": "images/145563c70e7a6531194e688944937bc88523bdc536f6491f5d4d11e642f621a6.jpg",
+            "filename": "paste-60816736911363 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59355
+        },
+        "2df432313245803a33c91257644f7112990e8a140e530cb65543d93968ad38ad": {
+            "file": "images/2df432313245803a33c91257644f7112990e8a140e530cb65543d93968ad38ad.jpg",
+            "filename": "paste-634001597399041.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 148325
+        },
+        "3c221e930e30ed0edc0cc16709dfa6547d390a080c3b3618c01e6c6f2286144f": {
+            "file": "images/3c221e930e30ed0edc0cc16709dfa6547d390a080c3b3618c01e6c6f2286144f.jpg",
+            "filename": "paste-110092896698371.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 42748
+        },
+        "976514cac00f671ceada131d78161259e7b71f87b223859170924c10f329b1f1": {
+            "file": "images/976514cac00f671ceada131d78161259e7b71f87b223859170924c10f329b1f1.jpg",
+            "filename": "paste-666785082769411.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60858
+        }
+    }
+}

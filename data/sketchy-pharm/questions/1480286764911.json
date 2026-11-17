@@ -1,0 +1,87 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480286764911",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480286764911",
+        "noteId": "1480285917662",
+        "noteGuid": "BKzdsM>lW[",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::3 Kinase Inhibitors & Monoclonal Antibodies\n::3.2 - Rituximab, cetuximab, bevacizumab, alemtuzumab, trastuzumab",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(3)-Kinase_Inhibitors_&_Monoclonal_Abs::3.2-Rituximab,Cetuximab,Bevacizumab,Alemtuzumab,Trastuzumab",
+        "$$Antineoplastics",
+        "$Kinase_Inhibitors_&_MonoclonalAbsbb"
+    ],
+    "question": {
+        "text": "§\n\nMOA: Rituximab",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nMOA: Rituximab\n\nanti-CD20\n\n(⇒ Complement mediated lysis and antibody dependent cell cytotoxicity)\n\n[Image: 7bab8cce0df26f91030c63701a4ef38073872a4b04948514498cd12b26b19a32]\n\n[Image: 35693bdb04a40a1cc579dfe44b73bac4f07ae4ee35d7a9b7d4a8391788d073e3]\n\n[Image: 96cf04961a5be54e329b83f2554ffdef76387bfd793aadaf4534eb5c43fba882]\n\n3.2 - Rituximab, cetuximab, bevacizumab, alemtuzumab, trastuzumab\n[Image: 78a3e5812b6b01cdf56b21c2dfa38b5f9a0a529350b6e0f9cec1fbc74081ae53]\n\n[Image: 9b62b45e65e980af4dabaab4824877160f66c7b4451ec31f26902f9f7b7dc09c]\n\n[Image: 77764fe2fafd0c5b5cc932c05fed9c385f31db6a88a3a2ea8cc6861ff68bf055]\n\n[Image: 187e7892c5c87c734265e9ff1612493208af791f9bdb0878077012f6a004fcc9]\n\n[Image: 0e4e85539937cdc2a012cad4670c08900808f5a50a54ce2895e466b08f771374]",
+        "imageIds": [
+            "7bab8cce0df26f91030c63701a4ef38073872a4b04948514498cd12b26b19a32",
+            "35693bdb04a40a1cc579dfe44b73bac4f07ae4ee35d7a9b7d4a8391788d073e3",
+            "96cf04961a5be54e329b83f2554ffdef76387bfd793aadaf4534eb5c43fba882",
+            "78a3e5812b6b01cdf56b21c2dfa38b5f9a0a529350b6e0f9cec1fbc74081ae53",
+            "9b62b45e65e980af4dabaab4824877160f66c7b4451ec31f26902f9f7b7dc09c",
+            "77764fe2fafd0c5b5cc932c05fed9c385f31db6a88a3a2ea8cc6861ff68bf055",
+            "187e7892c5c87c734265e9ff1612493208af791f9bdb0878077012f6a004fcc9",
+            "0e4e85539937cdc2a012cad4670c08900808f5a50a54ce2895e466b08f771374"
+        ]
+    },
+    "images": {
+        "0e4e85539937cdc2a012cad4670c08900808f5a50a54ce2895e466b08f771374": {
+            "file": "images/0e4e85539937cdc2a012cad4670c08900808f5a50a54ce2895e466b08f771374.jpg",
+            "filename": "paste-34540126994435.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 41487
+        },
+        "187e7892c5c87c734265e9ff1612493208af791f9bdb0878077012f6a004fcc9": {
+            "file": "images/187e7892c5c87c734265e9ff1612493208af791f9bdb0878077012f6a004fcc9.jpg",
+            "filename": "paste-34398393073667.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 27319
+        },
+        "35693bdb04a40a1cc579dfe44b73bac4f07ae4ee35d7a9b7d4a8391788d073e3": {
+            "file": "images/35693bdb04a40a1cc579dfe44b73bac4f07ae4ee35d7a9b7d4a8391788d073e3.jpg",
+            "filename": "paste-10698763534339.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50575
+        },
+        "77764fe2fafd0c5b5cc932c05fed9c385f31db6a88a3a2ea8cc6861ff68bf055": {
+            "file": "images/77764fe2fafd0c5b5cc932c05fed9c385f31db6a88a3a2ea8cc6861ff68bf055.jpg",
+            "filename": "paste-34359738368003.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 25224
+        },
+        "78a3e5812b6b01cdf56b21c2dfa38b5f9a0a529350b6e0f9cec1fbc74081ae53": {
+            "file": "images/78a3e5812b6b01cdf56b21c2dfa38b5f9a0a529350b6e0f9cec1fbc74081ae53.jpg",
+            "filename": "paste-390537081257985.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 140132
+        },
+        "7bab8cce0df26f91030c63701a4ef38073872a4b04948514498cd12b26b19a32": {
+            "file": "images/7bab8cce0df26f91030c63701a4ef38073872a4b04948514498cd12b26b19a32.jpg",
+            "filename": "paste-10664403795971.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50399
+        },
+        "96cf04961a5be54e329b83f2554ffdef76387bfd793aadaf4534eb5c43fba882": {
+            "file": "images/96cf04961a5be54e329b83f2554ffdef76387bfd793aadaf4534eb5c43fba882.jpg",
+            "filename": "paste-10574209482755 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 42042
+        },
+        "9b62b45e65e980af4dabaab4824877160f66c7b4451ec31f26902f9f7b7dc09c": {
+            "file": "images/9b62b45e65e980af4dabaab4824877160f66c7b4451ec31f26902f9f7b7dc09c.jpg",
+            "filename": "paste-34286723923971.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49232
+        }
+    }
+}

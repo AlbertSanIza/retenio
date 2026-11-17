@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480292311254",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480292311254",
+        "noteId": "1480291959729",
+        "noteGuid": "DTmn*-2U)v",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.5 - Vincristine, vinblastine, paclitaxel",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "§\n\nMOA: Taxanes",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nMOA: Taxanes\n\nInhibit microtubule degradation\n\n(∝ Inhibiting dynein ∝ C. Diff exotoxins B's effect on actin)\n\n[Image: 0b855ad75d0cfc57a0537dd2700d73aff3914d72647d9c39c05a4f83a755eda7]\n\n[Image: f4c89fcf78ebacd548200f6c8f6efb86bf7b29e55b98eb8fd4dcea5c59256523]\n\n2.5 - Vincristine, vinblastine, paclitaxel\n[Image: e1e76c061fbaa1fa437b5c43d9879245f306b0beba584f0e4d9ee5c2b2ef13ab]\n\n[Image: 1e226faf8adfc33cfad5376402ab4d187caa405b8f2fda95474ddc89f0cd0175]\n\n[Image: 9ebb12f86ad920185f85771e6e40641a9f3b8fec395cd184edc489f944ac8b0e]",
+        "imageIds": [
+            "0b855ad75d0cfc57a0537dd2700d73aff3914d72647d9c39c05a4f83a755eda7",
+            "f4c89fcf78ebacd548200f6c8f6efb86bf7b29e55b98eb8fd4dcea5c59256523",
+            "e1e76c061fbaa1fa437b5c43d9879245f306b0beba584f0e4d9ee5c2b2ef13ab",
+            "1e226faf8adfc33cfad5376402ab4d187caa405b8f2fda95474ddc89f0cd0175",
+            "9ebb12f86ad920185f85771e6e40641a9f3b8fec395cd184edc489f944ac8b0e"
+        ]
+    },
+    "images": {
+        "0b855ad75d0cfc57a0537dd2700d73aff3914d72647d9c39c05a4f83a755eda7": {
+            "file": "images/0b855ad75d0cfc57a0537dd2700d73aff3914d72647d9c39c05a4f83a755eda7.jpg",
+            "filename": "paste-212832809385987.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62210
+        },
+        "1e226faf8adfc33cfad5376402ab4d187caa405b8f2fda95474ddc89f0cd0175": {
+            "file": "images/1e226faf8adfc33cfad5376402ab4d187caa405b8f2fda95474ddc89f0cd0175.jpg",
+            "filename": "paste-207824877518851.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45280
+        },
+        "9ebb12f86ad920185f85771e6e40641a9f3b8fec395cd184edc489f944ac8b0e": {
+            "file": "images/9ebb12f86ad920185f85771e6e40641a9f3b8fec395cd184edc489f944ac8b0e.jpg",
+            "filename": "paste-158763466096643.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 80233
+        },
+        "e1e76c061fbaa1fa437b5c43d9879245f306b0beba584f0e4d9ee5c2b2ef13ab": {
+            "file": "images/e1e76c061fbaa1fa437b5c43d9879245f306b0beba584f0e4d9ee5c2b2ef13ab.jpg",
+            "filename": "paste-381625024118785.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 132610
+        },
+        "f4c89fcf78ebacd548200f6c8f6efb86bf7b29e55b98eb8fd4dcea5c59256523": {
+            "file": "images/f4c89fcf78ebacd548200f6c8f6efb86bf7b29e55b98eb8fd4dcea5c59256523.jpg",
+            "filename": "paste-214391882514435.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62311
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475962431761",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475962431761",
+        "noteId": "1475962037924",
+        "noteGuid": "LK=6#G=0_h",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.1 - Class I A-C",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.1-Class_I_(A-C)",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "§\n\nWhat region of the heart is each division of class I antiarrhythmics selective for?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat region of the heart is each division of class I antiarrhythmics selective for?\n\nClass IA: Supraventricular and ventricular\nClass IB: Ventricles and Purkinje system\n\nClass IC: Supraventricular and ventricular\n\n[Image: 80f3f25db8907f47a6e10602107f4edf845124680b0f69eb4f85a73812a5216a]\n\n[Image: c9684dbd53b8655e7a2e18e714db95c600b8fb896bec626278a7d091f2f21dec]\n\n[Image: 1219ffbcbd42687a81157e12913d38cebdd1ff1d684a6bb2e3eb43a2442172e9]\n\n4.1 - Class I A-C\n[Image: 738c430e76dec4470186db851078490a3a51075efd684bef3901aeb427d60f40]\n\n[Image: b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c]\n\n[Image: 54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801]\n\n[Image: 79026d35323ca42dbf5588ebdebcaef015a5a5e5def4d0aadf9d75a383beb2a3]",
+        "imageIds": [
+            "80f3f25db8907f47a6e10602107f4edf845124680b0f69eb4f85a73812a5216a",
+            "c9684dbd53b8655e7a2e18e714db95c600b8fb896bec626278a7d091f2f21dec",
+            "1219ffbcbd42687a81157e12913d38cebdd1ff1d684a6bb2e3eb43a2442172e9",
+            "738c430e76dec4470186db851078490a3a51075efd684bef3901aeb427d60f40",
+            "b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c",
+            "54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801",
+            "79026d35323ca42dbf5588ebdebcaef015a5a5e5def4d0aadf9d75a383beb2a3"
+        ]
+    },
+    "images": {
+        "1219ffbcbd42687a81157e12913d38cebdd1ff1d684a6bb2e3eb43a2442172e9": {
+            "file": "images/1219ffbcbd42687a81157e12913d38cebdd1ff1d684a6bb2e3eb43a2442172e9.jpg",
+            "filename": "paste-32590211842051.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 69718
+        },
+        "54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801": {
+            "file": "images/54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801.jpg",
+            "filename": "paste-246930554748931.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 98421
+        },
+        "738c430e76dec4470186db851078490a3a51075efd684bef3901aeb427d60f40": {
+            "file": "images/738c430e76dec4470186db851078490a3a51075efd684bef3901aeb427d60f40.jpg",
+            "filename": "paste-644945174069249.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 148479
+        },
+        "79026d35323ca42dbf5588ebdebcaef015a5a5e5def4d0aadf9d75a383beb2a3": {
+            "file": "images/79026d35323ca42dbf5588ebdebcaef015a5a5e5def4d0aadf9d75a383beb2a3.jpg",
+            "filename": "paste-631579235844099.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 95806
+        },
+        "80f3f25db8907f47a6e10602107f4edf845124680b0f69eb4f85a73812a5216a": {
+            "file": "images/80f3f25db8907f47a6e10602107f4edf845124680b0f69eb4f85a73812a5216a.jpg",
+            "filename": "paste-26860725469187.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52915
+        },
+        "b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c": {
+            "file": "images/b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c.jpg",
+            "filename": "paste-63204738727939.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55713
+        },
+        "c9684dbd53b8655e7a2e18e714db95c600b8fb896bec626278a7d091f2f21dec": {
+            "file": "images/c9684dbd53b8655e7a2e18e714db95c600b8fb896bec626278a7d091f2f21dec.jpg",
+            "filename": "paste-30923764531203.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63457
+        }
+    }
+}

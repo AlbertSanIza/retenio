@@ -1,0 +1,94 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476057868184",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476057868184",
+        "noteId": "1476057511630",
+        "noteGuid": "DX{(cXG7Pq",
+        "modelId": "1475688242543",
+        "templateOrdinal": 13
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::2 Allergy & Pulmonary::2.2 - Asthma therapy",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(2)-Allergy_&_Pulmonary::2.2-Asthma_Therapy",
+        "$$Smooth_Muscle",
+        "$Allergy&Pulmonary"
+    ],
+    "question": {
+        "text": "§\n\nName two long acting β2 agonists",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nName two long acting β2 agonists\n\n(1) Salmeterol\n(2) Formoterol\n\n(Salute ∝ Salmeterol)\n\n(Formation ∝ Formoterol)\n\n[Image: c300e3ca818e4552cbfd7459f12fd259e039c00ae42a3303bceab706cd6e307c]\n\n[Image: 24a662055e1910075d99a825ead414d7f9f298ffd4ab5e89ea976d9e36ea0e73]\n\n2.2 - Asthma therapy\n[Image: e92726a647257b191f36ff11cd1c71beca3a38b268608df9bf56c77037f43664]\n\n[Image: 6113154b5fea5528d9b048aa0bc013734d012b489d39783dab0e85ae0d8397bd]\n\n[Image: e00e076510134c7c47a9ca088e92c9e9b082a133c7457025214a69ef298abdf7]\n\n[Image: d4b63c6e9956c3fd5a99087b557d732d6aad91fc130350646f27b6edec3ce8ba]\n\n[Image: fedfeab598ea68ba2ab423bd63475f6d9f5a620d95c3516bb0958e58eb7927e2]\n\n[Image: 8d08189ed0b214c1737ca089af2817ad19b74c289b5dea85608c6eb1943a3416]\n\n[Image: 7be616fb70ef24ca666d9066fde3a03ba299d28c8ffb2f0d70abb609ea705054]",
+        "imageIds": [
+            "c300e3ca818e4552cbfd7459f12fd259e039c00ae42a3303bceab706cd6e307c",
+            "24a662055e1910075d99a825ead414d7f9f298ffd4ab5e89ea976d9e36ea0e73",
+            "e92726a647257b191f36ff11cd1c71beca3a38b268608df9bf56c77037f43664",
+            "6113154b5fea5528d9b048aa0bc013734d012b489d39783dab0e85ae0d8397bd",
+            "e00e076510134c7c47a9ca088e92c9e9b082a133c7457025214a69ef298abdf7",
+            "d4b63c6e9956c3fd5a99087b557d732d6aad91fc130350646f27b6edec3ce8ba",
+            "fedfeab598ea68ba2ab423bd63475f6d9f5a620d95c3516bb0958e58eb7927e2",
+            "8d08189ed0b214c1737ca089af2817ad19b74c289b5dea85608c6eb1943a3416",
+            "7be616fb70ef24ca666d9066fde3a03ba299d28c8ffb2f0d70abb609ea705054"
+        ]
+    },
+    "images": {
+        "24a662055e1910075d99a825ead414d7f9f298ffd4ab5e89ea976d9e36ea0e73": {
+            "file": "images/24a662055e1910075d99a825ead414d7f9f298ffd4ab5e89ea976d9e36ea0e73.jpg",
+            "filename": "paste-25284472471555.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 81035
+        },
+        "6113154b5fea5528d9b048aa0bc013734d012b489d39783dab0e85ae0d8397bd": {
+            "file": "images/6113154b5fea5528d9b048aa0bc013734d012b489d39783dab0e85ae0d8397bd.jpg",
+            "filename": "paste-135622182305795.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 99368
+        },
+        "7be616fb70ef24ca666d9066fde3a03ba299d28c8ffb2f0d70abb609ea705054": {
+            "file": "images/7be616fb70ef24ca666d9066fde3a03ba299d28c8ffb2f0d70abb609ea705054.jpg",
+            "filename": "paste-237176684019715.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66869
+        },
+        "8d08189ed0b214c1737ca089af2817ad19b74c289b5dea85608c6eb1943a3416": {
+            "file": "images/8d08189ed0b214c1737ca089af2817ad19b74c289b5dea85608c6eb1943a3416.jpg",
+            "filename": "paste-238714282311683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 94451
+        },
+        "c300e3ca818e4552cbfd7459f12fd259e039c00ae42a3303bceab706cd6e307c": {
+            "file": "images/c300e3ca818e4552cbfd7459f12fd259e039c00ae42a3303bceab706cd6e307c.jpg",
+            "filename": "paste-25224342929411.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 80125
+        },
+        "d4b63c6e9956c3fd5a99087b557d732d6aad91fc130350646f27b6edec3ce8ba": {
+            "file": "images/d4b63c6e9956c3fd5a99087b557d732d6aad91fc130350646f27b6edec3ce8ba.jpg",
+            "filename": "paste-53291954208771.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51421
+        },
+        "e00e076510134c7c47a9ca088e92c9e9b082a133c7457025214a69ef298abdf7": {
+            "file": "images/e00e076510134c7c47a9ca088e92c9e9b082a133c7457025214a69ef298abdf7.jpg",
+            "filename": "paste-26177825669123.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 167780
+        },
+        "e92726a647257b191f36ff11cd1c71beca3a38b268608df9bf56c77037f43664": {
+            "file": "images/e92726a647257b191f36ff11cd1c71beca3a38b268608df9bf56c77037f43664.jpg",
+            "filename": "paste-97534412324867.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 150362
+        },
+        "fedfeab598ea68ba2ab423bd63475f6d9f5a620d95c3516bb0958e58eb7927e2": {
+            "file": "images/fedfeab598ea68ba2ab423bd63475f6d9f5a620d95c3516bb0958e58eb7927e2.jpg",
+            "filename": "paste-235536006512643.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63315
+        }
+    }
+}

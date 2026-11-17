@@ -1,0 +1,94 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480299594631",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480299594631",
+        "noteId": "1480298206862",
+        "noteGuid": "n}<zAn6=@Y",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.3 - Opiates, naloxone, naltrexone",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.3-Opiates,Naloxone,Naltrexone",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "§\n\nIndication: Diphenoxylate",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nIndication: Diphenoxylate\n\nDiarrhea\n\n[Image: beecfecea0163ccc22e0ff853dec5b699fe56d834d5bbbd30db3fc3724c17c62]\n\n2.3 - Opiates, naloxone, naltrexone\n[Image: 8c63f66e1475ebfbbcc015f86c45f70f27b9638bf47e69348646c4990296de78]\n\n[Image: b47e7d3b86bad869e7331d89f33ba683941084edc486d95ebd4f778abe30396e]\n\n[Image: cebffba4c7b60647cdca63b7244804bcbc7c40c622da192362fab73c599383a5]\n\n[Image: c9a40a799a9e26c6e31bb7c16bff7ac519064714902c043d5271f3647bb20264]\n\n[Image: b403693609b0867ce762c7ab20bd9fc9c104aa35e9f8acb51c112261b9e6c561]\n\n[Image: babd06a95abdbfef052b55ee0aa04d2c5fa4c0d57f5135a69bc03c1df2cdb4c8]\n\n[Image: d1c47228ae662cf96ec53d8fcd6db4c6e5d0c41085b5927065385642a583637d]\n\n[Image: b3b4a07988b21c6edd2197265fe818a572a63c7dc382d1a2c11a758bcfbb13ac]",
+        "imageIds": [
+            "beecfecea0163ccc22e0ff853dec5b699fe56d834d5bbbd30db3fc3724c17c62",
+            "8c63f66e1475ebfbbcc015f86c45f70f27b9638bf47e69348646c4990296de78",
+            "b47e7d3b86bad869e7331d89f33ba683941084edc486d95ebd4f778abe30396e",
+            "cebffba4c7b60647cdca63b7244804bcbc7c40c622da192362fab73c599383a5",
+            "c9a40a799a9e26c6e31bb7c16bff7ac519064714902c043d5271f3647bb20264",
+            "b403693609b0867ce762c7ab20bd9fc9c104aa35e9f8acb51c112261b9e6c561",
+            "babd06a95abdbfef052b55ee0aa04d2c5fa4c0d57f5135a69bc03c1df2cdb4c8",
+            "d1c47228ae662cf96ec53d8fcd6db4c6e5d0c41085b5927065385642a583637d",
+            "b3b4a07988b21c6edd2197265fe818a572a63c7dc382d1a2c11a758bcfbb13ac"
+        ]
+    },
+    "images": {
+        "8c63f66e1475ebfbbcc015f86c45f70f27b9638bf47e69348646c4990296de78": {
+            "file": "images/8c63f66e1475ebfbbcc015f86c45f70f27b9638bf47e69348646c4990296de78.jpg",
+            "filename": "paste-1105833819635715.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 155229
+        },
+        "b3b4a07988b21c6edd2197265fe818a572a63c7dc382d1a2c11a758bcfbb13ac": {
+            "file": "images/b3b4a07988b21c6edd2197265fe818a572a63c7dc382d1a2c11a758bcfbb13ac.jpg",
+            "filename": "paste-48868137893891.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 22996
+        },
+        "b403693609b0867ce762c7ab20bd9fc9c104aa35e9f8acb51c112261b9e6c561": {
+            "file": "images/b403693609b0867ce762c7ab20bd9fc9c104aa35e9f8acb51c112261b9e6c561.jpg",
+            "filename": "paste-129265630707715.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 25141
+        },
+        "b47e7d3b86bad869e7331d89f33ba683941084edc486d95ebd4f778abe30396e": {
+            "file": "images/b47e7d3b86bad869e7331d89f33ba683941084edc486d95ebd4f778abe30396e.jpg",
+            "filename": "paste-656236643090435.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 91577
+        },
+        "babd06a95abdbfef052b55ee0aa04d2c5fa4c0d57f5135a69bc03c1df2cdb4c8": {
+            "file": "images/babd06a95abdbfef052b55ee0aa04d2c5fa4c0d57f5135a69bc03c1df2cdb4c8.jpg",
+            "filename": "paste-662640439328771.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 26260
+        },
+        "beecfecea0163ccc22e0ff853dec5b699fe56d834d5bbbd30db3fc3724c17c62": {
+            "file": "images/beecfecea0163ccc22e0ff853dec5b699fe56d834d5bbbd30db3fc3724c17c62.jpg",
+            "filename": "paste-88965952569347.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44609
+        },
+        "c9a40a799a9e26c6e31bb7c16bff7ac519064714902c043d5271f3647bb20264": {
+            "file": "images/c9a40a799a9e26c6e31bb7c16bff7ac519064714902c043d5271f3647bb20264.jpg",
+            "filename": "paste-91285234909187.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65246
+        },
+        "cebffba4c7b60647cdca63b7244804bcbc7c40c622da192362fab73c599383a5": {
+            "file": "images/cebffba4c7b60647cdca63b7244804bcbc7c40c622da192362fab73c599383a5.jpg",
+            "filename": "paste-157565170221059.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 33260
+        },
+        "d1c47228ae662cf96ec53d8fcd6db4c6e5d0c41085b5927065385642a583637d": {
+            "file": "images/d1c47228ae662cf96ec53d8fcd6db4c6e5d0c41085b5927065385642a583637d.jpg",
+            "filename": "paste-668936861384707.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52933
+        }
+    }
+}

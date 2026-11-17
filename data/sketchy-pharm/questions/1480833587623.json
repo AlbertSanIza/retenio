@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480833587623",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480833587623",
+        "noteId": "1480832933361",
+        "noteGuid": "tH&5`k/vx|",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::7 Antivirals: Hepatitis::7.1 - Interferon α, β, γ",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(7)-Antivirals-Hepatitis::7.1-Interferon_α,β,γ",
+        "$$Antimicrobials",
+        "$Antivirals_Hepatitis"
+    ],
+    "question": {
+        "text": "§\n\nWhich interferon has been used to treat multiple sclerosis?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhich interferon has been used to treat multiple sclerosis?\n\ninterferon-β\n\n[Image: 4f4421b995d5ebab529bda422f5200e93fea1fc09b1566149c2f199928a03422]\n\n[Image: c4cd0bae56c1493db621ee9a8b9cc5c89a3a75d65e291a8e717301f560b794b1]\n\n7.1 - Interferon α, β, γ\n[Image: db7fffca7a87b1edcb43a80dada92e43df78f363bfd66ef11a1d5e07eb37ce0e]\n\n[Image: 53767074790b2004650dbcd94cf1cb8ce3d08d57fa9775aa9eb4100e875bcac8]\n\n[Image: 025bbeb74adc387ad29e899b27ccbb9ca627fd0f9a8434e966f187d7b7f6eb27]\n\n[Image: 449c10e1b1005871a0f84515ac85157f372c0e66ddae20e354c7aeff85c19eba]",
+        "imageIds": [
+            "4f4421b995d5ebab529bda422f5200e93fea1fc09b1566149c2f199928a03422",
+            "c4cd0bae56c1493db621ee9a8b9cc5c89a3a75d65e291a8e717301f560b794b1",
+            "db7fffca7a87b1edcb43a80dada92e43df78f363bfd66ef11a1d5e07eb37ce0e",
+            "53767074790b2004650dbcd94cf1cb8ce3d08d57fa9775aa9eb4100e875bcac8",
+            "025bbeb74adc387ad29e899b27ccbb9ca627fd0f9a8434e966f187d7b7f6eb27",
+            "449c10e1b1005871a0f84515ac85157f372c0e66ddae20e354c7aeff85c19eba"
+        ]
+    },
+    "images": {
+        "025bbeb74adc387ad29e899b27ccbb9ca627fd0f9a8434e966f187d7b7f6eb27": {
+            "file": "images/025bbeb74adc387ad29e899b27ccbb9ca627fd0f9a8434e966f187d7b7f6eb27.jpg",
+            "filename": "paste-19877108645891 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63903
+        },
+        "449c10e1b1005871a0f84515ac85157f372c0e66ddae20e354c7aeff85c19eba": {
+            "file": "images/449c10e1b1005871a0f84515ac85157f372c0e66ddae20e354c7aeff85c19eba.jpg",
+            "filename": "paste-105342662868995 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 71116
+        },
+        "4f4421b995d5ebab529bda422f5200e93fea1fc09b1566149c2f199928a03422": {
+            "file": "images/4f4421b995d5ebab529bda422f5200e93fea1fc09b1566149c2f199928a03422.jpg",
+            "filename": "paste-379026568904707.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 42508
+        },
+        "53767074790b2004650dbcd94cf1cb8ce3d08d57fa9775aa9eb4100e875bcac8": {
+            "file": "images/53767074790b2004650dbcd94cf1cb8ce3d08d57fa9775aa9eb4100e875bcac8.jpg",
+            "filename": "paste-555652803985411.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 21590
+        },
+        "c4cd0bae56c1493db621ee9a8b9cc5c89a3a75d65e291a8e717301f560b794b1": {
+            "file": "images/c4cd0bae56c1493db621ee9a8b9cc5c89a3a75d65e291a8e717301f560b794b1.jpg",
+            "filename": "paste-378755985965059.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 40939
+        },
+        "db7fffca7a87b1edcb43a80dada92e43df78f363bfd66ef11a1d5e07eb37ce0e": {
+            "file": "images/db7fffca7a87b1edcb43a80dada92e43df78f363bfd66ef11a1d5e07eb37ce0e.jpg",
+            "filename": "paste-302674935283713.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 119855
+        }
+    }
+}

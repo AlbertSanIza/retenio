@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475962431765",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475962431765",
+        "noteId": "1475962037924",
+        "noteGuid": "LK=6#G=0_h",
+        "modelId": "1475688242543",
+        "templateOrdinal": 14
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.1 - Class I A-C",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.1-Class_I_(A-C)",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "§\n\nWhich division of class I antiarrhythmics can cause Torsades de Pointes?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhich division of class I antiarrhythmics can cause Torsades de Pointes?\n\nClass IA\n\n[Image: cd28488b61b80a8d37c973be6eb2e05943ab03f50e8b22b7e0644122ae1f8025]\n\n4.1 - Class I A-C\n[Image: 738c430e76dec4470186db851078490a3a51075efd684bef3901aeb427d60f40]\n\n[Image: b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c]\n\n[Image: 54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801]\n\n[Image: 79026d35323ca42dbf5588ebdebcaef015a5a5e5def4d0aadf9d75a383beb2a3]",
+        "imageIds": [
+            "cd28488b61b80a8d37c973be6eb2e05943ab03f50e8b22b7e0644122ae1f8025",
+            "738c430e76dec4470186db851078490a3a51075efd684bef3901aeb427d60f40",
+            "b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c",
+            "54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801",
+            "79026d35323ca42dbf5588ebdebcaef015a5a5e5def4d0aadf9d75a383beb2a3"
+        ]
+    },
+    "images": {
+        "54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801": {
+            "file": "images/54379076f5aa65dfe938ef5cbde3bc4b65010fd8546a6c738725379e70729801.jpg",
+            "filename": "paste-246930554748931.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 98421
+        },
+        "738c430e76dec4470186db851078490a3a51075efd684bef3901aeb427d60f40": {
+            "file": "images/738c430e76dec4470186db851078490a3a51075efd684bef3901aeb427d60f40.jpg",
+            "filename": "paste-644945174069249.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 148479
+        },
+        "79026d35323ca42dbf5588ebdebcaef015a5a5e5def4d0aadf9d75a383beb2a3": {
+            "file": "images/79026d35323ca42dbf5588ebdebcaef015a5a5e5def4d0aadf9d75a383beb2a3.jpg",
+            "filename": "paste-631579235844099.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 95806
+        },
+        "b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c": {
+            "file": "images/b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c.jpg",
+            "filename": "paste-63204738727939.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55713
+        },
+        "cd28488b61b80a8d37c973be6eb2e05943ab03f50e8b22b7e0644122ae1f8025": {
+            "file": "images/cd28488b61b80a8d37c973be6eb2e05943ab03f50e8b22b7e0644122ae1f8025.jpg",
+            "filename": "paste-27642409517059.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58520
+        }
+    }
+}

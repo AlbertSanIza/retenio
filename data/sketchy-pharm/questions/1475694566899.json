@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475694566899",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475694566899",
+        "noteId": "1475693558188",
+        "noteGuid": "k2xO-NDlof",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::3 Antihypertensives::3.1 - Calcium channel blockers",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(3)-Antihypertensives::3.1-Calcium_Channel_Blockers",
+        "$$Cardiovascular_&_Renal",
+        "$Antihypertensives"
+    ],
+    "question": {
+        "text": "§\n\nName 2 distinctive side effects of Verapamil",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nName 2 distinctive side effects of Verapamil\n\n(1) Constipation\n(2) Gingival hypertrophy\n\n[Image: b57530450e51f672bb828fdcf2d093bb81308c02417f40321bd74712f1ad9a42]\n\n3.1 - Calcium channel blockers\n[Image: 2df432313245803a33c91257644f7112990e8a140e530cb65543d93968ad38ad]\n\n[Image: 976514cac00f671ceada131d78161259e7b71f87b223859170924c10f329b1f1]\n\n[Image: 145563c70e7a6531194e688944937bc88523bdc536f6491f5d4d11e642f621a6]",
+        "imageIds": [
+            "b57530450e51f672bb828fdcf2d093bb81308c02417f40321bd74712f1ad9a42",
+            "2df432313245803a33c91257644f7112990e8a140e530cb65543d93968ad38ad",
+            "976514cac00f671ceada131d78161259e7b71f87b223859170924c10f329b1f1",
+            "145563c70e7a6531194e688944937bc88523bdc536f6491f5d4d11e642f621a6"
+        ]
+    },
+    "images": {
+        "145563c70e7a6531194e688944937bc88523bdc536f6491f5d4d11e642f621a6": {
+            "file": "images/145563c70e7a6531194e688944937bc88523bdc536f6491f5d4d11e642f621a6.jpg",
+            "filename": "paste-60816736911363 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59355
+        },
+        "2df432313245803a33c91257644f7112990e8a140e530cb65543d93968ad38ad": {
+            "file": "images/2df432313245803a33c91257644f7112990e8a140e530cb65543d93968ad38ad.jpg",
+            "filename": "paste-634001597399041.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 148325
+        },
+        "976514cac00f671ceada131d78161259e7b71f87b223859170924c10f329b1f1": {
+            "file": "images/976514cac00f671ceada131d78161259e7b71f87b223859170924c10f329b1f1.jpg",
+            "filename": "paste-666785082769411.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60858
+        },
+        "b57530450e51f672bb828fdcf2d093bb81308c02417f40321bd74712f1ad9a42": {
+            "file": "images/b57530450e51f672bb828fdcf2d093bb81308c02417f40321bd74712f1ad9a42.jpg",
+            "filename": "paste-112364934397955.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61671
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484148934372",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484148934372",
+        "noteId": "1484146371456",
+        "noteGuid": "B,)q~3Rva5",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::1 GI::1.2 - H2 receptor blockers, PPIs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(1)-GI::1.2-H2_Receptor_Blockers,PPIs",
+        "$$GI_&_Endocrine",
+        "$GI"
+    ],
+    "question": {
+        "text": "§\n\nWhich histamine receptor is responsible for increasing HCl secretion?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhich histamine receptor is responsible for increasing HCl secretion?\n\nH2\n\n[Image: 49e8952e1a69e6cfc0ec172ca23ece5d3c2c31b545e5c0450dca076b22f077fe]\n\n[Image: 83ab4c5d8ca4cf5212ddd6feadf6f5493ed20511e3e562b33f204203e61413d9]\n\n1.2 - H2 receptor blockers, PPIs\n[Image: 9dba8c277ce7510d092efa9203df57f234b50abbd7a844e882147933982b3998]\n\n[Image: 1a5be55801cb6e1fe815d8fe4e22744ce722a8436ae966c178ec116fd33db54f]\n\n[Image: c588a2e68d46d29f8420230fdf77f9e534fddb591f470dc318423fc98ca9097d]\n\n[Image: 04ce2b1c7320a42479e7c20fb5be378d320ba2e59732a088c989802db9225389]\n\n[Image: 3a164a2757ec20aa07890edad608f3993dcdd6778f7b83a5ad616e7d15326599]\n\n[Image: 60a771df2244fd1c8b922f4399d2543404c22761678dbe5bd0258ff9b5bd57be]\n\n[Image: 728e826b9159d23e31773aa533b199df82965eee2620e5d782c24eee87555a92]",
+        "imageIds": [
+            "49e8952e1a69e6cfc0ec172ca23ece5d3c2c31b545e5c0450dca076b22f077fe",
+            "83ab4c5d8ca4cf5212ddd6feadf6f5493ed20511e3e562b33f204203e61413d9",
+            "9dba8c277ce7510d092efa9203df57f234b50abbd7a844e882147933982b3998",
+            "1a5be55801cb6e1fe815d8fe4e22744ce722a8436ae966c178ec116fd33db54f",
+            "c588a2e68d46d29f8420230fdf77f9e534fddb591f470dc318423fc98ca9097d",
+            "04ce2b1c7320a42479e7c20fb5be378d320ba2e59732a088c989802db9225389",
+            "3a164a2757ec20aa07890edad608f3993dcdd6778f7b83a5ad616e7d15326599",
+            "60a771df2244fd1c8b922f4399d2543404c22761678dbe5bd0258ff9b5bd57be",
+            "728e826b9159d23e31773aa533b199df82965eee2620e5d782c24eee87555a92"
+        ]
+    },
+    "images": {
+        "04ce2b1c7320a42479e7c20fb5be378d320ba2e59732a088c989802db9225389": {
+            "file": "images/04ce2b1c7320a42479e7c20fb5be378d320ba2e59732a088c989802db9225389.jpg",
+            "filename": "paste-649046867836931.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 33421
+        },
+        "1a5be55801cb6e1fe815d8fe4e22744ce722a8436ae966c178ec116fd33db54f": {
+            "file": "images/1a5be55801cb6e1fe815d8fe4e22744ce722a8436ae966c178ec116fd33db54f.jpg",
+            "filename": "paste-645263001649155.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 67361
+        },
+        "3a164a2757ec20aa07890edad608f3993dcdd6778f7b83a5ad616e7d15326599": {
+            "file": "images/3a164a2757ec20aa07890edad608f3993dcdd6778f7b83a5ad616e7d15326599.jpg",
+            "filename": "paste-793520977739779.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 91715
+        },
+        "49e8952e1a69e6cfc0ec172ca23ece5d3c2c31b545e5c0450dca076b22f077fe": {
+            "file": "images/49e8952e1a69e6cfc0ec172ca23ece5d3c2c31b545e5c0450dca076b22f077fe.jpg",
+            "filename": "paste-471351185899523.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 72980
+        },
+        "60a771df2244fd1c8b922f4399d2543404c22761678dbe5bd0258ff9b5bd57be": {
+            "file": "images/60a771df2244fd1c8b922f4399d2543404c22761678dbe5bd0258ff9b5bd57be.jpg",
+            "filename": "paste-651314610569219.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56790
+        },
+        "728e826b9159d23e31773aa533b199df82965eee2620e5d782c24eee87555a92": {
+            "file": "images/728e826b9159d23e31773aa533b199df82965eee2620e5d782c24eee87555a92.jpg",
+            "filename": "paste-89253715378179 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 81669
+        },
+        "83ab4c5d8ca4cf5212ddd6feadf6f5493ed20511e3e562b33f204203e61413d9": {
+            "file": "images/83ab4c5d8ca4cf5212ddd6feadf6f5493ed20511e3e562b33f204203e61413d9.jpg",
+            "filename": "paste-473266741313539.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 77475
+        },
+        "9dba8c277ce7510d092efa9203df57f234b50abbd7a844e882147933982b3998": {
+            "file": "images/9dba8c277ce7510d092efa9203df57f234b50abbd7a844e882147933982b3998.jpg",
+            "filename": "paste-442729523838979.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 146111
+        },
+        "c588a2e68d46d29f8420230fdf77f9e534fddb591f470dc318423fc98ca9097d": {
+            "file": "images/c588a2e68d46d29f8420230fdf77f9e534fddb591f470dc318423fc98ca9097d.jpg",
+            "filename": "paste-647152787259395.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 104732
+        }
+    }
+}

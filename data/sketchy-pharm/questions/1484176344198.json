@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484176344198",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484176344198",
+        "noteId": "1484174506748",
+        "noteGuid": "zAes]>XXQ1",
+        "modelId": "1475688242543",
+        "templateOrdinal": 15
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::4 Mood Stabilizers & Antiepileptic Drugs::4.4 - Carbamazepine, phenytoin, gabapentin, tiagabine, vigabatrin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(4)-Mood_Stabilizers_&_Antiepileptics::4.3-Carbamazepine,Phenytoin,Gabapentin,Tiagabine,Vigabatrin",
+        "$$Neuro/Psych",
+        "$Mood_Stabilizers_&_Antiepileptics"
+    ],
+    "question": {
+        "text": "§\n\nWhat type of seizures are narrow spectrum anti-epileptics used for?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat type of seizures are narrow spectrum anti-epileptics used for?\n\nFocal seizures (and generalized tonic clonic)\n\n[Image: b1614043f8638a41c07ff54f2824d4f99d08800b471b2d4b14689be85c4e461f]\n\n4.3 - Carbamazepine, phenytoin, gabapentin, tiagabine, vigabatrin\n[Image: 72a6b493f768ad440d5bb2213cac7f737a4f044ed795c848207a711443df075b]\n\n[Image: c3043f3c2f396c1132e341dc2c19a439589ba89eef0f5980c4f478d378b35668]\n\n[Image: 2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a]\n\n[Image: fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5]",
+        "imageIds": [
+            "b1614043f8638a41c07ff54f2824d4f99d08800b471b2d4b14689be85c4e461f",
+            "72a6b493f768ad440d5bb2213cac7f737a4f044ed795c848207a711443df075b",
+            "c3043f3c2f396c1132e341dc2c19a439589ba89eef0f5980c4f478d378b35668",
+            "2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a",
+            "fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5"
+        ]
+    },
+    "images": {
+        "2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a": {
+            "file": "images/2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a.jpg",
+            "filename": "paste-688547682058243.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 102555
+        },
+        "72a6b493f768ad440d5bb2213cac7f737a4f044ed795c848207a711443df075b": {
+            "file": "images/72a6b493f768ad440d5bb2213cac7f737a4f044ed795c848207a711443df075b.jpg",
+            "filename": "paste-696050989924355.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 96699
+        },
+        "b1614043f8638a41c07ff54f2824d4f99d08800b471b2d4b14689be85c4e461f": {
+            "file": "images/b1614043f8638a41c07ff54f2824d4f99d08800b471b2d4b14689be85c4e461f.jpg",
+            "filename": "paste-698563545792515.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53274
+        },
+        "c3043f3c2f396c1132e341dc2c19a439589ba89eef0f5980c4f478d378b35668": {
+            "file": "images/c3043f3c2f396c1132e341dc2c19a439589ba89eef0f5980c4f478d378b35668.jpg",
+            "filename": "paste-60975650701315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70945
+        },
+        "fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5": {
+            "file": "images/fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5.jpg",
+            "filename": "paste-69565585293315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 91284
+        }
+    }
+}

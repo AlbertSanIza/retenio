@@ -1,0 +1,80 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480816165685",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480816165685",
+        "noteId": "1480812867870",
+        "noteGuid": "B.#W9#QCRN",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::3 Antimycobacterials::3.1 - Tuberculosis Drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(3)-Antimycobacterials::3.1-Tuberculosis_Drugs",
+        "$$Antimicrobials",
+        "$Antimycobacterials"
+    ],
+    "question": {
+        "text": "§\n\nWhat antibiotic can be used alone to treat latent tuberculosis infections?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat antibiotic can be used alone to treat latent tuberculosis infections?\n\nIsoniazid\n\n(\"Remember, Isoniazid can be used isolated\")\n\n[Image: 0fa67f35cb132af5952ba146eedcdbae661476280771f6b861b653a68bceca14]\n\n[Image: 2fbebe38fe093944a3d6a9826476cec47ea37c481ed0c1c20ba3e7617c7384b5]\n\n3.1 - Tuberculosis Drugs\n[Image: 75747c8b652c8f2d208a149207fab1b8976d4381798f86e53cbafe58b3751752]\n\n[Image: d4d07c3fd6d7ac606792eb4ace534fe4cdb21726d114d25beab0fdf8ec968a95]\n\n[Image: 8a6a87653f9aeb4a4876920b2a1558f23095df8b805d5c12e7f0a2e3f461200b]\n\n[Image: 263eda575dffc9aa3fccc786bb7febb77ffe5631bea7e464d00e08898ed80463]\n\n[Image: d564a2c26b1ad2fd2193e2653e6827fe68d6c771d1ae83265a06893ce8e50900]",
+        "imageIds": [
+            "0fa67f35cb132af5952ba146eedcdbae661476280771f6b861b653a68bceca14",
+            "2fbebe38fe093944a3d6a9826476cec47ea37c481ed0c1c20ba3e7617c7384b5",
+            "75747c8b652c8f2d208a149207fab1b8976d4381798f86e53cbafe58b3751752",
+            "d4d07c3fd6d7ac606792eb4ace534fe4cdb21726d114d25beab0fdf8ec968a95",
+            "8a6a87653f9aeb4a4876920b2a1558f23095df8b805d5c12e7f0a2e3f461200b",
+            "263eda575dffc9aa3fccc786bb7febb77ffe5631bea7e464d00e08898ed80463",
+            "d564a2c26b1ad2fd2193e2653e6827fe68d6c771d1ae83265a06893ce8e50900"
+        ]
+    },
+    "images": {
+        "0fa67f35cb132af5952ba146eedcdbae661476280771f6b861b653a68bceca14": {
+            "file": "images/0fa67f35cb132af5952ba146eedcdbae661476280771f6b861b653a68bceca14.jpg",
+            "filename": "paste-172013440204803.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43839
+        },
+        "263eda575dffc9aa3fccc786bb7febb77ffe5631bea7e464d00e08898ed80463": {
+            "file": "images/263eda575dffc9aa3fccc786bb7febb77ffe5631bea7e464d00e08898ed80463.jpg",
+            "filename": "paste-463057604050947.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 71628
+        },
+        "2fbebe38fe093944a3d6a9826476cec47ea37c481ed0c1c20ba3e7617c7384b5": {
+            "file": "images/2fbebe38fe093944a3d6a9826476cec47ea37c481ed0c1c20ba3e7617c7384b5.jpg",
+            "filename": "paste-172082159681539.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 39589
+        },
+        "75747c8b652c8f2d208a149207fab1b8976d4381798f86e53cbafe58b3751752": {
+            "file": "images/75747c8b652c8f2d208a149207fab1b8976d4381798f86e53cbafe58b3751752.jpg",
+            "filename": "paste-235686330368001.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 145951
+        },
+        "8a6a87653f9aeb4a4876920b2a1558f23095df8b805d5c12e7f0a2e3f461200b": {
+            "file": "images/8a6a87653f9aeb4a4876920b2a1558f23095df8b805d5c12e7f0a2e3f461200b.jpg",
+            "filename": "paste-461352502034435.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58231
+        },
+        "d4d07c3fd6d7ac606792eb4ace534fe4cdb21726d114d25beab0fdf8ec968a95": {
+            "file": "images/d4d07c3fd6d7ac606792eb4ace534fe4cdb21726d114d25beab0fdf8ec968a95.jpg",
+            "filename": "paste-457907938263043.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 64003
+        },
+        "d564a2c26b1ad2fd2193e2653e6827fe68d6c771d1ae83265a06893ce8e50900": {
+            "file": "images/d564a2c26b1ad2fd2193e2653e6827fe68d6c771d1ae83265a06893ce8e50900.jpg",
+            "filename": "paste-174826643783683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 24429
+        }
+    }
+}

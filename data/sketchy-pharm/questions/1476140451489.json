@@ -1,0 +1,80 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476140451489",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476140451489",
+        "noteId": "1476139819858",
+        "noteGuid": "eO7SmiTCn*",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.4 - Glucocorticoids",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.4-Glucocorticoids",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "§\n\nSuffix: Glucocorticoids",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nSuffix: Glucocorticoids\n\n\"-sone\"\n\n[Image: 302f8663d34f8f6ee55d298c1ad30f72a0576fc87df942312b8577d5ae19da54]\n\n[Image: 4b8079976606322267506c7e24c6c4b22ff66ec83a81e4ce29d20676a0410542]\n\n3.4 - Glucocorticoids\n[Image: 8782e1fa9875bf1abad5723216f82e1897bb530842df1d04670ff6258ee86e46]\n\n[Image: c0764384804c36bab528ee9d9c6193d1e16a690ba14d667866ee1ba1ce648625]\n\n[Image: f04eb58d576a330ed45eb4c270f4e7dde85b97ef711e2284dce85d0a06f988ea]\n\n[Image: 6ba28e2541d4d4c868034ba6bb2eb020c8b8f51436ae6dc016d59880fc4401c3]\n\n[Image: 2c15b82af7337d4ce87455c5c1e0ec7477878a45d0575543505a74af40924e47]",
+        "imageIds": [
+            "302f8663d34f8f6ee55d298c1ad30f72a0576fc87df942312b8577d5ae19da54",
+            "4b8079976606322267506c7e24c6c4b22ff66ec83a81e4ce29d20676a0410542",
+            "8782e1fa9875bf1abad5723216f82e1897bb530842df1d04670ff6258ee86e46",
+            "c0764384804c36bab528ee9d9c6193d1e16a690ba14d667866ee1ba1ce648625",
+            "f04eb58d576a330ed45eb4c270f4e7dde85b97ef711e2284dce85d0a06f988ea",
+            "6ba28e2541d4d4c868034ba6bb2eb020c8b8f51436ae6dc016d59880fc4401c3",
+            "2c15b82af7337d4ce87455c5c1e0ec7477878a45d0575543505a74af40924e47"
+        ]
+    },
+    "images": {
+        "2c15b82af7337d4ce87455c5c1e0ec7477878a45d0575543505a74af40924e47": {
+            "file": "images/2c15b82af7337d4ce87455c5c1e0ec7477878a45d0575543505a74af40924e47.jpg",
+            "filename": "paste-741667837575171.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43556
+        },
+        "302f8663d34f8f6ee55d298c1ad30f72a0576fc87df942312b8577d5ae19da54": {
+            "file": "images/302f8663d34f8f6ee55d298c1ad30f72a0576fc87df942312b8577d5ae19da54.jpg",
+            "filename": "paste-104844446662659.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 27577
+        },
+        "4b8079976606322267506c7e24c6c4b22ff66ec83a81e4ce29d20676a0410542": {
+            "file": "images/4b8079976606322267506c7e24c6c4b22ff66ec83a81e4ce29d20676a0410542.jpg",
+            "filename": "paste-104878806401027.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 26579
+        },
+        "6ba28e2541d4d4c868034ba6bb2eb020c8b8f51436ae6dc016d59880fc4401c3": {
+            "file": "images/6ba28e2541d4d4c868034ba6bb2eb020c8b8f51436ae6dc016d59880fc4401c3.jpg",
+            "filename": "paste-750068793606145.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 97303
+        },
+        "8782e1fa9875bf1abad5723216f82e1897bb530842df1d04670ff6258ee86e46": {
+            "file": "images/8782e1fa9875bf1abad5723216f82e1897bb530842df1d04670ff6258ee86e46.jpg",
+            "filename": "paste-754733128089601.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 120213
+        },
+        "c0764384804c36bab528ee9d9c6193d1e16a690ba14d667866ee1ba1ce648625": {
+            "file": "images/c0764384804c36bab528ee9d9c6193d1e16a690ba14d667866ee1ba1ce648625.jpg",
+            "filename": "paste-716709782618115.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 35849
+        },
+        "f04eb58d576a330ed45eb4c270f4e7dde85b97ef711e2284dce85d0a06f988ea": {
+            "file": "images/f04eb58d576a330ed45eb4c270f4e7dde85b97ef711e2284dce85d0a06f988ea.jpg",
+            "filename": "paste-115135188303875.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 102134
+        }
+    }
+}

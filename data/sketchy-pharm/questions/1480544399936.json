@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480544399936",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480544399936",
+        "noteId": "1480543987032",
+        "noteGuid": "N#HRdX_!QM",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.4 - Chloramphenicol",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.4-Chloramphenicol",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "§\n\nIndications (2) : Chloramphenicol",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nIndications (2) : Chloramphenicol\n\nAs an ALTERNATIVE treatment, it has been used for:\n\n(1) Meningitis\n(2) Rocky mountain spotted fever\n\n(Meningitis in developing countries)\n\n[Image: 756baa07313a9770e34021424070866387073c67d7bccaf661600ba8fab7c2d4]\n\n[Image: f1c8b13333ffae67231b9708766cc84fa468a2265c8aa48b8e05cd481ca18975]\n\n[Image: 3461a0e9d4bd7dce78760c7334cfde33fcc7c9ca26f7a60444086790b0119be7]\n\n2.4 - Chloramphenicol\n[Image: b067638da806193744df903046261dbc296bdafd64018aa8b7749b1dec506f00]\n\n[Image: 8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4]\n\n[Image: 4d828f47ea3b8d21a049c82aaaf2afd544ee8ffb3c627fed79ad3de3e42d96ad]",
+        "imageIds": [
+            "756baa07313a9770e34021424070866387073c67d7bccaf661600ba8fab7c2d4",
+            "f1c8b13333ffae67231b9708766cc84fa468a2265c8aa48b8e05cd481ca18975",
+            "3461a0e9d4bd7dce78760c7334cfde33fcc7c9ca26f7a60444086790b0119be7",
+            "b067638da806193744df903046261dbc296bdafd64018aa8b7749b1dec506f00",
+            "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4",
+            "4d828f47ea3b8d21a049c82aaaf2afd544ee8ffb3c627fed79ad3de3e42d96ad"
+        ]
+    },
+    "images": {
+        "3461a0e9d4bd7dce78760c7334cfde33fcc7c9ca26f7a60444086790b0119be7": {
+            "file": "images/3461a0e9d4bd7dce78760c7334cfde33fcc7c9ca26f7a60444086790b0119be7.jpg",
+            "filename": "paste-21565030793219 (2).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 39257
+        },
+        "4d828f47ea3b8d21a049c82aaaf2afd544ee8ffb3c627fed79ad3de3e42d96ad": {
+            "file": "images/4d828f47ea3b8d21a049c82aaaf2afd544ee8ffb3c627fed79ad3de3e42d96ad.jpg",
+            "filename": "paste-394308062543875.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51870
+        },
+        "756baa07313a9770e34021424070866387073c67d7bccaf661600ba8fab7c2d4": {
+            "file": "images/756baa07313a9770e34021424070866387073c67d7bccaf661600ba8fab7c2d4.jpg",
+            "filename": "paste-21543555956739.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43296
+        },
+        "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4": {
+            "file": "images/8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4.jpg",
+            "filename": "paste-321710230339587.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 76271
+        },
+        "b067638da806193744df903046261dbc296bdafd64018aa8b7749b1dec506f00": {
+            "file": "images/b067638da806193744df903046261dbc296bdafd64018aa8b7749b1dec506f00.jpg",
+            "filename": "paste-225537322647553.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 105140
+        },
+        "f1c8b13333ffae67231b9708766cc84fa468a2265c8aa48b8e05cd481ca18975": {
+            "file": "images/f1c8b13333ffae67231b9708766cc84fa468a2265c8aa48b8e05cd481ca18975.jpg",
+            "filename": "paste-21607980466179.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44537
+        }
+    }
+}

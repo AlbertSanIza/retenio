@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475797215290",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475797215290",
+        "noteId": "1475796463230",
+        "noteGuid": "dVn&?O~Nzk",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.4 - Bupropion, mirtazapine, trazodone",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.4-Bupropion,Mirtazapine,Trazodone",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "§\n\nAdverse Effects (2) : Mirtazapine",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nAdverse Effects (2) : Mirtazapine\n\n(1) Sedation\n(2) Weight gain\n\n[Image: 3bfd6a0936d3f814b26721b7825c3b0229b7fa7ff5e8122e596c2a1075be09ec]\n\n[Image: e2a511ac74f8cde8e53a4a829605ef9b8935319f16bfc11343e52556232a9214]\n\n3.4 - Bupropion, mirtazapine, trazodone\n[Image: 53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064]\n\n[Image: 7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943]\n\n[Image: f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2]",
+        "imageIds": [
+            "3bfd6a0936d3f814b26721b7825c3b0229b7fa7ff5e8122e596c2a1075be09ec",
+            "e2a511ac74f8cde8e53a4a829605ef9b8935319f16bfc11343e52556232a9214",
+            "53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064",
+            "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943",
+            "f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2"
+        ]
+    },
+    "images": {
+        "3bfd6a0936d3f814b26721b7825c3b0229b7fa7ff5e8122e596c2a1075be09ec": {
+            "file": "images/3bfd6a0936d3f814b26721b7825c3b0229b7fa7ff5e8122e596c2a1075be09ec.jpg",
+            "filename": "paste-29626684407811.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49081
+        },
+        "53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064": {
+            "file": "images/53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064.jpg",
+            "filename": "paste-1199537121132547.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 140326
+        },
+        "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943": {
+            "file": "images/7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943.jpg",
+            "filename": "paste-1171594063904771.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 89818
+        },
+        "e2a511ac74f8cde8e53a4a829605ef9b8935319f16bfc11343e52556232a9214": {
+            "file": "images/e2a511ac74f8cde8e53a4a829605ef9b8935319f16bfc11343e52556232a9214.jpg",
+            "filename": "paste-29785598197763.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49050
+        },
+        "f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2": {
+            "file": "images/f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2.jpg",
+            "filename": "paste-173976240259075.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 148735
+        }
+    }
+}

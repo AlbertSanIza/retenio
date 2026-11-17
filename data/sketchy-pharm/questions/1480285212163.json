@@ -1,0 +1,80 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480285212163",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480285212163",
+        "noteId": "1480284242370",
+        "noteGuid": "sm5L!@Ga^j",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::3 Kinase Inhibitors & Monoclonal Antibodies\n::3.1 - Imatinib, erlotinib, sorafenib, sunitinib, vemurafenib",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(3)-Kinase_Inhibitors_&_Monoclonal_Abs::3.1-Imatinib,Erlotinib,Sorafenib,Sunitinib,Vemurafenib",
+        "$$Antineoplastics",
+        "$Kinase_Inhibitors_&_MonoclonalAbs"
+    ],
+    "question": {
+        "text": "§\n\nMOA: Erlotinib",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nMOA: Erlotinib\n\nEGFR tyrosine kinase inhibitor\n\n[Image: 1f1f0541d902be7679e07bd3494797cc73ecfa99b573209b034461329077da6c]\n\n[Image: 2a9600bf5c5be40c712359dbf45e93b44bbc83bb9ccf8e3a3b3a2c62f95ed28a]\n\n3.1 - Imatinib, erlotinib, sorafenib, sunitinib, vemurafenib\n[Image: a6b1d3f472df434e35a39a7224894dc9e6d03a18671399f296d9a8367b80f434]\n\n[Image: 6ea6096aae9fc4e40d2dcf03f321623aefdc6e01e88debd3bcf75c8716b7b23d]\n\n[Image: e3423014c22f4dbb7b5bda03efed5adbe2d1876813166ec6f9c1ec86d1fde6e7]\n\n[Image: 75426a20157d20092596278bb55f986dc36f2f77d55240106a419612cb872d2c]\n\n[Image: 05e6700ac3bbcaea20d848dd91efe4370e31e614d50483e63773a7e472632df8]",
+        "imageIds": [
+            "1f1f0541d902be7679e07bd3494797cc73ecfa99b573209b034461329077da6c",
+            "2a9600bf5c5be40c712359dbf45e93b44bbc83bb9ccf8e3a3b3a2c62f95ed28a",
+            "a6b1d3f472df434e35a39a7224894dc9e6d03a18671399f296d9a8367b80f434",
+            "6ea6096aae9fc4e40d2dcf03f321623aefdc6e01e88debd3bcf75c8716b7b23d",
+            "e3423014c22f4dbb7b5bda03efed5adbe2d1876813166ec6f9c1ec86d1fde6e7",
+            "75426a20157d20092596278bb55f986dc36f2f77d55240106a419612cb872d2c",
+            "05e6700ac3bbcaea20d848dd91efe4370e31e614d50483e63773a7e472632df8"
+        ]
+    },
+    "images": {
+        "05e6700ac3bbcaea20d848dd91efe4370e31e614d50483e63773a7e472632df8": {
+            "file": "images/05e6700ac3bbcaea20d848dd91efe4370e31e614d50483e63773a7e472632df8.jpg",
+            "filename": "paste-330222855520259.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 22381
+        },
+        "1f1f0541d902be7679e07bd3494797cc73ecfa99b573209b034461329077da6c": {
+            "file": "images/1f1f0541d902be7679e07bd3494797cc73ecfa99b573209b034461329077da6c.jpg",
+            "filename": "paste-7894149890051.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46522
+        },
+        "2a9600bf5c5be40c712359dbf45e93b44bbc83bb9ccf8e3a3b3a2c62f95ed28a": {
+            "file": "images/2a9600bf5c5be40c712359dbf45e93b44bbc83bb9ccf8e3a3b3a2c62f95ed28a.jpg",
+            "filename": "paste-7821135446019 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44993
+        },
+        "6ea6096aae9fc4e40d2dcf03f321623aefdc6e01e88debd3bcf75c8716b7b23d": {
+            "file": "images/6ea6096aae9fc4e40d2dcf03f321623aefdc6e01e88debd3bcf75c8716b7b23d.jpg",
+            "filename": "paste-37280316129283 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 84861
+        },
+        "75426a20157d20092596278bb55f986dc36f2f77d55240106a419612cb872d2c": {
+            "file": "images/75426a20157d20092596278bb55f986dc36f2f77d55240106a419612cb872d2c.jpg",
+            "filename": "paste-326542068547587.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 29038
+        },
+        "a6b1d3f472df434e35a39a7224894dc9e6d03a18671399f296d9a8367b80f434": {
+            "file": "images/a6b1d3f472df434e35a39a7224894dc9e6d03a18671399f296d9a8367b80f434.jpg",
+            "filename": "paste-386186279387137.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 108227
+        },
+        "e3423014c22f4dbb7b5bda03efed5adbe2d1876813166ec6f9c1ec86d1fde6e7": {
+            "file": "images/e3423014c22f4dbb7b5bda03efed5adbe2d1876813166ec6f9c1ec86d1fde6e7.jpg",
+            "filename": "paste-323204878958595.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 20598
+        }
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476123573812",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476123573812",
+        "noteId": "1476057511630",
+        "noteGuid": "DX{(cXG7Pq",
+        "modelId": "1475688242543",
+        "templateOrdinal": 21
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::2 Allergy & Pulmonary::2.2 - Asthma therapy",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(2)-Allergy_&_Pulmonary::2.2-Asthma_Therapy",
+        "$$Smooth_Muscle",
+        "$Allergy&Pulmonary"
+    ],
+    "question": {
+        "text": "§\n\nTreatment (4) : Acute severe asthma attack",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nTreatment (4) : Acute severe asthma attack\n\n(1) IV corticosteroid\n\n(2) β2 agonist\n\n(3) Ipratropium\n(4) Epinephrine\n\n[Image: e40d5b4f2fc492c5787ee9b88a851b2960c69277eb01f8c10504427f516ba042]\n\n[Image: ad23c74c8160a30bfacb58a1cc6b5ee3fc80271e775d99f8ae68da23c4d3b6b4]\n\n[Image: 267f34aeaada9599b89708ca74beae6adf6f7f7b767799680c26c62f0769ddc8]\n\n2.2 - Asthma therapy\n[Image: e92726a647257b191f36ff11cd1c71beca3a38b268608df9bf56c77037f43664]\n\n[Image: 6113154b5fea5528d9b048aa0bc013734d012b489d39783dab0e85ae0d8397bd]\n\n[Image: e00e076510134c7c47a9ca088e92c9e9b082a133c7457025214a69ef298abdf7]\n\n[Image: d4b63c6e9956c3fd5a99087b557d732d6aad91fc130350646f27b6edec3ce8ba]\n\n[Image: fedfeab598ea68ba2ab423bd63475f6d9f5a620d95c3516bb0958e58eb7927e2]\n\n[Image: 8d08189ed0b214c1737ca089af2817ad19b74c289b5dea85608c6eb1943a3416]\n\n[Image: 7be616fb70ef24ca666d9066fde3a03ba299d28c8ffb2f0d70abb609ea705054]",
+        "imageIds": [
+            "e40d5b4f2fc492c5787ee9b88a851b2960c69277eb01f8c10504427f516ba042",
+            "ad23c74c8160a30bfacb58a1cc6b5ee3fc80271e775d99f8ae68da23c4d3b6b4",
+            "267f34aeaada9599b89708ca74beae6adf6f7f7b767799680c26c62f0769ddc8",
+            "e92726a647257b191f36ff11cd1c71beca3a38b268608df9bf56c77037f43664",
+            "6113154b5fea5528d9b048aa0bc013734d012b489d39783dab0e85ae0d8397bd",
+            "e00e076510134c7c47a9ca088e92c9e9b082a133c7457025214a69ef298abdf7",
+            "d4b63c6e9956c3fd5a99087b557d732d6aad91fc130350646f27b6edec3ce8ba",
+            "fedfeab598ea68ba2ab423bd63475f6d9f5a620d95c3516bb0958e58eb7927e2",
+            "8d08189ed0b214c1737ca089af2817ad19b74c289b5dea85608c6eb1943a3416",
+            "7be616fb70ef24ca666d9066fde3a03ba299d28c8ffb2f0d70abb609ea705054"
+        ]
+    },
+    "images": {
+        "267f34aeaada9599b89708ca74beae6adf6f7f7b767799680c26c62f0769ddc8": {
+            "file": "images/267f34aeaada9599b89708ca74beae6adf6f7f7b767799680c26c62f0769ddc8.jpg",
+            "filename": "paste-157041184210947.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62838
+        },
+        "6113154b5fea5528d9b048aa0bc013734d012b489d39783dab0e85ae0d8397bd": {
+            "file": "images/6113154b5fea5528d9b048aa0bc013734d012b489d39783dab0e85ae0d8397bd.jpg",
+            "filename": "paste-135622182305795.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 99368
+        },
+        "7be616fb70ef24ca666d9066fde3a03ba299d28c8ffb2f0d70abb609ea705054": {
+            "file": "images/7be616fb70ef24ca666d9066fde3a03ba299d28c8ffb2f0d70abb609ea705054.jpg",
+            "filename": "paste-237176684019715.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66869
+        },
+        "8d08189ed0b214c1737ca089af2817ad19b74c289b5dea85608c6eb1943a3416": {
+            "file": "images/8d08189ed0b214c1737ca089af2817ad19b74c289b5dea85608c6eb1943a3416.jpg",
+            "filename": "paste-238714282311683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 94451
+        },
+        "ad23c74c8160a30bfacb58a1cc6b5ee3fc80271e775d99f8ae68da23c4d3b6b4": {
+            "file": "images/ad23c74c8160a30bfacb58a1cc6b5ee3fc80271e775d99f8ae68da23c4d3b6b4.jpg",
+            "filename": "paste-31830002630659.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 80388
+        },
+        "d4b63c6e9956c3fd5a99087b557d732d6aad91fc130350646f27b6edec3ce8ba": {
+            "file": "images/d4b63c6e9956c3fd5a99087b557d732d6aad91fc130350646f27b6edec3ce8ba.jpg",
+            "filename": "paste-53291954208771.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51421
+        },
+        "e00e076510134c7c47a9ca088e92c9e9b082a133c7457025214a69ef298abdf7": {
+            "file": "images/e00e076510134c7c47a9ca088e92c9e9b082a133c7457025214a69ef298abdf7.jpg",
+            "filename": "paste-26177825669123.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 167780
+        },
+        "e40d5b4f2fc492c5787ee9b88a851b2960c69277eb01f8c10504427f516ba042": {
+            "file": "images/e40d5b4f2fc492c5787ee9b88a851b2960c69277eb01f8c10504427f516ba042.jpg",
+            "filename": "paste-31778463023107.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 80736
+        },
+        "e92726a647257b191f36ff11cd1c71beca3a38b268608df9bf56c77037f43664": {
+            "file": "images/e92726a647257b191f36ff11cd1c71beca3a38b268608df9bf56c77037f43664.jpg",
+            "filename": "paste-97534412324867.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 150362
+        },
+        "fedfeab598ea68ba2ab423bd63475f6d9f5a620d95c3516bb0958e58eb7927e2": {
+            "file": "images/fedfeab598ea68ba2ab423bd63475f6d9f5a620d95c3516bb0958e58eb7927e2.jpg",
+            "filename": "paste-235536006512643.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63315
+        }
+    }
+}

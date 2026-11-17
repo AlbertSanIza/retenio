@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475730097609",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475730097609",
+        "noteId": "1475728663965",
+        "noteGuid": "jP0(HG/*Ec",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.1 - Sympathomimetics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.1-Sympathomimetics",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "§\n\nIndication: Brimonidine",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nIndication: Brimonidine\n\nOpen angle glaucoma\n\n[Image: 94fdf141c119a46b29bd8b369e95b7d43c5718843873dd3eeee7ea9f07c5c0d6]\n\n2.1 - Sympathomimetics\n[Image: 20dce7d1ea3a9127b9203a53523d590e1c124cf18e808d650cb20bad6db5fb26]\n\n[Image: 204735fde9cbdfa5f689d2ec7529f7ec04ff90a0bfb8047fd8fa990aa6aeca31]\n\n[Image: 1ebb60a93613ef52d422686f8dfb459e774d65cfd235b2d78f3bb0cc8d4877c4]\n\n[Image: d72e13fa4da566f02849a672685ae62b8839f9d067243cc055344d1268c19f2b]",
+        "imageIds": [
+            "94fdf141c119a46b29bd8b369e95b7d43c5718843873dd3eeee7ea9f07c5c0d6",
+            "20dce7d1ea3a9127b9203a53523d590e1c124cf18e808d650cb20bad6db5fb26",
+            "204735fde9cbdfa5f689d2ec7529f7ec04ff90a0bfb8047fd8fa990aa6aeca31",
+            "1ebb60a93613ef52d422686f8dfb459e774d65cfd235b2d78f3bb0cc8d4877c4",
+            "d72e13fa4da566f02849a672685ae62b8839f9d067243cc055344d1268c19f2b"
+        ]
+    },
+    "images": {
+        "1ebb60a93613ef52d422686f8dfb459e774d65cfd235b2d78f3bb0cc8d4877c4": {
+            "file": "images/1ebb60a93613ef52d422686f8dfb459e774d65cfd235b2d78f3bb0cc8d4877c4.jpg",
+            "filename": "paste-614798798618627.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47275
+        },
+        "204735fde9cbdfa5f689d2ec7529f7ec04ff90a0bfb8047fd8fa990aa6aeca31": {
+            "file": "images/204735fde9cbdfa5f689d2ec7529f7ec04ff90a0bfb8047fd8fa990aa6aeca31.jpg",
+            "filename": "paste-602566731759619.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66758
+        },
+        "20dce7d1ea3a9127b9203a53523d590e1c124cf18e808d650cb20bad6db5fb26": {
+            "file": "images/20dce7d1ea3a9127b9203a53523d590e1c124cf18e808d650cb20bad6db5fb26.jpg",
+            "filename": "paste-422607602057217.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 150970
+        },
+        "94fdf141c119a46b29bd8b369e95b7d43c5718843873dd3eeee7ea9f07c5c0d6": {
+            "file": "images/94fdf141c119a46b29bd8b369e95b7d43c5718843873dd3eeee7ea9f07c5c0d6.jpg",
+            "filename": "paste-20340965113859.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58315
+        },
+        "d72e13fa4da566f02849a672685ae62b8839f9d067243cc055344d1268c19f2b": {
+            "file": "images/d72e13fa4da566f02849a672685ae62b8839f9d067243cc055344d1268c19f2b.jpg",
+            "filename": "paste-f8927e53577fb32aff5a71527af64646519ec7a2.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 68106
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484147064385",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484147064385",
+        "noteId": "1484145428631",
+        "noteGuid": "giBHBUiPlE",
+        "modelId": "1475688242543",
+        "templateOrdinal": 12
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::1 GI::1.1 - Antiemetic agents",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(1)-GI::1.1-Antiemetic_Agents",
+        "$$GI_&_Endocrine",
+        "$GI"
+    ],
+    "question": {
+        "text": "§\n\nAdverse Effects (7) : Metoclopramide",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nAdverse Effects (7) : Metoclopramide\n\n(1) Diarrhea\n(2) Drowsiness\n\n(3) Depression\n\n(4) Extrapyramidal effects\n\n(5) Neuroleptic malignant syndrome\n\n(6) Elevated prolactin\n\n(7) Torsades de Pointes\n\n[Image: efc8ba00f58dc99fdb117c2b8e3d4a9957db8e73d1f019c271be59df893cd9bb]\n\n[Image: eacc996bf578ebcae61a4bc405fd0e25bbba1258d32de75719f45931c6c2e571]\n\n[Image: 5d37aed02bad3fd41d1df8bda021ba9dbfc5ccb3d45358d4946ddc9c2eebc1bd]\n\n[Image: 86e709d6ac159ca5a4d63cd1df995fbc7d27ed2b3866c762bf806ec3e779df4c]\n\n[Image: 258bc6233f417328fe182027c177042b314ae210457200e20c6ae0b21477bfd7]\n\n[Image: c18747629ab68d0b1f3ce7b2aec363c7ea524f0aa6425a27667616eaabf35131]\n\n[Image: acb51ab1f67d2f65c612be4d88f190b2c1a034e8f320e5e5d810a25a0ba50ffd]\n\n1.1 - Antiemetic agents\n[Image: d89cfb4eef2c721f61a2ce6802d713338822cf7c47e11baded197a5ce0412aab]\n\n[Image: eab3c509c329c61d8d15268b17eee318489649e67aa871b5c58cd3c5ddb8cbf6]\n\n[Image: 2f4a8e742d966fd8cdf941e2165eb617f7829c49c1c60bc634ad434cd1fe0de6]\n\n[Image: 6daffe22807830195101aa85fecbb7c979f4c03c6c392c0ad90c3e09d4bceea0]",
+        "imageIds": [
+            "efc8ba00f58dc99fdb117c2b8e3d4a9957db8e73d1f019c271be59df893cd9bb",
+            "eacc996bf578ebcae61a4bc405fd0e25bbba1258d32de75719f45931c6c2e571",
+            "5d37aed02bad3fd41d1df8bda021ba9dbfc5ccb3d45358d4946ddc9c2eebc1bd",
+            "86e709d6ac159ca5a4d63cd1df995fbc7d27ed2b3866c762bf806ec3e779df4c",
+            "258bc6233f417328fe182027c177042b314ae210457200e20c6ae0b21477bfd7",
+            "c18747629ab68d0b1f3ce7b2aec363c7ea524f0aa6425a27667616eaabf35131",
+            "acb51ab1f67d2f65c612be4d88f190b2c1a034e8f320e5e5d810a25a0ba50ffd",
+            "d89cfb4eef2c721f61a2ce6802d713338822cf7c47e11baded197a5ce0412aab",
+            "eab3c509c329c61d8d15268b17eee318489649e67aa871b5c58cd3c5ddb8cbf6",
+            "2f4a8e742d966fd8cdf941e2165eb617f7829c49c1c60bc634ad434cd1fe0de6",
+            "6daffe22807830195101aa85fecbb7c979f4c03c6c392c0ad90c3e09d4bceea0"
+        ]
+    },
+    "images": {
+        "258bc6233f417328fe182027c177042b314ae210457200e20c6ae0b21477bfd7": {
+            "file": "images/258bc6233f417328fe182027c177042b314ae210457200e20c6ae0b21477bfd7.jpg",
+            "filename": "paste-372751621685251.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 82757
+        },
+        "2f4a8e742d966fd8cdf941e2165eb617f7829c49c1c60bc634ad434cd1fe0de6": {
+            "file": "images/2f4a8e742d966fd8cdf941e2165eb617f7829c49c1c60bc634ad434cd1fe0de6.jpg",
+            "filename": "paste-436647850147843.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 85310
+        },
+        "5d37aed02bad3fd41d1df8bda021ba9dbfc5ccb3d45358d4946ddc9c2eebc1bd": {
+            "file": "images/5d37aed02bad3fd41d1df8bda021ba9dbfc5ccb3d45358d4946ddc9c2eebc1bd.jpg",
+            "filename": "paste-360858857242627.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 72245
+        },
+        "6daffe22807830195101aa85fecbb7c979f4c03c6c392c0ad90c3e09d4bceea0": {
+            "file": "images/6daffe22807830195101aa85fecbb7c979f4c03c6c392c0ad90c3e09d4bceea0.jpg",
+            "filename": "paste-784535906156547.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 19723
+        },
+        "86e709d6ac159ca5a4d63cd1df995fbc7d27ed2b3866c762bf806ec3e779df4c": {
+            "file": "images/86e709d6ac159ca5a4d63cd1df995fbc7d27ed2b3866c762bf806ec3e779df4c.jpg",
+            "filename": "paste-364844586893315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 79244
+        },
+        "acb51ab1f67d2f65c612be4d88f190b2c1a034e8f320e5e5d810a25a0ba50ffd": {
+            "file": "images/acb51ab1f67d2f65c612be4d88f190b2c1a034e8f320e5e5d810a25a0ba50ffd.jpg",
+            "filename": "paste-380903469613059.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 83904
+        },
+        "c18747629ab68d0b1f3ce7b2aec363c7ea524f0aa6425a27667616eaabf35131": {
+            "file": "images/c18747629ab68d0b1f3ce7b2aec363c7ea524f0aa6425a27667616eaabf35131.jpg",
+            "filename": "paste-378747396030467.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 81483
+        },
+        "d89cfb4eef2c721f61a2ce6802d713338822cf7c47e11baded197a5ce0412aab": {
+            "file": "images/d89cfb4eef2c721f61a2ce6802d713338822cf7c47e11baded197a5ce0412aab.jpg",
+            "filename": "paste-291224552472579.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 140481
+        },
+        "eab3c509c329c61d8d15268b17eee318489649e67aa871b5c58cd3c5ddb8cbf6": {
+            "file": "images/eab3c509c329c61d8d15268b17eee318489649e67aa871b5c58cd3c5ddb8cbf6.jpg",
+            "filename": "paste-18580028522499.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 32974
+        },
+        "eacc996bf578ebcae61a4bc405fd0e25bbba1258d32de75719f45931c6c2e571": {
+            "file": "images/eacc996bf578ebcae61a4bc405fd0e25bbba1258d32de75719f45931c6c2e571.jpg",
+            "filename": "paste-359042086076419.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 73071
+        },
+        "efc8ba00f58dc99fdb117c2b8e3d4a9957db8e73d1f019c271be59df893cd9bb": {
+            "file": "images/efc8ba00f58dc99fdb117c2b8e3d4a9957db8e73d1f019c271be59df893cd9bb.jpg",
+            "filename": "paste-357216724975619.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70908
+        }
+    }
+}

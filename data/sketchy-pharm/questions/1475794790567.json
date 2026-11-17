@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475794790567",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475794790567",
+        "noteId": "1475793971812",
+        "noteGuid": "lxQq)Zvao+",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.1 - SSRIs, SNRIs, cyproheptadine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.1-SSRIs,SNRIs,Cyproheptadine",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "§\n\nHow long does it take for SSRIs/SNRIs to achieve maximum effect?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nHow long does it take for SSRIs/SNRIs to achieve maximum effect?\n\n1-2 months\n\n[Image: 7e7b4ee9c6464337e28527e98409c9f0a0c163a26a92907a22af2d2d02140b8c]\n\n3.1 - SSRIs, SNRIs, cyproheptadine\n[Image: ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6]\n\n[Image: 7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943]\n\n[Image: 8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1]",
+        "imageIds": [
+            "7e7b4ee9c6464337e28527e98409c9f0a0c163a26a92907a22af2d2d02140b8c",
+            "ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6",
+            "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943",
+            "8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1"
+        ]
+    },
+    "images": {
+        "7e7b4ee9c6464337e28527e98409c9f0a0c163a26a92907a22af2d2d02140b8c": {
+            "file": "images/7e7b4ee9c6464337e28527e98409c9f0a0c163a26a92907a22af2d2d02140b8c.jpg",
+            "filename": "paste-13889924235267.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59386
+        },
+        "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943": {
+            "file": "images/7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943.jpg",
+            "filename": "paste-1171594063904771.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 89818
+        },
+        "8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1": {
+            "file": "images/8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1.jpg",
+            "filename": "paste-21088289423363 (2).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 92436
+        },
+        "ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6": {
+            "file": "images/ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6.jpg",
+            "filename": "paste-1134098999410689.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 142260
+        }
+    }
+}

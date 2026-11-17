@@ -1,0 +1,80 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476028242659",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476028242659",
+        "noteId": "1476026238349",
+        "noteGuid": "q{jN<,Pl7#",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.1 - Heparin, LMWH, fondaparinux, direct thrombin inhibitors, Xa inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.1-Heparin,LMWH,Fondaparinux,Direct_Thrombin_Inhibitors",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "§\n\nWhich clotting time does heparin most affect?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhich clotting time does heparin most affect?\n\nPTT\n\n[Image: dbb73b09f37dd84a53bd07fd68e6ac170319d753a30fa9c803288440e71a7662]\n\n[Image: 8c44c7a90d2d0567e6ebcbd0457a5ad9790849254f57b1812492a34bf1dcaa59]\n\n1.1 - Heparin, LMWH, fondaparinux, direct thrombin inhibitors, Xa inhibitors\n[Image: 277d6dd93c909a56ac4e048c44946e2dc9d1d89ef7a2e08080907883effa15d2]\n\n[Image: d624a8546655626b1e42c79e187169ee90ebf7b99d981f03e5e2edc92694e8e3]\n\n[Image: 5d42a451f5c6a755eb006684c27a5cc45128caabaa215f87f7db276b2cd69879]\n\n[Image: 1bb3d14dc3c487ed27252bc52651a1ed2c6900dc98a4091f4176866ee6ecb743]\n\n[Image: 92987436a5377d1532749c2f3493cb39490738e8019a390ae9188e6795476d2f]",
+        "imageIds": [
+            "dbb73b09f37dd84a53bd07fd68e6ac170319d753a30fa9c803288440e71a7662",
+            "8c44c7a90d2d0567e6ebcbd0457a5ad9790849254f57b1812492a34bf1dcaa59",
+            "277d6dd93c909a56ac4e048c44946e2dc9d1d89ef7a2e08080907883effa15d2",
+            "d624a8546655626b1e42c79e187169ee90ebf7b99d981f03e5e2edc92694e8e3",
+            "5d42a451f5c6a755eb006684c27a5cc45128caabaa215f87f7db276b2cd69879",
+            "1bb3d14dc3c487ed27252bc52651a1ed2c6900dc98a4091f4176866ee6ecb743",
+            "92987436a5377d1532749c2f3493cb39490738e8019a390ae9188e6795476d2f"
+        ]
+    },
+    "images": {
+        "1bb3d14dc3c487ed27252bc52651a1ed2c6900dc98a4091f4176866ee6ecb743": {
+            "file": "images/1bb3d14dc3c487ed27252bc52651a1ed2c6900dc98a4091f4176866ee6ecb743.jpg",
+            "filename": "paste-379640749228035.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34387
+        },
+        "277d6dd93c909a56ac4e048c44946e2dc9d1d89ef7a2e08080907883effa15d2": {
+            "file": "images/277d6dd93c909a56ac4e048c44946e2dc9d1d89ef7a2e08080907883effa15d2.jpg",
+            "filename": "paste-6240587481091.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 95047
+        },
+        "5d42a451f5c6a755eb006684c27a5cc45128caabaa215f87f7db276b2cd69879": {
+            "file": "images/5d42a451f5c6a755eb006684c27a5cc45128caabaa215f87f7db276b2cd69879.jpg",
+            "filename": "paste-378227704987651.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 132847
+        },
+        "8c44c7a90d2d0567e6ebcbd0457a5ad9790849254f57b1812492a34bf1dcaa59": {
+            "file": "images/8c44c7a90d2d0567e6ebcbd0457a5ad9790849254f57b1812492a34bf1dcaa59.jpg",
+            "filename": "paste-86857123627011.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 76154
+        },
+        "92987436a5377d1532749c2f3493cb39490738e8019a390ae9188e6795476d2f": {
+            "file": "images/92987436a5377d1532749c2f3493cb39490738e8019a390ae9188e6795476d2f.jpg",
+            "filename": "paste-387341625589763.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 79733
+        },
+        "d624a8546655626b1e42c79e187169ee90ebf7b99d981f03e5e2edc92694e8e3": {
+            "file": "images/d624a8546655626b1e42c79e187169ee90ebf7b99d981f03e5e2edc92694e8e3.jpg",
+            "filename": "paste-33981781245955.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 107746
+        },
+        "dbb73b09f37dd84a53bd07fd68e6ac170319d753a30fa9c803288440e71a7662": {
+            "file": "images/dbb73b09f37dd84a53bd07fd68e6ac170319d753a30fa9c803288440e71a7662.jpg",
+            "filename": "paste-86754044411907.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 74998
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480836764146",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480836764146",
+        "noteId": "1480835348971",
+        "noteGuid": "i*mBW%(]hE",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::8 Antivirals: other::8.1 - Acyclovir, valacyclovir, famciclovir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(8)-Antivirals-Other::8.1-Acyclovir,Valacyclovir,Famiciclovir",
+        "$$Antimicrobials",
+        "$Antivirals_Others"
+    ],
+    "question": {
+        "text": "§\n\nMOA: Acyclovir",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nMOA: Acyclovir\n\nGuanasine analog\n\n(⇒ Inhibition of viral DNA synthesis)\n\n[Image: 7f990cfd9e5bc2c73534953112327b01eda0220e0be7b6ee63b5a598529365f9]\n\n[Image: 56202311df8d79d61a72bb94a4e089080e20a0cdcb57366c617b704817b024a5]\n\n[Image: 1cbf487571c48afdb3f107845111b67379e7fd0569d06b77feb40306bb7f009b]\n\n8.1 - Acyclovir, valacyclovir, famciclovir\n[Image: 40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b]\n\n[Image: a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1]\n\n[Image: a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35]\n\n[Image: 3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b]",
+        "imageIds": [
+            "7f990cfd9e5bc2c73534953112327b01eda0220e0be7b6ee63b5a598529365f9",
+            "56202311df8d79d61a72bb94a4e089080e20a0cdcb57366c617b704817b024a5",
+            "1cbf487571c48afdb3f107845111b67379e7fd0569d06b77feb40306bb7f009b",
+            "40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b",
+            "a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1",
+            "a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35",
+            "3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b"
+        ]
+    },
+    "images": {
+        "1cbf487571c48afdb3f107845111b67379e7fd0569d06b77feb40306bb7f009b": {
+            "file": "images/1cbf487571c48afdb3f107845111b67379e7fd0569d06b77feb40306bb7f009b.jpg",
+            "filename": "paste-388655885582339.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45847
+        },
+        "3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b": {
+            "file": "images/3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b.jpg",
+            "filename": "paste-14950781157379.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 94367
+        },
+        "40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b": {
+            "file": "images/40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b.jpg",
+            "filename": "paste-383768212799491.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59940
+        },
+        "56202311df8d79d61a72bb94a4e089080e20a0cdcb57366c617b704817b024a5": {
+            "file": "images/56202311df8d79d61a72bb94a4e089080e20a0cdcb57366c617b704817b024a5.jpg",
+            "filename": "paste-388582871138307.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43875
+        },
+        "7f990cfd9e5bc2c73534953112327b01eda0220e0be7b6ee63b5a598529365f9": {
+            "file": "images/7f990cfd9e5bc2c73534953112327b01eda0220e0be7b6ee63b5a598529365f9.jpg",
+            "filename": "paste-388307993231363.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 30323
+        },
+        "a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1": {
+            "file": "images/a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1.jpg",
+            "filename": "paste-305286275399683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 100859
+        },
+        "a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35": {
+            "file": "images/a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35.jpg",
+            "filename": "paste-13438952669187.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 81188
+        }
+    }
+}

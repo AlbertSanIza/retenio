@@ -1,0 +1,80 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480298206681",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480298206681",
+        "noteId": "1480297092872",
+        "noteGuid": "JyIhgVZ0$r",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::4 Mood Stabilizers & Antiepileptic Drugs::4.1 - Lithium",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(4)-Mood_Stabilizers_&_Antiepileptics::4.1-Lithium",
+        "$$Neuro/Psych",
+        "$Mood_Stabilizers_&_Antiepileptics"
+    ],
+    "question": {
+        "text": "§\n\nWhat endocrine abnormalities are associated with Lithium use?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat endocrine abnormalities are associated with Lithium use?\n\n(1) Hypothyroidism\n(2) Diabetes insipidus\n\n[Image: 5d359bece67cba52bcbe1b324076b0ad9028ad776e7db841449aa5bb521a06e9]\n\n[Image: 2db63238379b5d6b393f544fbe52ccfb0c7e1296dc0083aa713467c699534816]\n\n[Image: 0427ec2a6403abc7526402e2416cd02479dd572a3f91cdbad0db261171a74a9b]\n\n4.1 - Lithium\n[Image: 906e1cbe8badcd1dcc8d21e284dc64d1af2bbf639abc16d617e4308bb635713e]\n\n[Image: 89c6e786d10c9cae20acc6a8cc5dd3f044e63f70369c505225950c9204c4947e]\n\n[Image: 1ee8313ee6ae61b2ae9c5345f38d5e3ae221ed66fbeb9f01adf12024c513515a]\n\n[Image: dc73572f5b9694ad38c1446590293cc46e29fa79e26146eb63185b7b0ad5c8a2]",
+        "imageIds": [
+            "5d359bece67cba52bcbe1b324076b0ad9028ad776e7db841449aa5bb521a06e9",
+            "2db63238379b5d6b393f544fbe52ccfb0c7e1296dc0083aa713467c699534816",
+            "0427ec2a6403abc7526402e2416cd02479dd572a3f91cdbad0db261171a74a9b",
+            "906e1cbe8badcd1dcc8d21e284dc64d1af2bbf639abc16d617e4308bb635713e",
+            "89c6e786d10c9cae20acc6a8cc5dd3f044e63f70369c505225950c9204c4947e",
+            "1ee8313ee6ae61b2ae9c5345f38d5e3ae221ed66fbeb9f01adf12024c513515a",
+            "dc73572f5b9694ad38c1446590293cc46e29fa79e26146eb63185b7b0ad5c8a2"
+        ]
+    },
+    "images": {
+        "0427ec2a6403abc7526402e2416cd02479dd572a3f91cdbad0db261171a74a9b": {
+            "file": "images/0427ec2a6403abc7526402e2416cd02479dd572a3f91cdbad0db261171a74a9b.jpg",
+            "filename": "paste-85809151606787.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 32083
+        },
+        "1ee8313ee6ae61b2ae9c5345f38d5e3ae221ed66fbeb9f01adf12024c513515a": {
+            "file": "images/1ee8313ee6ae61b2ae9c5345f38d5e3ae221ed66fbeb9f01adf12024c513515a.jpg",
+            "filename": "paste-1215879471693827.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62582
+        },
+        "2db63238379b5d6b393f544fbe52ccfb0c7e1296dc0083aa713467c699534816": {
+            "file": "images/2db63238379b5d6b393f544fbe52ccfb0c7e1296dc0083aa713467c699534816.jpg",
+            "filename": "paste-85736137162755.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 31009
+        },
+        "5d359bece67cba52bcbe1b324076b0ad9028ad776e7db841449aa5bb521a06e9": {
+            "file": "images/5d359bece67cba52bcbe1b324076b0ad9028ad776e7db841449aa5bb521a06e9.jpg",
+            "filename": "paste-85684597555203.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 28613
+        },
+        "89c6e786d10c9cae20acc6a8cc5dd3f044e63f70369c505225950c9204c4947e": {
+            "file": "images/89c6e786d10c9cae20acc6a8cc5dd3f044e63f70369c505225950c9204c4947e.jpg",
+            "filename": "paste-1207010364227587.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 121390
+        },
+        "906e1cbe8badcd1dcc8d21e284dc64d1af2bbf639abc16d617e4308bb635713e": {
+            "file": "images/906e1cbe8badcd1dcc8d21e284dc64d1af2bbf639abc16d617e4308bb635713e.jpg",
+            "filename": "paste-1203505670914049.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 112568
+        },
+        "dc73572f5b9694ad38c1446590293cc46e29fa79e26146eb63185b7b0ad5c8a2": {
+            "file": "images/dc73572f5b9694ad38c1446590293cc46e29fa79e26146eb63185b7b0ad5c8a2.jpg",
+            "filename": "paste-1212022591062019.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52455
+        }
+    }
+}

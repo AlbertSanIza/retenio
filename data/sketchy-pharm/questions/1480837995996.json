@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480837995996",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480837995996",
+        "noteId": "1480837653001",
+        "noteGuid": "PaSdeX5^)E",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::8 Antivirals: other::8.2 - Ganciclovir, valganciclovir, foscarnet, cidofovir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(8)-Antivirals-Other::8.2-Ganciclovir,Valganciclovir,Foscarnet,Cidofovir",
+        "$$Antimicrobials",
+        "$Antivirals_Others"
+    ],
+    "question": {
+        "text": "§\n\nAdverse Effect: Ganciclovir",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nAdverse Effect: Ganciclovir\n\nMyelosuppression\n\n[Image: a14e144cbffec7391540f6c1411bae25f76b32685e1b5eb511597116a34ab694]\n\n8.2 - Ganciclovir, valganciclovir, foscarnet, cidofovir\n[Image: c0a7815549d069d5162d4519e272e07b3420df710b5b21c1e465d41dc0284610]\n\n[Image: a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1]\n\n[Image: 9fe32e151e1c25eb94b5dacb1c2c07ceb4b714c20d71142ed3848ce3e06bf657]\n\n[Image: 3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b]",
+        "imageIds": [
+            "a14e144cbffec7391540f6c1411bae25f76b32685e1b5eb511597116a34ab694",
+            "c0a7815549d069d5162d4519e272e07b3420df710b5b21c1e465d41dc0284610",
+            "a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1",
+            "9fe32e151e1c25eb94b5dacb1c2c07ceb4b714c20d71142ed3848ce3e06bf657",
+            "3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b"
+        ]
+    },
+    "images": {
+        "3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b": {
+            "file": "images/3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b.jpg",
+            "filename": "paste-14950781157379.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 94367
+        },
+        "9fe32e151e1c25eb94b5dacb1c2c07ceb4b714c20d71142ed3848ce3e06bf657": {
+            "file": "images/9fe32e151e1c25eb94b5dacb1c2c07ceb4b714c20d71142ed3848ce3e06bf657.jpg",
+            "filename": "paste-17046725197827.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52654
+        },
+        "a14e144cbffec7391540f6c1411bae25f76b32685e1b5eb511597116a34ab694": {
+            "file": "images/a14e144cbffec7391540f6c1411bae25f76b32685e1b5eb511597116a34ab694.jpg",
+            "filename": "paste-412785011851267.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34756
+        },
+        "a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1": {
+            "file": "images/a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1.jpg",
+            "filename": "paste-305286275399683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 100859
+        },
+        "c0a7815549d069d5162d4519e272e07b3420df710b5b21c1e465d41dc0284610": {
+            "file": "images/c0a7815549d069d5162d4519e272e07b3420df710b5b21c1e465d41dc0284610.jpg",
+            "filename": "paste-394359602151427.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70794
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480286764921",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480286764921",
+        "noteId": "1480285917662",
+        "noteGuid": "BKzdsM>lW[",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::3 Kinase Inhibitors & Monoclonal Antibodies\n::3.2 - Rituximab, cetuximab, bevacizumab, alemtuzumab, trastuzumab",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(3)-Kinase_Inhibitors_&_Monoclonal_Abs::3.2-Rituximab,Cetuximab,Bevacizumab,Alemtuzumab,Trastuzumab",
+        "$$Antineoplastics",
+        "$Kinase_Inhibitors_&_MonoclonalAbsbb"
+    ],
+    "question": {
+        "text": "§\n\nWhat adverse reaction can occur 7-10 days after administering Rituximab?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat adverse reaction can occur 7-10 days after administering Rituximab?\n\nSerum sickness\n\n(Type III hypersensitivity reaction, can also occur with Cetuximab, but far less often)\n\n[Image: 7dfbf37846df40371aee1a3f2770f817a93a3a26bb2fa21949739707d2262ffb]\n\n[Image: 6e0574262c58826e26a71c16d7dfc1de8aacb127c58d3e4d472915358a8c207d]\n\n3.2 - Rituximab, cetuximab, bevacizumab, alemtuzumab, trastuzumab\n[Image: 78a3e5812b6b01cdf56b21c2dfa38b5f9a0a529350b6e0f9cec1fbc74081ae53]\n\n[Image: 9b62b45e65e980af4dabaab4824877160f66c7b4451ec31f26902f9f7b7dc09c]\n\n[Image: 77764fe2fafd0c5b5cc932c05fed9c385f31db6a88a3a2ea8cc6861ff68bf055]\n\n[Image: 187e7892c5c87c734265e9ff1612493208af791f9bdb0878077012f6a004fcc9]\n\n[Image: 0e4e85539937cdc2a012cad4670c08900808f5a50a54ce2895e466b08f771374]",
+        "imageIds": [
+            "7dfbf37846df40371aee1a3f2770f817a93a3a26bb2fa21949739707d2262ffb",
+            "6e0574262c58826e26a71c16d7dfc1de8aacb127c58d3e4d472915358a8c207d",
+            "78a3e5812b6b01cdf56b21c2dfa38b5f9a0a529350b6e0f9cec1fbc74081ae53",
+            "9b62b45e65e980af4dabaab4824877160f66c7b4451ec31f26902f9f7b7dc09c",
+            "77764fe2fafd0c5b5cc932c05fed9c385f31db6a88a3a2ea8cc6861ff68bf055",
+            "187e7892c5c87c734265e9ff1612493208af791f9bdb0878077012f6a004fcc9",
+            "0e4e85539937cdc2a012cad4670c08900808f5a50a54ce2895e466b08f771374"
+        ]
+    },
+    "images": {
+        "0e4e85539937cdc2a012cad4670c08900808f5a50a54ce2895e466b08f771374": {
+            "file": "images/0e4e85539937cdc2a012cad4670c08900808f5a50a54ce2895e466b08f771374.jpg",
+            "filename": "paste-34540126994435.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 41487
+        },
+        "187e7892c5c87c734265e9ff1612493208af791f9bdb0878077012f6a004fcc9": {
+            "file": "images/187e7892c5c87c734265e9ff1612493208af791f9bdb0878077012f6a004fcc9.jpg",
+            "filename": "paste-34398393073667.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 27319
+        },
+        "6e0574262c58826e26a71c16d7dfc1de8aacb127c58d3e4d472915358a8c207d": {
+            "file": "images/6e0574262c58826e26a71c16d7dfc1de8aacb127c58d3e4d472915358a8c207d.jpg",
+            "filename": "paste-18747532247043.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51357
+        },
+        "77764fe2fafd0c5b5cc932c05fed9c385f31db6a88a3a2ea8cc6861ff68bf055": {
+            "file": "images/77764fe2fafd0c5b5cc932c05fed9c385f31db6a88a3a2ea8cc6861ff68bf055.jpg",
+            "filename": "paste-34359738368003.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 25224
+        },
+        "78a3e5812b6b01cdf56b21c2dfa38b5f9a0a529350b6e0f9cec1fbc74081ae53": {
+            "file": "images/78a3e5812b6b01cdf56b21c2dfa38b5f9a0a529350b6e0f9cec1fbc74081ae53.jpg",
+            "filename": "paste-390537081257985.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 140132
+        },
+        "7dfbf37846df40371aee1a3f2770f817a93a3a26bb2fa21949739707d2262ffb": {
+            "file": "images/7dfbf37846df40371aee1a3f2770f817a93a3a26bb2fa21949739707d2262ffb.jpg",
+            "filename": "paste-12537009537027.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57182
+        },
+        "9b62b45e65e980af4dabaab4824877160f66c7b4451ec31f26902f9f7b7dc09c": {
+            "file": "images/9b62b45e65e980af4dabaab4824877160f66c7b4451ec31f26902f9f7b7dc09c.jpg",
+            "filename": "paste-34286723923971.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49232
+        }
+    }
+}

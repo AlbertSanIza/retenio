@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484170558101",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484170558101",
+        "noteId": "1484169055669",
+        "noteGuid": "QrQ#;bxg=`",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::2 Anesthetics & Analgesics::2.1 - Propofol, etomidate, ketamine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(2)-Anesthetics_&_Analgesics::2.1-Propofol,Etomidate,Ketamine",
+        "$$Neuro/Psych",
+        "$Anesthetics_&_Analgesics"
+    ],
+    "question": {
+        "text": "§\n\nIndication(s): Ketamine",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nIndication(s): Ketamine\n\nInduction\n\n[Image: c38085f489af461db5c377d2472077cd2d88924f84e78dc462f53741fc24eba0]\n\n2.1 - Propofol, etomidate, ketamine\n[Image: 258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc]\n\n[Image: 876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc]",
+        "imageIds": [
+            "c38085f489af461db5c377d2472077cd2d88924f84e78dc462f53741fc24eba0",
+            "258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc",
+            "876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc"
+        ]
+    },
+    "images": {
+        "258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc": {
+            "file": "images/258a54c6518801531083df57d14fb6cda25f3228ebdf17026d29f45d53246bbc.jpg",
+            "filename": "paste-490476675268611.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 83285
+        },
+        "876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc": {
+            "file": "images/876e2a1c2158aaf28cdc060b6d7143a302a155374f0ccaf6cebb550130b120bc.jpg",
+            "filename": "paste-501411662004227.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 93496
+        },
+        "c38085f489af461db5c377d2472077cd2d88924f84e78dc462f53741fc24eba0": {
+            "file": "images/c38085f489af461db5c377d2472077cd2d88924f84e78dc462f53741fc24eba0.jpg",
+            "filename": "paste-492349281009667.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 84593
+        }
+    }
+}

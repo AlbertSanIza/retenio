@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480544399935",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480544399935",
+        "noteId": "1480543987032",
+        "noteGuid": "N#HRdX_!QM",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.4 - Chloramphenicol",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.4-Chloramphenicol",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "§\n\nIs Chloramphenicol bacteristatic or bacteriocidal?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nIs Chloramphenicol bacteristatic or bacteriocidal?\n\nBacteriostatic\n\n[Image: d911c66e213db99af2d768882b9eaad7774c839d39e41f5cf6c6ef951b6a9804]\n\n2.4 - Chloramphenicol\n[Image: b067638da806193744df903046261dbc296bdafd64018aa8b7749b1dec506f00]\n\n[Image: 8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4]\n\n[Image: 4d828f47ea3b8d21a049c82aaaf2afd544ee8ffb3c627fed79ad3de3e42d96ad]",
+        "imageIds": [
+            "d911c66e213db99af2d768882b9eaad7774c839d39e41f5cf6c6ef951b6a9804",
+            "b067638da806193744df903046261dbc296bdafd64018aa8b7749b1dec506f00",
+            "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4",
+            "4d828f47ea3b8d21a049c82aaaf2afd544ee8ffb3c627fed79ad3de3e42d96ad"
+        ]
+    },
+    "images": {
+        "4d828f47ea3b8d21a049c82aaaf2afd544ee8ffb3c627fed79ad3de3e42d96ad": {
+            "file": "images/4d828f47ea3b8d21a049c82aaaf2afd544ee8ffb3c627fed79ad3de3e42d96ad.jpg",
+            "filename": "paste-394308062543875.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51870
+        },
+        "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4": {
+            "file": "images/8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4.jpg",
+            "filename": "paste-321710230339587.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 76271
+        },
+        "b067638da806193744df903046261dbc296bdafd64018aa8b7749b1dec506f00": {
+            "file": "images/b067638da806193744df903046261dbc296bdafd64018aa8b7749b1dec506f00.jpg",
+            "filename": "paste-225537322647553.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 105140
+        },
+        "d911c66e213db99af2d768882b9eaad7774c839d39e41f5cf6c6ef951b6a9804": {
+            "file": "images/d911c66e213db99af2d768882b9eaad7774c839d39e41f5cf6c6ef951b6a9804.jpg",
+            "filename": "paste-21393232101379.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 37819
+        }
+    }
+}

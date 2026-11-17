@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480543237513",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480543237513",
+        "noteId": "1480542313473",
+        "noteGuid": "f(Tr,}<mC3",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.2 - Macrolides",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.2-Macrolides",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "§\n\nWhat class of antibiotic is used for pertussis?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat class of antibiotic is used for pertussis?\n\nMacrolide\n\n(Treatment and prophylaxis)\n\n[Image: 55e953fb239a6772581382f0358be4df8350c901663c41d2caa2714f00d86e0f]\n\n[Image: 396328a88580be1940fb349382e85ea0f88f26ef765804c253365bb62e5d555b]\n\n2.2 - Macrolides\n[Image: 190939fabc0a82c201a2fd0c7090bd1746588a112f195201fc2f6a33cc26863a]\n\n[Image: 8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4]\n\n[Image: 373392e6d05258c8e0d2b36a5a062a3a132376066d7db21faa388d4669c4a3fd]",
+        "imageIds": [
+            "55e953fb239a6772581382f0358be4df8350c901663c41d2caa2714f00d86e0f",
+            "396328a88580be1940fb349382e85ea0f88f26ef765804c253365bb62e5d555b",
+            "190939fabc0a82c201a2fd0c7090bd1746588a112f195201fc2f6a33cc26863a",
+            "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4",
+            "373392e6d05258c8e0d2b36a5a062a3a132376066d7db21faa388d4669c4a3fd"
+        ]
+    },
+    "images": {
+        "190939fabc0a82c201a2fd0c7090bd1746588a112f195201fc2f6a33cc26863a": {
+            "file": "images/190939fabc0a82c201a2fd0c7090bd1746588a112f195201fc2f6a33cc26863a.jpg",
+            "filename": "paste-219288145231873.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 112000
+        },
+        "373392e6d05258c8e0d2b36a5a062a3a132376066d7db21faa388d4669c4a3fd": {
+            "file": "images/373392e6d05258c8e0d2b36a5a062a3a132376066d7db21faa388d4669c4a3fd.jpg",
+            "filename": "paste-407523676913667.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61060
+        },
+        "396328a88580be1940fb349382e85ea0f88f26ef765804c253365bb62e5d555b": {
+            "file": "images/396328a88580be1940fb349382e85ea0f88f26ef765804c253365bb62e5d555b.jpg",
+            "filename": "paste-10028748636163.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 38652
+        },
+        "55e953fb239a6772581382f0358be4df8350c901663c41d2caa2714f00d86e0f": {
+            "file": "images/55e953fb239a6772581382f0358be4df8350c901663c41d2caa2714f00d86e0f.jpg",
+            "filename": "paste-9418863280131.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 38195
+        },
+        "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4": {
+            "file": "images/8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4.jpg",
+            "filename": "paste-321710230339587.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 76271
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480301676610",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480301676610",
+        "noteId": "1480300461128",
+        "noteGuid": "gen6[eB!s4",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.3 - Ampicillin, Amoxicillin, Piperacillin, Ticarcillin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.3-Ampicillin,Amoxicillin,Piperacillin,Ticaracillin",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "§\n\nWhat antibiotic is used as prophylaxis against encapsulated bacteria in asplenic patients?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat antibiotic is used as prophylaxis against encapsulated bacteria in asplenic patients?\n\nAmoxicillin\n\n[Image: 9771ad5e2f3020fce837faeda0939419f55b08d8b9c4b02626d4beb06c531399]\n\n1.3 - Ampicillin, Amoxicillin, Piperacillin, Ticarcillin\n[Image: 73649876eb90940a2752e430d48e8b86fa74f357ee4b66ebcc0c785bdb3d9a75]\n\n[Image: e247dc64a8f74ff65fa3d44949043d8004ba0ee12839e32679e234e2233f2722]\n\n[Image: 8e0858281ca4bfb7a1bd12c078d95409c582c615ea7260b31a32bbb31fa1d57f]",
+        "imageIds": [
+            "9771ad5e2f3020fce837faeda0939419f55b08d8b9c4b02626d4beb06c531399",
+            "73649876eb90940a2752e430d48e8b86fa74f357ee4b66ebcc0c785bdb3d9a75",
+            "e247dc64a8f74ff65fa3d44949043d8004ba0ee12839e32679e234e2233f2722",
+            "8e0858281ca4bfb7a1bd12c078d95409c582c615ea7260b31a32bbb31fa1d57f"
+        ]
+    },
+    "images": {
+        "73649876eb90940a2752e430d48e8b86fa74f357ee4b66ebcc0c785bdb3d9a75": {
+            "file": "images/73649876eb90940a2752e430d48e8b86fa74f357ee4b66ebcc0c785bdb3d9a75.jpg",
+            "filename": "paste-62818191671299 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 102811
+        },
+        "8e0858281ca4bfb7a1bd12c078d95409c582c615ea7260b31a32bbb31fa1d57f": {
+            "file": "images/8e0858281ca4bfb7a1bd12c078d95409c582c615ea7260b31a32bbb31fa1d57f.jpg",
+            "filename": "paste-485790865948675.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 36322
+        },
+        "9771ad5e2f3020fce837faeda0939419f55b08d8b9c4b02626d4beb06c531399": {
+            "file": "images/9771ad5e2f3020fce837faeda0939419f55b08d8b9c4b02626d4beb06c531399.jpg",
+            "filename": "paste-97517232455683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 42596
+        },
+        "e247dc64a8f74ff65fa3d44949043d8004ba0ee12839e32679e234e2233f2722": {
+            "file": "images/e247dc64a8f74ff65fa3d44949043d8004ba0ee12839e32679e234e2233f2722.jpg",
+            "filename": "paste-328711027032067.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 77523
+        }
+    }
+}

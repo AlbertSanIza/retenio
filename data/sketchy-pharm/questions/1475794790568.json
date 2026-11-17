@@ -1,0 +1,80 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475794790568",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475794790568",
+        "noteId": "1475793971812",
+        "noteGuid": "lxQq)Zvao+",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.1 - SSRIs, SNRIs, cyproheptadine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.1-SSRIs,SNRIs,Cyproheptadine",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "§\n\nAdverse Effects (4) : SSRIs",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nAdverse Effects (4) : SSRIs\n\n(1) SIADH\n(2) Sexual dysfunction\n\n(3) Weight gain\n\n(4) Drowsiness\n\n[Image: 179038c1b0c08e904920ad2ea8f0cbfd4b6675e592717c657d2ede12fff9da8f]\n\n[Image: 395a2a5fa41ef6b30097fb9589153f176f847c527bbd6abd4bb188ed61e3dff0]\n\n[Image: d4b9d19d263671ee06cdb263c1b86d3470ca82a0371b5653f623f4a4119cf41e]\n\n[Image: 23a4a8ca756a6b7d7222cc71fe6a404445ad3cfc861dcd3ad2d3155f8ebd8c4b]\n\n3.1 - SSRIs, SNRIs, cyproheptadine\n[Image: ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6]\n\n[Image: 7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943]\n\n[Image: 8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1]",
+        "imageIds": [
+            "179038c1b0c08e904920ad2ea8f0cbfd4b6675e592717c657d2ede12fff9da8f",
+            "395a2a5fa41ef6b30097fb9589153f176f847c527bbd6abd4bb188ed61e3dff0",
+            "d4b9d19d263671ee06cdb263c1b86d3470ca82a0371b5653f623f4a4119cf41e",
+            "23a4a8ca756a6b7d7222cc71fe6a404445ad3cfc861dcd3ad2d3155f8ebd8c4b",
+            "ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6",
+            "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943",
+            "8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1"
+        ]
+    },
+    "images": {
+        "179038c1b0c08e904920ad2ea8f0cbfd4b6675e592717c657d2ede12fff9da8f": {
+            "file": "images/179038c1b0c08e904920ad2ea8f0cbfd4b6675e592717c657d2ede12fff9da8f.jpg",
+            "filename": "paste-14117557501955.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 68599
+        },
+        "23a4a8ca756a6b7d7222cc71fe6a404445ad3cfc861dcd3ad2d3155f8ebd8c4b": {
+            "file": "images/23a4a8ca756a6b7d7222cc71fe6a404445ad3cfc861dcd3ad2d3155f8ebd8c4b.jpg",
+            "filename": "paste-14632953577475.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70855
+        },
+        "395a2a5fa41ef6b30097fb9589153f176f847c527bbd6abd4bb188ed61e3dff0": {
+            "file": "images/395a2a5fa41ef6b30097fb9589153f176f847c527bbd6abd4bb188ed61e3dff0.jpg",
+            "filename": "paste-14297946128387.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70803
+        },
+        "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943": {
+            "file": "images/7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943.jpg",
+            "filename": "paste-1171594063904771.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 89818
+        },
+        "8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1": {
+            "file": "images/8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1.jpg",
+            "filename": "paste-21088289423363 (2).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 92436
+        },
+        "ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6": {
+            "file": "images/ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6.jpg",
+            "filename": "paste-1134098999410689.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 142260
+        },
+        "d4b9d19d263671ee06cdb263c1b86d3470ca82a0371b5653f623f4a4119cf41e": {
+            "file": "images/d4b9d19d263671ee06cdb263c1b86d3470ca82a0371b5653f623f4a4119cf41e.jpg",
+            "filename": "paste-14547054231555.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70284
+        }
+    }
+}

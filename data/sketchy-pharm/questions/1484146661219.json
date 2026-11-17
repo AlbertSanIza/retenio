@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484146661219",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484146661219",
+        "noteId": "1484145428631",
+        "noteGuid": "giBHBUiPlE",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::1 GI::1.1 - Antiemetic agents",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(1)-GI::1.1-Antiemetic_Agents",
+        "$$GI_&_Endocrine",
+        "$GI"
+    ],
+    "question": {
+        "text": "§\n\nName 2 receptors found in high concentration in the area postrema",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nName 2 receptors found in high concentration in the area postrema\n\n(1) D2\n(2) NK1\n\n[Image: c6fc472b571e4180978d17425e1db1916b3b2537368375489abd7696957bc73f]\n\n[Image: 6b1930f529c0da8798612f1304efb56410230e19b585734ef4b9e1a773eed9c9]\n\n1.1 - Antiemetic agents\n[Image: d89cfb4eef2c721f61a2ce6802d713338822cf7c47e11baded197a5ce0412aab]\n\n[Image: eab3c509c329c61d8d15268b17eee318489649e67aa871b5c58cd3c5ddb8cbf6]\n\n[Image: 2f4a8e742d966fd8cdf941e2165eb617f7829c49c1c60bc634ad434cd1fe0de6]\n\n[Image: 6daffe22807830195101aa85fecbb7c979f4c03c6c392c0ad90c3e09d4bceea0]",
+        "imageIds": [
+            "c6fc472b571e4180978d17425e1db1916b3b2537368375489abd7696957bc73f",
+            "6b1930f529c0da8798612f1304efb56410230e19b585734ef4b9e1a773eed9c9",
+            "d89cfb4eef2c721f61a2ce6802d713338822cf7c47e11baded197a5ce0412aab",
+            "eab3c509c329c61d8d15268b17eee318489649e67aa871b5c58cd3c5ddb8cbf6",
+            "2f4a8e742d966fd8cdf941e2165eb617f7829c49c1c60bc634ad434cd1fe0de6",
+            "6daffe22807830195101aa85fecbb7c979f4c03c6c392c0ad90c3e09d4bceea0"
+        ]
+    },
+    "images": {
+        "2f4a8e742d966fd8cdf941e2165eb617f7829c49c1c60bc634ad434cd1fe0de6": {
+            "file": "images/2f4a8e742d966fd8cdf941e2165eb617f7829c49c1c60bc634ad434cd1fe0de6.jpg",
+            "filename": "paste-436647850147843.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 85310
+        },
+        "6b1930f529c0da8798612f1304efb56410230e19b585734ef4b9e1a773eed9c9": {
+            "file": "images/6b1930f529c0da8798612f1304efb56410230e19b585734ef4b9e1a773eed9c9.jpg",
+            "filename": "paste-388114719703043.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 81363
+        },
+        "6daffe22807830195101aa85fecbb7c979f4c03c6c392c0ad90c3e09d4bceea0": {
+            "file": "images/6daffe22807830195101aa85fecbb7c979f4c03c6c392c0ad90c3e09d4bceea0.jpg",
+            "filename": "paste-784535906156547.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 19723
+        },
+        "c6fc472b571e4180978d17425e1db1916b3b2537368375489abd7696957bc73f": {
+            "file": "images/c6fc472b571e4180978d17425e1db1916b3b2537368375489abd7696957bc73f.jpg",
+            "filename": "paste-325227808555011.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 72307
+        },
+        "d89cfb4eef2c721f61a2ce6802d713338822cf7c47e11baded197a5ce0412aab": {
+            "file": "images/d89cfb4eef2c721f61a2ce6802d713338822cf7c47e11baded197a5ce0412aab.jpg",
+            "filename": "paste-291224552472579.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 140481
+        },
+        "eab3c509c329c61d8d15268b17eee318489649e67aa871b5c58cd3c5ddb8cbf6": {
+            "file": "images/eab3c509c329c61d8d15268b17eee318489649e67aa871b5c58cd3c5ddb8cbf6.jpg",
+            "filename": "paste-18580028522499.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 32974
+        }
+    }
+}

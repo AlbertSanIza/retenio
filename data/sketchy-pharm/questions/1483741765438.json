@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1483741765438",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1483741765438",
+        "noteId": "1480291959729",
+        "noteGuid": "DTmn*-2U)v",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.5 - Vincristine, vinblastine, paclitaxel",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "§\n\nWhat type of cancers do Vinca alkaloids treat?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat type of cancers do Vinca alkaloids treat?\n\n(1) Hematologic\n(2) Solid malignancies\n\n[Image: 77cd4efa4041c76720a8be46405fe3621ab5a03f4421fddaf697ba1116fe1318]\n\n2.5 - Vincristine, vinblastine, paclitaxel\n[Image: e1e76c061fbaa1fa437b5c43d9879245f306b0beba584f0e4d9ee5c2b2ef13ab]\n\n[Image: 1e226faf8adfc33cfad5376402ab4d187caa405b8f2fda95474ddc89f0cd0175]\n\n[Image: 9ebb12f86ad920185f85771e6e40641a9f3b8fec395cd184edc489f944ac8b0e]",
+        "imageIds": [
+            "77cd4efa4041c76720a8be46405fe3621ab5a03f4421fddaf697ba1116fe1318",
+            "e1e76c061fbaa1fa437b5c43d9879245f306b0beba584f0e4d9ee5c2b2ef13ab",
+            "1e226faf8adfc33cfad5376402ab4d187caa405b8f2fda95474ddc89f0cd0175",
+            "9ebb12f86ad920185f85771e6e40641a9f3b8fec395cd184edc489f944ac8b0e"
+        ]
+    },
+    "images": {
+        "1e226faf8adfc33cfad5376402ab4d187caa405b8f2fda95474ddc89f0cd0175": {
+            "file": "images/1e226faf8adfc33cfad5376402ab4d187caa405b8f2fda95474ddc89f0cd0175.jpg",
+            "filename": "paste-207824877518851.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45280
+        },
+        "77cd4efa4041c76720a8be46405fe3621ab5a03f4421fddaf697ba1116fe1318": {
+            "file": "images/77cd4efa4041c76720a8be46405fe3621ab5a03f4421fddaf697ba1116fe1318.jpg",
+            "filename": "paste-135330124529667.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 81665
+        },
+        "9ebb12f86ad920185f85771e6e40641a9f3b8fec395cd184edc489f944ac8b0e": {
+            "file": "images/9ebb12f86ad920185f85771e6e40641a9f3b8fec395cd184edc489f944ac8b0e.jpg",
+            "filename": "paste-158763466096643.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 80233
+        },
+        "e1e76c061fbaa1fa437b5c43d9879245f306b0beba584f0e4d9ee5c2b2ef13ab": {
+            "file": "images/e1e76c061fbaa1fa437b5c43d9879245f306b0beba584f0e4d9ee5c2b2ef13ab.jpg",
+            "filename": "paste-381625024118785.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 132610
+        }
+    }
+}

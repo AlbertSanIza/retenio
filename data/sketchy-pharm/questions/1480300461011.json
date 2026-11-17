@@ -1,0 +1,51 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480300461011",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480300461011",
+        "noteId": "1480299594760",
+        "noteGuid": "GX)zWO73Ma",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.2 - Nafcillin, Oxacillin, Methicillin & Dicloxacillin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.2-Nafcillin,Oxacillin,Methicillin,Dicloxacillin$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "§\n\nWhat is Methicillin's spectrum of activity",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat is Methicillin's spectrum of activity\n\nStaphylococci\n\n[Image: 70fbff3b0ae68e85c1f61bda0ddc9fad48c0dbef9aec7ab1f117900fca81bbad]\n\n1.2 - Nafcillin, Oxacillin, Methicillin & Dicloxacillin\n[Image: 8ae11397e3a56d2f66c8b7321e66cb6b61822a8bdae8cb8aa32df46483d34242]\n\n[Image: 0e4494860081af6d0e608ea4ecf6718d2a3e5e242eb1ee692ffd1eb6452e88f3]",
+        "imageIds": [
+            "70fbff3b0ae68e85c1f61bda0ddc9fad48c0dbef9aec7ab1f117900fca81bbad",
+            "8ae11397e3a56d2f66c8b7321e66cb6b61822a8bdae8cb8aa32df46483d34242",
+            "0e4494860081af6d0e608ea4ecf6718d2a3e5e242eb1ee692ffd1eb6452e88f3"
+        ]
+    },
+    "images": {
+        "0e4494860081af6d0e608ea4ecf6718d2a3e5e242eb1ee692ffd1eb6452e88f3": {
+            "file": "images/0e4494860081af6d0e608ea4ecf6718d2a3e5e242eb1ee692ffd1eb6452e88f3.jpg",
+            "filename": "paste-156182190751747.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 42267
+        },
+        "70fbff3b0ae68e85c1f61bda0ddc9fad48c0dbef9aec7ab1f117900fca81bbad": {
+            "file": "images/70fbff3b0ae68e85c1f61bda0ddc9fad48c0dbef9aec7ab1f117900fca81bbad.jpg",
+            "filename": "paste-94141388161027.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 37893
+        },
+        "8ae11397e3a56d2f66c8b7321e66cb6b61822a8bdae8cb8aa32df46483d34242": {
+            "file": "images/8ae11397e3a56d2f66c8b7321e66cb6b61822a8bdae8cb8aa32df46483d34242.jpg",
+            "filename": "paste-174641960189953.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 102866
+        }
+    }
+}

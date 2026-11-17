@@ -1,0 +1,108 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480816165691",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480816165691",
+        "noteId": "1480812867870",
+        "noteGuid": "B.#W9#QCRN",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::3 Antimycobacterials::3.1 - Tuberculosis Drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(3)-Antimycobacterials::3.1-Tuberculosis_Drugs",
+        "$$Antimicrobials",
+        "$Antimycobacterials"
+    ],
+    "question": {
+        "text": "§\n\nAdverse Effects (6) : Isoniazid",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nAdverse Effects (6) : Isoniazid\n\n(1) Vitamin B6 Excretion\n(2) ⇒ Peripheral neuropathy\n\n(3) Seizures\n\n(4) Hepatotoxicity\n\n(5) Drug induced lupus\n\n(6) Inhibits CYP450\n\n(INH = Injury to Nerves and Hepatocytes)\n\n(Note: All antimycobacterial agents can cause hepatotoxicity)\n\n[Image: 4d2557429a7869999a0d0f611debd427970f892c38fd199db35da01905f423e8]\n\n[Image: 60ac03b3bfaebbb9e9c88ed3eb6b6cf52dec5b9ffbd7cc9687de27655c8c6a25]\n\n[Image: c5d023efc0b0ff3e297d9416f41ee5abf8fb136c5a69191ea20c4eedd8dfe9e9]\n\n[Image: af1ed9599082627ccbcef3aa8b8d985ec9522ef9a9a565b369f82f054a12eddc]\n\n[Image: 61c9080c1ead2540301b2b007f6426f19ad5016c609f9721d2c9795a6808acc0]\n\n[Image: 9e299c9831f19d11414a05b220fe7b420cec37e390802456849a34091cad4afa]\n\n3.1 - Tuberculosis Drugs\n[Image: 75747c8b652c8f2d208a149207fab1b8976d4381798f86e53cbafe58b3751752]\n\n[Image: d4d07c3fd6d7ac606792eb4ace534fe4cdb21726d114d25beab0fdf8ec968a95]\n\n[Image: 8a6a87653f9aeb4a4876920b2a1558f23095df8b805d5c12e7f0a2e3f461200b]\n\n[Image: 263eda575dffc9aa3fccc786bb7febb77ffe5631bea7e464d00e08898ed80463]\n\n[Image: d564a2c26b1ad2fd2193e2653e6827fe68d6c771d1ae83265a06893ce8e50900]",
+        "imageIds": [
+            "4d2557429a7869999a0d0f611debd427970f892c38fd199db35da01905f423e8",
+            "60ac03b3bfaebbb9e9c88ed3eb6b6cf52dec5b9ffbd7cc9687de27655c8c6a25",
+            "c5d023efc0b0ff3e297d9416f41ee5abf8fb136c5a69191ea20c4eedd8dfe9e9",
+            "af1ed9599082627ccbcef3aa8b8d985ec9522ef9a9a565b369f82f054a12eddc",
+            "61c9080c1ead2540301b2b007f6426f19ad5016c609f9721d2c9795a6808acc0",
+            "9e299c9831f19d11414a05b220fe7b420cec37e390802456849a34091cad4afa",
+            "75747c8b652c8f2d208a149207fab1b8976d4381798f86e53cbafe58b3751752",
+            "d4d07c3fd6d7ac606792eb4ace534fe4cdb21726d114d25beab0fdf8ec968a95",
+            "8a6a87653f9aeb4a4876920b2a1558f23095df8b805d5c12e7f0a2e3f461200b",
+            "263eda575dffc9aa3fccc786bb7febb77ffe5631bea7e464d00e08898ed80463",
+            "d564a2c26b1ad2fd2193e2653e6827fe68d6c771d1ae83265a06893ce8e50900"
+        ]
+    },
+    "images": {
+        "263eda575dffc9aa3fccc786bb7febb77ffe5631bea7e464d00e08898ed80463": {
+            "file": "images/263eda575dffc9aa3fccc786bb7febb77ffe5631bea7e464d00e08898ed80463.jpg",
+            "filename": "paste-463057604050947.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 71628
+        },
+        "4d2557429a7869999a0d0f611debd427970f892c38fd199db35da01905f423e8": {
+            "file": "images/4d2557429a7869999a0d0f611debd427970f892c38fd199db35da01905f423e8.jpg",
+            "filename": "paste-178004919582723.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45918
+        },
+        "60ac03b3bfaebbb9e9c88ed3eb6b6cf52dec5b9ffbd7cc9687de27655c8c6a25": {
+            "file": "images/60ac03b3bfaebbb9e9c88ed3eb6b6cf52dec5b9ffbd7cc9687de27655c8c6a25.jpg",
+            "filename": "paste-178125178667011.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46081
+        },
+        "61c9080c1ead2540301b2b007f6426f19ad5016c609f9721d2c9795a6808acc0": {
+            "file": "images/61c9080c1ead2540301b2b007f6426f19ad5016c609f9721d2c9795a6808acc0.jpg",
+            "filename": "paste-179435143692291.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48760
+        },
+        "75747c8b652c8f2d208a149207fab1b8976d4381798f86e53cbafe58b3751752": {
+            "file": "images/75747c8b652c8f2d208a149207fab1b8976d4381798f86e53cbafe58b3751752.jpg",
+            "filename": "paste-235686330368001.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 145951
+        },
+        "8a6a87653f9aeb4a4876920b2a1558f23095df8b805d5c12e7f0a2e3f461200b": {
+            "file": "images/8a6a87653f9aeb4a4876920b2a1558f23095df8b805d5c12e7f0a2e3f461200b.jpg",
+            "filename": "paste-461352502034435.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58231
+        },
+        "9e299c9831f19d11414a05b220fe7b420cec37e390802456849a34091cad4afa": {
+            "file": "images/9e299c9831f19d11414a05b220fe7b420cec37e390802456849a34091cad4afa.jpg",
+            "filename": "paste-179976309571587.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49382
+        },
+        "af1ed9599082627ccbcef3aa8b8d985ec9522ef9a9a565b369f82f054a12eddc": {
+            "file": "images/af1ed9599082627ccbcef3aa8b8d985ec9522ef9a9a565b369f82f054a12eddc.jpg",
+            "filename": "paste-178765128794115.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44700
+        },
+        "c5d023efc0b0ff3e297d9416f41ee5abf8fb136c5a69191ea20c4eedd8dfe9e9": {
+            "file": "images/c5d023efc0b0ff3e297d9416f41ee5abf8fb136c5a69191ea20c4eedd8dfe9e9.jpg",
+            "filename": "paste-178674934480899.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45871
+        },
+        "d4d07c3fd6d7ac606792eb4ace534fe4cdb21726d114d25beab0fdf8ec968a95": {
+            "file": "images/d4d07c3fd6d7ac606792eb4ace534fe4cdb21726d114d25beab0fdf8ec968a95.jpg",
+            "filename": "paste-457907938263043.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 64003
+        },
+        "d564a2c26b1ad2fd2193e2653e6827fe68d6c771d1ae83265a06893ce8e50900": {
+            "file": "images/d564a2c26b1ad2fd2193e2653e6827fe68d6c771d1ae83265a06893ce8e50900.jpg",
+            "filename": "paste-174826643783683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 24429
+        }
+    }
+}

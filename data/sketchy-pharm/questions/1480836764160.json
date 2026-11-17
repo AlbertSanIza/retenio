@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480836764160",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480836764160",
+        "noteId": "1480835348971",
+        "noteGuid": "i*mBW%(]hE",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::8 Antivirals: other::8.1 - Acyclovir, valacyclovir, famciclovir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(8)-Antivirals-Other::8.1-Acyclovir,Valacyclovir,Famiciclovir",
+        "$$Antimicrobials",
+        "$Antivirals_Others"
+    ],
+    "question": {
+        "text": "§\n\nWhich antiviral is used to treat HSV encephalitis?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhich antiviral is used to treat HSV encephalitis?\n\nAcyclovir\n\n(Acyclovir is likely preferred over Valacyclovir in serious situations due to IV administration)\n\n[Image: dfaba8d251600c454b51956a6ec617eb0081d138f465ed84bb9a47cc72aba175]\n\n8.1 - Acyclovir, valacyclovir, famciclovir\n[Image: 40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b]\n\n[Image: a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1]\n\n[Image: a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35]\n\n[Image: 3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b]",
+        "imageIds": [
+            "dfaba8d251600c454b51956a6ec617eb0081d138f465ed84bb9a47cc72aba175",
+            "40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b",
+            "a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1",
+            "a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35",
+            "3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b"
+        ]
+    },
+    "images": {
+        "3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b": {
+            "file": "images/3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b.jpg",
+            "filename": "paste-14950781157379.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 94367
+        },
+        "40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b": {
+            "file": "images/40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b.jpg",
+            "filename": "paste-383768212799491.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59940
+        },
+        "a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1": {
+            "file": "images/a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1.jpg",
+            "filename": "paste-305286275399683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 100859
+        },
+        "a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35": {
+            "file": "images/a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35.jpg",
+            "filename": "paste-13438952669187.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 81188
+        },
+        "dfaba8d251600c454b51956a6ec617eb0081d138f465ed84bb9a47cc72aba175": {
+            "file": "images/dfaba8d251600c454b51956a6ec617eb0081d138f465ed84bb9a47cc72aba175.jpg",
+            "filename": "paste-391589348245507.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46784
+        }
+    }
+}

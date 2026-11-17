@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480302755937",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480302755937",
+        "noteId": "1480301676727",
+        "noteGuid": "oy.7TfmNm^",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.4 - Cephalosporins",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.4-Cephalosporins",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "§\n\nWhat is the drug of choice for surgical prophylaxis?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat is the drug of choice for surgical prophylaxis?\n\nCefazolin\n\n(Neomycin to sterilize bowel)\n\n[Image: c90abde5c5b153de1245a8404427612d00e213e1be9af2e24ad0200995cee738]\n\n[Image: 1bcf2b9efe90f4f629c442ae760c8d832ee5cbef89f56aec71ca410de6ab00b0]\n\n1.4 - Cephalosporins\n[Image: b0ee60188020980c9ca1fee3403f12f3de6b38a960acb6dab4f74d7694bc03cb]\n\n[Image: baa9a42452ede300b4b20246eaf38bc2c1f71d244e0d82d4e5b1439dd976cf54]\n\n[Image: 602c1422ee0f9457e34f0ca3a0f1a24ba7d20a0e577996ff705ecdf7cccacc10]",
+        "imageIds": [
+            "c90abde5c5b153de1245a8404427612d00e213e1be9af2e24ad0200995cee738",
+            "1bcf2b9efe90f4f629c442ae760c8d832ee5cbef89f56aec71ca410de6ab00b0",
+            "b0ee60188020980c9ca1fee3403f12f3de6b38a960acb6dab4f74d7694bc03cb",
+            "baa9a42452ede300b4b20246eaf38bc2c1f71d244e0d82d4e5b1439dd976cf54",
+            "602c1422ee0f9457e34f0ca3a0f1a24ba7d20a0e577996ff705ecdf7cccacc10"
+        ]
+    },
+    "images": {
+        "1bcf2b9efe90f4f629c442ae760c8d832ee5cbef89f56aec71ca410de6ab00b0": {
+            "file": "images/1bcf2b9efe90f4f629c442ae760c8d832ee5cbef89f56aec71ca410de6ab00b0.jpg",
+            "filename": "paste-23343147253763.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47225
+        },
+        "602c1422ee0f9457e34f0ca3a0f1a24ba7d20a0e577996ff705ecdf7cccacc10": {
+            "file": "images/602c1422ee0f9457e34f0ca3a0f1a24ba7d20a0e577996ff705ecdf7cccacc10.jpg",
+            "filename": "paste-62023622721539.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46598
+        },
+        "b0ee60188020980c9ca1fee3403f12f3de6b38a960acb6dab4f74d7694bc03cb": {
+            "file": "images/b0ee60188020980c9ca1fee3403f12f3de6b38a960acb6dab4f74d7694bc03cb.jpg",
+            "filename": "paste-187273459007489.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 116817
+        },
+        "baa9a42452ede300b4b20246eaf38bc2c1f71d244e0d82d4e5b1439dd976cf54": {
+            "file": "images/baa9a42452ede300b4b20246eaf38bc2c1f71d244e0d82d4e5b1439dd976cf54.jpg",
+            "filename": "paste-58145267253251.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 98431
+        },
+        "c90abde5c5b153de1245a8404427612d00e213e1be9af2e24ad0200995cee738": {
+            "file": "images/c90abde5c5b153de1245a8404427612d00e213e1be9af2e24ad0200995cee738.jpg",
+            "filename": "paste-99029060943875.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 26467
+        }
+    }
+}

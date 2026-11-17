@@ -1,0 +1,87 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479164526116",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479164526116",
+        "noteId": "1479164083148",
+        "noteGuid": "iA?3DF,6G1",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::3 Anti-inflammatory::3.2 - Gout drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(3)-Anti-Inflammatory_Drugs::3.2-Gout_Drugs",
+        "$$Blood_&_Inflammation",
+        "$Anti-inflammatory"
+    ],
+    "question": {
+        "text": "§\n\nIndications (3) : Allopurinol",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nIndications (3) : Allopurinol\n\n(1) Gout\n(2) Tumor lysis syndrome\n(3) Lesch-Nyhan syndrome\n\n[Image: ddcdd0017a94e8815c3cfe9cf865212acb4b17b0f33ef42a301ac34291565a2c]\n\n[Image: 50344b9df2bd68cb014397f36086b0f63cb7df2fa6e7ab9ebdd5e59ac50892e4]\n\n[Image: 0a632645af4fd83a302b84bd245187c51f436a675a36250e7f07544a289d0386]\n\n[Image: 8dad417f9f29b095f3c20bcd5bf722f8502e1d13657b515f9f7a165c39cd25cf]\n\n3.2 - Gout Drugs\n[Image: be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df]\n\n[Image: 558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616]\n\n[Image: d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b]\n\n[Image: a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730]",
+        "imageIds": [
+            "ddcdd0017a94e8815c3cfe9cf865212acb4b17b0f33ef42a301ac34291565a2c",
+            "50344b9df2bd68cb014397f36086b0f63cb7df2fa6e7ab9ebdd5e59ac50892e4",
+            "0a632645af4fd83a302b84bd245187c51f436a675a36250e7f07544a289d0386",
+            "8dad417f9f29b095f3c20bcd5bf722f8502e1d13657b515f9f7a165c39cd25cf",
+            "be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df",
+            "558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616",
+            "d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b",
+            "a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730"
+        ]
+    },
+    "images": {
+        "0a632645af4fd83a302b84bd245187c51f436a675a36250e7f07544a289d0386": {
+            "file": "images/0a632645af4fd83a302b84bd245187c51f436a675a36250e7f07544a289d0386.jpg",
+            "filename": "paste-54498840018947.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59246
+        },
+        "50344b9df2bd68cb014397f36086b0f63cb7df2fa6e7ab9ebdd5e59ac50892e4": {
+            "file": "images/50344b9df2bd68cb014397f36086b0f63cb7df2fa6e7ab9ebdd5e59ac50892e4.jpg",
+            "filename": "paste-37327560769539 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 110005
+        },
+        "558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616": {
+            "file": "images/558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616.jpg",
+            "filename": "paste-121358595915779.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 132759
+        },
+        "8dad417f9f29b095f3c20bcd5bf722f8502e1d13657b515f9f7a165c39cd25cf": {
+            "file": "images/8dad417f9f29b095f3c20bcd5bf722f8502e1d13657b515f9f7a165c39cd25cf.jpg",
+            "filename": "paste-58965606006787.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56309
+        },
+        "a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730": {
+            "file": "images/a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730.jpg",
+            "filename": "paste-123982820933635.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34602
+        },
+        "be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df": {
+            "file": "images/be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df.jpg",
+            "filename": "paste-583518551801857.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 158251
+        },
+        "d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b": {
+            "file": "images/d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b.jpg",
+            "filename": "paste-113215337922563.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 184086
+        },
+        "ddcdd0017a94e8815c3cfe9cf865212acb4b17b0f33ef42a301ac34291565a2c": {
+            "file": "images/ddcdd0017a94e8815c3cfe9cf865212acb4b17b0f33ef42a301ac34291565a2c.jpg",
+            "filename": "paste-47253230190595.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51321
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1483743855396",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1483743855396",
+        "noteId": "1475731410843",
+        "noteGuid": "KE^F%)4EQ[",
+        "modelId": "1475688242543",
+        "templateOrdinal": 13
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.4 - Beta blockers",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.4-Beta_Drugs",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "§\n\nName 2 reasons β-blockers are helpful in CHF",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nName 2 reasons β-blockers are helpful in CHF\n\n(1) Prevents remodeling (due to excess catecholamines)\n(2) ↓ Renin (and ∴ prevents fluid overload and AngII mediated remodeling)\n\n[Image: b98988c89477c1a6bd3fe847f7f234f341f6315e5f6020e5220663f956563f25]\n\n[Image: 699c5752c90c16a2e87c725ee4e86ebe1970c50ab110193f3e93f5ebd891a783]\n\n2.4 - Beta blockers\n[Image: ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98]\n\n[Image: 0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173]\n\n[Image: 6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6]",
+        "imageIds": [
+            "b98988c89477c1a6bd3fe847f7f234f341f6315e5f6020e5220663f956563f25",
+            "699c5752c90c16a2e87c725ee4e86ebe1970c50ab110193f3e93f5ebd891a783",
+            "ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98",
+            "0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173",
+            "6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6"
+        ]
+    },
+    "images": {
+        "0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173": {
+            "file": "images/0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173.jpg",
+            "filename": "paste-302687820185603.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 107698
+        },
+        "699c5752c90c16a2e87c725ee4e86ebe1970c50ab110193f3e93f5ebd891a783": {
+            "file": "images/699c5752c90c16a2e87c725ee4e86ebe1970c50ab110193f3e93f5ebd891a783.jpg",
+            "filename": "paste-276196461903875.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 91738
+        },
+        "6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6": {
+            "file": "images/6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6.jpg",
+            "filename": "paste-305681412390915.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63928
+        },
+        "b98988c89477c1a6bd3fe847f7f234f341f6315e5f6020e5220663f956563f25": {
+            "file": "images/b98988c89477c1a6bd3fe847f7f234f341f6315e5f6020e5220663f956563f25.jpg",
+            "filename": "paste-273447682834435.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 86572
+        },
+        "ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98": {
+            "file": "images/ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98.jpg",
+            "filename": "paste-438146793734145.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 122524
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479164773060",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479164773060",
+        "noteId": "1479164083148",
+        "noteGuid": "iA?3DF,6G1",
+        "modelId": "1475688242543",
+        "templateOrdinal": 16
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::3 Anti-inflammatory::3.2 - Gout drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(3)-Anti-Inflammatory_Drugs::3.2-Gout_Drugs",
+        "$$Blood_&_Inflammation",
+        "$Anti-inflammatory"
+    ],
+    "question": {
+        "text": "§\n\nName a Sulfa drug used to treat gout",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nName a Sulfa drug used to treat gout\n\nProbenicid\n\n[Image: 64b2f01e7e3e8bd64dd81f603cb95c8024b8a4153eb69383b98d139c2e9c1821]\n\n[Image: f3d41a49bfae93f23e3a374f631a164cbee4984ae4f34f89ddde1d97ceda0538]\n\n3.2 - Gout Drugs\n[Image: be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df]\n\n[Image: 558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616]\n\n[Image: d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b]\n\n[Image: a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730]",
+        "imageIds": [
+            "64b2f01e7e3e8bd64dd81f603cb95c8024b8a4153eb69383b98d139c2e9c1821",
+            "f3d41a49bfae93f23e3a374f631a164cbee4984ae4f34f89ddde1d97ceda0538",
+            "be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df",
+            "558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616",
+            "d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b",
+            "a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730"
+        ]
+    },
+    "images": {
+        "558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616": {
+            "file": "images/558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616.jpg",
+            "filename": "paste-121358595915779.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 132759
+        },
+        "64b2f01e7e3e8bd64dd81f603cb95c8024b8a4153eb69383b98d139c2e9c1821": {
+            "file": "images/64b2f01e7e3e8bd64dd81f603cb95c8024b8a4153eb69383b98d139c2e9c1821.jpg",
+            "filename": "paste-90297392431107.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57370
+        },
+        "a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730": {
+            "file": "images/a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730.jpg",
+            "filename": "paste-123982820933635.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34602
+        },
+        "be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df": {
+            "file": "images/be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df.jpg",
+            "filename": "paste-583518551801857.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 158251
+        },
+        "d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b": {
+            "file": "images/d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b.jpg",
+            "filename": "paste-113215337922563.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 184086
+        },
+        "f3d41a49bfae93f23e3a374f631a164cbee4984ae4f34f89ddde1d97ceda0538": {
+            "file": "images/f3d41a49bfae93f23e3a374f631a164cbee4984ae4f34f89ddde1d97ceda0538.jpg",
+            "filename": "paste-70746701299715 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56666
+        }
+    }
+}

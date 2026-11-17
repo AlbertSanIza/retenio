@@ -1,0 +1,108 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1489377715613",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1489377715613",
+        "noteId": "1489373732673",
+        "noteGuid": "MVDX:P#kj;",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.1 - Propylthiouracil, Methimazole, Levothyroxine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.1-Propylthiouracil,Methimazole,Levothyroxine",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "§\n\nName 3 functions of thyroid peroxidase",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nName 3 functions of thyroid peroxidase\n\n(1) Oxidation of I- → I2\n(2) Organification of thyroglobulin\n(3) Coupling of iodinated tyrosine residues\n\n[Image: a2641859ef4a8935a498bfe1e1c555d305e511662be17f63ae7db767ff31ac29]\n\n[Image: 92b2087e098a44a6b065b3ba10ec234e9e63650b91f30bc666dbfbea8b20b9b6]\n\n[Image: 3fe527c1ae007be74e4594261fa11824771b57f06689a21022178b3d8a7fe9f0]\n\n[Image: bce9e2609c9ad2738e5d7832e63c28a7c67a366f86b3eb3f2415f995517bacb8]\n\n3.1 - Propylthiouracil, methimazole, levothyroxine\n\n[Image: 892baacb018a77ee7ff4582c288f0aa38c600fc7cb676f086fa0e7f59bc1bb0a]\n\n[Image: 1df82b4abb93fde504bea6a05e773b5354724e4588851c41c2da355dd8fb57e2]\n\n[Image: e3a5275a06ea9a1e248049c5fbc107aa2d033d0d2aad9d3540c8fb5f94635374]\n\n[Image: 4e495de35c9d59497f876d4ef4b82deb9ff7cdb5bd04383b7b93b002c57ed47f]\n\n[Image: bf559a43211486d995768a4c8841df4e1b0d27a833c7a92a517eb5c6df56af3a]\n\n[Image: aa8f9695407a6a33382c3912d4060afc422fc6133e0b0113991fe63f70b7f016]\n\n[Image: 3ce833f21fbb97ffc7160d9128a8bcc3ca6ddceeec99d6e5cd951098a638cd5d]",
+        "imageIds": [
+            "a2641859ef4a8935a498bfe1e1c555d305e511662be17f63ae7db767ff31ac29",
+            "92b2087e098a44a6b065b3ba10ec234e9e63650b91f30bc666dbfbea8b20b9b6",
+            "3fe527c1ae007be74e4594261fa11824771b57f06689a21022178b3d8a7fe9f0",
+            "bce9e2609c9ad2738e5d7832e63c28a7c67a366f86b3eb3f2415f995517bacb8",
+            "892baacb018a77ee7ff4582c288f0aa38c600fc7cb676f086fa0e7f59bc1bb0a",
+            "1df82b4abb93fde504bea6a05e773b5354724e4588851c41c2da355dd8fb57e2",
+            "e3a5275a06ea9a1e248049c5fbc107aa2d033d0d2aad9d3540c8fb5f94635374",
+            "4e495de35c9d59497f876d4ef4b82deb9ff7cdb5bd04383b7b93b002c57ed47f",
+            "bf559a43211486d995768a4c8841df4e1b0d27a833c7a92a517eb5c6df56af3a",
+            "aa8f9695407a6a33382c3912d4060afc422fc6133e0b0113991fe63f70b7f016",
+            "3ce833f21fbb97ffc7160d9128a8bcc3ca6ddceeec99d6e5cd951098a638cd5d"
+        ]
+    },
+    "images": {
+        "1df82b4abb93fde504bea6a05e773b5354724e4588851c41c2da355dd8fb57e2": {
+            "file": "images/1df82b4abb93fde504bea6a05e773b5354724e4588851c41c2da355dd8fb57e2.jpg",
+            "filename": "paste-33642478829571.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61264
+        },
+        "3ce833f21fbb97ffc7160d9128a8bcc3ca6ddceeec99d6e5cd951098a638cd5d": {
+            "file": "images/3ce833f21fbb97ffc7160d9128a8bcc3ca6ddceeec99d6e5cd951098a638cd5d.jpg",
+            "filename": "paste-33243046871043.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 71253
+        },
+        "3fe527c1ae007be74e4594261fa11824771b57f06689a21022178b3d8a7fe9f0": {
+            "file": "images/3fe527c1ae007be74e4594261fa11824771b57f06689a21022178b3d8a7fe9f0.jpg",
+            "filename": "paste-9646496546819 (4).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70241
+        },
+        "4e495de35c9d59497f876d4ef4b82deb9ff7cdb5bd04383b7b93b002c57ed47f": {
+            "file": "images/4e495de35c9d59497f876d4ef4b82deb9ff7cdb5bd04383b7b93b002c57ed47f.jpg",
+            "filename": "paste-27977416966147.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 146225
+        },
+        "892baacb018a77ee7ff4582c288f0aa38c600fc7cb676f086fa0e7f59bc1bb0a": {
+            "file": "images/892baacb018a77ee7ff4582c288f0aa38c600fc7cb676f086fa0e7f59bc1bb0a.jpg",
+            "filename": "paste-6644314406915 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 100785
+        },
+        "92b2087e098a44a6b065b3ba10ec234e9e63650b91f30bc666dbfbea8b20b9b6": {
+            "file": "images/92b2087e098a44a6b065b3ba10ec234e9e63650b91f30bc666dbfbea8b20b9b6.jpg",
+            "filename": "paste-8096013352963.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 69287
+        },
+        "a2641859ef4a8935a498bfe1e1c555d305e511662be17f63ae7db767ff31ac29": {
+            "file": "images/a2641859ef4a8935a498bfe1e1c555d305e511662be17f63ae7db767ff31ac29.jpg",
+            "filename": "paste-41923175776259.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 124636
+        },
+        "aa8f9695407a6a33382c3912d4060afc422fc6133e0b0113991fe63f70b7f016": {
+            "file": "images/aa8f9695407a6a33382c3912d4060afc422fc6133e0b0113991fe63f70b7f016.jpg",
+            "filename": "paste-33500744908803.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 96187
+        },
+        "bce9e2609c9ad2738e5d7832e63c28a7c67a366f86b3eb3f2415f995517bacb8": {
+            "file": "images/bce9e2609c9ad2738e5d7832e63c28a7c67a366f86b3eb3f2415f995517bacb8.jpg",
+            "filename": "paste-9307194130435.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 75408
+        },
+        "bf559a43211486d995768a4c8841df4e1b0d27a833c7a92a517eb5c6df56af3a": {
+            "file": "images/bf559a43211486d995768a4c8841df4e1b0d27a833c7a92a517eb5c6df56af3a.jpg",
+            "filename": "paste-28067611279363.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50690
+        },
+        "e3a5275a06ea9a1e248049c5fbc107aa2d033d0d2aad9d3540c8fb5f94635374": {
+            "file": "images/e3a5275a06ea9a1e248049c5fbc107aa2d033d0d2aad9d3540c8fb5f94635374.jpg",
+            "filename": "paste-42627550412803.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 24001
+        }
+    }
+}

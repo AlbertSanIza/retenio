@@ -1,35 +1,8 @@
-import { randomInt } from 'node:crypto'
+import { createHash, randomInt } from 'node:crypto'
 import { readFile } from 'node:fs/promises'
 import path from 'node:path'
-import { pathToFileURL } from 'node:url'
 import { z } from 'zod'
-
-const sideSchema = z.object({ text: z.string(), imageIds: z.array(z.string()) })
-const catalogSchema = z.object({
-    schemaVersion: z.literal(1),
-    source: z.string(),
-    cards: z
-        .array(
-            z.object({
-                id: z.string(),
-                noteId: z.string(),
-                deck: z.string(),
-                tags: z.array(z.string()),
-                question: sideSchema,
-                answer: sideSchema
-            })
-        )
-        .min(1),
-    media: z.record(
-        z.string().regex(/^[a-f0-9]{64}$/),
-        z.object({
-            file: z.string().regex(/^[a-f0-9]{64}\.(jpg|png|gif|webp)$/),
-            filename: z.string(),
-            mimeType: z.enum(['image/jpeg', 'image/png', 'image/gif', 'image/webp']),
-            bytes: z.number().int().positive()
-        })
-    )
-})
+import { loadCatalog, type Catalog } from './anki-data'
 
 export const randomQuestionsSchema = z.object({
     count: z.number().int().min(1).max(20).describe('Number of distinct random cards to return (1–20).'),
@@ -38,24 +11,19 @@ export const randomQuestionsSchema = z.object({
 
 export const imageInputSchema = z.object({ imageId: z.string().regex(/^[a-f0-9]{64}$/) })
 
-type Catalog = z.infer<typeof catalogSchema>
 type Content = { type: 'text'; text: string } | { type: 'image'; data: string; mimeType: string }
 type ToolResult = { content: Content[]; isError?: boolean }
 
-const dataDirectory = path.join(process.cwd(), 'data', 'anki')
-// next.config.ts explicitly includes these files in the serverless route bundle.
-const mediaDirectory = pathToFileURL(path.join(dataDirectory, 'media') + path.sep)
+const dataDirectory = path.join(process.cwd(), 'data')
 // Leave room for JSON metadata and the MCP envelope within a serverless response.
 const inlineImageBudget = 3_000_000
 let catalogPromise: Promise<Catalog> | undefined
 
 async function getCatalog() {
-    catalogPromise ??= readFile(path.join(dataDirectory, 'cards.json'), 'utf8')
-        .then((text) => catalogSchema.parse(JSON.parse(text)))
-        .catch((error) => {
-            catalogPromise = undefined
-            throw error
-        })
+    catalogPromise ??= loadCatalog(dataDirectory).catch((error) => {
+        catalogPromise = undefined
+        throw error
+    })
     return catalogPromise
 }
 
@@ -80,8 +48,10 @@ function toolError(message: string): ToolResult {
 async function imageContent(catalog: Catalog, imageId: string): Promise<Content[]> {
     const image = catalog.media[imageId]
     if (!image) throw new Error('Unknown image ID')
-    const data = await readFile(new URL(image.file, mediaDirectory))
-    if (data.length !== image.bytes) throw new Error('Image size does not match the catalog')
+    const data = await readFile(image.url)
+    if (data.length !== image.bytes || createHash('sha256').update(data).digest('hex') !== imageId) {
+        throw new Error('Image contents do not match the imported metadata')
+    }
     if (Math.ceil(data.length / 3) * 4 > inlineImageBudget) throw new Error('Image is too large for an MCP response')
     return [
         { type: 'text', text: `Image ${imageId}: ${image.filename}` },
@@ -138,7 +108,9 @@ export async function getRandomQuestions(input: z.input<typeof randomQuestionsSc
         }
     } catch (error) {
         console.error('Unable to load Anki cards:', error)
-        return toolError('Unable to load the Anki deck. Verify data/anki/cards.json and its media files are included in the deployment.')
+        return toolError(
+            'Unable to load the Anki collections. Verify data/<collection>/collection.json, questions/, and images/ are included in the deployment.'
+        )
     }
 }
 

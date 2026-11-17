@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476031894648",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476031894648",
+        "noteId": "1476030554170",
+        "noteGuid": "m_Papk8UP1",
+        "modelId": "1475688242543",
+        "templateOrdinal": 14
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.3 - Antiplatelet agents",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.3-Antiplatelet_Agents",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "§\n\nName 3 drugs which block GP IIb/IIIa",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nName 3 drugs which block GP IIb/IIIa\n\n(1) Abciximab\n(2) Eptifibatide\n\n(3) Tirofiban\n\n(Ab-6-imab = gp2 x gp3)\n\n[Image: bf9c071787d75f1b8c67469e0a63142043f9d740d3250d3299f1e844a99be644]\n\n[Image: bec2f9f6e1cc94eb941e73045c3b7e116b922750c78453fabbf9d6f8fbba8827]\n\n1.3 - Antiplatelet agents\n[Image: ee89fd2885841b66fb93a46431fac2e62bb3953bfa61fcd3f9c268c47a068395]\n\n[Image: b123716882c6664d41d883b5a5332e01e2ed365fd1ec842197b65c08707bfb25]\n\n[Image: 04d56c94dac6e3ce1ccd8f5c52d9216e56d1d61b6feb2791e2516613243f05f8]\n\n[Image: d0159ccd9576d70a1f5f07969a0d6ce49e91696c1bbd0a343b986721ea9f8393]",
+        "imageIds": [
+            "bf9c071787d75f1b8c67469e0a63142043f9d740d3250d3299f1e844a99be644",
+            "bec2f9f6e1cc94eb941e73045c3b7e116b922750c78453fabbf9d6f8fbba8827",
+            "ee89fd2885841b66fb93a46431fac2e62bb3953bfa61fcd3f9c268c47a068395",
+            "b123716882c6664d41d883b5a5332e01e2ed365fd1ec842197b65c08707bfb25",
+            "04d56c94dac6e3ce1ccd8f5c52d9216e56d1d61b6feb2791e2516613243f05f8",
+            "d0159ccd9576d70a1f5f07969a0d6ce49e91696c1bbd0a343b986721ea9f8393"
+        ]
+    },
+    "images": {
+        "04d56c94dac6e3ce1ccd8f5c52d9216e56d1d61b6feb2791e2516613243f05f8": {
+            "file": "images/04d56c94dac6e3ce1ccd8f5c52d9216e56d1d61b6feb2791e2516613243f05f8.jpg",
+            "filename": "paste-362512419651587.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 100027
+        },
+        "b123716882c6664d41d883b5a5332e01e2ed365fd1ec842197b65c08707bfb25": {
+            "file": "images/b123716882c6664d41d883b5a5332e01e2ed365fd1ec842197b65c08707bfb25.jpg",
+            "filename": "paste-38255273705475.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 81307
+        },
+        "bec2f9f6e1cc94eb941e73045c3b7e116b922750c78453fabbf9d6f8fbba8827": {
+            "file": "images/bec2f9f6e1cc94eb941e73045c3b7e116b922750c78453fabbf9d6f8fbba8827.jpg",
+            "filename": "paste-20529943674883.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65794
+        },
+        "bf9c071787d75f1b8c67469e0a63142043f9d740d3250d3299f1e844a99be644": {
+            "file": "images/bf9c071787d75f1b8c67469e0a63142043f9d740d3250d3299f1e844a99be644.jpg",
+            "filename": "paste-20306605375491.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66310
+        },
+        "d0159ccd9576d70a1f5f07969a0d6ce49e91696c1bbd0a343b986721ea9f8393": {
+            "file": "images/d0159ccd9576d70a1f5f07969a0d6ce49e91696c1bbd0a343b986721ea9f8393.jpg",
+            "filename": "paste-372133146394627.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 127236
+        },
+        "ee89fd2885841b66fb93a46431fac2e62bb3953bfa61fcd3f9c268c47a068395": {
+            "file": "images/ee89fd2885841b66fb93a46431fac2e62bb3953bfa61fcd3f9c268c47a068395.jpg",
+            "filename": "paste-15633680957443.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 89008
+        }
+    }
+}

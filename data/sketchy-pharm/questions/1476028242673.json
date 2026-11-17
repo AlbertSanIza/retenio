@@ -1,0 +1,80 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476028242673",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476028242673",
+        "noteId": "1476026238349",
+        "noteGuid": "q{jN<,Pl7#",
+        "modelId": "1475688242543",
+        "templateOrdinal": 19
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::1 Anticoagulants & Thrombolytics::1.1 - Heparin, LMWH, fondaparinux, direct thrombin inhibitors, Xa inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(1)-Anticoagulants_&_Thrombolytics::1.1-Heparin,LMWH,Fondaparinux,Direct_Thrombin_Inhibitors",
+        "$$Blood_&_Inflammation",
+        "$Anticoagulants&Thrombolytics"
+    ],
+    "question": {
+        "text": "§\n\nSuffix: Direct factor Xa inhibitor",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nSuffix: Direct factor Xa inhibitor\n\n\"-xaban\"\n\n[Image: 4d554a235711029a0f0b931ef05e51e14b0277f8e60b2c6c5189c80812ad37d0]\n\n[Image: 5fa320c49eae3335b86ccd2ec1ae3a419cff9b39b806a1da53b215789d1feb25]\n\n1.1 - Heparin, LMWH, fondaparinux, direct thrombin inhibitors, Xa inhibitors\n[Image: 277d6dd93c909a56ac4e048c44946e2dc9d1d89ef7a2e08080907883effa15d2]\n\n[Image: d624a8546655626b1e42c79e187169ee90ebf7b99d981f03e5e2edc92694e8e3]\n\n[Image: 5d42a451f5c6a755eb006684c27a5cc45128caabaa215f87f7db276b2cd69879]\n\n[Image: 1bb3d14dc3c487ed27252bc52651a1ed2c6900dc98a4091f4176866ee6ecb743]\n\n[Image: 92987436a5377d1532749c2f3493cb39490738e8019a390ae9188e6795476d2f]",
+        "imageIds": [
+            "4d554a235711029a0f0b931ef05e51e14b0277f8e60b2c6c5189c80812ad37d0",
+            "5fa320c49eae3335b86ccd2ec1ae3a419cff9b39b806a1da53b215789d1feb25",
+            "277d6dd93c909a56ac4e048c44946e2dc9d1d89ef7a2e08080907883effa15d2",
+            "d624a8546655626b1e42c79e187169ee90ebf7b99d981f03e5e2edc92694e8e3",
+            "5d42a451f5c6a755eb006684c27a5cc45128caabaa215f87f7db276b2cd69879",
+            "1bb3d14dc3c487ed27252bc52651a1ed2c6900dc98a4091f4176866ee6ecb743",
+            "92987436a5377d1532749c2f3493cb39490738e8019a390ae9188e6795476d2f"
+        ]
+    },
+    "images": {
+        "1bb3d14dc3c487ed27252bc52651a1ed2c6900dc98a4091f4176866ee6ecb743": {
+            "file": "images/1bb3d14dc3c487ed27252bc52651a1ed2c6900dc98a4091f4176866ee6ecb743.jpg",
+            "filename": "paste-379640749228035.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34387
+        },
+        "277d6dd93c909a56ac4e048c44946e2dc9d1d89ef7a2e08080907883effa15d2": {
+            "file": "images/277d6dd93c909a56ac4e048c44946e2dc9d1d89ef7a2e08080907883effa15d2.jpg",
+            "filename": "paste-6240587481091.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 95047
+        },
+        "4d554a235711029a0f0b931ef05e51e14b0277f8e60b2c6c5189c80812ad37d0": {
+            "file": "images/4d554a235711029a0f0b931ef05e51e14b0277f8e60b2c6c5189c80812ad37d0.jpg",
+            "filename": "paste-90005334654979.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 93280
+        },
+        "5d42a451f5c6a755eb006684c27a5cc45128caabaa215f87f7db276b2cd69879": {
+            "file": "images/5d42a451f5c6a755eb006684c27a5cc45128caabaa215f87f7db276b2cd69879.jpg",
+            "filename": "paste-378227704987651.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 132847
+        },
+        "5fa320c49eae3335b86ccd2ec1ae3a419cff9b39b806a1da53b215789d1feb25": {
+            "file": "images/5fa320c49eae3335b86ccd2ec1ae3a419cff9b39b806a1da53b215789d1feb25.jpg",
+            "filename": "paste-90117003804675.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 94622
+        },
+        "92987436a5377d1532749c2f3493cb39490738e8019a390ae9188e6795476d2f": {
+            "file": "images/92987436a5377d1532749c2f3493cb39490738e8019a390ae9188e6795476d2f.jpg",
+            "filename": "paste-387341625589763.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 79733
+        },
+        "d624a8546655626b1e42c79e187169ee90ebf7b99d981f03e5e2edc92694e8e3": {
+            "file": "images/d624a8546655626b1e42c79e187169ee90ebf7b99d981f03e5e2edc92694e8e3.jpg",
+            "filename": "paste-33981781245955.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 107746
+        }
+    }
+}

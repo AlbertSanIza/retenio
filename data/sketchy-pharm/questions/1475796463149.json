@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475796463149",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475796463149",
+        "noteId": "1475795781882",
+        "noteGuid": "uOs}?_Z]ZW",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.3 - MAO inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.3-MAOIs",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "§\n\nIndications (2) : Non-selective MAOIs",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nIndications (2) : Non-selective MAOIs\n\n(1) Atypical depression\n(2) Treatment resistant depression\n\n[Image: 15273ec391134903ea49725a61b48d7214d5460cee74456949c6c6cb4eef5b2c]\n\n[Image: ccdaaf841420bcd503531f4f91ac14ed4741d3fef0dd9e70e446b02f3eded691]\n\n3.3 - MAO inhibitors\n[Image: adadd1e6eb8e6cdff11c9af9b0b55cdfbb4d335e0b92be1617e8d3dd1091efcf]\n\n[Image: 7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943]\n\n[Image: cc12730c55c2398e774f9bcfb2a0179f485112a11e50e912538614720f76abe3]",
+        "imageIds": [
+            "15273ec391134903ea49725a61b48d7214d5460cee74456949c6c6cb4eef5b2c",
+            "ccdaaf841420bcd503531f4f91ac14ed4741d3fef0dd9e70e446b02f3eded691",
+            "adadd1e6eb8e6cdff11c9af9b0b55cdfbb4d335e0b92be1617e8d3dd1091efcf",
+            "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943",
+            "cc12730c55c2398e774f9bcfb2a0179f485112a11e50e912538614720f76abe3"
+        ]
+    },
+    "images": {
+        "15273ec391134903ea49725a61b48d7214d5460cee74456949c6c6cb4eef5b2c": {
+            "file": "images/15273ec391134903ea49725a61b48d7214d5460cee74456949c6c6cb4eef5b2c.jpg",
+            "filename": "paste-23905787969539.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44045
+        },
+        "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943": {
+            "file": "images/7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943.jpg",
+            "filename": "paste-1171594063904771.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 89818
+        },
+        "adadd1e6eb8e6cdff11c9af9b0b55cdfbb4d335e0b92be1617e8d3dd1091efcf": {
+            "file": "images/adadd1e6eb8e6cdff11c9af9b0b55cdfbb4d335e0b92be1617e8d3dd1091efcf.jpg",
+            "filename": "paste-1193481217245185.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 119424
+        },
+        "cc12730c55c2398e774f9bcfb2a0179f485112a11e50e912538614720f76abe3": {
+            "file": "images/cc12730c55c2398e774f9bcfb2a0179f485112a11e50e912538614720f76abe3.jpg",
+            "filename": "paste-177296249978883.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 78006
+        },
+        "ccdaaf841420bcd503531f4f91ac14ed4741d3fef0dd9e70e446b02f3eded691": {
+            "file": "images/ccdaaf841420bcd503531f4f91ac14ed4741d3fef0dd9e70e446b02f3eded691.jpg",
+            "filename": "paste-24481313587203.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48029
+        }
+    }
+}

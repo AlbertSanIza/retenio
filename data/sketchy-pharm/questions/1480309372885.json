@@ -1,0 +1,80 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480309372885",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480309372885",
+        "noteId": "1480309209169",
+        "noteGuid": "t(.L7mj0T?",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.4 - Maraviroc, fusion inhibitors, integrase inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.4-Maraviroc,Fusion_Inhibitors,_&_Integrase_Inhibitors",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "§\n\nWhat does the HIV gag gene code for?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat does the HIV gag gene code for?\n\nThe STRUCTURAL proteins,\n\n(1) p24\n(2) p7\n\n[Image: 6faf202d710a5c252ca9d8e28e19c106c840b9351a4daa75e32f16bcc78d1c84]\n\n[Image: d3acaa7bfffd7f4cf1c70551bec13c6324fdd503871bd5de4f8a36adee604449]\n\n[Image: 8564f65e402d8f6c9e5475b58499595fa80af30115ddea8903dba9765cb6a894]\n\n6.4 - Maraviroc, fusion inhibitors, integrase inhibitors\n[Image: 6962170d6278ec795afe90f6c4a739ee01393f4302653b5a73f19a824efce387]\n\n[Image: 6093c872710d1e06364fa1a1efc533b3306c44d33e6730e15dcfd7730f21b3e4]\n\n[Image: f0b981a5533fab5c3ac132de80a04fd2ff4f21963b96e7db8dcec37f59fdb0f6]\n\n[Image: 10b5aec06a1db24334264ef0ef5cf85d69609de17d17e6ab3f43510d4db81a91]",
+        "imageIds": [
+            "6faf202d710a5c252ca9d8e28e19c106c840b9351a4daa75e32f16bcc78d1c84",
+            "d3acaa7bfffd7f4cf1c70551bec13c6324fdd503871bd5de4f8a36adee604449",
+            "8564f65e402d8f6c9e5475b58499595fa80af30115ddea8903dba9765cb6a894",
+            "6962170d6278ec795afe90f6c4a739ee01393f4302653b5a73f19a824efce387",
+            "6093c872710d1e06364fa1a1efc533b3306c44d33e6730e15dcfd7730f21b3e4",
+            "f0b981a5533fab5c3ac132de80a04fd2ff4f21963b96e7db8dcec37f59fdb0f6",
+            "10b5aec06a1db24334264ef0ef5cf85d69609de17d17e6ab3f43510d4db81a91"
+        ]
+    },
+    "images": {
+        "10b5aec06a1db24334264ef0ef5cf85d69609de17d17e6ab3f43510d4db81a91": {
+            "file": "images/10b5aec06a1db24334264ef0ef5cf85d69609de17d17e6ab3f43510d4db81a91.jpg",
+            "filename": "paste-547165948608515.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 23782
+        },
+        "6093c872710d1e06364fa1a1efc533b3306c44d33e6730e15dcfd7730f21b3e4": {
+            "file": "images/6093c872710d1e06364fa1a1efc533b3306c44d33e6730e15dcfd7730f21b3e4.jpg",
+            "filename": "paste-231765025226755.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 99626
+        },
+        "6962170d6278ec795afe90f6c4a739ee01393f4302653b5a73f19a824efce387": {
+            "file": "images/6962170d6278ec795afe90f6c4a739ee01393f4302653b5a73f19a824efce387.jpg",
+            "filename": "paste-297559629234177.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 162115
+        },
+        "6faf202d710a5c252ca9d8e28e19c106c840b9351a4daa75e32f16bcc78d1c84": {
+            "file": "images/6faf202d710a5c252ca9d8e28e19c106c840b9351a4daa75e32f16bcc78d1c84.jpg",
+            "filename": "paste-121461675130883.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56716
+        },
+        "8564f65e402d8f6c9e5475b58499595fa80af30115ddea8903dba9765cb6a894": {
+            "file": "images/8564f65e402d8f6c9e5475b58499595fa80af30115ddea8903dba9765cb6a894.jpg",
+            "filename": "paste-229587476807683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47930
+        },
+        "d3acaa7bfffd7f4cf1c70551bec13c6324fdd503871bd5de4f8a36adee604449": {
+            "file": "images/d3acaa7bfffd7f4cf1c70551bec13c6324fdd503871bd5de4f8a36adee604449.jpg",
+            "filename": "paste-227998338908163.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49957
+        },
+        "f0b981a5533fab5c3ac132de80a04fd2ff4f21963b96e7db8dcec37f59fdb0f6": {
+            "file": "images/f0b981a5533fab5c3ac132de80a04fd2ff4f21963b96e7db8dcec37f59fdb0f6.jpg",
+            "filename": "paste-86719684673539.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 169487
+        }
+    }
+}

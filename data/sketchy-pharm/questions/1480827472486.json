@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480827472486",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480827472486",
+        "noteId": "1480827467194",
+        "noteGuid": "BVb_d[(|[)",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::5 Antifungals::5.3 - Griseofulvin, Terbinafine, Echinocandins",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(5)-Antifungals::5.3-Griseofulvin,Terbinafine,Echinocandins",
+        "$$Antimicrobials",
+        "$Antifungals"
+    ],
+    "question": {
+        "text": "§\n\nMOA: Echinocandins",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nMOA: Echinocandins\n\nInhibit synthesis of β-1,3-glucan\n\n(At the fungal cell wall, NOT cell membrane)\n\n[Image: cd9389e6db31c037cfab63c0499bd45debd8851c92bd92a7f5605fa65fcd6d0c]\n\n[Image: 0851425dd41d03e2acfcfa556971aefc63f0140355aeeef946e2d5e1b89a74ff]\n\n5.3 - Griseofulvin, Terbinafine, Echinocandins\n[Image: 2d7e10caae0c230d403e7691da8c4850daa650cda0578393cf6c5320c62542c5]\n\n[Image: 9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63]\n\n[Image: 6610a1b578a676ad2726708c7e395e54397b53e9071afe193aa111ca42f50d84]\n\n[Image: af03d85a1070877db571ba7ed090440e65432000ef345f00dd46f538b7567543]",
+        "imageIds": [
+            "cd9389e6db31c037cfab63c0499bd45debd8851c92bd92a7f5605fa65fcd6d0c",
+            "0851425dd41d03e2acfcfa556971aefc63f0140355aeeef946e2d5e1b89a74ff",
+            "2d7e10caae0c230d403e7691da8c4850daa650cda0578393cf6c5320c62542c5",
+            "9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63",
+            "6610a1b578a676ad2726708c7e395e54397b53e9071afe193aa111ca42f50d84",
+            "af03d85a1070877db571ba7ed090440e65432000ef345f00dd46f538b7567543"
+        ]
+    },
+    "images": {
+        "0851425dd41d03e2acfcfa556971aefc63f0140355aeeef946e2d5e1b89a74ff": {
+            "file": "images/0851425dd41d03e2acfcfa556971aefc63f0140355aeeef946e2d5e1b89a74ff.jpg",
+            "filename": "paste-300269753597955.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51359
+        },
+        "2d7e10caae0c230d403e7691da8c4850daa650cda0578393cf6c5320c62542c5": {
+            "file": "images/2d7e10caae0c230d403e7691da8c4850daa650cda0578393cf6c5320c62542c5.jpg",
+            "filename": "paste-10432475561987.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 123871
+        },
+        "6610a1b578a676ad2726708c7e395e54397b53e9071afe193aa111ca42f50d84": {
+            "file": "images/6610a1b578a676ad2726708c7e395e54397b53e9071afe193aa111ca42f50d84.jpg",
+            "filename": "paste-192642168127491.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 25446
+        },
+        "9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63": {
+            "file": "images/9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63.jpg",
+            "filename": "paste-468138550362115.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53292
+        },
+        "af03d85a1070877db571ba7ed090440e65432000ef345f00dd46f538b7567543": {
+            "file": "images/af03d85a1070877db571ba7ed090440e65432000ef345f00dd46f538b7567543.jpg",
+            "filename": "paste-194665097723907.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59632
+        },
+        "cd9389e6db31c037cfab63c0499bd45debd8851c92bd92a7f5605fa65fcd6d0c": {
+            "file": "images/cd9389e6db31c037cfab63c0499bd45debd8851c92bd92a7f5605fa65fcd6d0c.jpg",
+            "filename": "paste-300673480523779.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50296
+        }
+    }
+}

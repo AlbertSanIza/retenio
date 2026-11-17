@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480306574840",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480306574840",
+        "noteId": "1480305923806",
+        "noteGuid": "c7-s#c:$D:",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.6 - Vancomycin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.6-Vancomycin",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "§\n\nWhat is the spectrum of activity of Vancomycin?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat is the spectrum of activity of Vancomycin?\n\nGram (+) Cocci\n\n[Image: a35c8ecdd14018eb578b04bc172fc850d997293c4bedb3b0c23197dd3fd42153]\n\n1.6 - Vancomycin\n[Image: 4c4759e400263512782f05a1aaef54315fc02f13e22f6bb2926afbcc9c596c2c]\n\n[Image: e3b35611814d2ab1df22b661bae37e650eeeb6dc662044e0cd04f89e6b606da9]",
+        "imageIds": [
+            "a35c8ecdd14018eb578b04bc172fc850d997293c4bedb3b0c23197dd3fd42153",
+            "4c4759e400263512782f05a1aaef54315fc02f13e22f6bb2926afbcc9c596c2c",
+            "e3b35611814d2ab1df22b661bae37e650eeeb6dc662044e0cd04f89e6b606da9"
+        ]
+    },
+    "images": {
+        "4c4759e400263512782f05a1aaef54315fc02f13e22f6bb2926afbcc9c596c2c": {
+            "file": "images/4c4759e400263512782f05a1aaef54315fc02f13e22f6bb2926afbcc9c596c2c.jpg",
+            "filename": "paste-196851236077569.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 154388
+        },
+        "a35c8ecdd14018eb578b04bc172fc850d997293c4bedb3b0c23197dd3fd42153": {
+            "file": "images/a35c8ecdd14018eb578b04bc172fc850d997293c4bedb3b0c23197dd3fd42153.jpg",
+            "filename": "paste-111819473551361.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34961
+        },
+        "e3b35611814d2ab1df22b661bae37e650eeeb6dc662044e0cd04f89e6b606da9": {
+            "file": "images/e3b35611814d2ab1df22b661bae37e650eeeb6dc662044e0cd04f89e6b606da9.jpg",
+            "filename": "paste-334522117783555.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 94981
+        }
+    }
+}

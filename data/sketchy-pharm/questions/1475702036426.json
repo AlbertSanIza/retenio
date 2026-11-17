@@ -1,0 +1,101 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475702036426",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475702036426",
+        "noteId": "1475701051571",
+        "noteGuid": "sja8v*xun+",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::2 Dyslipidemia Drugs::2.1 - Statins",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(2)-Dyslipidemia_Drugs::2.1-Statins",
+        "$$Blood_&_Inflammation",
+        "$DyslipidemiaDrugs"
+    ],
+    "question": {
+        "text": "§\n\nWhat are two mechanisms HDLs transfer cholesterol to the liver?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat are two mechanisms HDLs transfer cholesterol to the liver?\n\n(1) Deliver to LDLs via CETP\n(2) Receptor mediated endocytosis via SR-1\n\n[Image: 0be5ccf99bd0fdf9d7e5b97db974e1f848afded6edbac1d5af26dd495f8f5b91]\n\n[Image: 93d85460c028c8c243edd87aad304653d930b127cfaa2a161629f28d3230ae1a]\n\n[Image: fa2c71b61df2fb35d5285d31948ddeb10b311dfe6c8318dd6dfee40acbe6eb2e]\n\n2.1 - Statins\n[Image: 158bda76ba47361fcc8e4153313c117d5b67a21350c6ffd0f2c9fb93071fe5bc]\n\n[Image: a0a080ce2b8b49bc3866b73c2965cae27044eb48f9fd2bc16c97ce5d2242c919]\n\n[Image: 227613fa19fb5669793c24ecbff51b2136731a1d2efda6e58533c42eaafc806f]\n\n[Image: b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e]\n\n[Image: dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139]\n\n[Image: 88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39]\n\n[Image: 27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9]",
+        "imageIds": [
+            "0be5ccf99bd0fdf9d7e5b97db974e1f848afded6edbac1d5af26dd495f8f5b91",
+            "93d85460c028c8c243edd87aad304653d930b127cfaa2a161629f28d3230ae1a",
+            "fa2c71b61df2fb35d5285d31948ddeb10b311dfe6c8318dd6dfee40acbe6eb2e",
+            "158bda76ba47361fcc8e4153313c117d5b67a21350c6ffd0f2c9fb93071fe5bc",
+            "a0a080ce2b8b49bc3866b73c2965cae27044eb48f9fd2bc16c97ce5d2242c919",
+            "227613fa19fb5669793c24ecbff51b2136731a1d2efda6e58533c42eaafc806f",
+            "b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e",
+            "dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139",
+            "88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39",
+            "27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9"
+        ]
+    },
+    "images": {
+        "0be5ccf99bd0fdf9d7e5b97db974e1f848afded6edbac1d5af26dd495f8f5b91": {
+            "file": "images/0be5ccf99bd0fdf9d7e5b97db974e1f848afded6edbac1d5af26dd495f8f5b91.jpg",
+            "filename": "paste-43950400339971.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 90606
+        },
+        "158bda76ba47361fcc8e4153313c117d5b67a21350c6ffd0f2c9fb93071fe5bc": {
+            "file": "images/158bda76ba47361fcc8e4153313c117d5b67a21350c6ffd0f2c9fb93071fe5bc.jpg",
+            "filename": "paste-560987153367041.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 142719
+        },
+        "227613fa19fb5669793c24ecbff51b2136731a1d2efda6e58533c42eaafc806f": {
+            "file": "images/227613fa19fb5669793c24ecbff51b2136731a1d2efda6e58533c42eaafc806f.jpg",
+            "filename": "paste-161598144512003.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 76814
+        },
+        "27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9": {
+            "file": "images/27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9.jpg",
+            "filename": "paste-203263622250499.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 84124
+        },
+        "88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39": {
+            "file": "images/88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39.jpg",
+            "filename": "paste-235252538671107.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 88003
+        },
+        "93d85460c028c8c243edd87aad304653d930b127cfaa2a161629f28d3230ae1a": {
+            "file": "images/93d85460c028c8c243edd87aad304653d930b127cfaa2a161629f28d3230ae1a.jpg",
+            "filename": "paste-43980465111043.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 89994
+        },
+        "a0a080ce2b8b49bc3866b73c2965cae27044eb48f9fd2bc16c97ce5d2242c919": {
+            "file": "images/a0a080ce2b8b49bc3866b73c2965cae27044eb48f9fd2bc16c97ce5d2242c919.jpg",
+            "filename": "paste-244138826006531.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34539
+        },
+        "b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e": {
+            "file": "images/b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e.jpg",
+            "filename": "paste-230506599809027.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 80740
+        },
+        "dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139": {
+            "file": "images/dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139.jpg",
+            "filename": "paste-225266739707907.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 37177
+        },
+        "fa2c71b61df2fb35d5285d31948ddeb10b311dfe6c8318dd6dfee40acbe6eb2e": {
+            "file": "images/fa2c71b61df2fb35d5285d31948ddeb10b311dfe6c8318dd6dfee40acbe6eb2e.jpg",
+            "filename": "paste-44001939947523.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 76704
+        }
+    }
+}

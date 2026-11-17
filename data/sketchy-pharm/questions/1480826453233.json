@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480826453233",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480826453233",
+        "noteId": "1480825958438",
+        "noteGuid": "wh`5lM*zbv",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::5 Antifungals::5.2 - Azoles",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(5)-Antifungals::5.2-Azoles",
+        "$$Antimicrobials",
+        "$Antifungals"
+    ],
+    "question": {
+        "text": "§\n\nAdverse Effects (2) : Voraconazole",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nAdverse Effects (2) : Voraconazole\n\n(1) Blurry vision with flashes of light\n(2) Changes in color vision\n\n[Image: fbc2242268c84467c8e869dc4f0dc1980a4f8db82ad7a9dc163e8b86e1100092]\n\n[Image: fbc2242268c84467c8e869dc4f0dc1980a4f8db82ad7a9dc163e8b86e1100092]\n\n5.2 - Azoles\n[Image: b4c80df813ad6a6588ec141052d0bc0dfc887db53d1294365b5e1df24fd347da]\n\n[Image: 9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63]\n\n[Image: 3594b98443f5a56d34c4e5381332ec926dfe5a8060d7f82251ca8ff632397622]",
+        "imageIds": [
+            "fbc2242268c84467c8e869dc4f0dc1980a4f8db82ad7a9dc163e8b86e1100092",
+            "b4c80df813ad6a6588ec141052d0bc0dfc887db53d1294365b5e1df24fd347da",
+            "9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63",
+            "3594b98443f5a56d34c4e5381332ec926dfe5a8060d7f82251ca8ff632397622"
+        ]
+    },
+    "images": {
+        "3594b98443f5a56d34c4e5381332ec926dfe5a8060d7f82251ca8ff632397622": {
+            "file": "images/3594b98443f5a56d34c4e5381332ec926dfe5a8060d7f82251ca8ff632397622.jpg",
+            "filename": "paste-476183024107523.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43784
+        },
+        "9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63": {
+            "file": "images/9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63.jpg",
+            "filename": "paste-468138550362115.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53292
+        },
+        "b4c80df813ad6a6588ec141052d0bc0dfc887db53d1294365b5e1df24fd347da": {
+            "file": "images/b4c80df813ad6a6588ec141052d0bc0dfc887db53d1294365b5e1df24fd347da.jpg",
+            "filename": "paste-271081155854337.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 139643
+        },
+        "fbc2242268c84467c8e869dc4f0dc1980a4f8db82ad7a9dc163e8b86e1100092": {
+            "file": "images/fbc2242268c84467c8e869dc4f0dc1980a4f8db82ad7a9dc163e8b86e1100092.jpg",
+            "filename": "paste-264479791120387.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48936
+        }
+    }
+}

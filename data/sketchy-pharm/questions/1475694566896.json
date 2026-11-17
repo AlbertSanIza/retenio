@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475694566896",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475694566896",
+        "noteId": "1475693558188",
+        "noteGuid": "k2xO-NDlof",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::3 Antihypertensives::3.1 - Calcium channel blockers",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(3)-Antihypertensives::3.1-Calcium_Channel_Blockers",
+        "$$Cardiovascular_&_Renal",
+        "$Antihypertensives"
+    ],
+    "question": {
+        "text": "§\n\nWhich CCB is used for migraine prophylaxis?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhich CCB is used for migraine prophylaxis?\n\nVerapamil\n\n(Verapamil for Very-Painful-Migraines)\n\n[Image: 48ecbe4cae92d5d9b5551d20e32909473a476bcb2f628fdc81835c1ada7d1358]\n\n3.1 - Calcium channel blockers\n[Image: 2df432313245803a33c91257644f7112990e8a140e530cb65543d93968ad38ad]\n\n[Image: 976514cac00f671ceada131d78161259e7b71f87b223859170924c10f329b1f1]\n\n[Image: 145563c70e7a6531194e688944937bc88523bdc536f6491f5d4d11e642f621a6]",
+        "imageIds": [
+            "48ecbe4cae92d5d9b5551d20e32909473a476bcb2f628fdc81835c1ada7d1358",
+            "2df432313245803a33c91257644f7112990e8a140e530cb65543d93968ad38ad",
+            "976514cac00f671ceada131d78161259e7b71f87b223859170924c10f329b1f1",
+            "145563c70e7a6531194e688944937bc88523bdc536f6491f5d4d11e642f621a6"
+        ]
+    },
+    "images": {
+        "145563c70e7a6531194e688944937bc88523bdc536f6491f5d4d11e642f621a6": {
+            "file": "images/145563c70e7a6531194e688944937bc88523bdc536f6491f5d4d11e642f621a6.jpg",
+            "filename": "paste-60816736911363 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59355
+        },
+        "2df432313245803a33c91257644f7112990e8a140e530cb65543d93968ad38ad": {
+            "file": "images/2df432313245803a33c91257644f7112990e8a140e530cb65543d93968ad38ad.jpg",
+            "filename": "paste-634001597399041.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 148325
+        },
+        "48ecbe4cae92d5d9b5551d20e32909473a476bcb2f628fdc81835c1ada7d1358": {
+            "file": "images/48ecbe4cae92d5d9b5551d20e32909473a476bcb2f628fdc81835c1ada7d1358.jpg",
+            "filename": "paste-111329847279619.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51328
+        },
+        "976514cac00f671ceada131d78161259e7b71f87b223859170924c10f329b1f1": {
+            "file": "images/976514cac00f671ceada131d78161259e7b71f87b223859170924c10f329b1f1.jpg",
+            "filename": "paste-666785082769411.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60858
+        }
+    }
+}

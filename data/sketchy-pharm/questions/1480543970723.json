@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480543970723",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480543970723",
+        "noteId": "1480543237615",
+        "noteGuid": "B[kX09:NFF",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.3 - Clindamycin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.3-Clindamycin",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "§\n\nWhat antibiotic is indicated in treatment of pneumonia due to Bacteroides fragilis?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat antibiotic is indicated in treatment of pneumonia due to Bacteroides fragilis?\n\nClindamycin\n\n[Image: 3bbb58e229c02a8682e2d3808877ed740eba673a10ffb2b972a07af00be5fa8e]\n\n2.3 - Clindamycin\n[Image: 18c587d1640efcbcba7b8802080f4f9a27e5bee70ea1c52b9704b4e1d8287b90]\n\n[Image: 8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4]\n\n[Image: d787016b73464691c4ce54ae48bb893a89a4bf1064da4b3916681a81269bf1a6]",
+        "imageIds": [
+            "3bbb58e229c02a8682e2d3808877ed740eba673a10ffb2b972a07af00be5fa8e",
+            "18c587d1640efcbcba7b8802080f4f9a27e5bee70ea1c52b9704b4e1d8287b90",
+            "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4",
+            "d787016b73464691c4ce54ae48bb893a89a4bf1064da4b3916681a81269bf1a6"
+        ]
+    },
+    "images": {
+        "18c587d1640efcbcba7b8802080f4f9a27e5bee70ea1c52b9704b4e1d8287b90": {
+            "file": "images/18c587d1640efcbcba7b8802080f4f9a27e5bee70ea1c52b9704b4e1d8287b90.jpg",
+            "filename": "paste-222492190834689.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 111874
+        },
+        "3bbb58e229c02a8682e2d3808877ed740eba673a10ffb2b972a07af00be5fa8e": {
+            "file": "images/3bbb58e229c02a8682e2d3808877ed740eba673a10ffb2b972a07af00be5fa8e.jpg",
+            "filename": "paste-14723147890691 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34506
+        },
+        "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4": {
+            "file": "images/8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4.jpg",
+            "filename": "paste-321710230339587.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 76271
+        },
+        "d787016b73464691c4ce54ae48bb893a89a4bf1064da4b3916681a81269bf1a6": {
+            "file": "images/d787016b73464691c4ce54ae48bb893a89a4bf1064da4b3916681a81269bf1a6.jpg",
+            "filename": "paste-402932356874243.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43532
+        }
+    }
+}

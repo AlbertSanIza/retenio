@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480839179523",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480839179523",
+        "noteId": "1480838072386",
+        "noteGuid": "GOwg%g_S%>",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.1 - Penicillin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.1-Penicillin",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "§\n\nOther than the cocci, name 3 gram (+) organisms which can be treated with Penicillin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nOther than the cocci, name 3 gram (+) organisms which can be treated with Penicillin\n\n(1) Actinomyces israelii\n\n(2) Clostridium perfringens\n\n(3) Pasteurella multocida\n\n(Inhibits peptidoglycan synthesis ∴ it's particularly effective against organisms with thick peptidoglycan cell walls... such as gram (+) organisms)\n\n[Image: a24cceb7f3f27121cbd5de961cab35f201636ac12d11d5fd31ba4cd9b4727e35]\n\n[Image: d73a1b67af084fe591a9ef2781f98617148fcab91e226bc127f6d661a24af81d]\n\n[Image: f8e6871b902d60f76d96facdd480bad8753fa633df361d83077c1845c1e4d28e]\n\n[Image: 8842da9a528af52bde12124aff1eabc78c53c7767409d9f8dcb0d7320ed50451]\n\n1.1 - Penicillin\n[Image: f713488a5c800aa8470570b237c9db1cc080a90502f28209a5055b7b9d91c056]\n\n[Image: 5749219917b0d46cdacdcfd16cb18400fe3c5f4acbba8ea5f1fe0b81fe3ca819]",
+        "imageIds": [
+            "a24cceb7f3f27121cbd5de961cab35f201636ac12d11d5fd31ba4cd9b4727e35",
+            "d73a1b67af084fe591a9ef2781f98617148fcab91e226bc127f6d661a24af81d",
+            "f8e6871b902d60f76d96facdd480bad8753fa633df361d83077c1845c1e4d28e",
+            "8842da9a528af52bde12124aff1eabc78c53c7767409d9f8dcb0d7320ed50451",
+            "f713488a5c800aa8470570b237c9db1cc080a90502f28209a5055b7b9d91c056",
+            "5749219917b0d46cdacdcfd16cb18400fe3c5f4acbba8ea5f1fe0b81fe3ca819"
+        ]
+    },
+    "images": {
+        "5749219917b0d46cdacdcfd16cb18400fe3c5f4acbba8ea5f1fe0b81fe3ca819": {
+            "file": "images/5749219917b0d46cdacdcfd16cb18400fe3c5f4acbba8ea5f1fe0b81fe3ca819.jpg",
+            "filename": "paste-83889301225475.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65710
+        },
+        "8842da9a528af52bde12124aff1eabc78c53c7767409d9f8dcb0d7320ed50451": {
+            "file": "images/8842da9a528af52bde12124aff1eabc78c53c7767409d9f8dcb0d7320ed50451.jpg",
+            "filename": "paste-426408648114179.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 26326
+        },
+        "a24cceb7f3f27121cbd5de961cab35f201636ac12d11d5fd31ba4cd9b4727e35": {
+            "file": "images/a24cceb7f3f27121cbd5de961cab35f201636ac12d11d5fd31ba4cd9b4727e35.jpg",
+            "filename": "paste-427430850330627.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 38267
+        },
+        "d73a1b67af084fe591a9ef2781f98617148fcab91e226bc127f6d661a24af81d": {
+            "file": "images/d73a1b67af084fe591a9ef2781f98617148fcab91e226bc127f6d661a24af81d.jpg",
+            "filename": "paste-427688548368387.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 39241
+        },
+        "f713488a5c800aa8470570b237c9db1cc080a90502f28209a5055b7b9d91c056": {
+            "file": "images/f713488a5c800aa8470570b237c9db1cc080a90502f28209a5055b7b9d91c056.jpg",
+            "filename": "paste-170342697926659.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 108584
+        },
+        "f8e6871b902d60f76d96facdd480bad8753fa633df361d83077c1845c1e4d28e": {
+            "file": "images/f8e6871b902d60f76d96facdd480bad8753fa633df361d83077c1845c1e4d28e.jpg",
+            "filename": "paste-427903296733187.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 37687
+        }
+    }
+}

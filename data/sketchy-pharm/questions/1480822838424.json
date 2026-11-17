@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480822838424",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480822838424",
+        "noteId": "1480822475400",
+        "noteGuid": "M<MBd)n{6z",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::4 Other Antibiotics::4.3 - Metronidazole",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(4)-Other_Antibiotics::4.3-Metronidazole",
+        "$$Antimicrobials",
+        "$Other_Antibiotics"
+    ],
+    "question": {
+        "text": "§\n\nAdverse Effect: Metronidazole",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nAdverse Effect: Metronidazole\n\nDisulfiram-like reaction\n\n[Image: b6ee2913a52d6037c78daba79e1f9bc76932ff85357deedbede463d0530deac4]\n\n4.3 - Metronidazole\n[Image: 7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4]\n\n[Image: 3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf]",
+        "imageIds": [
+            "b6ee2913a52d6037c78daba79e1f9bc76932ff85357deedbede463d0530deac4",
+            "7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4",
+            "3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf"
+        ]
+    },
+    "images": {
+        "3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf": {
+            "file": "images/3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf.jpg",
+            "filename": "paste-187277753974787.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55370
+        },
+        "7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4": {
+            "file": "images/7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4.jpg",
+            "filename": "paste-262010184925185.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 111887
+        },
+        "b6ee2913a52d6037c78daba79e1f9bc76932ff85357deedbede463d0530deac4": {
+            "file": "images/b6ee2913a52d6037c78daba79e1f9bc76932ff85357deedbede463d0530deac4.jpg",
+            "filename": "paste-245354301751299.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54022
+        }
+    }
+}

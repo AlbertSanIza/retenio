@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479167011257",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479167011257",
+        "noteId": "1479166331886",
+        "noteGuid": "nZiAb4L,QC",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::5 Antipsychotics & Parkinson's::5.1 - First generation antipsychotics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(5)-Antipsychotics_&_Parkinsons::5.1-First_Generation_Antipsychotics",
+        "$$Neuro/Psych",
+        "$Antipsychotics_&_Parkinsons"
+    ],
+    "question": {
+        "text": "§\n\nWhat type of side effects are more common in first generation antipsychotics compared to second generation?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat type of side effects are more common in first generation antipsychotics compared to second generation?\n\nExtra pyramidal symptoms\n\n[Image: 9b3fd8e4a955a5228b0a0114965b4b6547cd6b64024a07682df5dda522d2faf2]\n\n5.1 - First generation antipsychotics\n[Image: 200ef1c009b3b266b3583f9b4d9e10fb1caa8940070d0b905749a3474112cf5f]\n\n[Image: d8214ad280ce2cc641eacc7e93ad25f9b6e0c7f1ea8c5a9f5cae2be4561b73fb]\n\n[Image: 44444e5c55bab9d789789b80ffeb27d73b29ad3770e9b09e1768fe78a62993ce]",
+        "imageIds": [
+            "9b3fd8e4a955a5228b0a0114965b4b6547cd6b64024a07682df5dda522d2faf2",
+            "200ef1c009b3b266b3583f9b4d9e10fb1caa8940070d0b905749a3474112cf5f",
+            "d8214ad280ce2cc641eacc7e93ad25f9b6e0c7f1ea8c5a9f5cae2be4561b73fb",
+            "44444e5c55bab9d789789b80ffeb27d73b29ad3770e9b09e1768fe78a62993ce"
+        ]
+    },
+    "images": {
+        "200ef1c009b3b266b3583f9b4d9e10fb1caa8940070d0b905749a3474112cf5f": {
+            "file": "images/200ef1c009b3b266b3583f9b4d9e10fb1caa8940070d0b905749a3474112cf5f.jpg",
+            "filename": "paste-1242383714877441.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 149168
+        },
+        "44444e5c55bab9d789789b80ffeb27d73b29ad3770e9b09e1768fe78a62993ce": {
+            "file": "images/44444e5c55bab9d789789b80ffeb27d73b29ad3770e9b09e1768fe78a62993ce.jpg",
+            "filename": "paste-30584462114819.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 120520
+        },
+        "9b3fd8e4a955a5228b0a0114965b4b6547cd6b64024a07682df5dda522d2faf2": {
+            "file": "images/9b3fd8e4a955a5228b0a0114965b4b6547cd6b64024a07682df5dda522d2faf2.jpg",
+            "filename": "paste-195777494253571.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63273
+        },
+        "d8214ad280ce2cc641eacc7e93ad25f9b6e0c7f1ea8c5a9f5cae2be4561b73fb": {
+            "file": "images/d8214ad280ce2cc641eacc7e93ad25f9b6e0c7f1ea8c5a9f5cae2be4561b73fb.jpg",
+            "filename": "paste-161787123073027.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 150667
+        }
+    }
+}

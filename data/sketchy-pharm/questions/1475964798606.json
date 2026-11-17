@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475964798606",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475964798606",
+        "noteId": "1475964331558",
+        "noteGuid": "BD^R)Z4Bh4",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.4 - Class IV",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.4-Class_IV",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "§\n\nWhere do class IV antiarrhythmics exert the strongest effect?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhere do class IV antiarrhythmics exert the strongest effect?\n\nAV node\n\n[Image: 482d23ddc9bcabbb2998e8ebf182c0decf9f241f360312fee5ad50b110dd4274]\n\n4.4 - Class IV\n[Image: a156f65b53b3b3ae2addf20527b0ff020a45c5b8f3db6248764d14baf3a84d37]\n\n[Image: 7d18b348aa1bfb5870dceb658def8e39d4c6859e3ecaee0f61e4f670ec760b30]\n\n[Image: c0a7912fc6625f01c47501a5b811529a030a4e32b4eb324f7b7ae8215534616b]",
+        "imageIds": [
+            "482d23ddc9bcabbb2998e8ebf182c0decf9f241f360312fee5ad50b110dd4274",
+            "a156f65b53b3b3ae2addf20527b0ff020a45c5b8f3db6248764d14baf3a84d37",
+            "7d18b348aa1bfb5870dceb658def8e39d4c6859e3ecaee0f61e4f670ec760b30",
+            "c0a7912fc6625f01c47501a5b811529a030a4e32b4eb324f7b7ae8215534616b"
+        ]
+    },
+    "images": {
+        "482d23ddc9bcabbb2998e8ebf182c0decf9f241f360312fee5ad50b110dd4274": {
+            "file": "images/482d23ddc9bcabbb2998e8ebf182c0decf9f241f360312fee5ad50b110dd4274.jpg",
+            "filename": "paste-45449343926275.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 69195
+        },
+        "7d18b348aa1bfb5870dceb658def8e39d4c6859e3ecaee0f61e4f670ec760b30": {
+            "file": "images/7d18b348aa1bfb5870dceb658def8e39d4c6859e3ecaee0f61e4f670ec760b30.jpg",
+            "filename": "paste-628710197690371.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 94139
+        },
+        "a156f65b53b3b3ae2addf20527b0ff020a45c5b8f3db6248764d14baf3a84d37": {
+            "file": "images/a156f65b53b3b3ae2addf20527b0ff020a45c5b8f3db6248764d14baf3a84d37.jpg",
+            "filename": "paste-659900250193921.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 144633
+        },
+        "c0a7912fc6625f01c47501a5b811529a030a4e32b4eb324f7b7ae8215534616b": {
+            "file": "images/c0a7912fc6625f01c47501a5b811529a030a4e32b4eb324f7b7ae8215534616b.jpg",
+            "filename": "paste-640418278539267.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 37960
+        }
+    }
+}

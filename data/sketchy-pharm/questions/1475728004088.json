@@ -1,0 +1,80 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475728004088",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475728004088",
+        "noteId": "1475727285686",
+        "noteGuid": "fOwnFa{N9l",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::1 Parasympathetic::1.2 - Acetylcholinesterase Inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(1)-Parasympathetics::1.2-AChE_Inhibitors",
+        "$$Autonomic_Drugs",
+        "$Parasympathetics"
+    ],
+    "question": {
+        "text": "§\n\nName three AChE inhibitors used to treat Alzheimers",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nName three AChE inhibitors used to treat Alzheimers\n\n(1) Galantamine\n(2) Rivastigmine\n\n(3) Donepezil\n\n[Image: a78893a45b134e7bc41b0949194369cca9cc1fba200ced6f94a65e61b6f29e81]\n\n[Image: 0d9d7ee659e14d23a5595d5e29ee6e92e58da325294416c6673bac6352f21783]\n\n[Image: e21391872e98f16cc19250253851dee9450fdf7e0062c142845269f3424c83b0]\n\n1.2 - Acetylcholinesterase Inhibitors\n[Image: e57b2601b4c08f9adecc8e69d0803f175f32746f38b6942c24e2e63045fcf095]\n\n[Image: 231bc3b0ced6837884df062f62bf74a56e9cf21a86ee8484e6961b82a1580ede]\n\n[Image: 8280241ea994ae0fbb89500fb500791dfd22307d991a87c7a2b79b4bf11fbc49]\n\n[Image: a53ded921dfbd2f276986c4ac3694aee8fcc77209677155b2b2950d05d678434]",
+        "imageIds": [
+            "a78893a45b134e7bc41b0949194369cca9cc1fba200ced6f94a65e61b6f29e81",
+            "0d9d7ee659e14d23a5595d5e29ee6e92e58da325294416c6673bac6352f21783",
+            "e21391872e98f16cc19250253851dee9450fdf7e0062c142845269f3424c83b0",
+            "e57b2601b4c08f9adecc8e69d0803f175f32746f38b6942c24e2e63045fcf095",
+            "231bc3b0ced6837884df062f62bf74a56e9cf21a86ee8484e6961b82a1580ede",
+            "8280241ea994ae0fbb89500fb500791dfd22307d991a87c7a2b79b4bf11fbc49",
+            "a53ded921dfbd2f276986c4ac3694aee8fcc77209677155b2b2950d05d678434"
+        ]
+    },
+    "images": {
+        "0d9d7ee659e14d23a5595d5e29ee6e92e58da325294416c6673bac6352f21783": {
+            "file": "images/0d9d7ee659e14d23a5595d5e29ee6e92e58da325294416c6673bac6352f21783.jpg",
+            "filename": "paste-15165529522179.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 69046
+        },
+        "231bc3b0ced6837884df062f62bf74a56e9cf21a86ee8484e6961b82a1580ede": {
+            "file": "images/231bc3b0ced6837884df062f62bf74a56e9cf21a86ee8484e6961b82a1580ede.jpg",
+            "filename": "paste-594986114482179.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70099
+        },
+        "8280241ea994ae0fbb89500fb500791dfd22307d991a87c7a2b79b4bf11fbc49": {
+            "file": "images/8280241ea994ae0fbb89500fb500791dfd22307d991a87c7a2b79b4bf11fbc49.jpg",
+            "filename": "paste-296236779307011.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47412
+        },
+        "a53ded921dfbd2f276986c4ac3694aee8fcc77209677155b2b2950d05d678434": {
+            "file": "images/a53ded921dfbd2f276986c4ac3694aee8fcc77209677155b2b2950d05d678434.jpg",
+            "filename": "paste-337850717437955.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 91197
+        },
+        "a78893a45b134e7bc41b0949194369cca9cc1fba200ced6f94a65e61b6f29e81": {
+            "file": "images/a78893a45b134e7bc41b0949194369cca9cc1fba200ced6f94a65e61b6f29e81.jpg",
+            "filename": "paste-14774687498243.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 72342
+        },
+        "e21391872e98f16cc19250253851dee9450fdf7e0062c142845269f3424c83b0": {
+            "file": "images/e21391872e98f16cc19250253851dee9450fdf7e0062c142845269f3424c83b0.jpg",
+            "filename": "paste-15371687952387.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 68826
+        },
+        "e57b2601b4c08f9adecc8e69d0803f175f32746f38b6942c24e2e63045fcf095": {
+            "file": "images/e57b2601b4c08f9adecc8e69d0803f175f32746f38b6942c24e2e63045fcf095.jpg",
+            "filename": "paste-405139970064385.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 146557
+        }
+    }
+}

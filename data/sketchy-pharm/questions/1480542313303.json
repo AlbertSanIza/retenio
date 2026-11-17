@@ -1,0 +1,80 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480542313303",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480542313303",
+        "noteId": "1480541343233",
+        "noteGuid": "y1kneJEm(h",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.1 - Tetracyclines",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.1-Tetracyclines",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "§\n\nName 2 atypical (non-zoonotic) infections Tetracyclines are used to treat",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nName 2 atypical (non-zoonotic) infections Tetracyclines are used to treat\n\n(1) Chlamydia\n(2) Mycoplasma\n\n[Image: 319ab63eec15bd1750676b5a8dc0208a6c9f3961211bb810db799ee9b26e594b]\n\n[Image: f0e059a10f6a163a08661cd29845c6500600a58d64aec8a8a086a8da1cf5d098]\n\n[Image: 0725f99a17d4627eb89d2b856c7cb78bd8be03bba3dd7914e5265525b5ba1b37]\n\n2.1 - Tetracyclines\n[Image: 029f50df8c964a648f90565fdbb5c978b9fd2ef074dcadbbea4bbd78e283b7e2]\n\n[Image: 8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4]\n\n[Image: 148da3dca16d7ef2f00b70fd9989e6e2d2e10a6064cebc60234d37881f6e3c8f]\n\n[Image: 9a41cab91cd4ec097690589c9f9104229795d2ceafec69d88dd531b79934ed66]",
+        "imageIds": [
+            "319ab63eec15bd1750676b5a8dc0208a6c9f3961211bb810db799ee9b26e594b",
+            "f0e059a10f6a163a08661cd29845c6500600a58d64aec8a8a086a8da1cf5d098",
+            "0725f99a17d4627eb89d2b856c7cb78bd8be03bba3dd7914e5265525b5ba1b37",
+            "029f50df8c964a648f90565fdbb5c978b9fd2ef074dcadbbea4bbd78e283b7e2",
+            "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4",
+            "148da3dca16d7ef2f00b70fd9989e6e2d2e10a6064cebc60234d37881f6e3c8f",
+            "9a41cab91cd4ec097690589c9f9104229795d2ceafec69d88dd531b79934ed66"
+        ]
+    },
+    "images": {
+        "029f50df8c964a648f90565fdbb5c978b9fd2ef074dcadbbea4bbd78e283b7e2": {
+            "file": "images/029f50df8c964a648f90565fdbb5c978b9fd2ef074dcadbbea4bbd78e283b7e2.jpg",
+            "filename": "paste-215521458913281.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 151592
+        },
+        "0725f99a17d4627eb89d2b856c7cb78bd8be03bba3dd7914e5265525b5ba1b37": {
+            "file": "images/0725f99a17d4627eb89d2b856c7cb78bd8be03bba3dd7914e5265525b5ba1b37.jpg",
+            "filename": "paste-7271379632131 (2).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50383
+        },
+        "148da3dca16d7ef2f00b70fd9989e6e2d2e10a6064cebc60234d37881f6e3c8f": {
+            "file": "images/148da3dca16d7ef2f00b70fd9989e6e2d2e10a6064cebc60234d37881f6e3c8f.jpg",
+            "filename": "paste-392190643666947.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66003
+        },
+        "319ab63eec15bd1750676b5a8dc0208a6c9f3961211bb810db799ee9b26e594b": {
+            "file": "images/319ab63eec15bd1750676b5a8dc0208a6c9f3961211bb810db799ee9b26e594b.jpg",
+            "filename": "paste-7095285972995.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54748
+        },
+        "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4": {
+            "file": "images/8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4.jpg",
+            "filename": "paste-321710230339587.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 76271
+        },
+        "9a41cab91cd4ec097690589c9f9104229795d2ceafec69d88dd531b79934ed66": {
+            "file": "images/9a41cab91cd4ec097690589c9f9104229795d2ceafec69d88dd531b79934ed66.jpg",
+            "filename": "paste-427198922096643.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 38007
+        },
+        "f0e059a10f6a163a08661cd29845c6500600a58d64aec8a8a086a8da1cf5d098": {
+            "file": "images/f0e059a10f6a163a08661cd29845c6500600a58d64aec8a8a086a8da1cf5d098.jpg",
+            "filename": "paste-7228429959171.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55628
+        }
+    }
+}

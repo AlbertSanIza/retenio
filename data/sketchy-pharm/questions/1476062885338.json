@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476062885338",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476062885338",
+        "noteId": "1476060361139",
+        "noteGuid": "z-O#q8*S,w",
+        "modelId": "1475688242543",
+        "templateOrdinal": 19
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::1 Vasoactive::1.3-Prostaglandins,Prostacyclin,Bosentan, PDE5 inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(1)-Vasoactive::1.3-Prostaglandins,Prostacyclin,Bosentan,PDE-5_Inhibitors",
+        "$$Smooth_Muscle",
+        "$Vasoactive"
+    ],
+    "question": {
+        "text": "§\n\nWhat is the major toxicity associated with Bosentan?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat is the major toxicity associated with Bosentan?\n\nFatal hepatotoxicity\n\n[Image: 475d0df474f07222022c08f62f17b9f407a8678e1a86be5785da7683b2fae54b]\n\n1.3 - Prostaglandins, prostacyclin, bosentan, PDE5 inhibitors\n[Image: 2dbd326f0a1e08d4942cc5d7537133b42d82504a04d00fe25920f3f0a806dd47]\n\n[Image: 2b85fb13ae3aa49b21213fdceb829d644f7d3f8cd52ee62e93bf270da225890e]\n\n[Image: e4c9a6a191a54bf9bd81b28c5cba73eae1cef1a1e6712de9cf1eeb1583614977]\n\n[Image: 277f54b613db7111307209e1730845eed80fa7ad002ac16ac6c21e81bc9b6b88]\n\n[Image: 12b6955ddf801bf06966e4f9f758f8e3ed14e1dd39f3ce0518347049c29e1bfd]",
+        "imageIds": [
+            "475d0df474f07222022c08f62f17b9f407a8678e1a86be5785da7683b2fae54b",
+            "2dbd326f0a1e08d4942cc5d7537133b42d82504a04d00fe25920f3f0a806dd47",
+            "2b85fb13ae3aa49b21213fdceb829d644f7d3f8cd52ee62e93bf270da225890e",
+            "e4c9a6a191a54bf9bd81b28c5cba73eae1cef1a1e6712de9cf1eeb1583614977",
+            "277f54b613db7111307209e1730845eed80fa7ad002ac16ac6c21e81bc9b6b88",
+            "12b6955ddf801bf06966e4f9f758f8e3ed14e1dd39f3ce0518347049c29e1bfd"
+        ]
+    },
+    "images": {
+        "12b6955ddf801bf06966e4f9f758f8e3ed14e1dd39f3ce0518347049c29e1bfd": {
+            "file": "images/12b6955ddf801bf06966e4f9f758f8e3ed14e1dd39f3ce0518347049c29e1bfd.jpg",
+            "filename": "paste-228818677661699.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56840
+        },
+        "277f54b613db7111307209e1730845eed80fa7ad002ac16ac6c21e81bc9b6b88": {
+            "file": "images/277f54b613db7111307209e1730845eed80fa7ad002ac16ac6c21e81bc9b6b88.jpg",
+            "filename": "paste-227044856168451.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60699
+        },
+        "2b85fb13ae3aa49b21213fdceb829d644f7d3f8cd52ee62e93bf270da225890e": {
+            "file": "images/2b85fb13ae3aa49b21213fdceb829d644f7d3f8cd52ee62e93bf270da225890e.jpg",
+            "filename": "paste-232344845811715.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 114269
+        },
+        "2dbd326f0a1e08d4942cc5d7537133b42d82504a04d00fe25920f3f0a806dd47": {
+            "file": "images/2dbd326f0a1e08d4942cc5d7537133b42d82504a04d00fe25920f3f0a806dd47.jpg",
+            "filename": "paste-76897094467587.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 155081
+        },
+        "475d0df474f07222022c08f62f17b9f407a8678e1a86be5785da7683b2fae54b": {
+            "file": "images/475d0df474f07222022c08f62f17b9f407a8678e1a86be5785da7683b2fae54b.jpg",
+            "filename": "paste-263758236614659.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 101675
+        },
+        "e4c9a6a191a54bf9bd81b28c5cba73eae1cef1a1e6712de9cf1eeb1583614977": {
+            "file": "images/e4c9a6a191a54bf9bd81b28c5cba73eae1cef1a1e6712de9cf1eeb1583614977.jpg",
+            "filename": "paste-123110942572547 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 38877
+        }
+    }
+}

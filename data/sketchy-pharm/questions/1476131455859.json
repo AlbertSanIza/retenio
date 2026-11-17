@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476131455859",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476131455859",
+        "noteId": "1476130090291",
+        "noteGuid": "O>jMOQ>@1^",
+        "modelId": "1475688242543",
+        "templateOrdinal": 14
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::4 Hypothalamic & Pituitary::4.2 - ADH, DDAVP,& ADH Receptor Antagonists",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(4)-Hypothalamic_&_Pituitary::4.1-ADH,DDAVP,_&_ADH_Receptor_Antagonists",
+        "$$GI_&_Endocrine",
+        "$Hypothalamic_&_Pituitary"
+    ],
+    "question": {
+        "text": "§\n\nHow does ADH help to treat esophageal varice bleeding?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nHow does ADH help to treat esophageal varice bleeding?\n\nMesenteric vasoconstriction\n\n(↓ Portal pressure)\n\n[Image: a1599ffebf5425cd90ba97975cbc20256390e96c73f6f6e1189f38f48df67105]\n\n4.1 - ADH, DDAVP, ADH receptor antagonists\n\n[Image: e06950f692d65a8864ac252b6fb75828d17da41fdcdcc246d239abc8eb31f867]\n\n[Image: da81a04ca8de0f852b6e357e37e3a63b21ca5d78bb69b03f81978fcf520dfba2]\n\n[Image: dae9fdb5864ba18e191be1afa09ac1f37d7babe6a6d7291e59103bd562bd4faa]\n\n[Image: abea8ed5f8daf28df44955dd5fca3af62e1f69ea071a7a14d3b5b3e3f86830c5]\n\n[Image: 826b35e0ceaeab4fb76197642465d0ffa03d756489d3e41f8caa28bc7978aea2]",
+        "imageIds": [
+            "a1599ffebf5425cd90ba97975cbc20256390e96c73f6f6e1189f38f48df67105",
+            "e06950f692d65a8864ac252b6fb75828d17da41fdcdcc246d239abc8eb31f867",
+            "da81a04ca8de0f852b6e357e37e3a63b21ca5d78bb69b03f81978fcf520dfba2",
+            "dae9fdb5864ba18e191be1afa09ac1f37d7babe6a6d7291e59103bd562bd4faa",
+            "abea8ed5f8daf28df44955dd5fca3af62e1f69ea071a7a14d3b5b3e3f86830c5",
+            "826b35e0ceaeab4fb76197642465d0ffa03d756489d3e41f8caa28bc7978aea2"
+        ]
+    },
+    "images": {
+        "826b35e0ceaeab4fb76197642465d0ffa03d756489d3e41f8caa28bc7978aea2": {
+            "file": "images/826b35e0ceaeab4fb76197642465d0ffa03d756489d3e41f8caa28bc7978aea2.jpg",
+            "filename": "paste-1111455931826179.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 101271
+        },
+        "a1599ffebf5425cd90ba97975cbc20256390e96c73f6f6e1189f38f48df67105": {
+            "file": "images/a1599ffebf5425cd90ba97975cbc20256390e96c73f6f6e1189f38f48df67105.jpg",
+            "filename": "paste-86951612907523.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46367
+        },
+        "abea8ed5f8daf28df44955dd5fca3af62e1f69ea071a7a14d3b5b3e3f86830c5": {
+            "file": "images/abea8ed5f8daf28df44955dd5fca3af62e1f69ea071a7a14d3b5b3e3f86830c5.jpg",
+            "filename": "paste-703386794065921.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65797
+        },
+        "da81a04ca8de0f852b6e357e37e3a63b21ca5d78bb69b03f81978fcf520dfba2": {
+            "file": "images/da81a04ca8de0f852b6e357e37e3a63b21ca5d78bb69b03f81978fcf520dfba2.jpg",
+            "filename": "paste-707578682146819.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 23630
+        },
+        "dae9fdb5864ba18e191be1afa09ac1f37d7babe6a6d7291e59103bd562bd4faa": {
+            "file": "images/dae9fdb5864ba18e191be1afa09ac1f37d7babe6a6d7291e59103bd562bd4faa.jpg",
+            "filename": "paste-700002359836673.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62028
+        },
+        "e06950f692d65a8864ac252b6fb75828d17da41fdcdcc246d239abc8eb31f867": {
+            "file": "images/e06950f692d65a8864ac252b6fb75828d17da41fdcdcc246d239abc8eb31f867.jpg",
+            "filename": "paste-728168755363841.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 141554
+        }
+    }
+}

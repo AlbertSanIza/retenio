@@ -1,0 +1,65 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480300461012",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480300461012",
+        "noteId": "1480299594760",
+        "noteGuid": "GX)zWO73Ma",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.2 - Nafcillin, Oxacillin, Methicillin & Dicloxacillin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.2-Nafcillin,Oxacillin,Methicillin,Dicloxacillin$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "§\n\nWhat type of infections are Methicillin derivatives used to treat?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat type of infections are Methicillin derivatives used to treat?\n\n(1) Soft tissue infections\n(2) Endocarditis\n\n(3) Osteomyelitis\n\n[Image: 607037108ab50d5c67ea31b27a789ccffbe9be7b1bac602a2f290290c52f5d1b]\n\n[Image: 158bfa778c83cddca9cb5ff415b11119fd54d9fecccabe3c8dfa26175c54b87c]\n\n[Image: d31ba349f55dba31b063aa610c4b6eb46125a58b482f9e89815a47fb512cbb50]\n\n1.2 - Nafcillin, Oxacillin, Methicillin & Dicloxacillin\n[Image: 8ae11397e3a56d2f66c8b7321e66cb6b61822a8bdae8cb8aa32df46483d34242]\n\n[Image: 0e4494860081af6d0e608ea4ecf6718d2a3e5e242eb1ee692ffd1eb6452e88f3]",
+        "imageIds": [
+            "607037108ab50d5c67ea31b27a789ccffbe9be7b1bac602a2f290290c52f5d1b",
+            "158bfa778c83cddca9cb5ff415b11119fd54d9fecccabe3c8dfa26175c54b87c",
+            "d31ba349f55dba31b063aa610c4b6eb46125a58b482f9e89815a47fb512cbb50",
+            "8ae11397e3a56d2f66c8b7321e66cb6b61822a8bdae8cb8aa32df46483d34242",
+            "0e4494860081af6d0e608ea4ecf6718d2a3e5e242eb1ee692ffd1eb6452e88f3"
+        ]
+    },
+    "images": {
+        "0e4494860081af6d0e608ea4ecf6718d2a3e5e242eb1ee692ffd1eb6452e88f3": {
+            "file": "images/0e4494860081af6d0e608ea4ecf6718d2a3e5e242eb1ee692ffd1eb6452e88f3.jpg",
+            "filename": "paste-156182190751747.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 42267
+        },
+        "158bfa778c83cddca9cb5ff415b11119fd54d9fecccabe3c8dfa26175c54b87c": {
+            "file": "images/158bfa778c83cddca9cb5ff415b11119fd54d9fecccabe3c8dfa26175c54b87c.jpg",
+            "filename": "paste-94261647245313.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 38829
+        },
+        "607037108ab50d5c67ea31b27a789ccffbe9be7b1bac602a2f290290c52f5d1b": {
+            "file": "images/607037108ab50d5c67ea31b27a789ccffbe9be7b1bac602a2f290290c52f5d1b.jpg",
+            "filename": "paste-94227287506947.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 39502
+        },
+        "8ae11397e3a56d2f66c8b7321e66cb6b61822a8bdae8cb8aa32df46483d34242": {
+            "file": "images/8ae11397e3a56d2f66c8b7321e66cb6b61822a8bdae8cb8aa32df46483d34242.jpg",
+            "filename": "paste-174641960189953.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 102866
+        },
+        "d31ba349f55dba31b063aa610c4b6eb46125a58b482f9e89815a47fb512cbb50": {
+            "file": "images/d31ba349f55dba31b063aa610c4b6eb46125a58b482f9e89815a47fb512cbb50.jpg",
+            "filename": "paste-94390496264193.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 37556
+        }
+    }
+}

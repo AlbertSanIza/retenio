@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1483741616739",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1483741616739",
+        "noteId": "1480291378231",
+        "noteGuid": "kQ,lW$HiT;",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.4 - Etoposide, teniposide, topotecan, irinotecan",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(2)-DNA_&_Cellular_Division::2.4-Etoposide,Teniposide,Topotecan,Irinotecan",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "§\n\nWhat type of cancers does Irinotecan treat?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat type of cancers does Irinotecan treat?\n\nColon cancer\n\n[Image: afbd1f47af7cf972394139e065ec570e5210d8d8d8b922e0024227a7b87ce9e5]\n\n2.4 - Etoposide, teniposide, topotecan, irinotecan\n[Image: 11288f4fb9b522f2cdc4355502d1496591261217813a12198739b8e123c3312a]\n\n[Image: 8a03d8e0ce5dfff46fe30a2aaa7d656abcf9160171e11d1f64d69ce72be9acf3]",
+        "imageIds": [
+            "afbd1f47af7cf972394139e065ec570e5210d8d8d8b922e0024227a7b87ce9e5",
+            "11288f4fb9b522f2cdc4355502d1496591261217813a12198739b8e123c3312a",
+            "8a03d8e0ce5dfff46fe30a2aaa7d656abcf9160171e11d1f64d69ce72be9acf3"
+        ]
+    },
+    "images": {
+        "11288f4fb9b522f2cdc4355502d1496591261217813a12198739b8e123c3312a": {
+            "file": "images/11288f4fb9b522f2cdc4355502d1496591261217813a12198739b8e123c3312a.jpg",
+            "filename": "paste-376995049373697.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 110522
+        },
+        "8a03d8e0ce5dfff46fe30a2aaa7d656abcf9160171e11d1f64d69ce72be9acf3": {
+            "file": "images/8a03d8e0ce5dfff46fe30a2aaa7d656abcf9160171e11d1f64d69ce72be9acf3.jpg",
+            "filename": "paste-171519518965763.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 22325
+        },
+        "afbd1f47af7cf972394139e065ec570e5210d8d8d8b922e0024227a7b87ce9e5": {
+            "file": "images/afbd1f47af7cf972394139e065ec570e5210d8d8d8b922e0024227a7b87ce9e5.jpg",
+            "filename": "paste-122067265519619.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 86804
+        }
+    }
+}

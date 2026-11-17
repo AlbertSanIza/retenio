@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480290406519",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480290406519",
+        "noteId": "1480289740188",
+        "noteGuid": "yRA]LR7@/u",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.3 - Bleomycin, doxorubicin, daunorubicin, actinomycin D",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(2)-DNA_&_Cellular_Division::2.3-Bleomycin,Doxorubicin,Daunorubicin,Actinomycin_D",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "§\n\nSuffix: Anthracyclines",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nSuffix: Anthracyclines\n\n\"-rubicin\"\n\n[Image: 84ee2d01c8cd238bea1b258029cf247d41655255b5a82170b51384baab12d423]\n\n[Image: 2d54735021f56df8cab333341409d03bcebe3668f6e33ddb0d563d13fc901fa9]\n\n2.3 - Bleomycin, doxorubicin, daunorubicin, actinomycin D\n[Image: d837b2ec4413cf7fca8a7c2eb4363f3ce0310892d5aef0467164ba5e4e896967]\n\n[Image: 16c44e405d839f2f3af173c3bea7fbd7a55058f769d085ae38803085248ffc91]",
+        "imageIds": [
+            "84ee2d01c8cd238bea1b258029cf247d41655255b5a82170b51384baab12d423",
+            "2d54735021f56df8cab333341409d03bcebe3668f6e33ddb0d563d13fc901fa9",
+            "d837b2ec4413cf7fca8a7c2eb4363f3ce0310892d5aef0467164ba5e4e896967",
+            "16c44e405d839f2f3af173c3bea7fbd7a55058f769d085ae38803085248ffc91"
+        ]
+    },
+    "images": {
+        "16c44e405d839f2f3af173c3bea7fbd7a55058f769d085ae38803085248ffc91": {
+            "file": "images/16c44e405d839f2f3af173c3bea7fbd7a55058f769d085ae38803085248ffc91.jpg",
+            "filename": "paste-175058572017667.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 31096
+        },
+        "2d54735021f56df8cab333341409d03bcebe3668f6e33ddb0d563d13fc901fa9": {
+            "file": "images/2d54735021f56df8cab333341409d03bcebe3668f6e33ddb0d563d13fc901fa9.jpg",
+            "filename": "paste-44135083933699.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45008
+        },
+        "84ee2d01c8cd238bea1b258029cf247d41655255b5a82170b51384baab12d423": {
+            "file": "images/84ee2d01c8cd238bea1b258029cf247d41655255b5a82170b51384baab12d423.jpg",
+            "filename": "paste-41979010351107.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46359
+        },
+        "d837b2ec4413cf7fca8a7c2eb4363f3ce0310892d5aef0467164ba5e4e896967": {
+            "file": "images/d837b2ec4413cf7fca8a7c2eb4363f3ce0310892d5aef0467164ba5e4e896967.jpg",
+            "filename": "paste-371016454897665.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 112022
+        }
+    }
+}

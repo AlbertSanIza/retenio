@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475728004083",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475728004083",
+        "noteId": "1475727285686",
+        "noteGuid": "fOwnFa{N9l",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::1 Parasympathetic::1.2 - Acetylcholinesterase Inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(1)-Parasympathetics::1.2-AChE_Inhibitors",
+        "$$Autonomic_Drugs",
+        "$Parasympathetics"
+    ],
+    "question": {
+        "text": "§\n\nIs Succinylcholine a depolarizing or non-depolarizing NMJ blocker?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nIs Succinylcholine a depolarizing or non-depolarizing NMJ blocker?\n\nDepolarizing\n\n[Image: dca902b06fae7ab76a1e979a92507948c522427904d60f1dc1a112d5d287034c]\n\n1.2 - Acetylcholinesterase Inhibitors\n[Image: e57b2601b4c08f9adecc8e69d0803f175f32746f38b6942c24e2e63045fcf095]\n\n[Image: 231bc3b0ced6837884df062f62bf74a56e9cf21a86ee8484e6961b82a1580ede]\n\n[Image: 8280241ea994ae0fbb89500fb500791dfd22307d991a87c7a2b79b4bf11fbc49]\n\n[Image: a53ded921dfbd2f276986c4ac3694aee8fcc77209677155b2b2950d05d678434]",
+        "imageIds": [
+            "dca902b06fae7ab76a1e979a92507948c522427904d60f1dc1a112d5d287034c",
+            "e57b2601b4c08f9adecc8e69d0803f175f32746f38b6942c24e2e63045fcf095",
+            "231bc3b0ced6837884df062f62bf74a56e9cf21a86ee8484e6961b82a1580ede",
+            "8280241ea994ae0fbb89500fb500791dfd22307d991a87c7a2b79b4bf11fbc49",
+            "a53ded921dfbd2f276986c4ac3694aee8fcc77209677155b2b2950d05d678434"
+        ]
+    },
+    "images": {
+        "231bc3b0ced6837884df062f62bf74a56e9cf21a86ee8484e6961b82a1580ede": {
+            "file": "images/231bc3b0ced6837884df062f62bf74a56e9cf21a86ee8484e6961b82a1580ede.jpg",
+            "filename": "paste-594986114482179.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70099
+        },
+        "8280241ea994ae0fbb89500fb500791dfd22307d991a87c7a2b79b4bf11fbc49": {
+            "file": "images/8280241ea994ae0fbb89500fb500791dfd22307d991a87c7a2b79b4bf11fbc49.jpg",
+            "filename": "paste-296236779307011.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47412
+        },
+        "a53ded921dfbd2f276986c4ac3694aee8fcc77209677155b2b2950d05d678434": {
+            "file": "images/a53ded921dfbd2f276986c4ac3694aee8fcc77209677155b2b2950d05d678434.jpg",
+            "filename": "paste-337850717437955.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 91197
+        },
+        "dca902b06fae7ab76a1e979a92507948c522427904d60f1dc1a112d5d287034c": {
+            "file": "images/dca902b06fae7ab76a1e979a92507948c522427904d60f1dc1a112d5d287034c.jpg",
+            "filename": "paste-12227771891715.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53253
+        },
+        "e57b2601b4c08f9adecc8e69d0803f175f32746f38b6942c24e2e63045fcf095": {
+            "file": "images/e57b2601b4c08f9adecc8e69d0803f175f32746f38b6942c24e2e63045fcf095.jpg",
+            "filename": "paste-405139970064385.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 146557
+        }
+    }
+}

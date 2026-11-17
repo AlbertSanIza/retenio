@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480296989997",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480296989997",
+        "noteId": "1480296209578",
+        "noteGuid": "j.~2cB|JJp",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::1 Antimetabolites::1.3 - Cladribine, cytarabine, gemcitabine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(1)-Antimetabolites::1.3-Cladribine,Cytarabine,Gemcitabine",
+        "$$Antineoplastics",
+        "$Antimetabolites"
+    ],
+    "question": {
+        "text": "§\n\nAdverse Effects (2) : Cladribine/Gemcitabine",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nAdverse Effects (2) : Cladribine/Gemcitabine\n\n(1) Myelosuppression\n(2) ⇒ Immunosuppression\n\n[Image: 9d4eb14cb0fc7a34eec721a5ca5f6504b7839dddcf53000426218eff3d4379e5]\n\n[Image: 2e9a6cbf04ec3e40c7c4927e657cabe2fffc6adb97ce0c5145238b01c2d18398]\n\n1.3 - Cladribine, cytarabine, gemcitabine\n[Image: 11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce]\n\n[Image: 517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a]",
+        "imageIds": [
+            "9d4eb14cb0fc7a34eec721a5ca5f6504b7839dddcf53000426218eff3d4379e5",
+            "2e9a6cbf04ec3e40c7c4927e657cabe2fffc6adb97ce0c5145238b01c2d18398",
+            "11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce",
+            "517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a"
+        ]
+    },
+    "images": {
+        "11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce": {
+            "file": "images/11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce.jpg",
+            "filename": "paste-350980432461825.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 98866
+        },
+        "2e9a6cbf04ec3e40c7c4927e657cabe2fffc6adb97ce0c5145238b01c2d18398": {
+            "file": "images/2e9a6cbf04ec3e40c7c4927e657cabe2fffc6adb97ce0c5145238b01c2d18398.jpg",
+            "filename": "paste-64682207477763.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46339
+        },
+        "517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a": {
+            "file": "images/517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a.jpg",
+            "filename": "paste-156474248527875.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 31622
+        },
+        "9d4eb14cb0fc7a34eec721a5ca5f6504b7839dddcf53000426218eff3d4379e5": {
+            "file": "images/9d4eb14cb0fc7a34eec721a5ca5f6504b7839dddcf53000426218eff3d4379e5.jpg",
+            "filename": "paste-64377264799747.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43323
+        }
+    }
+}

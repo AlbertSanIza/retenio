@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480545922870",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480545922870",
+        "noteId": "1480544887082",
+        "noteGuid": "u<L|B!T%5S",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.6 - Aminoglycosides",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.6-Aminoglycosides",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "§\n\nWhich aminoglycoside is used to treat Francisella?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhich aminoglycoside is used to treat Francisella?\n\nStreptomycin\n\n(Also treats Yersinia)\n\n[Image: b52086c504518b1a4c30767f74db80d9387fe86bb85276552cd6753337e12459]\n\n[Image: 51713efe00082315c300a5c47be4c4931cf52799926c9eeba27e1649e85014d9]\n\n[Image: 348decfd7f5e0b2d28f52e5f83341a4cb63ab6f1640bdc87dd6231633af5e2a1]\n\n2.6 - Aminoglycosides\n[Image: 9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d]\n\n[Image: 8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4]\n\n[Image: 4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1]",
+        "imageIds": [
+            "b52086c504518b1a4c30767f74db80d9387fe86bb85276552cd6753337e12459",
+            "51713efe00082315c300a5c47be4c4931cf52799926c9eeba27e1649e85014d9",
+            "348decfd7f5e0b2d28f52e5f83341a4cb63ab6f1640bdc87dd6231633af5e2a1",
+            "9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d",
+            "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4",
+            "4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1"
+        ]
+    },
+    "images": {
+        "348decfd7f5e0b2d28f52e5f83341a4cb63ab6f1640bdc87dd6231633af5e2a1": {
+            "file": "images/348decfd7f5e0b2d28f52e5f83341a4cb63ab6f1640bdc87dd6231633af5e2a1.jpg",
+            "filename": "paste-25069724106755.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 32093
+        },
+        "4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1": {
+            "file": "images/4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1.jpg",
+            "filename": "paste-32100585570307.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 91413
+        },
+        "51713efe00082315c300a5c47be4c4931cf52799926c9eeba27e1649e85014d9": {
+            "file": "images/51713efe00082315c300a5c47be4c4931cf52799926c9eeba27e1649e85014d9.jpg",
+            "filename": "paste-25310242275331.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 35396
+        },
+        "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4": {
+            "file": "images/8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4.jpg",
+            "filename": "paste-321710230339587.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 76271
+        },
+        "9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d": {
+            "file": "images/9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d.jpg",
+            "filename": "paste-232065672937473.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 108815
+        },
+        "b52086c504518b1a4c30767f74db80d9387fe86bb85276552cd6753337e12459": {
+            "file": "images/b52086c504518b1a4c30767f74db80d9387fe86bb85276552cd6753337e12459.jpg",
+            "filename": "paste-25220047962115.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34214
+        }
+    }
+}

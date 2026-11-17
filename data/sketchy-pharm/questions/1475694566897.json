@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475694566897",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475694566897",
+        "noteId": "1475693558188",
+        "noteGuid": "k2xO-NDlof",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::3 Antihypertensives::3.1 - Calcium channel blockers",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(3)-Antihypertensives::3.1-Calcium_Channel_Blockers",
+        "$$Cardiovascular_&_Renal",
+        "$Antihypertensives"
+    ],
+    "question": {
+        "text": "§\n\nAdverse Effects (3) : Dihydropyridines",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nAdverse Effects (3) : Dihydropyridines\n\n(1) Lightheadedness and headache\n(2) Peripheral edema\n\n(3) Reflex tachycardia\n\n[Image: 954168900aed7ebfd02f937738ae141cc5ec9043f65e1b5b8a18ee388352a18a]\n\n[Image: 8331614de60eb994f9aad4aa257edcfe08f324dd2470df8dcd8d864997463bc7]\n\n3.1 - Calcium channel blockers\n[Image: 2df432313245803a33c91257644f7112990e8a140e530cb65543d93968ad38ad]\n\n[Image: 976514cac00f671ceada131d78161259e7b71f87b223859170924c10f329b1f1]\n\n[Image: 145563c70e7a6531194e688944937bc88523bdc536f6491f5d4d11e642f621a6]",
+        "imageIds": [
+            "954168900aed7ebfd02f937738ae141cc5ec9043f65e1b5b8a18ee388352a18a",
+            "8331614de60eb994f9aad4aa257edcfe08f324dd2470df8dcd8d864997463bc7",
+            "2df432313245803a33c91257644f7112990e8a140e530cb65543d93968ad38ad",
+            "976514cac00f671ceada131d78161259e7b71f87b223859170924c10f329b1f1",
+            "145563c70e7a6531194e688944937bc88523bdc536f6491f5d4d11e642f621a6"
+        ]
+    },
+    "images": {
+        "145563c70e7a6531194e688944937bc88523bdc536f6491f5d4d11e642f621a6": {
+            "file": "images/145563c70e7a6531194e688944937bc88523bdc536f6491f5d4d11e642f621a6.jpg",
+            "filename": "paste-60816736911363 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59355
+        },
+        "2df432313245803a33c91257644f7112990e8a140e530cb65543d93968ad38ad": {
+            "file": "images/2df432313245803a33c91257644f7112990e8a140e530cb65543d93968ad38ad.jpg",
+            "filename": "paste-634001597399041.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 148325
+        },
+        "8331614de60eb994f9aad4aa257edcfe08f324dd2470df8dcd8d864997463bc7": {
+            "file": "images/8331614de60eb994f9aad4aa257edcfe08f324dd2470df8dcd8d864997463bc7.jpg",
+            "filename": "paste-112047106818051.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54076
+        },
+        "954168900aed7ebfd02f937738ae141cc5ec9043f65e1b5b8a18ee388352a18a": {
+            "file": "images/954168900aed7ebfd02f937738ae141cc5ec9043f65e1b5b8a18ee388352a18a.jpg",
+            "filename": "paste-111776523878403.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52785
+        },
+        "976514cac00f671ceada131d78161259e7b71f87b223859170924c10f329b1f1": {
+            "file": "images/976514cac00f671ceada131d78161259e7b71f87b223859170924c10f329b1f1.jpg",
+            "filename": "paste-666785082769411.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60858
+        }
+    }
+}

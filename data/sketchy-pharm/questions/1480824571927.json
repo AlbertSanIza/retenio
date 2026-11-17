@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480824571927",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480824571927",
+        "noteId": "1480823075841",
+        "noteGuid": "r}/0-Xm6|3",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::5 Antifungals::5.1 - Amphotericin, flucytosine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(5)-Antifungals::5.1-AmphotericinB,Flucytosine,Nystatin",
+        "$$Antimicrobials",
+        "$Antifungals"
+    ],
+    "question": {
+        "text": "§\n\nWhat combo regimen is used to treat Cryptococcus?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat combo regimen is used to treat Cryptococcus?\n\n(1) Flucytosine\n(2) Amphotericin\n\n[Image: 699a154b055105afc2b067e0fc07d61f91fc02f68e6e2ba1e0f36ae5247c4fcf]\n\n5.1 - Amphotericin, flucytosine\n[Image: 1b5ef9e80679b88c53a62ff8080f4e3c7f53075f3c49a5f37b120709205d0f02]\n\n[Image: 9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63]\n\n[Image: fb48c171e859420e532b213516a0ea4e3c6c3f280d6874edde07b7bcec252ce5]\n\n[Image: a67623382ecfd97911d2fef4eed826b01e0e668e098272c6a4ea38eded47718d]",
+        "imageIds": [
+            "699a154b055105afc2b067e0fc07d61f91fc02f68e6e2ba1e0f36ae5247c4fcf",
+            "1b5ef9e80679b88c53a62ff8080f4e3c7f53075f3c49a5f37b120709205d0f02",
+            "9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63",
+            "fb48c171e859420e532b213516a0ea4e3c6c3f280d6874edde07b7bcec252ce5",
+            "a67623382ecfd97911d2fef4eed826b01e0e668e098272c6a4ea38eded47718d"
+        ]
+    },
+    "images": {
+        "1b5ef9e80679b88c53a62ff8080f4e3c7f53075f3c49a5f37b120709205d0f02": {
+            "file": "images/1b5ef9e80679b88c53a62ff8080f4e3c7f53075f3c49a5f37b120709205d0f02.jpg",
+            "filename": "paste-266275087450113.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 124480
+        },
+        "699a154b055105afc2b067e0fc07d61f91fc02f68e6e2ba1e0f36ae5247c4fcf": {
+            "file": "images/699a154b055105afc2b067e0fc07d61f91fc02f68e6e2ba1e0f36ae5247c4fcf.jpg",
+            "filename": "paste-262018774859779.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43725
+        },
+        "9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63": {
+            "file": "images/9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63.jpg",
+            "filename": "paste-468138550362115.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53292
+        },
+        "a67623382ecfd97911d2fef4eed826b01e0e668e098272c6a4ea38eded47718d": {
+            "file": "images/a67623382ecfd97911d2fef4eed826b01e0e668e098272c6a4ea38eded47718d.jpg",
+            "filename": "paste-470810020020227.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34800
+        },
+        "fb48c171e859420e532b213516a0ea4e3c6c3f280d6874edde07b7bcec252ce5": {
+            "file": "images/fb48c171e859420e532b213516a0ea4e3c6c3f280d6874edde07b7bcec252ce5.jpg",
+            "filename": "paste-469465695256579 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47708
+        }
+    }
+}

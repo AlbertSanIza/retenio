@@ -1,0 +1,87 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480816165698",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480816165698",
+        "noteId": "1480812867870",
+        "noteGuid": "B.#W9#QCRN",
+        "modelId": "1475688242543",
+        "templateOrdinal": 13
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::3 Antimycobacterials::3.1 - Tuberculosis Drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(3)-Antimycobacterials::3.1-Tuberculosis_Drugs",
+        "$$Antimicrobials",
+        "$Antimycobacterials"
+    ],
+    "question": {
+        "text": "§\n\nWhen can Rifampin be used as a monotherapy?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhen can Rifampin be used as a monotherapy?\n\nPROPHYLAXIS for those exposed to:\n\n(1) Neisseria meningitis\n\n(2) Haemophilus influenzae\n\n(Otherwise organisms quickly develop resistance)\n\n[Image: 1a8deaa81ef0ee0ee12c5b37f1859781041b580a49f8289cf7d8eb36e2adda19]\n\n[Image: c376c20e1387be735ad0adc48d87e9d55c2458d3631cf6afb5855a41fda1be7d]\n\n[Image: 0eefc86295686fb316799e73fea107f5695ab9f55218e25f1e8d559e97183df0]\n\n3.1 - Tuberculosis Drugs\n[Image: 75747c8b652c8f2d208a149207fab1b8976d4381798f86e53cbafe58b3751752]\n\n[Image: d4d07c3fd6d7ac606792eb4ace534fe4cdb21726d114d25beab0fdf8ec968a95]\n\n[Image: 8a6a87653f9aeb4a4876920b2a1558f23095df8b805d5c12e7f0a2e3f461200b]\n\n[Image: 263eda575dffc9aa3fccc786bb7febb77ffe5631bea7e464d00e08898ed80463]\n\n[Image: d564a2c26b1ad2fd2193e2653e6827fe68d6c771d1ae83265a06893ce8e50900]",
+        "imageIds": [
+            "1a8deaa81ef0ee0ee12c5b37f1859781041b580a49f8289cf7d8eb36e2adda19",
+            "c376c20e1387be735ad0adc48d87e9d55c2458d3631cf6afb5855a41fda1be7d",
+            "0eefc86295686fb316799e73fea107f5695ab9f55218e25f1e8d559e97183df0",
+            "75747c8b652c8f2d208a149207fab1b8976d4381798f86e53cbafe58b3751752",
+            "d4d07c3fd6d7ac606792eb4ace534fe4cdb21726d114d25beab0fdf8ec968a95",
+            "8a6a87653f9aeb4a4876920b2a1558f23095df8b805d5c12e7f0a2e3f461200b",
+            "263eda575dffc9aa3fccc786bb7febb77ffe5631bea7e464d00e08898ed80463",
+            "d564a2c26b1ad2fd2193e2653e6827fe68d6c771d1ae83265a06893ce8e50900"
+        ]
+    },
+    "images": {
+        "0eefc86295686fb316799e73fea107f5695ab9f55218e25f1e8d559e97183df0": {
+            "file": "images/0eefc86295686fb316799e73fea107f5695ab9f55218e25f1e8d559e97183df0.jpg",
+            "filename": "paste-182454505701379.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55127
+        },
+        "1a8deaa81ef0ee0ee12c5b37f1859781041b580a49f8289cf7d8eb36e2adda19": {
+            "file": "images/1a8deaa81ef0ee0ee12c5b37f1859781041b580a49f8289cf7d8eb36e2adda19.jpg",
+            "filename": "paste-182162447925251.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56225
+        },
+        "263eda575dffc9aa3fccc786bb7febb77ffe5631bea7e464d00e08898ed80463": {
+            "file": "images/263eda575dffc9aa3fccc786bb7febb77ffe5631bea7e464d00e08898ed80463.jpg",
+            "filename": "paste-463057604050947.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 71628
+        },
+        "75747c8b652c8f2d208a149207fab1b8976d4381798f86e53cbafe58b3751752": {
+            "file": "images/75747c8b652c8f2d208a149207fab1b8976d4381798f86e53cbafe58b3751752.jpg",
+            "filename": "paste-235686330368001.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 145951
+        },
+        "8a6a87653f9aeb4a4876920b2a1558f23095df8b805d5c12e7f0a2e3f461200b": {
+            "file": "images/8a6a87653f9aeb4a4876920b2a1558f23095df8b805d5c12e7f0a2e3f461200b.jpg",
+            "filename": "paste-461352502034435.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58231
+        },
+        "c376c20e1387be735ad0adc48d87e9d55c2458d3631cf6afb5855a41fda1be7d": {
+            "file": "images/c376c20e1387be735ad0adc48d87e9d55c2458d3631cf6afb5855a41fda1be7d.jpg",
+            "filename": "paste-182377196290051.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54284
+        },
+        "d4d07c3fd6d7ac606792eb4ace534fe4cdb21726d114d25beab0fdf8ec968a95": {
+            "file": "images/d4d07c3fd6d7ac606792eb4ace534fe4cdb21726d114d25beab0fdf8ec968a95.jpg",
+            "filename": "paste-457907938263043.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 64003
+        },
+        "d564a2c26b1ad2fd2193e2653e6827fe68d6c771d1ae83265a06893ce8e50900": {
+            "file": "images/d564a2c26b1ad2fd2193e2653e6827fe68d6c771d1ae83265a06893ce8e50900.jpg",
+            "filename": "paste-174826643783683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 24429
+        }
+    }
+}

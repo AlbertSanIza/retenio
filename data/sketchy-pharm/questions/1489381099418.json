@@ -1,0 +1,94 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1489381099418",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1489381099418",
+        "noteId": "1489377832406",
+        "noteGuid": "qXy^sYw?Ac",
+        "modelId": "1475688242543",
+        "templateOrdinal": 14
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.3 - Teriparatide, Vitamin D, Cinacalcet, Sevelamer",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.3-Teriparatide,Vitamin_D,Cinacalcet,Sevelamer",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "§\n\nIndication: Topical Vit. D",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nIndication: Topical Vit. D\n\nPsoriasis\n\n(Vit. D plays an important role in T-cell homing to skin ∴ topical Vit. D exerts immunomodulatory effects)\n\n[Image: 86c316dbf862cb7d4cff39415bdd030ddfb0adf771e71749ffdea972d9aa22a4]\n\n[Image: 371d27899dbbde3f63885d96d9adf97495a762994f11b1b2a3873416f5214001]\n\n3.3 - Teriparatide, vitamin D, cinacalcet, sevelame\n\n[Image: 4298e78b27c77e9be26a3315ef94e1449bf4f3333203dd64aef50652cce9b080]\n\n[Image: 0d8bcf50b941d06eb3acedd71ef95ad2c633d03d05e1929b321aca54170c2656]\n\n[Image: bb7a366363f2144f1f342d3ac611c281babe1fc0ee8b93a96e580f11239e27e0]\n\n[Image: 34b2bdc6643b813866ff83567203f474ad3825f2c882e94a70b0cd9de3de00b8]\n\n[Image: 828e4d13e74c599b9c1305dc0515e1887e6211fb43b59d6204b47d3295896812]\n\n[Image: 6f4f86b7c169893f2937f2037815d3a00709b32594507ec3dd69174ba87e529f]\n\n[Image: a0bfadc2893d1cd305662d9c6ec962516c32c4ad80863ee55ec1d667ad61a421]",
+        "imageIds": [
+            "86c316dbf862cb7d4cff39415bdd030ddfb0adf771e71749ffdea972d9aa22a4",
+            "371d27899dbbde3f63885d96d9adf97495a762994f11b1b2a3873416f5214001",
+            "4298e78b27c77e9be26a3315ef94e1449bf4f3333203dd64aef50652cce9b080",
+            "0d8bcf50b941d06eb3acedd71ef95ad2c633d03d05e1929b321aca54170c2656",
+            "bb7a366363f2144f1f342d3ac611c281babe1fc0ee8b93a96e580f11239e27e0",
+            "34b2bdc6643b813866ff83567203f474ad3825f2c882e94a70b0cd9de3de00b8",
+            "828e4d13e74c599b9c1305dc0515e1887e6211fb43b59d6204b47d3295896812",
+            "6f4f86b7c169893f2937f2037815d3a00709b32594507ec3dd69174ba87e529f",
+            "a0bfadc2893d1cd305662d9c6ec962516c32c4ad80863ee55ec1d667ad61a421"
+        ]
+    },
+    "images": {
+        "0d8bcf50b941d06eb3acedd71ef95ad2c633d03d05e1929b321aca54170c2656": {
+            "file": "images/0d8bcf50b941d06eb3acedd71ef95ad2c633d03d05e1929b321aca54170c2656.jpg",
+            "filename": "paste-83661667958787.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 29167
+        },
+        "34b2bdc6643b813866ff83567203f474ad3825f2c882e94a70b0cd9de3de00b8": {
+            "file": "images/34b2bdc6643b813866ff83567203f474ad3825f2c882e94a70b0cd9de3de00b8.jpg",
+            "filename": "paste-41102837022723 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 1526
+        },
+        "371d27899dbbde3f63885d96d9adf97495a762994f11b1b2a3873416f5214001": {
+            "file": "images/371d27899dbbde3f63885d96d9adf97495a762994f11b1b2a3873416f5214001.jpg",
+            "filename": "paste-50573239910403.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 110192
+        },
+        "4298e78b27c77e9be26a3315ef94e1449bf4f3333203dd64aef50652cce9b080": {
+            "file": "images/4298e78b27c77e9be26a3315ef94e1449bf4f3333203dd64aef50652cce9b080.jpg",
+            "filename": "paste-46699179409411.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 110399
+        },
+        "6f4f86b7c169893f2937f2037815d3a00709b32594507ec3dd69174ba87e529f": {
+            "file": "images/6f4f86b7c169893f2937f2037815d3a00709b32594507ec3dd69174ba87e529f.jpg",
+            "filename": "paste-18567143620611.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 97161
+        },
+        "828e4d13e74c599b9c1305dc0515e1887e6211fb43b59d6204b47d3295896812": {
+            "file": "images/828e4d13e74c599b9c1305dc0515e1887e6211fb43b59d6204b47d3295896812.jpg",
+            "filename": "paste-84520661417987 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 68669
+        },
+        "86c316dbf862cb7d4cff39415bdd030ddfb0adf771e71749ffdea972d9aa22a4": {
+            "file": "images/86c316dbf862cb7d4cff39415bdd030ddfb0adf771e71749ffdea972d9aa22a4.jpg",
+            "filename": "paste-74410308403203 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 89165
+        },
+        "a0bfadc2893d1cd305662d9c6ec962516c32c4ad80863ee55ec1d667ad61a421": {
+            "file": "images/a0bfadc2893d1cd305662d9c6ec962516c32c4ad80863ee55ec1d667ad61a421.jpg",
+            "filename": "paste-18670222835715.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51676
+        },
+        "bb7a366363f2144f1f342d3ac611c281babe1fc0ee8b93a96e580f11239e27e0": {
+            "file": "images/bb7a366363f2144f1f342d3ac611c281babe1fc0ee8b93a96e580f11239e27e0.jpg",
+            "filename": "paste-83889301225475 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 15712
+        }
+    }
+}

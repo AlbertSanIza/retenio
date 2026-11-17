@@ -1,0 +1,80 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480819869363",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480819869363",
+        "noteId": "1480817330855",
+        "noteGuid": "JorE&S@rr3",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::4 Other Antibiotics::4.1 - Trimethoprim/Sulfamethoxazole",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(4)-Other_Antibiotics::4.1-Trimethoprim/Sulfamethoxazole",
+        "$$Antimicrobials",
+        "$Other_Antibiotics"
+    ],
+    "question": {
+        "text": "§\n\nWhat type of infections is TMP-SMX first line for?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat type of infections is TMP-SMX first line for?\n\n(1) UTI\n(2) Prostatitis\n\n(3) Nocardia\n\n(4) Pneumocystis jirovecci\n\n(Prophylaxis for Toxoplasma, NOT treatment)\n\n[Image: c094d0b299a4c11476bcbb81b10aad3f8aae258445932b92d11dcae48eee35a6]\n\n[Image: 5d7b3dee6b9f13b75bbf1f94c819544df574e5c58e7a8575bc4d376f2c02cdf7]\n\n[Image: e91ea95f47856aef63d8fb85286df03190e48b03e98ae9c7c4fa745cc000a227]\n\n[Image: a44de8e39b66dc44e0acbeccf6f623660a4d809ce7335bef7d8709bf8f06863e]\n\n4.1 - Trimethoprim/Sulfamethoxazole\n[Image: 37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da]\n\n[Image: 415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9]\n\n[Image: 302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70]",
+        "imageIds": [
+            "c094d0b299a4c11476bcbb81b10aad3f8aae258445932b92d11dcae48eee35a6",
+            "5d7b3dee6b9f13b75bbf1f94c819544df574e5c58e7a8575bc4d376f2c02cdf7",
+            "e91ea95f47856aef63d8fb85286df03190e48b03e98ae9c7c4fa745cc000a227",
+            "a44de8e39b66dc44e0acbeccf6f623660a4d809ce7335bef7d8709bf8f06863e",
+            "37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da",
+            "415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9",
+            "302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70"
+        ]
+    },
+    "images": {
+        "302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70": {
+            "file": "images/302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70.jpg",
+            "filename": "paste-184696478629891.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 30701
+        },
+        "37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da": {
+            "file": "images/37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da.jpg",
+            "filename": "paste-247265562198017.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 141182
+        },
+        "415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9": {
+            "file": "images/415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9.jpg",
+            "filename": "paste-413223098515459.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 75809
+        },
+        "5d7b3dee6b9f13b75bbf1f94c819544df574e5c58e7a8575bc4d376f2c02cdf7": {
+            "file": "images/5d7b3dee6b9f13b75bbf1f94c819544df574e5c58e7a8575bc4d376f2c02cdf7.jpg",
+            "filename": "paste-200879915401219.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50959
+        },
+        "a44de8e39b66dc44e0acbeccf6f623660a4d809ce7335bef7d8709bf8f06863e": {
+            "file": "images/a44de8e39b66dc44e0acbeccf6f623660a4d809ce7335bef7d8709bf8f06863e.jpg",
+            "filename": "paste-201996606898179.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55829
+        },
+        "c094d0b299a4c11476bcbb81b10aad3f8aae258445932b92d11dcae48eee35a6": {
+            "file": "images/c094d0b299a4c11476bcbb81b10aad3f8aae258445932b92d11dcae48eee35a6.jpg",
+            "filename": "paste-200763951284227.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50371
+        },
+        "e91ea95f47856aef63d8fb85286df03190e48b03e98ae9c7c4fa745cc000a227": {
+            "file": "images/e91ea95f47856aef63d8fb85286df03190e48b03e98ae9c7c4fa745cc000a227.jpg",
+            "filename": "paste-201768973631491.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51603
+        }
+    }
+}

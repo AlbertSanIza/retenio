@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475730679321",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475730679321",
+        "noteId": "1475730097704",
+        "noteGuid": "OD@.lTw{<=",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.2 - Indirect sympathomimetics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.2-Indirect_Sympathomimetics",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "§\n\nWhat type of G-proteins are D1 and D2 receptors?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat type of G-proteins are D1 and D2 receptors?\n\n(1) D1: Gs\n(2) D2: Gi\n\n[Image: d449f17a90c5dc647cbcf9f3e068931c8c5ac1604bc51b015227992aafcf3479]\n\n2.2 - Indirect sympathomimetics\n[Image: b52167de5b8cb501cd464be07b46495ee3fb0e4bf1765537d5879e38aee42838]\n\n[Image: d1f4e614e666b93cadc7eb30f666b8877ee94814265882ea84b34c853210a31f]\n\n[Image: b9461aacbd262c70bf458b489ed5ab1072fe47e2d1bc0a755616f44b39c59744]\n\n[Image: ce5990f7fc23f2c0b6d78c6bd05168d6ba3447641544b8278e51068158803eb1]",
+        "imageIds": [
+            "d449f17a90c5dc647cbcf9f3e068931c8c5ac1604bc51b015227992aafcf3479",
+            "b52167de5b8cb501cd464be07b46495ee3fb0e4bf1765537d5879e38aee42838",
+            "d1f4e614e666b93cadc7eb30f666b8877ee94814265882ea84b34c853210a31f",
+            "b9461aacbd262c70bf458b489ed5ab1072fe47e2d1bc0a755616f44b39c59744",
+            "ce5990f7fc23f2c0b6d78c6bd05168d6ba3447641544b8278e51068158803eb1"
+        ]
+    },
+    "images": {
+        "b52167de5b8cb501cd464be07b46495ee3fb0e4bf1765537d5879e38aee42838": {
+            "file": "images/b52167de5b8cb501cd464be07b46495ee3fb0e4bf1765537d5879e38aee42838.jpg",
+            "filename": "paste-429097297641473.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 126833
+        },
+        "b9461aacbd262c70bf458b489ed5ab1072fe47e2d1bc0a755616f44b39c59744": {
+            "file": "images/b9461aacbd262c70bf458b489ed5ab1072fe47e2d1bc0a755616f44b39c59744.jpg",
+            "filename": "paste-606153029451779.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 39003
+        },
+        "ce5990f7fc23f2c0b6d78c6bd05168d6ba3447641544b8278e51068158803eb1": {
+            "file": "images/ce5990f7fc23f2c0b6d78c6bd05168d6ba3447641544b8278e51068158803eb1.jpg",
+            "filename": "paste-41278930681859.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46589
+        },
+        "d1f4e614e666b93cadc7eb30f666b8877ee94814265882ea84b34c853210a31f": {
+            "file": "images/d1f4e614e666b93cadc7eb30f666b8877ee94814265882ea84b34c853210a31f.jpg",
+            "filename": "paste-135420318842883.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 87001
+        },
+        "d449f17a90c5dc647cbcf9f3e068931c8c5ac1604bc51b015227992aafcf3479": {
+            "file": "images/d449f17a90c5dc647cbcf9f3e068931c8c5ac1604bc51b015227992aafcf3479.jpg",
+            "filename": "paste-29545080029187.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56875
+        }
+    }
+}

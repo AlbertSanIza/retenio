@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480294535710",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480294535710",
+        "noteId": "1480292425830",
+        "noteGuid": "F-Oy]]*-Bc",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::1 Antimetabolites::1.1 - Methotrexate, leucovorin, 5-fluorouracil, hydroxyurea",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(1)-Antimetabolites::1.1-Methotrexate,Leucovorin,5-FU,Hydroxyurea",
+        "$$Antineoplastics",
+        "$Antimetabolites"
+    ],
+    "question": {
+        "text": "§\n\nMOA: Methotrexate",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nMOA: Methotrexate\n\nInhibits dihydrofolate reductase\n\n[Image: 537c7ac1fe5c4f1758bde3603780ca6a05bd2926ee8b67fda9fb2cbb99f8a6b3]\n\n[Image: 02fe34685afef3c06228f60d44414d8dd84c4e264aed8b2b4e36f31d1b93f673]\n\n1.1 - Methotrexate, leucovorin, 5-fluorouracil, hydroxyurea\n[Image: 62d369da2900702f60cd36e1bc35c329bfe8271149816eac8050ac0c1b8bfd14]\n\n[Image: ed347b61d9a5db6d536463b914491c82ed7605f4ba7a817a2e0b6a9da73dc373]\n\n[Image: 2a1e378b1723d814e08cccf3c3d69b6139f022b818600e13d8fbd8737e3b5a90]\n\n[Image: e19f5a1ffca1b6101ba47e85c3245210cc16464227cefb77f324c5526bbbd848]",
+        "imageIds": [
+            "537c7ac1fe5c4f1758bde3603780ca6a05bd2926ee8b67fda9fb2cbb99f8a6b3",
+            "02fe34685afef3c06228f60d44414d8dd84c4e264aed8b2b4e36f31d1b93f673",
+            "62d369da2900702f60cd36e1bc35c329bfe8271149816eac8050ac0c1b8bfd14",
+            "ed347b61d9a5db6d536463b914491c82ed7605f4ba7a817a2e0b6a9da73dc373",
+            "2a1e378b1723d814e08cccf3c3d69b6139f022b818600e13d8fbd8737e3b5a90",
+            "e19f5a1ffca1b6101ba47e85c3245210cc16464227cefb77f324c5526bbbd848"
+        ]
+    },
+    "images": {
+        "02fe34685afef3c06228f60d44414d8dd84c4e264aed8b2b4e36f31d1b93f673": {
+            "file": "images/02fe34685afef3c06228f60d44414d8dd84c4e264aed8b2b4e36f31d1b93f673.jpg",
+            "filename": "paste-32087700668419 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 42323
+        },
+        "2a1e378b1723d814e08cccf3c3d69b6139f022b818600e13d8fbd8737e3b5a90": {
+            "file": "images/2a1e378b1723d814e08cccf3c3d69b6139f022b818600e13d8fbd8737e3b5a90.jpg",
+            "filename": "paste-166064910499843.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 9871
+        },
+        "537c7ac1fe5c4f1758bde3603780ca6a05bd2926ee8b67fda9fb2cbb99f8a6b3": {
+            "file": "images/537c7ac1fe5c4f1758bde3603780ca6a05bd2926ee8b67fda9fb2cbb99f8a6b3.jpg",
+            "filename": "paste-32040456028163.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 41897
+        },
+        "62d369da2900702f60cd36e1bc35c329bfe8271149816eac8050ac0c1b8bfd14": {
+            "file": "images/62d369da2900702f60cd36e1bc35c329bfe8271149816eac8050ac0c1b8bfd14.jpg",
+            "filename": "paste-329273667747841.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 137898
+        },
+        "e19f5a1ffca1b6101ba47e85c3245210cc16464227cefb77f324c5526bbbd848": {
+            "file": "images/e19f5a1ffca1b6101ba47e85c3245210cc16464227cefb77f324c5526bbbd848.jpg",
+            "filename": "paste-55825984913411.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 121727
+        },
+        "ed347b61d9a5db6d536463b914491c82ed7605f4ba7a817a2e0b6a9da73dc373": {
+            "file": "images/ed347b61d9a5db6d536463b914491c82ed7605f4ba7a817a2e0b6a9da73dc373.jpg",
+            "filename": "paste-162650411499523.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 35588
+        }
+    }
+}

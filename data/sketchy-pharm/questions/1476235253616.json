@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476235253616",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476235253616",
+        "noteId": "1476235100464",
+        "noteGuid": "vE5{@SswBz",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.2 - Loop diuretics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.2-Loop_Diuretics",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "§\n\nWhich segment of the nephron is most impermeable to water?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhich segment of the nephron is most impermeable to water?\n\nThick ascending loop of Henle\n\n(Note: DCT is relatively impermeable to water as well)\n\n[Image: 7da1a89b8360528ae39f60fbd1e53c95baed94ae16296a62e6668d7a49809700]\n\n[Image: 4d6a17c53dad06d6a8b98f6306ddc6f5928a98c6fc8b0a7d433d33bfb025309a]\n\n[Image: ac1f18ce5886c92ea7b03f95302b63d5c28ac08340d8b09ac54edbcf6d155f07]\n\n2.2 - Loop diuretics\n[Image: ab97a3dbb7bcb783c943a24dd17fe759c7e8649ccf31e9c669d50ac2fd87224f]\n\n[Image: 1b7148647feea8113ae9dee03b260d70ee27ebcc42fd60b3f4de9de573e060cc]\n\n[Image: 3441d6b488bb0369101547fd03cec0ec80e0ad3a479fc9e8b2f636b8092b09fe]",
+        "imageIds": [
+            "7da1a89b8360528ae39f60fbd1e53c95baed94ae16296a62e6668d7a49809700",
+            "4d6a17c53dad06d6a8b98f6306ddc6f5928a98c6fc8b0a7d433d33bfb025309a",
+            "ac1f18ce5886c92ea7b03f95302b63d5c28ac08340d8b09ac54edbcf6d155f07",
+            "ab97a3dbb7bcb783c943a24dd17fe759c7e8649ccf31e9c669d50ac2fd87224f",
+            "1b7148647feea8113ae9dee03b260d70ee27ebcc42fd60b3f4de9de573e060cc",
+            "3441d6b488bb0369101547fd03cec0ec80e0ad3a479fc9e8b2f636b8092b09fe"
+        ]
+    },
+    "images": {
+        "1b7148647feea8113ae9dee03b260d70ee27ebcc42fd60b3f4de9de573e060cc": {
+            "file": "images/1b7148647feea8113ae9dee03b260d70ee27ebcc42fd60b3f4de9de573e060cc.jpg",
+            "filename": "paste-198698072014851.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 40968
+        },
+        "3441d6b488bb0369101547fd03cec0ec80e0ad3a479fc9e8b2f636b8092b09fe": {
+            "file": "images/3441d6b488bb0369101547fd03cec0ec80e0ad3a479fc9e8b2f636b8092b09fe.jpg",
+            "filename": "paste-203504140419075.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 104127
+        },
+        "4d6a17c53dad06d6a8b98f6306ddc6f5928a98c6fc8b0a7d433d33bfb025309a": {
+            "file": "images/4d6a17c53dad06d6a8b98f6306ddc6f5928a98c6fc8b0a7d433d33bfb025309a.jpg",
+            "filename": "paste-18107582119939.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51362
+        },
+        "7da1a89b8360528ae39f60fbd1e53c95baed94ae16296a62e6668d7a49809700": {
+            "file": "images/7da1a89b8360528ae39f60fbd1e53c95baed94ae16296a62e6668d7a49809700.jpg",
+            "filename": "paste-18081812316163.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48413
+        },
+        "ab97a3dbb7bcb783c943a24dd17fe759c7e8649ccf31e9c669d50ac2fd87224f": {
+            "file": "images/ab97a3dbb7bcb783c943a24dd17fe759c7e8649ccf31e9c669d50ac2fd87224f.jpg",
+            "filename": "paste-617118080958465.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 154300
+        },
+        "ac1f18ce5886c92ea7b03f95302b63d5c28ac08340d8b09ac54edbcf6d155f07": {
+            "file": "images/ac1f18ce5886c92ea7b03f95302b63d5c28ac08340d8b09ac54edbcf6d155f07.jpg",
+            "filename": "paste-18786186952707.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50363
+        }
+    }
+}

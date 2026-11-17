@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480298206680",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480298206680",
+        "noteId": "1480297092872",
+        "noteGuid": "JyIhgVZ0$r",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::4 Mood Stabilizers & Antiepileptic Drugs::4.1 - Lithium",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(4)-Mood_Stabilizers_&_Antiepileptics::4.1-Lithium",
+        "$$Neuro/Psych",
+        "$Mood_Stabilizers_&_Antiepileptics"
+    ],
+    "question": {
+        "text": "§\n\nWhat are the symptoms of chronic Lithium toxicity?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat are the symptoms of chronic Lithium toxicity?\n\n(1) Tremor\n(2) Ataxia\n\n[Image: 1a916ccc5cb285141fb5d79bcabab331090df3eb372aa0dfe6f39511bab40f41]\n\n[Image: 52440d43048e10cb2a379beb881aa36d1cf7bd8ca8d5b9a37b306139b3918c63]\n\n4.1 - Lithium\n[Image: 906e1cbe8badcd1dcc8d21e284dc64d1af2bbf639abc16d617e4308bb635713e]\n\n[Image: 89c6e786d10c9cae20acc6a8cc5dd3f044e63f70369c505225950c9204c4947e]\n\n[Image: 1ee8313ee6ae61b2ae9c5345f38d5e3ae221ed66fbeb9f01adf12024c513515a]\n\n[Image: dc73572f5b9694ad38c1446590293cc46e29fa79e26146eb63185b7b0ad5c8a2]",
+        "imageIds": [
+            "1a916ccc5cb285141fb5d79bcabab331090df3eb372aa0dfe6f39511bab40f41",
+            "52440d43048e10cb2a379beb881aa36d1cf7bd8ca8d5b9a37b306139b3918c63",
+            "906e1cbe8badcd1dcc8d21e284dc64d1af2bbf639abc16d617e4308bb635713e",
+            "89c6e786d10c9cae20acc6a8cc5dd3f044e63f70369c505225950c9204c4947e",
+            "1ee8313ee6ae61b2ae9c5345f38d5e3ae221ed66fbeb9f01adf12024c513515a",
+            "dc73572f5b9694ad38c1446590293cc46e29fa79e26146eb63185b7b0ad5c8a2"
+        ]
+    },
+    "images": {
+        "1a916ccc5cb285141fb5d79bcabab331090df3eb372aa0dfe6f39511bab40f41": {
+            "file": "images/1a916ccc5cb285141fb5d79bcabab331090df3eb372aa0dfe6f39511bab40f41.jpg",
+            "filename": "paste-85431194484739.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 40176
+        },
+        "1ee8313ee6ae61b2ae9c5345f38d5e3ae221ed66fbeb9f01adf12024c513515a": {
+            "file": "images/1ee8313ee6ae61b2ae9c5345f38d5e3ae221ed66fbeb9f01adf12024c513515a.jpg",
+            "filename": "paste-1215879471693827.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62582
+        },
+        "52440d43048e10cb2a379beb881aa36d1cf7bd8ca8d5b9a37b306139b3918c63": {
+            "file": "images/52440d43048e10cb2a379beb881aa36d1cf7bd8ca8d5b9a37b306139b3918c63.jpg",
+            "filename": "paste-85469849190403.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 40726
+        },
+        "89c6e786d10c9cae20acc6a8cc5dd3f044e63f70369c505225950c9204c4947e": {
+            "file": "images/89c6e786d10c9cae20acc6a8cc5dd3f044e63f70369c505225950c9204c4947e.jpg",
+            "filename": "paste-1207010364227587.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 121390
+        },
+        "906e1cbe8badcd1dcc8d21e284dc64d1af2bbf639abc16d617e4308bb635713e": {
+            "file": "images/906e1cbe8badcd1dcc8d21e284dc64d1af2bbf639abc16d617e4308bb635713e.jpg",
+            "filename": "paste-1203505670914049.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 112568
+        },
+        "dc73572f5b9694ad38c1446590293cc46e29fa79e26146eb63185b7b0ad5c8a2": {
+            "file": "images/dc73572f5b9694ad38c1446590293cc46e29fa79e26146eb63185b7b0ad5c8a2.jpg",
+            "filename": "paste-1212022591062019.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52455
+        }
+    }
+}

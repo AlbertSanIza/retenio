@@ -2,7 +2,7 @@ import type { NextConfig } from 'next'
 
 const nextConfig: NextConfig = {
     outputFileTracingIncludes: {
-        '/api/mcp': ['./data/anki/**/*']
+        '/api/mcp': ['./data/*/collection.json', './data/*/questions/*.json', './data/*/images/*']
     },
     /* config options here */
     experimental: {

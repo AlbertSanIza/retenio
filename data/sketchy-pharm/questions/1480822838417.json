@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480822838417",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480822838417",
+        "noteId": "1480822475400",
+        "noteGuid": "M<MBd)n{6z",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::4 Other Antibiotics::4.3 - Metronidazole",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(4)-Other_Antibiotics::4.3-Metronidazole",
+        "$$Antimicrobials",
+        "$Other_Antibiotics"
+    ],
+    "question": {
+        "text": "§\n\nWhat antibiotic is particularly effective against polymicrobial anaerobic infections?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat antibiotic is particularly effective against polymicrobial anaerobic infections?\n\nMetronidazole\n\n(i.e., intra-abdominal infections)\n\n[Image: eb15c5378d554945d8042cedcfe1fd79f1b97bc8ba0062c076ca44f40ac24575]\n\n4.3 - Metronidazole\n[Image: 7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4]\n\n[Image: 3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf]",
+        "imageIds": [
+            "eb15c5378d554945d8042cedcfe1fd79f1b97bc8ba0062c076ca44f40ac24575",
+            "7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4",
+            "3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf"
+        ]
+    },
+    "images": {
+        "3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf": {
+            "file": "images/3789f906989c9700d4b72db94c57bb67b43ae1c47c286abe0fefacd74ea80baf.jpg",
+            "filename": "paste-187277753974787.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55370
+        },
+        "7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4": {
+            "file": "images/7b57bb55292efb40414aa44b762413cec79357d8f64702e419cde246c3e166f4.jpg",
+            "filename": "paste-262010184925185.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 111887
+        },
+        "eb15c5378d554945d8042cedcfe1fd79f1b97bc8ba0062c076ca44f40ac24575": {
+            "file": "images/eb15c5378d554945d8042cedcfe1fd79f1b97bc8ba0062c076ca44f40ac24575.jpg",
+            "filename": "paste-238804476624899.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 39391
+        }
+    }
+}

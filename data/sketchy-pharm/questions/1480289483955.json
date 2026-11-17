@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480289483955",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480289483955",
+        "noteId": "1480287989907",
+        "noteGuid": "Ns&j{vB_eR",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.2 - Cisplatin, carboplatin, oxaliplatin, amifostine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(2)-DNA_&_Cellular_Division::2.2-Platin_Drugs_&_Amifostine",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "§\n\nMOA: Platinum analogs",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nMOA: Platinum analogs\n\nCross-link DNA\n\n[Image: db6004753089be6bdaba15a48d0994c2b90eeeb5e47c7e13beaed452502e3489]\n\n2.2 - Cisplatin, carboplatin, oxaliplatin, amifostine\n[Image: 39e77f32bc3c3c1d24e22b8d2a483bb424ad4524cb4c652a7d939b14cddb6eb0]\n\n[Image: 0cac665e307a95318ba64875f612cbbef8931ab8c0c1ca7e7135dcfd0a5727d6]",
+        "imageIds": [
+            "db6004753089be6bdaba15a48d0994c2b90eeeb5e47c7e13beaed452502e3489",
+            "39e77f32bc3c3c1d24e22b8d2a483bb424ad4524cb4c652a7d939b14cddb6eb0",
+            "0cac665e307a95318ba64875f612cbbef8931ab8c0c1ca7e7135dcfd0a5727d6"
+        ]
+    },
+    "images": {
+        "0cac665e307a95318ba64875f612cbbef8931ab8c0c1ca7e7135dcfd0a5727d6": {
+            "file": "images/0cac665e307a95318ba64875f612cbbef8931ab8c0c1ca7e7135dcfd0a5727d6.jpg",
+            "filename": "paste-179804510879747.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 10296
+        },
+        "39e77f32bc3c3c1d24e22b8d2a483bb424ad4524cb4c652a7d939b14cddb6eb0": {
+            "file": "images/39e77f32bc3c3c1d24e22b8d2a483bb424ad4524cb4c652a7d939b14cddb6eb0.jpg",
+            "filename": "paste-366274811002881.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 108353
+        },
+        "db6004753089be6bdaba15a48d0994c2b90eeeb5e47c7e13beaed452502e3489": {
+            "file": "images/db6004753089be6bdaba15a48d0994c2b90eeeb5e47c7e13beaed452502e3489.jpg",
+            "filename": "paste-31821412696067 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 37321
+        }
+    }
+}

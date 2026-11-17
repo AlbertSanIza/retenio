@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480836764154",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480836764154",
+        "noteId": "1480835348971",
+        "noteGuid": "i*mBW%(]hE",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::8 Antivirals: other::8.1 - Acyclovir, valacyclovir, famciclovir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(8)-Antivirals-Other::8.1-Acyclovir,Valacyclovir,Famiciclovir",
+        "$$Antimicrobials",
+        "$Antivirals_Others"
+    ],
+    "question": {
+        "text": "§\n\nWhat is the preferred antiviral to use as a daily HSV suppressive therapy",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat is the preferred antiviral to use as a daily HSV suppressive therapy\n\nValacyclovir\n\n(Val-acyclovir is an acyclovir prodrug with good oral bioavailability)\n\n[Image: 236970aa1154f6f2603fad8ab1772048eebcf20cf17af4a376d4a9c31dc347da]\n\n8.1 - Acyclovir, valacyclovir, famciclovir\n[Image: 40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b]\n\n[Image: a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1]\n\n[Image: a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35]\n\n[Image: 3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b]",
+        "imageIds": [
+            "236970aa1154f6f2603fad8ab1772048eebcf20cf17af4a376d4a9c31dc347da",
+            "40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b",
+            "a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1",
+            "a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35",
+            "3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b"
+        ]
+    },
+    "images": {
+        "236970aa1154f6f2603fad8ab1772048eebcf20cf17af4a376d4a9c31dc347da": {
+            "file": "images/236970aa1154f6f2603fad8ab1772048eebcf20cf17af4a376d4a9c31dc347da.jpg",
+            "filename": "paste-390923628314627.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 35822
+        },
+        "3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b": {
+            "file": "images/3cdb98c513d1edf0c676558e2d8a598188931114a2c50dfba194ba009bfb144b.jpg",
+            "filename": "paste-14950781157379.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 94367
+        },
+        "40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b": {
+            "file": "images/40cd3fb26f8053127843b5937618c2fecce7e1b488379fd3bda589dc4788af4b.jpg",
+            "filename": "paste-383768212799491.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59940
+        },
+        "a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1": {
+            "file": "images/a54717682ecba812b97c22a386c1fbfa3fc6df2d4b25b29be7cb0a6c4c2e5fc1.jpg",
+            "filename": "paste-305286275399683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 100859
+        },
+        "a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35": {
+            "file": "images/a91ef2755baac5a89fe711faf0484af6c807369e40b3d4e8d9a62c05fd935b35.jpg",
+            "filename": "paste-13438952669187.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 81188
+        }
+    }
+}

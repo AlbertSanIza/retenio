@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476210878801",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476210878801",
+        "noteId": "1476210297974",
+        "noteGuid": "n:FNxZoP&d",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.1 - Acetazolamide, mannitol",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.1-Acetazolamide",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "§\n\nWhat part of the nephron does Acetazolamide and Mannitol act on?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat part of the nephron does Acetazolamide and Mannitol act on?\n\nPCT\n\n[Image: 6397b962c9b90bdc95f1c20d64534a8d9a383fa7ba04b49a8157adb8dee3ee18]\n\n[Image: bfbc0e73676fd5840693b0abebe6685d96890cf6e3ba0e3c11843e1f3cc3658a]\n\n2.1 - Acetazolamide, mannitol\n[Image: c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311]\n\n[Image: 61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650]\n\n[Image: b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b]",
+        "imageIds": [
+            "6397b962c9b90bdc95f1c20d64534a8d9a383fa7ba04b49a8157adb8dee3ee18",
+            "bfbc0e73676fd5840693b0abebe6685d96890cf6e3ba0e3c11843e1f3cc3658a",
+            "c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311",
+            "61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650",
+            "b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b"
+        ]
+    },
+    "images": {
+        "61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650": {
+            "file": "images/61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650.jpg",
+            "filename": "paste-193866233806851.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57827
+        },
+        "6397b962c9b90bdc95f1c20d64534a8d9a383fa7ba04b49a8157adb8dee3ee18": {
+            "file": "images/6397b962c9b90bdc95f1c20d64534a8d9a383fa7ba04b49a8157adb8dee3ee18.jpg",
+            "filename": "paste-48571785150467.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 29997
+        },
+        "b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b": {
+            "file": "images/b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b.jpg",
+            "filename": "paste-195395242164227.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 82442
+        },
+        "bfbc0e73676fd5840693b0abebe6685d96890cf6e3ba0e3c11843e1f3cc3658a": {
+            "file": "images/bfbc0e73676fd5840693b0abebe6685d96890cf6e3ba0e3c11843e1f3cc3658a.jpg",
+            "filename": "paste-48554605281283.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 37082
+        },
+        "c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311": {
+            "file": "images/c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311.jpg",
+            "filename": "paste-612616955232257.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 146047
+        }
+    }
+}

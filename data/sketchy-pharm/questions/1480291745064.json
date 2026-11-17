@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480291745064",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480291745064",
+        "noteId": "1480291378231",
+        "noteGuid": "kQ,lW$HiT;",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.4 - Etoposide, teniposide, topotecan, irinotecan",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(2)-DNA_&_Cellular_Division::2.4-Etoposide,Teniposide,Topotecan,Irinotecan",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "§\n\nCell Cycle Specificity: Topoisomerase inhibitors",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nCell Cycle Specificity: Topoisomerase inhibitors\n\n(1) S\n\n(2) G2\n\n[Image: 5008f3214d9bb261ad7ae2e37f508cf1e58e6cc1f2abd6e4e0de50635127d5a9]\n\n[Image: 7912f36768791755804b70414c6a7c4453d51d0ab0d49b2df1f0348c98158e6f]\n\n2.4 - Etoposide, teniposide, topotecan, irinotecan\n[Image: 11288f4fb9b522f2cdc4355502d1496591261217813a12198739b8e123c3312a]\n\n[Image: 8a03d8e0ce5dfff46fe30a2aaa7d656abcf9160171e11d1f64d69ce72be9acf3]",
+        "imageIds": [
+            "5008f3214d9bb261ad7ae2e37f508cf1e58e6cc1f2abd6e4e0de50635127d5a9",
+            "7912f36768791755804b70414c6a7c4453d51d0ab0d49b2df1f0348c98158e6f",
+            "11288f4fb9b522f2cdc4355502d1496591261217813a12198739b8e123c3312a",
+            "8a03d8e0ce5dfff46fe30a2aaa7d656abcf9160171e11d1f64d69ce72be9acf3"
+        ]
+    },
+    "images": {
+        "11288f4fb9b522f2cdc4355502d1496591261217813a12198739b8e123c3312a": {
+            "file": "images/11288f4fb9b522f2cdc4355502d1496591261217813a12198739b8e123c3312a.jpg",
+            "filename": "paste-376995049373697.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 110522
+        },
+        "5008f3214d9bb261ad7ae2e37f508cf1e58e6cc1f2abd6e4e0de50635127d5a9": {
+            "file": "images/5008f3214d9bb261ad7ae2e37f508cf1e58e6cc1f2abd6e4e0de50635127d5a9.jpg",
+            "filename": "paste-15418932592643.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48722
+        },
+        "7912f36768791755804b70414c6a7c4453d51d0ab0d49b2df1f0348c98158e6f": {
+            "file": "images/7912f36768791755804b70414c6a7c4453d51d0ab0d49b2df1f0348c98158e6f.jpg",
+            "filename": "paste-15491947036675.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51007
+        },
+        "8a03d8e0ce5dfff46fe30a2aaa7d656abcf9160171e11d1f64d69ce72be9acf3": {
+            "file": "images/8a03d8e0ce5dfff46fe30a2aaa7d656abcf9160171e11d1f64d69ce72be9acf3.jpg",
+            "filename": "paste-171519518965763.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 22325
+        }
+    }
+}

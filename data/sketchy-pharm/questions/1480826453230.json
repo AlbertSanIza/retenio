@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480826453230",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480826453230",
+        "noteId": "1480825958438",
+        "noteGuid": "wh`5lM*zbv",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::5 Antifungals::5.2 - Azoles",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(5)-Antifungals::5.2-Azoles",
+        "$$Antimicrobials",
+        "$Antifungals"
+    ],
+    "question": {
+        "text": "§\n\nMOA: Azoles",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nMOA: Azoles\n\nInhibits conversion of Lanosterol → Ergosterol\n\n(Via inhibition of 14α-demethylase)\n\n[Image: 522d30f6b43e15d5ab34c6cc1282fd568aed6bdfa984f0123a8de73309717f36]\n\n[Image: 043f8bd981b07227043ee33eceddd57e3d8387d72b906fd5b40dea0c1bcf3ecf]\n\n[Image: ea9244c4b1e0ba890fc2f99301264af2492567b8873c78bcc2ed5ca3b01da55c]\n\n5.2 - Azoles\n[Image: b4c80df813ad6a6588ec141052d0bc0dfc887db53d1294365b5e1df24fd347da]\n\n[Image: 9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63]\n\n[Image: 3594b98443f5a56d34c4e5381332ec926dfe5a8060d7f82251ca8ff632397622]",
+        "imageIds": [
+            "522d30f6b43e15d5ab34c6cc1282fd568aed6bdfa984f0123a8de73309717f36",
+            "043f8bd981b07227043ee33eceddd57e3d8387d72b906fd5b40dea0c1bcf3ecf",
+            "ea9244c4b1e0ba890fc2f99301264af2492567b8873c78bcc2ed5ca3b01da55c",
+            "b4c80df813ad6a6588ec141052d0bc0dfc887db53d1294365b5e1df24fd347da",
+            "9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63",
+            "3594b98443f5a56d34c4e5381332ec926dfe5a8060d7f82251ca8ff632397622"
+        ]
+    },
+    "images": {
+        "043f8bd981b07227043ee33eceddd57e3d8387d72b906fd5b40dea0c1bcf3ecf": {
+            "file": "images/043f8bd981b07227043ee33eceddd57e3d8387d72b906fd5b40dea0c1bcf3ecf.jpg",
+            "filename": "paste-264015934652419.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43997
+        },
+        "3594b98443f5a56d34c4e5381332ec926dfe5a8060d7f82251ca8ff632397622": {
+            "file": "images/3594b98443f5a56d34c4e5381332ec926dfe5a8060d7f82251ca8ff632397622.jpg",
+            "filename": "paste-476183024107523.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43784
+        },
+        "522d30f6b43e15d5ab34c6cc1282fd568aed6bdfa984f0123a8de73309717f36": {
+            "file": "images/522d30f6b43e15d5ab34c6cc1282fd568aed6bdfa984f0123a8de73309717f36.jpg",
+            "filename": "paste-263977279946755.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 40005
+        },
+        "9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63": {
+            "file": "images/9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63.jpg",
+            "filename": "paste-468138550362115.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53292
+        },
+        "b4c80df813ad6a6588ec141052d0bc0dfc887db53d1294365b5e1df24fd347da": {
+            "file": "images/b4c80df813ad6a6588ec141052d0bc0dfc887db53d1294365b5e1df24fd347da.jpg",
+            "filename": "paste-271081155854337.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 139643
+        },
+        "ea9244c4b1e0ba890fc2f99301264af2492567b8873c78bcc2ed5ca3b01da55c": {
+            "file": "images/ea9244c4b1e0ba890fc2f99301264af2492567b8873c78bcc2ed5ca3b01da55c.jpg",
+            "filename": "paste-264204913213443.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43978
+        }
+    }
+}

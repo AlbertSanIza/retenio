@@ -1,0 +1,87 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480816165703",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480816165703",
+        "noteId": "1480812867870",
+        "noteGuid": "B.#W9#QCRN",
+        "modelId": "1475688242543",
+        "templateOrdinal": 18
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::3 Antimycobacterials::3.1 - Tuberculosis Drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(3)-Antimycobacterials::3.1-Tuberculosis_Drugs",
+        "$$Antimicrobials",
+        "$Antimycobacterials"
+    ],
+    "question": {
+        "text": "§\n\nWhich antimycobacterial agent may precipitate gout attacks?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhich antimycobacterial agent may precipitate gout attacks?\n\nPyrazinamide\n\n[Image: 56ca1719d4df5a4088b62f368e21e36742d115bb48e2e717cfcff405d76a1f21]\n\n[Image: 67a68817df8fa9d351bd1ed3fc661b79ddba1d0f21ce864b40a095989aa933c0]\n\n[Image: b84383b9f06f32ac98f92b92c390a2c1b4a12e0fb4f53272c59f5310804a4344]\n\n3.1 - Tuberculosis Drugs\n[Image: 75747c8b652c8f2d208a149207fab1b8976d4381798f86e53cbafe58b3751752]\n\n[Image: d4d07c3fd6d7ac606792eb4ace534fe4cdb21726d114d25beab0fdf8ec968a95]\n\n[Image: 8a6a87653f9aeb4a4876920b2a1558f23095df8b805d5c12e7f0a2e3f461200b]\n\n[Image: 263eda575dffc9aa3fccc786bb7febb77ffe5631bea7e464d00e08898ed80463]\n\n[Image: d564a2c26b1ad2fd2193e2653e6827fe68d6c771d1ae83265a06893ce8e50900]",
+        "imageIds": [
+            "56ca1719d4df5a4088b62f368e21e36742d115bb48e2e717cfcff405d76a1f21",
+            "67a68817df8fa9d351bd1ed3fc661b79ddba1d0f21ce864b40a095989aa933c0",
+            "b84383b9f06f32ac98f92b92c390a2c1b4a12e0fb4f53272c59f5310804a4344",
+            "75747c8b652c8f2d208a149207fab1b8976d4381798f86e53cbafe58b3751752",
+            "d4d07c3fd6d7ac606792eb4ace534fe4cdb21726d114d25beab0fdf8ec968a95",
+            "8a6a87653f9aeb4a4876920b2a1558f23095df8b805d5c12e7f0a2e3f461200b",
+            "263eda575dffc9aa3fccc786bb7febb77ffe5631bea7e464d00e08898ed80463",
+            "d564a2c26b1ad2fd2193e2653e6827fe68d6c771d1ae83265a06893ce8e50900"
+        ]
+    },
+    "images": {
+        "263eda575dffc9aa3fccc786bb7febb77ffe5631bea7e464d00e08898ed80463": {
+            "file": "images/263eda575dffc9aa3fccc786bb7febb77ffe5631bea7e464d00e08898ed80463.jpg",
+            "filename": "paste-463057604050947.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 71628
+        },
+        "56ca1719d4df5a4088b62f368e21e36742d115bb48e2e717cfcff405d76a1f21": {
+            "file": "images/56ca1719d4df5a4088b62f368e21e36742d115bb48e2e717cfcff405d76a1f21.jpg",
+            "filename": "paste-184748018237443.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63754
+        },
+        "67a68817df8fa9d351bd1ed3fc661b79ddba1d0f21ce864b40a095989aa933c0": {
+            "file": "images/67a68817df8fa9d351bd1ed3fc661b79ddba1d0f21ce864b40a095989aa933c0.jpg",
+            "filename": "paste-184116658044931.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 62004
+        },
+        "75747c8b652c8f2d208a149207fab1b8976d4381798f86e53cbafe58b3751752": {
+            "file": "images/75747c8b652c8f2d208a149207fab1b8976d4381798f86e53cbafe58b3751752.jpg",
+            "filename": "paste-235686330368001.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 145951
+        },
+        "8a6a87653f9aeb4a4876920b2a1558f23095df8b805d5c12e7f0a2e3f461200b": {
+            "file": "images/8a6a87653f9aeb4a4876920b2a1558f23095df8b805d5c12e7f0a2e3f461200b.jpg",
+            "filename": "paste-461352502034435.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58231
+        },
+        "b84383b9f06f32ac98f92b92c390a2c1b4a12e0fb4f53272c59f5310804a4344": {
+            "file": "images/b84383b9f06f32ac98f92b92c390a2c1b4a12e0fb4f53272c59f5310804a4344.jpg",
+            "filename": "paste-184528974905347.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65004
+        },
+        "d4d07c3fd6d7ac606792eb4ace534fe4cdb21726d114d25beab0fdf8ec968a95": {
+            "file": "images/d4d07c3fd6d7ac606792eb4ace534fe4cdb21726d114d25beab0fdf8ec968a95.jpg",
+            "filename": "paste-457907938263043.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 64003
+        },
+        "d564a2c26b1ad2fd2193e2653e6827fe68d6c771d1ae83265a06893ce8e50900": {
+            "file": "images/d564a2c26b1ad2fd2193e2653e6827fe68d6c771d1ae83265a06893ce8e50900.jpg",
+            "filename": "paste-174826643783683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 24429
+        }
+    }
+}

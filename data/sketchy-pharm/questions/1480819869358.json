@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480819869358",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480819869358",
+        "noteId": "1480817330855",
+        "noteGuid": "JorE&S@rr3",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::4 Other Antibiotics::4.1 - Trimethoprim/Sulfamethoxazole",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(4)-Other_Antibiotics::4.1-Trimethoprim/Sulfamethoxazole",
+        "$$Antimicrobials",
+        "$Other_Antibiotics"
+    ],
+    "question": {
+        "text": "§\n\nWhat is the precursor molecule to folate?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat is the precursor molecule to folate?\n\nPABA\n\n(PABA + Pteridine → → → Folate. The initial reaction only occurs in bacteria)\n\n[Image: 2ef6f210cab5e6f74d68bede537fab07015bc4b4382844145e5ed6eccb038b15]\n\n4.1 - Trimethoprim/Sulfamethoxazole\n[Image: 37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da]\n\n[Image: 415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9]\n\n[Image: 302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70]",
+        "imageIds": [
+            "2ef6f210cab5e6f74d68bede537fab07015bc4b4382844145e5ed6eccb038b15",
+            "37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da",
+            "415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9",
+            "302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70"
+        ]
+    },
+    "images": {
+        "2ef6f210cab5e6f74d68bede537fab07015bc4b4382844145e5ed6eccb038b15": {
+            "file": "images/2ef6f210cab5e6f74d68bede537fab07015bc4b4382844145e5ed6eccb038b15.jpg",
+            "filename": "paste-200081051484163.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44348
+        },
+        "302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70": {
+            "file": "images/302471b7496c79a2f2bed549939836e9977f92a9a73671da6d63dbed58856d70.jpg",
+            "filename": "paste-184696478629891.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 30701
+        },
+        "37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da": {
+            "file": "images/37c2cd24e0dbf7e6dab13595c23d90bc2c210bdefbc5d2cdc2444e105608a9da.jpg",
+            "filename": "paste-247265562198017.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 141182
+        },
+        "415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9": {
+            "file": "images/415ae7ac37e8deff6edded3b983bc93ed29481d92586c3b4cd6b30e8cffdbcb9.jpg",
+            "filename": "paste-413223098515459.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 75809
+        }
+    }
+}

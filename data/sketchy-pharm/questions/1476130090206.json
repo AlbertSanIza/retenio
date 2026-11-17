@@ -1,0 +1,94 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476130090206",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476130090206",
+        "noteId": "1476128325499",
+        "noteGuid": "K=&GVJlRkw",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.2 - Biphosphonates, Raloxifene, Denosumab, Calcitonin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.2-Biphosphonates,Raloxifene,Denosumab,Calcitonin",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "§\n\nAdverse Effects (3) : Biphosphonates",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nAdverse Effects (3) : Biphosphonates\n\n(1) Corrosive esophagitis\n(2) Osteonecrosis of jaw\n\n(3) Hypocalcemia\n\n[Image: 3dae59e5b828c15ff1321a1e55261aeb820127cf77f7c507c93b659a156b21d5]\n\n[Image: 08418e60988e40cd84184ff6a7f75f7d9b8e0c4244e07875186efcc32df039cd]\n\n[Image: 7a53f5f28f0322cfdc741e6bbe536aa826f30265557061ff516720810255f6ce]\n\n3.2 -Biphosphonates, raloxifene, denosumab, calcitonin\n[Image: 8657759d16dfab9651e80977d2b44e2ad7a821b5dfec5ecac64823eb16197c2e]\n\n[Image: 596a90a29a5db2b7ec1d107b1589a1a88811627e6ad562b73b897c4c031bac62]\n\n[Image: f8d16c3d886672f835fb794955e8893bfc2bb54df57aac2728a71045e13fe924]\n\n[Image: 3556644d60f9c6c6ab6b035d4d18c28d36c358c13368791803f7124bfd65924a]\n\n[Image: 1bf4f3d817182bfb77ddde7e7395c6645feff1725eb40271ef402fc302c9d86d]\n\n[Image: afa82efdf34014d6035ea8a3fa31b614b7843b9bc138b58d93bdb19f13354c7c]",
+        "imageIds": [
+            "3dae59e5b828c15ff1321a1e55261aeb820127cf77f7c507c93b659a156b21d5",
+            "08418e60988e40cd84184ff6a7f75f7d9b8e0c4244e07875186efcc32df039cd",
+            "7a53f5f28f0322cfdc741e6bbe536aa826f30265557061ff516720810255f6ce",
+            "8657759d16dfab9651e80977d2b44e2ad7a821b5dfec5ecac64823eb16197c2e",
+            "596a90a29a5db2b7ec1d107b1589a1a88811627e6ad562b73b897c4c031bac62",
+            "f8d16c3d886672f835fb794955e8893bfc2bb54df57aac2728a71045e13fe924",
+            "3556644d60f9c6c6ab6b035d4d18c28d36c358c13368791803f7124bfd65924a",
+            "1bf4f3d817182bfb77ddde7e7395c6645feff1725eb40271ef402fc302c9d86d",
+            "afa82efdf34014d6035ea8a3fa31b614b7843b9bc138b58d93bdb19f13354c7c"
+        ]
+    },
+    "images": {
+        "08418e60988e40cd84184ff6a7f75f7d9b8e0c4244e07875186efcc32df039cd": {
+            "file": "images/08418e60988e40cd84184ff6a7f75f7d9b8e0c4244e07875186efcc32df039cd.jpg",
+            "filename": "paste-81819126988803.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58393
+        },
+        "1bf4f3d817182bfb77ddde7e7395c6645feff1725eb40271ef402fc302c9d86d": {
+            "file": "images/1bf4f3d817182bfb77ddde7e7395c6645feff1725eb40271ef402fc302c9d86d.jpg",
+            "filename": "paste-71098888617987.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 89303
+        },
+        "3556644d60f9c6c6ab6b035d4d18c28d36c358c13368791803f7124bfd65924a": {
+            "file": "images/3556644d60f9c6c6ab6b035d4d18c28d36c358c13368791803f7124bfd65924a.jpg",
+            "filename": "paste-756945036247043.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 72135
+        },
+        "3dae59e5b828c15ff1321a1e55261aeb820127cf77f7c507c93b659a156b21d5": {
+            "file": "images/3dae59e5b828c15ff1321a1e55261aeb820127cf77f7c507c93b659a156b21d5.jpg",
+            "filename": "paste-81746112544771.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57683
+        },
+        "596a90a29a5db2b7ec1d107b1589a1a88811627e6ad562b73b897c4c031bac62": {
+            "file": "images/596a90a29a5db2b7ec1d107b1589a1a88811627e6ad562b73b897c4c031bac62.jpg",
+            "filename": "paste-757245683957763.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 14344
+        },
+        "7a53f5f28f0322cfdc741e6bbe536aa826f30265557061ff516720810255f6ce": {
+            "file": "images/7a53f5f28f0322cfdc741e6bbe536aa826f30265557061ff516720810255f6ce.jpg",
+            "filename": "paste-81935091105795.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56878
+        },
+        "8657759d16dfab9651e80977d2b44e2ad7a821b5dfec5ecac64823eb16197c2e": {
+            "file": "images/8657759d16dfab9651e80977d2b44e2ad7a821b5dfec5ecac64823eb16197c2e.jpg",
+            "filename": "paste-722778571407361.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 142829
+        },
+        "afa82efdf34014d6035ea8a3fa31b614b7843b9bc138b58d93bdb19f13354c7c": {
+            "file": "images/afa82efdf34014d6035ea8a3fa31b614b7843b9bc138b58d93bdb19f13354c7c.jpg",
+            "filename": "paste-97770635526147.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 105275
+        },
+        "f8d16c3d886672f835fb794955e8893bfc2bb54df57aac2728a71045e13fe924": {
+            "file": "images/f8d16c3d886672f835fb794955e8893bfc2bb54df57aac2728a71045e13fe924.jpg",
+            "filename": "paste-144701743169539.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59099
+        }
+    }
+}

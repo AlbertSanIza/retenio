@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480292311250",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480292311250",
+        "noteId": "1480291959729",
+        "noteGuid": "DTmn*-2U)v",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.5 - Vincristine, vinblastine, paclitaxel",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "§\n\nMOA: Vinca alkaloids",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nMOA: Vinca alkaloids\n\nInhibits microtubule assembly\n\n(∝ Inhibiting kinesin ∝ Colchicine, which all have the 'kuh' sound)\n\n[Image: fcb9eedf0a8dfa5ea4896c6ea57247b66a992e9887646e4156d798c6002be043]\n\n[Image: 57abc13b646e3c77ed1e24a056b8f38344323321f36e9f0eea9cc23a8e2defd2]\n\n[Image: c65a406ba3faedb90f61780268bd4ac17ee87608d97e3b58665f92a346f26a11]\n\n2.5 - Vincristine, vinblastine, paclitaxel\n[Image: e1e76c061fbaa1fa437b5c43d9879245f306b0beba584f0e4d9ee5c2b2ef13ab]\n\n[Image: 1e226faf8adfc33cfad5376402ab4d187caa405b8f2fda95474ddc89f0cd0175]\n\n[Image: 9ebb12f86ad920185f85771e6e40641a9f3b8fec395cd184edc489f944ac8b0e]",
+        "imageIds": [
+            "fcb9eedf0a8dfa5ea4896c6ea57247b66a992e9887646e4156d798c6002be043",
+            "57abc13b646e3c77ed1e24a056b8f38344323321f36e9f0eea9cc23a8e2defd2",
+            "c65a406ba3faedb90f61780268bd4ac17ee87608d97e3b58665f92a346f26a11",
+            "e1e76c061fbaa1fa437b5c43d9879245f306b0beba584f0e4d9ee5c2b2ef13ab",
+            "1e226faf8adfc33cfad5376402ab4d187caa405b8f2fda95474ddc89f0cd0175",
+            "9ebb12f86ad920185f85771e6e40641a9f3b8fec395cd184edc489f944ac8b0e"
+        ]
+    },
+    "images": {
+        "1e226faf8adfc33cfad5376402ab4d187caa405b8f2fda95474ddc89f0cd0175": {
+            "file": "images/1e226faf8adfc33cfad5376402ab4d187caa405b8f2fda95474ddc89f0cd0175.jpg",
+            "filename": "paste-207824877518851.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45280
+        },
+        "57abc13b646e3c77ed1e24a056b8f38344323321f36e9f0eea9cc23a8e2defd2": {
+            "file": "images/57abc13b646e3c77ed1e24a056b8f38344323321f36e9f0eea9cc23a8e2defd2.jpg",
+            "filename": "paste-17489106829315 (2).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57642
+        },
+        "9ebb12f86ad920185f85771e6e40641a9f3b8fec395cd184edc489f944ac8b0e": {
+            "file": "images/9ebb12f86ad920185f85771e6e40641a9f3b8fec395cd184edc489f944ac8b0e.jpg",
+            "filename": "paste-158763466096643.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 80233
+        },
+        "c65a406ba3faedb90f61780268bd4ac17ee87608d97e3b58665f92a346f26a11": {
+            "file": "images/c65a406ba3faedb90f61780268bd4ac17ee87608d97e3b58665f92a346f26a11.jpg",
+            "filename": "paste-17527761534979 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55679
+        },
+        "e1e76c061fbaa1fa437b5c43d9879245f306b0beba584f0e4d9ee5c2b2ef13ab": {
+            "file": "images/e1e76c061fbaa1fa437b5c43d9879245f306b0beba584f0e4d9ee5c2b2ef13ab.jpg",
+            "filename": "paste-381625024118785.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 132610
+        },
+        "fcb9eedf0a8dfa5ea4896c6ea57247b66a992e9887646e4156d798c6002be043": {
+            "file": "images/fcb9eedf0a8dfa5ea4896c6ea57247b66a992e9887646e4156d798c6002be043.jpg",
+            "filename": "paste-17459042058243 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55715
+        }
+    }
+}

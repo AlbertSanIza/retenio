@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476139074873",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476139074873",
+        "noteId": "1476138898498",
+        "noteGuid": "fK:F+/_9Ap",
+        "modelId": "1475688242543",
+        "templateOrdinal": 13
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::4 Hypothalamic & Pituitary::4.1 - Growth_Hormone,Mecasermin,Octreotide,Pegvisomant",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(4)-Hypothalamic_&_Pituitary::4.2-Growth_Hormone,Mecasermin,Octreotide,Pegvisomant",
+        "$$GI_&_Endocrine",
+        "$Hypothalamic_&_Pituitary"
+    ],
+    "question": {
+        "text": "§\n\nMOA: Pegvisomant",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nMOA: Pegvisomant\n\nGH receptor antagonist\n\n(May actually ↑ GH levels due to reduced negative feedback)\n\n[Image: ad6077ce46d308c32fcbb1c941d38aedd3d94f3a884b54fe10d25f0cd2f64c4e]\n\n4.2 - Growth hormone, mecasermin, octreotide, pegvisomant\n[Image: 94015af0f388bd853064c3ae7e9bd4f190e7244a0dfb7c9f09c727f096baae66]\n\n[Image: 035165bf66d5f8e95d7b9bfa64cfde4c09dae559bf88778a8662a81de9ce0298]\n\n[Image: c8b9d5f2a975ba4a48bd1e627159c37063448236e6b20f88df50fa079c534c4d]\n\n[Image: 9e642979ff36736fccdd76994c6335e700a490848c79ab59b01f8e8362e6cad3]",
+        "imageIds": [
+            "ad6077ce46d308c32fcbb1c941d38aedd3d94f3a884b54fe10d25f0cd2f64c4e",
+            "94015af0f388bd853064c3ae7e9bd4f190e7244a0dfb7c9f09c727f096baae66",
+            "035165bf66d5f8e95d7b9bfa64cfde4c09dae559bf88778a8662a81de9ce0298",
+            "c8b9d5f2a975ba4a48bd1e627159c37063448236e6b20f88df50fa079c534c4d",
+            "9e642979ff36736fccdd76994c6335e700a490848c79ab59b01f8e8362e6cad3"
+        ]
+    },
+    "images": {
+        "035165bf66d5f8e95d7b9bfa64cfde4c09dae559bf88778a8662a81de9ce0298": {
+            "file": "images/035165bf66d5f8e95d7b9bfa64cfde4c09dae559bf88778a8662a81de9ce0298.jpg",
+            "filename": "paste-712285966303235.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34042
+        },
+        "94015af0f388bd853064c3ae7e9bd4f190e7244a0dfb7c9f09c727f096baae66": {
+            "file": "images/94015af0f388bd853064c3ae7e9bd4f190e7244a0dfb7c9f09c727f096baae66.jpg",
+            "filename": "paste-739112332034049.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 121862
+        },
+        "9e642979ff36736fccdd76994c6335e700a490848c79ab59b01f8e8362e6cad3": {
+            "file": "images/9e642979ff36736fccdd76994c6335e700a490848c79ab59b01f8e8362e6cad3.jpg",
+            "filename": "paste-127517579018243.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 33438
+        },
+        "ad6077ce46d308c32fcbb1c941d38aedd3d94f3a884b54fe10d25f0cd2f64c4e": {
+            "file": "images/ad6077ce46d308c32fcbb1c941d38aedd3d94f3a884b54fe10d25f0cd2f64c4e.jpg",
+            "filename": "paste-104337640521731.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43843
+        },
+        "c8b9d5f2a975ba4a48bd1e627159c37063448236e6b20f88df50fa079c534c4d": {
+            "file": "images/c8b9d5f2a975ba4a48bd1e627159c37063448236e6b20f88df50fa079c534c4d.jpg",
+            "filename": "paste-104311870717955 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 68950
+        }
+    }
+}

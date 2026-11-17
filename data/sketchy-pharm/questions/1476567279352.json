@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476567279352",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476567279352",
+        "noteId": "1475731410843",
+        "noteGuid": "KE^F%)4EQ[",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.4 - Beta blockers",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.4-Beta_Drugs",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "§\n\nWhat is a topical β-blocker useful in treating glaucoma?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat is a topical β-blocker useful in treating glaucoma?\n\nTimolol\n\n[Image: b20ae83d41f40bfc0391f3a350ce877b6d235b8e71e2d5cdf23e1e627ab50049]\n\n2.4 - Beta blockers\n[Image: ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98]\n\n[Image: 0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173]\n\n[Image: 6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6]",
+        "imageIds": [
+            "b20ae83d41f40bfc0391f3a350ce877b6d235b8e71e2d5cdf23e1e627ab50049",
+            "ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98",
+            "0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173",
+            "6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6"
+        ]
+    },
+    "images": {
+        "0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173": {
+            "file": "images/0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173.jpg",
+            "filename": "paste-302687820185603.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 107698
+        },
+        "6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6": {
+            "file": "images/6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6.jpg",
+            "filename": "paste-305681412390915.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63928
+        },
+        "b20ae83d41f40bfc0391f3a350ce877b6d235b8e71e2d5cdf23e1e627ab50049": {
+            "file": "images/b20ae83d41f40bfc0391f3a350ce877b6d235b8e71e2d5cdf23e1e627ab50049.jpg",
+            "filename": "paste-38500086841347.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57631
+        },
+        "ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98": {
+            "file": "images/ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98.jpg",
+            "filename": "paste-438146793734145.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 122524
+        }
+    }
+}

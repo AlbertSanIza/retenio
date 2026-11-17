@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476210878813",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476210878813",
+        "noteId": "1476210297974",
+        "noteGuid": "n:FNxZoP&d",
+        "modelId": "1475688242543",
+        "templateOrdinal": 12
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.1 - Acetazolamide, mannitol",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.1-Acetazolamide",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "§\n\nMOA: Mannitol",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nMOA: Mannitol\n\nOsmotic diuretic\n\n[Image: 2a82efc5679dfad1419106f4ddf3a1df89dbedd797afaf4d0353a11b00ab0bac]\n\n2.1 - Acetazolamide, mannitol\n[Image: c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311]\n\n[Image: 61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650]\n\n[Image: b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b]",
+        "imageIds": [
+            "2a82efc5679dfad1419106f4ddf3a1df89dbedd797afaf4d0353a11b00ab0bac",
+            "c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311",
+            "61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650",
+            "b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b"
+        ]
+    },
+    "images": {
+        "2a82efc5679dfad1419106f4ddf3a1df89dbedd797afaf4d0353a11b00ab0bac": {
+            "file": "images/2a82efc5679dfad1419106f4ddf3a1df89dbedd797afaf4d0353a11b00ab0bac.jpg",
+            "filename": "paste-12953621364737.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 69035
+        },
+        "61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650": {
+            "file": "images/61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650.jpg",
+            "filename": "paste-193866233806851.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57827
+        },
+        "b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b": {
+            "file": "images/b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b.jpg",
+            "filename": "paste-195395242164227.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 82442
+        },
+        "c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311": {
+            "file": "images/c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311.jpg",
+            "filename": "paste-612616955232257.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 146047
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476139074859",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476139074859",
+        "noteId": "1476138898498",
+        "noteGuid": "fK:F+/_9Ap",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::4 Hypothalamic & Pituitary::4.1 - Growth_Hormone,Mecasermin,Octreotide,Pegvisomant",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(4)-Hypothalamic_&_Pituitary::4.2-Growth_Hormone,Mecasermin,Octreotide,Pegvisomant",
+        "$$GI_&_Endocrine",
+        "$Hypothalamic_&_Pituitary"
+    ],
+    "question": {
+        "text": "§\n\nWhat protein is predominantly responsible for growth?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat protein is predominantly responsible for growth?\n\nIGF-1\n\n[Image: 22d4bc049eda29f51b0bf50883bd9c5dcfd33cd0d5f3ffaa3107e607b4f402af]\n\n4.2 - Growth hormone, mecasermin, octreotide, pegvisomant\n[Image: 94015af0f388bd853064c3ae7e9bd4f190e7244a0dfb7c9f09c727f096baae66]\n\n[Image: 035165bf66d5f8e95d7b9bfa64cfde4c09dae559bf88778a8662a81de9ce0298]\n\n[Image: c8b9d5f2a975ba4a48bd1e627159c37063448236e6b20f88df50fa079c534c4d]\n\n[Image: 9e642979ff36736fccdd76994c6335e700a490848c79ab59b01f8e8362e6cad3]",
+        "imageIds": [
+            "22d4bc049eda29f51b0bf50883bd9c5dcfd33cd0d5f3ffaa3107e607b4f402af",
+            "94015af0f388bd853064c3ae7e9bd4f190e7244a0dfb7c9f09c727f096baae66",
+            "035165bf66d5f8e95d7b9bfa64cfde4c09dae559bf88778a8662a81de9ce0298",
+            "c8b9d5f2a975ba4a48bd1e627159c37063448236e6b20f88df50fa079c534c4d",
+            "9e642979ff36736fccdd76994c6335e700a490848c79ab59b01f8e8362e6cad3"
+        ]
+    },
+    "images": {
+        "035165bf66d5f8e95d7b9bfa64cfde4c09dae559bf88778a8662a81de9ce0298": {
+            "file": "images/035165bf66d5f8e95d7b9bfa64cfde4c09dae559bf88778a8662a81de9ce0298.jpg",
+            "filename": "paste-712285966303235.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34042
+        },
+        "22d4bc049eda29f51b0bf50883bd9c5dcfd33cd0d5f3ffaa3107e607b4f402af": {
+            "file": "images/22d4bc049eda29f51b0bf50883bd9c5dcfd33cd0d5f3ffaa3107e607b4f402af.jpg",
+            "filename": "paste-94347546591235.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44132
+        },
+        "94015af0f388bd853064c3ae7e9bd4f190e7244a0dfb7c9f09c727f096baae66": {
+            "file": "images/94015af0f388bd853064c3ae7e9bd4f190e7244a0dfb7c9f09c727f096baae66.jpg",
+            "filename": "paste-739112332034049.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 121862
+        },
+        "9e642979ff36736fccdd76994c6335e700a490848c79ab59b01f8e8362e6cad3": {
+            "file": "images/9e642979ff36736fccdd76994c6335e700a490848c79ab59b01f8e8362e6cad3.jpg",
+            "filename": "paste-127517579018243.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 33438
+        },
+        "c8b9d5f2a975ba4a48bd1e627159c37063448236e6b20f88df50fa079c534c4d": {
+            "file": "images/c8b9d5f2a975ba4a48bd1e627159c37063448236e6b20f88df50fa079c534c4d.jpg",
+            "filename": "paste-104311870717955 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 68950
+        }
+    }
+}

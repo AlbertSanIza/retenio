@@ -1,0 +1,101 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476140451495",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476140451495",
+        "noteId": "1476139819858",
+        "noteGuid": "eO7SmiTCn*",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.4 - Glucocorticoids",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.4-Glucocorticoids",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "§\n\nName 5 metabolic effects of glucocorticoids",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nName 5 metabolic effects of glucocorticoids\n\n(1) Insulin resistance\n(2) ↑ Gluconeogenesis\n\n(3) ↑ Glycogenesis\n\n(4) ↑ Proteolysis\n\n(5) ↑ Lipolysis\n\n[Image: 7a888bdb88df08d7cd863ccec8044c67e70cc93381c607a574e7dddf1ec6a834]\n\n[Image: a30f3e8f208ee6a8e1a43b2c1d1cca8afe4de2aa3fe8af591b97b29dbd4c5cb7]\n\n[Image: e5aa20bda9f93f7e929aaeb4a9c90dc80e4a0383980525f2395ce401351696ea]\n\n[Image: 63bb40b3ea20639a9bb7fbcc5c19bffdfa21234d21638ac869642d7a71c21f66]\n\n[Image: e6dff4f7dceb6a76cdbb07ccaa37c4f8a653f9f60c7249e1b44cc89388b10303]\n\n3.4 - Glucocorticoids\n[Image: 8782e1fa9875bf1abad5723216f82e1897bb530842df1d04670ff6258ee86e46]\n\n[Image: c0764384804c36bab528ee9d9c6193d1e16a690ba14d667866ee1ba1ce648625]\n\n[Image: f04eb58d576a330ed45eb4c270f4e7dde85b97ef711e2284dce85d0a06f988ea]\n\n[Image: 6ba28e2541d4d4c868034ba6bb2eb020c8b8f51436ae6dc016d59880fc4401c3]\n\n[Image: 2c15b82af7337d4ce87455c5c1e0ec7477878a45d0575543505a74af40924e47]",
+        "imageIds": [
+            "7a888bdb88df08d7cd863ccec8044c67e70cc93381c607a574e7dddf1ec6a834",
+            "a30f3e8f208ee6a8e1a43b2c1d1cca8afe4de2aa3fe8af591b97b29dbd4c5cb7",
+            "e5aa20bda9f93f7e929aaeb4a9c90dc80e4a0383980525f2395ce401351696ea",
+            "63bb40b3ea20639a9bb7fbcc5c19bffdfa21234d21638ac869642d7a71c21f66",
+            "e6dff4f7dceb6a76cdbb07ccaa37c4f8a653f9f60c7249e1b44cc89388b10303",
+            "8782e1fa9875bf1abad5723216f82e1897bb530842df1d04670ff6258ee86e46",
+            "c0764384804c36bab528ee9d9c6193d1e16a690ba14d667866ee1ba1ce648625",
+            "f04eb58d576a330ed45eb4c270f4e7dde85b97ef711e2284dce85d0a06f988ea",
+            "6ba28e2541d4d4c868034ba6bb2eb020c8b8f51436ae6dc016d59880fc4401c3",
+            "2c15b82af7337d4ce87455c5c1e0ec7477878a45d0575543505a74af40924e47"
+        ]
+    },
+    "images": {
+        "2c15b82af7337d4ce87455c5c1e0ec7477878a45d0575543505a74af40924e47": {
+            "file": "images/2c15b82af7337d4ce87455c5c1e0ec7477878a45d0575543505a74af40924e47.jpg",
+            "filename": "paste-741667837575171.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43556
+        },
+        "63bb40b3ea20639a9bb7fbcc5c19bffdfa21234d21638ac869642d7a71c21f66": {
+            "file": "images/63bb40b3ea20639a9bb7fbcc5c19bffdfa21234d21638ac869642d7a71c21f66.jpg",
+            "filename": "paste-110350594736131.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53187
+        },
+        "6ba28e2541d4d4c868034ba6bb2eb020c8b8f51436ae6dc016d59880fc4401c3": {
+            "file": "images/6ba28e2541d4d4c868034ba6bb2eb020c8b8f51436ae6dc016d59880fc4401c3.jpg",
+            "filename": "paste-750068793606145.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 97303
+        },
+        "7a888bdb88df08d7cd863ccec8044c67e70cc93381c607a574e7dddf1ec6a834": {
+            "file": "images/7a888bdb88df08d7cd863ccec8044c67e70cc93381c607a574e7dddf1ec6a834.jpg",
+            "filename": "paste-109869558398979.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46396
+        },
+        "8782e1fa9875bf1abad5723216f82e1897bb530842df1d04670ff6258ee86e46": {
+            "file": "images/8782e1fa9875bf1abad5723216f82e1897bb530842df1d04670ff6258ee86e46.jpg",
+            "filename": "paste-754733128089601.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 120213
+        },
+        "a30f3e8f208ee6a8e1a43b2c1d1cca8afe4de2aa3fe8af591b97b29dbd4c5cb7": {
+            "file": "images/a30f3e8f208ee6a8e1a43b2c1d1cca8afe4de2aa3fe8af591b97b29dbd4c5cb7.jpg",
+            "filename": "paste-110144436305923.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51869
+        },
+        "c0764384804c36bab528ee9d9c6193d1e16a690ba14d667866ee1ba1ce648625": {
+            "file": "images/c0764384804c36bab528ee9d9c6193d1e16a690ba14d667866ee1ba1ce648625.jpg",
+            "filename": "paste-716709782618115.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 35849
+        },
+        "e5aa20bda9f93f7e929aaeb4a9c90dc80e4a0383980525f2395ce401351696ea": {
+            "file": "images/e5aa20bda9f93f7e929aaeb4a9c90dc80e4a0383980525f2395ce401351696ea.jpg",
+            "filename": "paste-110256105455619.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51427
+        },
+        "e6dff4f7dceb6a76cdbb07ccaa37c4f8a653f9f60c7249e1b44cc89388b10303": {
+            "file": "images/e6dff4f7dceb6a76cdbb07ccaa37c4f8a653f9f60c7249e1b44cc89388b10303.jpg",
+            "filename": "paste-110479443755011.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53713
+        },
+        "f04eb58d576a330ed45eb4c270f4e7dde85b97ef711e2284dce85d0a06f988ea": {
+            "file": "images/f04eb58d576a330ed45eb4c270f4e7dde85b97ef711e2284dce85d0a06f988ea.jpg",
+            "filename": "paste-115135188303875.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 102134
+        }
+    }
+}

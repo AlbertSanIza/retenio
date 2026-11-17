@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480839179530",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480839179530",
+        "noteId": "1480838072386",
+        "noteGuid": "GOwg%g_S%>",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.1 - Penicillin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.1-Penicillin",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "§\n\nAdverse Effects (3) : Penicillin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nAdverse Effects (3) : Penicillin\n\n(1) Type I hypersensitivity ⇒ Anaphylaxis\n(2) IgG hemolytic anemia\n\n(3) Drug-induced interstitial nephritis\n\n(Interstitial nephritis is mediated by mononuclear cells)\n\n[Image: a1d48f046362bd889d88c47ff631712060d08c51295291cb41f863aba7248bd9]\n\n[Image: a0ddc57c7aed9e8abef3c3fbd66cedfe4fdc3f31549c48d2d39629505ecd3bcd]\n\n[Image: e2d68dd0e2d9e8c39d20fe55250cddef75647f5df6aa1d64795a739ff9fa6285]\n\n1.1 - Penicillin\n[Image: f713488a5c800aa8470570b237c9db1cc080a90502f28209a5055b7b9d91c056]\n\n[Image: 5749219917b0d46cdacdcfd16cb18400fe3c5f4acbba8ea5f1fe0b81fe3ca819]",
+        "imageIds": [
+            "a1d48f046362bd889d88c47ff631712060d08c51295291cb41f863aba7248bd9",
+            "a0ddc57c7aed9e8abef3c3fbd66cedfe4fdc3f31549c48d2d39629505ecd3bcd",
+            "e2d68dd0e2d9e8c39d20fe55250cddef75647f5df6aa1d64795a739ff9fa6285",
+            "f713488a5c800aa8470570b237c9db1cc080a90502f28209a5055b7b9d91c056",
+            "5749219917b0d46cdacdcfd16cb18400fe3c5f4acbba8ea5f1fe0b81fe3ca819"
+        ]
+    },
+    "images": {
+        "5749219917b0d46cdacdcfd16cb18400fe3c5f4acbba8ea5f1fe0b81fe3ca819": {
+            "file": "images/5749219917b0d46cdacdcfd16cb18400fe3c5f4acbba8ea5f1fe0b81fe3ca819.jpg",
+            "filename": "paste-83889301225475.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65710
+        },
+        "a0ddc57c7aed9e8abef3c3fbd66cedfe4fdc3f31549c48d2d39629505ecd3bcd": {
+            "file": "images/a0ddc57c7aed9e8abef3c3fbd66cedfe4fdc3f31549c48d2d39629505ecd3bcd.jpg",
+            "filename": "paste-429775902474243.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47002
+        },
+        "a1d48f046362bd889d88c47ff631712060d08c51295291cb41f863aba7248bd9": {
+            "file": "images/a1d48f046362bd889d88c47ff631712060d08c51295291cb41f863aba7248bd9.jpg",
+            "filename": "paste-429634168553475.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46285
+        },
+        "e2d68dd0e2d9e8c39d20fe55250cddef75647f5df6aa1d64795a739ff9fa6285": {
+            "file": "images/e2d68dd0e2d9e8c39d20fe55250cddef75647f5df6aa1d64795a739ff9fa6285.jpg",
+            "filename": "paste-430003535740931.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49259
+        },
+        "f713488a5c800aa8470570b237c9db1cc080a90502f28209a5055b7b9d91c056": {
+            "file": "images/f713488a5c800aa8470570b237c9db1cc080a90502f28209a5055b7b9d91c056.jpg",
+            "filename": "paste-170342697926659.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 108584
+        }
+    }
+}

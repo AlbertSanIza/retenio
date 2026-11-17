@@ -1,0 +1,87 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476235253627",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476235253627",
+        "noteId": "1476235100464",
+        "noteGuid": "vE5{@SswBz",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.2 - Loop diuretics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.2-Loop_Diuretics",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "§\n\nAdverse Effects (5) : Loop diuretics",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nAdverse Effects (5) : Loop diuretics\n\n(1) Ototoxicity\n(2) Sulfa allergy\n\n(3) Interstitial nephritis\n\n(4) Hyperuricemia\n\n(5) Contraction alkalosis\n\n[Image: 9a563306343d26839bc6623a976be45f8b8fa76cfd3616a38a6b31c41a5cc970]\n\n[Image: 08a7c5bdc54cdf5eb45af08c88cb15c4bc69a5f65a42d7dd15da204cf1bf74dd]\n\n[Image: 8bfdc47b5753c51cbe1f3d0930ab582680bb12003cabdf55099dd613d7e79837]\n\n[Image: d38fbf671ed37c24aa7fc0f3e90fcd83a9b4c5ecd3f5b82f9e5dfb2ad30afccd]\n\n[Image: 88a74dd53ce489b332cef5a1c8db1b154c532a5ba8fa49579ed48a78e3a6c378]\n\n2.2 - Loop diuretics\n[Image: ab97a3dbb7bcb783c943a24dd17fe759c7e8649ccf31e9c669d50ac2fd87224f]\n\n[Image: 1b7148647feea8113ae9dee03b260d70ee27ebcc42fd60b3f4de9de573e060cc]\n\n[Image: 3441d6b488bb0369101547fd03cec0ec80e0ad3a479fc9e8b2f636b8092b09fe]",
+        "imageIds": [
+            "9a563306343d26839bc6623a976be45f8b8fa76cfd3616a38a6b31c41a5cc970",
+            "08a7c5bdc54cdf5eb45af08c88cb15c4bc69a5f65a42d7dd15da204cf1bf74dd",
+            "8bfdc47b5753c51cbe1f3d0930ab582680bb12003cabdf55099dd613d7e79837",
+            "d38fbf671ed37c24aa7fc0f3e90fcd83a9b4c5ecd3f5b82f9e5dfb2ad30afccd",
+            "88a74dd53ce489b332cef5a1c8db1b154c532a5ba8fa49579ed48a78e3a6c378",
+            "ab97a3dbb7bcb783c943a24dd17fe759c7e8649ccf31e9c669d50ac2fd87224f",
+            "1b7148647feea8113ae9dee03b260d70ee27ebcc42fd60b3f4de9de573e060cc",
+            "3441d6b488bb0369101547fd03cec0ec80e0ad3a479fc9e8b2f636b8092b09fe"
+        ]
+    },
+    "images": {
+        "08a7c5bdc54cdf5eb45af08c88cb15c4bc69a5f65a42d7dd15da204cf1bf74dd": {
+            "file": "images/08a7c5bdc54cdf5eb45af08c88cb15c4bc69a5f65a42d7dd15da204cf1bf74dd.jpg",
+            "filename": "paste-55907589292035.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66200
+        },
+        "1b7148647feea8113ae9dee03b260d70ee27ebcc42fd60b3f4de9de573e060cc": {
+            "file": "images/1b7148647feea8113ae9dee03b260d70ee27ebcc42fd60b3f4de9de573e060cc.jpg",
+            "filename": "paste-198698072014851.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 40968
+        },
+        "3441d6b488bb0369101547fd03cec0ec80e0ad3a479fc9e8b2f636b8092b09fe": {
+            "file": "images/3441d6b488bb0369101547fd03cec0ec80e0ad3a479fc9e8b2f636b8092b09fe.jpg",
+            "filename": "paste-203504140419075.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 104127
+        },
+        "88a74dd53ce489b332cef5a1c8db1b154c532a5ba8fa49579ed48a78e3a6c378": {
+            "file": "images/88a74dd53ce489b332cef5a1c8db1b154c532a5ba8fa49579ed48a78e3a6c378.jpg",
+            "filename": "paste-56517474648067.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65909
+        },
+        "8bfdc47b5753c51cbe1f3d0930ab582680bb12003cabdf55099dd613d7e79837": {
+            "file": "images/8bfdc47b5753c51cbe1f3d0930ab582680bb12003cabdf55099dd613d7e79837.jpg",
+            "filename": "paste-56113747722243.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 67821
+        },
+        "9a563306343d26839bc6623a976be45f8b8fa76cfd3616a38a6b31c41a5cc970": {
+            "file": "images/9a563306343d26839bc6623a976be45f8b8fa76cfd3616a38a6b31c41a5cc970.jpg",
+            "filename": "paste-24180665876483.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63286
+        },
+        "ab97a3dbb7bcb783c943a24dd17fe759c7e8649ccf31e9c669d50ac2fd87224f": {
+            "file": "images/ab97a3dbb7bcb783c943a24dd17fe759c7e8649ccf31e9c669d50ac2fd87224f.jpg",
+            "filename": "paste-617118080958465.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 154300
+        },
+        "d38fbf671ed37c24aa7fc0f3e90fcd83a9b4c5ecd3f5b82f9e5dfb2ad30afccd": {
+            "file": "images/d38fbf671ed37c24aa7fc0f3e90fcd83a9b4c5ecd3f5b82f9e5dfb2ad30afccd.jpg",
+            "filename": "paste-56294136348675.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 67528
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1489381099411",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1489381099411",
+        "noteId": "1489377832406",
+        "noteGuid": "qXy^sYw?Ac",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.3 - Teriparatide, Vitamin D, Cinacalcet, Sevelamer",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.3-Teriparatide,Vitamin_D,Cinacalcet,Sevelamer",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "§\n\nIdentify an important physiologic distinction between Teriparatide and endogenous PTH",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nIdentify an important physiologic distinction between Teriparatide and endogenous PTH\n\n(1) Teriparatide: Net bone formation\n(2) Parathormone: Net bone resorption\n\n(Pulsatile Teriparatide ⇒ bone formation. Constant dosing would likely instead lead to bone resorption)\n\n[Image: 8cb323691e2cdc7ab33b0d0eb10226198b893b4c29618707f4c9d757d7a6b71a]\n\n3.3 - Teriparatide, vitamin D, cinacalcet, sevelame\n\n[Image: 4298e78b27c77e9be26a3315ef94e1449bf4f3333203dd64aef50652cce9b080]\n\n[Image: 0d8bcf50b941d06eb3acedd71ef95ad2c633d03d05e1929b321aca54170c2656]\n\n[Image: bb7a366363f2144f1f342d3ac611c281babe1fc0ee8b93a96e580f11239e27e0]\n\n[Image: 34b2bdc6643b813866ff83567203f474ad3825f2c882e94a70b0cd9de3de00b8]\n\n[Image: 828e4d13e74c599b9c1305dc0515e1887e6211fb43b59d6204b47d3295896812]\n\n[Image: 6f4f86b7c169893f2937f2037815d3a00709b32594507ec3dd69174ba87e529f]\n\n[Image: a0bfadc2893d1cd305662d9c6ec962516c32c4ad80863ee55ec1d667ad61a421]",
+        "imageIds": [
+            "8cb323691e2cdc7ab33b0d0eb10226198b893b4c29618707f4c9d757d7a6b71a",
+            "4298e78b27c77e9be26a3315ef94e1449bf4f3333203dd64aef50652cce9b080",
+            "0d8bcf50b941d06eb3acedd71ef95ad2c633d03d05e1929b321aca54170c2656",
+            "bb7a366363f2144f1f342d3ac611c281babe1fc0ee8b93a96e580f11239e27e0",
+            "34b2bdc6643b813866ff83567203f474ad3825f2c882e94a70b0cd9de3de00b8",
+            "828e4d13e74c599b9c1305dc0515e1887e6211fb43b59d6204b47d3295896812",
+            "6f4f86b7c169893f2937f2037815d3a00709b32594507ec3dd69174ba87e529f",
+            "a0bfadc2893d1cd305662d9c6ec962516c32c4ad80863ee55ec1d667ad61a421"
+        ]
+    },
+    "images": {
+        "0d8bcf50b941d06eb3acedd71ef95ad2c633d03d05e1929b321aca54170c2656": {
+            "file": "images/0d8bcf50b941d06eb3acedd71ef95ad2c633d03d05e1929b321aca54170c2656.jpg",
+            "filename": "paste-83661667958787.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 29167
+        },
+        "34b2bdc6643b813866ff83567203f474ad3825f2c882e94a70b0cd9de3de00b8": {
+            "file": "images/34b2bdc6643b813866ff83567203f474ad3825f2c882e94a70b0cd9de3de00b8.jpg",
+            "filename": "paste-41102837022723 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 1526
+        },
+        "4298e78b27c77e9be26a3315ef94e1449bf4f3333203dd64aef50652cce9b080": {
+            "file": "images/4298e78b27c77e9be26a3315ef94e1449bf4f3333203dd64aef50652cce9b080.jpg",
+            "filename": "paste-46699179409411.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 110399
+        },
+        "6f4f86b7c169893f2937f2037815d3a00709b32594507ec3dd69174ba87e529f": {
+            "file": "images/6f4f86b7c169893f2937f2037815d3a00709b32594507ec3dd69174ba87e529f.jpg",
+            "filename": "paste-18567143620611.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 97161
+        },
+        "828e4d13e74c599b9c1305dc0515e1887e6211fb43b59d6204b47d3295896812": {
+            "file": "images/828e4d13e74c599b9c1305dc0515e1887e6211fb43b59d6204b47d3295896812.jpg",
+            "filename": "paste-84520661417987 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 68669
+        },
+        "8cb323691e2cdc7ab33b0d0eb10226198b893b4c29618707f4c9d757d7a6b71a": {
+            "file": "images/8cb323691e2cdc7ab33b0d0eb10226198b893b4c29618707f4c9d757d7a6b71a.jpg",
+            "filename": "paste-33457795235843.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 133542
+        },
+        "a0bfadc2893d1cd305662d9c6ec962516c32c4ad80863ee55ec1d667ad61a421": {
+            "file": "images/a0bfadc2893d1cd305662d9c6ec962516c32c4ad80863ee55ec1d667ad61a421.jpg",
+            "filename": "paste-18670222835715.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51676
+        },
+        "bb7a366363f2144f1f342d3ac611c281babe1fc0ee8b93a96e580f11239e27e0": {
+            "file": "images/bb7a366363f2144f1f342d3ac611c281babe1fc0ee8b93a96e580f11239e27e0.jpg",
+            "filename": "paste-83889301225475 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 15712
+        }
+    }
+}

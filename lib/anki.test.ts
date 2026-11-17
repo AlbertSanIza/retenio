@@ -1,7 +1,10 @@
 import { describe, expect, test } from 'bun:test'
 import { createHash } from 'node:crypto'
-import { readFile } from 'node:fs/promises'
+import { mkdir, mkdtemp, readFile, rm, writeFile } from 'node:fs/promises'
+import { tmpdir } from 'node:os'
+import path from 'node:path'
 import { getAnkiImage, getRandomQuestions, sampleCards } from './anki'
+import { loadCatalog } from './anki-data'
 
 describe('Anki sampling', () => {
     test('samples without repeats, respects exclusions, and preserves the source', () => {
@@ -57,11 +60,14 @@ describe('Imported deck and MCP images', () => {
     })
 
     test('the first two cards from the same note have distinct question/answer pairs', async () => {
-        const catalog = JSON.parse(await readFile('data/anki/cards.json', 'utf8'))
-        const first = catalog.cards.find((card: { id: string }) => card.id === '1475690805188')
+        const catalog = await loadCatalog('data')
+        const first = catalog.cards.find((card) => card.id === 'sketchy-pharm:1475690805188')!
+        const file = JSON.parse(await readFile('data/sketchy-pharm/questions/1475690805188.json', 'utf8'))
+        expect(first.id).toBe(file.id)
+        expect(first.collectionId).toBe('sketchy-pharm')
         expect(first.question.text).toContain('What plant is Digoxin derived from?')
         expect(first.answer.text).toContain('Foxglove plant')
-        const sibling = catalog.cards.find((card: { noteId: string; id: string }) => card.noteId === first.noteId && card.id !== first.id)
+        const sibling = catalog.cards.find((card) => card.source.noteId === first.source.noteId && card.id !== first.id)!
         expect(sibling.question.text).not.toBe(first.question.text)
         expect(sibling.answer.text).not.toBe(first.answer.text)
         const allIds = catalog.cards.map((card: { id: string }) => card.id)
@@ -75,5 +81,35 @@ describe('Imported deck and MCP images', () => {
     test('rejects unknown images and path traversal', async () => {
         expect((await getAnkiImage({ imageId: '0'.repeat(64) })).isError).toBe(true)
         expect((await getAnkiImage({ imageId: '../../package.json' })).isError).toBe(true)
+    })
+})
+
+describe('Collection file loading', () => {
+    test('namespaces matching Anki IDs across collections and validates references', async () => {
+        const root = await mkdtemp(path.join(tmpdir(), 'anki-collections-'))
+        try {
+            const original = JSON.parse(await readFile('data/sketchy-pharm/questions/1475690805188.json', 'utf8'))
+            for (const id of ['first', 'second']) {
+                const directory = path.join(root, id)
+                await mkdir(path.join(directory, 'questions'), { recursive: true })
+                await writeFile(path.join(directory, 'collection.json'), JSON.stringify({ schemaVersion: 1, id, name: id, source: { type: 'anki-apkg' } }))
+                await writeFile(
+                    path.join(directory, 'questions', `${original.source.cardId}.json`),
+                    JSON.stringify({ ...original, collectionId: id, id: `${id}:${original.source.cardId}` })
+                )
+            }
+            const catalog = await loadCatalog(root)
+            expect(catalog.cards.map((card) => card.id)).toEqual(['first:1475690805188', 'second:1475690805188'])
+            expect(Object.keys(catalog.media)).toHaveLength(Object.keys(original.images).length)
+
+            const file = path.join(root, 'second', 'questions', `${original.source.cardId}.json`)
+            const question = { ...original, collectionId: 'second', id: `second:${original.source.cardId}` }
+            await writeFile(file, JSON.stringify({ ...question, images: {} }))
+            await expect(loadCatalog(root)).rejects.toThrow('Missing image reference')
+            await writeFile(file, JSON.stringify({ ...question, id: 'first:1475690805188' }))
+            await expect(loadCatalog(root)).rejects.toThrow('identity')
+        } finally {
+            await rm(root, { recursive: true, force: true })
+        }
     })
 })

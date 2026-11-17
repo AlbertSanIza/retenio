@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475965578626",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475965578626",
+        "noteId": "1475964798680",
+        "noteGuid": "ky(ErQ9#xE",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.5 - Class V",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.5-Class_V",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "§\n\nWhat class of drugs inhibit the cardiac effects of Adenosine?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat class of drugs inhibit the cardiac effects of Adenosine?\n\nMethylxanthines\n\n(Caffeine, Theophylline)\n\n[Image: 0da77f78ee6dc90fd7fced66aad629b1ef57b35498592ca08906e91a4fa1fb54]\n\n4.5 - \"Class V\"\n[Image: 314a9d9956154c93a28c11da294df9fba3bba8c86bfa2c83b2350434f676e34f]\n\n[Image: 1c24c7fc018e2e9a9366e655fe8c5bb583bb8a13f6a423cbe2de86d4e46c6595]",
+        "imageIds": [
+            "0da77f78ee6dc90fd7fced66aad629b1ef57b35498592ca08906e91a4fa1fb54",
+            "314a9d9956154c93a28c11da294df9fba3bba8c86bfa2c83b2350434f676e34f",
+            "1c24c7fc018e2e9a9366e655fe8c5bb583bb8a13f6a423cbe2de86d4e46c6595"
+        ]
+    },
+    "images": {
+        "0da77f78ee6dc90fd7fced66aad629b1ef57b35498592ca08906e91a4fa1fb54": {
+            "file": "images/0da77f78ee6dc90fd7fced66aad629b1ef57b35498592ca08906e91a4fa1fb54.jpg",
+            "filename": "paste-49619757170691.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65216
+        },
+        "1c24c7fc018e2e9a9366e655fe8c5bb583bb8a13f6a423cbe2de86d4e46c6595": {
+            "file": "images/1c24c7fc018e2e9a9366e655fe8c5bb583bb8a13f6a423cbe2de86d4e46c6595.jpg",
+            "filename": "paste-258750304747523.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44883
+        },
+        "314a9d9956154c93a28c11da294df9fba3bba8c86bfa2c83b2350434f676e34f": {
+            "file": "images/314a9d9956154c93a28c11da294df9fba3bba8c86bfa2c83b2350434f676e34f.jpg",
+            "filename": "paste-664169447686145.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 124309
+        }
+    }
+}

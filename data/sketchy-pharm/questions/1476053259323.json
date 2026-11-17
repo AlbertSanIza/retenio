@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476053259323",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476053259323",
+        "noteId": "1476051607217",
+        "noteGuid": "n5FgcoEa,q",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::2 Allergy & Pulmonary::2.1 - Antihistamines",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(2)-Allergy_&_Pulmonary::2.1-Antihistamines",
+        "$$Smooth_Muscle",
+        "$Allergy&Pulmonary"
+    ],
+    "question": {
+        "text": "§\n\nWhere is most Histamine found?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhere is most Histamine found?\n\nMast cells\n\n[Image: fca208267f438b9ff3d0b4e120681f00d630ab7eb6e15198e0dd5f55f7142051]\n\n2.1 - Antihistamines\n[Image: f7314b2e975ff14486eeeeef9a70badab37ceceed6d6562b1b54c0cbf86eba91]\n\n[Image: ebf07e64c72b7326f332a528c0bbcb0378877f4ccf7da9beeeaa77a389b9ef4c]",
+        "imageIds": [
+            "fca208267f438b9ff3d0b4e120681f00d630ab7eb6e15198e0dd5f55f7142051",
+            "f7314b2e975ff14486eeeeef9a70badab37ceceed6d6562b1b54c0cbf86eba91",
+            "ebf07e64c72b7326f332a528c0bbcb0378877f4ccf7da9beeeaa77a389b9ef4c"
+        ]
+    },
+    "images": {
+        "ebf07e64c72b7326f332a528c0bbcb0378877f4ccf7da9beeeaa77a389b9ef4c": {
+            "file": "images/ebf07e64c72b7326f332a528c0bbcb0378877f4ccf7da9beeeaa77a389b9ef4c.jpg",
+            "filename": "paste-233629041033219.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53438
+        },
+        "f7314b2e975ff14486eeeeef9a70badab37ceceed6d6562b1b54c0cbf86eba91": {
+            "file": "images/f7314b2e975ff14486eeeeef9a70badab37ceceed6d6562b1b54c0cbf86eba91.jpg",
+            "filename": "paste-85160611545091.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 154303
+        },
+        "fca208267f438b9ff3d0b4e120681f00d630ab7eb6e15198e0dd5f55f7142051": {
+            "file": "images/fca208267f438b9ff3d0b4e120681f00d630ab7eb6e15198e0dd5f55f7142051.jpg",
+            "filename": "paste-5725191405571.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 74122
+        }
+    }
+}

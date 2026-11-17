@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480833587620",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480833587620",
+        "noteId": "1480832933361",
+        "noteGuid": "tH&5`k/vx|",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::7 Antivirals: Hepatitis::7.1 - Interferon α, β, γ",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(7)-Antivirals-Hepatitis::7.1-Interferon_α,β,γ",
+        "$$Antimicrobials",
+        "$Antivirals_Hepatitis"
+    ],
+    "question": {
+        "text": "§\n\nName 3 neoplasms interferon-α been used to treat",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nName 3 neoplasms interferon-α been used to treat\n\n(1) Hairy cell leukemia\n(2) Malignant melanoma\n\n(3) Renal cell carcinoma\n\n[Image: 3fc824a717c20507e8f3ab0cd07dd3ef7f169eb71a18705a95e56d9297244c71]\n\n[Image: 01225424ecc42f719a33ea81b0cfff3fc413c093b30454eb7e0eab7a0f06af27]\n\n7.1 - Interferon α, β, γ\n[Image: db7fffca7a87b1edcb43a80dada92e43df78f363bfd66ef11a1d5e07eb37ce0e]\n\n[Image: 53767074790b2004650dbcd94cf1cb8ce3d08d57fa9775aa9eb4100e875bcac8]\n\n[Image: 025bbeb74adc387ad29e899b27ccbb9ca627fd0f9a8434e966f187d7b7f6eb27]\n\n[Image: 449c10e1b1005871a0f84515ac85157f372c0e66ddae20e354c7aeff85c19eba]",
+        "imageIds": [
+            "3fc824a717c20507e8f3ab0cd07dd3ef7f169eb71a18705a95e56d9297244c71",
+            "01225424ecc42f719a33ea81b0cfff3fc413c093b30454eb7e0eab7a0f06af27",
+            "db7fffca7a87b1edcb43a80dada92e43df78f363bfd66ef11a1d5e07eb37ce0e",
+            "53767074790b2004650dbcd94cf1cb8ce3d08d57fa9775aa9eb4100e875bcac8",
+            "025bbeb74adc387ad29e899b27ccbb9ca627fd0f9a8434e966f187d7b7f6eb27",
+            "449c10e1b1005871a0f84515ac85157f372c0e66ddae20e354c7aeff85c19eba"
+        ]
+    },
+    "images": {
+        "01225424ecc42f719a33ea81b0cfff3fc413c093b30454eb7e0eab7a0f06af27": {
+            "file": "images/01225424ecc42f719a33ea81b0cfff3fc413c093b30454eb7e0eab7a0f06af27.jpg",
+            "filename": "paste-377935647211523.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45645
+        },
+        "025bbeb74adc387ad29e899b27ccbb9ca627fd0f9a8434e966f187d7b7f6eb27": {
+            "file": "images/025bbeb74adc387ad29e899b27ccbb9ca627fd0f9a8434e966f187d7b7f6eb27.jpg",
+            "filename": "paste-19877108645891 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63903
+        },
+        "3fc824a717c20507e8f3ab0cd07dd3ef7f169eb71a18705a95e56d9297244c71": {
+            "file": "images/3fc824a717c20507e8f3ab0cd07dd3ef7f169eb71a18705a95e56d9297244c71.jpg",
+            "filename": "paste-377785323356163.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45980
+        },
+        "449c10e1b1005871a0f84515ac85157f372c0e66ddae20e354c7aeff85c19eba": {
+            "file": "images/449c10e1b1005871a0f84515ac85157f372c0e66ddae20e354c7aeff85c19eba.jpg",
+            "filename": "paste-105342662868995 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 71116
+        },
+        "53767074790b2004650dbcd94cf1cb8ce3d08d57fa9775aa9eb4100e875bcac8": {
+            "file": "images/53767074790b2004650dbcd94cf1cb8ce3d08d57fa9775aa9eb4100e875bcac8.jpg",
+            "filename": "paste-555652803985411.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 21590
+        },
+        "db7fffca7a87b1edcb43a80dada92e43df78f363bfd66ef11a1d5e07eb37ce0e": {
+            "file": "images/db7fffca7a87b1edcb43a80dada92e43df78f363bfd66ef11a1d5e07eb37ce0e.jpg",
+            "filename": "paste-302674935283713.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 119855
+        }
+    }
+}

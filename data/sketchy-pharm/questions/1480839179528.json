@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480839179528",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480839179528",
+        "noteId": "1480838072386",
+        "noteGuid": "GOwg%g_S%>",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.1 - Penicillin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.1-Penicillin",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "§\n\nResistance: Penicillin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nResistance: Penicillin\n\nβ-lactamases\n\n[Image: 2fdf378814405e152da3245db2d7e6c6d42444ec9fa6dc15be074ebdd349a550]\n\n1.1 - Penicillin\n[Image: f713488a5c800aa8470570b237c9db1cc080a90502f28209a5055b7b9d91c056]\n\n[Image: 5749219917b0d46cdacdcfd16cb18400fe3c5f4acbba8ea5f1fe0b81fe3ca819]",
+        "imageIds": [
+            "2fdf378814405e152da3245db2d7e6c6d42444ec9fa6dc15be074ebdd349a550",
+            "f713488a5c800aa8470570b237c9db1cc080a90502f28209a5055b7b9d91c056",
+            "5749219917b0d46cdacdcfd16cb18400fe3c5f4acbba8ea5f1fe0b81fe3ca819"
+        ]
+    },
+    "images": {
+        "2fdf378814405e152da3245db2d7e6c6d42444ec9fa6dc15be074ebdd349a550": {
+            "file": "images/2fdf378814405e152da3245db2d7e6c6d42444ec9fa6dc15be074ebdd349a550.jpg",
+            "filename": "paste-429320635940867.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44867
+        },
+        "5749219917b0d46cdacdcfd16cb18400fe3c5f4acbba8ea5f1fe0b81fe3ca819": {
+            "file": "images/5749219917b0d46cdacdcfd16cb18400fe3c5f4acbba8ea5f1fe0b81fe3ca819.jpg",
+            "filename": "paste-83889301225475.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65710
+        },
+        "f713488a5c800aa8470570b237c9db1cc080a90502f28209a5055b7b9d91c056": {
+            "file": "images/f713488a5c800aa8470570b237c9db1cc080a90502f28209a5055b7b9d91c056.jpg",
+            "filename": "paste-170342697926659.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 108584
+        }
+    }
+}

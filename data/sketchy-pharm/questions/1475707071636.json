@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475707071636",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475707071636",
+        "noteId": "1475705886299",
+        "noteGuid": "K{:IknGMa;",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::1 Vasoactive::1.1 - Nitrates",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(1)-Vasoactive::1.1-Nitrates",
+        "$$Smooth_Muscle",
+        "$Vasoactive"
+    ],
+    "question": {
+        "text": "§\n\nWhat enzyme do nitrates activate?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat enzyme do nitrates activate?\n\nGuanylyl cyclase ⇒ ↑ cGMP\n\n[Image: f933e4e0f73c1d175ea1d060f26833c8d288dd0c1115b18fe4451a7b999920cc]\n\n[Image: 420d6e6efca502d3eb458c19969a08fc6d4f20ce0f8d491c744fe3d60889c6d1]\n\n1.1 - Nitrates\n[Image: 7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74]\n\n[Image: c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d]\n\n[Image: e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584]",
+        "imageIds": [
+            "f933e4e0f73c1d175ea1d060f26833c8d288dd0c1115b18fe4451a7b999920cc",
+            "420d6e6efca502d3eb458c19969a08fc6d4f20ce0f8d491c744fe3d60889c6d1",
+            "7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74",
+            "c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d",
+            "e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584"
+        ]
+    },
+    "images": {
+        "420d6e6efca502d3eb458c19969a08fc6d4f20ce0f8d491c744fe3d60889c6d1": {
+            "file": "images/420d6e6efca502d3eb458c19969a08fc6d4f20ce0f8d491c744fe3d60889c6d1.jpg",
+            "filename": "paste-109289737814019.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70339
+        },
+        "7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74": {
+            "file": "images/7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74.jpg",
+            "filename": "paste-47850230644739 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 154032
+        },
+        "c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d": {
+            "file": "images/c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d.jpg",
+            "filename": "paste-367026430279683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 114318
+        },
+        "e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584": {
+            "file": "images/e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584.jpg",
+            "filename": "paste-692091030077443.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 83948
+        },
+        "f933e4e0f73c1d175ea1d060f26833c8d288dd0c1115b18fe4451a7b999920cc": {
+            "file": "images/f933e4e0f73c1d175ea1d060f26833c8d288dd0c1115b18fe4451a7b999920cc.jpg",
+            "filename": "paste-41390599831555.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52458
+        }
+    }
+}

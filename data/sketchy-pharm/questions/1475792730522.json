@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475792730522",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475792730522",
+        "noteId": "1475792044077",
+        "noteGuid": "qVcCznMNv/",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::1 Sedative-hypnotics::1.1 - Benzodiazepines, flumazenil",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(1)-Sedatives_&_Hypnotics::1.1-Benzodiazepines,Flumazenil",
+        "$$Neuro/Psych",
+        "$Sedatives&Hypnotics"
+    ],
+    "question": {
+        "text": "§\n\nWhat is the antidote to benzodiazepine overdose?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat is the antidote to benzodiazepine overdose?\n\nFlumazenil\n\n[Image: 6cf07160c1f0eaa35d978cdaded8f9abe24bb8397d94863377de60c397915607]\n\n1.1 - Benzodiazepines, flumazenil\n[Image: 4e88ed21ceda3eb601f618c259757a8a2e401804886af1e0a5a9e1f16a790e53]\n\n[Image: a66eed6c418709be79b1062e66a75dc7471c835fc46e5408c2303b5aaed14da5]\n\n[Image: 352c5155b8c949365e5a2e11e524f0170920455bbb8b8f89e7695d2bd33ca3d6]\n\n[Image: 0a123cff24ff7c544e384d03a0212151daeee6ed9b5a680e03395364d78deaa4]",
+        "imageIds": [
+            "6cf07160c1f0eaa35d978cdaded8f9abe24bb8397d94863377de60c397915607",
+            "4e88ed21ceda3eb601f618c259757a8a2e401804886af1e0a5a9e1f16a790e53",
+            "a66eed6c418709be79b1062e66a75dc7471c835fc46e5408c2303b5aaed14da5",
+            "352c5155b8c949365e5a2e11e524f0170920455bbb8b8f89e7695d2bd33ca3d6",
+            "0a123cff24ff7c544e384d03a0212151daeee6ed9b5a680e03395364d78deaa4"
+        ]
+    },
+    "images": {
+        "0a123cff24ff7c544e384d03a0212151daeee6ed9b5a680e03395364d78deaa4": {
+            "file": "images/0a123cff24ff7c544e384d03a0212151daeee6ed9b5a680e03395364d78deaa4.jpg",
+            "filename": "paste-765672409792513.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 89948
+        },
+        "352c5155b8c949365e5a2e11e524f0170920455bbb8b8f89e7695d2bd33ca3d6": {
+            "file": "images/352c5155b8c949365e5a2e11e524f0170920455bbb8b8f89e7695d2bd33ca3d6.jpg",
+            "filename": "paste-674159541616643.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 38061
+        },
+        "4e88ed21ceda3eb601f618c259757a8a2e401804886af1e0a5a9e1f16a790e53": {
+            "file": "images/4e88ed21ceda3eb601f618c259757a8a2e401804886af1e0a5a9e1f16a790e53.jpg",
+            "filename": "paste-773046868639745.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 130900
+        },
+        "6cf07160c1f0eaa35d978cdaded8f9abe24bb8397d94863377de60c397915607": {
+            "file": "images/6cf07160c1f0eaa35d978cdaded8f9abe24bb8397d94863377de60c397915607.jpg",
+            "filename": "paste-7937099563011.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 88371
+        },
+        "a66eed6c418709be79b1062e66a75dc7471c835fc46e5408c2303b5aaed14da5": {
+            "file": "images/a66eed6c418709be79b1062e66a75dc7471c835fc46e5408c2303b5aaed14da5.jpg",
+            "filename": "paste-761879953670145.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 88594
+        }
+    }
+}

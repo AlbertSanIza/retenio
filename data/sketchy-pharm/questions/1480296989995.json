@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480296989995",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480296989995",
+        "noteId": "1480296209578",
+        "noteGuid": "j.~2cB|JJp",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::1 Antimetabolites::1.3 - Cladribine, cytarabine, gemcitabine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(1)-Antimetabolites::1.3-Cladribine,Cytarabine,Gemcitabine",
+        "$$Antineoplastics",
+        "$Antimetabolites"
+    ],
+    "question": {
+        "text": "§\n\nMOA: Cladribine",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nMOA: Cladribine\n\nInhibits DNA polymerase\n\n[Image: 06ca56a88b8eb500ae9b144f4cdba1d07413c5fea9fb32cff087faadc924dccf]\n\n1.3 - Cladribine, cytarabine, gemcitabine\n[Image: 11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce]\n\n[Image: 517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a]",
+        "imageIds": [
+            "06ca56a88b8eb500ae9b144f4cdba1d07413c5fea9fb32cff087faadc924dccf",
+            "11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce",
+            "517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a"
+        ]
+    },
+    "images": {
+        "06ca56a88b8eb500ae9b144f4cdba1d07413c5fea9fb32cff087faadc924dccf": {
+            "file": "images/06ca56a88b8eb500ae9b144f4cdba1d07413c5fea9fb32cff087faadc924dccf.jpg",
+            "filename": "paste-64145336565763.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 41331
+        },
+        "11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce": {
+            "file": "images/11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce.jpg",
+            "filename": "paste-350980432461825.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 98866
+        },
+        "517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a": {
+            "file": "images/517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a.jpg",
+            "filename": "paste-156474248527875.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 31622
+        }
+    }
+}

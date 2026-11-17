@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475963418998",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475963418998",
+        "noteId": "1475962431917",
+        "noteGuid": "g~p_aT&`(Y",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.2 - Class II",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.2-Class_II",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "§\n\nWhat type of arrhythmias do class II antiarrhythmics treat?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat type of arrhythmias do class II antiarrhythmics treat?\n\nSupraventricular\n\n(i.e., atrial fibrillation)\n\n[Image: 3f2545d5a4fd5bea73611c7423cab92af2435539a34d5436539a5606b10c4aaf]\n\n[Image: 4706a18bd09b6cbb849902eb2bf6b6f4cae65290d4a9f55abeb1801164db3dde]\n\n4.2 - Class II\n[Image: 99b24ad791932f13ec7f948647dee58a7fb18c327f53c1636e310d54cb313671]\n\n[Image: 7d18b348aa1bfb5870dceb658def8e39d4c6859e3ecaee0f61e4f670ec760b30]\n\n[Image: 5d41d5da6a29a87ce608626baca3e5e2806a7ba1c540b0477b85b0b45f48168a]",
+        "imageIds": [
+            "3f2545d5a4fd5bea73611c7423cab92af2435539a34d5436539a5606b10c4aaf",
+            "4706a18bd09b6cbb849902eb2bf6b6f4cae65290d4a9f55abeb1801164db3dde",
+            "99b24ad791932f13ec7f948647dee58a7fb18c327f53c1636e310d54cb313671",
+            "7d18b348aa1bfb5870dceb658def8e39d4c6859e3ecaee0f61e4f670ec760b30",
+            "5d41d5da6a29a87ce608626baca3e5e2806a7ba1c540b0477b85b0b45f48168a"
+        ]
+    },
+    "images": {
+        "3f2545d5a4fd5bea73611c7423cab92af2435539a34d5436539a5606b10c4aaf": {
+            "file": "images/3f2545d5a4fd5bea73611c7423cab92af2435539a34d5436539a5606b10c4aaf.jpg",
+            "filename": "paste-40523016437763.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48117
+        },
+        "4706a18bd09b6cbb849902eb2bf6b6f4cae65290d4a9f55abeb1801164db3dde": {
+            "file": "images/4706a18bd09b6cbb849902eb2bf6b6f4cae65290d4a9f55abeb1801164db3dde.jpg",
+            "filename": "paste-41575283425283.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49890
+        },
+        "5d41d5da6a29a87ce608626baca3e5e2806a7ba1c540b0477b85b0b45f48168a": {
+            "file": "images/5d41d5da6a29a87ce608626baca3e5e2806a7ba1c540b0477b85b0b45f48168a.jpg",
+            "filename": "paste-636295109935107.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 67560
+        },
+        "7d18b348aa1bfb5870dceb658def8e39d4c6859e3ecaee0f61e4f670ec760b30": {
+            "file": "images/7d18b348aa1bfb5870dceb658def8e39d4c6859e3ecaee0f61e4f670ec760b30.jpg",
+            "filename": "paste-628710197690371.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 94139
+        },
+        "99b24ad791932f13ec7f948647dee58a7fb18c327f53c1636e310d54cb313671": {
+            "file": "images/99b24ad791932f13ec7f948647dee58a7fb18c327f53c1636e310d54cb313671.jpg",
+            "filename": "paste-649386170253313.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 99705
+        }
+    }
+}

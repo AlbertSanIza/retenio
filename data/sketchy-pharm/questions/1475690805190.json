@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475690805190",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475690805190",
+        "noteId": "1475689796727",
+        "noteGuid": "kCV^~E(MCS",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::1 Heart Failure Drugs::1.1 - Digoxin, milrinone, nesiritide",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(1)-Heart_Failure_Drugs::1.1-Digoxin,Milrinone,Nesiritide",
+        "$$Cardiovascular_&_Renal",
+        "$HeartFailureDrugs"
+    ],
+    "question": {
+        "text": "§\n\nIndications (2) : Digoxin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nIndications (2) : Digoxin\n\n(1) Heart failure\n(2) Atrial arrhythmias\n\n(Inhibition of neuronal Na+,K+ ATPase ⇒ Depolarization of ANS efferents ⇒ ↑ PNS on nodes (↓ HR) and ↑ SNS on ventricles (↑ Contractility) )\n\n[Image: 658a273921fea54d20b94915bf313800e6cf7ed1787bf4ecd845a58a3fbb2993]\n\n[Image: 1585aef30271537a8a3e3c6e7e2ba53a75a4cc03361cd43f39287b16944def6a]\n\n1.1 - Digoxin, milrinone, nesiritide\n[Image: e4710e7cdd2eb8b0c4fcdd4f47e9c0298d7bc834ea44b17703e0ed658e992ff3]\n\n[Image: cc39089194326572184bf1c518bc26f5390c4f73a884ec8ad5a12509af47e2cf]\n\n[Image: bc64c259981a2f49c214dc60fdb3640b91401d9fabbcae71eb52515390dbaf48]\n\n[Image: aa726752874900868e52bb4456b25de8c3b4b85eaca0e5aed6f3ad3724afc8b2]",
+        "imageIds": [
+            "658a273921fea54d20b94915bf313800e6cf7ed1787bf4ecd845a58a3fbb2993",
+            "1585aef30271537a8a3e3c6e7e2ba53a75a4cc03361cd43f39287b16944def6a",
+            "e4710e7cdd2eb8b0c4fcdd4f47e9c0298d7bc834ea44b17703e0ed658e992ff3",
+            "cc39089194326572184bf1c518bc26f5390c4f73a884ec8ad5a12509af47e2cf",
+            "bc64c259981a2f49c214dc60fdb3640b91401d9fabbcae71eb52515390dbaf48",
+            "aa726752874900868e52bb4456b25de8c3b4b85eaca0e5aed6f3ad3724afc8b2"
+        ]
+    },
+    "images": {
+        "1585aef30271537a8a3e3c6e7e2ba53a75a4cc03361cd43f39287b16944def6a": {
+            "file": "images/1585aef30271537a8a3e3c6e7e2ba53a75a4cc03361cd43f39287b16944def6a.jpg",
+            "filename": "paste-10097468112899.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44896
+        },
+        "658a273921fea54d20b94915bf313800e6cf7ed1787bf4ecd845a58a3fbb2993": {
+            "file": "images/658a273921fea54d20b94915bf313800e6cf7ed1787bf4ecd845a58a3fbb2993.jpg",
+            "filename": "paste-9977209028611.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 37389
+        },
+        "aa726752874900868e52bb4456b25de8c3b4b85eaca0e5aed6f3ad3724afc8b2": {
+            "file": "images/aa726752874900868e52bb4456b25de8c3b4b85eaca0e5aed6f3ad3724afc8b2.jpg",
+            "filename": "paste-88450556493827.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59364
+        },
+        "bc64c259981a2f49c214dc60fdb3640b91401d9fabbcae71eb52515390dbaf48": {
+            "file": "images/bc64c259981a2f49c214dc60fdb3640b91401d9fabbcae71eb52515390dbaf48.jpg",
+            "filename": "paste-84082574753795.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 36182
+        },
+        "cc39089194326572184bf1c518bc26f5390c4f73a884ec8ad5a12509af47e2cf": {
+            "file": "images/cc39089194326572184bf1c518bc26f5390c4f73a884ec8ad5a12509af47e2cf.jpg",
+            "filename": "paste-85959475462147.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 91768
+        },
+        "e4710e7cdd2eb8b0c4fcdd4f47e9c0298d7bc834ea44b17703e0ed658e992ff3": {
+            "file": "images/e4710e7cdd2eb8b0c4fcdd4f47e9c0298d7bc834ea44b17703e0ed658e992ff3.jpg",
+            "filename": "paste-602038450782209.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 138139
+        }
+    }
+}

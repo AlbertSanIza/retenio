@@ -1,0 +1,80 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475797215289",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475797215289",
+        "noteId": "1475796463230",
+        "noteGuid": "dVn&?O~Nzk",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.4 - Bupropion, mirtazapine, trazodone",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.4-Bupropion,Mirtazapine,Trazodone",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "§\n\nMOA (4) : Mirtazapine",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nMOA (4) : Mirtazapine\n\n(1) Inhibits α2 receptors\n(2) ↑ Release of 5-HT and NE\n\n(3) Inhibits 5-HT2 and 5-HT3 receptors\n\n(4) Inhibits H1 receptor\n\n[Image: 97406b334bb5a4546e69c486ef8cfadfde3c2760bcb71b63088a71c439a3a636]\n\n[Image: 520e413d3b7875a352ac7aef23a4122a4044a50494b9f7603125a76d6710b8e2]\n\n[Image: 34040b120adfb1f09cf1f37e9c8195768ff290a262f21c6d3c4243b105be104f]\n\n[Image: 4bab9ad036efbafeb10187e9a1130eb603c50c6a57a5ad431d51162a0d8f5313]\n\n3.4 - Bupropion, mirtazapine, trazodone\n[Image: 53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064]\n\n[Image: 7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943]\n\n[Image: f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2]",
+        "imageIds": [
+            "97406b334bb5a4546e69c486ef8cfadfde3c2760bcb71b63088a71c439a3a636",
+            "520e413d3b7875a352ac7aef23a4122a4044a50494b9f7603125a76d6710b8e2",
+            "34040b120adfb1f09cf1f37e9c8195768ff290a262f21c6d3c4243b105be104f",
+            "4bab9ad036efbafeb10187e9a1130eb603c50c6a57a5ad431d51162a0d8f5313",
+            "53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064",
+            "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943",
+            "f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2"
+        ]
+    },
+    "images": {
+        "34040b120adfb1f09cf1f37e9c8195768ff290a262f21c6d3c4243b105be104f": {
+            "file": "images/34040b120adfb1f09cf1f37e9c8195768ff290a262f21c6d3c4243b105be104f.jpg",
+            "filename": "paste-29317446762499.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48987
+        },
+        "4bab9ad036efbafeb10187e9a1130eb603c50c6a57a5ad431d51162a0d8f5313": {
+            "file": "images/4bab9ad036efbafeb10187e9a1130eb603c50c6a57a5ad431d51162a0d8f5313.jpg",
+            "filename": "paste-29583734734851.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47564
+        },
+        "520e413d3b7875a352ac7aef23a4122a4044a50494b9f7603125a76d6710b8e2": {
+            "file": "images/520e413d3b7875a352ac7aef23a4122a4044a50494b9f7603125a76d6710b8e2.jpg",
+            "filename": "paste-28570122452995.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50517
+        },
+        "53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064": {
+            "file": "images/53572b48faa3f265ebdc28b739ca260974033a51108d20391af4175ad0f9c064.jpg",
+            "filename": "paste-1199537121132547.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 140326
+        },
+        "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943": {
+            "file": "images/7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943.jpg",
+            "filename": "paste-1171594063904771.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 89818
+        },
+        "97406b334bb5a4546e69c486ef8cfadfde3c2760bcb71b63088a71c439a3a636": {
+            "file": "images/97406b334bb5a4546e69c486ef8cfadfde3c2760bcb71b63088a71c439a3a636.jpg",
+            "filename": "paste-27986006900739.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44500
+        },
+        "f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2": {
+            "file": "images/f969cdade78c098e0d9388d8ba0e079087031bc45ec4e1e6489fd332035c10f2.jpg",
+            "filename": "paste-173976240259075.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 148735
+        }
+    }
+}

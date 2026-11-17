@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480544886995",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480544886995",
+        "noteId": "1480544400087",
+        "noteGuid": "K!q>qK(hy>",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.5 - Linezolid",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.5-Linezolid",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "§\n\nWhat is Linezolid's spectrum of activity?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat is Linezolid's spectrum of activity?\n\nGram (+) Cocci\n\n[Image: 5ec50ba7522b85035ea08839c16b6bb78c808b4c55893c3ace856aac5eaddf1e]\n\n2.5 - Linezolid\n[Image: 05d990f7506111dc6ec384fb53cf4b040af1632ea5060337ba7fc58d3be91d0b]\n\n[Image: 8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4]\n\n[Image: eaf0bf3a68ef608ecb413dd09590c7b7d07bd5c9e7469c0ec575384d04e672e8]",
+        "imageIds": [
+            "5ec50ba7522b85035ea08839c16b6bb78c808b4c55893c3ace856aac5eaddf1e",
+            "05d990f7506111dc6ec384fb53cf4b040af1632ea5060337ba7fc58d3be91d0b",
+            "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4",
+            "eaf0bf3a68ef608ecb413dd09590c7b7d07bd5c9e7469c0ec575384d04e672e8"
+        ]
+    },
+    "images": {
+        "05d990f7506111dc6ec384fb53cf4b040af1632ea5060337ba7fc58d3be91d0b": {
+            "file": "images/05d990f7506111dc6ec384fb53cf4b040af1632ea5060337ba7fc58d3be91d0b.jpg",
+            "filename": "paste-228526619885569.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 106401
+        },
+        "5ec50ba7522b85035ea08839c16b6bb78c808b4c55893c3ace856aac5eaddf1e": {
+            "file": "images/5ec50ba7522b85035ea08839c16b6bb78c808b4c55893c3ace856aac5eaddf1e.jpg",
+            "filename": "paste-22677427322883 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 39343
+        },
+        "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4": {
+            "file": "images/8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4.jpg",
+            "filename": "paste-321710230339587.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 76271
+        },
+        "eaf0bf3a68ef608ecb413dd09590c7b7d07bd5c9e7469c0ec575384d04e672e8": {
+            "file": "images/eaf0bf3a68ef608ecb413dd09590c7b7d07bd5c9e7469c0ec575384d04e672e8.jpg",
+            "filename": "paste-405298883854339.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34795
+        }
+    }
+}

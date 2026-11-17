@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480542313305",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480542313305",
+        "noteId": "1480541343233",
+        "noteGuid": "y1kneJEm(h",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.1 - Tetracyclines",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.1-Tetracyclines",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "§\n\nContraindications (2) : Tetracyclines",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nContraindications (2) : Tetracyclines\n\n(1) Children\n(2) Pregnant\n\n[Image: 5732657d9ca89b1dae343b0a86ae086c9e677279de15a5211d1a496a3527dfd1]\n\n[Image: aed7604d2f063bf14db4b3322ea8bd3f5b1837938de5bb620898d4b34f5c8e33]\n\n2.1 - Tetracyclines\n[Image: 029f50df8c964a648f90565fdbb5c978b9fd2ef074dcadbbea4bbd78e283b7e2]\n\n[Image: 8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4]\n\n[Image: 148da3dca16d7ef2f00b70fd9989e6e2d2e10a6064cebc60234d37881f6e3c8f]\n\n[Image: 9a41cab91cd4ec097690589c9f9104229795d2ceafec69d88dd531b79934ed66]",
+        "imageIds": [
+            "5732657d9ca89b1dae343b0a86ae086c9e677279de15a5211d1a496a3527dfd1",
+            "aed7604d2f063bf14db4b3322ea8bd3f5b1837938de5bb620898d4b34f5c8e33",
+            "029f50df8c964a648f90565fdbb5c978b9fd2ef074dcadbbea4bbd78e283b7e2",
+            "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4",
+            "148da3dca16d7ef2f00b70fd9989e6e2d2e10a6064cebc60234d37881f6e3c8f",
+            "9a41cab91cd4ec097690589c9f9104229795d2ceafec69d88dd531b79934ed66"
+        ]
+    },
+    "images": {
+        "029f50df8c964a648f90565fdbb5c978b9fd2ef074dcadbbea4bbd78e283b7e2": {
+            "file": "images/029f50df8c964a648f90565fdbb5c978b9fd2ef074dcadbbea4bbd78e283b7e2.jpg",
+            "filename": "paste-215521458913281.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 151592
+        },
+        "148da3dca16d7ef2f00b70fd9989e6e2d2e10a6064cebc60234d37881f6e3c8f": {
+            "file": "images/148da3dca16d7ef2f00b70fd9989e6e2d2e10a6064cebc60234d37881f6e3c8f.jpg",
+            "filename": "paste-392190643666947.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 66003
+        },
+        "5732657d9ca89b1dae343b0a86ae086c9e677279de15a5211d1a496a3527dfd1": {
+            "file": "images/5732657d9ca89b1dae343b0a86ae086c9e677279de15a5211d1a496a3527dfd1.jpg",
+            "filename": "paste-7718056230915.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53933
+        },
+        "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4": {
+            "file": "images/8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4.jpg",
+            "filename": "paste-321710230339587.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 76271
+        },
+        "9a41cab91cd4ec097690589c9f9104229795d2ceafec69d88dd531b79934ed66": {
+            "file": "images/9a41cab91cd4ec097690589c9f9104229795d2ceafec69d88dd531b79934ed66.jpg",
+            "filename": "paste-427198922096643.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 38007
+        },
+        "aed7604d2f063bf14db4b3322ea8bd3f5b1837938de5bb620898d4b34f5c8e33": {
+            "file": "images/aed7604d2f063bf14db4b3322ea8bd3f5b1837938de5bb620898d4b34f5c8e33.jpg",
+            "filename": "paste-7786775707651 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56700
+        }
+    }
+}

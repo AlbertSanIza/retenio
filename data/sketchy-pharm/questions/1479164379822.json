@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479164379822",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479164379822",
+        "noteId": "1479164083148",
+        "noteGuid": "iA?3DF,6G1",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::3 Anti-inflammatory::3.2 - Gout drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(3)-Anti-Inflammatory_Drugs::3.2-Gout_Drugs",
+        "$$Blood_&_Inflammation",
+        "$Anti-inflammatory"
+    ],
+    "question": {
+        "text": "§\n\nMOA: Colchicine",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nMOA: Colchicine\n\nInhibits polymerization of microtubules\n\n(∝ Vinca alkaloids and Griseofulvin)\n\n[Image: fb982f8ec2d4ea14819c8b3b3d4e5d0621d698f0a1c3836127813448eff35efe]\n\n[Image: 8cd3ae5316d7a015c0756e097a5f3e9a47e3fc8d7afbcc3f75682976a781913a]\n\n3.2 - Gout Drugs\n[Image: be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df]\n\n[Image: 558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616]\n\n[Image: d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b]\n\n[Image: a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730]",
+        "imageIds": [
+            "fb982f8ec2d4ea14819c8b3b3d4e5d0621d698f0a1c3836127813448eff35efe",
+            "8cd3ae5316d7a015c0756e097a5f3e9a47e3fc8d7afbcc3f75682976a781913a",
+            "be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df",
+            "558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616",
+            "d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b",
+            "a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730"
+        ]
+    },
+    "images": {
+        "558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616": {
+            "file": "images/558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616.jpg",
+            "filename": "paste-121358595915779.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 132759
+        },
+        "8cd3ae5316d7a015c0756e097a5f3e9a47e3fc8d7afbcc3f75682976a781913a": {
+            "file": "images/8cd3ae5316d7a015c0756e097a5f3e9a47e3fc8d7afbcc3f75682976a781913a.jpg",
+            "filename": "paste-32186484916227.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54937
+        },
+        "a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730": {
+            "file": "images/a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730.jpg",
+            "filename": "paste-123982820933635.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34602
+        },
+        "be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df": {
+            "file": "images/be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df.jpg",
+            "filename": "paste-583518551801857.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 158251
+        },
+        "d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b": {
+            "file": "images/d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b.jpg",
+            "filename": "paste-113215337922563.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 184086
+        },
+        "fb982f8ec2d4ea14819c8b3b3d4e5d0621d698f0a1c3836127813448eff35efe": {
+            "file": "images/fb982f8ec2d4ea14819c8b3b3d4e5d0621d698f0a1c3836127813448eff35efe.jpg",
+            "filename": "paste-30511447670787 (2).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53007
+        }
+    }
+}

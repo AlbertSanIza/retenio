@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475965578625",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475965578625",
+        "noteId": "1475964798680",
+        "noteGuid": "ky(ErQ9#xE",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::4 Antiarrhythmics::4.5 - Class V",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(4)-Antiarrhythmics::4.5-Class_V",
+        "$$Cardiovascular_&_Renal",
+        "$Antiarrhythmics"
+    ],
+    "question": {
+        "text": "§\n\nAdverse Effects (3) : Adenosine",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nAdverse Effects (3) : Adenosine\n\n(1) Cutaneous flushing\n(2) Shortness of breath/Chest pain\n\n(3) Hypotension\n\n[Image: 79f5056d8611bdb2bbd37c99b0347eb6220a46fdd6239662d375cd05593b60a3]\n\n[Image: 324c025e4f68691b30828e299f95f736e1a4ce57967beb131429f087ccd62591]\n\n4.5 - \"Class V\"\n[Image: 314a9d9956154c93a28c11da294df9fba3bba8c86bfa2c83b2350434f676e34f]\n\n[Image: 1c24c7fc018e2e9a9366e655fe8c5bb583bb8a13f6a423cbe2de86d4e46c6595]",
+        "imageIds": [
+            "79f5056d8611bdb2bbd37c99b0347eb6220a46fdd6239662d375cd05593b60a3",
+            "324c025e4f68691b30828e299f95f736e1a4ce57967beb131429f087ccd62591",
+            "314a9d9956154c93a28c11da294df9fba3bba8c86bfa2c83b2350434f676e34f",
+            "1c24c7fc018e2e9a9366e655fe8c5bb583bb8a13f6a423cbe2de86d4e46c6595"
+        ]
+    },
+    "images": {
+        "1c24c7fc018e2e9a9366e655fe8c5bb583bb8a13f6a423cbe2de86d4e46c6595": {
+            "file": "images/1c24c7fc018e2e9a9366e655fe8c5bb583bb8a13f6a423cbe2de86d4e46c6595.jpg",
+            "filename": "paste-258750304747523.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44883
+        },
+        "314a9d9956154c93a28c11da294df9fba3bba8c86bfa2c83b2350434f676e34f": {
+            "file": "images/314a9d9956154c93a28c11da294df9fba3bba8c86bfa2c83b2350434f676e34f.jpg",
+            "filename": "paste-664169447686145.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 124309
+        },
+        "324c025e4f68691b30828e299f95f736e1a4ce57967beb131429f087ccd62591": {
+            "file": "images/324c025e4f68691b30828e299f95f736e1a4ce57967beb131429f087ccd62591.jpg",
+            "filename": "paste-49370649067523.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56948
+        },
+        "79f5056d8611bdb2bbd37c99b0347eb6220a46fdd6239662d375cd05593b60a3": {
+            "file": "images/79f5056d8611bdb2bbd37c99b0347eb6220a46fdd6239662d375cd05593b60a3.jpg",
+            "filename": "paste-49190260441091.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58031
+        }
+    }
+}

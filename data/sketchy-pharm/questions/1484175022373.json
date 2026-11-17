@@ -1,0 +1,101 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484175022373",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484175022373",
+        "noteId": "1484174506748",
+        "noteGuid": "zAes]>XXQ1",
+        "modelId": "1475688242543",
+        "templateOrdinal": 0
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::4 Mood Stabilizers & Antiepileptic Drugs::4.4 - Carbamazepine, phenytoin, gabapentin, tiagabine, vigabatrin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(4)-Mood_Stabilizers_&_Antiepileptics::4.3-Carbamazepine,Phenytoin,Gabapentin,Tiagabine,Vigabatrin",
+        "$$Neuro/Psych",
+        "$Mood_Stabilizers_&_Antiepileptics"
+    ],
+    "question": {
+        "text": "§\n\nName 5 narrow spectrum antiepileptics",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nName 5 narrow spectrum antiepileptics\n\n(1) Carbamazepine\n(2) Phenytoin\n\n(3) Gabapentin\n\n(4) Vigabatrin\n\n(5) Tigabine\n\n[Image: 7e199dddc9a92a9a7c5357857b0d4a7cb50c391a52d3b1807f60487ee8a76dee]\n\n[Image: e74670270b761f2c38a44967cc1bb4a026330599a1e841f2be1a1ffe39d1221f]\n\n[Image: ed3c6fb036446cbc539dd98465f9ac08df4f602ec538ac4b03acc0fef9174f36]\n\n[Image: f9eeee8c04679a13fe39600fd0e844d2fca5d9cca6f7b52cda535b38101e1e9e]\n\n[Image: 731e8c5e754659e70bf146f4592224759f054488e26965fda174d97d84e72246]\n\n[Image: b9c59830f389b4850ece58e5f06300faf74247c7302fcc75426f1e27da842921]\n\n4.3 - Carbamazepine, phenytoin, gabapentin, tiagabine, vigabatrin\n[Image: 72a6b493f768ad440d5bb2213cac7f737a4f044ed795c848207a711443df075b]\n\n[Image: c3043f3c2f396c1132e341dc2c19a439589ba89eef0f5980c4f478d378b35668]\n\n[Image: 2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a]\n\n[Image: fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5]",
+        "imageIds": [
+            "7e199dddc9a92a9a7c5357857b0d4a7cb50c391a52d3b1807f60487ee8a76dee",
+            "e74670270b761f2c38a44967cc1bb4a026330599a1e841f2be1a1ffe39d1221f",
+            "ed3c6fb036446cbc539dd98465f9ac08df4f602ec538ac4b03acc0fef9174f36",
+            "f9eeee8c04679a13fe39600fd0e844d2fca5d9cca6f7b52cda535b38101e1e9e",
+            "731e8c5e754659e70bf146f4592224759f054488e26965fda174d97d84e72246",
+            "b9c59830f389b4850ece58e5f06300faf74247c7302fcc75426f1e27da842921",
+            "72a6b493f768ad440d5bb2213cac7f737a4f044ed795c848207a711443df075b",
+            "c3043f3c2f396c1132e341dc2c19a439589ba89eef0f5980c4f478d378b35668",
+            "2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a",
+            "fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5"
+        ]
+    },
+    "images": {
+        "2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a": {
+            "file": "images/2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a.jpg",
+            "filename": "paste-688547682058243.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 102555
+        },
+        "72a6b493f768ad440d5bb2213cac7f737a4f044ed795c848207a711443df075b": {
+            "file": "images/72a6b493f768ad440d5bb2213cac7f737a4f044ed795c848207a711443df075b.jpg",
+            "filename": "paste-696050989924355.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 96699
+        },
+        "731e8c5e754659e70bf146f4592224759f054488e26965fda174d97d84e72246": {
+            "file": "images/731e8c5e754659e70bf146f4592224759f054488e26965fda174d97d84e72246.jpg",
+            "filename": "paste-797395038240771.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 94685
+        },
+        "7e199dddc9a92a9a7c5357857b0d4a7cb50c391a52d3b1807f60487ee8a76dee": {
+            "file": "images/7e199dddc9a92a9a7c5357857b0d4a7cb50c391a52d3b1807f60487ee8a76dee.jpg",
+            "filename": "paste-698589315596291.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56748
+        },
+        "b9c59830f389b4850ece58e5f06300faf74247c7302fcc75426f1e27da842921": {
+            "file": "images/b9c59830f389b4850ece58e5f06300faf74247c7302fcc75426f1e27da842921.jpg",
+            "filename": "paste-698550660890627.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45970
+        },
+        "c3043f3c2f396c1132e341dc2c19a439589ba89eef0f5980c4f478d378b35668": {
+            "file": "images/c3043f3c2f396c1132e341dc2c19a439589ba89eef0f5980c4f478d378b35668.jpg",
+            "filename": "paste-60975650701315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70945
+        },
+        "e74670270b761f2c38a44967cc1bb4a026330599a1e841f2be1a1ffe39d1221f": {
+            "file": "images/e74670270b761f2c38a44967cc1bb4a026330599a1e841f2be1a1ffe39d1221f.jpg",
+            "filename": "paste-708240107110403.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 69019
+        },
+        "ed3c6fb036446cbc539dd98465f9ac08df4f602ec538ac4b03acc0fef9174f36": {
+            "file": "images/ed3c6fb036446cbc539dd98465f9ac08df4f602ec538ac4b03acc0fef9174f36.jpg",
+            "filename": "paste-752843342479363.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 79831
+        },
+        "f9eeee8c04679a13fe39600fd0e844d2fca5d9cca6f7b52cda535b38101e1e9e": {
+            "file": "images/f9eeee8c04679a13fe39600fd0e844d2fca5d9cca6f7b52cda535b38101e1e9e.jpg",
+            "filename": "paste-2acf82d30b4b50a78dc940f89e0d7515c499912b.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 98447
+        },
+        "fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5": {
+            "file": "images/fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5.jpg",
+            "filename": "paste-69565585293315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 91284
+        }
+    }
+}

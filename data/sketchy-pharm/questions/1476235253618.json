@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476235253618",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476235253618",
+        "noteId": "1476235100464",
+        "noteGuid": "vE5{@SswBz",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.2 - Loop diuretics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.2-Loop_Diuretics",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "§\n\nMOA: Furosemide",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nMOA: Furosemide\n\nInhibits Na+/K+/2Cl- Cotransporter\n\n[Image: cda22a6f98dcdd253f90b0cac20933fc0f8ae636fcf89db2593e816c37b56ea9]\n\n[Image: c2c94c63935261f56557e5063d65863921af918e9ec0cbe41e7b0332bca7b0b5]\n\n2.2 - Loop diuretics\n[Image: ab97a3dbb7bcb783c943a24dd17fe759c7e8649ccf31e9c669d50ac2fd87224f]\n\n[Image: 1b7148647feea8113ae9dee03b260d70ee27ebcc42fd60b3f4de9de573e060cc]\n\n[Image: 3441d6b488bb0369101547fd03cec0ec80e0ad3a479fc9e8b2f636b8092b09fe]",
+        "imageIds": [
+            "cda22a6f98dcdd253f90b0cac20933fc0f8ae636fcf89db2593e816c37b56ea9",
+            "c2c94c63935261f56557e5063d65863921af918e9ec0cbe41e7b0332bca7b0b5",
+            "ab97a3dbb7bcb783c943a24dd17fe759c7e8649ccf31e9c669d50ac2fd87224f",
+            "1b7148647feea8113ae9dee03b260d70ee27ebcc42fd60b3f4de9de573e060cc",
+            "3441d6b488bb0369101547fd03cec0ec80e0ad3a479fc9e8b2f636b8092b09fe"
+        ]
+    },
+    "images": {
+        "1b7148647feea8113ae9dee03b260d70ee27ebcc42fd60b3f4de9de573e060cc": {
+            "file": "images/1b7148647feea8113ae9dee03b260d70ee27ebcc42fd60b3f4de9de573e060cc.jpg",
+            "filename": "paste-198698072014851.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 40968
+        },
+        "3441d6b488bb0369101547fd03cec0ec80e0ad3a479fc9e8b2f636b8092b09fe": {
+            "file": "images/3441d6b488bb0369101547fd03cec0ec80e0ad3a479fc9e8b2f636b8092b09fe.jpg",
+            "filename": "paste-203504140419075.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 104127
+        },
+        "ab97a3dbb7bcb783c943a24dd17fe759c7e8649ccf31e9c669d50ac2fd87224f": {
+            "file": "images/ab97a3dbb7bcb783c943a24dd17fe759c7e8649ccf31e9c669d50ac2fd87224f.jpg",
+            "filename": "paste-617118080958465.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 154300
+        },
+        "c2c94c63935261f56557e5063d65863921af918e9ec0cbe41e7b0332bca7b0b5": {
+            "file": "images/c2c94c63935261f56557e5063d65863921af918e9ec0cbe41e7b0332bca7b0b5.jpg",
+            "filename": "paste-19086834663427.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54599
+        },
+        "cda22a6f98dcdd253f90b0cac20933fc0f8ae636fcf89db2593e816c37b56ea9": {
+            "file": "images/cda22a6f98dcdd253f90b0cac20933fc0f8ae636fcf89db2593e816c37b56ea9.jpg",
+            "filename": "paste-19013820219395.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52882
+        }
+    }
+}

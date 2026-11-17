@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475707071639",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475707071639",
+        "noteId": "1475705886299",
+        "noteGuid": "K{:IknGMa;",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::1 Vasoactive::1.1 - Nitrates",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(1)-Vasoactive::1.1-Nitrates",
+        "$$Smooth_Muscle",
+        "$Vasoactive"
+    ],
+    "question": {
+        "text": "§\n\nIndications (3) : Nitrates",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nIndications (3) : Nitrates\n\n(1) Stable angina\n(2) Prinzmetal angina\n\n(3) Acute coronary syndrome\n\n[Image: 09e952463b13f296dddbda0d941bbd1bb25c55e6da225c85483a9fe746399571]\n\n[Image: 361a531ce57b077c4be996334f2e344131f21fe3782dc1994791d0add9637d47]\n\n[Image: f2966c6a574221e40f20b6204650661a0d22251ad8a7a0057c73f3c730bee626]\n\n1.1 - Nitrates\n[Image: 7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74]\n\n[Image: c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d]\n\n[Image: e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584]",
+        "imageIds": [
+            "09e952463b13f296dddbda0d941bbd1bb25c55e6da225c85483a9fe746399571",
+            "361a531ce57b077c4be996334f2e344131f21fe3782dc1994791d0add9637d47",
+            "f2966c6a574221e40f20b6204650661a0d22251ad8a7a0057c73f3c730bee626",
+            "7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74",
+            "c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d",
+            "e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584"
+        ]
+    },
+    "images": {
+        "09e952463b13f296dddbda0d941bbd1bb25c55e6da225c85483a9fe746399571": {
+            "file": "images/09e952463b13f296dddbda0d941bbd1bb25c55e6da225c85483a9fe746399571.jpg",
+            "filename": "paste-127843996532739.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 80304
+        },
+        "361a531ce57b077c4be996334f2e344131f21fe3782dc1994791d0add9637d47": {
+            "file": "images/361a531ce57b077c4be996334f2e344131f21fe3782dc1994791d0add9637d47.jpg",
+            "filename": "paste-134977937211395.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 77770
+        },
+        "7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74": {
+            "file": "images/7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74.jpg",
+            "filename": "paste-47850230644739 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 154032
+        },
+        "c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d": {
+            "file": "images/c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d.jpg",
+            "filename": "paste-367026430279683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 114318
+        },
+        "e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584": {
+            "file": "images/e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584.jpg",
+            "filename": "paste-692091030077443.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 83948
+        },
+        "f2966c6a574221e40f20b6204650661a0d22251ad8a7a0057c73f3c730bee626": {
+            "file": "images/f2966c6a574221e40f20b6204650661a0d22251ad8a7a0057c73f3c730bee626.jpg",
+            "filename": "paste-140642999074819.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 87788
+        }
+    }
+}

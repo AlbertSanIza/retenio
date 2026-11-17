@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480302755945",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480302755945",
+        "noteId": "1480301676727",
+        "noteGuid": "oy.7TfmNm^",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.4 - Cephalosporins",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.4-Cephalosporins",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "§\n\nWhich Cephalosporins are considered broad spectrum?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhich Cephalosporins are considered broad spectrum?\n\n(1) Cefepime\n(2) Ceftaroline\n\n[Image: aed3afefabed1d90f936c529257a98fc8df7d09f5fde9952aefb5d8a1d4a6a27]\n\n[Image: dbe6a2abb16cedc47fdbc81aea9b8f89bbec3e5c9e35c02b71257bbea41c6310]\n\n[Image: dc6a9e04b892ffae01a7c4e1fda44f5da4e2f6a8f57fcd044cbcc3f0fa5c623f]\n\n1.4 - Cephalosporins\n[Image: b0ee60188020980c9ca1fee3403f12f3de6b38a960acb6dab4f74d7694bc03cb]\n\n[Image: baa9a42452ede300b4b20246eaf38bc2c1f71d244e0d82d4e5b1439dd976cf54]\n\n[Image: 602c1422ee0f9457e34f0ca3a0f1a24ba7d20a0e577996ff705ecdf7cccacc10]",
+        "imageIds": [
+            "aed3afefabed1d90f936c529257a98fc8df7d09f5fde9952aefb5d8a1d4a6a27",
+            "dbe6a2abb16cedc47fdbc81aea9b8f89bbec3e5c9e35c02b71257bbea41c6310",
+            "dc6a9e04b892ffae01a7c4e1fda44f5da4e2f6a8f57fcd044cbcc3f0fa5c623f",
+            "b0ee60188020980c9ca1fee3403f12f3de6b38a960acb6dab4f74d7694bc03cb",
+            "baa9a42452ede300b4b20246eaf38bc2c1f71d244e0d82d4e5b1439dd976cf54",
+            "602c1422ee0f9457e34f0ca3a0f1a24ba7d20a0e577996ff705ecdf7cccacc10"
+        ]
+    },
+    "images": {
+        "602c1422ee0f9457e34f0ca3a0f1a24ba7d20a0e577996ff705ecdf7cccacc10": {
+            "file": "images/602c1422ee0f9457e34f0ca3a0f1a24ba7d20a0e577996ff705ecdf7cccacc10.jpg",
+            "filename": "paste-62023622721539.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46598
+        },
+        "aed3afefabed1d90f936c529257a98fc8df7d09f5fde9952aefb5d8a1d4a6a27": {
+            "file": "images/aed3afefabed1d90f936c529257a98fc8df7d09f5fde9952aefb5d8a1d4a6a27.jpg",
+            "filename": "paste-101928163868675.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 42084
+        },
+        "b0ee60188020980c9ca1fee3403f12f3de6b38a960acb6dab4f74d7694bc03cb": {
+            "file": "images/b0ee60188020980c9ca1fee3403f12f3de6b38a960acb6dab4f74d7694bc03cb.jpg",
+            "filename": "paste-187273459007489.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 116817
+        },
+        "baa9a42452ede300b4b20246eaf38bc2c1f71d244e0d82d4e5b1439dd976cf54": {
+            "file": "images/baa9a42452ede300b4b20246eaf38bc2c1f71d244e0d82d4e5b1439dd976cf54.jpg",
+            "filename": "paste-58145267253251.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 98431
+        },
+        "dbe6a2abb16cedc47fdbc81aea9b8f89bbec3e5c9e35c02b71257bbea41c6310": {
+            "file": "images/dbe6a2abb16cedc47fdbc81aea9b8f89bbec3e5c9e35c02b71257bbea41c6310.jpg",
+            "filename": "paste-102529459290115.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46318
+        },
+        "dc6a9e04b892ffae01a7c4e1fda44f5da4e2f6a8f57fcd044cbcc3f0fa5c623f": {
+            "file": "images/dc6a9e04b892ffae01a7c4e1fda44f5da4e2f6a8f57fcd044cbcc3f0fa5c623f.jpg",
+            "filename": "paste-102271761252355.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43851
+        }
+    }
+}

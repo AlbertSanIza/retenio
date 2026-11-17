@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480834896627",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480834896627",
+        "noteId": "1480833587852",
+        "noteGuid": "uqQIy,Xsey",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::7 Antivirals: Hepatitis::7.2 - Ribavirin, sofosbuvir, simeprevir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(7)-Antivirals-Hepatitis::7.2-Ribavirin,Sofosbuvir,Simeprevir",
+        "$$Antimicrobials",
+        "$Antivirals_Hepatitis"
+    ],
+    "question": {
+        "text": "§\n\nHow is Ribavirin activated once in the cell?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nHow is Ribavirin activated once in the cell?\n\nPhosphorylation x3\n\n(Nucleoside ⇒ Nucleotide)\n\n[Image: 4194b1823dd46220534e8113c734ccce670519e47fc91738c8d1b5544ea1c0fa]\n\n7.2 - Ribavirin, sofosbuvir, simeprevir\n[Image: cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1]\n\n[Image: 27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc]\n\n[Image: c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81]\n\u001b\u001b",
+        "imageIds": [
+            "4194b1823dd46220534e8113c734ccce670519e47fc91738c8d1b5544ea1c0fa",
+            "cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1",
+            "27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc",
+            "c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81"
+        ]
+    },
+    "images": {
+        "27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc": {
+            "file": "images/27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc.jpg",
+            "filename": "paste-380113195630595.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70126
+        },
+        "4194b1823dd46220534e8113c734ccce670519e47fc91738c8d1b5544ea1c0fa": {
+            "file": "images/4194b1823dd46220534e8113c734ccce670519e47fc91738c8d1b5544ea1c0fa.jpg",
+            "filename": "paste-381302901571587.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46997
+        },
+        "c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81": {
+            "file": "images/c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81.jpg",
+            "filename": "paste-755235639263235.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 72171
+        },
+        "cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1": {
+            "file": "images/cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1.jpg",
+            "filename": "paste-308125248782337.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 122787
+        }
+    }
+}

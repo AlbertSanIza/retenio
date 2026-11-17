@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480287989679",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480287989679",
+        "noteId": "1480286851836",
+        "noteGuid": "uXl&+5/(rn",
+        "modelId": "1475688242543",
+        "templateOrdinal": 13
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::2 DNA & Cellular Division::2.1 - Cyclophosphamide, ifosfamide, busulifan, nitrosoureas (carmustine, lomustine, streptozocin)",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(2)-DNA_&_Cellular_Division::2.1-Cyclophosphamide,Busulfan,Nitrosoureas",
+        "$$Antineoplastics",
+        "$DNA_&_Cellular_Division"
+    ],
+    "question": {
+        "text": "§\n\nCell Cycle Specificity: Alkylating agents",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nCell Cycle Specificity: Alkylating agents\n\nCell cycle non-specific\n\n(Includes platinum analogs)\n\n[Image: 0441e3bc01bb7829ccc020dbf894e3230de1fe1473933a0872d852d5ba8ec0c4]\n\n2.1 - Cyclophosphamide, ifosfamide, busulfan, nitrosoureas (carmustine, lomustine, streptozocin)\n[Image: e7a45d4238dfec58284e8d77b5193bca605ac94634c0be183ab3a952da54522c]\n\n[Image: 5139224e271f489560439aa704474d6736dbc68de75aeb16bb61ba05a3db4414]\n\n[Image: e4b5939c955bd5aac8d660d774938712293554645ac90c867e9b4d6d33e582b5]",
+        "imageIds": [
+            "0441e3bc01bb7829ccc020dbf894e3230de1fe1473933a0872d852d5ba8ec0c4",
+            "e7a45d4238dfec58284e8d77b5193bca605ac94634c0be183ab3a952da54522c",
+            "5139224e271f489560439aa704474d6736dbc68de75aeb16bb61ba05a3db4414",
+            "e4b5939c955bd5aac8d660d774938712293554645ac90c867e9b4d6d33e582b5"
+        ]
+    },
+    "images": {
+        "0441e3bc01bb7829ccc020dbf894e3230de1fe1473933a0872d852d5ba8ec0c4": {
+            "file": "images/0441e3bc01bb7829ccc020dbf894e3230de1fe1473933a0872d852d5ba8ec0c4.jpg",
+            "filename": "paste-31447750541315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50986
+        },
+        "5139224e271f489560439aa704474d6736dbc68de75aeb16bb61ba05a3db4414": {
+            "file": "images/5139224e271f489560439aa704474d6736dbc68de75aeb16bb61ba05a3db4414.jpg",
+            "filename": "paste-183068686024707.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 30967
+        },
+        "e4b5939c955bd5aac8d660d774938712293554645ac90c867e9b4d6d33e582b5": {
+            "file": "images/e4b5939c955bd5aac8d660d774938712293554645ac90c867e9b4d6d33e582b5.jpg",
+            "filename": "paste-71386651426819.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 75698
+        },
+        "e7a45d4238dfec58284e8d77b5193bca605ac94634c0be183ab3a952da54522c": {
+            "file": "images/e7a45d4238dfec58284e8d77b5193bca605ac94634c0be183ab3a952da54522c.jpg",
+            "filename": "paste-359858129862657.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 136466
+        }
+    }
+}

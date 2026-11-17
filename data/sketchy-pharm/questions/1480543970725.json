@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480543970725",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480543970725",
+        "noteId": "1480543237615",
+        "noteGuid": "B[kX09:NFF",
+        "modelId": "1475688242543",
+        "templateOrdinal": 8
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.3 - Clindamycin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.3-Clindamycin",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "§\n\nTreatment: Polymicrobial infections of female genital tract",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nTreatment: Polymicrobial infections of female genital tract\n\nClindamycin + Gentimicin\n\n[Image: d2124b2faa51758562323c9f954341c0aa7e0f5ea4587ed69ac3d412069f97fb]\n\n[Image: d6c2414b1453e1f93867d086cdf32aac1fa33c1e334849a5033e949a18f5fe16]\n\n2.3 - Clindamycin\n[Image: 18c587d1640efcbcba7b8802080f4f9a27e5bee70ea1c52b9704b4e1d8287b90]\n\n[Image: 8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4]\n\n[Image: d787016b73464691c4ce54ae48bb893a89a4bf1064da4b3916681a81269bf1a6]",
+        "imageIds": [
+            "d2124b2faa51758562323c9f954341c0aa7e0f5ea4587ed69ac3d412069f97fb",
+            "d6c2414b1453e1f93867d086cdf32aac1fa33c1e334849a5033e949a18f5fe16",
+            "18c587d1640efcbcba7b8802080f4f9a27e5bee70ea1c52b9704b4e1d8287b90",
+            "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4",
+            "d787016b73464691c4ce54ae48bb893a89a4bf1064da4b3916681a81269bf1a6"
+        ]
+    },
+    "images": {
+        "18c587d1640efcbcba7b8802080f4f9a27e5bee70ea1c52b9704b4e1d8287b90": {
+            "file": "images/18c587d1640efcbcba7b8802080f4f9a27e5bee70ea1c52b9704b4e1d8287b90.jpg",
+            "filename": "paste-222492190834689.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 111874
+        },
+        "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4": {
+            "file": "images/8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4.jpg",
+            "filename": "paste-321710230339587.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 76271
+        },
+        "d2124b2faa51758562323c9f954341c0aa7e0f5ea4587ed69ac3d412069f97fb": {
+            "file": "images/d2124b2faa51758562323c9f954341c0aa7e0f5ea4587ed69ac3d412069f97fb.jpg",
+            "filename": "paste-16037407883267.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43982
+        },
+        "d6c2414b1453e1f93867d086cdf32aac1fa33c1e334849a5033e949a18f5fe16": {
+            "file": "images/d6c2414b1453e1f93867d086cdf32aac1fa33c1e334849a5033e949a18f5fe16.jpg",
+            "filename": "paste-16093242458115.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45014
+        },
+        "d787016b73464691c4ce54ae48bb893a89a4bf1064da4b3916681a81269bf1a6": {
+            "file": "images/d787016b73464691c4ce54ae48bb893a89a4bf1064da4b3916681a81269bf1a6.jpg",
+            "filename": "paste-402932356874243.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43532
+        }
+    }
+}

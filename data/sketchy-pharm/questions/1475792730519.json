@@ -1,0 +1,80 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475792730519",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475792730519",
+        "noteId": "1475792044077",
+        "noteGuid": "qVcCznMNv/",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::1 Sedative-hypnotics::1.1 - Benzodiazepines, flumazenil",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(1)-Sedatives_&_Hypnotics::1.1-Benzodiazepines,Flumazenil",
+        "$$Neuro/Psych",
+        "$Sedatives&Hypnotics"
+    ],
+    "question": {
+        "text": "§\n\nDescribe the temporal progression of alcohol withdrawal symptoms",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nDescribe the temporal progression of alcohol withdrawal symptoms\n\n(1) 08-12 hrs: Insomnia and autonomic instability\n(2)12-48 hrs: Seizures\n\n(3) 48-96 hrs: Delirium tremens\n\n[Image: 555fd00d258e527a1bae2fa25808fb22adfb121210a139937eea34f651be811a]\n\n[Image: 0fa55e1bc3fb2cd95dbc1338f8eb70bf496d876b7b608567bfe5fd10e46ec4bb]\n\n[Image: 095339569afe0272b1975a2897075948b7d9355d16e97cbcbb26568ec3dce113]\n\n1.1 - Benzodiazepines, flumazenil\n[Image: 4e88ed21ceda3eb601f618c259757a8a2e401804886af1e0a5a9e1f16a790e53]\n\n[Image: a66eed6c418709be79b1062e66a75dc7471c835fc46e5408c2303b5aaed14da5]\n\n[Image: 352c5155b8c949365e5a2e11e524f0170920455bbb8b8f89e7695d2bd33ca3d6]\n\n[Image: 0a123cff24ff7c544e384d03a0212151daeee6ed9b5a680e03395364d78deaa4]",
+        "imageIds": [
+            "555fd00d258e527a1bae2fa25808fb22adfb121210a139937eea34f651be811a",
+            "0fa55e1bc3fb2cd95dbc1338f8eb70bf496d876b7b608567bfe5fd10e46ec4bb",
+            "095339569afe0272b1975a2897075948b7d9355d16e97cbcbb26568ec3dce113",
+            "4e88ed21ceda3eb601f618c259757a8a2e401804886af1e0a5a9e1f16a790e53",
+            "a66eed6c418709be79b1062e66a75dc7471c835fc46e5408c2303b5aaed14da5",
+            "352c5155b8c949365e5a2e11e524f0170920455bbb8b8f89e7695d2bd33ca3d6",
+            "0a123cff24ff7c544e384d03a0212151daeee6ed9b5a680e03395364d78deaa4"
+        ]
+    },
+    "images": {
+        "095339569afe0272b1975a2897075948b7d9355d16e97cbcbb26568ec3dce113": {
+            "file": "images/095339569afe0272b1975a2897075948b7d9355d16e97cbcbb26568ec3dce113.jpg",
+            "filename": "paste-7048041332739 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56475
+        },
+        "0a123cff24ff7c544e384d03a0212151daeee6ed9b5a680e03395364d78deaa4": {
+            "file": "images/0a123cff24ff7c544e384d03a0212151daeee6ed9b5a680e03395364d78deaa4.jpg",
+            "filename": "paste-765672409792513.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 89948
+        },
+        "0fa55e1bc3fb2cd95dbc1338f8eb70bf496d876b7b608567bfe5fd10e46ec4bb": {
+            "file": "images/0fa55e1bc3fb2cd95dbc1338f8eb70bf496d876b7b608567bfe5fd10e46ec4bb.jpg",
+            "filename": "paste-6987911790595.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54478
+        },
+        "352c5155b8c949365e5a2e11e524f0170920455bbb8b8f89e7695d2bd33ca3d6": {
+            "file": "images/352c5155b8c949365e5a2e11e524f0170920455bbb8b8f89e7695d2bd33ca3d6.jpg",
+            "filename": "paste-674159541616643.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 38061
+        },
+        "4e88ed21ceda3eb601f618c259757a8a2e401804886af1e0a5a9e1f16a790e53": {
+            "file": "images/4e88ed21ceda3eb601f618c259757a8a2e401804886af1e0a5a9e1f16a790e53.jpg",
+            "filename": "paste-773046868639745.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 130900
+        },
+        "555fd00d258e527a1bae2fa25808fb22adfb121210a139937eea34f651be811a": {
+            "file": "images/555fd00d258e527a1bae2fa25808fb22adfb121210a139937eea34f651be811a.jpg",
+            "filename": "paste-6893422510083.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55154
+        },
+        "a66eed6c418709be79b1062e66a75dc7471c835fc46e5408c2303b5aaed14da5": {
+            "file": "images/a66eed6c418709be79b1062e66a75dc7471c835fc46e5408c2303b5aaed14da5.jpg",
+            "filename": "paste-761879953670145.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 88594
+        }
+    }
+}

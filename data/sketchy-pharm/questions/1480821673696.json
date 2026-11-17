@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480821673696",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480821673696",
+        "noteId": "1480821057791",
+        "noteGuid": "dR)O:O`t)>",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::4 Other Antibiotics::4.2 - Fluoroquinolones",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(4)-Other_Antibiotics::4.2-Flouroquinolones",
+        "$$Antimicrobials",
+        "$Other_Antibiotics"
+    ],
+    "question": {
+        "text": "§\n\nName 2 Flouroquinolones which can be used to treat a UTI caused by Pseudomonas",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nName 2 Flouroquinolones which can be used to treat a UTI caused by Pseudomonas\n\n(1) Levofloxacin\n(2) Ciprofloxacin\n\n[Image: ca0ee3a3fd9d61637196e600c0fc3bd3c63aebee67b938eb21f163fb1384658f]\n\n[Image: c03d9bd5adedf66eea58329c8b661cd45632265954710af8377c71049338bda3]\n\n4.2 - Fluoroquinolones\n[Image: 46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1]\n\n[Image: 84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810]\n\n[Image: 1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff]",
+        "imageIds": [
+            "ca0ee3a3fd9d61637196e600c0fc3bd3c63aebee67b938eb21f163fb1384658f",
+            "c03d9bd5adedf66eea58329c8b661cd45632265954710af8377c71049338bda3",
+            "46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1",
+            "84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810",
+            "1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff"
+        ]
+    },
+    "images": {
+        "1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff": {
+            "file": "images/1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff.jpg",
+            "filename": "paste-418875275476995.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59243
+        },
+        "46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1": {
+            "file": "images/46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1.jpg",
+            "filename": "paste-257496174297089.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 119195
+        },
+        "84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810": {
+            "file": "images/84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810.jpg",
+            "filename": "paste-348472171560963.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 67900
+        },
+        "c03d9bd5adedf66eea58329c8b661cd45632265954710af8377c71049338bda3": {
+            "file": "images/c03d9bd5adedf66eea58329c8b661cd45632265954710af8377c71049338bda3.jpg",
+            "filename": "paste-41910290874369.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51345
+        },
+        "ca0ee3a3fd9d61637196e600c0fc3bd3c63aebee67b938eb21f163fb1384658f": {
+            "file": "images/ca0ee3a3fd9d61637196e600c0fc3bd3c63aebee67b938eb21f163fb1384658f.jpg",
+            "filename": "paste-225185135329283.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34523
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475732239204",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475732239204",
+        "noteId": "1475731410843",
+        "noteGuid": "KE^F%)4EQ[",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.4 - Beta blockers",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.4-Beta_Drugs",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "§\n\nTreatment: β-blocker poisoning",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nTreatment: β-blocker poisoning\n\nGlucagon\n\n(+ atropine)\n\n[Image: 3b1d012f33aeb19ba0d7b48544bd04b4022530b215f289541460fc7166b72a2f]\n\n2.4 - Beta blockers\n[Image: ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98]\n\n[Image: 0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173]\n\n[Image: 6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6]",
+        "imageIds": [
+            "3b1d012f33aeb19ba0d7b48544bd04b4022530b215f289541460fc7166b72a2f",
+            "ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98",
+            "0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173",
+            "6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6"
+        ]
+    },
+    "images": {
+        "0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173": {
+            "file": "images/0d615c77fa6366276a69d32e5bb5d0ac9f546f7d8f2e5fafa57316b53fb29173.jpg",
+            "filename": "paste-302687820185603.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 107698
+        },
+        "3b1d012f33aeb19ba0d7b48544bd04b4022530b215f289541460fc7166b72a2f": {
+            "file": "images/3b1d012f33aeb19ba0d7b48544bd04b4022530b215f289541460fc7166b72a2f.jpg",
+            "filename": "paste-40359807680515.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60841
+        },
+        "6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6": {
+            "file": "images/6a2c23976878d6e3e7ce484257c92a7c24f852e2dec4b90011f25ff57fb82cf6.jpg",
+            "filename": "paste-305681412390915.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 63928
+        },
+        "ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98": {
+            "file": "images/ef62cd0c6c3c0ea16a580dc9550e9d32483cbf19c56912a391e9d23ed6118d98.jpg",
+            "filename": "paste-438146793734145.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 122524
+        }
+    }
+}

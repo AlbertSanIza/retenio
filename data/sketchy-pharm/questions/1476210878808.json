@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476210878808",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476210878808",
+        "noteId": "1476210297974",
+        "noteGuid": "n:FNxZoP&d",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.1 - Acetazolamide, mannitol",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.1-Acetazolamide",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "§\n\nWhat acid/base disorder does Acetazolamide cause?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat acid/base disorder does Acetazolamide cause?\n\nNormal anion gap metabolic acidosis\n\n(Remember, anion gap acidosis is due to production of volatile organic acids such as in diabetic ketoacidosis)\n\n[Image: 5242187d47e06f71c02a393953ec9710f1b5b8038780d9a09b0537a46c9d4201]\n\n2.1 - Acetazolamide, mannitol\n[Image: c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311]\n\n[Image: 61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650]\n\n[Image: b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b]",
+        "imageIds": [
+            "5242187d47e06f71c02a393953ec9710f1b5b8038780d9a09b0537a46c9d4201",
+            "c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311",
+            "61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650",
+            "b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b"
+        ]
+    },
+    "images": {
+        "5242187d47e06f71c02a393953ec9710f1b5b8038780d9a09b0537a46c9d4201": {
+            "file": "images/5242187d47e06f71c02a393953ec9710f1b5b8038780d9a09b0537a46c9d4201.jpg",
+            "filename": "paste-52918292054019.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50578
+        },
+        "61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650": {
+            "file": "images/61f8a0910486f3c71a4efb2db6dbb10d3bbc0bb7fb66229bb099924aa115e650.jpg",
+            "filename": "paste-193866233806851.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57827
+        },
+        "b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b": {
+            "file": "images/b76e775466426f4d4e1061c1f6bca824ec6b4d679966f6f7153af8a9243e768b.jpg",
+            "filename": "paste-195395242164227.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 82442
+        },
+        "c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311": {
+            "file": "images/c346f1e1d5cb39cc059e5bd608d36a8812b1c3b530d0e01775017287fe4fe311.jpg",
+            "filename": "paste-612616955232257.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 146047
+        }
+    }
+}

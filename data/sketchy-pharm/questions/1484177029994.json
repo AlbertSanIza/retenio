@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484177029994",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484177029994",
+        "noteId": "1484175022469",
+        "noteGuid": "L&Kl!{]`hQ",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::4 Mood Stabilizers & Antiepileptic Drugs::4.6 - Ethosuximide",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(4)-Mood_Stabilizers_&_Antiepileptics::4.4-Ethosuximide",
+        "$$Neuro/Psych",
+        "$Mood_Stabilizers_&_Antiepileptics"
+    ],
+    "question": {
+        "text": "§\n\nHow do abscence seizures manifest on EEG?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nHow do abscence seizures manifest on EEG?\n\n3 Hz spikes\n\n(Similarily, Cretuzfeld-Jakob disease shows periodic synchronous sharp wave complexes)\n\n[Image: e6cfd2886532fa6a19a50c6e461475db6a9b0190c46e0721bd46c2e7a2f30b27]\n\n4.4 - Ethosuximide\n[Image: a9420e1faaa2ea538a1b416d2dcf6fb3f421f9616b885d26dde79c82bb7cc20b]\n\n[Image: 2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a]\n\n[Image: fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5]",
+        "imageIds": [
+            "e6cfd2886532fa6a19a50c6e461475db6a9b0190c46e0721bd46c2e7a2f30b27",
+            "a9420e1faaa2ea538a1b416d2dcf6fb3f421f9616b885d26dde79c82bb7cc20b",
+            "2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a",
+            "fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5"
+        ]
+    },
+    "images": {
+        "2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a": {
+            "file": "images/2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a.jpg",
+            "filename": "paste-688547682058243.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 102555
+        },
+        "a9420e1faaa2ea538a1b416d2dcf6fb3f421f9616b885d26dde79c82bb7cc20b": {
+            "file": "images/a9420e1faaa2ea538a1b416d2dcf6fb3f421f9616b885d26dde79c82bb7cc20b.jpg",
+            "filename": "paste-803519661604867.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 87637
+        },
+        "e6cfd2886532fa6a19a50c6e461475db6a9b0190c46e0721bd46c2e7a2f30b27": {
+            "file": "images/e6cfd2886532fa6a19a50c6e461475db6a9b0190c46e0721bd46c2e7a2f30b27.jpg",
+            "filename": "paste-803944863367171.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 73059
+        },
+        "fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5": {
+            "file": "images/fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5.jpg",
+            "filename": "paste-69565585293315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 91284
+        }
+    }
+}

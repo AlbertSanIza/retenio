@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480834896628",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480834896628",
+        "noteId": "1480833587852",
+        "noteGuid": "uqQIy,Xsey",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::7 Antivirals: Hepatitis::7.2 - Ribavirin, sofosbuvir, simeprevir",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(7)-Antivirals-Hepatitis::7.2-Ribavirin,Sofosbuvir,Simeprevir",
+        "$$Antimicrobials",
+        "$Antivirals_Hepatitis"
+    ],
+    "question": {
+        "text": "§\n\nAdverse Effects (2) : Ribavirin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nAdverse Effects (2) : Ribavirin\n\n(1) Hemolytic anemia\n(2) Teratogen\n\n(Hemolytic anemia is dose dependent)\n\n[Image: b5a8afea2c932f3495a18b9c714907ca339bd1e16fe599563ce410ecf170e6bd]\n\n[Image: c7d4055c1dee02d1db6b5879d1bb248d66473558511c4043d34ef8a4b10f3c6f]\n\n7.2 - Ribavirin, sofosbuvir, simeprevir\n[Image: cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1]\n\n[Image: 27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc]\n\n[Image: c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81]\n\u001b\u001b",
+        "imageIds": [
+            "b5a8afea2c932f3495a18b9c714907ca339bd1e16fe599563ce410ecf170e6bd",
+            "c7d4055c1dee02d1db6b5879d1bb248d66473558511c4043d34ef8a4b10f3c6f",
+            "cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1",
+            "27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc",
+            "c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81"
+        ]
+    },
+    "images": {
+        "27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc": {
+            "file": "images/27a1a2a494f8ed1232a2676a9f910c0b0a6f703d36d4f91ecae38ec2913ed1dc.jpg",
+            "filename": "paste-380113195630595.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70126
+        },
+        "b5a8afea2c932f3495a18b9c714907ca339bd1e16fe599563ce410ecf170e6bd": {
+            "file": "images/b5a8afea2c932f3495a18b9c714907ca339bd1e16fe599563ce410ecf170e6bd.jpg",
+            "filename": "paste-381513354969091.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46949
+        },
+        "c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81": {
+            "file": "images/c6766548cc9f370dcb2ec69ae5b8a1fda6c7197e8ef402d03f1829d514bd1f81.jpg",
+            "filename": "paste-755235639263235.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 72171
+        },
+        "c7d4055c1dee02d1db6b5879d1bb248d66473558511c4043d34ef8a4b10f3c6f": {
+            "file": "images/c7d4055c1dee02d1db6b5879d1bb248d66473558511c4043d34ef8a4b10f3c6f.jpg",
+            "filename": "paste-11476152614915.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 86105
+        },
+        "cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1": {
+            "file": "images/cec75d06164c5d181af4a1b564399151ed9464a1dd52468038485986260130b1.jpg",
+            "filename": "paste-308125248782337.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 122787
+        }
+    }
+}

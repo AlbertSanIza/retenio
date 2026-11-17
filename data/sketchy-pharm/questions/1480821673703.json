@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480821673703",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480821673703",
+        "noteId": "1480821057791",
+        "noteGuid": "dR)O:O`t)>",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::4 Other Antibiotics::4.2 - Fluoroquinolones",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(4)-Other_Antibiotics::4.2-Flouroquinolones",
+        "$$Antimicrobials",
+        "$Other_Antibiotics"
+    ],
+    "question": {
+        "text": "§\n\nIn what age group are Flouroquinolones contraindicated?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nIn what age group are Flouroquinolones contraindicated?\n\n<10\n\n[Image: 4036fd44ef0b5749cb43efa386cfc4ddbfe7af01726c13eb878ce24d0e1d03b5]\n\n4.2 - Fluoroquinolones\n[Image: 46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1]\n\n[Image: 84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810]\n\n[Image: 1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff]",
+        "imageIds": [
+            "4036fd44ef0b5749cb43efa386cfc4ddbfe7af01726c13eb878ce24d0e1d03b5",
+            "46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1",
+            "84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810",
+            "1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff"
+        ]
+    },
+    "images": {
+        "1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff": {
+            "file": "images/1cff7f75e0b30b44a7dcf902eb934988d4f3f3c5f1970ef69c0311ac9d2584ff.jpg",
+            "filename": "paste-418875275476995.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59243
+        },
+        "4036fd44ef0b5749cb43efa386cfc4ddbfe7af01726c13eb878ce24d0e1d03b5": {
+            "file": "images/4036fd44ef0b5749cb43efa386cfc4ddbfe7af01726c13eb878ce24d0e1d03b5.jpg",
+            "filename": "paste-235239653769219.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50759
+        },
+        "46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1": {
+            "file": "images/46c74c3ea3f456592cfaaae9068a76cfe5cdf1810ed812019ee6234708547ce1.jpg",
+            "filename": "paste-257496174297089.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 119195
+        },
+        "84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810": {
+            "file": "images/84c068f27edf2c675d224e16a984c1ea030558d4caafaf90a1f4617b09fcb810.jpg",
+            "filename": "paste-348472171560963.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 67900
+        }
+    }
+}

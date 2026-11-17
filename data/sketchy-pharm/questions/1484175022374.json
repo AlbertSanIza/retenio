@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484175022374",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484175022374",
+        "noteId": "1484174506748",
+        "noteGuid": "zAes]>XXQ1",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::4 Mood Stabilizers & Antiepileptic Drugs::4.4 - Carbamazepine, phenytoin, gabapentin, tiagabine, vigabatrin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(4)-Mood_Stabilizers_&_Antiepileptics::4.3-Carbamazepine,Phenytoin,Gabapentin,Tiagabine,Vigabatrin",
+        "$$Neuro/Psych",
+        "$Mood_Stabilizers_&_Antiepileptics"
+    ],
+    "question": {
+        "text": "§\n\nTreatment: Trigeminal neuralgia",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nTreatment: Trigeminal neuralgia\n\nCarbamazepine\n\n[Image: 2a34cf0939a82758f066142ebc0ad0d06e047218b8bf61a95d5cde0b216fafe1]\n\n4.3 - Carbamazepine, phenytoin, gabapentin, tiagabine, vigabatrin\n[Image: 72a6b493f768ad440d5bb2213cac7f737a4f044ed795c848207a711443df075b]\n\n[Image: c3043f3c2f396c1132e341dc2c19a439589ba89eef0f5980c4f478d378b35668]\n\n[Image: 2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a]\n\n[Image: fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5]",
+        "imageIds": [
+            "2a34cf0939a82758f066142ebc0ad0d06e047218b8bf61a95d5cde0b216fafe1",
+            "72a6b493f768ad440d5bb2213cac7f737a4f044ed795c848207a711443df075b",
+            "c3043f3c2f396c1132e341dc2c19a439589ba89eef0f5980c4f478d378b35668",
+            "2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a",
+            "fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5"
+        ]
+    },
+    "images": {
+        "2a34cf0939a82758f066142ebc0ad0d06e047218b8bf61a95d5cde0b216fafe1": {
+            "file": "images/2a34cf0939a82758f066142ebc0ad0d06e047218b8bf61a95d5cde0b216fafe1.jpg",
+            "filename": "paste-698700984745987.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65205
+        },
+        "2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a": {
+            "file": "images/2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a.jpg",
+            "filename": "paste-688547682058243.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 102555
+        },
+        "72a6b493f768ad440d5bb2213cac7f737a4f044ed795c848207a711443df075b": {
+            "file": "images/72a6b493f768ad440d5bb2213cac7f737a4f044ed795c848207a711443df075b.jpg",
+            "filename": "paste-696050989924355.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 96699
+        },
+        "c3043f3c2f396c1132e341dc2c19a439589ba89eef0f5980c4f478d378b35668": {
+            "file": "images/c3043f3c2f396c1132e341dc2c19a439589ba89eef0f5980c4f478d378b35668.jpg",
+            "filename": "paste-60975650701315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70945
+        },
+        "fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5": {
+            "file": "images/fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5.jpg",
+            "filename": "paste-69565585293315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 91284
+        }
+    }
+}

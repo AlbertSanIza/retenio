@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475794790565",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475794790565",
+        "noteId": "1475793971812",
+        "noteGuid": "lxQq)Zvao+",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::3 Antidepressants & Anxiolytics::3.1 - SSRIs, SNRIs, cyproheptadine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(3)-Antidepressants_&_Anxiolytics::3.1-SSRIs,SNRIs,Cyproheptadine",
+        "$$Neuro/Psych",
+        "$Antidepressants&Anxiolytics"
+    ],
+    "question": {
+        "text": "§\n\nIndications (3) : SSRIs (not SNRIs)",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nIndications (3) : SSRIs (not SNRIs)\n\n(1) OCD\n(2) Bulimia\n\n(3) Social anxiety disorder\n\n[Image: c965793853344122b2048c05b871ba2e70fa7c4684ebcca9865c7bc430907864]\n\n[Image: fbb8ce7240912671f9ad7a05bb73d665da1f44cfb68e315e22e58b6fd96e5ca6]\n\n[Image: 7d50fc9944df48b64f7cf02517b94f5a68b4f6af80e1429ccf9e5c91908ae889]\n\n3.1 - SSRIs, SNRIs, cyproheptadine\n[Image: ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6]\n\n[Image: 7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943]\n\n[Image: 8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1]",
+        "imageIds": [
+            "c965793853344122b2048c05b871ba2e70fa7c4684ebcca9865c7bc430907864",
+            "fbb8ce7240912671f9ad7a05bb73d665da1f44cfb68e315e22e58b6fd96e5ca6",
+            "7d50fc9944df48b64f7cf02517b94f5a68b4f6af80e1429ccf9e5c91908ae889",
+            "ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6",
+            "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943",
+            "8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1"
+        ]
+    },
+    "images": {
+        "7d50fc9944df48b64f7cf02517b94f5a68b4f6af80e1429ccf9e5c91908ae889": {
+            "file": "images/7d50fc9944df48b64f7cf02517b94f5a68b4f6af80e1429ccf9e5c91908ae889.jpg",
+            "filename": "paste-13168369729539.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60941
+        },
+        "7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943": {
+            "file": "images/7fede1d69de6751351f3eae18a1417ff2c60cb80624efa0566fa674d70405943.jpg",
+            "filename": "paste-1171594063904771.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 89818
+        },
+        "8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1": {
+            "file": "images/8e7c06d59694439f139517452fd7c89d9b1ef4e7d648384f08838558ba6f9aa1.jpg",
+            "filename": "paste-21088289423363 (2).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 92436
+        },
+        "ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6": {
+            "file": "images/ab726e5e0df77cd4e10f7774bf923f3ee4029ac50fecc0b2bd75072d4c364cf6.jpg",
+            "filename": "paste-1134098999410689.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 142260
+        },
+        "c965793853344122b2048c05b871ba2e70fa7c4684ebcca9865c7bc430907864": {
+            "file": "images/c965793853344122b2048c05b871ba2e70fa7c4684ebcca9865c7bc430907864.jpg",
+            "filename": "paste-12850542149635.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 57863
+        },
+        "fbb8ce7240912671f9ad7a05bb73d665da1f44cfb68e315e22e58b6fd96e5ca6": {
+            "file": "images/fbb8ce7240912671f9ad7a05bb73d665da1f44cfb68e315e22e58b6fd96e5ca6.jpg",
+            "filename": "paste-13082470383619.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 59941
+        }
+    }
+}

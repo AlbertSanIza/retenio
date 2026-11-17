@@ -1,0 +1,99 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484181002847",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484181002847",
+        "noteId": "1484177226936",
+        "noteGuid": "bOwj4X6^p=",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::0 Putting It Together",
+    "tags": [
+        "#SketchyPharm",
+        "$$Putting_It_Together"
+    ],
+    "question": {
+        "text": "§\n\nDrugs/drug classes (3) : Hyperpigmentation",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nDrugs/drug classes (3) : Hyperpigmentation\n\n(1) Bleomycin\n(2) Busulfan\n\n(3) Emtricitabine\n\n[Image: edffafcf1984e445c0d4e0f91e1df9bce4af7db401742a71dbedd66115ec99e4]\n\n[Image: 5ce06c26ed29735f29acdcf62c5674cc469d6c5d5f21647fc8ff06adc45b8bfd]\n\n[Image: e0560b5e404f24da63af6e45145dc68287acdcae226b165944a7e823be051473]\n\n[Image: dd9c0edbd70a21006d6c42be44229b40b434e4ee08b47e5fcc3f9b497d3d950e]\n\n[Image: 26f633c27bf3d6357b306df6ef9bf603457fef8eaf8821c73fe5cfe61b236492]\n\n[Image: ce9db69f3c749f042eef20eeaf121b1c922794a0df95382a58a61b2656344536]\n\n[Image: a0dada25a2eb7990137914b35251f810de2ba41ff585768b13a91083ec2e6048]\n\n[Image: 4f64e310c4e8ed6defaa6d894e6b8939f068f06ce28ba6c50885c02530b295a6]\n\n[Image: a96d16e2833705c8324c26c25969765f35219c03686a0c51a0318527003621f3]\n\n[Image: 682f81e19ac02b0908c8da45efd0755c1eb6ea30c28041b09affedec098ccf7d]",
+        "imageIds": [
+            "edffafcf1984e445c0d4e0f91e1df9bce4af7db401742a71dbedd66115ec99e4",
+            "5ce06c26ed29735f29acdcf62c5674cc469d6c5d5f21647fc8ff06adc45b8bfd",
+            "e0560b5e404f24da63af6e45145dc68287acdcae226b165944a7e823be051473",
+            "dd9c0edbd70a21006d6c42be44229b40b434e4ee08b47e5fcc3f9b497d3d950e",
+            "26f633c27bf3d6357b306df6ef9bf603457fef8eaf8821c73fe5cfe61b236492",
+            "ce9db69f3c749f042eef20eeaf121b1c922794a0df95382a58a61b2656344536",
+            "a0dada25a2eb7990137914b35251f810de2ba41ff585768b13a91083ec2e6048",
+            "4f64e310c4e8ed6defaa6d894e6b8939f068f06ce28ba6c50885c02530b295a6",
+            "a96d16e2833705c8324c26c25969765f35219c03686a0c51a0318527003621f3",
+            "682f81e19ac02b0908c8da45efd0755c1eb6ea30c28041b09affedec098ccf7d"
+        ]
+    },
+    "images": {
+        "26f633c27bf3d6357b306df6ef9bf603457fef8eaf8821c73fe5cfe61b236492": {
+            "file": "images/26f633c27bf3d6357b306df6ef9bf603457fef8eaf8821c73fe5cfe61b236492.jpg",
+            "filename": "paste-902750586011651.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 20723
+        },
+        "4f64e310c4e8ed6defaa6d894e6b8939f068f06ce28ba6c50885c02530b295a6": {
+            "file": "images/4f64e310c4e8ed6defaa6d894e6b8939f068f06ce28ba6c50885c02530b295a6.jpg",
+            "filename": "paste-902857960194051.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 39165
+        },
+        "5ce06c26ed29735f29acdcf62c5674cc469d6c5d5f21647fc8ff06adc45b8bfd": {
+            "file": "images/5ce06c26ed29735f29acdcf62c5674cc469d6c5d5f21647fc8ff06adc45b8bfd.jpg",
+            "filename": "paste-30240864731139.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55436
+        },
+        "682f81e19ac02b0908c8da45efd0755c1eb6ea30c28041b09affedec098ccf7d": {
+            "file": "images/682f81e19ac02b0908c8da45efd0755c1eb6ea30c28041b09affedec098ccf7d.jpg",
+            "filename": "paste-903008284049411.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 31306
+        },
+        "a0dada25a2eb7990137914b35251f810de2ba41ff585768b13a91083ec2e6048": {
+            "file": "images/a0dada25a2eb7990137914b35251f810de2ba41ff585768b13a91083ec2e6048.jpg",
+            "filename": "paste-902815010521091.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43234
+        },
+        "a96d16e2833705c8324c26c25969765f35219c03686a0c51a0318527003621f3": {
+            "file": "images/a96d16e2833705c8324c26c25969765f35219c03686a0c51a0318527003621f3.jpg",
+            "filename": "paste-902935269605379.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55008
+        },
+        "ce9db69f3c749f042eef20eeaf121b1c922794a0df95382a58a61b2656344536": {
+            "file": "images/ce9db69f3c749f042eef20eeaf121b1c922794a0df95382a58a61b2656344536.jpg",
+            "filename": "paste-902780650782723.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34979
+        },
+        "dd9c0edbd70a21006d6c42be44229b40b434e4ee08b47e5fcc3f9b497d3d950e": {
+            "file": "images/dd9c0edbd70a21006d6c42be44229b40b434e4ee08b47e5fcc3f9b497d3d950e.jpg",
+            "filename": "paste-902724816207875.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 19613
+        },
+        "e0560b5e404f24da63af6e45145dc68287acdcae226b165944a7e823be051473": {
+            "file": "images/e0560b5e404f24da63af6e45145dc68287acdcae226b165944a7e823be051473.jpg",
+            "filename": "paste-41085657153539.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 113161
+        },
+        "edffafcf1984e445c0d4e0f91e1df9bce4af7db401742a71dbedd66115ec99e4": {
+            "file": "images/edffafcf1984e445c0d4e0f91e1df9bce4af7db401742a71dbedd66115ec99e4.jpg",
+            "filename": "paste-41639707934723.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46379
+        }
+    }
+}

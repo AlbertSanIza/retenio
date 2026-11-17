@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476238755348",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476238755348",
+        "noteId": "1476236480934",
+        "noteGuid": "cj@yKLEX0c",
+        "modelId": "1475688242543",
+        "templateOrdinal": 14
+    },
+    "deck": "Sketchy Pharm::2 Cardiovascular & Renal::2 Diuretics::2.4 - K+ sparing diuretics",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Cardiovascular_&_Renal::(2)-Diuretics::2.4-Potassium_Sparing_Diuretics",
+        "$$Cardiovascular_&_Renal",
+        "$Diuretics"
+    ],
+    "question": {
+        "text": "§\n\nAdverse Effects (2) : K+ sparing diuretics",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nAdverse Effects (2) : K+ sparing diuretics\n\n(1) Hyperkalemia\n(2) Normal anion gap metabolic acidosis\n\n[Image: d3cbb4e0a5b99094593498129a2796d2454487d5147a2e540d34efcbc355bae0]\n\n[Image: 96042e3316eb28b80fca5dda0fd5874da4e1e57c60cbd59b7ca7086058388fd0]\n\n2.4 - K+ sparing diuretics\n[Image: e48404dc4b1dabc8844727f0c583d447f593652e51b1fec406a312d1f676c15f]\n\n[Image: 2eb705d63a82b4c062b3184f2a2d03fa393d8e39a9d14cc01e71171806a6c4b2]\n\n[Image: 54dfcadb639ffc739a45b5467bbff497d037b50dd4fdf8e718dc5199e7f0a525]",
+        "imageIds": [
+            "d3cbb4e0a5b99094593498129a2796d2454487d5147a2e540d34efcbc355bae0",
+            "96042e3316eb28b80fca5dda0fd5874da4e1e57c60cbd59b7ca7086058388fd0",
+            "e48404dc4b1dabc8844727f0c583d447f593652e51b1fec406a312d1f676c15f",
+            "2eb705d63a82b4c062b3184f2a2d03fa393d8e39a9d14cc01e71171806a6c4b2",
+            "54dfcadb639ffc739a45b5467bbff497d037b50dd4fdf8e718dc5199e7f0a525"
+        ]
+    },
+    "images": {
+        "2eb705d63a82b4c062b3184f2a2d03fa393d8e39a9d14cc01e71171806a6c4b2": {
+            "file": "images/2eb705d63a82b4c062b3184f2a2d03fa393d8e39a9d14cc01e71171806a6c4b2.jpg",
+            "filename": "paste-210702505607171.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54582
+        },
+        "54dfcadb639ffc739a45b5467bbff497d037b50dd4fdf8e718dc5199e7f0a525": {
+            "file": "images/54dfcadb639ffc739a45b5467bbff497d037b50dd4fdf8e718dc5199e7f0a525.jpg",
+            "filename": "paste-198809741164547.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70593
+        },
+        "96042e3316eb28b80fca5dda0fd5874da4e1e57c60cbd59b7ca7086058388fd0": {
+            "file": "images/96042e3316eb28b80fca5dda0fd5874da4e1e57c60cbd59b7ca7086058388fd0.jpg",
+            "filename": "paste-117591909597187.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65491
+        },
+        "d3cbb4e0a5b99094593498129a2796d2454487d5147a2e540d34efcbc355bae0": {
+            "file": "images/d3cbb4e0a5b99094593498129a2796d2454487d5147a2e540d34efcbc355bae0.jpg",
+            "filename": "paste-117467355545603.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 69032
+        },
+        "e48404dc4b1dabc8844727f0c583d447f593652e51b1fec406a312d1f676c15f": {
+            "file": "images/e48404dc4b1dabc8844727f0c583d447f593652e51b1fec406a312d1f676c15f.jpg",
+            "filename": "paste-628748852396033.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 168885
+        }
+    }
+}

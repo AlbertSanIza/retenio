@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480308394943",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480308394943",
+        "noteId": "1480307995792",
+        "noteGuid": "llJTLT7ctu",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.2 - NNRTIs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.2-NNRTIs",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "§\n\nWhich class of HIV drugs should be avoided in pregnancy?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhich class of HIV drugs should be avoided in pregnancy?\n\nNNRTIs\n\n(Nevirapine is not contraindicated)\n\n[Image: edbdf8a1218085c0906779fc65e36f15552e6986c91ca06918ebd5f3bbec22a2]\n\n6.2 - NNRTI\u001b\n[Image: 6e4e85cbbd0e2b918a5c150a391f96aab11a292aa42b9523fc1e2e45a413d339]\n\n[Image: be98b4216c5d68e50cd98a0356a889ff0864cfa2016f168995903e3ecf166d4a]",
+        "imageIds": [
+            "edbdf8a1218085c0906779fc65e36f15552e6986c91ca06918ebd5f3bbec22a2",
+            "6e4e85cbbd0e2b918a5c150a391f96aab11a292aa42b9523fc1e2e45a413d339",
+            "be98b4216c5d68e50cd98a0356a889ff0864cfa2016f168995903e3ecf166d4a"
+        ]
+    },
+    "images": {
+        "6e4e85cbbd0e2b918a5c150a391f96aab11a292aa42b9523fc1e2e45a413d339": {
+            "file": "images/6e4e85cbbd0e2b918a5c150a391f96aab11a292aa42b9523fc1e2e45a413d339.jpg",
+            "filename": "paste-289566695096321.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 138607
+        },
+        "be98b4216c5d68e50cd98a0356a889ff0864cfa2016f168995903e3ecf166d4a": {
+            "file": "images/be98b4216c5d68e50cd98a0356a889ff0864cfa2016f168995903e3ecf166d4a.jpg",
+            "filename": "paste-544193831239683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 19209
+        },
+        "edbdf8a1218085c0906779fc65e36f15552e6986c91ca06918ebd5f3bbec22a2": {
+            "file": "images/edbdf8a1218085c0906779fc65e36f15552e6986c91ca06918ebd5f3bbec22a2.jpg",
+            "filename": "paste-119601954291715.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61766
+        }
+    }
+}

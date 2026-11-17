@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484176024142",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484176024142",
+        "noteId": "1484174506748",
+        "noteGuid": "zAes]>XXQ1",
+        "modelId": "1475688242543",
+        "templateOrdinal": 12
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::4 Mood Stabilizers & Antiepileptic Drugs::4.4 - Carbamazepine, phenytoin, gabapentin, tiagabine, vigabatrin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(4)-Mood_Stabilizers_&_Antiepileptics::4.3-Carbamazepine,Phenytoin,Gabapentin,Tiagabine,Vigabatrin",
+        "$$Neuro/Psych",
+        "$Mood_Stabilizers_&_Antiepileptics"
+    ],
+    "question": {
+        "text": "§\n\nAdverse Effect: Gabapentin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nAdverse Effect: Gabapentin\n\nAtaxia\n\n[Image: b655a6da3308222b88b638f78972a89e428e417ee02c56414792b8e96ca84adc]\n\n4.3 - Carbamazepine, phenytoin, gabapentin, tiagabine, vigabatrin\n[Image: 72a6b493f768ad440d5bb2213cac7f737a4f044ed795c848207a711443df075b]\n\n[Image: c3043f3c2f396c1132e341dc2c19a439589ba89eef0f5980c4f478d378b35668]\n\n[Image: 2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a]\n\n[Image: fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5]",
+        "imageIds": [
+            "b655a6da3308222b88b638f78972a89e428e417ee02c56414792b8e96ca84adc",
+            "72a6b493f768ad440d5bb2213cac7f737a4f044ed795c848207a711443df075b",
+            "c3043f3c2f396c1132e341dc2c19a439589ba89eef0f5980c4f478d378b35668",
+            "2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a",
+            "fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5"
+        ]
+    },
+    "images": {
+        "2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a": {
+            "file": "images/2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a.jpg",
+            "filename": "paste-688547682058243.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 102555
+        },
+        "72a6b493f768ad440d5bb2213cac7f737a4f044ed795c848207a711443df075b": {
+            "file": "images/72a6b493f768ad440d5bb2213cac7f737a4f044ed795c848207a711443df075b.jpg",
+            "filename": "paste-696050989924355.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 96699
+        },
+        "b655a6da3308222b88b638f78972a89e428e417ee02c56414792b8e96ca84adc": {
+            "file": "images/b655a6da3308222b88b638f78972a89e428e417ee02c56414792b8e96ca84adc.jpg",
+            "filename": "paste-780837939314691.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 87758
+        },
+        "c3043f3c2f396c1132e341dc2c19a439589ba89eef0f5980c4f478d378b35668": {
+            "file": "images/c3043f3c2f396c1132e341dc2c19a439589ba89eef0f5980c4f478d378b35668.jpg",
+            "filename": "paste-60975650701315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70945
+        },
+        "fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5": {
+            "file": "images/fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5.jpg",
+            "filename": "paste-69565585293315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 91284
+        }
+    }
+}

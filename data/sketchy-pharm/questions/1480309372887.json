@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480309372887",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480309372887",
+        "noteId": "1480309209169",
+        "noteGuid": "t(.L7mj0T?",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.4 - Maraviroc, fusion inhibitors, integrase inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.4-Maraviroc,Fusion_Inhibitors,_&_Integrase_Inhibitors",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "§\n\nWhat HIV protein binds host CD4/CCR5?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat HIV protein binds host CD4/CCR5?\n\ngp120\n\n[Image: 41a20a5ca0d97fd841155546a5fac45bbd4ccf73c86ba2c4306f8f19244e19a7]\n\n[Image: 76610cb7491c0e7af305c79c91cbabd468e6d7a64f423a7b630c6b9810c15b2a]\n\n6.4 - Maraviroc, fusion inhibitors, integrase inhibitors\n[Image: 6962170d6278ec795afe90f6c4a739ee01393f4302653b5a73f19a824efce387]\n\n[Image: 6093c872710d1e06364fa1a1efc533b3306c44d33e6730e15dcfd7730f21b3e4]\n\n[Image: f0b981a5533fab5c3ac132de80a04fd2ff4f21963b96e7db8dcec37f59fdb0f6]\n\n[Image: 10b5aec06a1db24334264ef0ef5cf85d69609de17d17e6ab3f43510d4db81a91]",
+        "imageIds": [
+            "41a20a5ca0d97fd841155546a5fac45bbd4ccf73c86ba2c4306f8f19244e19a7",
+            "76610cb7491c0e7af305c79c91cbabd468e6d7a64f423a7b630c6b9810c15b2a",
+            "6962170d6278ec795afe90f6c4a739ee01393f4302653b5a73f19a824efce387",
+            "6093c872710d1e06364fa1a1efc533b3306c44d33e6730e15dcfd7730f21b3e4",
+            "f0b981a5533fab5c3ac132de80a04fd2ff4f21963b96e7db8dcec37f59fdb0f6",
+            "10b5aec06a1db24334264ef0ef5cf85d69609de17d17e6ab3f43510d4db81a91"
+        ]
+    },
+    "images": {
+        "10b5aec06a1db24334264ef0ef5cf85d69609de17d17e6ab3f43510d4db81a91": {
+            "file": "images/10b5aec06a1db24334264ef0ef5cf85d69609de17d17e6ab3f43510d4db81a91.jpg",
+            "filename": "paste-547165948608515.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 23782
+        },
+        "41a20a5ca0d97fd841155546a5fac45bbd4ccf73c86ba2c4306f8f19244e19a7": {
+            "file": "images/41a20a5ca0d97fd841155546a5fac45bbd4ccf73c86ba2c4306f8f19244e19a7.jpg",
+            "filename": "paste-121594819117059.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52606
+        },
+        "6093c872710d1e06364fa1a1efc533b3306c44d33e6730e15dcfd7730f21b3e4": {
+            "file": "images/6093c872710d1e06364fa1a1efc533b3306c44d33e6730e15dcfd7730f21b3e4.jpg",
+            "filename": "paste-231765025226755.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 99626
+        },
+        "6962170d6278ec795afe90f6c4a739ee01393f4302653b5a73f19a824efce387": {
+            "file": "images/6962170d6278ec795afe90f6c4a739ee01393f4302653b5a73f19a824efce387.jpg",
+            "filename": "paste-297559629234177.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 162115
+        },
+        "76610cb7491c0e7af305c79c91cbabd468e6d7a64f423a7b630c6b9810c15b2a": {
+            "file": "images/76610cb7491c0e7af305c79c91cbabd468e6d7a64f423a7b630c6b9810c15b2a.jpg",
+            "filename": "paste-121659243626499.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53838
+        },
+        "f0b981a5533fab5c3ac132de80a04fd2ff4f21963b96e7db8dcec37f59fdb0f6": {
+            "file": "images/f0b981a5533fab5c3ac132de80a04fd2ff4f21963b96e7db8dcec37f59fdb0f6.jpg",
+            "filename": "paste-86719684673539.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 169487
+        }
+    }
+}

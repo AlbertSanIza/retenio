@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480309372891",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480309372891",
+        "noteId": "1480309209169",
+        "noteGuid": "t(.L7mj0T?",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.4 - Maraviroc, fusion inhibitors, integrase inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.4-Maraviroc,Fusion_Inhibitors,_&_Integrase_Inhibitors",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "§\n\nWhat does HIV pol gene code for?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat does HIV pol gene code for?\n\n(1) Protease\n(2) Reverse transcriptase\n\n(3) Integrase\n\n[Image: 6220cd3b089e5a60e328f0bf57c26788c6890c7f7bd127d8454b6b3d4453d2de]\n\n[Image: 66078c1804e05e0a5c2d22e9e674ba4ae638033df58256dffeb2d6d347749b91]\n\n6.4 - Maraviroc, fusion inhibitors, integrase inhibitors\n[Image: 6962170d6278ec795afe90f6c4a739ee01393f4302653b5a73f19a824efce387]\n\n[Image: 6093c872710d1e06364fa1a1efc533b3306c44d33e6730e15dcfd7730f21b3e4]\n\n[Image: f0b981a5533fab5c3ac132de80a04fd2ff4f21963b96e7db8dcec37f59fdb0f6]\n\n[Image: 10b5aec06a1db24334264ef0ef5cf85d69609de17d17e6ab3f43510d4db81a91]",
+        "imageIds": [
+            "6220cd3b089e5a60e328f0bf57c26788c6890c7f7bd127d8454b6b3d4453d2de",
+            "66078c1804e05e0a5c2d22e9e674ba4ae638033df58256dffeb2d6d347749b91",
+            "6962170d6278ec795afe90f6c4a739ee01393f4302653b5a73f19a824efce387",
+            "6093c872710d1e06364fa1a1efc533b3306c44d33e6730e15dcfd7730f21b3e4",
+            "f0b981a5533fab5c3ac132de80a04fd2ff4f21963b96e7db8dcec37f59fdb0f6",
+            "10b5aec06a1db24334264ef0ef5cf85d69609de17d17e6ab3f43510d4db81a91"
+        ]
+    },
+    "images": {
+        "10b5aec06a1db24334264ef0ef5cf85d69609de17d17e6ab3f43510d4db81a91": {
+            "file": "images/10b5aec06a1db24334264ef0ef5cf85d69609de17d17e6ab3f43510d4db81a91.jpg",
+            "filename": "paste-547165948608515.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 23782
+        },
+        "6093c872710d1e06364fa1a1efc533b3306c44d33e6730e15dcfd7730f21b3e4": {
+            "file": "images/6093c872710d1e06364fa1a1efc533b3306c44d33e6730e15dcfd7730f21b3e4.jpg",
+            "filename": "paste-231765025226755.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 99626
+        },
+        "6220cd3b089e5a60e328f0bf57c26788c6890c7f7bd127d8454b6b3d4453d2de": {
+            "file": "images/6220cd3b089e5a60e328f0bf57c26788c6890c7f7bd127d8454b6b3d4453d2de.jpg",
+            "filename": "paste-126564096278531.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56667
+        },
+        "66078c1804e05e0a5c2d22e9e674ba4ae638033df58256dffeb2d6d347749b91": {
+            "file": "images/66078c1804e05e0a5c2d22e9e674ba4ae638033df58256dffeb2d6d347749b91.jpg",
+            "filename": "paste-240329190014979.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49492
+        },
+        "6962170d6278ec795afe90f6c4a739ee01393f4302653b5a73f19a824efce387": {
+            "file": "images/6962170d6278ec795afe90f6c4a739ee01393f4302653b5a73f19a824efce387.jpg",
+            "filename": "paste-297559629234177.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 162115
+        },
+        "f0b981a5533fab5c3ac132de80a04fd2ff4f21963b96e7db8dcec37f59fdb0f6": {
+            "file": "images/f0b981a5533fab5c3ac132de80a04fd2ff4f21963b96e7db8dcec37f59fdb0f6.jpg",
+            "filename": "paste-86719684673539.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 169487
+        }
+    }
+}

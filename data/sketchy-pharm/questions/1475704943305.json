@@ -1,0 +1,101 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475704943305",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475704943305",
+        "noteId": "1475704171002",
+        "noteGuid": "M|s^}DGXy|",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::2 Dyslipidemia Drugs::2.3 - Fibrates, niacin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(2)-Dyslipidemia_Drugs::2.3-Fibrates,Niacin",
+        "$$Blood_&_Inflammation",
+        "$DyslipidemiaDrugs"
+    ],
+    "question": {
+        "text": "§\n\nWhat effect do fibrates on the lipid fraction?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat effect do fibrates on the lipid fraction?\n\n(1) ↓↓↓ TGs\n(2) ↓ LDL\n(3) ↑ HDL\n\n(↑ HDL by increasing ApoA1 and ApoA2)\n\n[Image: f59c0dc2b29becf974248dc8be4d38a417a17147c4cc0ec14734aee4ae345bcb]\n\n[Image: 9bd88d2d7061fabc1e3fed91d7c0f1c60b6ccf4391bedd43d3be937318a0c22b]\n\n[Image: c0f99bcd8d0ebe6e25817ad3f0347ec8ffeac5e84e55ba778ed5dc07bb135c18]\n\n[Image: c490705868c75943d427842ceda5650559c91d7f3658d22d332f45a3ed90a909]\n\n2.3 - Fibrates, niacin\n[Image: 63bd3cceb197643d542d99ce05740f56271ef101bf9656ff2cd3285da65a40bd]\n\n[Image: bf16291a0c725457edd1166331efc2b998ce1cc7a69fcb222875659bc54aa310]\n\n[Image: 27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9]\n\n[Image: b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e]\n\n[Image: dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139]\n\n[Image: 88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39]",
+        "imageIds": [
+            "f59c0dc2b29becf974248dc8be4d38a417a17147c4cc0ec14734aee4ae345bcb",
+            "9bd88d2d7061fabc1e3fed91d7c0f1c60b6ccf4391bedd43d3be937318a0c22b",
+            "c0f99bcd8d0ebe6e25817ad3f0347ec8ffeac5e84e55ba778ed5dc07bb135c18",
+            "c490705868c75943d427842ceda5650559c91d7f3658d22d332f45a3ed90a909",
+            "63bd3cceb197643d542d99ce05740f56271ef101bf9656ff2cd3285da65a40bd",
+            "bf16291a0c725457edd1166331efc2b998ce1cc7a69fcb222875659bc54aa310",
+            "27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9",
+            "b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e",
+            "dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139",
+            "88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39"
+        ]
+    },
+    "images": {
+        "27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9": {
+            "file": "images/27ea9f4432f520946ba851058b5bb65de4d42ee93077aac6366878f0e27cadf9.jpg",
+            "filename": "paste-203263622250499.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 84124
+        },
+        "63bd3cceb197643d542d99ce05740f56271ef101bf9656ff2cd3285da65a40bd": {
+            "file": "images/63bd3cceb197643d542d99ce05740f56271ef101bf9656ff2cd3285da65a40bd.jpg",
+            "filename": "paste-571874895462401.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 139646
+        },
+        "88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39": {
+            "file": "images/88fd59a1b9ad45c2f2ef18066f5abdc93319f7abd5ea4f04642a36b6c1762e39.jpg",
+            "filename": "paste-235252538671107.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 88003
+        },
+        "9bd88d2d7061fabc1e3fed91d7c0f1c60b6ccf4391bedd43d3be937318a0c22b": {
+            "file": "images/9bd88d2d7061fabc1e3fed91d7c0f1c60b6ccf4391bedd43d3be937318a0c22b.jpg",
+            "filename": "paste-158067681394691.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 86209
+        },
+        "b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e": {
+            "file": "images/b64b9ec69b0a386594f0a1c35ab42d5d89763ce28c20b3321978f9ae34fffb8e.jpg",
+            "filename": "paste-230506599809027.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 80740
+        },
+        "bf16291a0c725457edd1166331efc2b998ce1cc7a69fcb222875659bc54aa310": {
+            "file": "images/bf16291a0c725457edd1166331efc2b998ce1cc7a69fcb222875659bc54aa310.jpg",
+            "filename": "paste-242442313924611.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50707
+        },
+        "c0f99bcd8d0ebe6e25817ad3f0347ec8ffeac5e84e55ba778ed5dc07bb135c18": {
+            "file": "images/c0f99bcd8d0ebe6e25817ad3f0347ec8ffeac5e84e55ba778ed5dc07bb135c18.jpg",
+            "filename": "paste-159669704196099.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 88799
+        },
+        "c490705868c75943d427842ceda5650559c91d7f3658d22d332f45a3ed90a909": {
+            "file": "images/c490705868c75943d427842ceda5650559c91d7f3658d22d332f45a3ed90a909.jpg",
+            "filename": "paste-161585259610115.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 89232
+        },
+        "dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139": {
+            "file": "images/dc2581a2efba428e54ee33323bb273da420875e5f464134b3d91a6e13e238139.jpg",
+            "filename": "paste-225266739707907.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 37177
+        },
+        "f59c0dc2b29becf974248dc8be4d38a417a17147c4cc0ec14734aee4ae345bcb": {
+            "file": "images/f59c0dc2b29becf974248dc8be4d38a417a17147c4cc0ec14734aee4ae345bcb.jpg",
+            "filename": "paste-152707562209283.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 84716
+        }
+    }
+}

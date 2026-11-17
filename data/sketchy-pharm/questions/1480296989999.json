@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480296989999",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480296989999",
+        "noteId": "1480296209578",
+        "noteGuid": "j.~2cB|JJp",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::1 Antimetabolites::1.3 - Cladribine, cytarabine, gemcitabine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(1)-Antimetabolites::1.3-Cladribine,Cytarabine,Gemcitabine",
+        "$$Antineoplastics",
+        "$Antimetabolites"
+    ],
+    "question": {
+        "text": "§\n\nWhat type of cancers is Cytarabine effective against?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat type of cancers is Cytarabine effective against?\n\nHematologic malignancies only\n\n[Image: 35614dc80308adeba4af4fe4289fe95ae2795439a7b69f2f51f585ad1980983e]\n\n1.3 - Cladribine, cytarabine, gemcitabine\n[Image: 11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce]\n\n[Image: 517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a]",
+        "imageIds": [
+            "35614dc80308adeba4af4fe4289fe95ae2795439a7b69f2f51f585ad1980983e",
+            "11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce",
+            "517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a"
+        ]
+    },
+    "images": {
+        "11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce": {
+            "file": "images/11667b538eef52be655a996ed8151526f10cab8774468dfc064858824e7206ce.jpg",
+            "filename": "paste-350980432461825.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 98866
+        },
+        "35614dc80308adeba4af4fe4289fe95ae2795439a7b69f2f51f585ad1980983e": {
+            "file": "images/35614dc80308adeba4af4fe4289fe95ae2795439a7b69f2f51f585ad1980983e.jpg",
+            "filename": "paste-65244848193539.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51185
+        },
+        "517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a": {
+            "file": "images/517296a0487a98807a9d0899e9fbfcfe8923d4175eb69ad760dbd007fa9d847a.jpg",
+            "filename": "paste-156474248527875.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 31622
+        }
+    }
+}

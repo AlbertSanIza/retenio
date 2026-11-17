@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475731410753",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475731410753",
+        "noteId": "1475730679415",
+        "noteGuid": "OyB|BPtZk?",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.3 - Alpha drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.3-Alpha_drugs",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "§\n\nMOA: Phentolamine",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nMOA: Phentolamine\n\nREVERSIBLE α1 and α2 antagonist\n\n[Image: fb1b9bc1c0b47580d3b13dce1579786dbbd9140aafc014f0d2015f1d55d3cb9a]\n\n[Image: 13df681fbef0b0ebb3c86687953d969d4a49e5e93596302d75f4fc264c1c20e2]\n\n[Image: 3a39684210dcc3ccc2d71e98421162aeda8a5b0f0bd5384fc99431e61d5974b8]\n\n2.3 - Alpha drugs\n[Image: 6d1f9909b75adf86402e07f1808048bc9711379c8fe30b6485de20d893dabee0]\n\n[Image: 92707090337fa9d104b6f21ce31eb14c6b75d6ba7652bd73d952507e2c8b9d2d]\n\n[Image: 0db160a48dfc354c1ebe79e23258cf8b50857b2d212fa7b14d388a6217752a43]",
+        "imageIds": [
+            "fb1b9bc1c0b47580d3b13dce1579786dbbd9140aafc014f0d2015f1d55d3cb9a",
+            "13df681fbef0b0ebb3c86687953d969d4a49e5e93596302d75f4fc264c1c20e2",
+            "3a39684210dcc3ccc2d71e98421162aeda8a5b0f0bd5384fc99431e61d5974b8",
+            "6d1f9909b75adf86402e07f1808048bc9711379c8fe30b6485de20d893dabee0",
+            "92707090337fa9d104b6f21ce31eb14c6b75d6ba7652bd73d952507e2c8b9d2d",
+            "0db160a48dfc354c1ebe79e23258cf8b50857b2d212fa7b14d388a6217752a43"
+        ]
+    },
+    "images": {
+        "0db160a48dfc354c1ebe79e23258cf8b50857b2d212fa7b14d388a6217752a43": {
+            "file": "images/0db160a48dfc354c1ebe79e23258cf8b50857b2d212fa7b14d388a6217752a43.jpg",
+            "filename": "paste-608730009829379.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 26948
+        },
+        "13df681fbef0b0ebb3c86687953d969d4a49e5e93596302d75f4fc264c1c20e2": {
+            "file": "images/13df681fbef0b0ebb3c86687953d969d4a49e5e93596302d75f4fc264c1c20e2.jpg",
+            "filename": "paste-32083405701123.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53535
+        },
+        "3a39684210dcc3ccc2d71e98421162aeda8a5b0f0bd5384fc99431e61d5974b8": {
+            "file": "images/3a39684210dcc3ccc2d71e98421162aeda8a5b0f0bd5384fc99431e61d5974b8.jpg",
+            "filename": "paste-32195074850819.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49709
+        },
+        "6d1f9909b75adf86402e07f1808048bc9711379c8fe30b6485de20d893dabee0": {
+            "file": "images/6d1f9909b75adf86402e07f1808048bc9711379c8fe30b6485de20d893dabee0.jpg",
+            "filename": "paste-433869006307329.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 136181
+        },
+        "92707090337fa9d104b6f21ce31eb14c6b75d6ba7652bd73d952507e2c8b9d2d": {
+            "file": "images/92707090337fa9d104b6f21ce31eb14c6b75d6ba7652bd73d952507e2c8b9d2d.jpg",
+            "filename": "paste-610731464589315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48349
+        },
+        "fb1b9bc1c0b47580d3b13dce1579786dbbd9140aafc014f0d2015f1d55d3cb9a": {
+            "file": "images/fb1b9bc1c0b47580d3b13dce1579786dbbd9140aafc014f0d2015f1d55d3cb9a.jpg",
+            "filename": "paste-31971736551427.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49712
+        }
+    }
+}

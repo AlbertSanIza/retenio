@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480301676613",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480301676613",
+        "noteId": "1480300461128",
+        "noteGuid": "gen6[eB!s4",
+        "modelId": "1475688242543",
+        "templateOrdinal": 11
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.3 - Ampicillin, Amoxicillin, Piperacillin, Ticarcillin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.3-Ampicillin,Amoxicillin,Piperacillin,Ticaracillin",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "§\n\nWhich aminopenicillins are active against Pseudomonas?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhich aminopenicillins are active against Pseudomonas?\n\n(1) Piperacillin\n(2) Ticarcillin\n\n[Image: d64179fa846ebb5404bf346db06e3e51c8ca8e316f1683b7d9e62c10f4e549fd]\n\n[Image: 6dae1e3f06925a6e36b82712e83810d5f4b642bbd6ab1bddc45e95e11d63d6ee]\n\n1.3 - Ampicillin, Amoxicillin, Piperacillin, Ticarcillin\n[Image: 73649876eb90940a2752e430d48e8b86fa74f357ee4b66ebcc0c785bdb3d9a75]\n\n[Image: e247dc64a8f74ff65fa3d44949043d8004ba0ee12839e32679e234e2233f2722]\n\n[Image: 8e0858281ca4bfb7a1bd12c078d95409c582c615ea7260b31a32bbb31fa1d57f]",
+        "imageIds": [
+            "d64179fa846ebb5404bf346db06e3e51c8ca8e316f1683b7d9e62c10f4e549fd",
+            "6dae1e3f06925a6e36b82712e83810d5f4b642bbd6ab1bddc45e95e11d63d6ee",
+            "73649876eb90940a2752e430d48e8b86fa74f357ee4b66ebcc0c785bdb3d9a75",
+            "e247dc64a8f74ff65fa3d44949043d8004ba0ee12839e32679e234e2233f2722",
+            "8e0858281ca4bfb7a1bd12c078d95409c582c615ea7260b31a32bbb31fa1d57f"
+        ]
+    },
+    "images": {
+        "6dae1e3f06925a6e36b82712e83810d5f4b642bbd6ab1bddc45e95e11d63d6ee": {
+            "file": "images/6dae1e3f06925a6e36b82712e83810d5f4b642bbd6ab1bddc45e95e11d63d6ee.jpg",
+            "filename": "paste-40827959115777.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49481
+        },
+        "73649876eb90940a2752e430d48e8b86fa74f357ee4b66ebcc0c785bdb3d9a75": {
+            "file": "images/73649876eb90940a2752e430d48e8b86fa74f357ee4b66ebcc0c785bdb3d9a75.jpg",
+            "filename": "paste-62818191671299 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 102811
+        },
+        "8e0858281ca4bfb7a1bd12c078d95409c582c615ea7260b31a32bbb31fa1d57f": {
+            "file": "images/8e0858281ca4bfb7a1bd12c078d95409c582c615ea7260b31a32bbb31fa1d57f.jpg",
+            "filename": "paste-485790865948675.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 36322
+        },
+        "d64179fa846ebb5404bf346db06e3e51c8ca8e316f1683b7d9e62c10f4e549fd": {
+            "file": "images/d64179fa846ebb5404bf346db06e3e51c8ca8e316f1683b7d9e62c10f4e549fd.jpg",
+            "filename": "paste-98380520882179.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45021
+        },
+        "e247dc64a8f74ff65fa3d44949043d8004ba0ee12839e32679e234e2233f2722": {
+            "file": "images/e247dc64a8f74ff65fa3d44949043d8004ba0ee12839e32679e234e2233f2722.jpg",
+            "filename": "paste-328711027032067.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 77523
+        }
+    }
+}

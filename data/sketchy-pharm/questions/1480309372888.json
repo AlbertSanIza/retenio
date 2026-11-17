@@ -1,0 +1,80 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480309372888",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480309372888",
+        "noteId": "1480309209169",
+        "noteGuid": "t(.L7mj0T?",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.4 - Maraviroc, fusion inhibitors, integrase inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.4-Maraviroc,Fusion_Inhibitors,_&_Integrase_Inhibitors",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "§\n\nMOA: Maraviroc",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nMOA: Maraviroc\n\nBinds CCR5 ⇒ Inhibits interaction with gp120\n\n(Note: This is likely more effective during early infection when CCR5 receptor is preferred over CXCR4)\n\n[Image: a0077cde5ebbaf5bcfccc90b2e8282ed43314a6c49bd8ffe0b6d039862530e2d]\n\n[Image: 63e6e2f950e25776225b24e3561bc1d5b6c587c6bf308bed057439e60eefc453]\n\n[Image: 5653946e9167677a1177c847866a85b94e52ff129b2df006f0c62c1c0c97db05]\n\n6.4 - Maraviroc, fusion inhibitors, integrase inhibitors\n[Image: 6962170d6278ec795afe90f6c4a739ee01393f4302653b5a73f19a824efce387]\n\n[Image: 6093c872710d1e06364fa1a1efc533b3306c44d33e6730e15dcfd7730f21b3e4]\n\n[Image: f0b981a5533fab5c3ac132de80a04fd2ff4f21963b96e7db8dcec37f59fdb0f6]\n\n[Image: 10b5aec06a1db24334264ef0ef5cf85d69609de17d17e6ab3f43510d4db81a91]",
+        "imageIds": [
+            "a0077cde5ebbaf5bcfccc90b2e8282ed43314a6c49bd8ffe0b6d039862530e2d",
+            "63e6e2f950e25776225b24e3561bc1d5b6c587c6bf308bed057439e60eefc453",
+            "5653946e9167677a1177c847866a85b94e52ff129b2df006f0c62c1c0c97db05",
+            "6962170d6278ec795afe90f6c4a739ee01393f4302653b5a73f19a824efce387",
+            "6093c872710d1e06364fa1a1efc533b3306c44d33e6730e15dcfd7730f21b3e4",
+            "f0b981a5533fab5c3ac132de80a04fd2ff4f21963b96e7db8dcec37f59fdb0f6",
+            "10b5aec06a1db24334264ef0ef5cf85d69609de17d17e6ab3f43510d4db81a91"
+        ]
+    },
+    "images": {
+        "10b5aec06a1db24334264ef0ef5cf85d69609de17d17e6ab3f43510d4db81a91": {
+            "file": "images/10b5aec06a1db24334264ef0ef5cf85d69609de17d17e6ab3f43510d4db81a91.jpg",
+            "filename": "paste-547165948608515.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 23782
+        },
+        "5653946e9167677a1177c847866a85b94e52ff129b2df006f0c62c1c0c97db05": {
+            "file": "images/5653946e9167677a1177c847866a85b94e52ff129b2df006f0c62c1c0c97db05.jpg",
+            "filename": "paste-246015726714883.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 74864
+        },
+        "6093c872710d1e06364fa1a1efc533b3306c44d33e6730e15dcfd7730f21b3e4": {
+            "file": "images/6093c872710d1e06364fa1a1efc533b3306c44d33e6730e15dcfd7730f21b3e4.jpg",
+            "filename": "paste-231765025226755.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 99626
+        },
+        "63e6e2f950e25776225b24e3561bc1d5b6c587c6bf308bed057439e60eefc453": {
+            "file": "images/63e6e2f950e25776225b24e3561bc1d5b6c587c6bf308bed057439e60eefc453.jpg",
+            "filename": "paste-266614389866499.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 79061
+        },
+        "6962170d6278ec795afe90f6c4a739ee01393f4302653b5a73f19a824efce387": {
+            "file": "images/6962170d6278ec795afe90f6c4a739ee01393f4302653b5a73f19a824efce387.jpg",
+            "filename": "paste-297559629234177.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 162115
+        },
+        "a0077cde5ebbaf5bcfccc90b2e8282ed43314a6c49bd8ffe0b6d039862530e2d": {
+            "file": "images/a0077cde5ebbaf5bcfccc90b2e8282ed43314a6c49bd8ffe0b6d039862530e2d.jpg",
+            "filename": "paste-121745142972419.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 54457
+        },
+        "f0b981a5533fab5c3ac132de80a04fd2ff4f21963b96e7db8dcec37f59fdb0f6": {
+            "file": "images/f0b981a5533fab5c3ac132de80a04fd2ff4f21963b96e7db8dcec37f59fdb0f6.jpg",
+            "filename": "paste-86719684673539.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 169487
+        }
+    }
+}

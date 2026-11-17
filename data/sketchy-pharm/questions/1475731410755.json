@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475731410755",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475731410755",
+        "noteId": "1475730679415",
+        "noteGuid": "OyB|BPtZk?",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::1 Autonomic Drugs::2 Sympathetic::2.3 - Alpha drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Autonomic_Drugs::(2)-Sympathetics::2.3-Alpha_drugs",
+        "$$Autonomic_Drugs",
+        "$Sympathetics"
+    ],
+    "question": {
+        "text": "§\n\nWhat drug should be used to treat cocaine toxicity?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat drug should be used to treat cocaine toxicity?\n\nPhentolamine\n\n[Image: f656ee88332d74db9e61747e0246ae84c823a92c2f7134aa2925bf0fc7628b44]\n\n2.3 - Alpha drugs\n[Image: 6d1f9909b75adf86402e07f1808048bc9711379c8fe30b6485de20d893dabee0]\n\n[Image: 92707090337fa9d104b6f21ce31eb14c6b75d6ba7652bd73d952507e2c8b9d2d]\n\n[Image: 0db160a48dfc354c1ebe79e23258cf8b50857b2d212fa7b14d388a6217752a43]",
+        "imageIds": [
+            "f656ee88332d74db9e61747e0246ae84c823a92c2f7134aa2925bf0fc7628b44",
+            "6d1f9909b75adf86402e07f1808048bc9711379c8fe30b6485de20d893dabee0",
+            "92707090337fa9d104b6f21ce31eb14c6b75d6ba7652bd73d952507e2c8b9d2d",
+            "0db160a48dfc354c1ebe79e23258cf8b50857b2d212fa7b14d388a6217752a43"
+        ]
+    },
+    "images": {
+        "0db160a48dfc354c1ebe79e23258cf8b50857b2d212fa7b14d388a6217752a43": {
+            "file": "images/0db160a48dfc354c1ebe79e23258cf8b50857b2d212fa7b14d388a6217752a43.jpg",
+            "filename": "paste-608730009829379.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 26948
+        },
+        "6d1f9909b75adf86402e07f1808048bc9711379c8fe30b6485de20d893dabee0": {
+            "file": "images/6d1f9909b75adf86402e07f1808048bc9711379c8fe30b6485de20d893dabee0.jpg",
+            "filename": "paste-433869006307329.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 136181
+        },
+        "92707090337fa9d104b6f21ce31eb14c6b75d6ba7652bd73d952507e2c8b9d2d": {
+            "file": "images/92707090337fa9d104b6f21ce31eb14c6b75d6ba7652bd73d952507e2c8b9d2d.jpg",
+            "filename": "paste-610731464589315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48349
+        },
+        "f656ee88332d74db9e61747e0246ae84c823a92c2f7134aa2925bf0fc7628b44": {
+            "file": "images/f656ee88332d74db9e61747e0246ae84c823a92c2f7134aa2925bf0fc7628b44.jpg",
+            "filename": "paste-32981053865987.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51660
+        }
+    }
+}

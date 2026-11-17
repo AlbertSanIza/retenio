@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1475707071641",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1475707071641",
+        "noteId": "1475705886299",
+        "noteGuid": "K{:IknGMa;",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::4 Smooth Muscle::1 Vasoactive::1.1 - Nitrates",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Smooth_Muscle::(1)-Vasoactive::1.1-Nitrates",
+        "$$Smooth_Muscle",
+        "$Vasoactive"
+    ],
+    "question": {
+        "text": "§\n\nROA: Isosorbide Nitrate",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nROA: Isosorbide Nitrate\n\nOral\n\n[Image: 619414c341c17b6ee397f4af51c97888d5739e46860a52ef0148e2e48a600bde]\n\n[Image: bfd3bce6b5f40f6a737e88505aead8269d92557f6adb35533dddaa87397034a2]\n\n1.1 - Nitrates\n[Image: 7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74]\n\n[Image: c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d]\n\n[Image: e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584]",
+        "imageIds": [
+            "619414c341c17b6ee397f4af51c97888d5739e46860a52ef0148e2e48a600bde",
+            "bfd3bce6b5f40f6a737e88505aead8269d92557f6adb35533dddaa87397034a2",
+            "7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74",
+            "c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d",
+            "e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584"
+        ]
+    },
+    "images": {
+        "619414c341c17b6ee397f4af51c97888d5739e46860a52ef0148e2e48a600bde": {
+            "file": "images/619414c341c17b6ee397f4af51c97888d5739e46860a52ef0148e2e48a600bde.jpg",
+            "filename": "paste-41953240547331.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51570
+        },
+        "7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74": {
+            "file": "images/7152ea24b7c3457b34bae6bfd214673e5201e4915b927e54a951a0920b39bd74.jpg",
+            "filename": "paste-47850230644739 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 154032
+        },
+        "bfd3bce6b5f40f6a737e88505aead8269d92557f6adb35533dddaa87397034a2": {
+            "file": "images/bfd3bce6b5f40f6a737e88505aead8269d92557f6adb35533dddaa87397034a2.jpg",
+            "filename": "paste-42043434860547.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 51247
+        },
+        "c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d": {
+            "file": "images/c97c1ceee25841be9e4e104f31fac2365132ab9182a0eb882f297d6349ed4f3d.jpg",
+            "filename": "paste-367026430279683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 114318
+        },
+        "e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584": {
+            "file": "images/e0be6b8dec1fd1530d50e059ca285dfcbcb6d3e12c2071b2bd5928029e564584.jpg",
+            "filename": "paste-692091030077443.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 83948
+        }
+    }
+}

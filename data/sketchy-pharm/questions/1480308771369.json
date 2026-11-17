@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480308771369",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480308771369",
+        "noteId": "1480308395120",
+        "noteGuid": "e~~s+,_O7W",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::6 Antivirals: HIV::6.3 - Protease inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(6)-Antivirals-HIV::6.3-Protease_Inhibitors",
+        "$$Antimicrobials",
+        "$Antivirals_HIV"
+    ],
+    "question": {
+        "text": "§\n\nWhat HIV gene codes for proteases?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat HIV gene codes for proteases?\n\npol\n\n[Image: 40db14025c3fa4064f5bc0bfb61c44f436b1cf267e4ee84df6d63880015f8e54]\n\n6.3 - Protease inhibitors\n[Image: 8b63ecfb897f3d225f0e1a50588bff3e91b63aff6044e6239b01f460af74105c]\n\n\u001b\n[Image: cfdf18e2358bb4ffc0214d2eeae51abbb1f9323d201eb5b12151527b43c627fb]\n\u001b\u001b",
+        "imageIds": [
+            "40db14025c3fa4064f5bc0bfb61c44f436b1cf267e4ee84df6d63880015f8e54",
+            "8b63ecfb897f3d225f0e1a50588bff3e91b63aff6044e6239b01f460af74105c",
+            "cfdf18e2358bb4ffc0214d2eeae51abbb1f9323d201eb5b12151527b43c627fb"
+        ]
+    },
+    "images": {
+        "40db14025c3fa4064f5bc0bfb61c44f436b1cf267e4ee84df6d63880015f8e54": {
+            "file": "images/40db14025c3fa4064f5bc0bfb61c44f436b1cf267e4ee84df6d63880015f8e54.jpg",
+            "filename": "paste-120198954745859.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 44622
+        },
+        "8b63ecfb897f3d225f0e1a50588bff3e91b63aff6044e6239b01f460af74105c": {
+            "file": "images/8b63ecfb897f3d225f0e1a50588bff3e91b63aff6044e6239b01f460af74105c.jpg",
+            "filename": "paste-293114338082817.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 137704
+        },
+        "cfdf18e2358bb4ffc0214d2eeae51abbb1f9323d201eb5b12151527b43c627fb": {
+            "file": "images/cfdf18e2358bb4ffc0214d2eeae51abbb1f9323d201eb5b12151527b43c627fb.jpg",
+            "filename": "paste-535621076516867.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34046
+        }
+    }
+}

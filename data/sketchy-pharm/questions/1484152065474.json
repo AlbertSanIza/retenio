@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484152065474",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484152065474",
+        "noteId": "1484148711756",
+        "noteGuid": "v$dEtPd[H<",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::1 GI::1.3 - Laxatives & antidiarrheal agents",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(1)-GI::1.3-Laxatives_&_Antidiarrheal_Agents",
+        "$$GI_&_Endocrine",
+        "$GI"
+    ],
+    "question": {
+        "text": "§\n\nDescribe why Rifaximin is useful in the treatment of hepatic encephalopathy",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nDescribe why Rifaximin is useful in the treatment of hepatic encephalopathy\n\nKills ammonia producing bacteria\n\n(Poorly absorbed lumenal antibiotic, similar to Neomycin)\n\n[Image: 7e90e9adc911d8f2aae8f9b10b5b668df0eb03b0800a3481f966f58116180167]\n\n[Image: 1bcf2b9efe90f4f629c442ae760c8d832ee5cbef89f56aec71ca410de6ab00b0]\n\n1.3 - Laxatives & antidiarrheal agents\n[Image: 542ce252d3f54367daefad340bddf477599448bd29e07608c0aaa7f135a978d5]\n\n[Image: fef2811b6164f91422820b9553d31ab2b8aaed33e06e9e2017a62fc4fe090409]\n\n[Image: e7a4e93c5c0e42f81bbdccd55ca324d999092af8ef984152be79208f5ca3d055]\n\n[Image: 83e7770aa9c1d846c973aa697cc9b4cdba70eadf6065af05860d98b28a0b3e49]",
+        "imageIds": [
+            "7e90e9adc911d8f2aae8f9b10b5b668df0eb03b0800a3481f966f58116180167",
+            "1bcf2b9efe90f4f629c442ae760c8d832ee5cbef89f56aec71ca410de6ab00b0",
+            "542ce252d3f54367daefad340bddf477599448bd29e07608c0aaa7f135a978d5",
+            "fef2811b6164f91422820b9553d31ab2b8aaed33e06e9e2017a62fc4fe090409",
+            "e7a4e93c5c0e42f81bbdccd55ca324d999092af8ef984152be79208f5ca3d055",
+            "83e7770aa9c1d846c973aa697cc9b4cdba70eadf6065af05860d98b28a0b3e49"
+        ]
+    },
+    "images": {
+        "1bcf2b9efe90f4f629c442ae760c8d832ee5cbef89f56aec71ca410de6ab00b0": {
+            "file": "images/1bcf2b9efe90f4f629c442ae760c8d832ee5cbef89f56aec71ca410de6ab00b0.jpg",
+            "filename": "paste-23343147253763.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47225
+        },
+        "542ce252d3f54367daefad340bddf477599448bd29e07608c0aaa7f135a978d5": {
+            "file": "images/542ce252d3f54367daefad340bddf477599448bd29e07608c0aaa7f135a978d5.jpg",
+            "filename": "paste-655029757280259.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 161831
+        },
+        "7e90e9adc911d8f2aae8f9b10b5b668df0eb03b0800a3481f966f58116180167": {
+            "file": "images/7e90e9adc911d8f2aae8f9b10b5b668df0eb03b0800a3481f966f58116180167.jpg",
+            "filename": "paste-697098961944579.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 96382
+        },
+        "83e7770aa9c1d846c973aa697cc9b4cdba70eadf6065af05860d98b28a0b3e49": {
+            "file": "images/83e7770aa9c1d846c973aa697cc9b4cdba70eadf6065af05860d98b28a0b3e49.jpg",
+            "filename": "paste-776259504177155.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47908
+        },
+        "e7a4e93c5c0e42f81bbdccd55ca324d999092af8ef984152be79208f5ca3d055": {
+            "file": "images/e7a4e93c5c0e42f81bbdccd55ca324d999092af8ef984152be79208f5ca3d055.jpg",
+            "filename": "paste-789294729920515.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 24910
+        },
+        "fef2811b6164f91422820b9553d31ab2b8aaed33e06e9e2017a62fc4fe090409": {
+            "file": "images/fef2811b6164f91422820b9553d31ab2b8aaed33e06e9e2017a62fc4fe090409.jpg",
+            "filename": "paste-779854391803907.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 96742
+        }
+    }
+}

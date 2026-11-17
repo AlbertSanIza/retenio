@@ -1,0 +1,52 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480306574846",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480306574846",
+        "noteId": "1480305923806",
+        "noteGuid": "c7-s#c:$D:",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.6 - Vancomycin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.6-Vancomycin",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "§\n\nWhat's the empiric treatment for endocarditis?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat's the empiric treatment for endocarditis?\n\nVancomycin\n\n[Image: 91e8de2a2febc756f5d514e0000ce0f64af143a2bdd8b80c647e8350c00e85ce]\n\n1.6 - Vancomycin\n[Image: 4c4759e400263512782f05a1aaef54315fc02f13e22f6bb2926afbcc9c596c2c]\n\n[Image: e3b35611814d2ab1df22b661bae37e650eeeb6dc662044e0cd04f89e6b606da9]",
+        "imageIds": [
+            "91e8de2a2febc756f5d514e0000ce0f64af143a2bdd8b80c647e8350c00e85ce",
+            "4c4759e400263512782f05a1aaef54315fc02f13e22f6bb2926afbcc9c596c2c",
+            "e3b35611814d2ab1df22b661bae37e650eeeb6dc662044e0cd04f89e6b606da9"
+        ]
+    },
+    "images": {
+        "4c4759e400263512782f05a1aaef54315fc02f13e22f6bb2926afbcc9c596c2c": {
+            "file": "images/4c4759e400263512782f05a1aaef54315fc02f13e22f6bb2926afbcc9c596c2c.jpg",
+            "filename": "paste-196851236077569.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 154388
+        },
+        "91e8de2a2febc756f5d514e0000ce0f64af143a2bdd8b80c647e8350c00e85ce": {
+            "file": "images/91e8de2a2febc756f5d514e0000ce0f64af143a2bdd8b80c647e8350c00e85ce.jpg",
+            "filename": "paste-112425063940099.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50956
+        },
+        "e3b35611814d2ab1df22b661bae37e650eeeb6dc662044e0cd04f89e6b606da9": {
+            "file": "images/e3b35611814d2ab1df22b661bae37e650eeeb6dc662044e0cd04f89e6b606da9.jpg",
+            "filename": "paste-334522117783555.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 94981
+        }
+    }
+}

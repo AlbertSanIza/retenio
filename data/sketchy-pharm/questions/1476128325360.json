@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476128325360",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476128325360",
+        "noteId": "1476127443039",
+        "noteGuid": "k+=G!`Nk3M",
+        "modelId": "1475688242543",
+        "templateOrdinal": 2
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::2 Diabetes::2.2 - Metformin,Thiazolidinediones, Pramlintide, SGLT-2 Inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(2)-Diabetes::2.2-Metformin,Thiazolidinediones,Pramlintide,SGLT-2_Inhibitors",
+        "$$GI_&_Endocrine",
+        "$Diabetes"
+    ],
+    "question": {
+        "text": "§\n\nAdverse Effects (2) : Metformin",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nAdverse Effects (2) : Metformin\n\n(1) Lactic acidosis\n(2) GI Issues\n\n[Image: 207621723ca6c4de8d97072ff7b0787b6c0f8b49e1d10f77410d075f9b343576]\n\n[Image: 6a0caffbb503fc446b767f3a16e471e9c6a5b53edbab639bc2dd7e26aa31aa9e]\n\n2.2 - Metformin, thiazolidinediones, pramlintide, SGLT2 inhibitors\n[Image: c93933ecca5011cf030fffab3f2a7d7d16736ddfbca87b230701c2f3fc240dc5]\n\n[Image: f3b7c21a6544b06616584d12195d9910647afb6cd10a8c110622198092a834c8]\n\n[Image: 1f24829ed8e7c360dc920854099066e3cbe5abfb330bb89cc82c3336564f3220]\n\n[Image: 74c691159c40e4652a15be12151e6f1b944b996fa69a77ba9efc6691452e3b29]",
+        "imageIds": [
+            "207621723ca6c4de8d97072ff7b0787b6c0f8b49e1d10f77410d075f9b343576",
+            "6a0caffbb503fc446b767f3a16e471e9c6a5b53edbab639bc2dd7e26aa31aa9e",
+            "c93933ecca5011cf030fffab3f2a7d7d16736ddfbca87b230701c2f3fc240dc5",
+            "f3b7c21a6544b06616584d12195d9910647afb6cd10a8c110622198092a834c8",
+            "1f24829ed8e7c360dc920854099066e3cbe5abfb330bb89cc82c3336564f3220",
+            "74c691159c40e4652a15be12151e6f1b944b996fa69a77ba9efc6691452e3b29"
+        ]
+    },
+    "images": {
+        "1f24829ed8e7c360dc920854099066e3cbe5abfb330bb89cc82c3336564f3220": {
+            "file": "images/1f24829ed8e7c360dc920854099066e3cbe5abfb330bb89cc82c3336564f3220.jpg",
+            "filename": "paste-726519487922179.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55523
+        },
+        "207621723ca6c4de8d97072ff7b0787b6c0f8b49e1d10f77410d075f9b343576": {
+            "file": "images/207621723ca6c4de8d97072ff7b0787b6c0f8b49e1d10f77410d075f9b343576.jpg",
+            "filename": "paste-63161789054979.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46666
+        },
+        "6a0caffbb503fc446b767f3a16e471e9c6a5b53edbab639bc2dd7e26aa31aa9e": {
+            "file": "images/6a0caffbb503fc446b767f3a16e471e9c6a5b53edbab639bc2dd7e26aa31aa9e.jpg",
+            "filename": "paste-63505386438659.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47899
+        },
+        "74c691159c40e4652a15be12151e6f1b944b996fa69a77ba9efc6691452e3b29": {
+            "file": "images/74c691159c40e4652a15be12151e6f1b944b996fa69a77ba9efc6691452e3b29.jpg",
+            "filename": "paste-732279039066115.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60265
+        },
+        "c93933ecca5011cf030fffab3f2a7d7d16736ddfbca87b230701c2f3fc240dc5": {
+            "file": "images/c93933ecca5011cf030fffab3f2a7d7d16736ddfbca87b230701c2f3fc240dc5.jpg",
+            "filename": "paste-690111050153985.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 153694
+        },
+        "f3b7c21a6544b06616584d12195d9910647afb6cd10a8c110622198092a834c8": {
+            "file": "images/f3b7c21a6544b06616584d12195d9910647afb6cd10a8c110622198092a834c8.jpg",
+            "filename": "paste-730582526984195.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45674
+        }
+    }
+}

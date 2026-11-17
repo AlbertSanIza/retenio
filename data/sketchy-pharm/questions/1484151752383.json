@@ -1,0 +1,80 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484151752383",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484151752383",
+        "noteId": "1484148711756",
+        "noteGuid": "v$dEtPd[H<",
+        "modelId": "1475688242543",
+        "templateOrdinal": 3
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::1 GI::1.3 - Laxatives & antidiarrheal agents",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(1)-GI::1.3-Laxatives_&_Antidiarrheal_Agents",
+        "$$GI_&_Endocrine",
+        "$GI"
+    ],
+    "question": {
+        "text": "§\n\nDescribe how lactulose helps with hepatic encephalopathy",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nDescribe how lactulose helps with hepatic encephalopathy\n\nMetabolism of lactulose by GI bacteria ⇒ ↓ pH ⇒ NH3 → NH4+ ⇒ Prevents absorption of intestinal ammonia\n\n[Image: c84dc496dea9a37bf799e30d108e15e02ae668646f9d1a6436f18391bf59982f]\n\n[Image: 7e074805d91550a8e5092e290ab92fe5b7d78c2e57781fa81d8ac7ce61c1e253]\n\n[Image: 3a4b31df282d9e8147ec791b24dddb513b922adf787ebda70703c0fc8f1ce3b5]\n\n1.3 - Laxatives & antidiarrheal agents\n[Image: 542ce252d3f54367daefad340bddf477599448bd29e07608c0aaa7f135a978d5]\n\n[Image: fef2811b6164f91422820b9553d31ab2b8aaed33e06e9e2017a62fc4fe090409]\n\n[Image: e7a4e93c5c0e42f81bbdccd55ca324d999092af8ef984152be79208f5ca3d055]\n\n[Image: 83e7770aa9c1d846c973aa697cc9b4cdba70eadf6065af05860d98b28a0b3e49]",
+        "imageIds": [
+            "c84dc496dea9a37bf799e30d108e15e02ae668646f9d1a6436f18391bf59982f",
+            "7e074805d91550a8e5092e290ab92fe5b7d78c2e57781fa81d8ac7ce61c1e253",
+            "3a4b31df282d9e8147ec791b24dddb513b922adf787ebda70703c0fc8f1ce3b5",
+            "542ce252d3f54367daefad340bddf477599448bd29e07608c0aaa7f135a978d5",
+            "fef2811b6164f91422820b9553d31ab2b8aaed33e06e9e2017a62fc4fe090409",
+            "e7a4e93c5c0e42f81bbdccd55ca324d999092af8ef984152be79208f5ca3d055",
+            "83e7770aa9c1d846c973aa697cc9b4cdba70eadf6065af05860d98b28a0b3e49"
+        ]
+    },
+    "images": {
+        "3a4b31df282d9e8147ec791b24dddb513b922adf787ebda70703c0fc8f1ce3b5": {
+            "file": "images/3a4b31df282d9e8147ec791b24dddb513b922adf787ebda70703c0fc8f1ce3b5.jpg",
+            "filename": "paste-691927821320195.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 94395
+        },
+        "542ce252d3f54367daefad340bddf477599448bd29e07608c0aaa7f135a978d5": {
+            "file": "images/542ce252d3f54367daefad340bddf477599448bd29e07608c0aaa7f135a978d5.jpg",
+            "filename": "paste-655029757280259.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 161831
+        },
+        "7e074805d91550a8e5092e290ab92fe5b7d78c2e57781fa81d8ac7ce61c1e253": {
+            "file": "images/7e074805d91550a8e5092e290ab92fe5b7d78c2e57781fa81d8ac7ce61c1e253.jpg",
+            "filename": "paste-690102460219395.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 92658
+        },
+        "83e7770aa9c1d846c973aa697cc9b4cdba70eadf6065af05860d98b28a0b3e49": {
+            "file": "images/83e7770aa9c1d846c973aa697cc9b4cdba70eadf6065af05860d98b28a0b3e49.jpg",
+            "filename": "paste-776259504177155.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 47908
+        },
+        "c84dc496dea9a37bf799e30d108e15e02ae668646f9d1a6436f18391bf59982f": {
+            "file": "images/c84dc496dea9a37bf799e30d108e15e02ae668646f9d1a6436f18391bf59982f.jpg",
+            "filename": "paste-680305639817219.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 94552
+        },
+        "e7a4e93c5c0e42f81bbdccd55ca324d999092af8ef984152be79208f5ca3d055": {
+            "file": "images/e7a4e93c5c0e42f81bbdccd55ca324d999092af8ef984152be79208f5ca3d055.jpg",
+            "filename": "paste-789294729920515.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 24910
+        },
+        "fef2811b6164f91422820b9553d31ab2b8aaed33e06e9e2017a62fc4fe090409": {
+            "file": "images/fef2811b6164f91422820b9553d31ab2b8aaed33e06e9e2017a62fc4fe090409.jpg",
+            "filename": "paste-779854391803907.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 96742
+        }
+    }
+}

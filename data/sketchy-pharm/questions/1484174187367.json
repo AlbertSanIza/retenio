@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1484174187367",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1484174187367",
+        "noteId": "1484172521200",
+        "noteGuid": "rxvt]42rcP",
+        "modelId": "1475688242543",
+        "templateOrdinal": 10
+    },
+    "deck": "Sketchy Pharm::6 Neuro/Psych::4 Mood Stabilizers & Antiepileptic Drugs::4.3 - Valproate, topiramate, lamotrigine, levetiracetam",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Neuro/Psych::(4)-Mood_Stabilizers_&_Antiepileptics::4.2-Valproate,Topiramate,Lamotrigine,Levetiracetam",
+        "$$Neuro/Psych",
+        "$Mood_Stabilizers_&_Antiepileptics"
+    ],
+    "question": {
+        "text": "§\n\nHow are antiepileptics metabolized?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nHow are antiepileptics metabolized?\n\nAlmost universally via CYP450\n\n[Image: e2838c8cf01cfcf9c332a50d54bd9ba35796dbc359a977ac303880ceb85707a0]\n\n4.2 - Valproate, topiramate, lamotrigine, levetiracetam\n[Image: b6de6841506ab44b40652032e6f4399bd43ac8406f2030d1079500c79bf295cc]\n\n[Image: b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c]\n\n[Image: c3043f3c2f396c1132e341dc2c19a439589ba89eef0f5980c4f478d378b35668]\n\n[Image: 2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a]\n\n[Image: fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5]",
+        "imageIds": [
+            "e2838c8cf01cfcf9c332a50d54bd9ba35796dbc359a977ac303880ceb85707a0",
+            "b6de6841506ab44b40652032e6f4399bd43ac8406f2030d1079500c79bf295cc",
+            "b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c",
+            "c3043f3c2f396c1132e341dc2c19a439589ba89eef0f5980c4f478d378b35668",
+            "2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a",
+            "fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5"
+        ]
+    },
+    "images": {
+        "2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a": {
+            "file": "images/2bab7a24324cb36e7d3115a5c4ada1905c53d6eb86e4080b17774ff251e1158a.jpg",
+            "filename": "paste-688547682058243.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 102555
+        },
+        "b6de6841506ab44b40652032e6f4399bd43ac8406f2030d1079500c79bf295cc": {
+            "file": "images/b6de6841506ab44b40652032e6f4399bd43ac8406f2030d1079500c79bf295cc.jpg",
+            "filename": "paste-617002116841475.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 104244
+        },
+        "b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c": {
+            "file": "images/b8b1970180a64ab677591daccf17df025d56a38b8299d8e02740e57c40193d7c.jpg",
+            "filename": "paste-63204738727939.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55713
+        },
+        "c3043f3c2f396c1132e341dc2c19a439589ba89eef0f5980c4f478d378b35668": {
+            "file": "images/c3043f3c2f396c1132e341dc2c19a439589ba89eef0f5980c4f478d378b35668.jpg",
+            "filename": "paste-60975650701315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 70945
+        },
+        "e2838c8cf01cfcf9c332a50d54bd9ba35796dbc359a977ac303880ceb85707a0": {
+            "file": "images/e2838c8cf01cfcf9c332a50d54bd9ba35796dbc359a977ac303880ceb85707a0.jpg",
+            "filename": "paste-686503277625347.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 105943
+        },
+        "fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5": {
+            "file": "images/fb3ad4700cf08245689b08fc53ae5cccaa6480e193f08f2f661cc14acd0021f5.jpg",
+            "filename": "paste-69565585293315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 91284
+        }
+    }
+}

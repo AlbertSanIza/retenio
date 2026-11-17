@@ -1,0 +1,101 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1489377715617",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1489377715617",
+        "noteId": "1489373732673",
+        "noteGuid": "MVDX:P#kj;",
+        "modelId": "1475688242543",
+        "templateOrdinal": 7
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::3 Thyroid, Parathyroid & Adrenal::3.1 - Propylthiouracil, Methimazole, Levothyroxine",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(3)-Thyroid,Parathyroid,_&_Adrenal::3.1-Propylthiouracil,Methimazole,Levothyroxine",
+        "$$GI_&_Endocrine",
+        "$Thyroid,Parathyroid,Adrenal"
+    ],
+    "question": {
+        "text": "§\n\nBroadly, what can we attribute the symptoms of hyperthyroidism to?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nBroadly, what can we attribute the symptoms of hyperthyroidism to?\n\n↑ β-adrenergic receptors\n\n(⇒ Hypermetabolic and hyperadrenergic state)\n\n[Image: cc010cad1a6409fccabfea17d05401d7c0c942157b44591d4b6ef2eabf5384b8]\n\n[Image: 4c645cacfef1ba63df105951ee7f6e4679cc42c720bdd5e5f61669312b9a2a85]\n\n[Image: 40fb8636b042443c94b3ec97029ed872b3bec23962ae72ed54bc1ef91c8a9b1b]\n\n3.1 - Propylthiouracil, methimazole, levothyroxine\n\n[Image: 892baacb018a77ee7ff4582c288f0aa38c600fc7cb676f086fa0e7f59bc1bb0a]\n\n[Image: 1df82b4abb93fde504bea6a05e773b5354724e4588851c41c2da355dd8fb57e2]\n\n[Image: e3a5275a06ea9a1e248049c5fbc107aa2d033d0d2aad9d3540c8fb5f94635374]\n\n[Image: 4e495de35c9d59497f876d4ef4b82deb9ff7cdb5bd04383b7b93b002c57ed47f]\n\n[Image: bf559a43211486d995768a4c8841df4e1b0d27a833c7a92a517eb5c6df56af3a]\n\n[Image: aa8f9695407a6a33382c3912d4060afc422fc6133e0b0113991fe63f70b7f016]\n\n[Image: 3ce833f21fbb97ffc7160d9128a8bcc3ca6ddceeec99d6e5cd951098a638cd5d]",
+        "imageIds": [
+            "cc010cad1a6409fccabfea17d05401d7c0c942157b44591d4b6ef2eabf5384b8",
+            "4c645cacfef1ba63df105951ee7f6e4679cc42c720bdd5e5f61669312b9a2a85",
+            "40fb8636b042443c94b3ec97029ed872b3bec23962ae72ed54bc1ef91c8a9b1b",
+            "892baacb018a77ee7ff4582c288f0aa38c600fc7cb676f086fa0e7f59bc1bb0a",
+            "1df82b4abb93fde504bea6a05e773b5354724e4588851c41c2da355dd8fb57e2",
+            "e3a5275a06ea9a1e248049c5fbc107aa2d033d0d2aad9d3540c8fb5f94635374",
+            "4e495de35c9d59497f876d4ef4b82deb9ff7cdb5bd04383b7b93b002c57ed47f",
+            "bf559a43211486d995768a4c8841df4e1b0d27a833c7a92a517eb5c6df56af3a",
+            "aa8f9695407a6a33382c3912d4060afc422fc6133e0b0113991fe63f70b7f016",
+            "3ce833f21fbb97ffc7160d9128a8bcc3ca6ddceeec99d6e5cd951098a638cd5d"
+        ]
+    },
+    "images": {
+        "1df82b4abb93fde504bea6a05e773b5354724e4588851c41c2da355dd8fb57e2": {
+            "file": "images/1df82b4abb93fde504bea6a05e773b5354724e4588851c41c2da355dd8fb57e2.jpg",
+            "filename": "paste-33642478829571.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61264
+        },
+        "3ce833f21fbb97ffc7160d9128a8bcc3ca6ddceeec99d6e5cd951098a638cd5d": {
+            "file": "images/3ce833f21fbb97ffc7160d9128a8bcc3ca6ddceeec99d6e5cd951098a638cd5d.jpg",
+            "filename": "paste-33243046871043.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 71253
+        },
+        "40fb8636b042443c94b3ec97029ed872b3bec23962ae72ed54bc1ef91c8a9b1b": {
+            "file": "images/40fb8636b042443c94b3ec97029ed872b3bec23962ae72ed54bc1ef91c8a9b1b.jpg",
+            "filename": "paste-11751030521859.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 65514
+        },
+        "4c645cacfef1ba63df105951ee7f6e4679cc42c720bdd5e5f61669312b9a2a85": {
+            "file": "images/4c645cacfef1ba63df105951ee7f6e4679cc42c720bdd5e5f61669312b9a2a85.jpg",
+            "filename": "paste-11205569675267.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60840
+        },
+        "4e495de35c9d59497f876d4ef4b82deb9ff7cdb5bd04383b7b93b002c57ed47f": {
+            "file": "images/4e495de35c9d59497f876d4ef4b82deb9ff7cdb5bd04383b7b93b002c57ed47f.jpg",
+            "filename": "paste-27977416966147.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 146225
+        },
+        "892baacb018a77ee7ff4582c288f0aa38c600fc7cb676f086fa0e7f59bc1bb0a": {
+            "file": "images/892baacb018a77ee7ff4582c288f0aa38c600fc7cb676f086fa0e7f59bc1bb0a.jpg",
+            "filename": "paste-6644314406915 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 100785
+        },
+        "aa8f9695407a6a33382c3912d4060afc422fc6133e0b0113991fe63f70b7f016": {
+            "file": "images/aa8f9695407a6a33382c3912d4060afc422fc6133e0b0113991fe63f70b7f016.jpg",
+            "filename": "paste-33500744908803.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 96187
+        },
+        "bf559a43211486d995768a4c8841df4e1b0d27a833c7a92a517eb5c6df56af3a": {
+            "file": "images/bf559a43211486d995768a4c8841df4e1b0d27a833c7a92a517eb5c6df56af3a.jpg",
+            "filename": "paste-28067611279363.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50690
+        },
+        "cc010cad1a6409fccabfea17d05401d7c0c942157b44591d4b6ef2eabf5384b8": {
+            "file": "images/cc010cad1a6409fccabfea17d05401d7c0c942157b44591d4b6ef2eabf5384b8.jpg",
+            "filename": "paste-54086523158531 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 113722
+        },
+        "e3a5275a06ea9a1e248049c5fbc107aa2d033d0d2aad9d3540c8fb5f94635374": {
+            "file": "images/e3a5275a06ea9a1e248049c5fbc107aa2d033d0d2aad9d3540c8fb5f94635374.jpg",
+            "filename": "paste-42627550412803.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 24001
+        }
+    }
+}

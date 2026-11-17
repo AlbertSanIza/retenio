@@ -1,0 +1,59 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480545922865",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480545922865",
+        "noteId": "1480544887082",
+        "noteGuid": "u<L|B!T%5S",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::2 Inhibitors of Bacterial Protein Synthesis::2.6 - Aminoglycosides",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(2)-Inhibitors_of_Bacterial_Protein_Synthesis::2.6-Aminoglycosides",
+        "$$Antimicrobials",
+        "$Inhibitors_of_Bacterial_Protein_Synthesis"
+    ],
+    "question": {
+        "text": "§\n\nWhat type of antibiotics are aminoglycosides synergistic with?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat type of antibiotics are aminoglycosides synergistic with?\n\nCall wall active drugs\n\n(β-lactams, vancomycin, etc.)\n\n[Image: a1b0d9ded0adccd4435e6a530378b1dafd533906cd6fb679700ecece31c1c01b]\n\n2.6 - Aminoglycosides\n[Image: 9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d]\n\n[Image: 8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4]\n\n[Image: 4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1]",
+        "imageIds": [
+            "a1b0d9ded0adccd4435e6a530378b1dafd533906cd6fb679700ecece31c1c01b",
+            "9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d",
+            "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4",
+            "4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1"
+        ]
+    },
+    "images": {
+        "4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1": {
+            "file": "images/4e0019b4e6e835b98a77bee49bfe2c27345554f240aa171b66633ea17d6d63e1.jpg",
+            "filename": "paste-32100585570307.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 91413
+        },
+        "8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4": {
+            "file": "images/8903dac6280ab13885ceb69fd8d3845f81146b99cb47604588b3a442d8a105d4.jpg",
+            "filename": "paste-321710230339587.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 76271
+        },
+        "9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d": {
+            "file": "images/9dac550872a72a5e70e4ccd6fd0aac26b9f361c913dfcfe1f361a9344c2b428d.jpg",
+            "filename": "paste-232065672937473.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 108815
+        },
+        "a1b0d9ded0adccd4435e6a530378b1dafd533906cd6fb679700ecece31c1c01b": {
+            "file": "images/a1b0d9ded0adccd4435e6a530378b1dafd533906cd6fb679700ecece31c1c01b.jpg",
+            "filename": "paste-24253680320515 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 33410
+        }
+    }
+}

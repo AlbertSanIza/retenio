@@ -1,0 +1,94 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480817122744",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480817122744",
+        "noteId": "1480816165877",
+        "noteGuid": "Qi(.XU0Lz8",
+        "modelId": "1475688242543",
+        "templateOrdinal": 1
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::3 Antimycobacterials::3.2 - Leprosy drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(3)-Antimycobacterials::3.2-Leprosy_Drugs",
+        "$$Antimicrobials",
+        "$Antimycobacterials"
+    ],
+    "question": {
+        "text": "§\n\nTreatment: Mycobacterium avium complex",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nTreatment: Mycobacterium avium complex\n\n(1) Macrolide\n(2) + Ethambutol\n\n(Rifabutin can be added as a third agent as well)\n\n[Image: c6fb3709b9b7cb5dd5470943eb7bd21be0018c4a4c9ce87877d9b6e9bc7695ec]\n\n[Image: e52e73cd8f27bd9731997d7f5c9ab8f2c607105ff0b0a3cd2c64650b58ab765c]\n\n[Image: 7e25f449d71cee96e1ee75933817064dcf6b328c5f6b2e3b69072ae228442563]\n\n3.2 - Leprosy drugs\n[Image: 9f64c8b6cd799b90c1d5bab38886b76d852ab4ddf225c0f32487f96ac27ab02a]\n\n[Image: 5cbde7cde668c619432ac4626bf618ce9c0803385dbcc94966c6170aae65a595]\n\n[Image: 505995ba12ea94a5fb79508794040dbb87d6057e4ccda916d0e1a6f547756500]\n\n[Image: c66857d0df3b294d3ab298e6efb998680dd3f682e4c3232e5b162cbe153a6a02]\n\n[Image: 90a31a103ef0fffcc75637778600cc436a650f8d3d57f87fc4c32bc0a56adb24]\n\n[Image: d1154c8aeb901a2ad401929de6aaae9cd3928d354e216d7df1f97ce86df48ee4]",
+        "imageIds": [
+            "c6fb3709b9b7cb5dd5470943eb7bd21be0018c4a4c9ce87877d9b6e9bc7695ec",
+            "e52e73cd8f27bd9731997d7f5c9ab8f2c607105ff0b0a3cd2c64650b58ab765c",
+            "7e25f449d71cee96e1ee75933817064dcf6b328c5f6b2e3b69072ae228442563",
+            "9f64c8b6cd799b90c1d5bab38886b76d852ab4ddf225c0f32487f96ac27ab02a",
+            "5cbde7cde668c619432ac4626bf618ce9c0803385dbcc94966c6170aae65a595",
+            "505995ba12ea94a5fb79508794040dbb87d6057e4ccda916d0e1a6f547756500",
+            "c66857d0df3b294d3ab298e6efb998680dd3f682e4c3232e5b162cbe153a6a02",
+            "90a31a103ef0fffcc75637778600cc436a650f8d3d57f87fc4c32bc0a56adb24",
+            "d1154c8aeb901a2ad401929de6aaae9cd3928d354e216d7df1f97ce86df48ee4"
+        ]
+    },
+    "images": {
+        "505995ba12ea94a5fb79508794040dbb87d6057e4ccda916d0e1a6f547756500": {
+            "file": "images/505995ba12ea94a5fb79508794040dbb87d6057e4ccda916d0e1a6f547756500.jpg",
+            "filename": "paste-443025876582403.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 77586
+        },
+        "5cbde7cde668c619432ac4626bf618ce9c0803385dbcc94966c6170aae65a595": {
+            "file": "images/5cbde7cde668c619432ac4626bf618ce9c0803385dbcc94966c6170aae65a595.jpg",
+            "filename": "paste-39784282062851 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 111645
+        },
+        "7e25f449d71cee96e1ee75933817064dcf6b328c5f6b2e3b69072ae228442563": {
+            "file": "images/7e25f449d71cee96e1ee75933817064dcf6b328c5f6b2e3b69072ae228442563.jpg",
+            "filename": "paste-191967858262019.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 42892
+        },
+        "90a31a103ef0fffcc75637778600cc436a650f8d3d57f87fc4c32bc0a56adb24": {
+            "file": "images/90a31a103ef0fffcc75637778600cc436a650f8d3d57f87fc4c32bc0a56adb24.jpg",
+            "filename": "paste-342308893491203.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 23945
+        },
+        "9f64c8b6cd799b90c1d5bab38886b76d852ab4ddf225c0f32487f96ac27ab02a": {
+            "file": "images/9f64c8b6cd799b90c1d5bab38886b76d852ab4ddf225c0f32487f96ac27ab02a.jpg",
+            "filename": "paste-240887535763457.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 116853
+        },
+        "c66857d0df3b294d3ab298e6efb998680dd3f682e4c3232e5b162cbe153a6a02": {
+            "file": "images/c66857d0df3b294d3ab298e6efb998680dd3f682e4c3232e5b162cbe153a6a02.jpg",
+            "filename": "paste-450018083340291.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56355
+        },
+        "c6fb3709b9b7cb5dd5470943eb7bd21be0018c4a4c9ce87877d9b6e9bc7695ec": {
+            "file": "images/c6fb3709b9b7cb5dd5470943eb7bd21be0018c4a4c9ce87877d9b6e9bc7695ec.jpg",
+            "filename": "paste-191723045126147.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 38349
+        },
+        "d1154c8aeb901a2ad401929de6aaae9cd3928d354e216d7df1f97ce86df48ee4": {
+            "file": "images/d1154c8aeb901a2ad401929de6aaae9cd3928d354e216d7df1f97ce86df48ee4.jpg",
+            "filename": "paste-181475253157891.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 27752
+        },
+        "e52e73cd8f27bd9731997d7f5c9ab8f2c607105ff0b0a3cd2c64650b58ab765c": {
+            "file": "images/e52e73cd8f27bd9731997d7f5c9ab8f2c607105ff0b0a3cd2c64650b58ab765c.jpg",
+            "filename": "paste-191770289766403.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 39445
+        }
+    }
+}

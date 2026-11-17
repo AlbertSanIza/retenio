@@ -1,0 +1,80 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1476128325367",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1476128325367",
+        "noteId": "1476127443039",
+        "noteGuid": "k+=G!`Nk3M",
+        "modelId": "1475688242543",
+        "templateOrdinal": 9
+    },
+    "deck": "Sketchy Pharm::5 GI & Endocrine::2 Diabetes::2.2 - Metformin,Thiazolidinediones, Pramlintide, SGLT-2 Inhibitors",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::GI_&_Endocrine::(2)-Diabetes::2.2-Metformin,Thiazolidinediones,Pramlintide,SGLT-2_Inhibitors",
+        "$$GI_&_Endocrine",
+        "$Diabetes"
+    ],
+    "question": {
+        "text": "§\n\nAdverse Effects (4) : Glitazones",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nAdverse Effects (4) : Glitazones\n\n(1) Weight gain\n(2) Peripheral edema\n(3) ⇒ Heart failure\n\n(4) ↓ Bone mineral density\n\n[Image: d6857084c4d57fe6e9dd62b07477eb7d58d60096e677c1c06ebb8da835e0f03f]\n\n[Image: 91fd2d4084423a23c2a3150ab44ec8181fd99bf996dd0cc2334d2f414f7ac488]\n\n[Image: 4b84f777e0f593f93dd5c1e4a2d2dbe2da04c39705e3e0280175e9fa47abbbf1]\n\n2.2 - Metformin, thiazolidinediones, pramlintide, SGLT2 inhibitors\n[Image: c93933ecca5011cf030fffab3f2a7d7d16736ddfbca87b230701c2f3fc240dc5]\n\n[Image: f3b7c21a6544b06616584d12195d9910647afb6cd10a8c110622198092a834c8]\n\n[Image: 1f24829ed8e7c360dc920854099066e3cbe5abfb330bb89cc82c3336564f3220]\n\n[Image: 74c691159c40e4652a15be12151e6f1b944b996fa69a77ba9efc6691452e3b29]",
+        "imageIds": [
+            "d6857084c4d57fe6e9dd62b07477eb7d58d60096e677c1c06ebb8da835e0f03f",
+            "91fd2d4084423a23c2a3150ab44ec8181fd99bf996dd0cc2334d2f414f7ac488",
+            "4b84f777e0f593f93dd5c1e4a2d2dbe2da04c39705e3e0280175e9fa47abbbf1",
+            "c93933ecca5011cf030fffab3f2a7d7d16736ddfbca87b230701c2f3fc240dc5",
+            "f3b7c21a6544b06616584d12195d9910647afb6cd10a8c110622198092a834c8",
+            "1f24829ed8e7c360dc920854099066e3cbe5abfb330bb89cc82c3336564f3220",
+            "74c691159c40e4652a15be12151e6f1b944b996fa69a77ba9efc6691452e3b29"
+        ]
+    },
+    "images": {
+        "1f24829ed8e7c360dc920854099066e3cbe5abfb330bb89cc82c3336564f3220": {
+            "file": "images/1f24829ed8e7c360dc920854099066e3cbe5abfb330bb89cc82c3336564f3220.jpg",
+            "filename": "paste-726519487922179.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 55523
+        },
+        "4b84f777e0f593f93dd5c1e4a2d2dbe2da04c39705e3e0280175e9fa47abbbf1": {
+            "file": "images/4b84f777e0f593f93dd5c1e4a2d2dbe2da04c39705e3e0280175e9fa47abbbf1.jpg",
+            "filename": "paste-64931315580931.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50905
+        },
+        "74c691159c40e4652a15be12151e6f1b944b996fa69a77ba9efc6691452e3b29": {
+            "file": "images/74c691159c40e4652a15be12151e6f1b944b996fa69a77ba9efc6691452e3b29.jpg",
+            "filename": "paste-732279039066115.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 60265
+        },
+        "91fd2d4084423a23c2a3150ab44ec8181fd99bf996dd0cc2334d2f414f7ac488": {
+            "file": "images/91fd2d4084423a23c2a3150ab44ec8181fd99bf996dd0cc2334d2f414f7ac488.jpg",
+            "filename": "paste-64845416235011.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48551
+        },
+        "c93933ecca5011cf030fffab3f2a7d7d16736ddfbca87b230701c2f3fc240dc5": {
+            "file": "images/c93933ecca5011cf030fffab3f2a7d7d16736ddfbca87b230701c2f3fc240dc5.jpg",
+            "filename": "paste-690111050153985.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 153694
+        },
+        "d6857084c4d57fe6e9dd62b07477eb7d58d60096e677c1c06ebb8da835e0f03f": {
+            "file": "images/d6857084c4d57fe6e9dd62b07477eb7d58d60096e677c1c06ebb8da835e0f03f.jpg",
+            "filename": "paste-64750926954499.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 48317
+        },
+        "f3b7c21a6544b06616584d12195d9910647afb6cd10a8c110622198092a834c8": {
+            "file": "images/f3b7c21a6544b06616584d12195d9910647afb6cd10a8c110622198092a834c8.jpg",
+            "filename": "paste-730582526984195.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 45674
+        }
+    }
+}

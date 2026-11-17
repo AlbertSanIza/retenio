@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480826453234",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480826453234",
+        "noteId": "1480825958438",
+        "noteGuid": "wh`5lM*zbv",
+        "modelId": "1475688242543",
+        "templateOrdinal": 4
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::5 Antifungals::5.2 - Azoles",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(5)-Antifungals::5.2-Azoles",
+        "$$Antimicrobials",
+        "$Antifungals"
+    ],
+    "question": {
+        "text": "§\n\nName 2 antibiotics which may cause changes in color vision",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nName 2 antibiotics which may cause changes in color vision\n\n(1) Voriconazole\n(2) Ethambutol\n\n(Not an antibiotic, but Digoxin)\n\n[Image: 709d5387779408ab9c394cf572588f681b79246f66846574ca8efb245a16b5bc]\n\n[Image: ea3965aff61a7efa53cc9a5771a648740e72d65a882d4a3e82caaddfc6674cdf]\n\n[Image: d8a5b9302d7d4bb673bc72c1878cb7435e8a2709165a5c4f40469aa492fc3daf]\n\n5.2 - Azoles\n[Image: b4c80df813ad6a6588ec141052d0bc0dfc887db53d1294365b5e1df24fd347da]\n\n[Image: 9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63]\n\n[Image: 3594b98443f5a56d34c4e5381332ec926dfe5a8060d7f82251ca8ff632397622]",
+        "imageIds": [
+            "709d5387779408ab9c394cf572588f681b79246f66846574ca8efb245a16b5bc",
+            "ea3965aff61a7efa53cc9a5771a648740e72d65a882d4a3e82caaddfc6674cdf",
+            "d8a5b9302d7d4bb673bc72c1878cb7435e8a2709165a5c4f40469aa492fc3daf",
+            "b4c80df813ad6a6588ec141052d0bc0dfc887db53d1294365b5e1df24fd347da",
+            "9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63",
+            "3594b98443f5a56d34c4e5381332ec926dfe5a8060d7f82251ca8ff632397622"
+        ]
+    },
+    "images": {
+        "3594b98443f5a56d34c4e5381332ec926dfe5a8060d7f82251ca8ff632397622": {
+            "file": "images/3594b98443f5a56d34c4e5381332ec926dfe5a8060d7f82251ca8ff632397622.jpg",
+            "filename": "paste-476183024107523.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 43784
+        },
+        "709d5387779408ab9c394cf572588f681b79246f66846574ca8efb245a16b5bc": {
+            "file": "images/709d5387779408ab9c394cf572588f681b79246f66846574ca8efb245a16b5bc.jpg",
+            "filename": "paste-264771848896515.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 46267
+        },
+        "9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63": {
+            "file": "images/9fea5bd77323260182de515cbffdde9b432b1f89133f3e2604ac45c707e00d63.jpg",
+            "filename": "paste-468138550362115.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53292
+        },
+        "b4c80df813ad6a6588ec141052d0bc0dfc887db53d1294365b5e1df24fd347da": {
+            "file": "images/b4c80df813ad6a6588ec141052d0bc0dfc887db53d1294365b5e1df24fd347da.jpg",
+            "filename": "paste-271081155854337.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 139643
+        },
+        "d8a5b9302d7d4bb673bc72c1878cb7435e8a2709165a5c4f40469aa492fc3daf": {
+            "file": "images/d8a5b9302d7d4bb673bc72c1878cb7435e8a2709165a5c4f40469aa492fc3daf.jpg",
+            "filename": "paste-955853561659395.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 76320
+        },
+        "ea3965aff61a7efa53cc9a5771a648740e72d65a882d4a3e82caaddfc6674cdf": {
+            "file": "images/ea3965aff61a7efa53cc9a5771a648740e72d65a882d4a3e82caaddfc6674cdf.jpg",
+            "filename": "paste-183846075105283.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61733
+        }
+    }
+}

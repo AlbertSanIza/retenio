@@ -1,0 +1,66 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1479164969055",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1479164969055",
+        "noteId": "1479164083148",
+        "noteGuid": "iA?3DF,6G1",
+        "modelId": "1475688242543",
+        "templateOrdinal": 19
+    },
+    "deck": "Sketchy Pharm::3 Blood & Inflammation::3 Anti-inflammatory::3.2 - Gout drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Blood_&_Inflammation::(3)-Anti-Inflammatory_Drugs::3.2-Gout_Drugs",
+        "$$Blood_&_Inflammation",
+        "$Anti-inflammatory"
+    ],
+    "question": {
+        "text": "§\n\nName a drug used to treat gout which is only administered IV",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nName a drug used to treat gout which is only administered IV\n\nPegloticase\n\n[Image: a4b3f9ec1861a4764d7b4d8653ed05b9c746ea011ebf2d4379f850170b8f67c9]\n\n3.2 - Gout Drugs\n[Image: be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df]\n\n[Image: 558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616]\n\n[Image: d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b]\n\n[Image: a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730]",
+        "imageIds": [
+            "a4b3f9ec1861a4764d7b4d8653ed05b9c746ea011ebf2d4379f850170b8f67c9",
+            "be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df",
+            "558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616",
+            "d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b",
+            "a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730"
+        ]
+    },
+    "images": {
+        "558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616": {
+            "file": "images/558a6fd77982c87ad8f007372fb644ad0a71a8853d1c23f1edf59dbe2a213616.jpg",
+            "filename": "paste-121358595915779.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 132759
+        },
+        "a4b3f9ec1861a4764d7b4d8653ed05b9c746ea011ebf2d4379f850170b8f67c9": {
+            "file": "images/a4b3f9ec1861a4764d7b4d8653ed05b9c746ea011ebf2d4379f850170b8f67c9.jpg",
+            "filename": "paste-117918327111683.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 61051
+        },
+        "a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730": {
+            "file": "images/a8a160b38b90b2a6c95028bd95fa3520151b2405f3f443d62d2a752e52472730.jpg",
+            "filename": "paste-123982820933635.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34602
+        },
+        "be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df": {
+            "file": "images/be5be67e48776b07b925dd47cd133ad94717fab1fb0de6c80a066beb388b23df.jpg",
+            "filename": "paste-583518551801857.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 158251
+        },
+        "d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b": {
+            "file": "images/d0db4ae6c3c69d0c516fee94844719a144a158dab987a54ed080a34db03bf20b.jpg",
+            "filename": "paste-113215337922563.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 184086
+        }
+    }
+}

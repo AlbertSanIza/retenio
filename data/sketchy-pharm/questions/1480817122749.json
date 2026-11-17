@@ -1,0 +1,80 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480817122749",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480817122749",
+        "noteId": "1480816165877",
+        "noteGuid": "Qi(.XU0Lz8",
+        "modelId": "1475688242543",
+        "templateOrdinal": 6
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::3 Antimycobacterials::3.2 - Leprosy drugs",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(3)-Antimycobacterials::3.2-Leprosy_Drugs",
+        "$$Antimicrobials",
+        "$Antimycobacterials"
+    ],
+    "question": {
+        "text": "§\n\nWhat drug is only used during the treatment of lepromatous leprosy?",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nWhat drug is only used during the treatment of lepromatous leprosy?\n\nClofazimine\n\n[Image: 162d676be2bd357bb5e2e0d0d3297f7c1bcfb2a16eb8b108608e1089efa9da2f]\n\n3.2 - Leprosy drugs\n[Image: 9f64c8b6cd799b90c1d5bab38886b76d852ab4ddf225c0f32487f96ac27ab02a]\n\n[Image: 5cbde7cde668c619432ac4626bf618ce9c0803385dbcc94966c6170aae65a595]\n\n[Image: 505995ba12ea94a5fb79508794040dbb87d6057e4ccda916d0e1a6f547756500]\n\n[Image: c66857d0df3b294d3ab298e6efb998680dd3f682e4c3232e5b162cbe153a6a02]\n\n[Image: 90a31a103ef0fffcc75637778600cc436a650f8d3d57f87fc4c32bc0a56adb24]\n\n[Image: d1154c8aeb901a2ad401929de6aaae9cd3928d354e216d7df1f97ce86df48ee4]",
+        "imageIds": [
+            "162d676be2bd357bb5e2e0d0d3297f7c1bcfb2a16eb8b108608e1089efa9da2f",
+            "9f64c8b6cd799b90c1d5bab38886b76d852ab4ddf225c0f32487f96ac27ab02a",
+            "5cbde7cde668c619432ac4626bf618ce9c0803385dbcc94966c6170aae65a595",
+            "505995ba12ea94a5fb79508794040dbb87d6057e4ccda916d0e1a6f547756500",
+            "c66857d0df3b294d3ab298e6efb998680dd3f682e4c3232e5b162cbe153a6a02",
+            "90a31a103ef0fffcc75637778600cc436a650f8d3d57f87fc4c32bc0a56adb24",
+            "d1154c8aeb901a2ad401929de6aaae9cd3928d354e216d7df1f97ce86df48ee4"
+        ]
+    },
+    "images": {
+        "162d676be2bd357bb5e2e0d0d3297f7c1bcfb2a16eb8b108608e1089efa9da2f": {
+            "file": "images/162d676be2bd357bb5e2e0d0d3297f7c1bcfb2a16eb8b108608e1089efa9da2f.jpg",
+            "filename": "paste-193243463548931.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52242
+        },
+        "505995ba12ea94a5fb79508794040dbb87d6057e4ccda916d0e1a6f547756500": {
+            "file": "images/505995ba12ea94a5fb79508794040dbb87d6057e4ccda916d0e1a6f547756500.jpg",
+            "filename": "paste-443025876582403.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 77586
+        },
+        "5cbde7cde668c619432ac4626bf618ce9c0803385dbcc94966c6170aae65a595": {
+            "file": "images/5cbde7cde668c619432ac4626bf618ce9c0803385dbcc94966c6170aae65a595.jpg",
+            "filename": "paste-39784282062851 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 111645
+        },
+        "90a31a103ef0fffcc75637778600cc436a650f8d3d57f87fc4c32bc0a56adb24": {
+            "file": "images/90a31a103ef0fffcc75637778600cc436a650f8d3d57f87fc4c32bc0a56adb24.jpg",
+            "filename": "paste-342308893491203.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 23945
+        },
+        "9f64c8b6cd799b90c1d5bab38886b76d852ab4ddf225c0f32487f96ac27ab02a": {
+            "file": "images/9f64c8b6cd799b90c1d5bab38886b76d852ab4ddf225c0f32487f96ac27ab02a.jpg",
+            "filename": "paste-240887535763457.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 116853
+        },
+        "c66857d0df3b294d3ab298e6efb998680dd3f682e4c3232e5b162cbe153a6a02": {
+            "file": "images/c66857d0df3b294d3ab298e6efb998680dd3f682e4c3232e5b162cbe153a6a02.jpg",
+            "filename": "paste-450018083340291.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 56355
+        },
+        "d1154c8aeb901a2ad401929de6aaae9cd3928d354e216d7df1f97ce86df48ee4": {
+            "file": "images/d1154c8aeb901a2ad401929de6aaae9cd3928d354e216d7df1f97ce86df48ee4.jpg",
+            "filename": "paste-181475253157891.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 27752
+        }
+    }
+}

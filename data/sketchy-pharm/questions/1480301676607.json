@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480301676607",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480301676607",
+        "noteId": "1480300461128",
+        "noteGuid": "gen6[eB!s4",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::7 Antimicrobials::1 Cell Wall and Membrane Active Antibiotics::1.3 - Ampicillin, Amoxicillin, Piperacillin, Ticarcillin",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antimicrobials::(1)-Cell_Wall_&_Membrane_Active::1.3-Ampicillin,Amoxicillin,Piperacillin,Ticaracillin",
+        "$$Antimicrobials",
+        "$Cell_Wall_&_Membrane_Active_Antibiotics"
+    ],
+    "question": {
+        "text": "§\n\nName 3 infections Ampicillin is used to treat",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nName 3 infections Ampicillin is used to treat\n\n(1) Anaerobic infections\n(2) Enterococcus\n\n(3) Meningitis due to Listeria\n\n[Image: 53baf8e2488daa35b5380ec130718512b2428a10514ab59f60e1dc74dd2afebf]\n\n[Image: 28212da91705a0c87740b46506b0f1b14f26c11d497fdb30cc3036782a5701e3]\n\n[Image: 50768bc4d5dab3d70eadb5b8a2acb9e5c4e735dd582c11ca69bf42d5dfb34864]\n\n1.3 - Ampicillin, Amoxicillin, Piperacillin, Ticarcillin\n[Image: 73649876eb90940a2752e430d48e8b86fa74f357ee4b66ebcc0c785bdb3d9a75]\n\n[Image: e247dc64a8f74ff65fa3d44949043d8004ba0ee12839e32679e234e2233f2722]\n\n[Image: 8e0858281ca4bfb7a1bd12c078d95409c582c615ea7260b31a32bbb31fa1d57f]",
+        "imageIds": [
+            "53baf8e2488daa35b5380ec130718512b2428a10514ab59f60e1dc74dd2afebf",
+            "28212da91705a0c87740b46506b0f1b14f26c11d497fdb30cc3036782a5701e3",
+            "50768bc4d5dab3d70eadb5b8a2acb9e5c4e735dd582c11ca69bf42d5dfb34864",
+            "73649876eb90940a2752e430d48e8b86fa74f357ee4b66ebcc0c785bdb3d9a75",
+            "e247dc64a8f74ff65fa3d44949043d8004ba0ee12839e32679e234e2233f2722",
+            "8e0858281ca4bfb7a1bd12c078d95409c582c615ea7260b31a32bbb31fa1d57f"
+        ]
+    },
+    "images": {
+        "28212da91705a0c87740b46506b0f1b14f26c11d497fdb30cc3036782a5701e3": {
+            "file": "images/28212da91705a0c87740b46506b0f1b14f26c11d497fdb30cc3036782a5701e3.jpg",
+            "filename": "paste-96812857819139.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 36431
+        },
+        "50768bc4d5dab3d70eadb5b8a2acb9e5c4e735dd582c11ca69bf42d5dfb34864": {
+            "file": "images/50768bc4d5dab3d70eadb5b8a2acb9e5c4e735dd582c11ca69bf42d5dfb34864.jpg",
+            "filename": "paste-29691108917251.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 58036
+        },
+        "53baf8e2488daa35b5380ec130718512b2428a10514ab59f60e1dc74dd2afebf": {
+            "file": "images/53baf8e2488daa35b5380ec130718512b2428a10514ab59f60e1dc74dd2afebf.jpg",
+            "filename": "paste-96482145337347.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 34875
+        },
+        "73649876eb90940a2752e430d48e8b86fa74f357ee4b66ebcc0c785bdb3d9a75": {
+            "file": "images/73649876eb90940a2752e430d48e8b86fa74f357ee4b66ebcc0c785bdb3d9a75.jpg",
+            "filename": "paste-62818191671299 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 102811
+        },
+        "8e0858281ca4bfb7a1bd12c078d95409c582c615ea7260b31a32bbb31fa1d57f": {
+            "file": "images/8e0858281ca4bfb7a1bd12c078d95409c582c615ea7260b31a32bbb31fa1d57f.jpg",
+            "filename": "paste-485790865948675.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 36322
+        },
+        "e247dc64a8f74ff65fa3d44949043d8004ba0ee12839e32679e234e2233f2722": {
+            "file": "images/e247dc64a8f74ff65fa3d44949043d8004ba0ee12839e32679e234e2233f2722.jpg",
+            "filename": "paste-328711027032067.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 77523
+        }
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "schemaVersion": 1,
+    "id": "sketchy-pharm:1480294535713",
+    "collectionId": "sketchy-pharm",
+    "source": {
+        "type": "anki",
+        "cardId": "1480294535713",
+        "noteId": "1480292425830",
+        "noteGuid": "F-Oy]]*-Bc",
+        "modelId": "1475688242543",
+        "templateOrdinal": 5
+    },
+    "deck": "Sketchy Pharm::8 Antineoplastics::1 Antimetabolites::1.1 - Methotrexate, leucovorin, 5-fluorouracil, hydroxyurea",
+    "tags": [
+        "#SketchyPharm",
+        "#SketchyPharm::Antineoplastics::(1)-Antimetabolites::1.1-Methotrexate,Leucovorin,5-FU,Hydroxyurea",
+        "$$Antineoplastics",
+        "$Antimetabolites"
+    ],
+    "question": {
+        "text": "§\n\nAdverse Effects (7) : Methotrexate",
+        "imageIds": []
+    },
+    "answer": {
+        "text": "§\nAdverse Effects (7) : Methotrexate\n\n(1) Megaloblastic anemia\n\n(2) Pulmonary fibrosis\n\n(3) Hepatotoxicity\n\n(4) Alopecia\n\n(5) Mucositis\n\n(6) Pancytopenia\n\n(7) ⇒ Immunosuppression\n\n[Image: 443161957335b71a82b9ec6a3386514db1795ac30526dec494e8335f4f31f954]\n\n[Image: 6c9d678e2e88e8ee1828b7c33ce249b9568f28bb08cf1b599b3797c6e6aa4356]\n\n[Image: c382a4fd2cd632a250628f714c00470c14382bed33dce8fad512f1f2013969ae]\n\n[Image: 5b73847cb526f76d1f7f1713c52c84f55ebff15692c73690dce2f28ff9b1140a]\n\n[Image: 043ac604efcea8d7ec39bd6e53890e4f6a011b5410597ce6620c121b098314b8]\n\n[Image: 6ba82235da070d5feeff3c9b5fb97d4b31174cfff274e62eaf4a45790735cfe9]\n\n1.1 - Methotrexate, leucovorin, 5-fluorouracil, hydroxyurea\n[Image: 62d369da2900702f60cd36e1bc35c329bfe8271149816eac8050ac0c1b8bfd14]\n\n[Image: ed347b61d9a5db6d536463b914491c82ed7605f4ba7a817a2e0b6a9da73dc373]\n\n[Image: 2a1e378b1723d814e08cccf3c3d69b6139f022b818600e13d8fbd8737e3b5a90]\n\n[Image: e19f5a1ffca1b6101ba47e85c3245210cc16464227cefb77f324c5526bbbd848]",
+        "imageIds": [
+            "443161957335b71a82b9ec6a3386514db1795ac30526dec494e8335f4f31f954",
+            "6c9d678e2e88e8ee1828b7c33ce249b9568f28bb08cf1b599b3797c6e6aa4356",
+            "c382a4fd2cd632a250628f714c00470c14382bed33dce8fad512f1f2013969ae",
+            "5b73847cb526f76d1f7f1713c52c84f55ebff15692c73690dce2f28ff9b1140a",
+            "043ac604efcea8d7ec39bd6e53890e4f6a011b5410597ce6620c121b098314b8",
+            "6ba82235da070d5feeff3c9b5fb97d4b31174cfff274e62eaf4a45790735cfe9",
+            "62d369da2900702f60cd36e1bc35c329bfe8271149816eac8050ac0c1b8bfd14",
+            "ed347b61d9a5db6d536463b914491c82ed7605f4ba7a817a2e0b6a9da73dc373",
+            "2a1e378b1723d814e08cccf3c3d69b6139f022b818600e13d8fbd8737e3b5a90",
+            "e19f5a1ffca1b6101ba47e85c3245210cc16464227cefb77f324c5526bbbd848"
+        ]
+    },
+    "images": {
+        "043ac604efcea8d7ec39bd6e53890e4f6a011b5410597ce6620c121b098314b8": {
+            "file": "images/043ac604efcea8d7ec39bd6e53890e4f6a011b5410597ce6620c121b098314b8.jpg",
+            "filename": "paste-36279588749315.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 53171
+        },
+        "2a1e378b1723d814e08cccf3c3d69b6139f022b818600e13d8fbd8737e3b5a90": {
+            "file": "images/2a1e378b1723d814e08cccf3c3d69b6139f022b818600e13d8fbd8737e3b5a90.jpg",
+            "filename": "paste-166064910499843.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 9871
+        },
+        "443161957335b71a82b9ec6a3386514db1795ac30526dec494e8335f4f31f954": {
+            "file": "images/443161957335b71a82b9ec6a3386514db1795ac30526dec494e8335f4f31f954.jpg",
+            "filename": "paste-34793530064899.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 50172
+        },
+        "5b73847cb526f76d1f7f1713c52c84f55ebff15692c73690dce2f28ff9b1140a": {
+            "file": "images/5b73847cb526f76d1f7f1713c52c84f55ebff15692c73690dce2f28ff9b1140a.jpg",
+            "filename": "paste-35983236005891 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52185
+        },
+        "62d369da2900702f60cd36e1bc35c329bfe8271149816eac8050ac0c1b8bfd14": {
+            "file": "images/62d369da2900702f60cd36e1bc35c329bfe8271149816eac8050ac0c1b8bfd14.jpg",
+            "filename": "paste-329273667747841.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 137898
+        },
+        "6ba82235da070d5feeff3c9b5fb97d4b31174cfff274e62eaf4a45790735cfe9": {
+            "file": "images/6ba82235da070d5feeff3c9b5fb97d4b31174cfff274e62eaf4a45790735cfe9.jpg",
+            "filename": "paste-34896609280003.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52551
+        },
+        "6c9d678e2e88e8ee1828b7c33ce249b9568f28bb08cf1b599b3797c6e6aa4356": {
+            "file": "images/6c9d678e2e88e8ee1828b7c33ce249b9568f28bb08cf1b599b3797c6e6aa4356.jpg",
+            "filename": "paste-35055523069955.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 52662
+        },
+        "c382a4fd2cd632a250628f714c00470c14382bed33dce8fad512f1f2013969ae": {
+            "file": "images/c382a4fd2cd632a250628f714c00470c14382bed33dce8fad512f1f2013969ae.jpg",
+            "filename": "paste-35407710388227 (1).jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 49081
+        },
+        "e19f5a1ffca1b6101ba47e85c3245210cc16464227cefb77f324c5526bbbd848": {
+            "file": "images/e19f5a1ffca1b6101ba47e85c3245210cc16464227cefb77f324c5526bbbd848.jpg",
+            "filename": "paste-55825984913411.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 121727
+        },
+        "ed347b61d9a5db6d536463b914491c82ed7605f4ba7a817a2e0b6a9da73dc373": {
+            "file": "images/ed347b61d9a5db6d536463b914491c82ed7605f4ba7a817a2e0b6a9da73dc373.jpg",
+            "filename": "paste-162650411499523.jpg",
+            "mimeType": "image/jpeg",
+            "bytes": 35588
+        }
+    }
+}
