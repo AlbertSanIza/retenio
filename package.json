@@ -27,6 +27,7 @@
         "@types/react-dom": "^19.3.0",
         "class-variance-authority": "^0.7.1",
         "cn": "^0.5.2",
+        "convex": "^1.50.0",
         "eslint": "^9.39.5",
         "eslint-config-next": "16.4.6",
         "husky": "^9.1.7",
