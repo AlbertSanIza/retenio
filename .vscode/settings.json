@@ -1,9 +1,39 @@
 {
+    "cSpell.language": "en",
     "editor.codeActionsOnSave": {
         "source.fixAll": "explicit"
     },
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": true,
+    "editor.guides.bracketPairs": "active",
+    "editor.linkedEditing": true,
+    "editor.quickSuggestions": {
+        "comments": "off",
+        "other": "on",
+        "strings": "on"
+    },
+    "editor.suggestOnTriggerCharacters": true,
+    "files.associations": {
+        "*.css": "tailwindcss"
+    },
     "files.insertFinalNewline": true,
+    "files.readonlyInclude": {
+        "**/bun.lock": true
+    },
+    "files.watcherExclude": {
+        "**/bun.lock": true
+    },
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "github.copilot.enable": {
+        "markdown": true
+    },
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "search.exclude": {
+        "**/bun.lock": true
+    },
+    "tailwindCSS.classFunctions": ["cn", "clsx", "cva", "twMerge", "tw\\.[a-z-]+"],
+    "window.density.layout": "compact",
+    "workbench.browser.openLocalhostLinks": false,
     "workbench.iconTheme": "material-icon-theme"
 }
