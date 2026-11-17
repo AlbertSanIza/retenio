@@ -16,7 +16,7 @@ type ToolResult = { content: Content[]; isError?: boolean }
 
 const dataDirectory = path.join(process.cwd(), 'data')
 // Leave room for JSON metadata and the MCP envelope within a serverless response.
-const inlineImageBudget = 3_000_000
+const maxImageResponseBytes = 3_000_000
 let catalogPromise: Promise<Catalog> | undefined
 
 async function getCatalog() {
@@ -52,7 +52,7 @@ async function imageContent(catalog: Catalog, imageId: string): Promise<Content[
     if (data.length !== image.bytes || createHash('sha256').update(data).digest('hex') !== imageId) {
         throw new Error('Image contents do not match the imported metadata')
     }
-    if (Math.ceil(data.length / 3) * 4 > inlineImageBudget) throw new Error('Image is too large for an MCP response')
+    if (Math.ceil(data.length / 3) * 4 > maxImageResponseBytes) throw new Error('Image is too large for an MCP response')
     return [
         { type: 'text', text: `Image ${imageId}: ${image.filename}` },
         { type: 'image', mimeType: image.mimeType, data: data.toString('base64') }
@@ -70,23 +70,6 @@ export async function getRandomQuestions(input: z.input<typeof randomQuestionsSc
             return toolError(`Only ${availableCount} cards remain after exclusions. Request fewer cards or reset excludeCardIds.`)
         }
         const cards = sampleCards(catalog.cards, count, excludeCardIds)
-        const imageIds = [...new Set(cards.flatMap((card) => [...card.question.imageIds, ...card.answer.imageIds]))]
-        const includedImageIds: string[] = []
-        const deferredImageIds: string[] = []
-        const images: Content[] = []
-        let usedBytes = 0
-        for (const imageId of imageIds) {
-            const image = catalog.media[imageId]
-            if (!image) throw new Error('Card references an unknown image')
-            const encodedSize = Math.ceil(image.bytes / 3) * 4
-            if (usedBytes + encodedSize > inlineImageBudget) {
-                deferredImageIds.push(imageId)
-                continue
-            }
-            images.push(...(await imageContent(catalog, imageId)))
-            includedImageIds.push(imageId)
-            usedBytes += encodedSize
-        }
         return {
             content: [
                 {
@@ -95,15 +78,10 @@ export async function getRandomQuestions(input: z.input<typeof randomQuestionsSc
                         totalCards: catalog.cards.length,
                         count: cards.length,
                         cards,
-                        includedImageIds,
-                        deferredImageIds,
-                        ...(deferredImageIds.length > 0 && {
-                            imageInstructions:
-                                'Call get_anki_image for each deferredImageId needed. All questions and answers are included; images are deferred to keep responses within transport limits.'
-                        })
+                        imageInstructions:
+                            'Images are not included. Call get_anki_image with an ID from question.imageIds or answer.imageIds only when an image is needed.'
                     })
-                },
-                ...images
+                }
             ]
         }
     } catch (error) {

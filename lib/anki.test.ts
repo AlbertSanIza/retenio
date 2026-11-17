@@ -26,7 +26,7 @@ describe('Anki sampling', () => {
 })
 
 describe('Imported deck and MCP images', () => {
-    test('returns 10 cards, matching image blocks, and retrievable deferred images', async () => {
+    test('returns 10 cards without image data and preserves on-demand image retrieval', async () => {
         const result = await getRandomQuestions({ count: 10 })
         expect(result.isError).toBeUndefined()
         const first = result.content[0]
@@ -35,27 +35,23 @@ describe('Imported deck and MCP images', () => {
         expect(metadata.totalCards).toBe(1318)
         expect(metadata.cards).toHaveLength(10)
         expect(new Set(metadata.cards.map((card: { id: string }) => card.id)).size).toBe(10)
+        expect(result.content).toHaveLength(1)
+        expect(metadata.includedImageIds).toBeUndefined()
+        expect(metadata.deferredImageIds).toBeUndefined()
+        const catalog = await loadCatalog('data')
         for (const card of metadata.cards) {
             expect(card.question.text.length).toBeGreaterThan(0)
             expect(card.answer.text.length).toBeGreaterThan(0)
             for (const id of [...card.question.imageIds, ...card.answer.imageIds]) {
-                expect([...metadata.includedImageIds, ...metadata.deferredImageIds]).toContain(id)
+                expect(catalog.media[id]).toBeDefined()
             }
         }
-        const images = result.content.filter((content) => content.type === 'image')
-        expect(images.length).toBe(metadata.includedImageIds.length)
-        for (const [index, image] of images.entries()) {
-            expect(image.mimeType).toBe('image/jpeg')
-            const bytes = Buffer.from(image.data, 'base64')
-            expect(createHash('sha256').update(bytes).digest('hex')).toBe(metadata.includedImageIds[index])
-        }
-        expect(Buffer.byteLength(JSON.stringify(result))).toBeLessThan(4_000_000)
-        // Any valid image ID can be fetched separately, whether included or deferred.
-        const imageId = metadata.deferredImageIds[0] ?? metadata.includedImageIds[0]
+        const imageId = metadata.cards[0].answer.imageIds[0]
         const fetched = await getAnkiImage({ imageId })
         expect(fetched.isError).toBeUndefined()
         const image = fetched.content[1]
         if (image.type !== 'image') throw new Error('Expected MCP image content')
+        expect(image.mimeType).toBe('image/jpeg')
         expect(createHash('sha256').update(Buffer.from(image.data, 'base64')).digest('hex')).toBe(imageId)
     })
 

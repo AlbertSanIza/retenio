@@ -6,7 +6,7 @@ const handler = createMcpHandler((server) => {
         'get_random_questions',
         {
             description:
-                'Get random Anki cards with questions, answers, deck names, tags and images. Cards do not repeat within a call; pass excludeCardIds to avoid earlier cards. When quizzing, show only the question and its images until the learner answers. Answer images may reveal the solution. Fetch any deferredImageIds with get_anki_image.',
+                'Get random Anki cards with questions, answers, deck names, tags and image IDs. Image data is not included; call get_anki_image only when an image is needed. Cards do not repeat within a call; pass excludeCardIds to avoid earlier cards. When quizzing, show only the question and any needed question images until the learner answers. Answer images may reveal the solution.',
             inputSchema: randomQuestionsSchema,
             annotations: { readOnlyHint: true, destructiveHint: false, openWorldHint: false }
         },
@@ -15,7 +15,7 @@ const handler = createMcpHandler((server) => {
     server.registerTool(
         'get_anki_image',
         {
-            description: 'Get an original Anki image by its image ID, including images deferred from a large get_random_questions response.',
+            description: 'Get an original Anki image on demand using an ID from question.imageIds or answer.imageIds returned by get_random_questions.',
             inputSchema: imageInputSchema,
             annotations: { readOnlyHint: true, destructiveHint: false, openWorldHint: false }
         },
