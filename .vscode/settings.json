@@ -19,10 +19,12 @@
     },
     "files.insertFinalNewline": true,
     "files.readonlyInclude": {
-        "**/bun.lock": true
+        "**/bun.lock": true,
+        "convex/_generated/**": true
     },
     "files.watcherExclude": {
-        "**/bun.lock": true
+        "**/bun.lock": true,
+        "convex/_generated/**": true
     },
     "git.autofetch": true,
     "git.confirmSync": false,
@@ -31,7 +33,8 @@
     },
     "github.copilot.nextEditSuggestions.enabled": true,
     "search.exclude": {
-        "**/bun.lock": true
+        "**/bun.lock": true,
+        "convex/_generated/**": true
     },
     "tailwindCSS.classFunctions": ["cn", "clsx", "cva", "twMerge", "tw\\.[a-z-]+"],
     "window.density.layout": "compact",
