@@ -46,10 +46,10 @@ test('records exact snapshots once per request and preserves them across bank ed
         const row = (await ctx.db.query('cards').first())!
         await ctx.db.patch(row._id, { card: { ...card, answer: { text: 'Updated answer', imageIds: [] } } })
     })
-    const session = await t.query(api.sessions.get, { sessionId: first.sessionId })
+    const session = await t.query(api.sessions.get, { asOf: Date.now(), sessionId: first.sessionId })
     expect(session!.entries[0].card.answer.text).toBe('Original answer')
     expect(session!.entries[0].card).not.toHaveProperty('source')
-    expect((await t.query(api.sessions.list, { paginationOpts: { numItems: 20, cursor: null } })).page).toHaveLength(1)
+    expect((await t.query(api.sessions.list, { asOf: Date.now(), paginationOpts: { numItems: 20, cursor: null } })).page).toHaveLength(1)
 })
 test('only due approved questions are recorded and failures write nothing', async () => {
     const { t } = await setup()
@@ -73,7 +73,7 @@ test('ratings use the shared schedule and retries cannot overwrite a newer revie
     const newer = await t.mutation(api.reviews.submit, { cardId: card.id, rating: 'good', requestId: 'a-later-website-review' })
     await t.mutation(api.sessions.rate, { sessionId, cardId: card.id, rating: 'again' })
     expect((await t.run((ctx) => ctx.db.query('approvals').first()))!.dueAt).toBe(newer.dueAt)
-    expect((await t.query(api.sessions.list, { paginationOpts: { numItems: 20, cursor: null } })).page[0].reviewedCount).toBe(1)
+    expect((await t.query(api.sessions.list, { asOf: Date.now(), paginationOpts: { numItems: 20, cursor: null } })).page[0].reviewedCount).toBe(1)
 })
 test('a review in another session or removal cannot be bypassed through history', async () => {
     const { t } = await setup()
@@ -89,14 +89,26 @@ test('72-hour expiry hides history and deletes snapshots while retaining review 
     const { t } = await setup(),
         { sessionId } = await t.mutation(api.sessions.record, { cardIds: [card.id], requestId: 'expiring-session-request' })
     await t.mutation(api.sessions.rate, { sessionId, cardId: card.id, rating: 'easy' })
-    const session = await t.query(api.sessions.get, { sessionId })
+    const session = await t.query(api.sessions.get, { asOf: Date.now(), sessionId })
     vi.setSystemTime(session!.expiresAt)
-    expect(await t.query(api.sessions.get, { sessionId })).toBeNull()
-    expect((await t.query(api.sessions.list, { paginationOpts: { numItems: 20, cursor: null } })).page).toEqual([])
+    expect(await t.query(api.sessions.get, { asOf: Date.now(), sessionId })).toBeNull()
+    expect((await t.query(api.sessions.list, { asOf: Date.now(), paginationOpts: { numItems: 20, cursor: null } })).page).toEqual([])
     await expect(t.mutation(api.sessions.rate, { sessionId, cardId: card.id, rating: 'good' })).rejects.toThrow('expired')
     await t.mutation(internal.sessions.expire, { sessionId })
     expect(await t.run((ctx) => ctx.db.query('sessionCards').collect())).toEqual([])
     expect((await t.run((ctx) => ctx.db.query('approvals').first()))!.rating).toBe('easy')
+})
+test('a stable browsing cutoff cannot extend the server rating deadline', async () => {
+    const { t } = await setup()
+    const asOf = Date.now()
+    const { sessionId } = await t.mutation(api.sessions.record, { cardIds: [card.id], requestId: 'stable-query-cutoff' })
+    const original = await t.query(api.sessions.get, { sessionId, asOf })
+    vi.setSystemTime(asOf + retention)
+    // Queries are deterministic for a browsing session; the UI hides expired entries with its clock.
+    expect(await t.query(api.sessions.get, { sessionId, asOf })).toEqual(original)
+    expect(await t.query(api.sessions.get, { sessionId, asOf: Date.now() })).toBeNull()
+    await expect(t.mutation(api.sessions.rate, { sessionId, cardId: card.id, rating: 'again' })).rejects.toThrow('expired')
+    expect((await t.run((ctx) => ctx.db.query('approvals').first()))!.dueAt).toBeUndefined()
 })
 test('session images survive old-bank cleanup and are reclaimed after the last reference expires', async () => {
     const { t, importId } = await setup(),
@@ -119,7 +131,7 @@ test('session images survive old-bank cleanup and are reclaimed after the last r
     await t.mutation(internal.imports.cleanup, { importId })
     await t.mutation(internal.imports.cleanup, { importId })
     expect(await t.run(async (ctx) => (await ctx.storage.get(storageId)) !== null)).toBe(true)
-    const first = await t.query(api.sessions.get, { sessionId: a.sessionId })
+    const first = await t.query(api.sessions.get, { asOf: Date.now(), sessionId: a.sessionId })
     vi.setSystemTime(first!.expiresAt)
     await t.mutation(internal.sessions.expire, { sessionId: a.sessionId })
     expect(await t.run(async (ctx) => (await ctx.storage.get(storageId)) !== null)).toBe(true)

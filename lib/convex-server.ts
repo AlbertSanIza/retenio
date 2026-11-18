@@ -1,19 +1,10 @@
 import { fetchMutation, fetchQuery } from 'convex/nextjs'
 import type { FunctionArgs, FunctionReference, FunctionReturnType } from 'convex/server'
+import { withTimeout } from './async'
 async function convexCall<T>(call: (url: string) => Promise<T>): Promise<T> {
     const url = process.env.NEXT_PUBLIC_CONVEX_URL
     if (!url) throw new Error('Convex is not configured')
-    let timer: ReturnType<typeof setTimeout> | undefined
-    try {
-        return await Promise.race([
-            call(url),
-            new Promise<never>((_, reject) => {
-                timer = setTimeout(() => reject(new Error('Convex request timed out')), 5000)
-            })
-        ])
-    } finally {
-        clearTimeout(timer)
-    }
+    return withTimeout(call(url), 5000)
 }
 
 export function convexQuery<Query extends FunctionReference<'query'>>(query: Query, args: FunctionArgs<Query>): Promise<FunctionReturnType<Query>> {

@@ -9,6 +9,7 @@ import { Card } from '@/components/ui/card'
 import { Dialog, DialogContent, DialogDescription, DialogTitle } from '@/components/ui/dialog'
 import { Input } from '@/components/ui/input'
 import { Skeleton } from '@/components/ui/skeleton'
+import { withTimeout } from '@/lib/async'
 import { isDue, type ReviewRating, type ReviewState } from '@/lib/review-schedule'
 import type { LibraryCard, LibraryPage, StudyScope } from '@/lib/study'
 import { cn } from '@/lib/utils'
@@ -16,6 +17,7 @@ import { ArrowRight, BookOpen, Check, ChevronLeft, ChevronRight, CircleHelp, Lay
 import { useEffect, useRef, useState, type ReactNode } from 'react'
 import { CategoryTree } from './category-tree'
 import { StudyCard } from './study-card'
+import { useNow } from './use-now'
 
 export type ApprovalState = {
     ids: string[] | undefined
@@ -59,18 +61,10 @@ export function Dashboard({
     const [notice, setNotice] = useState('')
     const [studied, setStudied] = useState<string[]>([])
     const [topicsOpen, setTopicsOpen] = useState(false)
-    const [now, setNow] = useState(0)
+    const now = useNow()
     const [nextDueAt, setNextDueAt] = useState<number | null>(null)
     const ratingAttempt = useRef<{ cardId: string; rating: ReviewRating; requestId: string } | null>(null)
     const dueById = new Map(approvals.reviews?.map((r) => [r.cardId, r.dueAt]))
-    useEffect(() => {
-        const initial = setTimeout(() => setNow(Date.now()), 0)
-        const timer = setInterval(() => setNow(Date.now()), 1000)
-        return () => {
-            clearTimeout(initial)
-            clearInterval(timer)
-        }
-    }, [])
     const requestController = useRef<AbortController | null>(null)
     const studyRef = useRef<HTMLDivElement>(null)
     const studyErrorRef = useRef<HTMLDivElement>(null)
@@ -185,19 +179,12 @@ export function Dashboard({
         setSaving(true)
         setSaveError(null)
         const id = selected.card.id
-        let timeout: ReturnType<typeof setTimeout> | undefined
         try {
-            await Promise.race([
-                approvals.save(id, false),
-                new Promise<never>((_, reject) => {
-                    timeout = setTimeout(() => reject(new Error('Save confirmation timed out')), 12000)
-                })
-            ])
+            await withTimeout(approvals.save(id, false))
             if (selectedId.current === id) setNotice('Removed. Your agent will no longer ask this question.')
         } catch {
             if (selectedId.current === id) setSaveError('We could not confirm that change. Check your connection and try again.')
         } finally {
-            clearTimeout(timeout)
             setSaving(false)
         }
     }
@@ -210,14 +197,8 @@ export function Dashboard({
         }
         setSaving(true)
         setSaveError(null)
-        let timeout: ReturnType<typeof setTimeout> | undefined
         try {
-            await Promise.race([
-                approvals.rate(id, rating, ratingAttempt.current.requestId),
-                new Promise<never>((_, reject) => {
-                    timeout = setTimeout(() => reject(new Error('Review confirmation timed out')), 12000)
-                })
-            ])
+            await withTimeout(approvals.rate(id, rating, ratingAttempt.current.requestId))
             ratingAttempt.current = null
             if (selectedId.current === id) {
                 setRetry((n) => n + 1)
@@ -232,7 +213,6 @@ export function Dashboard({
                 } else setSaveError('Your review could not be confirmed. Please retry the same rating; it will only be saved once.')
             }
         } finally {
-            clearTimeout(timeout)
             setSaving(false)
         }
     }

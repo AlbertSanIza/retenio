@@ -1,5 +1,6 @@
 import { api } from '../convex/_generated/api'
 import type { Id } from '../convex/_generated/dataModel'
+import { readAllPages } from './async'
 import type { BankCard } from './bank-types'
 import { convexQuery } from './convex-server'
 
@@ -8,19 +9,7 @@ const versions = new Map<string, Promise<BankCard[]>>()
 async function readVersion(importId: Id<'imports'>): Promise<BankCard[]> {
     let pending = versions.get(importId)
     if (!pending) {
-        pending = (async () => {
-            const cards: BankCard[] = []
-            let cursor: string | null = null
-            for (;;) {
-                const page: { page: BankCard[]; isDone: boolean; continueCursor: string } = await convexQuery(api.library.page, {
-                    importId,
-                    paginationOpts: { numItems: 20, cursor }
-                })
-                cards.push(...page.page)
-                if (page.isDone) return cards
-                cursor = page.continueCursor
-            }
-        })().catch((error) => {
+        pending = readAllPages((cursor) => convexQuery(api.library.page, { importId, paginationOpts: { numItems: 20, cursor } })).catch((error) => {
             versions.delete(importId)
             throw error
         })

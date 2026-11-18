@@ -2,6 +2,7 @@ import { expect, test, type APIRequestContext } from '@playwright/test'
 import { ConvexHttpClient } from 'convex/browser'
 import type { FunctionReturnType } from 'convex/server'
 import { api } from '../../convex/_generated/api'
+import { readAllPages } from '../../lib/async'
 import { readPackage } from '../../lib/import/package'
 import { fixturePackage } from '../../lib/import/test-package'
 import { uploadBank } from '../../lib/import/upload'
@@ -137,7 +138,9 @@ test('rating persists a due timestamp and blocks premature website and MCP acces
     expect(direct.status()).toBe(409)
     const random = await request.post('/api/questions/random', { data: { collection: key } })
     expect((await random.json()).code).toBe('NOT_DUE')
-    const approvedIds = await convex.query(api.approvals.list)
+    const approvedIds = (await readAllPages((cursor) => convex.query(api.reviews.page, { paginationOpts: { cursor, numItems: 500 } })))
+        .filter((r) => r.approved)
+        .map((r) => r.cardId)
     const result = await mcp(request, 'get_random_questions', { count: 1, excludeCardIds: approvedIds.filter((id) => id !== cardId) })
     expect(result.isError).toBe(true)
     await page.reload()
@@ -277,7 +280,9 @@ test('MCP sessions persist and share ratings with the mobile history', async ({ 
         const invalid = await mcp(request, 'rate_question', { sessionId: 'not-a-session', cardId: ids[0], rating: 'good' })
         expect(invalid.isError).toBe(true)
         expect(invalid.content[0].text).toContain('Request a fresh batch')
-        const approved = await convex.query(api.approvals.list)
+        const approved = (await readAllPages((cursor) => convex.query(api.reviews.page, { paginationOpts: { cursor, numItems: 500 } })))
+            .filter((r) => r.approved)
+            .map((r) => r.cardId)
         const draw = await mcp(request, 'get_random_questions', { count: 2, excludeCardIds: approved.filter((id) => !ids.includes(id)) })
         expect(draw.isError).not.toBe(true)
         const batch = JSON.parse(draw.content[0].text)
@@ -328,7 +333,7 @@ test('MCP sessions persist and share ratings with the mobile history', async ({ 
             .click()
         await expect(page.getByRole('button', { name: /What is three plus three.*Rated Good/ })).toBeVisible()
         await page.screenshot({ path: 'test-results/agent-session-mobile.png', fullPage: true })
-        const state = await convex.query(api.sessions.get, { sessionId: batch.sessionId })
+        const state = await convex.query(api.sessions.get, { asOf: Date.now(), sessionId: batch.sessionId })
         expect(state!.entries.map((e) => e.rating).sort()).toEqual(['good', 'hard'])
         expect(await page.evaluate(() => document.documentElement.scrollWidth)).toBeLessThanOrEqual(390)
     } finally {

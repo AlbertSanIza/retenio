@@ -1,6 +1,6 @@
 import { defineSchema, defineTable } from 'convex/server'
 import { v } from 'convex/values'
-import { card, rating, reportReason } from './cardFields'
+import { card, rating, reportReason, reviewState } from './cardFields'
 
 export default defineSchema({
     reports: defineTable({
@@ -31,16 +31,10 @@ export default defineSchema({
         .index('by_session', ['sessionId'])
         .index('by_hash', ['hash']),
     approvals: defineTable({
-        cardId: v.string(),
-        approved: v.boolean(),
-        updatedAt: v.number(),
-        dueAt: v.optional(v.number()),
-        rating: v.optional(rating),
+        ...reviewState.fields,
         lastReviewId: v.optional(v.string()),
         reviewCount: v.optional(v.number())
-    })
-        .index('by_cardId', ['cardId'])
-        .index('by_approved', ['approved']),
+    }).index('by_cardId', ['cardId']),
     collections: defineTable({
         key: v.string(),
         name: v.string(),

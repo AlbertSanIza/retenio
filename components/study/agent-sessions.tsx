@@ -4,12 +4,14 @@ import { Button } from '@/components/ui/button'
 import { Card } from '@/components/ui/card'
 import { api } from '@/convex/_generated/api'
 import type { Id } from '@/convex/_generated/dataModel'
+import { withTimeout } from '@/lib/async'
+import { convexErrorMessage } from '@/lib/convex-errors'
 import { isDue, reviewIntervals, type ReviewRating } from '@/lib/review-schedule'
 import { useMutation, usePaginatedQuery, useQuery } from 'convex/react'
-import { ConvexError } from 'convex/values'
 import { ArrowLeft, ArrowRight, Check, Clock3, MessageCircle } from 'lucide-react'
 import { useEffect, useState, type ReactNode } from 'react'
 import { StudyCard } from './study-card'
+import { useNow } from './use-now'
 
 function when(timestamp: number) {
     return new Date(timestamp).toLocaleString(undefined, { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' })
@@ -23,22 +25,16 @@ export function AgentSessions({
     onStudying: (studying: boolean) => void
     reportQuestion?: (cardId: string) => ReactNode
 }) {
-    const { results, status, loadMore } = usePaginatedQuery(api.sessions.list, {}, { initialNumItems: 6 })
+    // Keep pagination stable while browsing. Scheduled expiry and the UI clock remove expired sessions.
+    const [asOf] = useState(() => Date.now())
+    const { results, status, loadMore } = usePaginatedQuery(api.sessions.list, { asOf }, { initialNumItems: 6 })
     const [sessionId, setSessionId] = useState<Id<'agentSessions'> | null>(null)
-    const session = useQuery(api.sessions.get, sessionId ? { sessionId } : 'skip')
+    const session = useQuery(api.sessions.get, sessionId ? { sessionId, asOf } : 'skip')
     const rate = useMutation(api.sessions.rate)
     const [cardId, setCardId] = useState<string | null>(null)
     const [saving, setSaving] = useState(false)
     const [error, setError] = useState<string | null>(null)
-    const [now, setNow] = useState(0)
-    useEffect(() => {
-        const initial = setTimeout(() => setNow(Date.now()), 0)
-        const timer = setInterval(() => setNow(Date.now()), 1000)
-        return () => {
-            clearTimeout(initial)
-            clearInterval(timer)
-        }
-    }, [])
+    const now = useNow()
     const active = session && session.expiresAt > now ? session : null
     const entry = active?.entries.find((e) => e.card.id === cardId)
     const studying = !!entry
@@ -50,27 +46,13 @@ export function AgentSessions({
         if (!entry || !sessionId || saving) return
         setSaving(true)
         setError(null)
-        let timeout: ReturnType<typeof setTimeout> | undefined
         try {
-            await Promise.race([
-                rate({ sessionId, cardId: entry.card.id, rating }),
-                new Promise<never>((_, reject) => {
-                    timeout = setTimeout(() => reject(new Error('Confirmation delayed. This session will update when your connection returns.')), 12000)
-                })
-            ])
+            await withTimeout(rate({ sessionId, cardId: entry.card.id, rating }))
             const next = active?.entries.find((e) => e.card.id !== entry.card.id && !e.rating && e.available && e.approved && isDue(e.currentDueAt, Date.now()))
             setCardId(next?.card.id ?? null)
         } catch (cause) {
-            const detail = cause instanceof ConvexError ? cause.data : null
-            setError(
-                typeof detail === 'string'
-                    ? detail
-                    : detail && typeof detail === 'object' && 'message' in detail
-                      ? String(detail.message)
-                      : 'Confirmation delayed. This session will update when your connection returns. You can safely retry.'
-            )
+            setError(convexErrorMessage(cause, 'Confirmation delayed. This session will update when your connection returns. You can safely retry.'))
         } finally {
-            clearTimeout(timeout)
             setSaving(false)
         }
     }

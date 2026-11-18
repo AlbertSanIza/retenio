@@ -11,3 +11,11 @@ export const card = v.object({
 export const rating = v.union(v.literal('again'), v.literal('hard'), v.literal('good'), v.literal('easy'))
 
 export const reportReason = v.union(v.literal('confusing'), v.literal('answer'), v.literal('image'))
+
+export const reviewState = v.object({
+    cardId: v.string(),
+    approved: v.boolean(),
+    updatedAt: v.number(),
+    dueAt: v.optional(v.number()),
+    rating: v.optional(rating)
+})

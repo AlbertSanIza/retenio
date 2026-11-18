@@ -5,29 +5,14 @@ import { Card } from '@/components/ui/card'
 import { Dialog, DialogContent, DialogDescription, DialogTitle, DialogTrigger } from '@/components/ui/dialog'
 import { api } from '@/convex/_generated/api'
 import type { Id } from '@/convex/_generated/dataModel'
+import { withTimeout } from '@/lib/async'
+import { convexErrorMessage } from '@/lib/convex-errors'
 import { useMutation, usePaginatedQuery } from 'convex/react'
-import { ConvexError } from 'convex/values'
 import { Check, Flag } from 'lucide-react'
 import { useEffect, useRef, useState } from 'react'
 
 const reasons = { confusing: 'Confusing wording', answer: 'Answer seems wrong', image: 'Image issue' }
 type Reason = keyof typeof reasons
-async function confirmSave<T>(action: Promise<T>) {
-    let timer: ReturnType<typeof setTimeout> | undefined
-    try {
-        return await Promise.race([
-            action,
-            new Promise<never>((_, reject) => {
-                timer = setTimeout(() => reject(new Error('timeout')), 12000)
-            })
-        ])
-    } finally {
-        clearTimeout(timer)
-    }
-}
-function errorText(error: unknown) {
-    return error instanceof ConvexError && typeof error.data === 'string' ? error.data : 'Could not confirm the change. Check your connection and retry safely.'
-}
 export function ReportQuestion({ cardId, connected }: { cardId: string; connected: boolean }) {
     const submit = useMutation(api.reports.submit)
     const [open, setOpen] = useState(false),
@@ -74,14 +59,14 @@ export function ReportQuestion({ cardId, connected }: { cardId: string; connecte
                             setSaving(true)
                             setError('')
                             try {
-                                const result = await confirmSave(submit({ cardId, reason, note }))
+                                const result = await withTimeout(submit({ cardId, reason, note }))
                                 setSaved(
                                     result.alreadyReported
                                         ? 'This question already has an open report. Find it in Card reports.'
                                         : 'Report saved. You can find it in Card reports.'
                                 )
                             } catch (cause) {
-                                setError(errorText(cause))
+                                setError(convexErrorMessage(cause, 'Could not confirm the change. Check your connection and retry safely.'))
                             } finally {
                                 setSaving(false)
                             }
@@ -181,10 +166,10 @@ export function CardReports({ connected }: { connected: boolean }) {
                                         setSaving(report._id)
                                         setError('')
                                         try {
-                                            await confirmSave(resolve({ id: report._id }))
+                                            await withTimeout(resolve({ id: report._id }))
                                             heading.current?.focus({ preventScroll: true })
                                         } catch (cause) {
-                                            setError(errorText(cause))
+                                            setError(convexErrorMessage(cause, 'Could not confirm the change. Check your connection and retry safely.'))
                                         } finally {
                                             setSaving(null)
                                         }

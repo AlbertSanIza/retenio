@@ -1,16 +1,27 @@
-import { paginationOptsValidator } from 'convex/server'
+import { paginationOptsValidator, paginationResultValidator } from 'convex/server'
 import { ConvexError, v } from 'convex/values'
 import { isDue } from '../lib/review-schedule'
 import { internal } from './_generated/api'
 import { internalMutation, mutation, query } from './_generated/server'
-import { rating } from './cardFields'
+import { card, rating } from './cardFields'
 import { activeCard } from './library'
 import { deleteUnusedImage } from './media'
-import { saveReview } from './reviews'
+import { getReview, saveReview } from './reviews'
 
+const sessionSummary = v.object({ id: v.id('agentSessions'), createdAt: v.number(), expiresAt: v.number(), count: v.number(), reviewedCount: v.number() })
+const sessionEntry = v.object({
+    card: card.omit('source'),
+    rating: v.optional(rating),
+    reviewedAt: v.optional(v.number()),
+    dueAt: v.optional(v.number()),
+    currentDueAt: v.optional(v.number()),
+    approved: v.boolean(),
+    available: v.boolean()
+})
 const retention = 3 * 24 * 60 * 60_000
 export const record = mutation({
     args: { cardIds: v.array(v.string()), requestId: v.string() },
+    returns: v.object({ sessionId: v.id('agentSessions'), cards: v.array(card) }),
     handler: async (ctx, { cardIds, requestId }) => {
         if (requestId.length < 16 || requestId.length > 100 || cardIds.length < 1 || cardIds.length > 10 || new Set(cardIds).size !== cardIds.length)
             throw new ConvexError('Invalid practice session')
@@ -24,17 +35,14 @@ export const record = mutation({
             const entries = await ctx.db
                 .query('sessionCards')
                 .withIndex('by_session', (q) => q.eq('sessionId', existing._id))
-                .collect()
+                .take(10)
             if (JSON.stringify(entries.map((e) => e.card.id)) !== JSON.stringify(cardIds)) throw new ConvexError('Session request changed')
             return { sessionId: existing._id, cards: entries.map((e) => e.card) }
         }
         const cards = []
         for (const cardId of cardIds) {
             const current = await activeCard(ctx, cardId)
-            const review = await ctx.db
-                .query('approvals')
-                .withIndex('by_cardId', (q) => q.eq('cardId', cardId))
-                .unique()
+            const review = await getReview(ctx, cardId)
             if (!current || !review?.approved || !isDue(review.dueAt, Date.now()))
                 throw new ConvexError('A question is no longer due for agent practice. Request a fresh batch.')
             cards.push(current.card)
@@ -52,11 +60,12 @@ export const record = mutation({
     }
 })
 export const list = query({
-    args: { paginationOpts: paginationOptsValidator },
-    handler: async (ctx, { paginationOpts }) => {
+    args: { paginationOpts: paginationOptsValidator, asOf: v.number() },
+    returns: paginationResultValidator(sessionSummary),
+    handler: async (ctx, { paginationOpts, asOf }) => {
         const result = await ctx.db
             .query('agentSessions')
-            .withIndex('by_expiry', (q) => q.gt('expiresAt', Date.now()))
+            .withIndex('by_expiry', (q) => q.gt('expiresAt', asOf))
             .order('desc')
             .paginate({ ...paginationOpts, numItems: Math.min(paginationOpts.numItems, 20) })
         return {
@@ -66,14 +75,15 @@ export const list = query({
     }
 })
 export const get = query({
-    args: { sessionId: v.id('agentSessions') },
-    handler: async (ctx, { sessionId }) => {
+    args: { sessionId: v.id('agentSessions'), asOf: v.number() },
+    returns: v.union(v.null(), v.object({ ...sessionSummary.omit('count', 'reviewedCount').fields, entries: v.array(sessionEntry) })),
+    handler: async (ctx, { sessionId, asOf }) => {
         const session = await ctx.db.get(sessionId)
-        if (!session || session.expiresAt <= Date.now()) return null
+        if (!session || session.expiresAt <= asOf) return null
         const entries = await ctx.db
             .query('sessionCards')
             .withIndex('by_session', (q) => q.eq('sessionId', sessionId))
-            .collect()
+            .take(10)
         return {
             id: sessionId,
             createdAt: session.createdAt,
@@ -81,10 +91,7 @@ export const get = query({
             entries: await Promise.all(
                 entries.map(async (entry) => {
                     const current = await activeCard(ctx, entry.card.id)
-                    const review = await ctx.db
-                        .query('approvals')
-                        .withIndex('by_cardId', (q) => q.eq('cardId', entry.card.id))
-                        .unique()
+                    const review = await getReview(ctx, entry.card.id)
                     const { id, collectionId, categories, question, answer } = entry.card
                     return {
                         card: { id, collectionId, categories, question, answer },
@@ -102,6 +109,7 @@ export const get = query({
 })
 export const rate = mutation({
     args: { sessionId: v.string(), cardId: v.string(), rating },
+    returns: v.object({ rating, dueAt: v.number(), alreadyReviewed: v.boolean() }),
     handler: async (ctx, { sessionId: rawSessionId, cardId, rating }) => {
         const sessionId = ctx.db.normalizeId('agentSessions', rawSessionId)
         if (!sessionId) throw new ConvexError('This practice session was not found or has expired. Request a fresh batch.')
@@ -113,10 +121,7 @@ export const rate = mutation({
             .unique()
         if (!entry) throw new ConvexError('This question was not part of the session')
         if (entry.rating) return { rating: entry.rating, dueAt: entry.dueAt!, alreadyReviewed: true }
-        const review = await ctx.db
-            .query('approvals')
-            .withIndex('by_cardId', (q) => q.eq('cardId', cardId))
-            .unique()
+        const review = await getReview(ctx, cardId)
         if (!review?.approved) throw new ConvexError('This question is no longer in agent practice')
         const { dueAt } = await saveReview(ctx, { cardId, rating, requestId: `session:${sessionId}` })
         await ctx.db.patch(entry._id, { rating, dueAt, reviewedAt: Date.now() })
@@ -126,18 +131,19 @@ export const rate = mutation({
 })
 export const expire = internalMutation({
     args: { sessionId: v.id('agentSessions') },
+    returns: v.null(),
     handler: async (ctx, { sessionId }): Promise<null> => {
         const session = await ctx.db.get(sessionId)
         if (!session || session.expiresAt > Date.now()) return null
         for (const entry of await ctx.db
             .query('sessionCards')
             .withIndex('by_session', (q) => q.eq('sessionId', sessionId))
-            .collect())
+            .take(10))
             await ctx.db.delete(entry._id)
         for (const image of await ctx.db
             .query('sessionImages')
             .withIndex('by_session', (q) => q.eq('sessionId', sessionId))
-            .collect()) {
+            .take(1000)) {
             await ctx.db.delete(image._id)
             await deleteUnusedImage(ctx, image.hash)
         }

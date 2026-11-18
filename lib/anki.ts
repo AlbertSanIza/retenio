@@ -5,6 +5,7 @@ import { z } from 'zod'
 import { getReviewStates } from './approvals'
 import type { BankCard } from './bank-types'
 import { getCatalog, getStoredImage } from './catalog'
+import { convexErrorMessage } from './convex-errors'
 import { convexMutation } from './convex-server'
 import { isDue, type ReviewState } from './review-schedule'
 
@@ -154,13 +155,8 @@ export function createAnkiTools(dependencies: Partial<Dependencies> = {}) {
             const result = await deps.rate(parsed.data)
             return { content: [{ type: 'text', text: JSON.stringify({ ...result, dueAt: new Date(result.dueAt).toISOString() }) }] }
         } catch (error) {
-            if (error instanceof ConvexError) {
-                const detail = error.data
-                if (typeof detail === 'string') return toolError(detail)
-                if (detail && typeof detail === 'object' && 'message' in detail && typeof detail.message === 'string') return toolError(detail.message)
-            }
             console.error('Unable to save agent review:', error)
-            return toolError('Could not confirm this review. Retry with the same sessionId and cardId; it will only be saved once.')
+            return toolError(convexErrorMessage(error, 'Could not confirm this review. Retry with the same sessionId and cardId; it will only be saved once.'))
         }
     }
     return { getRandomQuestions, getAnkiImage, rateQuestion }
