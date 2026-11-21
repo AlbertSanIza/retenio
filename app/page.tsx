@@ -1,18 +1,11 @@
-'use client'
-import { useQuery } from 'convex/react'
-
-import { api } from '@/convex/_generated/api'
+import { ConnectedDashboard } from '@/components/study/connected-dashboard'
+import { Dashboard } from '@/components/study/dashboard'
+import { Suspense } from 'react'
 
 export default function HomePage() {
-    const tasks = useQuery(api.tasks.get)
     return (
-        <div className="fixed inset-0 flex flex-col items-center justify-center text-7xl">
-            Retenio
-            <div className="flex flex-col items-center justify-center text-base">
-                {tasks?.map(({ _id, text }) => (
-                    <div key={_id}>{text}</div>
-                ))}
-            </div>
-        </div>
+        <Suspense fallback={<Dashboard approvals={{ ids: undefined, ready: false, unavailable: false }} />}>
+            <ConnectedDashboard />
+        </Suspense>
     )
 }
