@@ -17,14 +17,15 @@ struct CallToggleButton: View {
     let active: Bool
     let disabled: Bool
     let action: () -> Void
+    @Environment(\.controlSize) private var controlSize
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
     var body: some View {
         Button(action: action) {
             Image(systemName: "phone.fill")
-                .font(.system(size: 31, weight: .semibold))
+                .font(.system(size: controlSize == .small ? 26 : 31, weight: .semibold))
                 .rotationEffect(.degrees(active ? 135 : 0))
                 .foregroundStyle(.white)
-                .frame(width: 86, height: 86)
+                .frame(width: controlSize == .small ? 64 : 86, height: controlSize == .small ? 64 : 86)
                 .background(
                     active ? Color(red: 0.93, green: 0.18, blue: 0.27) : Color(red: 0.12, green: 0.76, blue: 0.42),
                     in: Circle(),
@@ -47,15 +48,16 @@ struct CallControl: View {
     var selected = false
     var disabled = false
     var action: () -> Void
+    @Environment(\.controlSize) private var controlSize
     var body: some View {
         Button(action: action) {
             VStack(spacing: 12) {
                 Image(systemName: symbol)
-                    .font(.system(size: 26, weight: .medium))
-                    .frame(width: 70, height: 70)
+                    .font(.system(size: controlSize == .small ? 22 : 26, weight: .medium))
+                    .frame(width: controlSize == .small ? 48 : 70, height: controlSize == .small ? 48 : 70)
                     .background(.white.opacity(selected ? 0.2 : 0.09), in: Circle())
                     .overlay(Circle().strokeBorder(.white.opacity(0.18)))
-                Text(title).font(.subheadline.weight(.medium))
+                if controlSize != .small { Text(title).font(.subheadline.weight(.medium)) }
             }
             .foregroundStyle(.white)
             .opacity(disabled ? 0.45 : 1)
