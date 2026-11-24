@@ -4,11 +4,10 @@ struct ContentView: View {
     @State private var call = CallPresentation()
 
     var body: some View {
-        GeometryReader { geometry in
-            let width = geometry.size.width
-            let voiceY = geometry.size.height * 0.36
+        CallCanvas { size in
+            let width = size.width
+            let voiceY = size.height * 0.36
             ZStack {
-                CallBackground()
                 Text("Retenio")
                     .font(.system(size: call.isActive ? 48 : 72, weight: .semibold, design: .rounded))
                     .tracking(-2.5)
@@ -29,7 +28,7 @@ struct ContentView: View {
                 HStack(spacing: 28) {
                     CallControl(
                         symbol: call.isSpeaker ? "speaker.wave.2.fill" : "ear.fill", title: "Audio",
-                        selected: call.isSpeaker
+                        selected: call.isSpeaker,
                     ) {
                         call.isSpeaker.toggle()
                     }
@@ -38,7 +37,7 @@ struct ContentView: View {
                     .accessibilityHidden(!call.isActive)
                     CallToggleButton(active: call.isActive, disabled: false, action: call.toggleCall)
                     CallControl(
-                        symbol: call.isMuted ? "mic.slash.fill" : "mic.fill", title: "Mute", selected: call.isMuted
+                        symbol: call.isMuted ? "mic.slash.fill" : "mic.fill", title: "Mute", selected: call.isMuted,
                     ) {
                         call.isMuted.toggle()
                     }
@@ -47,7 +46,7 @@ struct ContentView: View {
                     .accessibilityHidden(!call.isActive)
                 }
                 .frame(height: 112)
-                .position(x: width / 2, y: geometry.size.height - 64)
+                .position(x: width / 2, y: size.height - 64)
             }
         }
         .preferredColorScheme(.dark)
@@ -55,3 +54,7 @@ struct ContentView: View {
 }
 
 #Preview("Ready") { ContentView() }
+
+#Preview("iPad landscape", traits: .fixedLayout(width: 1194, height: 834)) { ContentView() }
+
+#Preview("Small iPad window", traits: .fixedLayout(width: 400, height: 360)) { ContentView() }
