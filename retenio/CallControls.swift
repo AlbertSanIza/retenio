@@ -5,9 +5,9 @@ struct CallBackground: View {
         ZStack {
             LinearGradient(
                 colors: [Color(red: 0.02, green: 0.34, blue: 0.29), Color(red: 0.01, green: 0.18, blue: 0.16)],
-                startPoint: .topLeading, endPoint: .bottomTrailing)
+                startPoint: .topLeading, endPoint: .bottomTrailing, )
             RadialGradient(
-                colors: [Color.mint.opacity(0.16), .clear], center: .topLeading, startRadius: 0, endRadius: 650)
+                colors: [Color.mint.opacity(0.16), .clear], center: .topLeading, startRadius: 0, endRadius: 650, )
         }
         .ignoresSafeArea()
     }
@@ -27,12 +27,14 @@ struct CallToggleButton: View {
                 .frame(width: 86, height: 86)
                 .background(
                     active ? Color(red: 0.93, green: 0.18, blue: 0.27) : Color(red: 0.12, green: 0.76, blue: 0.42),
-                    in: Circle()
+                    in: Circle(),
                 )
                 .overlay(Circle().strokeBorder(.white.opacity(0.18)))
                 .opacity(disabled ? 0.55 : 1)
         }
         .buttonStyle(.plain)
+        .animation(reduceMotion ? nil : .smooth(duration: 0.4), value: active)
+        .sensoryFeedback(.impact(weight: .light), trigger: active)
         .disabled(disabled)
         .accessibilityLabel(active ? "End call" : "Start call")
         .accessibilityIdentifier("call-toggle")
