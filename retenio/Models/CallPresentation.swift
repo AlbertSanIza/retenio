@@ -4,14 +4,27 @@ import Observation
 /// Presentation-only call state. The next layers connect this screen to real audio.
 @MainActor @Observable
 final class CallPresentation {
-    var isActive = false
+    enum Phase { case idle, connecting, connected }
+    private(set) var phase: Phase
+    var isActive: Bool { phase != .idle }
     var isMuted = false
     var isSpeaker = true
-    var startedAt: Date?
+    private(set) var startedAt: Date?
+
+    init(phase: Phase = .idle) {
+        self.phase = phase
+        startedAt = phase == .connected ? .now : nil
+    }
 
     func toggleCall() {
-        isActive.toggle()
-        startedAt = isActive ? .now : nil
+        phase = isActive ? .idle : .connecting
+        startedAt = nil
         isMuted = false
+    }
+
+    func connected() {
+        guard phase == .connecting else { return }
+        phase = .connected
+        startedAt = .now
     }
 }
