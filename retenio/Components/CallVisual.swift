@@ -73,9 +73,7 @@ private struct ConnectionBlob: View, Animatable {
     @Previewable @State var connected = false
     VStack(spacing: 48) {
         CallVisual(active: true, connected: connected, tint: .mint) {
-            HStack(spacing: 12) {
-                ForEach(0..<4) { _ in Capsule().fill(.mint).frame(width: 38, height: 38) }
-            }
+            CallDots(active: connected, tint: .mint)
         }
         .frame(width: 240, height: 140)
         Button(connected ? "Reconnect" : "Connect") { connected.toggle() }
