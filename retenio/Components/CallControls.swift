@@ -4,10 +4,10 @@ struct CallBackground: View {
     var body: some View {
         ZStack {
             LinearGradient(
-                colors: [Color(red: 0.02, green: 0.34, blue: 0.29), Color(red: 0.01, green: 0.18, blue: 0.16)],
+                colors: [RetenioTheme.backgroundTop, RetenioTheme.backgroundBottom],
                 startPoint: .topLeading, endPoint: .bottomTrailing, )
             RadialGradient(
-                colors: [Color.mint.opacity(0.16), .clear], center: .topLeading, startRadius: 0, endRadius: 650, )
+                colors: [RetenioTheme.accent.opacity(0.16), .clear], center: .topLeading, startRadius: 0, endRadius: 650, )
         }
         .ignoresSafeArea()
     }
@@ -52,7 +52,7 @@ struct CallToggleButton: View {
                 .frame(maxWidth: .infinity, maxHeight: .infinity)
         }
         .buttonStyle(
-            .glass(.clear.tint((active ? Color(red: 0.93, green: 0.18, blue: 0.27) : Color(red: 0.12, green: 0.76, blue: 0.42)).opacity(0.9)))
+            .glass(.clear.tint((active ? RetenioTheme.hangup : RetenioTheme.call).opacity(0.9)))
         )
         .buttonBorderShape(.circle)
         .frame(width: controlSize == .small ? 64 : 90, height: controlSize == .small ? 64 : 90)
