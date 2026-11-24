@@ -54,6 +54,9 @@ final class VoiceVisualizerView: UIView {
             dot.endPoint = CGPoint(x: 0.75, y: 1)
             dot.cornerRadius = 19
             dot.cornerCurve = .continuous
+            dot.borderWidth = 0.5
+            dot.borderColor = UIColor.white.withAlphaComponent(0.16).cgColor
+            dot.locations = [0, 0.55, 1]
             layer.addSublayer(dot)
         }
     }
@@ -142,7 +145,8 @@ final class VoiceVisualizerView: UIView {
     private func drawDots() {
         guard bounds.width > 0 else { return }
         let tint = UIColor(red: color[0], green: color[1], blue: color[2], alpha: 1).cgColor
-        let colors = [UIColor.white.cgColor, tint]
+        let shade = UIColor(red: color[0] * 0.76, green: color[1] * 0.76, blue: color[2] * 0.76, alpha: 1).cgColor
+        let colors = [UIColor.white.withAlphaComponent(0.95).cgColor, tint, shade]
         CATransaction.begin()
         CATransaction.setDisableActions(true)
         for (index, dot) in dots.enumerated() {
@@ -155,7 +159,10 @@ final class VoiceVisualizerView: UIView {
                 : 38 + CGFloat(breath) * 6
                     + activity * smoothedLevel * (30 + CGFloat(voice) * 58)
             dot.bounds = CGRect(x: 0, y: 0, width: 38, height: height)
-            dot.position = CGPoint(x: bounds.midX + CGFloat(index) * 50 - 75, y: bounds.midY)
+            dot.position = CGPoint(
+                x: bounds.midX + CGFloat(index) * 50 - 75,
+                y: bounds.midY + (reduceMotion ? 0 : CGFloat(sin(phase * 1.5 + offset)) * 2),
+            )
             dot.colors = colors
         }
         CATransaction.commit()
