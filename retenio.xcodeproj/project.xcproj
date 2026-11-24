@@ -41,6 +41,7 @@
         "GENERATE_INFOPLIST_FILE": "YES",
         "INFOPLIST_FILE": "Info.plist",
         "INFOPLIST_KEY_CFBundleDisplayName": "Retenio",
+        "INFOPLIST_KEY_NSMicrophoneUsageDescription": "Retenio uses your microphone for voice conversations.",
         "INFOPLIST_KEY_UIApplicationSceneManifest_Generation": "YES",
         "INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents": "YES",
         "INFOPLIST_KEY_UILaunchScreen_Generation": "YES",
