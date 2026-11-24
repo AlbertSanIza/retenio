@@ -3,9 +3,8 @@
     "version": "0.1.0",
     "private": true,
     "scripts": {
-        "format": "prettier . --write",
+        "format": "bash scripts/swift-format.sh --write && prettier . --write",
         "prepare": "husky",
-        "format:swift": "bash scripts/swift-format.sh --write",
         "check:swift": "bash scripts/swift-format.sh --check",
         "check:ios": "bash scripts/check-ios.sh"
     },
