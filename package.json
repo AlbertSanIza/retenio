@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "private": true,
     "scripts": {
-        "format": "bash scripts/swift-format.sh --write && prettier . --write",
+        "format": "xcrun swift-format format --configuration .swift-format --in-place --recursive retenio && prettier . --write",
         "prepare": "husky",
         "build:ios": "bash scripts/build-ios.sh"
     },
@@ -15,7 +15,7 @@
         "prettier-plugin-organize-imports": "^4.3.0"
     },
     "lint-staged": {
-        "*.swift": "bash scripts/swift-format.sh --check",
+        "*.swift": "xcrun swift-format lint --configuration .swift-format --strict",
         "!(*.swift)": "prettier --check --ignore-unknown"
     }
 }
