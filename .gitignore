@@ -49,3 +49,6 @@ next-env.d.ts
 # Question banks are stored in Convex, never committed
 /data/
 *.apkg
+
+# Private prototype voice credential (bundled locally, never committed)
+/apple/retenio/LocalVoiceConfiguration.plist
