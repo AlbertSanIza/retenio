@@ -57,8 +57,8 @@ private struct ConnectionBlob: View, Animatable {
                 for index in 0..<4 {
                     let offset = Double(index) - 1.5
                     let phase = time * 1.6 + Double(index) * 1.4
-                    let width = 38 + softness * (24 + sin(phase) * 4)
-                    let height = 38 + softness * (28 + cos(phase * 0.8) * 6)
+                    let width = 38 + softness * (38 + sin(phase) * 4)
+                    let height = 38 + softness * (42 + cos(phase * 0.8) * 6)
                     let x = size.width / 2 + offset * (6 + 44 * progress)
                     let y = size.height / 2 + sin(phase) * 5 * softness
                     let rect = CGRect(x: x - width / 2, y: y - height / 2, width: width, height: height)
