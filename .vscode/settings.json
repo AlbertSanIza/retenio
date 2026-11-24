@@ -1,7 +1,6 @@
 {
     "[swift]": {
-        "editor.defaultFormatter": "swiftlang.swift-vscode",
-        "editor.formatOnSave": true
+        "editor.defaultFormatter": "swiftlang.swift-vscode"
     },
     "cSpell.language": "en",
     "cSpell.words": ["Retenio"],
