@@ -1,0 +1,14 @@
+{
+    "indentation": {
+        "spaces": 4
+    },
+    "lineLength": 160,
+    "multilineTrailingCommaBehavior": "alwaysUsed",
+    "respectsExistingLineBreaks": true,
+    "rules": {
+        "DoNotUseSemicolons": true,
+        "OrderedImports": true
+    },
+    "tabWidth": 4,
+    "version": 1
+}

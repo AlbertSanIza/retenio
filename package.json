@@ -3,16 +3,20 @@
     "version": "0.1.0",
     "private": true,
     "scripts": {
-        "format": "prettier . --write",
+        "format": "xcrun swift-format format --configuration .swift-format --in-place --recursive retenio && prettier . --write",
+        "build:ios": "xcodebuild -project retenio.xcodeproj -scheme retenio -configuration Debug -destination 'generic/platform=iOS Simulator' CODE_SIGNING_ALLOWED=NO build",
         "prepare": "husky"
     },
     "dependencies": {
         "@types/bun": "^1.4.5",
         "husky": "^9.1.7",
         "lint-staged": "^17.6.2",
-        "prettier": "^3.10.1"
+        "prettier": "^3.10.1",
+        "prettier-plugin-organize-imports": "^4.3.0",
+        "typescript": "^6.0.3"
     },
     "lint-staged": {
+        "*.swift": "xcrun swift-format lint --configuration .swift-format --strict",
         "*": "prettier --check --ignore-unknown"
     }
 }
