@@ -16,6 +16,6 @@
     },
     "lint-staged": {
         "*.swift": "xcrun swift-format lint --configuration .swift-format --strict",
-        "!(*.swift)": "prettier --check --ignore-unknown"
+        "*": "prettier --check --ignore-unknown"
     }
 }
