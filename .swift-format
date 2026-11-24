@@ -1,5 +1,14 @@
 {
-    "version": 1,
-    "indentation": { "spaces": 4 },
-    "lineLength": 120
+    "indentation": {
+        "spaces": 4
+    },
+    "lineLength": 160,
+    "multilineTrailingCommaBehavior": "neverUsed",
+    "respectsExistingLineBreaks": true,
+    "rules": {
+        "DoNotUseSemicolons": true,
+        "OrderedImports": true
+    },
+    "tabWidth": 4,
+    "version": 1
 }
