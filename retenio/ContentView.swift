@@ -33,9 +33,7 @@ struct ContentView: View {
                     .animation(.easeInOut(duration: 0.2), value: isConnected)
                     .accessibilityHidden(!isConnected)
                 CallVisual(active: call.isActive, connected: isConnected, tint: .mint) {
-                    HStack(spacing: 12) {
-                        ForEach(0..<4) { _ in Capsule().fill(.mint).frame(width: 38, height: 38) }
-                    }
+                    CallDots(active: isConnected, tint: .mint)
                 }
                 .frame(width: 240, height: 140)
                 .scaleEffect(min(width / 280, visualHeight / 140))
@@ -66,7 +64,6 @@ struct ContentView: View {
                 .accessibilityHidden(!isConnected)
             }
             .animation(.easeInOut(duration: 0.25), value: isConnected)
-            .frame(minHeight: 112)
         }
         .preferredColorScheme(.dark)
     }
