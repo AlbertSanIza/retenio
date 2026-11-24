@@ -13,13 +13,11 @@
         "husky": "^9.1.7",
         "lint-staged": "^17.6.2",
         "prettier": "^3.10.1",
-        "prettier-plugin-organize-imports": "^4.3.0"
+        "prettier-plugin-organize-imports": "^4.3.0",
+        "typescript": "^6.0.3"
     },
     "lint-staged": {
         "*.swift": "xcrun swift-format lint --configuration .swift-format --strict",
         "*": "prettier --check --ignore-unknown"
-    },
-    "devDependencies": {
-        "typescript": "~6.0.3"
     }
 }
