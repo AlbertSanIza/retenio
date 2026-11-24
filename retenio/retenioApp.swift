@@ -1,14 +1,7 @@
-//
-//  retenioApp.swift
-//  retenio
-//
-//  Created by Albert Sanchez on 11/23/26.
-//
-
 import SwiftUI
 
 @main
-struct retenioApp: App {
+struct RetenioApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

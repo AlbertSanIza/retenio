@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  retenio
-//
-//  Created by Albert Sanchez on 11/23/26.
-//
-
 import SwiftUI
 
 struct ContentView: View {
