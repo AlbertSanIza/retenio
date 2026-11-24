@@ -4,9 +4,9 @@ struct ContentView: View {
     @State private var call = CallPresentation()
 
     var body: some View {
-        CallCanvas { size in
-            let width = size.width
-            let voiceY = size.height * 0.36
+        CallCanvas { geometry in
+            let width = geometry.size.width
+            let voiceY = geometry.size.height * 0.36
             ZStack {
                 Text("Retenio")
                     .font(.system(size: call.isActive ? 48 : 72, weight: .semibold, design: .rounded))
@@ -46,7 +46,7 @@ struct ContentView: View {
                     .accessibilityHidden(!call.isActive)
                 }
                 .frame(height: 112)
-                .position(x: width / 2, y: size.height - 64)
+                .position(x: width / 2, y: geometry.size.height - 64)
             }
         }
         .preferredColorScheme(.dark)
