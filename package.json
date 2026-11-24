@@ -18,5 +18,8 @@
     "lint-staged": {
         "*.swift": "xcrun swift-format lint --configuration .swift-format --strict",
         "*": "prettier --check --ignore-unknown"
+    },
+    "devDependencies": {
+        "typescript": "~6.0.3"
     }
 }
