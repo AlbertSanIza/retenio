@@ -59,7 +59,6 @@ struct CallToggleButton: View {
         .animation(reduceMotion ? nil : .smooth(duration: 0.4), value: active)
         .sensoryFeedback(.impact(weight: .light), trigger: active)
         .disabled(disabled)
-        .animation(reduceMotion ? nil : .smooth(duration: 0.4), value: active)
         .accessibilityLabel(active ? "End call" : "Start call")
         .accessibilityIdentifier("call-toggle")
     }
