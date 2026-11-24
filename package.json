@@ -5,8 +5,7 @@
     "scripts": {
         "format": "bash scripts/swift-format.sh --write && prettier . --write",
         "prepare": "husky",
-        "check:swift": "bash scripts/swift-format.sh --check",
-        "check:ios": "bash scripts/check-ios.sh"
+        "build:ios": "bash scripts/build-ios.sh"
     },
     "dependencies": {
         "@types/bun": "^1.4.5",
