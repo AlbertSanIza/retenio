@@ -30,7 +30,10 @@ struct ContentView: View {
                     .animation(.easeInOut(duration: 0.2), value: isConnected)
                     .accessibilityHidden(!isConnected)
                 CallVisual(active: call.isActive, connected: isConnected, tint: RetenioTheme.accent) {
-                    CallDots(active: isConnected, tint: RetenioTheme.accent)
+                    VoiceVisualizer(
+                        level: 0.35, active: isConnected, tint: RetenioTheme.accent, reduceMotion: reduceMotion,
+                        visible: isConnected,
+                    )
                 }
                 .frame(width: 240, height: 140)
                 .scaleEffect(min(width / 280, visualHeight / 140))
