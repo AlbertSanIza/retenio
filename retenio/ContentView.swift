@@ -1,6 +1,9 @@
+import AVFoundation
+import Combine
 import SwiftUI
 
 struct ContentView: View {
+    @Environment(\.scenePhase) private var scenePhase
     @State private var call = CallPresentation()
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
@@ -30,7 +33,7 @@ struct ContentView: View {
                     .animation(.easeInOut(duration: 0.2), value: isConnected)
                     .accessibilityHidden(!isConnected)
                 CallVisual(active: call.isActive, connected: isConnected, tint: RetenioTheme.accent) {
-                    CallDots(active: isConnected, tint: RetenioTheme.accent, level: isConnected ? 0.35 : 0)
+                    CallDots(active: isConnected, tint: RetenioTheme.accent, level: isConnected ? call.level : 0)
                 }
                 .frame(width: 240, height: 140)
                 .scaleEffect(min(width / 280, visualHeight / 140))
@@ -43,7 +46,7 @@ struct ContentView: View {
                         symbol: "speaker.wave.2.fill", title: "Audio",
                         selected: call.isSpeaker, visible: isConnected, namespace: namespace,
                     ) {
-                        call.isSpeaker.toggle()
+                        call.toggleSpeaker()
                     }
                     Spacer(minLength: 8)
                     CallToggleButton(active: call.isActive, disabled: false, action: call.toggleCall)
@@ -53,12 +56,43 @@ struct ContentView: View {
                     CallControl(
                         symbol: "mic.slash.fill", title: "Mute", selected: call.isMuted, visible: isConnected, namespace: namespace,
                     ) {
-                        call.isMuted.toggle()
+                        call.toggleMute()
                     }
                 }
             }
         }
         .preferredColorScheme(.dark)
+        .onChange(of: scenePhase) { _, phase in if phase == .background { call.end() } }
+        .onReceive(
+            NotificationCenter.default.publisher(for: AVAudioSession.interruptionNotification).receive(on: RunLoop.main)
+        ) { notification in
+            if let raw = notification.userInfo?[AVAudioSessionInterruptionTypeKey] as? UInt,
+                AVAudioSession.InterruptionType(rawValue: raw) == .began
+            {
+                call.end()
+            }
+        }
+        .onReceive(
+            NotificationCenter.default.publisher(for: AVAudioSession.mediaServicesWereResetNotification).receive(
+                on: RunLoop.main)
+        ) { _ in call.end() }
+        .onReceive(
+            NotificationCenter.default.publisher(for: AVAudioSession.routeChangeNotification).receive(on: RunLoop.main)
+        ) { notification in
+            if let raw = notification.userInfo?[AVAudioSessionRouteChangeReasonKey] as? UInt,
+                AVAudioSession.RouteChangeReason(rawValue: raw) == .oldDeviceUnavailable
+            {
+                call.end()
+            }
+        }
+        .alert(
+            "Audio unavailable",
+            isPresented: Binding(get: { call.errorMessage != nil }, set: { if !$0 { call.errorMessage = nil } }),
+        ) {
+            Button("OK") { call.errorMessage = nil }
+        } message: {
+            Text(call.errorMessage ?? "")
+        }
     }
 }
 
