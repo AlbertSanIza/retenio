@@ -21,17 +21,6 @@ struct ContentView: View {
                     .scaleEffect(call.isActive ? 2.0 / 3 : 1)
                     .position(x: width / 2, y: call.isActive ? 58 : voiceY)
                     .animation(reduceMotion ? nil : .smooth(duration: 0.55), value: call.isActive)
-                if call.phase == .connecting {
-                    VStack(spacing: 16) {
-                        ProgressView().controlSize(.large)
-                        Text("Connecting…").font(.headline)
-                    }
-                    .tint(.mint)
-                    .foregroundStyle(.mint)
-                    .position(x: width / 2, y: voiceY)
-                    .accessibilityElement(children: .combine)
-                    .accessibilityIdentifier("call-connecting")
-                }
                 Text("00:00")
                     .monospacedDigit()
                     .foregroundStyle(.mint)
@@ -39,19 +28,13 @@ struct ContentView: View {
                     .opacity(isConnected ? 1 : 0)
                     .animation(.easeInOut(duration: 0.2), value: isConnected)
                     .accessibilityHidden(!isConnected)
-                HStack(spacing: 12) {
-                    ForEach(0..<4) { _ in Capsule().fill(.mint).frame(width: 32, height: 38) }
+                CallVisual(active: call.isActive, connected: isConnected, tint: .mint) {
+                    HStack(spacing: 12) {
+                        ForEach(0..<4) { _ in Capsule().fill(.mint).frame(width: 38, height: 38) }
+                    }
                 }
                 .frame(width: 240, height: 140)
-                .scaleEffect(reduceMotion || isConnected ? 1 : 0.85)
                 .position(x: width / 2, y: voiceY)
-                .opacity(isConnected ? 1 : 0)
-                .animation(
-                    .easeInOut(duration: reduceMotion ? 0.15 : 0.35)
-                        .delay(isConnected && !reduceMotion ? 0.12 : 0),
-                    value: isConnected,
-                )
-                .accessibilityHidden(true)
                 HStack(spacing: 28) {
                     CallControl(
                         symbol: call.isSpeaker ? "speaker.wave.2.fill" : "ear.fill", title: "Audio",
