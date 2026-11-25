@@ -40,30 +40,26 @@ struct ContentView: View {
                 .position(x: width / 2, y: voiceY)
             }
         } controls: {
-            HStack(spacing: 0) {
-                CallControl(
-                    symbol: "speaker.wave.2.fill", title: "Audio",
-                    selected: call.isSpeaker,
-                ) {
-                    call.isSpeaker.toggle()
+            CallControlGroup(connected: isConnected) { namespace in
+                HStack(spacing: 0) {
+                    CallControl(
+                        symbol: "speaker.wave.2.fill", title: "Audio",
+                        selected: call.isSpeaker, visible: isConnected, namespace: namespace,
+                    ) {
+                        call.isSpeaker.toggle()
+                    }
+                    Spacer(minLength: 8)
+                    CallToggleButton(active: call.isActive, disabled: false, action: call.toggleCall)
+                        .glassEffectID("call", in: namespace)
+                        .accessibilityLabel(call.phase == .connecting ? "Cancel call" : (call.isActive ? "End call" : "Start call"))
+                    Spacer(minLength: 8)
+                    CallControl(
+                        symbol: "mic.slash.fill", title: "Mute", selected: call.isMuted, visible: isConnected, namespace: namespace,
+                    ) {
+                        call.isMuted.toggle()
+                    }
                 }
-                .opacity(isConnected ? 1 : 0)
-                .allowsHitTesting(isConnected)
-                .accessibilityHidden(!isConnected)
-                Spacer(minLength: 8)
-                CallToggleButton(active: call.isActive, disabled: false, action: call.toggleCall)
-                    .accessibilityLabel(call.phase == .connecting ? "Cancel call" : (call.isActive ? "End call" : "Start call"))
-                Spacer(minLength: 8)
-                CallControl(
-                    symbol: "mic.slash.fill", title: "Mute", selected: call.isMuted,
-                ) {
-                    call.isMuted.toggle()
-                }
-                .opacity(isConnected ? 1 : 0)
-                .allowsHitTesting(isConnected)
-                .accessibilityHidden(!isConnected)
             }
-            .animation(.easeInOut(duration: 0.25), value: isConnected)
         }
         .preferredColorScheme(.dark)
     }
