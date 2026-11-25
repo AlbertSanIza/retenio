@@ -55,7 +55,7 @@ struct ContentView: View {
                     .accessibilityLabel(call.phase == .connecting ? "Cancel call" : (call.isActive ? "End call" : "Start call"))
                 Spacer(minLength: 8)
                 CallControl(
-                    symbol: call.isMuted ? "mic.slash.fill" : "mic.fill", title: "Mute", selected: call.isMuted,
+                    symbol: "mic.slash.fill", title: "Mute", selected: call.isMuted,
                 ) {
                     call.isMuted.toggle()
                 }

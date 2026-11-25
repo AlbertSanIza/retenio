@@ -58,7 +58,7 @@ private struct CallCanvasPreview: View {
                 Spacer(minLength: 8)
                 CallToggleButton(active: true, disabled: false) {}
                 Spacer(minLength: 8)
-                CallControl(symbol: "mic.fill", title: "Mute") {}
+                CallControl(symbol: "mic.slash.fill", title: "Mute") {}
             }
         }
         .preferredColorScheme(.dark)

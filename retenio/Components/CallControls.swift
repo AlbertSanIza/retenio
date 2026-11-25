@@ -50,14 +50,14 @@ struct CallControl: View {
     var action: () -> Void
     @Environment(\.controlSize) private var controlSize
     var body: some View {
-        let speakerSelected = title == "Audio" && selected
+        let selectedColor: Color = title == "Mute" ? .red : .black
         Button(action: action) {
             Image(systemName: symbol)
                 .font(.system(size: controlSize == .small ? 22 : 26, weight: .medium))
                 .frame(width: controlSize == .small ? 48 : 70, height: controlSize == .small ? 48 : 70)
-                .background(.white.opacity(speakerSelected ? 1 : (selected ? 0.2 : 0.09)), in: Circle())
+                .background(.white.opacity(selected ? 1 : 0.09), in: Circle())
                 .overlay(Circle().strokeBorder(.white.opacity(0.18)))
-                .foregroundStyle(speakerSelected ? .black : .white)
+                .foregroundStyle(selected ? selectedColor : .white)
                 .opacity(disabled ? 0.45 : 1)
         }
         .disabled(disabled)
@@ -91,14 +91,14 @@ struct CallControl: View {
     VStack(spacing: 32) {
         HStack(spacing: 32) {
             CallControl(symbol: "speaker.wave.2.fill", title: "Audio", selected: speaker) { speaker.toggle() }
-            CallControl(symbol: muted ? "mic.slash.fill" : "mic.fill", title: "Mute", selected: muted) { muted.toggle() }
+            CallControl(symbol: "mic.slash.fill", title: "Mute", selected: muted) { muted.toggle() }
         }
         HStack(spacing: 32) {
             CallControl(symbol: "speaker.wave.2.fill", title: "Audio", selected: speaker) { speaker.toggle() }
-            CallControl(symbol: muted ? "mic.slash.fill" : "mic.fill", title: "Mute", selected: muted) { muted.toggle() }
+            CallControl(symbol: "mic.slash.fill", title: "Mute", selected: muted) { muted.toggle() }
         }
         .controlSize(.small)
-        CallControl(symbol: "mic.fill", title: "Mute", disabled: true) {}
+        CallControl(symbol: "mic.slash.fill", title: "Mute", disabled: true) {}
     }
     .frame(maxWidth: .infinity, maxHeight: .infinity)
     .background { CallBackground() }
