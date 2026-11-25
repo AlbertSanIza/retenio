@@ -7,6 +7,7 @@
         @State private var connected = false
         @State private var clearGlass = false
         @State private var tintStrength = 0.35
+        @State private var gradientStrength = 0.5
         @State private var level = 0.0
         @State private var still = false
 
@@ -36,9 +37,11 @@
                         VStack(alignment: .leading, spacing: 20) {
                             Toggle("Clear Glass", isOn: $clearGlass)
                             Toggle("Still Preview", isOn: $still)
-                            Text("Tint Strength").font(.headline)
+                            Text("Tint Strength").font(.headline).accessibilityHidden(true)
                             Slider(value: $tintStrength, in: 0...1) { Text("Tint Strength") }
-                            Text("Simulated Voice Level").font(.headline)
+                            Text("Gradient Strength").font(.headline).accessibilityHidden(true)
+                            Slider(value: $gradientStrength, in: 0...1) { Text("Gradient Strength") }
+                            Text("Simulated Voice Level").font(.headline).accessibilityHidden(true)
                             Slider(value: $level, in: 0...1) { Text("Simulated Voice Level") }
                         }
                         .frame(maxWidth: 400)
@@ -61,7 +64,7 @@
             VStack(spacing: 8) {
                 Text(title).font(.headline)
                 CallVisual(active: active, connected: connected, tint: .mint) {
-                    CallDots(active: connected, tint: .mint, level: Float(level), motionDisabled: still, glass: glass)
+                    CallDots(active: connected, tint: .mint, level: Float(level), motionDisabled: still, glass: glass, glassGradientStrength: gradientStrength)
                 }
                 .frame(width: 240, height: 140)
             }

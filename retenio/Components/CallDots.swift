@@ -7,6 +7,7 @@ struct CallDots: View {
     var level: Float = 0
     var motionDisabled = false
     var glass: Glass? = nil
+    var glassGradientStrength = 0.0
     @Environment(\.callVisualState) private var visualState
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
     @Environment(\.scenePhase) private var scenePhase
@@ -33,6 +34,7 @@ struct CallDots: View {
                 motionDisabled: still,
                 tint: tint,
                 glass: glass,
+                glassGradientStrength: glassGradientStrength,
             )
         }
         .onChange(of: presentation, initial: true) { old, new in
@@ -93,6 +95,7 @@ struct CallShape: View, Animatable {
     var motionDisabled = false
     let tint: Color
     var glass: Glass? = nil
+    var glassGradientStrength = 0.0
 
     var animatableData: Double {
         get { separation }
@@ -115,6 +118,13 @@ struct CallShape: View, Animatable {
                     }
                     .frame(width: geometry.size.width, height: geometry.size.height)
                 }
+            }
+            .overlay {
+                // One continuous wash avoids overlapping highlights in the merged blob.
+                shadedShape
+                    .opacity(min(1, max(0, glassGradientStrength)))
+                    .allowsHitTesting(false)
+                    .accessibilityHidden(true)
             }
         } else {
             shadedShape
