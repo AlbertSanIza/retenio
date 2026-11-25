@@ -25,15 +25,12 @@ struct CallToggleButton: View {
                 .font(.system(size: controlSize == .small ? 26 : 31, weight: .semibold))
                 .rotationEffect(.degrees(active ? 135 : 0))
                 .foregroundStyle(.white)
-                .frame(width: controlSize == .small ? 64 : 86, height: controlSize == .small ? 64 : 86)
-                .background(
-                    active ? Color(red: 0.93, green: 0.18, blue: 0.27) : Color(red: 0.12, green: 0.76, blue: 0.42),
-                    in: Circle(),
-                )
-                .overlay(Circle().strokeBorder(.white.opacity(0.18)))
-                .opacity(disabled ? 0.55 : 1)
+                .frame(maxWidth: .infinity, maxHeight: .infinity)
         }
-        .buttonStyle(.plain)
+        .buttonStyle(.glassProminent)
+        .buttonBorderShape(.circle)
+        .tint(active ? Color(red: 0.93, green: 0.18, blue: 0.27) : Color(red: 0.12, green: 0.76, blue: 0.42))
+        .frame(width: controlSize == .small ? 64 : 86, height: controlSize == .small ? 64 : 86)
         .animation(reduceMotion ? nil : .smooth(duration: 0.4), value: active)
         .sensoryFeedback(.impact(weight: .light), trigger: active)
         .disabled(disabled)
@@ -50,16 +47,16 @@ struct CallControl: View {
     var action: () -> Void
     @Environment(\.controlSize) private var controlSize
     var body: some View {
-        let selectedColor: Color = title == "Mute" ? .red : .black
+        let selectedColor: Color = title == "Mute" ? Color(red: 1, green: 0.23, blue: 0.19) : .black
         Button(action: action) {
             Image(systemName: symbol)
                 .font(.system(size: controlSize == .small ? 22 : 26, weight: .medium))
-                .frame(width: controlSize == .small ? 48 : 70, height: controlSize == .small ? 48 : 70)
-                .background(.white.opacity(selected ? 1 : 0.09), in: Circle())
-                .overlay(Circle().strokeBorder(.white.opacity(0.18)))
+                .frame(maxWidth: .infinity, maxHeight: .infinity)
                 .foregroundStyle(selected ? selectedColor : .white)
-                .opacity(disabled ? 0.45 : 1)
         }
+        .buttonStyle(.glass(.regular.tint(selected ? .white : nil)))
+        .buttonBorderShape(.circle)
+        .frame(width: controlSize == .small ? 48 : 70, height: controlSize == .small ? 48 : 70)
         .disabled(disabled)
         .accessibilityLabel(title)
         .accessibilityValue(
