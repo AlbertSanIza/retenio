@@ -4,7 +4,15 @@ import SwiftUI
 struct RetenioApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            #if DEBUG
+                if ProcessInfo.processInfo.arguments.contains("--glass-waveform-preview") {
+                    GlassWaveformPreview()
+                } else {
+                    ContentView()
+                }
+            #else
+                ContentView()
+            #endif
         }
     }
 }

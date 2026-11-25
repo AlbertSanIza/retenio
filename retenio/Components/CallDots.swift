@@ -6,6 +6,7 @@ struct CallDots: View {
     let tint: Color
     var level: Float = 0
     var motionDisabled = false
+    var glass: Glass? = nil
     @Environment(\.callVisualState) private var visualState
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
     @Environment(\.scenePhase) private var scenePhase
@@ -31,6 +32,7 @@ struct CallDots: View {
                 level: smoothedLevel(at: timeline.date),
                 motionDisabled: still,
                 tint: tint,
+                glass: glass,
             )
         }
         .onChange(of: presentation, initial: true) { old, new in
@@ -90,6 +92,7 @@ struct CallShape: View, Animatable {
     var level: Double = 0
     var motionDisabled = false
     let tint: Color
+    var glass: Glass? = nil
 
     var animatableData: Double {
         get { separation }
@@ -97,6 +100,49 @@ struct CallShape: View, Animatable {
     }
 
     var body: some View {
+        if let glass {
+            GeometryReader { geometry in
+                let shapes = rectangles(in: geometry.size)
+                GlassEffectContainer(spacing: 8) {
+                    ZStack {
+                        ForEach(shapes.indices, id: \.self) { index in
+                            let rect = shapes[index]
+                            Color.clear
+                                .frame(width: rect.width, height: rect.height)
+                                .glassEffect(glass, in: .rect(cornerRadius: rect.width / 2))
+                                .position(x: rect.midX, y: rect.midY)
+                        }
+                    }
+                    .frame(width: geometry.size.width, height: geometry.size.height)
+                }
+            }
+        } else {
+            shadedShape
+        }
+    }
+
+    private func rectangles(in size: CGSize) -> [CGRect] {
+        let progress = min(1, max(0, separation))
+        let softness = 1 - progress
+        return (0..<4).map { index in
+            let offset = Double(index) - 1.5
+            let phase = time * 1.6 + Double(index) * 1.4
+            let dotPhase = motionTime * 1.5 + Double(index) * 0.82
+            let voicePhase = motionTime * 3.2 + Double(index) * 0.82
+            let breath = (sin(dotPhase) + 1) * 3
+            // Land in the first breathing pose; ramp only the movement away from it.
+            let restingBreath = motionDisabled ? 0 : (sin(Double(index) * 0.82) + 1) * 3
+            let restingOffset = motionDisabled ? 0 : sin(Double(index) * 0.82) * 2
+            let voice = level * (30 + (sin(voicePhase) + 1) * 29)
+            let width = 38 + softness * (38 + sin(phase) * 4)
+            let height = 38 + softness * (42 + cos(phase * 0.8) * 6) + progress * restingBreath + motionAmount * (breath - restingBreath + voice)
+            let x = size.width / 2 + offset * (6 + 44 * progress)
+            let y = size.height / 2 + sin(phase) * 5 * softness + progress * restingOffset + (sin(dotPhase) * 2 - restingOffset) * motionAmount
+            return CGRect(x: x - width / 2, y: y - height / 2, width: width, height: height)
+        }
+    }
+
+    private var shadedShape: some View {
         Canvas { context, size in
             let progress = min(1, max(0, separation))
             let softness = 1 - progress
@@ -105,22 +151,7 @@ struct CallShape: View, Animatable {
                 .init(color: tint, location: 0.55),
                 .init(color: tint.mix(with: .black, by: 0.24), location: 1),
             ])
-            let shapes = (0..<4).map { index in
-                let offset = Double(index) - 1.5
-                let phase = time * 1.6 + Double(index) * 1.4
-                let dotPhase = motionTime * 1.5 + Double(index) * 0.82
-                let voicePhase = motionTime * 3.2 + Double(index) * 0.82
-                let breath = (sin(dotPhase) + 1) * 3
-                // Land in the first breathing pose; ramp only the movement away from it.
-                let restingBreath = motionDisabled ? 0 : (sin(Double(index) * 0.82) + 1) * 3
-                let restingOffset = motionDisabled ? 0 : sin(Double(index) * 0.82) * 2
-                let voice = level * (30 + (sin(voicePhase) + 1) * 29)
-                let width = 38 + softness * (38 + sin(phase) * 4)
-                let height = 38 + softness * (42 + cos(phase * 0.8) * 6) + progress * restingBreath + motionAmount * (breath - restingBreath + voice)
-                let x = size.width / 2 + offset * (6 + 44 * progress)
-                let y = size.height / 2 + sin(phase) * 5 * softness + progress * restingOffset + (sin(dotPhase) * 2 - restingOffset) * motionAmount
-                return CGRect(x: x - width / 2, y: y - height / 2, width: width, height: height)
-            }
+            let shapes = rectangles(in: size)
             // Keep the liquid silhouette separate from its lighting so the filter does not flatten the color.
             context.clipToLayer { mask in
                 mask.addFilter(.alphaThreshold(min: 0.5, color: .white))
