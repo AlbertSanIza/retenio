@@ -20,10 +20,10 @@ struct CallVisual<Waveform: View>: View {
         waveform()
             .environment(\.callVisualState, CallVisualState(active: active, connected: connected))
             .opacity(active ? 1 : 0)
-            .animation(.easeInOut(duration: 0.2), value: active)
+            .animation(.easeInOut(duration: 0.1), value: active)
             .allowsHitTesting(false)
             .accessibilityElement(children: .ignore)
-            .accessibilityLabel(connected ? "Voice conversation" : "Connecting")
+            .accessibilityLabel(connected ? "Voice Conversation" : "Connecting")
             .accessibilityHidden(!active)
     }
 }
