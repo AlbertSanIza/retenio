@@ -34,14 +34,6 @@ struct CallCanvas<Content: View, Controls: View>: View {
     CallCanvasPreview()
 }
 
-#Preview("Canvas — iPad Landscape", traits: .fixedLayout(width: 1194, height: 834)) {
-    CallCanvasPreview()
-}
-
-#Preview("Canvas — Compact Window", traits: .fixedLayout(width: 320, height: 300)) {
-    CallCanvasPreview()
-}
-
 private struct CallCanvasPreview: View {
     var body: some View {
         CallCanvas { geometry in
