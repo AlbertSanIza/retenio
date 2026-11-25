@@ -69,7 +69,7 @@ private struct ConnectionBlob: View, Animatable {
     }
 }
 
-#Preview("Connection morph") {
+#Preview("Connection Morph") {
     @Previewable @State var connected = false
     VStack(spacing: 48) {
         CallVisual(active: true, connected: connected, tint: .mint) {
@@ -83,7 +83,7 @@ private struct ConnectionBlob: View, Animatable {
     .preferredColorScheme(.dark)
 }
 
-#Preview("Blob shape") {
+#Preview("Blob Shape") {
     @Previewable @State var separation = 0.0
     VStack(spacing: 32) {
         ConnectionBlob(separation: separation, time: 0, tint: .mint)

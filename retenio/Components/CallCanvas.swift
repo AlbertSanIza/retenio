@@ -34,11 +34,11 @@ struct CallCanvas<Content: View, Controls: View>: View {
     CallCanvasPreview()
 }
 
-#Preview("Canvas — iPad landscape", traits: .fixedLayout(width: 1194, height: 834)) {
+#Preview("Canvas — iPad Landscape", traits: .fixedLayout(width: 1194, height: 834)) {
     CallCanvasPreview()
 }
 
-#Preview("Canvas — compact window", traits: .fixedLayout(width: 320, height: 300)) {
+#Preview("Canvas — Compact Window", traits: .fixedLayout(width: 320, height: 300)) {
     CallCanvasPreview()
 }
 

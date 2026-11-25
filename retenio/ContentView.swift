@@ -75,10 +75,10 @@ struct ContentView: View {
 
 #Preview("Connected") { ContentView(phase: .connected) }
 
-#Preview("iPad landscape", traits: .fixedLayout(width: 1194, height: 834)) { ContentView() }
+#Preview("iPad Landscape", traits: .fixedLayout(width: 1194, height: 834)) { ContentView() }
 
-#Preview("Small iPad window", traits: .fixedLayout(width: 400, height: 360)) { ContentView() }
+#Preview("Small iPad Window", traits: .fixedLayout(width: 400, height: 360)) { ContentView() }
 
-#Preview("iPad connecting", traits: .fixedLayout(width: 1194, height: 834)) { ContentView(phase: .connecting) }
+#Preview("iPad Connecting", traits: .fixedLayout(width: 1194, height: 834)) { ContentView(phase: .connecting) }
 
-#Preview("Small connected window", traits: .fixedLayout(width: 400, height: 360)) { ContentView(phase: .connected) }
+#Preview("Small Connected Window", traits: .fixedLayout(width: 400, height: 360)) { ContentView(phase: .connected) }

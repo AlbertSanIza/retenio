@@ -35,7 +35,7 @@ struct CallDots: View {
     }
 }
 
-#Preview("Quiet call") {
+#Preview("Quiet Call") {
     CallDots(active: true, tint: .mint)
         .frame(maxWidth: .infinity, maxHeight: .infinity)
         .background { CallBackground() }

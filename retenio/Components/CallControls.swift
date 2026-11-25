@@ -75,7 +75,7 @@ struct CallControl: View {
     CallBackground()
 }
 
-#Preview("Call button") {
+#Preview("Call Button") {
     @Previewable @State var active = false
     VStack(spacing: 32) {
         CallToggleButton(active: active, disabled: false) { active.toggle() }
@@ -87,7 +87,7 @@ struct CallControl: View {
     .background { CallBackground() }
 }
 
-#Preview("Audio and mute controls") {
+#Preview("Audio and Mute Controls") {
     @Previewable @State var speaker = true
     @Previewable @State var muted = false
     VStack(spacing: 32) {
