@@ -122,14 +122,14 @@ struct CallShape: View, Animatable {
             .background {
                 // Let the native glass sample the color beneath it and keep its highlights on top.
                 if glassGradientStrength > 0 {
-                    shadedShape
+                    shadedShape(pronounced: true)
                         .opacity(min(1, glassGradientStrength))
                         .allowsHitTesting(false)
                         .accessibilityHidden(true)
                 }
             }
         } else {
-            shadedShape
+            shadedShape()
         }
     }
 
@@ -154,15 +154,24 @@ struct CallShape: View, Animatable {
         }
     }
 
-    private var shadedShape: some View {
+    private func shadedShape(pronounced: Bool = false) -> some View {
         Canvas { context, size in
             let progress = min(1, max(0, separation))
             let softness = 1 - progress
-            let gradient = Gradient(stops: [
-                .init(color: .white.opacity(0.95), location: 0),
-                .init(color: tint, location: 0.55),
-                .init(color: tint.mix(with: .black, by: 0.24), location: 1),
-            ])
+            let gradient = Gradient(
+                stops: pronounced
+                    ? [
+                        .init(color: .white, location: 0),
+                        .init(color: .white, location: 0.25),
+                        .init(color: tint, location: 0.45),
+                        .init(color: tint.mix(with: .black, by: 0.55), location: 0.8),
+                        .init(color: tint.mix(with: .black, by: 0.55), location: 1),
+                    ]
+                    : [
+                        .init(color: .white.opacity(0.95), location: 0),
+                        .init(color: tint, location: 0.55),
+                        .init(color: tint.mix(with: .black, by: 0.24), location: 1),
+                    ])
             let shapes = rectangles(in: size)
             // Keep the liquid silhouette separate from its lighting so the filter does not flatten the color.
             context.clipToLayer { mask in
