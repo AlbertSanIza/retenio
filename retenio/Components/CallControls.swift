@@ -70,3 +70,39 @@ struct CallControl: View {
         .accessibilityIdentifier("call-\(title.lowercased())")
     }
 }
+
+#Preview("Background") {
+    CallBackground()
+}
+
+#Preview("Call button") {
+    @Previewable @State var active = false
+    VStack(spacing: 32) {
+        CallToggleButton(active: active, disabled: false) { active.toggle() }
+        CallToggleButton(active: active, disabled: false) { active.toggle() }
+            .controlSize(.small)
+        CallToggleButton(active: active, disabled: true) {}
+    }
+    .frame(maxWidth: .infinity, maxHeight: .infinity)
+    .background { CallBackground() }
+}
+
+#Preview("Audio and mute controls") {
+    @Previewable @State var speaker = true
+    @Previewable @State var muted = false
+    VStack(spacing: 32) {
+        HStack(spacing: 32) {
+            CallControl(symbol: "speaker.wave.2.fill", title: "Audio", selected: speaker) { speaker.toggle() }
+            CallControl(symbol: muted ? "mic.slash.fill" : "mic.fill", title: "Mute", selected: muted) { muted.toggle() }
+        }
+        HStack(spacing: 32) {
+            CallControl(symbol: "speaker.wave.2.fill", title: "Audio", selected: speaker) { speaker.toggle() }
+            CallControl(symbol: muted ? "mic.slash.fill" : "mic.fill", title: "Mute", selected: muted) { muted.toggle() }
+        }
+        .controlSize(.small)
+        CallControl(symbol: "mic.fill", title: "Mute", disabled: true) {}
+    }
+    .frame(maxWidth: .infinity, maxHeight: .infinity)
+    .background { CallBackground() }
+    .preferredColorScheme(.dark)
+}
