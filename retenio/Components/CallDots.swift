@@ -119,12 +119,14 @@ struct CallShape: View, Animatable {
                     .frame(width: geometry.size.width, height: geometry.size.height)
                 }
             }
-            .overlay {
-                // One continuous wash avoids overlapping highlights in the merged blob.
-                shadedShape
-                    .opacity(min(1, max(0, glassGradientStrength)))
-                    .allowsHitTesting(false)
-                    .accessibilityHidden(true)
+            .background {
+                // Let the native glass sample the color beneath it and keep its highlights on top.
+                if glassGradientStrength > 0 {
+                    shadedShape
+                        .opacity(min(1, glassGradientStrength))
+                        .allowsHitTesting(false)
+                        .accessibilityHidden(true)
+                }
             }
         } else {
             shadedShape
