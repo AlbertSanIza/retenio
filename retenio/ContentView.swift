@@ -42,7 +42,7 @@ struct ContentView: View {
         } controls: {
             HStack(spacing: 0) {
                 CallControl(
-                    symbol: call.isSpeaker ? "speaker.wave.2.fill" : "ear.fill", title: "Audio",
+                    symbol: "speaker.wave.2.fill", title: "Audio",
                     selected: call.isSpeaker,
                 ) {
                     call.isSpeaker.toggle()

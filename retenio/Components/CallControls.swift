@@ -50,13 +50,14 @@ struct CallControl: View {
     var action: () -> Void
     @Environment(\.controlSize) private var controlSize
     var body: some View {
+        let speakerSelected = title == "Audio" && selected
         Button(action: action) {
             Image(systemName: symbol)
                 .font(.system(size: controlSize == .small ? 22 : 26, weight: .medium))
                 .frame(width: controlSize == .small ? 48 : 70, height: controlSize == .small ? 48 : 70)
-                .background(.white.opacity(selected ? 0.2 : 0.09), in: Circle())
+                .background(.white.opacity(speakerSelected ? 1 : (selected ? 0.2 : 0.09)), in: Circle())
                 .overlay(Circle().strokeBorder(.white.opacity(0.18)))
-                .foregroundStyle(.white)
+                .foregroundStyle(speakerSelected ? .black : .white)
                 .opacity(disabled ? 0.45 : 1)
         }
         .disabled(disabled)
