@@ -82,3 +82,18 @@ private struct ConnectionBlob: View, Animatable {
     .background { CallBackground() }
     .preferredColorScheme(.dark)
 }
+
+#Preview("Blob shape") {
+    @Previewable @State var separation = 0.0
+    VStack(spacing: 32) {
+        ConnectionBlob(separation: separation, time: 0, tint: .mint)
+            .frame(width: 240, height: 140)
+        Slider(value: $separation, in: 0...1) {
+            Text("Separation")
+        }
+        .frame(width: 240)
+    }
+    .frame(maxWidth: .infinity, maxHeight: .infinity)
+    .background { CallBackground() }
+    .preferredColorScheme(.dark)
+}
