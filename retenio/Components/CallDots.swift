@@ -59,7 +59,7 @@ struct CallDots: View {
             if target == 1 { motionStartedAt = .now }
             return
         }
-        withAnimation(.smooth(duration: 0.8), completionCriteria: .removed) {
+        withAnimation(.smooth(duration: 0.45), completionCriteria: .removed) {
             separation = target
         } completion: {
             guard transitionGeneration == generation, target == 1 else { return }
