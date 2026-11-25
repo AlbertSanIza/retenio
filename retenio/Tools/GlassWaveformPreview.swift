@@ -1,7 +1,7 @@
 #if DEBUG
     import SwiftUI
 
-    /// Debug-only tuning tool. Open a preview or launch with --glass-waveform-preview.
+    /// Tuning tool for experimenting in the Xcode preview and sharing screenshots.
     struct GlassWaveformPreview: View {
         @State private var active = true
         @State private var connected = false
