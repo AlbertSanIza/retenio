@@ -16,7 +16,7 @@ struct VoiceVisualizer: View {
 #Preview("Voice Levels") {
     @Previewable @State var level: Float = 0
     VStack(spacing: 32) {
-        VoiceVisualizer(level: level, active: true, tint: .mint, reduceMotion: false, visible: true)
+        VoiceVisualizer(level: level, active: true, tint: RetenioTheme.accent, reduceMotion: false, visible: true)
             .frame(width: 240, height: 140)
         Slider(value: $level, in: 0...1) { Text("Voice Level") }
             .frame(width: 240)
