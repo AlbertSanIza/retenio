@@ -20,7 +20,7 @@ struct CallVisual<Waveform: View>: View {
         waveform()
             .environment(\.callVisualState, CallVisualState(active: active, connected: connected))
             .opacity(active ? 1 : 0)
-            .animation(.easeInOut(duration: 0.1), value: active)
+            .animation(active ? .easeIn(duration: 0.25) : .easeOut(duration: 0.1), value: active)
             .allowsHitTesting(false)
             .accessibilityElement(children: .ignore)
             .accessibilityLabel(connected ? "Voice Conversation" : "Connecting")
@@ -29,13 +29,21 @@ struct CallVisual<Waveform: View>: View {
 }
 
 #Preview("Connection Morph") {
+    @Previewable @State var active = false
     @Previewable @State var connected = false
     VStack(spacing: 48) {
-        CallVisual(active: true, connected: connected, tint: .mint) {
+        CallVisual(active: active, connected: connected, tint: .mint) {
             CallDots(active: connected, tint: .mint)
         }
         .frame(width: 240, height: 140)
-        Button(connected ? "Reconnect" : "Connect") { connected.toggle() }
+        HStack {
+            Button(active ? "End" : "Start") {
+                active.toggle()
+                connected = false
+            }
+            Button(connected ? "Reconnect" : "Connect") { connected.toggle() }
+                .disabled(!active)
+        }
     }
     .frame(maxWidth: .infinity, maxHeight: .infinity)
     .background { CallBackground() }
