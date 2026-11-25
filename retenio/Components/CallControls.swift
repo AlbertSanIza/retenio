@@ -76,7 +76,7 @@ struct CallControl: View {
     @Namespace private var glassNamespace
 
     var body: some View {
-        let selectedColor: Color = title == "Mute" ? Color(red: 1, green: 0.23, blue: 0.19) : .black
+        let selectedColor: Color = title == "Mute" ? Color(red: 0.65, green: 0.08, blue: 0.12) : .black
         ZStack {
             if visible {
                 Button(action: action) {
