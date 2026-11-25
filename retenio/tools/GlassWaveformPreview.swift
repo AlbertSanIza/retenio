@@ -1,13 +1,13 @@
 #if DEBUG
     import SwiftUI
 
-    /// A local experiment: compare materials without changing the call screen.
+    /// Debug-only tuning tool. Open a preview or launch with --glass-waveform-preview.
     struct GlassWaveformPreview: View {
         @State private var active = true
         @State private var connected = false
-        @State private var clearGlass = false
-        @State private var tintStrength = 0.35
-        @State private var gradientStrength = 0.5
+        @State private var clearGlass = true
+        @State private var tintStrength = CallDots.defaultGlassTintStrength
+        @State private var gradientStrength = CallDots.defaultGlassGradientStrength
         @State private var level = 0.0
         @State private var still = false
 
@@ -67,7 +67,7 @@
 
         @ViewBuilder
         private var comparisons: some View {
-            sample("Current", glass: nil)
+            sample("Original Shading", glass: nil)
             sample("Liquid Glass", glass: glass)
         }
 

@@ -2,12 +2,15 @@ import SwiftUI
 
 /// One set of shapes separates into resting dots, then eases into quiet motion and speech.
 struct CallDots: View {
+    static let defaultGlassTintStrength = 0.25
+    static let defaultGlassGradientStrength = 0.6
+
     let active: Bool
     let tint: Color
     var level: Float = 0
     var motionDisabled = false
-    var glass: Glass? = nil
-    var glassGradientStrength = 0.0
+    var glass: Glass? = .clear.tint(.mint.opacity(CallDots.defaultGlassTintStrength))
+    var glassGradientStrength = CallDots.defaultGlassGradientStrength
     @Environment(\.callVisualState) private var visualState
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
     @Environment(\.scenePhase) private var scenePhase
