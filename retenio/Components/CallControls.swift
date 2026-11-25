@@ -23,14 +23,17 @@ struct CallControlGroup<Content: View>: View {
 
     var body: some View {
         GeometryReader { geometry in
-            let buttonWidths = controlSize == .small ? 160.0 : 226.0
-            let gap = max(8, (geometry.size.width - buttonWidths) / 2)
+            let buttonWidths = controlSize == .small ? 160.0 : 230.0
+            let rowWidth = min(geometry.size.width, buttonWidths + 52)
+            let gap = max(8, (rowWidth - buttonWidths) / 2)
             GlassEffectContainer(spacing: gap) {
                 content(glassNamespace)
             }
+            .frame(width: rowWidth)
+            .frame(maxWidth: .infinity)
             .animation(reduceMotion ? nil : .smooth(duration: 0.45), value: connected)
         }
-        .frame(height: controlSize == .small ? 64 : 86)
+        .frame(height: controlSize == .small ? 64 : 90)
     }
 }
 
@@ -48,10 +51,11 @@ struct CallToggleButton: View {
                 .foregroundStyle(.white)
                 .frame(maxWidth: .infinity, maxHeight: .infinity)
         }
-        .buttonStyle(.glassProminent)
+        .buttonStyle(
+            .glass(.clear.tint((active ? Color(red: 0.93, green: 0.18, blue: 0.27) : Color(red: 0.12, green: 0.76, blue: 0.42)).opacity(0.9)))
+        )
         .buttonBorderShape(.circle)
-        .tint(active ? Color(red: 0.93, green: 0.18, blue: 0.27) : Color(red: 0.12, green: 0.76, blue: 0.42))
-        .frame(width: controlSize == .small ? 64 : 86, height: controlSize == .small ? 64 : 86)
+        .frame(width: controlSize == .small ? 64 : 90, height: controlSize == .small ? 64 : 90)
         .animation(reduceMotion ? nil : .smooth(duration: 0.4), value: active)
         .sensoryFeedback(.impact(weight: .light), trigger: active)
         .disabled(disabled)
@@ -81,7 +85,7 @@ struct CallControl: View {
                         .frame(maxWidth: .infinity, maxHeight: .infinity)
                         .foregroundStyle(selected ? selectedColor : .white)
                 }
-                .buttonStyle(.glass(.regular.tint(selected ? .white : nil)))
+                .buttonStyle(.glass(.clear.tint(selected ? .white.opacity(0.5) : nil)))
                 .buttonBorderShape(.circle)
                 .glassEffectID(title, in: namespace ?? glassNamespace)
                 .glassEffectTransition(.matchedGeometry)
