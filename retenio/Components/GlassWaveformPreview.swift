@@ -37,12 +37,9 @@
                         VStack(alignment: .leading, spacing: 20) {
                             Toggle("Clear Glass", isOn: $clearGlass)
                             Toggle("Still Preview", isOn: $still)
-                            Text("Tint Strength").font(.headline).accessibilityHidden(true)
-                            Slider(value: $tintStrength, in: 0...1) { Text("Tint Strength") }
-                            Text("Gradient Strength").font(.headline).accessibilityHidden(true)
-                            Slider(value: $gradientStrength, in: 0...1) { Text("Gradient Strength") }
-                            Text("Simulated Voice Level").font(.headline).accessibilityHidden(true)
-                            Slider(value: $level, in: 0...1) { Text("Simulated Voice Level") }
+                            percentageSlider("Tint Strength", value: $tintStrength)
+                            percentageSlider("Gradient Strength", value: $gradientStrength)
+                            percentageSlider("Simulated Voice Level", value: $level)
                         }
                         .frame(maxWidth: 400)
                     }
@@ -52,6 +49,20 @@
             }
             .background { CallBackground() }
             .preferredColorScheme(.dark)
+        }
+
+        private func percentageSlider(_ title: String, value: Binding<Double>) -> some View {
+            VStack(alignment: .leading, spacing: 8) {
+                LabeledContent(title) {
+                    Text(value.wrappedValue, format: .percent.precision(.fractionLength(0)))
+                        .monospacedDigit()
+                        .foregroundStyle(.secondary)
+                }
+                .font(.headline)
+                .accessibilityHidden(true)
+                Slider(value: value, in: 0...1, step: 0.01) { Text(title) }
+                    .accessibilityValue(value.wrappedValue.formatted(.percent.precision(.fractionLength(0))))
+            }
         }
 
         @ViewBuilder
