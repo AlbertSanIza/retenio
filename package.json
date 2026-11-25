@@ -4,7 +4,7 @@
     "private": true,
     "scripts": {
         "format": "xcrun swift-format format --configuration .swift-format --in-place --recursive retenio && prettier . --write",
-        "build:ios": "xcodebuild -project retenio.xcodeproj -scheme retenio -configuration Debug -destination 'generic/platform=iOS Simulator' CODE_SIGNING_ALLOWED=NO build",
+        "build:ios": "xcodebuild -project retenio.xcodeproj -scheme Retenio -configuration Debug -destination 'generic/platform=iOS Simulator' CODE_SIGNING_ALLOWED=NO build",
         "prepare": "husky"
     },
     "dependencies": {
