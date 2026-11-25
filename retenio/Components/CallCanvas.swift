@@ -34,19 +34,11 @@ struct CallCanvas<Content: View, Controls: View>: View {
     CallCanvasPreview()
 }
 
-#Preview("Canvas — iPad Landscape", traits: .fixedLayout(width: 1194, height: 834)) {
-    CallCanvasPreview()
-}
-
-#Preview("Canvas — Compact Window", traits: .fixedLayout(width: 320, height: 300)) {
-    CallCanvasPreview()
-}
-
 private struct CallCanvasPreview: View {
     var body: some View {
         CallCanvas { geometry in
             RoundedRectangle(cornerRadius: 16)
-                .strokeBorder(.mint.opacity(0.5), style: StrokeStyle(lineWidth: 1, dash: [6]))
+                .strokeBorder(RetenioTheme.accent.opacity(0.5), style: StrokeStyle(lineWidth: 1, dash: [6]))
                 .overlay {
                     Text("Content area\n\(Int(geometry.size.width)) × \(Int(geometry.size.height))")
                         .multilineTextAlignment(.center)

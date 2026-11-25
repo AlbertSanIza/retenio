@@ -13,13 +13,13 @@
         private struct Settings {
             var material = Material.clear
             var prominentCall = false
-            var selectedTint = Color.white
-            var selectedTintStrength = 0.5
+            var selectedTint = RetenioTheme.selectedControl
+            var selectedTintStrength = RetenioTheme.selectedControlOpacity
             var tintUnselected = false
             var unselectedTint = Color.white
             var unselectedTintStrength = 0.15
-            var callTint = Color(red: 0.93, green: 0.18, blue: 0.27)
-            var callTintStrength = 0.9
+            var callTint = RetenioTheme.hangup
+            var callTintStrength = RetenioTheme.callTintStrength
             var circles = true
             var sideSize = 70.0
             var callSize = 90.0
@@ -65,7 +65,7 @@
                         sideButton("speaker.wave.2.fill", title: "Speaker", selected: speaker, color: .black) { speaker.toggle() }
                         callButton
                             .glassEffectID("call", in: glassNamespace)
-                        sideButton(muted ? "mic.slash.fill" : "mic.fill", title: "Mute", selected: muted, color: Color(red: 0.65, green: 0.08, blue: 0.12)) {
+                        sideButton(muted ? "mic.slash.fill" : "mic.fill", title: "Mute", selected: muted, color: RetenioTheme.muted) {
                             muted.toggle()
                         }
                     }

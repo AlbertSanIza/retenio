@@ -2,15 +2,13 @@ import SwiftUI
 
 /// One set of shapes separates into resting dots, then eases into quiet motion and speech.
 struct CallDots: View {
-    static let defaultGlassTintStrength = 0.7
-    static let defaultGlassGradientStrength = 1.0
-
     let active: Bool
     let tint: Color
     var level: Float = 0
     var motionDisabled = false
-    var glass: Glass? = .clear.tint(.mint.opacity(CallDots.defaultGlassTintStrength))
-    var glassGradientStrength = CallDots.defaultGlassGradientStrength
+    var glass: Glass? = .clear
+    var glassTintStrength = RetenioTheme.waveformTintStrength
+    var glassGradientStrength = RetenioTheme.waveformGradientStrength
     @Environment(\.callVisualState) private var visualState
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
     @Environment(\.scenePhase) private var scenePhase
@@ -36,7 +34,7 @@ struct CallDots: View {
                 level: smoothedLevel(at: timeline.date),
                 motionDisabled: still,
                 tint: tint,
-                glass: glass,
+                glass: glass?.tint(tint.opacity(glassTintStrength)),
                 glassGradientStrength: glassGradientStrength,
             )
         }
@@ -206,7 +204,7 @@ struct CallShape: View, Animatable {
 }
 
 #Preview("Quiet Call") {
-    CallDots(active: true, tint: .mint)
+    CallDots(active: true, tint: RetenioTheme.accent)
         .frame(width: 240, height: 140)
         .frame(maxWidth: .infinity, maxHeight: .infinity)
         .background { CallBackground() }
@@ -215,7 +213,7 @@ struct CallShape: View, Animatable {
 #Preview("Blob Shape") {
     @Previewable @State var separation = 0.0
     VStack(spacing: 32) {
-        CallShape(separation: separation, time: 0, tint: .mint)
+        CallShape(separation: separation, time: 0, tint: RetenioTheme.accent)
             .frame(width: 240, height: 140)
         Slider(value: $separation, in: 0...1) {
             Text("Separation")

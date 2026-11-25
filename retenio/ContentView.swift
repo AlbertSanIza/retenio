@@ -18,22 +18,19 @@ struct ContentView: View {
             let voiceY = min(height - visualHeight / 2, max(headerHeight + visualHeight / 2, height * 0.43))
             let titleScale = min(1, min(width / 340, headerHeight / 128))
             ZStack {
-                Text("Retenio")
-                    .font(.system(size: 72, weight: .semibold, design: .rounded))
-                    .tracking(-2.5)
-                    .foregroundStyle(.white)
+                RetenioWordmark(size: 72)
                     .scaleEffect(titleScale * (call.isActive ? 2.0 / 3 : 1))
                     .position(x: width / 2, y: call.isActive ? headerHeight * 0.45 : voiceY)
                     .animation(reduceMotion ? nil : .smooth(duration: 0.55), value: call.isActive)
                 Text("00:00")
                     .monospacedDigit()
-                    .foregroundStyle(.mint)
+                    .foregroundStyle(RetenioTheme.accent)
                     .position(x: width / 2, y: headerHeight * 0.85)
                     .opacity(isConnected ? 1 : 0)
                     .animation(.easeInOut(duration: 0.2), value: isConnected)
                     .accessibilityHidden(!isConnected)
-                CallVisual(active: call.isActive, connected: isConnected, tint: .mint) {
-                    CallDots(active: isConnected, tint: .mint)
+                CallVisual(active: call.isActive, connected: isConnected, tint: RetenioTheme.accent) {
+                    CallDots(active: isConnected, tint: RetenioTheme.accent)
                 }
                 .frame(width: 240, height: 140)
                 .scaleEffect(min(width / 280, visualHeight / 140))
@@ -70,11 +67,3 @@ struct ContentView: View {
 #Preview("Connecting") { ContentView(phase: .connecting) }
 
 #Preview("Connected") { ContentView(phase: .connected) }
-
-#Preview("iPad Landscape", traits: .fixedLayout(width: 1194, height: 834)) { ContentView() }
-
-#Preview("Small iPad Window", traits: .fixedLayout(width: 400, height: 360)) { ContentView() }
-
-#Preview("iPad Connecting", traits: .fixedLayout(width: 1194, height: 834)) { ContentView(phase: .connecting) }
-
-#Preview("Small Connected Window", traits: .fixedLayout(width: 400, height: 360)) { ContentView(phase: .connected) }
