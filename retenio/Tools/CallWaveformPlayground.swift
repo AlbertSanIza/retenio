@@ -1,8 +1,8 @@
 #if DEBUG
     import SwiftUI
 
-    /// Tuning tool for experimenting in the Xcode preview and sharing screenshots.
-    struct GlassWaveformPreview: View {
+    /// Preview-only waveform tuning. Changes stay local to this playground.
+    struct CallWaveformPlayground: View {
         @State private var active = true
         @State private var connected = false
         @State private var clearGlass = true
@@ -14,38 +14,32 @@
         private var glass: Glass { (clearGlass ? Glass.clear : Glass.regular).tint(.mint.opacity(tintStrength)) }
 
         var body: some View {
-            GeometryReader { geometry in
-                ScrollView {
-                    VStack(spacing: 24) {
-                        Text("Glass Waveforms").font(.largeTitle.bold())
-                        if geometry.size.width > 650 {
-                            HStack(spacing: 40) { comparisons }
-                        } else {
-                            VStack(spacing: 24) { comparisons }
+            ScrollView {
+                VStack(spacing: 24) {
+                    Text("Call Waveform Playground").font(.largeTitle.bold())
+                    VStack(spacing: 24) { comparisons }
+                    HStack {
+                        Button(active ? "End" : "Start") {
+                            active.toggle()
+                            connected = false
                         }
-                        HStack {
-                            Button(active ? "End" : "Start") {
-                                active.toggle()
-                                connected = false
-                            }
-                            .accessibilityIdentifier("preview.start-end")
-                            Button("Connect") { connected = true }
-                                .disabled(!active || connected)
-                                .accessibilityIdentifier("preview.connect")
-                        }
-                        .buttonStyle(.glass)
-                        VStack(alignment: .leading, spacing: 20) {
-                            Toggle("Clear Glass", isOn: $clearGlass)
-                            Toggle("Still Preview", isOn: $still)
-                            percentageSlider("Tint Strength", value: $tintStrength)
-                            percentageSlider("Gradient Strength", value: $gradientStrength)
-                            percentageSlider("Simulated Voice Level", value: $level)
-                        }
-                        .frame(maxWidth: 400)
+                        .accessibilityIdentifier("preview.start-end")
+                        Button("Connect") { connected = true }
+                            .disabled(!active || connected)
+                            .accessibilityIdentifier("preview.connect")
                     }
-                    .padding(24)
-                    .frame(maxWidth: .infinity)
+                    .buttonStyle(.glass)
+                    VStack(alignment: .leading, spacing: 20) {
+                        Toggle("Clear Glass", isOn: $clearGlass)
+                        Toggle("Still Preview", isOn: $still)
+                        percentageSlider("Tint Strength", value: $tintStrength)
+                        percentageSlider("Gradient Strength", value: $gradientStrength)
+                        percentageSlider("Simulated Voice Level", value: $level)
+                    }
+                    .frame(maxWidth: 400)
                 }
+                .padding(24)
+                .frame(maxWidth: .infinity)
             }
             .background { CallBackground() }
             .preferredColorScheme(.dark)
@@ -82,8 +76,7 @@
         }
     }
 
-    #Preview("Glass Waveforms — iPhone") {
-        GlassWaveformPreview()
+    #Preview("Call Waveform Playground — iPhone") {
+        CallWaveformPlayground()
     }
-
 #endif

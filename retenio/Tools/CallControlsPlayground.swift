@@ -1,8 +1,8 @@
 #if DEBUG
     import SwiftUI
 
-    /// Call-control tuning tool for Xcode previews. Its settings never change the app's controls.
-    struct LiquidGlassPlayground: View {
+    /// Preview-only call-control tuning. Changes stay local to this playground.
+    struct CallControlsPlayground: View {
         private enum Material: String, CaseIterable {
             case regular = "Regular"
             case clear = "Clear"
@@ -37,19 +37,12 @@
         var body: some View {
             NavigationStack {
                 GeometryReader { geometry in
-                    if geometry.size.width >= 700 {
-                        HStack(spacing: 0) {
-                            sample
-                            controls.frame(width: 340)
-                        }
-                    } else {
-                        VStack(spacing: 0) {
-                            sample.frame(height: min(260, geometry.size.height * 0.38))
-                            controls
-                        }
+                    VStack(spacing: 0) {
+                        sample.frame(height: min(260, geometry.size.height * 0.38))
+                        controls
                     }
                 }
-                .navigationTitle("Liquid Glass Playground")
+                .navigationTitle("Call Controls Playground")
                 .navigationBarTitleDisplayMode(.inline)
                 .toolbar {
                     Button("Reset") {
@@ -191,19 +184,19 @@
 
         private func adjustment(_ title: String, value: Binding<Double>, range: ClosedRange<Double>, percent: Bool = false) -> some View {
             VStack(alignment: .leading) {
-                HStack {
-                    Text(title)
-                    Spacer()
+                LabeledContent(title) {
                     Text(percent ? "\(Int((value.wrappedValue * 100).rounded()))%" : "\(Int(value.wrappedValue.rounded())) pt")
                         .monospacedDigit()
                         .foregroundStyle(.secondary)
                 }
-                Slider(value: value, in: range) { Text(title) }
+                .accessibilityHidden(true)
+                Slider(value: value, in: range, step: percent ? 0.01 : 1) { Text(title) }
+                    .accessibilityValue(percent ? "\(Int((value.wrappedValue * 100).rounded())) percent" : "\(Int(value.wrappedValue.rounded())) points")
             }
         }
     }
 
-    #Preview("Liquid Glass Playground — iPhone") {
-        LiquidGlassPlayground()
+    #Preview("Call Controls Playground — iPhone") {
+        CallControlsPlayground()
     }
 #endif
