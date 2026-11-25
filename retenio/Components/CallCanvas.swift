@@ -29,3 +29,38 @@ struct CallCanvas<Content: View, Controls: View>: View {
         .background { CallBackground() }
     }
 }
+
+#Preview("Canvas — iPhone") {
+    CallCanvasPreview()
+}
+
+#Preview("Canvas — iPad landscape", traits: .fixedLayout(width: 1194, height: 834)) {
+    CallCanvasPreview()
+}
+
+#Preview("Canvas — compact window", traits: .fixedLayout(width: 320, height: 300)) {
+    CallCanvasPreview()
+}
+
+private struct CallCanvasPreview: View {
+    var body: some View {
+        CallCanvas { geometry in
+            RoundedRectangle(cornerRadius: 16)
+                .strokeBorder(.mint.opacity(0.5), style: StrokeStyle(lineWidth: 1, dash: [6]))
+                .overlay {
+                    Text("Content area\n\(Int(geometry.size.width)) × \(Int(geometry.size.height))")
+                        .multilineTextAlignment(.center)
+                        .foregroundStyle(.white)
+                }
+        } controls: {
+            HStack {
+                CallControl(symbol: "speaker.wave.2.fill", title: "Audio") {}
+                Spacer(minLength: 8)
+                CallToggleButton(active: true, disabled: false) {}
+                Spacer(minLength: 8)
+                CallControl(symbol: "mic.fill", title: "Mute") {}
+            }
+        }
+        .preferredColorScheme(.dark)
+    }
+}
