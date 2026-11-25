@@ -86,11 +86,4 @@
         GlassWaveformPreview()
     }
 
-    #Preview("Glass Waveforms — iPad", traits: .fixedLayout(width: 1194, height: 834)) {
-        GlassWaveformPreview()
-    }
-
-    #Preview("Glass Waveforms — Small Window", traits: .fixedLayout(width: 400, height: 360)) {
-        GlassWaveformPreview()
-    }
 #endif
