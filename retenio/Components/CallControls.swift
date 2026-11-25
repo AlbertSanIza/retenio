@@ -80,7 +80,7 @@ struct CallControl: View {
         ZStack {
             if visible {
                 Button(action: action) {
-                    Image(systemName: symbol)
+                    Image(systemName: title == "Mute" ? (selected ? "mic.slash.fill" : "mic.fill") : symbol)
                         .font(.system(size: controlSize == .small ? 22 : 26, weight: .medium))
                         .frame(maxWidth: .infinity, maxHeight: .infinity)
                         .foregroundStyle(selected ? selectedColor : .white)
