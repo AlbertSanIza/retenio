@@ -50,20 +50,45 @@ private struct ConnectionBlob: View, Animatable {
         Canvas { context, size in
             let progress = min(1, max(0, separation))
             let softness = 1 - progress
-            // Blurring then thresholding joins the overlapping shapes into a liquid silhouette.
-            context.addFilter(.alphaThreshold(min: 0.5, color: tint))
-            context.addFilter(.blur(radius: 8 * softness))
-            context.drawLayer { layer in
-                for index in 0..<4 {
-                    let offset = Double(index) - 1.5
-                    let phase = time * 1.6 + Double(index) * 1.4
-                    let width = 38 + softness * (38 + sin(phase) * 4)
-                    let height = 38 + softness * (42 + cos(phase * 0.8) * 6)
-                    let x = size.width / 2 + offset * (6 + 44 * progress)
-                    let y = size.height / 2 + sin(phase) * 5 * softness
-                    let rect = CGRect(x: x - width / 2, y: y - height / 2, width: width, height: height)
-                    layer.fill(Path(roundedRect: rect, cornerRadius: width / 2), with: .color(.white))
+            let gradient = Gradient(stops: [
+                .init(color: .white.opacity(0.95), location: 0),
+                .init(color: tint, location: 0.55),
+                .init(color: tint.mix(with: .black, by: 0.24), location: 1),
+            ])
+            let shapes = (0..<4).map { index in
+                let offset = Double(index) - 1.5
+                let phase = time * 1.6 + Double(index) * 1.4
+                let dotPhase = time * 1.5 + Double(index) * 0.82
+                let width = 38 + softness * (38 + sin(phase) * 4)
+                let height = 38 + softness * (42 + cos(phase * 0.8) * 6) + progress * (sin(dotPhase) + 1) * 3
+                let x = size.width / 2 + offset * (6 + 44 * progress)
+                let y = size.height / 2 + sin(phase) * 5 * softness + sin(dotPhase) * 2 * progress
+                return CGRect(x: x - width / 2, y: y - height / 2, width: width, height: height)
+            }
+            // Keep the liquid silhouette separate from its lighting so the filter does not flatten the color.
+            context.clipToLayer { mask in
+                mask.addFilter(.alphaThreshold(min: 0.5, color: .white))
+                mask.addFilter(.blur(radius: 8 * softness))
+                mask.drawLayer { layer in
+                    for rect in shapes {
+                        layer.fill(Path(roundedRect: rect, cornerRadius: rect.width / 2), with: .color(.white))
+                    }
                 }
+            }
+            let bounds = shapes.reduce(CGRect.null) { $0.union($1) }
+            context.fill(
+                Path(CGRect(origin: .zero, size: size)),
+                with: .linearGradient(gradient, startPoint: bounds.origin, endPoint: CGPoint(x: bounds.maxX, y: bounds.maxY)),
+            )
+            // As the blob separates, each dot gradually gets its own highlight and shaded underside.
+            context.opacity = progress
+            for rect in shapes {
+                let path = Path(roundedRect: rect, cornerRadius: rect.width / 2)
+                context.fill(
+                    path,
+                    with: .linearGradient(gradient, startPoint: rect.origin, endPoint: CGPoint(x: rect.maxX, y: rect.maxY)),
+                )
+                context.stroke(path, with: .color(.white.opacity(0.16)), lineWidth: 0.5)
             }
         }
     }
