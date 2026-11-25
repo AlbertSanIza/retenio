@@ -46,7 +46,7 @@ private struct CallCanvasPreview: View {
     var body: some View {
         CallCanvas { geometry in
             RoundedRectangle(cornerRadius: 16)
-                .strokeBorder(.mint.opacity(0.5), style: StrokeStyle(lineWidth: 1, dash: [6]))
+                .strokeBorder(RetenioTheme.accent.opacity(0.5), style: StrokeStyle(lineWidth: 1, dash: [6]))
                 .overlay {
                     Text("Content area\n\(Int(geometry.size.width)) × \(Int(geometry.size.height))")
                         .multilineTextAlignment(.center)

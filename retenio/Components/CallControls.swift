@@ -52,7 +52,7 @@ struct CallToggleButton: View {
                 .frame(maxWidth: .infinity, maxHeight: .infinity)
         }
         .buttonStyle(
-            .glass(.clear.tint((active ? RetenioTheme.hangup : RetenioTheme.call).opacity(0.9)))
+            .glass(.clear.tint((active ? RetenioTheme.hangup : RetenioTheme.call).opacity(RetenioTheme.callTintStrength)))
         )
         .buttonBorderShape(.circle)
         .frame(width: controlSize == .small ? 64 : 90, height: controlSize == .small ? 64 : 90)
@@ -76,7 +76,7 @@ struct CallControl: View {
     @Namespace private var glassNamespace
 
     var body: some View {
-        let selectedColor: Color = title == "Mute" ? Color(red: 0.65, green: 0.08, blue: 0.12) : .black
+        let selectedColor: Color = title == "Mute" ? RetenioTheme.muted : .black
         ZStack {
             if visible {
                 Button(action: action) {
@@ -85,7 +85,7 @@ struct CallControl: View {
                         .frame(maxWidth: .infinity, maxHeight: .infinity)
                         .foregroundStyle(selected ? selectedColor : .white)
                 }
-                .buttonStyle(.glass(.clear.tint(selected ? .white.opacity(0.5) : nil)))
+                .buttonStyle(.glass(.clear.tint(selected ? RetenioTheme.selectedControl.opacity(RetenioTheme.selectedControlOpacity) : nil)))
                 .buttonBorderShape(.circle)
                 .glassEffectID(title, in: namespace ?? glassNamespace)
                 .glassEffectTransition(.matchedGeometry)

@@ -6,12 +6,12 @@
         @State private var active = true
         @State private var connected = false
         @State private var clearGlass = true
-        @State private var tintStrength = CallDots.defaultGlassTintStrength
-        @State private var gradientStrength = CallDots.defaultGlassGradientStrength
+        @State private var tintStrength = RetenioTheme.waveformTintStrength
+        @State private var gradientStrength = RetenioTheme.waveformGradientStrength
         @State private var level = 0.0
         @State private var still = false
 
-        private var glass: Glass { (clearGlass ? Glass.clear : Glass.regular).tint(.mint.opacity(tintStrength)) }
+        private var glass: Glass { clearGlass ? .clear : .regular }
 
         var body: some View {
             ScrollView {
@@ -68,8 +68,10 @@
         private func sample(_ title: String, glass: Glass?) -> some View {
             VStack(spacing: 8) {
                 Text(title).font(.headline)
-                CallVisual(active: active, connected: connected, tint: .mint) {
-                    CallDots(active: connected, tint: .mint, level: Float(level), motionDisabled: still, glass: glass, glassGradientStrength: gradientStrength)
+                CallVisual(active: active, connected: connected, tint: RetenioTheme.accent) {
+                    CallDots(
+                        active: connected, tint: RetenioTheme.accent, level: Float(level), motionDisabled: still, glass: glass, glassTintStrength: tintStrength,
+                        glassGradientStrength: gradientStrength, )
                 }
                 .frame(width: 240, height: 140)
             }

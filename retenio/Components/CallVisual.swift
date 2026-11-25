@@ -32,8 +32,8 @@ struct CallVisual<Waveform: View>: View {
     @Previewable @State var active = false
     @Previewable @State var connected = false
     VStack(spacing: 48) {
-        CallVisual(active: active, connected: connected, tint: .mint) {
-            CallDots(active: connected, tint: .mint)
+        CallVisual(active: active, connected: connected, tint: RetenioTheme.accent) {
+            CallDots(active: connected, tint: RetenioTheme.accent)
         }
         .frame(width: 240, height: 140)
         HStack {
