@@ -1,6 +1,6 @@
 import SwiftUI
 
-/// One set of shapes separates into still circles, then eases into quiet motion and speech.
+/// One set of shapes separates into resting dots, then eases into quiet motion and speech.
 struct CallDots: View {
     let active: Bool
     let tint: Color
@@ -29,6 +29,7 @@ struct CallDots: View {
                 motionTime: elapsed,
                 motionAmount: ramp * ramp * (3 - 2 * ramp),
                 level: smoothedLevel(at: timeline.date),
+                motionDisabled: still,
                 tint: tint,
             )
         }
@@ -80,6 +81,7 @@ struct CallShape: View, Animatable {
     var motionTime: TimeInterval = 0
     var motionAmount: Double = 0
     var level: Double = 0
+    var motionDisabled = false
     let tint: Color
 
     var animatableData: Double {
@@ -102,11 +104,14 @@ struct CallShape: View, Animatable {
                 let dotPhase = motionTime * 1.5 + Double(index) * 0.82
                 let voicePhase = motionTime * 3.2 + Double(index) * 0.82
                 let breath = (sin(dotPhase) + 1) * 3
+                // Land in the first breathing pose; ramp only the movement away from it.
+                let restingBreath = motionDisabled ? 0 : (sin(Double(index) * 0.82) + 1) * 3
+                let restingOffset = motionDisabled ? 0 : sin(Double(index) * 0.82) * 2
                 let voice = level * (30 + (sin(voicePhase) + 1) * 29)
                 let width = 38 + softness * (38 + sin(phase) * 4)
-                let height = 38 + softness * (42 + cos(phase * 0.8) * 6) + motionAmount * (breath + voice)
+                let height = 38 + softness * (42 + cos(phase * 0.8) * 6) + progress * restingBreath + motionAmount * (breath - restingBreath + voice)
                 let x = size.width / 2 + offset * (6 + 44 * progress)
-                let y = size.height / 2 + sin(phase) * 5 * softness + sin(dotPhase) * 2 * motionAmount
+                let y = size.height / 2 + sin(phase) * 5 * softness + progress * restingOffset + (sin(dotPhase) * 2 - restingOffset) * motionAmount
                 return CGRect(x: x - width / 2, y: y - height / 2, width: width, height: height)
             }
             // Keep the liquid silhouette separate from its lighting so the filter does not flatten the color.
