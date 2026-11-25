@@ -34,7 +34,7 @@ struct CallDots: View {
             )
         }
         .onChange(of: presentation, initial: true) { old, new in
-            transition(to: new, animated: old != new)
+            transition(to: new, animated: old.active && new.active && old != new)
         }
         .onChange(of: still) { _, _ in transition(to: presentation, animated: false) }
         .onChange(of: level, initial: true) { _, new in
@@ -53,11 +53,18 @@ struct CallDots: View {
     private func transition(to state: CallVisualState, animated: Bool) {
         transitionGeneration += 1
         let generation = transitionGeneration
+        // Keep the last shape and breathing phase while CallVisual fades out.
+        guard state.active else { return }
         motionStartedAt = nil
-        let target = state.active && state.connected ? 1.0 : 0.0
-        guard animated, state.active, !still else {
-            separation = target
-            if target == 1 { motionStartedAt = .now }
+        let target = state.connected ? 1.0 : 0.0
+        guard animated, !still else {
+            // A new call starts with a blob, without reversing the previous call's morph.
+            var transaction = Transaction()
+            transaction.disablesAnimations = true
+            withTransaction(transaction) {
+                separation = target
+                if target == 1 { motionStartedAt = .now }
+            }
             return
         }
         withAnimation(.smooth(duration: 0.45), completionCriteria: .logicallyComplete) {
