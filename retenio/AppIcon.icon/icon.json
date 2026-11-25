@@ -4,7 +4,6 @@
     },
     "groups": [
         {
-            "name": "Voice Bars",
             "layers": [
                 {
                     "glass": true,
@@ -27,6 +26,7 @@
                     "name": "04-Voice-Bar"
                 }
             ],
+            "name": "Voice Bars",
             "shadow": {
                 "kind": "neutral",
                 "opacity": 0.5
