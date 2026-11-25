@@ -22,7 +22,7 @@ struct CallDots: View {
     var body: some View {
         TimelineView(.animation(paused: !presentation.active || still || scenePhase != .active)) { timeline in
             let elapsed = motionStartedAt.map { max(0, timeline.date.timeIntervalSince($0)) } ?? 0
-            let ramp = still ? 0 : min(1, elapsed / 0.5)
+            let ramp = still ? 0 : min(1, elapsed / 0.2)
             CallShape(
                 separation: separation,
                 time: still ? 0 : timeline.date.timeIntervalSinceReferenceDate,
@@ -59,7 +59,7 @@ struct CallDots: View {
             if target == 1 { motionStartedAt = .now }
             return
         }
-        withAnimation(.smooth(duration: 0.45), completionCriteria: .removed) {
+        withAnimation(.smooth(duration: 0.45), completionCriteria: .logicallyComplete) {
             separation = target
         } completion: {
             guard transitionGeneration == generation, target == 1 else { return }
