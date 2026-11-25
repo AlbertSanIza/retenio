@@ -2,8 +2,8 @@ import SwiftUI
 
 /// One set of shapes separates into resting dots, then eases into quiet motion and speech.
 struct CallDots: View {
-    static let defaultGlassTintStrength = 0.25
-    static let defaultGlassGradientStrength = 0.6
+    static let defaultGlassTintStrength = 0.7
+    static let defaultGlassGradientStrength = 1.0
 
     let active: Bool
     let tint: Color
