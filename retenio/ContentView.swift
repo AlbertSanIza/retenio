@@ -5,6 +5,7 @@ import SwiftUI
 struct ContentView: View {
     @Environment(\.scenePhase) private var scenePhase
     @State private var call = CallPresentation()
+    @State private var showsMicrophonePermission = false
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
     init(phase: CallPresentation.Phase = .idle) {
@@ -49,7 +50,7 @@ struct ContentView: View {
                         call.toggleSpeaker()
                     }
                     Spacer(minLength: 8)
-                    CallToggleButton(active: call.isActive, disabled: false, action: call.toggleCall)
+                    CallToggleButton(active: call.isActive, disabled: false, action: toggleCall)
                         .glassEffectID("call", in: namespace)
                         .accessibilityLabel(call.phase == .connecting ? "Cancel call" : (call.isActive ? "End call" : "Start call"))
                     Spacer(minLength: 8)
@@ -62,6 +63,12 @@ struct ContentView: View {
             }
         }
         .preferredColorScheme(.dark)
+        .sheet(isPresented: $showsMicrophonePermission) { MicrophonePermissionView() }
+        .task {
+            if !call.isActive, AVAudioApplication.shared.recordPermission != .granted {
+                showsMicrophonePermission = true
+            }
+        }
         .onChange(of: scenePhase) { _, phase in if phase == .background { call.end() } }
         .onReceive(
             NotificationCenter.default.publisher(for: AVAudioSession.didBecomeInactiveNotification).receive(on: RunLoop.main)
@@ -93,6 +100,13 @@ struct ContentView: View {
         } message: {
             Text(call.errorMessage ?? "")
         }
+    }
+    private func toggleCall() {
+        guard call.isActive || AVAudioApplication.shared.recordPermission == .granted else {
+            showsMicrophonePermission = true
+            return
+        }
+        call.toggleCall()
     }
 }
 

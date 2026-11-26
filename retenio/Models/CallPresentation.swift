@@ -27,17 +27,14 @@ final class CallPresentation {
             end()
             return
         }
+        guard AVAudioApplication.shared.recordPermission == .granted else {
+            errorMessage = "Enable microphone access before starting a call."
+            return
+        }
         phase = .connecting
         generation = UUID()
         let id = generation
         startTask = Task { [self] in
-            guard await AVAudioApplication.requestRecordPermission() else {
-                if generation == id {
-                    errorMessage = "Enable microphone access in Settings."
-                    end()
-                }
-                return
-            }
             guard generation == id, !Task.isCancelled else { return }
             do {
                 try await audio.start(
