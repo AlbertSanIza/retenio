@@ -30,7 +30,7 @@ final class CallPresentation {
         phase = .connecting
         generation = UUID()
         let id = generation
-        startTask = Task {
+        startTask = Task { [self] in
             guard await AVAudioApplication.requestRecordPermission() else {
                 if generation == id {
                     errorMessage = "Enable microphone access in Settings."
@@ -43,15 +43,15 @@ final class CallPresentation {
                 try await audio.start(
                     onPCM: { _ in },
                     onLevel: { [weak self] value in
-                        Task { @MainActor in if self?.generation == id { self?.level = value } }
+                        Task { @MainActor [weak self] in if self?.generation == id { self?.level = value } }
                     },
                     onFailure: { [weak self] message in
-                        Task { @MainActor in
+                        Task { @MainActor [weak self] in
                             guard self?.generation == id else { return }
                             self?.errorMessage = message
                             self?.end()
                         }
-                    })
+                    }, )
                 guard generation == id, !Task.isCancelled else {
                     audio.stop()
                     return
