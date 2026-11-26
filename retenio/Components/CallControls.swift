@@ -61,7 +61,6 @@ struct CallToggleButton: View {
     var permissionTitle: String? = nil
     var expandedWidth: CGFloat = 282
     let action: () -> Void
-    @State private var feedbackTrigger = false
     @Environment(\.controlSize) private var controlSize
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
@@ -69,7 +68,7 @@ struct CallToggleButton: View {
         let diameter: CGFloat = controlSize == .small ? 64 : 90
         let needsPermission = permissionTitle != nil
         Button {
-            feedbackTrigger.toggle()
+            UIImpactFeedbackGenerator(style: .light).impactOccurred()
             action()
         } label: {
             Color.clear.overlay {
@@ -98,7 +97,6 @@ struct CallToggleButton: View {
         .frame(width: needsPermission ? expandedWidth : diameter, height: diameter)
         .animation(reduceMotion ? nil : .smooth(duration: 0.45), value: needsPermission)
         .animation(reduceMotion ? nil : .smooth(duration: 0.4), value: active)
-        .sensoryFeedback(.impact(weight: .light), trigger: feedbackTrigger)
         .disabled(disabled)
         .accessibilityElement(children: .ignore)
         .accessibilityAddTraits(.isButton)
@@ -115,7 +113,6 @@ struct CallControl: View {
     var visible = true
     var namespace: Namespace.ID? = nil
     var action: () -> Void
-    @State private var feedbackTrigger = false
     @Environment(\.controlSize) private var controlSize
     @Namespace private var glassNamespace
 
@@ -124,7 +121,7 @@ struct CallControl: View {
         ZStack {
             if visible {
                 Button {
-                    feedbackTrigger.toggle()
+                    UIImpactFeedbackGenerator(style: .light).impactOccurred()
                     action()
                 } label: {
                     Image(systemName: title == "Mute" ? (selected ? "mic.slash.fill" : "mic.fill") : symbol)
@@ -146,7 +143,6 @@ struct CallControl: View {
         }
         // Reserve the slot so the call button stays anchored as the glass appears and disappears.
         .frame(width: controlSize == .small ? 48 : 70, height: controlSize == .small ? 48 : 70)
-        .sensoryFeedback(.impact(weight: .light), trigger: feedbackTrigger)
         .allowsHitTesting(visible)
         .accessibilityHidden(!visible)
     }
