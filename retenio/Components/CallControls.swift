@@ -117,7 +117,8 @@ struct CallControl: View {
                 .buttonStyle(.glass(.clear.tint(selected ? RetenioTheme.selectedControl.opacity(RetenioTheme.selectedControlOpacity) : nil)))
                 .buttonBorderShape(.circle)
                 .glassEffectID(title, in: namespace ?? glassNamespace)
-                .glassEffectTransition(.matchedGeometry)
+                // Appear in this control’s own tint instead of morphing from the red hang-up surface.
+                .glassEffectTransition(.materialize)
                 .disabled(disabled)
                 .accessibilityLabel(title)
                 .accessibilityValue(
