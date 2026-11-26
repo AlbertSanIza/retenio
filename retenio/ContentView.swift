@@ -4,9 +4,9 @@ import SwiftUI
 
 struct ContentView: View {
     @Environment(\.scenePhase) private var scenePhase
-    @State private var call = CallPresentation()
+    @State private var call: CallPresentation
     @Environment(\.openURL) private var openURL
-    @State private var microphonePermission = AVAudioApplication.shared.recordPermission
+    @State private var microphonePermission: AVAudioApplication.recordPermission
     @State private var requestingMicrophone = false
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
@@ -40,7 +40,7 @@ struct ContentView: View {
                     .animation(.easeInOut(duration: 0.2), value: isConnected)
                     .accessibilityHidden(!isConnected)
                 CallVisual(active: call.isActive, connected: isConnected) {
-                    CallDots(active: isConnected, tint: RetenioTheme.accent, level: isConnected ? call.level : 0)
+                    ActiveCallDots(call: call, connected: isConnected)
                 }
                 .frame(width: 240, height: 140)
                 .scaleEffect(min(width / 280, visualHeight / 140))
@@ -136,6 +136,16 @@ struct ContentView: View {
         default:
             requestingMicrophone = true
         }
+    }
+}
+
+// Read audio levels here so meter updates stay within the waveform subtree.
+private struct ActiveCallDots: View {
+    let call: CallPresentation
+    let connected: Bool
+
+    var body: some View {
+        CallDots(active: connected, tint: RetenioTheme.accent, level: connected ? call.level : 0)
     }
 }
 

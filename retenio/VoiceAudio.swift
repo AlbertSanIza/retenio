@@ -29,7 +29,7 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
     private var onLevel: (@Sendable (Float) -> Void)?
 
     func start(
-        onPCM: @escaping @Sendable (Data) -> Void, onLevel: @escaping @Sendable (Float) -> Void,
+        onPCM: (@Sendable (Data) -> Void)? = nil, onLevel: @escaping @Sendable (Float) -> Void,
         onFailure: @escaping @Sendable (String) -> Void,
     ) async throws {
         try await perform {
@@ -97,15 +97,23 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
     private func installPlaybackMeter() throws {
         guard let engine, let onLevel else { return }
         let format = engine.mainMixerNode.outputFormat(forBus: 0)
+        let lastLevel = OSAllocatedUnfairLock(initialState: Float(-1))
         try engine.mainMixerNode.__installTap(onBus: 0, bufferSize: 1024, format: format, error: ()) { buffer, _ in
             guard let samples = buffer.floatChannelData?[0], buffer.frameLength > 0 else { return }
             let values = UnsafeBufferPointer(start: samples, count: Int(buffer.frameLength))
-            onLevel(min(1, vDSP.rootMeanSquare(values) * 6))
+            let level = min(1, vDSP.rootMeanSquare(values) * 6)
+            let changed = lastLevel.withLock { previous in
+                guard previous != level else { return false }
+                previous = level
+                return true
+            }
+            if changed { onLevel(level) }
         }
     }
 
     private func installMicrophoneTap() throws {
-        guard let engine, let onPCM else { throw AudioError.unavailable }
+        guard let engine else { throw AudioError.unavailable }
+        let onPCM = onPCM
         let input = engine.inputNode
         let inputFormat = input.outputFormat(forBus: 0)
         guard inputFormat.sampleRate > 0,
@@ -117,6 +125,7 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
         }
         let muteGate = muted
         try input.__installTap(onBus: 0, bufferSize: 2048, format: inputFormat, error: ()) { buffer, _ in
+            guard let onPCM else { return }
             let capacity = AVAudioFrameCount(Double(buffer.frameLength) * 24_000 / inputFormat.sampleRate) + 32
             guard let output = AVAudioPCMBuffer(pcmFormat: wireFormat, frameCapacity: capacity) else { return }
             var supplied = false
@@ -204,7 +213,6 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
                 if pending.audible { self.lastAudiblePlayback = .now }
                 self.completedFrames += frames
                 self.queuedFrames = max(0, self.queuedFrames - frames)
-                if self.queuedFrames == 0 { self.onLevel?(0) }
             }
         }
     }
@@ -259,7 +267,7 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
         engine = nil
         player = nil
         queuedFrames = 0
-        onLevel?(0)
+        onLevel = nil
         try? AVAudioSession.sharedInstance().setActive(false, options: .notifyOthersOnDeactivation)
     }
 

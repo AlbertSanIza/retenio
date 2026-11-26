@@ -38,7 +38,6 @@ final class CallPresentation {
             guard generation == id, !Task.isCancelled else { return }
             do {
                 try await audio.start(
-                    onPCM: { _ in },
                     onLevel: { [weak self] value in
                         Task { @MainActor [weak self] in if self?.generation == id { self?.level = value } }
                     },
@@ -49,10 +48,8 @@ final class CallPresentation {
                             self?.end()
                         }
                     }, )
-                guard generation == id, !Task.isCancelled else {
-                    audio.stop()
-                    return
-                }
+                // end() already queued teardown; a stale task must not stop a newer call.
+                guard generation == id, !Task.isCancelled else { return }
                 phase = .connected
                 startedAt = .now
                 let samples = (0..<6000).map { index -> Int16 in
@@ -87,6 +84,7 @@ final class CallPresentation {
         }
     }
     func end() {
+        guard isActive else { return }
         generation = UUID()
         startTask?.cancel()
         startTask = nil
