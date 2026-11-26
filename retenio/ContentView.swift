@@ -8,6 +8,7 @@ struct ContentView: View {
     @Environment(\.openURL) private var openURL
     @State private var microphonePermission = AVAudioApplication.shared.recordPermission
     @State private var requestingMicrophone = false
+    @State private var alertFeedbackTrigger = false
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
     init(
@@ -110,10 +111,14 @@ struct ContentView: View {
             "Audio unavailable",
             isPresented: Binding(get: { call.errorMessage != nil }, set: { if !$0 { call.errorMessage = nil } }),
         ) {
-            Button("OK") { call.errorMessage = nil }
+            Button("OK") {
+                alertFeedbackTrigger.toggle()
+                call.errorMessage = nil
+            }
         } message: {
             Text(call.errorMessage ?? "")
         }
+        .sensoryFeedback(.impact(weight: .light), trigger: alertFeedbackTrigger)
     }
     private var permissionTitle: String? {
         guard !call.isActive, microphonePermission != .granted else { return nil }

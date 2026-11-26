@@ -50,6 +50,8 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
         #else
             try session.setCategory(.playAndRecord, mode: .voiceChat, options: [.allowBluetoothHFP])
         #endif
+        // Keep button feedback available during capture; haptics must not prevent a call from starting.
+        try? session.setAllowHapticsAndSystemSoundsDuringRecording(true)
         try session.setActive(true)
         #if !targetEnvironment(simulator)
             try session.overrideOutputAudioPort(.speaker)
