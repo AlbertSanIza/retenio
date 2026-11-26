@@ -13,10 +13,12 @@ struct CallBackground: View {
     }
 }
 
-/// Coordinates the controls as one glass surface while keeping the center button anchored.
-struct CallControlGroup<Content: View>: View {
+/// Morphs side controls behind an anchored call button without sharing its tint.
+struct CallControlGroup<Content: View, Primary: View>: View {
+    var showOrigin = true
     let connected: Bool
     @ViewBuilder var content: (Namespace.ID) -> Content
+    @ViewBuilder var primary: (CGFloat) -> Primary
     @Environment(\.controlSize) private var controlSize
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
     @Namespace private var glassNamespace
@@ -26,8 +28,24 @@ struct CallControlGroup<Content: View>: View {
             let buttonWidths = controlSize == .small ? 160.0 : 230.0
             let rowWidth = min(geometry.size.width, buttonWidths + 52)
             let gap = max(8, (rowWidth - buttonWidths) / 2)
-            GlassEffectContainer(spacing: gap) {
-                content(glassNamespace)
+            ZStack {
+                GlassEffectContainer(spacing: gap) {
+                    ZStack {
+                        // Neutral morph source, covered by the real call button in its own glass container.
+                        if showOrigin {
+                            Color.clear
+                                .frame(width: controlSize == .small ? 64 : 90, height: controlSize == .small ? 64 : 90)
+                                .glassEffect(.clear, in: .circle)
+                                .glassEffectID("origin", in: glassNamespace)
+                                .allowsHitTesting(false)
+                                .accessibilityHidden(true)
+                        }
+                        content(glassNamespace)
+                    }
+                }
+                GlassEffectContainer {
+                    primary(rowWidth)
+                }
             }
             .frame(width: rowWidth)
             .frame(maxWidth: .infinity)
@@ -117,8 +135,7 @@ struct CallControl: View {
                 .buttonStyle(.glass(.clear.tint(selected ? RetenioTheme.selectedControl.opacity(RetenioTheme.selectedControlOpacity) : nil)))
                 .buttonBorderShape(.circle)
                 .glassEffectID(title, in: namespace ?? glassNamespace)
-                // Appear in this control’s own tint instead of morphing from the red hang-up surface.
-                .glassEffectTransition(.materialize)
+                .glassEffectTransition(.matchedGeometry)
                 .disabled(disabled)
                 .accessibilityLabel(title)
                 .accessibilityValue(
@@ -178,11 +195,10 @@ struct CallControl: View {
             HStack(spacing: 0) {
                 CallControl(symbol: "speaker.wave.2.fill", title: "Audio", selected: true, visible: connected, namespace: namespace) {}
                 Spacer(minLength: 8)
-                CallToggleButton(active: true, disabled: false) { connected.toggle() }
-                    .glassEffectID("call", in: namespace)
-                Spacer(minLength: 8)
                 CallControl(symbol: "mic.slash.fill", title: "Mute", visible: connected, namespace: namespace) {}
             }
+        } primary: { _ in
+            CallToggleButton(active: true, disabled: false) { connected.toggle() }
         }
         .frame(width: 320)
         Button(connected ? "Hide Controls" : "Show Controls") { connected.toggle() }

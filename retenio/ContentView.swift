@@ -48,29 +48,24 @@ struct ContentView: View {
                 .position(x: width / 2, y: voiceY)
             }
         } controls: {
-            CallControlGroup(connected: isConnected) { namespace in
-                GeometryReader { geometry in
-                    ZStack {
-                        HStack {
-                            CallControl(
-                                symbol: "speaker.wave.2.fill", title: "Audio",
-                                selected: call.isSpeaker, visible: isConnected, namespace: namespace,
-                            ) { call.toggleSpeaker() }
-                            Spacer(minLength: 8)
-                            CallControl(
-                                symbol: "mic.slash.fill", title: "Mute", selected: call.isMuted,
-                                visible: isConnected, namespace: namespace,
-                            ) { call.toggleMute() }
-                        }
-                        CallToggleButton(
-                            active: call.isActive, disabled: requestingMicrophone,
-                            permissionTitle: permissionTitle, expandedWidth: geometry.size.width, action: performPrimaryAction,
-                        )
-                        .glassEffectID("call", in: namespace)
-                        .accessibilityLabel(permissionTitle ?? (call.phase == .connecting ? "Cancel call" : (call.isActive ? "End call" : "Start call")))
-                    }
-                    .frame(maxWidth: .infinity, maxHeight: .infinity)
+            CallControlGroup(showOrigin: permissionTitle == nil, connected: isConnected) { namespace in
+                HStack {
+                    CallControl(
+                        symbol: "speaker.wave.2.fill", title: "Audio",
+                        selected: call.isSpeaker, visible: isConnected, namespace: namespace,
+                    ) { call.toggleSpeaker() }
+                    Spacer(minLength: 8)
+                    CallControl(
+                        symbol: "mic.slash.fill", title: "Mute", selected: call.isMuted,
+                        visible: isConnected, namespace: namespace,
+                    ) { call.toggleMute() }
                 }
+            } primary: { width in
+                CallToggleButton(
+                    active: call.isActive, disabled: requestingMicrophone,
+                    permissionTitle: permissionTitle, expandedWidth: width, action: performPrimaryAction,
+                )
+                .accessibilityLabel(permissionTitle ?? (call.phase == .connecting ? "Cancel call" : (call.isActive ? "End call" : "Start call")))
             }
         }
         .animation(reduceMotion ? nil : .smooth(duration: 0.45), value: microphonePermission)
