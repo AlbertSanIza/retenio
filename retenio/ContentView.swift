@@ -123,8 +123,12 @@ struct ContentView: View {
             call.end()
             return
         }
-        microphonePermission = AVAudioApplication.shared.recordPermission
-        switch microphonePermission {
+        let permission = AVAudioApplication.shared.recordPermission
+        guard permission == microphonePermission else {
+            microphonePermission = permission
+            return
+        }
+        switch permission {
         case .granted:
             call.toggleCall()
         case .denied:
