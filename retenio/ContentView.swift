@@ -48,35 +48,27 @@ struct ContentView: View {
             }
         } controls: {
             CallControlGroup(connected: isConnected) { namespace in
-                if call.isActive || microphonePermission == .granted {
-                    HStack(spacing: 0) {
-                        CallControl(
-                            symbol: "speaker.wave.2.fill", title: "Audio",
-                            selected: call.isSpeaker, visible: isConnected, namespace: namespace,
-                        ) {
-                            call.toggleSpeaker()
+                GeometryReader { geometry in
+                    ZStack {
+                        HStack {
+                            CallControl(
+                                symbol: "speaker.wave.2.fill", title: "Audio",
+                                selected: call.isSpeaker, visible: isConnected, namespace: namespace,
+                            ) { call.toggleSpeaker() }
+                            Spacer(minLength: 8)
+                            CallControl(
+                                symbol: "mic.slash.fill", title: "Mute", selected: call.isMuted,
+                                visible: isConnected, namespace: namespace,
+                            ) { call.toggleMute() }
                         }
-                        Spacer(minLength: 8)
-                        CallToggleButton(active: call.isActive, disabled: false, action: toggleCall)
-                            .glassEffectID("call", in: namespace)
-                            .accessibilityLabel(call.phase == .connecting ? "Cancel call" : (call.isActive ? "End call" : "Start call"))
-                        Spacer(minLength: 8)
-                        CallControl(
-                            symbol: "mic.slash.fill", title: "Mute", selected: call.isMuted, visible: isConnected, namespace: namespace,
-                        ) {
-                            call.toggleMute()
-                        }
+                        CallToggleButton(
+                            active: call.isActive, disabled: requestingMicrophone,
+                            permissionTitle: permissionTitle, expandedWidth: geometry.size.width, action: performPrimaryAction,
+                        )
+                        .glassEffectID("call", in: namespace)
+                        .accessibilityLabel(permissionTitle ?? (call.phase == .connecting ? "Cancel call" : (call.isActive ? "End call" : "Start call")))
                     }
-                } else {
-                    MicrophonePermissionButton(denied: microphonePermission == .denied, disabled: requestingMicrophone) {
-                        if microphonePermission == .denied {
-                            if let url = URL(string: UIApplication.openSettingsURLString) { openURL(url) }
-                        } else {
-                            requestingMicrophone = true
-                        }
-                    }
-                    .glassEffectID("call", in: namespace)
-                    .glassEffectTransition(.matchedGeometry)
+                    .frame(maxWidth: .infinity, maxHeight: .infinity)
                 }
             }
         }
@@ -123,7 +115,20 @@ struct ContentView: View {
             Text(call.errorMessage ?? "")
         }
     }
-    private func toggleCall() {
+    private var permissionTitle: String? {
+        guard !call.isActive, microphonePermission != .granted else { return nil }
+        return microphonePermission == .denied ? "Open Microphone Settings" : "Allow Microphone"
+    }
+
+    private func performPrimaryAction() {
+        if permissionTitle != nil {
+            if microphonePermission == .denied {
+                if let url = URL(string: UIApplication.openSettingsURLString) { openURL(url) }
+            } else {
+                requestingMicrophone = true
+            }
+            return
+        }
         guard call.isActive || AVAudioApplication.shared.recordPermission == .granted else {
             microphonePermission = AVAudioApplication.shared.recordPermission
             return

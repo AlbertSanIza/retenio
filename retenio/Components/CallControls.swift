@@ -40,26 +40,47 @@ struct CallControlGroup<Content: View>: View {
 struct CallToggleButton: View {
     let active: Bool
     let disabled: Bool
+    var permissionTitle: String? = nil
+    var expandedWidth: CGFloat = 282
     let action: () -> Void
     @Environment(\.controlSize) private var controlSize
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
+
     var body: some View {
+        let diameter: CGFloat = controlSize == .small ? 64 : 90
+        let needsPermission = permissionTitle != nil
         Button(action: action) {
-            Image(systemName: "phone.fill")
-                .font(.system(size: controlSize == .small ? 26 : 31, weight: .semibold))
-                .rotationEffect(.degrees(active ? 135 : 0))
+            Color.clear.overlay {
+                ZStack {
+                    Text(permissionTitle ?? "Allow Microphone")
+                        .font(.headline)
+                        .multilineTextAlignment(.center)
+                        .frame(width: max(0, expandedWidth - 40))
+                        .fixedSize(horizontal: false, vertical: true)
+                        .opacity(needsPermission ? 1 : 0)
+                    Image(systemName: "phone.fill")
+                        .font(.system(size: controlSize == .small ? 26 : 31, weight: .semibold))
+                        .rotationEffect(.degrees(active ? 135 : 0))
+                        .opacity(needsPermission ? 0 : 1)
+                }
                 .foregroundStyle(.white)
-                .frame(maxWidth: .infinity, maxHeight: .infinity)
+            }
+            .clipped()
+            .accessibilityHidden(true)
         }
         .buttonStyle(
-            .glass(.clear.tint((active ? RetenioTheme.hangup : RetenioTheme.call).opacity(RetenioTheme.callTintStrength)))
+            .glass(.clear.tint((active ? RetenioTheme.hangup : RetenioTheme.call).opacity(needsPermission ? 0 : RetenioTheme.callTintStrength)))
         )
-        .buttonBorderShape(.circle)
-        .frame(width: controlSize == .small ? 64 : 90, height: controlSize == .small ? 64 : 90)
+        // A capsule becomes a circle when its width reaches its height; the button keeps its identity.
+        .buttonBorderShape(.capsule)
+        .frame(width: needsPermission ? expandedWidth : diameter, height: diameter)
+        .animation(reduceMotion ? nil : .smooth(duration: 0.45), value: needsPermission)
         .animation(reduceMotion ? nil : .smooth(duration: 0.4), value: active)
         .sensoryFeedback(.impact(weight: .light), trigger: active)
         .disabled(disabled)
-        .accessibilityLabel(active ? "End call" : "Start call")
+        .accessibilityElement(children: .ignore)
+        .accessibilityAddTraits(.isButton)
+        .accessibilityLabel(permissionTitle ?? (active ? "End call" : "Start call"))
         .accessibilityIdentifier("call-toggle")
     }
 }
@@ -159,4 +180,13 @@ struct CallControl: View {
     .frame(maxWidth: .infinity, maxHeight: .infinity)
     .background { CallBackground() }
     .preferredColorScheme(.dark)
+}
+
+#Preview("Permission to Call — iPhone") {
+    @Previewable @State var ready = false
+    CallToggleButton(active: false, disabled: false, permissionTitle: ready ? nil : "Allow Microphone") {
+        ready.toggle()
+    }
+    .frame(maxWidth: .infinity, maxHeight: .infinity)
+    .background { CallBackground() }
 }
