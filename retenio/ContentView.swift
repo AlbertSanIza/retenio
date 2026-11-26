@@ -5,9 +5,16 @@ import SwiftUI
 struct ContentView: View {
     @Environment(\.scenePhase) private var scenePhase
     @State private var call = CallPresentation()
+    @Environment(\.openURL) private var openURL
+    @State private var microphonePermission = AVAudioApplication.shared.recordPermission
+    @State private var requestingMicrophone = false
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
-    init(phase: CallPresentation.Phase = .idle) {
+    init(
+        phase: CallPresentation.Phase = .idle,
+        microphonePermission: AVAudioApplication.recordPermission = AVAudioApplication.shared.recordPermission,
+    ) {
+        _microphonePermission = State(initialValue: microphonePermission)
         _call = State(initialValue: CallPresentation(phase: phase))
     }
 
@@ -40,29 +47,38 @@ struct ContentView: View {
                 .position(x: width / 2, y: voiceY)
             }
         } controls: {
-            CallControlGroup(connected: isConnected) { namespace in
-                HStack(spacing: 0) {
+            CallControlGroup(showOrigin: permissionTitle == nil, connected: isConnected) { namespace in
+                HStack {
                     CallControl(
                         symbol: "speaker.wave.2.fill", title: "Audio",
                         selected: call.isSpeaker, visible: isConnected, namespace: namespace,
-                    ) {
-                        call.toggleSpeaker()
-                    }
-                    Spacer(minLength: 8)
-                    CallToggleButton(active: call.isActive, disabled: false, action: call.toggleCall)
-                        .glassEffectID("call", in: namespace)
-                        .accessibilityLabel(call.phase == .connecting ? "Cancel call" : (call.isActive ? "End call" : "Start call"))
+                    ) { call.toggleSpeaker() }
                     Spacer(minLength: 8)
                     CallControl(
-                        symbol: "mic.slash.fill", title: "Mute", selected: call.isMuted, visible: isConnected, namespace: namespace,
-                    ) {
-                        call.toggleMute()
-                    }
+                        symbol: "mic.slash.fill", title: "Mute", selected: call.isMuted,
+                        visible: isConnected, namespace: namespace,
+                    ) { call.toggleMute() }
                 }
+            } primary: { width in
+                CallToggleButton(
+                    active: call.isActive, disabled: requestingMicrophone,
+                    permissionTitle: permissionTitle, expandedWidth: width, action: performPrimaryAction,
+                )
+                .accessibilityLabel(permissionTitle ?? (call.phase == .connecting ? "Cancel call" : (call.isActive ? "End call" : "Start call")))
             }
         }
+        .animation(reduceMotion ? nil : .smooth(duration: 0.45), value: microphonePermission)
         .preferredColorScheme(.dark)
-        .onChange(of: scenePhase) { _, phase in if phase == .background { call.end() } }
+        .task(id: requestingMicrophone) {
+            guard requestingMicrophone else { return }
+            _ = await AVAudioApplication.requestRecordPermission()
+            microphonePermission = AVAudioApplication.shared.recordPermission
+            requestingMicrophone = false
+        }
+        .onChange(of: scenePhase) { _, phase in
+            if phase == .background { call.end() }
+            if phase == .active { microphonePermission = AVAudioApplication.shared.recordPermission }
+        }
         .onReceive(
             NotificationCenter.default.publisher(for: AVAudioSession.didBecomeInactiveNotification).receive(on: RunLoop.main)
         ) { notification in
@@ -89,14 +105,45 @@ struct ContentView: View {
             "Audio unavailable",
             isPresented: Binding(get: { call.errorMessage != nil }, set: { if !$0 { call.errorMessage = nil } }),
         ) {
-            Button("OK") { call.errorMessage = nil }
+            Button("OK") {
+                UIImpactFeedbackGenerator(style: .light).impactOccurred()
+                call.errorMessage = nil
+            }
         } message: {
             Text(call.errorMessage ?? "")
         }
     }
+    private var permissionTitle: String? {
+        guard !call.isActive, microphonePermission != .granted else { return nil }
+        return microphonePermission == .denied ? "Open Microphone Settings" : "Allow Microphone"
+    }
+
+    private func performPrimaryAction() {
+        if call.isActive {
+            call.end()
+            return
+        }
+        let permission = AVAudioApplication.shared.recordPermission
+        guard permission == microphonePermission else {
+            microphonePermission = permission
+            return
+        }
+        switch permission {
+        case .granted:
+            call.toggleCall()
+        case .denied:
+            if let url = URL(string: UIApplication.openSettingsURLString) { openURL(url) }
+        default:
+            requestingMicrophone = true
+        }
+    }
 }
 
-#Preview("Ready") { ContentView() }
+#Preview("Ready") { ContentView(microphonePermission: .granted) }
+
+#Preview("Allow Microphone") { ContentView(microphonePermission: .undetermined) }
+
+#Preview("Microphone Denied") { ContentView(microphonePermission: .denied) }
 
 #Preview("Connecting") { ContentView(phase: .connecting) }
 
