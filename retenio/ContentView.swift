@@ -25,14 +25,14 @@ struct ContentView: View {
                     .scaleEffect(titleScale * (call.isActive ? 2.0 / 3 : 1))
                     .position(x: width / 2, y: call.isActive ? headerHeight * 0.45 : voiceY)
                     .animation(reduceMotion ? nil : .smooth(duration: 0.55), value: call.isActive)
-                Text("00:00")
+                (call.startedAt.map { Text($0, style: .timer) } ?? Text("00:00"))
                     .monospacedDigit()
                     .foregroundStyle(RetenioTheme.accent)
                     .position(x: width / 2, y: headerHeight * 0.85)
                     .opacity(isConnected ? 1 : 0)
                     .animation(.easeInOut(duration: 0.2), value: isConnected)
                     .accessibilityHidden(!isConnected)
-                CallVisual(active: call.isActive, connected: isConnected, tint: RetenioTheme.accent) {
+                CallVisual(active: call.isActive, connected: isConnected) {
                     CallDots(active: isConnected, tint: RetenioTheme.accent, level: isConnected ? call.level : 0)
                 }
                 .frame(width: 240, height: 140)

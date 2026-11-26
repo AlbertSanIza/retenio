@@ -1,4 +1,5 @@
 @preconcurrency import AVFoundation
+import Accelerate
 import Foundation
 import os
 
@@ -7,9 +8,6 @@ import os
 nonisolated final class VoiceAudio: @unchecked Sendable {
     private let queue = DispatchQueue(label: "com.albertsaniza.retenio.audio", qos: .userInitiated)
     private let muted = OSAllocatedUnfairLock(initialState: false)
-    #if DEBUG
-        private let capturedFrames = OSAllocatedUnfairLock(initialState: 0)
-    #endif
     private var engine: AVAudioEngine?
     private var player: AVAudioPlayerNode?
     private let logger = Logger(subsystem: "com.albertsaniza.retenio", category: "VoiceAudio")
@@ -32,7 +30,7 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
 
     func start(
         onPCM: @escaping @Sendable (Data) -> Void, onLevel: @escaping @Sendable (Float) -> Void,
-        onFailure: @escaping @Sendable (String) -> Void
+        onFailure: @escaping @Sendable (String) -> Void,
     ) async throws {
         try await perform {
             self.stopOnQueue()
@@ -72,10 +70,10 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
         // VoiceProcessingIO requires matching capture and output formats.
         try engine.connectNode(
             engine.mainMixerNode, to: engine.outputNode,
-            format: input.outputFormat(forBus: 0))
+            format: input.outputFormat(forBus: 0), )
         let currentGeneration = generation
         configurationObserver = NotificationCenter.default.addObserver(
-            forName: .AVAudioEngineConfigurationChange, object: engine, queue: nil
+            forName: .AVAudioEngineConfigurationChange, object: engine, queue: nil,
         ) { [weak self] _ in
             self?.queue.async { [weak self] in
                 guard let self, self.generation == currentGeneration else { return }
@@ -99,9 +97,8 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
         let format = engine.mainMixerNode.outputFormat(forBus: 0)
         try engine.mainMixerNode.__installTap(onBus: 0, bufferSize: 1024, format: format, error: ()) { buffer, _ in
             guard let samples = buffer.floatChannelData?[0], buffer.frameLength > 0 else { return }
-            var power: Float = 0
-            for index in 0..<Int(buffer.frameLength) { power += samples[index] * samples[index] }
-            onLevel(min(1, sqrt(power / Float(buffer.frameLength)) * 6))
+            let values = UnsafeBufferPointer(start: samples, count: Int(buffer.frameLength))
+            onLevel(min(1, vDSP.rootMeanSquare(values) * 6))
         }
     }
 
@@ -111,15 +108,12 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
         let inputFormat = input.outputFormat(forBus: 0)
         guard inputFormat.sampleRate > 0,
             let wireFormat = AVAudioFormat(
-                commonFormat: .pcmFormatInt16, sampleRate: 24_000, channels: 1, interleaved: false),
+                commonFormat: .pcmFormatInt16, sampleRate: 24_000, channels: 1, interleaved: false, ),
             let converter = AVAudioConverter(from: inputFormat, to: wireFormat)
         else {
             throw AudioError.unavailable
         }
         let muteGate = muted
-        #if DEBUG
-            let capturedFrames = capturedFrames
-        #endif
         try input.__installTap(onBus: 0, bufferSize: 2048, format: inputFormat, error: ()) { buffer, _ in
             let capacity = AVAudioFrameCount(Double(buffer.frameLength) * 24_000 / inputFormat.sampleRate) + 32
             guard let output = AVAudioPCMBuffer(pcmFormat: wireFormat, frameCapacity: capacity) else { return }
@@ -137,9 +131,6 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
             guard conversionError == nil, output.frameLength > 0, let samples = output.int16ChannelData?[0] else {
                 return
             }
-            #if DEBUG
-                capturedFrames.withLock { $0 += Int(output.frameLength) }
-            #endif
             let count = Int(output.frameLength) * 2
             onPCM(muteGate.withLock { $0 } ? Data(count: count) : Data(bytes: samples, count: count))
         }
@@ -157,7 +148,7 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
         try installMicrophoneTap()
         try engine.connectNode(
             engine.mainMixerNode, to: engine.outputNode,
-            format: engine.inputNode.outputFormat(forBus: 0))
+            format: engine.inputNode.outputFormat(forBus: 0), )
         try installPlaybackMeter()
         engine.prepare()
         try engine.start()
@@ -186,16 +177,14 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
             let samples = buffer.floatChannelData?[0]
         else { return }
         buffer.frameLength = AVAudioFrameCount(frames)
-        var power: Float = 0
         data.withUnsafeBytes { bytes in
             for index in 0..<frames {
                 let sample =
                     Float(Int16(littleEndian: bytes.loadUnaligned(fromByteOffset: index * 2, as: Int16.self))) / 32768
                 samples[index] = sample
-                power += sample * sample
             }
         }
-        let level = min(1, sqrt(power / Float(frames)) * 6)
+        let level = min(1, vDSP.rootMeanSquare(UnsafeBufferPointer(start: samples, count: frames)) * 6)
         queuedFrames += frames
         let pending = PendingAudio(buffer: buffer, audible: level > 0.04)
         pendingAudio.append(pending)
@@ -253,9 +242,6 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
             diagnose("Audio stopped: playedFrames=\(self.completedFrames), queuedFrames=\(self.queuedFrames)")
         }
         completedFrames = 0
-        #if DEBUG
-            capturedFrames.withLock { $0 = 0 }
-        #endif
         generation = UUID()
         playbackGeneration = UUID()
         if let configurationObserver { NotificationCenter.default.removeObserver(configurationObserver) }
@@ -277,9 +263,6 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
 
     private func diagnose(_ message: String) {
         logger.notice("\(message, privacy: .public)")
-        #if DEBUG
-            print("VoiceAudio: \(message)")
-        #endif
     }
 
     private func perform(_ work: @escaping @Sendable () throws -> Void) async throws {
