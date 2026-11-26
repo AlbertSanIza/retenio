@@ -64,10 +64,10 @@ struct ContentView: View {
         .preferredColorScheme(.dark)
         .onChange(of: scenePhase) { _, phase in if phase == .background { call.end() } }
         .onReceive(
-            NotificationCenter.default.publisher(for: AVAudioSession.interruptionNotification).receive(on: RunLoop.main)
+            NotificationCenter.default.publisher(for: AVAudioSession.didBecomeInactiveNotification).receive(on: RunLoop.main)
         ) { notification in
-            if let raw = notification.userInfo?[AVAudioSessionInterruptionTypeKey] as? UInt,
-                AVAudioSession.InterruptionType(rawValue: raw) == .began
+            if let context = notification.userInfo?[AVAudioSession.deactivationContextKey] as? AVAudioSession.DeactivationContext,
+                context.source == .system
             {
                 call.end()
             }
