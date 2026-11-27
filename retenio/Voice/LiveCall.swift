@@ -18,6 +18,7 @@ final class LiveCall {
     var isPresentingCall: Bool { phase != .idle }
     private(set) var activity = CallActivity()
     private(set) var activityStatus = CallActivity.Status.listening
+    private var cardTools = CardTools()
     private var hangup: VoiceHangup?
     private var hangupTask: Task<Void, Never>?
     private var handledCalls: Set<String> = []
@@ -80,6 +81,7 @@ final class LiveCall {
         errorMessage = nil
         activity = CallActivity()
         refreshActivityStatus()
+        cardTools = CardTools()
         phase = .connecting
         isMuted = false
         isSpeaker = true
@@ -255,7 +257,7 @@ final class LiveCall {
                 let functionID = item["call_id"] as? String, handledCalls.insert(functionID).inserted
             else { return }
             let delegatedAt = (event["delegation_id"] as? String).flatMap { delegationOffsets[$0] }
-            let result = performAction(item, id: id, delegatedAt: delegatedAt)
+            let result = await performAction(item, id: id, delegatedAt: delegatedAt)
             guard callID == id, phase == .connected else { return }
             try await send(
                 [
@@ -270,7 +272,7 @@ final class LiveCall {
         }
     }
 
-    private func performAction(_ item: [String: Any], id: UUID, delegatedAt: Double?) -> String {
+    private func performAction(_ item: [String: Any], id: UUID, delegatedAt: Double?) async -> Any {
         switch item["name"] as? String {
         case "end_call":
             // Do not arm an old request after the learner has already resumed speaking.
@@ -296,7 +298,11 @@ final class LiveCall {
         case "cancel_end_call":
             cancelHangup()
             return "The call remains open. Continue the conversation."
-        default: return "Unsupported action. Nothing was changed."
+        default:
+            guard let name = item["name"] as? String, let arguments = item["arguments"] as? String else {
+                return "Invalid action."
+            }
+            return await cardTools.run(name: name, arguments: arguments)
         }
     }
 
