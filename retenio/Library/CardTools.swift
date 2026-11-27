@@ -10,11 +10,16 @@ import Foundation
     private let library: LocalLibrary
     private(set) var currentCard: StudyCard?
     private var seen: Set<Data> = []
+    private var savedReviews: [String: (cardID: String, rating: ReviewRating, result: String)] = [:]
+    var ratingBoundaryMS: Double?
+    private var spokenRating = SpokenRating()
     private(set) var reviewToken: String?
 
     init(library: LocalLibrary = .shared) { self.library = library }
 
-    func run(name: String, arguments: String) async -> Any {
+    func receiveTranscript(_ event: [String: Any], at now: Date = .now) { spokenRating.receive(event, at: now) }
+
+    func run(name: String, arguments: String, now: Date = .now) async -> Any {
         do {
             guard let data = arguments.data(using: .utf8), data.count <= 8192,
                 let values = try JSONSerialization.jsonObject(with: data) as? [String: Any]
@@ -29,6 +34,8 @@ import Foundation
                 }
                 currentCard = nil
                 reviewToken = nil
+                spokenRating = SpokenRating()
+                ratingBoundaryMS = nil
                 let cards = try await library.findCards(deck: deck, query: "", excluding: seen, dueOnly: true)
                 guard let card = cards.first else {
                     return "No unseen cards are due in this deck. Offer another topic or deck."
@@ -46,6 +53,63 @@ import Foundation
                 }
                 let cards = try await library.findCards(deck: "", query: query, excluding: [], dueOnly: false)
                 return try json(cards)
+            case "request_rating":
+                guard let card = currentCard else { throw LibraryError.invalid("Fetch a question first.") }
+                guard let cutoff = ratingBoundaryMS, cutoff.isFinite, cutoff >= 0 else {
+                    throw LibraryError.invalid("The rating prompt is not synchronized. Try asking for a rating again.")
+                }
+                ratingBoundaryMS = nil
+                spokenRating.request(after: cutoff)
+                reviewToken = UUID().uuidString
+                return try json([
+                    "card_id": card.id, "review_token": reviewToken!,
+                    "instruction":
+                        "Ask the learner to say Again, Hard, Good, or Easy. Wait for their fresh spoken choice before calling rate_card.",
+                ])
+            case "rate_card":
+                guard let cardID = values["card_id"] as? String,
+                    let raw = values["rating"] as? String, let rating = ReviewRating(rawValue: raw),
+                    let token = values["review_token"] as? String
+                else { throw LibraryError.invalid("A card, rating, and review token are required.") }
+                if let saved = savedReviews[token] {
+                    guard Data(saved.cardID.utf8) == Data(cardID.utf8), saved.rating == rating else {
+                        throw LibraryError.invalid("This review has already been saved with a different choice.")
+                    }
+                    return saved.result
+                }
+                guard let currentCard, Data(currentCard.id.utf8) == Data(cardID.utf8), reviewToken == token else {
+                    throw LibraryError.invalid("The card or rating token changed. Request a fresh rating for the current card; do not skip it.")
+                }
+                let deadline = ContinuousClock.now.advanced(by: .seconds(5))
+                var ratingTime = now
+                while spokenRating.confirmedChoice(at: ratingTime) == nil, reviewToken == token,
+                    ContinuousClock.now < deadline
+                {
+                    try await Task.sleep(for: .milliseconds(100))
+                    ratingTime = .now
+                }
+                // A choice received near the deadline still gets its full quiet period.
+                if reviewToken == token, spokenRating.choice == rating,
+                    spokenRating.confirmedChoice(at: ratingTime) == nil
+                {
+                    try await Task.sleep(for: .milliseconds(1200))
+                    ratingTime = .now
+                }
+                try Task.checkCancellation()
+                guard reviewToken == token, spokenRating.confirmedChoice(at: ratingTime) == rating else {
+                    throw LibraryError.invalid(
+                        "No matching spoken choice was heard after the rating prompt. Ask the learner to say Again, Hard, Good, or Easy; never infer it."
+                    )
+                }
+                let due = try await library.rate(cardID: cardID, rating: rating, reviewID: token)
+                let result = try json(["status": "saved", "rating": rating.rawValue, "next_due": due.ISO8601Format()])
+                savedReviews[token] = (cardID, rating, result)
+                if reviewToken == token {
+                    self.currentCard = nil
+                    reviewToken = nil
+                    spokenRating = SpokenRating()
+                }
+                return result
             case "get_card_image":
                 guard let imageID = values["image_id"] as? String, currentCard?.images.contains(imageID) == true else {
                     throw LibraryError.invalid("Only images belonging to the current quiz card can be opened.")
@@ -74,6 +138,17 @@ import Foundation
 
     static var definitions: [[String: Any]] {
         [
+            definition(
+                "request_rating",
+                "Prepare to ask for a rating of the current card after discussing the answer. Call this before asking the learner to say Again, Hard, Good, or Easy. Use the returned fresh review token when saving their spoken choice.",
+                [:], ),
+            definition(
+                "rate_card",
+                "Save only the learner's explicit Again/Hard/Good/Easy choice for the current quiz card. Never infer a rating from answer quality or casual agreement. Use its review token; repeated calls are idempotent.",
+                [
+                    "card_id": ["type": "string"], "review_token": ["type": "string"],
+                    "rating": ["type": "string", "enum": ["again", "hard", "good", "easy"]],
+                ], ),
             definition("list_decks", "List the decks stored on this device.", [:]),
             definition(
                 "get_next_card",

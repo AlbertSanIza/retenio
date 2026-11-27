@@ -20,8 +20,12 @@ final class LiveCall {
     private(set) var activityStatus = CallActivity.Status.listening
     private var cardTools = CardTools()
     private var hangup: VoiceHangup?
+    private var reviewTask: Task<Void, Never>?
+    private var ratingPrompt: (boundary: RatingBoundary, item: [String: Any], reviewToken: String?)?
+    private var ratingPromptTask: Task<Void, Never>?
     private var hangupTask: Task<Void, Never>?
     private var handledCalls: Set<String> = []
+    private var toolContinuations = ToolContinuations()
     @ObservationIgnored private var inputEndMS: Double = 0
     @ObservationIgnored private var latestSpeechStartMS: Double?
     @ObservationIgnored private var delegationOffsets: [String: Double] = [:]
@@ -230,6 +234,21 @@ final class LiveCall {
                 let offset = (event["offset_ms"] as? NSNumber)?.doubleValue
             else { return }
             delegationOffsets[delegationID] = offset
+        case "session.instructions.appended":
+            guard phase == .connected, let prompt = ratingPrompt,
+                let cutoff = prompt.boundary.cutoff(from: event)
+            else { return }
+            ratingPromptTask?.cancel()
+            ratingPromptTask = nil
+            ratingPrompt = nil
+            guard prompt.reviewToken != nil, cardTools.reviewToken == prompt.reviewToken else {
+                try await sendToolOutput(
+                    "Tool failed: the current card changed before the rating prompt. Ask for a rating on the current card.",
+                    for: prompt.item, id: id, )
+                return
+            }
+            cardTools.ratingBoundaryMS = cutoff
+            try await respond(to: prompt.item, id: id)
         case "session.input_transcript.delta":
             guard phase == .connected else { return }
             if let start = (event["start_ms"] as? NSNumber)?.doubleValue,
@@ -239,6 +258,7 @@ final class LiveCall {
                 latestSpeechStartMS = max(latestSpeechStartMS ?? start, start)
             }
             if let end = (event["end_ms"] as? NSNumber)?.doubleValue { inputEndMS = max(inputEndMS, end) }
+            cardTools.receiveTranscript(event)
             if let hangup, hangup.isNewSpeech(event) {
                 cancelHangup()
                 try await send(
@@ -257,27 +277,95 @@ final class LiveCall {
                 let functionID = item["call_id"] as? String, handledCalls.insert(functionID).inserted
             else { return }
             let delegatedAt = (event["delegation_id"] as? String).flatMap { delegationOffsets[$0] }
-            let result = await performAction(item, id: id, delegatedAt: delegatedAt)
-            guard callID == id, phase == .connected else { return }
-            try await send(
-                [
-                    "type": "response.item.create",
-                    "item": ["type": "function_call_output", "call_id": functionID, "output": result],
-                ], id: id, )
-            guard callID == id, phase == .connected else { return }
-            try await send(["type": "response.create"], id: id)
+            toolContinuations.begin(functionID)
+            if item["name"] as? String == "get_next_card", reviewTask != nil || ratingPrompt != nil {
+                try await sendToolOutput(
+                    "A rating is still pending. Wait for its result before fetching the next card.", for: item, id: id, )
+                return
+            }
+            if item["name"] as? String == "request_rating" {
+                guard ratingPrompt == nil, reviewTask == nil else {
+                    try await sendToolOutput(
+                        "Tool failed: a rating request is already pending. Wait for its result.", for: item, id: id, )
+                    return
+                }
+                let boundary = RatingBoundary()
+                ratingPrompt = (boundary, item, cardTools.reviewToken)
+                ratingPromptTask = Task { [weak self] in
+                    try? await Task.sleep(for: .seconds(10))
+                    guard !Task.isCancelled, let self, self.callID == id, self.phase == .connected,
+                        self.ratingPrompt?.boundary.eventID == boundary.eventID
+                    else { return }
+                    self.ratingPrompt = nil
+                    self.ratingPromptTask = nil
+                    do {
+                        try await self.sendToolOutput(
+                            "Tool failed: the rating prompt could not synchronize. Ask again; no review was saved.",
+                            for: item, id: id, )
+                    } catch { if self.callID == id { self.fail("Couldn't prepare this review. Please try again.") } }
+                }
+                try await send(boundary.event, id: id)
+            } else if item["name"] as? String == "rate_card" {
+                // Keep receiving transcript deltas while the learner finishes their choice.
+                guard reviewTask == nil, ratingPrompt == nil else {
+                    // Every received call gets an output; resume only when all outputs are delivered.
+                    try await sendToolOutput(
+                        "Tool failed: a rating request is already pending. Wait for its result.", for: item, id: id, )
+                    return
+                }
+                reviewTask = Task { [weak self] in
+                    guard let self else { return }
+                    defer { if self.callID == id { self.reviewTask = nil } }
+                    guard !Task.isCancelled, self.callID == id, self.phase == .connected else { return }
+                    do { try await self.respond(to: item, id: id, delegatedAt: delegatedAt) } catch {
+                        if self.callID == id { self.fail("Couldn't save this review. Please try again.") }
+                    }
+                }
+            } else {
+                try await respond(to: item, id: id, delegatedAt: delegatedAt)
+            }
         case "session.closed": cleanup()
         case "error", "session.error": fail("Couldn't continue this call. Please try again.")
         default: break
         }
     }
 
-    private func performAction(_ item: [String: Any], id: UUID, delegatedAt: Double?) async -> Any {
+    private func respond(to item: [String: Any], id: UUID, delegatedAt: Double? = nil) async throws {
+        guard callID == id, phase == .connected else { return }
+        let result = try await performAction(item, id: id, delegatedAt: delegatedAt)
+        try await sendToolOutput(result, for: item, id: id)
+    }
+
+    private func sendToolOutput(_ result: Any, for item: [String: Any], id: UUID) async throws {
+        guard callID == id, phase == .connected, let functionID = item["call_id"] as? String else { return }
+        try await send(
+            [
+                "type": "response.item.create",
+                "item": ["type": "function_call_output", "call_id": functionID, "output": result],
+            ], id: id, )
+        guard callID == id, phase == .connected else { return }
+        if toolContinuations.finish(functionID) { try await send(["type": "response.create"], id: id) }
+    }
+
+    private func performAction(_ item: [String: Any], id: UUID, delegatedAt: Double?) async throws -> Any {
         switch item["name"] as? String {
         case "end_call":
             // Do not arm an old request after the learner has already resumed speaking.
             if let delegatedAt, let latestSpeechStartMS, latestSpeechStartMS >= delegatedAt {
                 return "The learner spoke again after this request. Keep the call open and listen."
+            }
+            // A farewell must not wait behind a rating prompt or its settlement timeout.
+            reviewTask?.cancel()
+            if let prompt = ratingPrompt {
+                ratingPromptTask?.cancel()
+                ratingPromptTask = nil
+                ratingPrompt = nil
+                try await sendToolOutput(
+                    "The call is ending; this rating prompt was canceled.", for: prompt.item, id: id, )
+                guard callID == id, phase == .connected else { return "The call ended." }
+                if let delegatedAt, let latestSpeechStartMS, latestSpeechStartMS >= delegatedAt {
+                    return "The learner spoke again. Keep the call open and listen."
+                }
             }
             guard hangup == nil else { return "The call is already ending." }
             let request = VoiceHangup(requestedAt: .now, inputEndMS: inputEndMS)
@@ -379,7 +467,13 @@ final class LiveCall {
     private func cleanup() {
         callID = UUID()
         cancelHangup()
+        reviewTask?.cancel()
+        reviewTask = nil
+        ratingPromptTask?.cancel()
+        ratingPromptTask = nil
+        ratingPrompt = nil
         handledCalls = []
+        toolContinuations = ToolContinuations()
         inputEndMS = 0
         latestSpeechStartMS = nil
         delegationOffsets = [:]
