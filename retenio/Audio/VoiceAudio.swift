@@ -6,7 +6,12 @@ import os
 // AVAudioEngine and AVAudioSession are confined to this serial queue. Hardware setup
 // must not block the main actor (voice-processing initialization can wait on system RPC).
 nonisolated final class VoiceAudio: @unchecked Sendable {
-    private let queue = DispatchQueue(label: "com.albertsaniza.retenio.audio", qos: .userInitiated)
+    private static let audioQueue = DispatchQueue(label: "com.albertsaniza.retenio.audio", qos: .userInitiated)
+    // Access only on audioQueue; AVAudioSession is shared by every window.
+    nonisolated(unsafe) private static weak var sessionOwner: VoiceAudio?
+    private let queue = VoiceAudio.audioQueue
+    private var captureInput = true
+    private var silenceTimer: DispatchSourceTimer?
     private let muted = OSAllocatedUnfairLock(initialState: false)
     private var engine: AVAudioEngine?
     private var player: AVAudioPlayerNode?
@@ -31,43 +36,52 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
     private var onLevel: (@Sendable (Float) -> Void)?
 
     func start(
+        captureInput: Bool = true,
         onPCM: (@Sendable (Data) -> Void)? = nil, onLevel: @escaping @Sendable (Float) -> Void,
         onFailure: @escaping @Sendable (String) -> Void,
     ) async throws {
         try await perform {
+            guard Self.sessionOwner == nil || Self.sessionOwner === self else { throw AudioError.busy }
             self.stopOnQueue()
+            Self.sessionOwner = self
+            self.captureInput = captureInput
             self.onLevel = onLevel
             self.onPCM = onPCM
             self.onFailure = onFailure
-            try self.startOnQueue()
+            do { try self.startOnQueue() } catch {
+                self.stopOnQueue()
+                throw error
+            }
         }
     }
 
     private func startOnQueue() throws {
         muted.withLock { $0 = false }
         let session = AVAudioSession.sharedInstance()
-        #if targetEnvironment(simulator)
-            // The simulator uses the Mac's audio devices, not iPhone voice-processing routes.
-            try session.setCategory(.playAndRecord, mode: .default)
-        #else
-            try session.setCategory(.playAndRecord, mode: .voiceChat, options: [.allowBluetoothHFP])
-        #endif
-        // Keep button feedback available during capture; haptics must not prevent a call from starting.
-        try? session.setAllowHapticsAndSystemSoundsDuringRecording(true)
+        if captureInput {
+            #if targetEnvironment(simulator)
+                try session.setCategory(.playAndRecord, mode: .default)
+            #else
+                try session.setCategory(.playAndRecord, mode: .voiceChat, options: [.allowBluetoothHFP])
+            #endif
+            try? session.setAllowHapticsAndSystemSoundsDuringRecording(true)
+        } else {
+            try session.setCategory(.playback, mode: .spokenAudio)
+        }
         try session.setActive(true)
         sessionActive = true
         #if !targetEnvironment(simulator)
-            try session.overrideOutputAudioPort(.speaker)
+            if captureInput { try session.overrideOutputAudioPort(.speaker) }
         #endif
         let engine = AVAudioEngine()
         self.engine = engine
-        // Create both I/O nodes before switching their shared audio unit to voice processing.
         _ = engine.outputNode
-        let input = engine.inputNode
-        #if !targetEnvironment(simulator)
-            try input.setVoiceProcessingEnabled(true)
-        #endif
-        try installMicrophoneTap()
+        if captureInput {
+            #if !targetEnvironment(simulator)
+                try engine.inputNode.setVoiceProcessingEnabled(true)
+            #endif
+            try installMicrophoneTap()
+        }
         let player = AVAudioPlayerNode()
         self.player = player
         engine.attach(player)
@@ -75,7 +89,7 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
         // VoiceProcessingIO requires matching capture and output formats.
         try engine.connectNode(
             engine.mainMixerNode, to: engine.outputNode,
-            format: input.outputFormat(forBus: 0), )
+            format: captureInput ? engine.inputNode.outputFormat(forBus: 0) : engine.outputNode.inputFormat(forBus: 0), )
         let currentGeneration = generation
         configurationObserver = NotificationCenter.default.addObserver(
             forName: .AVAudioEngineConfigurationChange, object: engine, queue: nil,
@@ -91,8 +105,16 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
         engine.prepare()
         try engine.start()
         try player.playAudio()
+        if !captureInput {
+            let timer = DispatchSource.makeTimerSource(queue: queue)
+            timer.schedule(deadline: .now(), repeating: .milliseconds(100))
+            let silence = Data(count: 4800)
+            timer.setEventHandler { [weak self] in self?.onPCM?(silence) }
+            silenceTimer = timer
+            timer.resume()
+        }
         diagnose(
-            "Audio started: engine=\(engine.isRunning), player=\(player.isPlaying), inputRate=\(input.outputFormat(forBus: 0).sampleRate), outputRate=\(engine.outputNode.inputFormat(forBus: 0).sampleRate), route=\(session.currentRoute.outputs.map(\.portType.rawValue).joined(separator: ",")), volume=\(session.outputVolume)"
+            "Audio started: engine=\(engine.isRunning), player=\(player.isPlaying), capture=\(captureInput), outputRate=\(engine.outputNode.inputFormat(forBus: 0).sampleRate), route=\(session.currentRoute.outputs.map(\.portType.rawValue).joined(separator: ",")), volume=\(session.outputVolume)"
         )
     }
 
@@ -157,19 +179,19 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
         // unplayed buffers so an initial route change cannot discard the greeting.
         playbackGeneration = UUID()
         player.stop()
-        engine.inputNode.removeTap(onBus: 0)
+        if captureInput { engine.inputNode.removeTap(onBus: 0) }
         engine.mainMixerNode.removeTap(onBus: 0)
-        try installMicrophoneTap()
+        if captureInput { try installMicrophoneTap() }
         try engine.connectNode(
             engine.mainMixerNode, to: engine.outputNode,
-            format: engine.inputNode.outputFormat(forBus: 0), )
+            format: captureInput ? engine.inputNode.outputFormat(forBus: 0) : engine.outputNode.inputFormat(forBus: 0), )
         try installPlaybackMeter()
         engine.prepare()
         try engine.start()
         for pending in pendingAudio { schedule(pending) }
         try player.playAudio()
         diagnose(
-            "Audio recovered: engine=\(engine.isRunning), inputRate=\(engine.inputNode.outputFormat(forBus: 0).sampleRate), outputRate=\(engine.outputNode.inputFormat(forBus: 0).sampleRate)"
+            "Audio recovered: engine=\(engine.isRunning), capture=\(captureInput), outputRate=\(engine.outputNode.inputFormat(forBus: 0).sampleRate)"
         )
     }
 
@@ -239,13 +261,14 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
         self.muted.withLock { $0 = muted }
         queue.async {
             #if !targetEnvironment(simulator)
-                self.engine?.inputNode.isVoiceProcessingInputMuted = muted
+                if self.captureInput { self.engine?.inputNode.isVoiceProcessingInputMuted = muted }
             #endif
         }
     }
 
     func setSpeaker(_ enabled: Bool) async throws {
         try await perform {
+            guard Self.sessionOwner === self else { throw AudioError.unavailable }
             try AVAudioSession.sharedInstance().overrideOutputAudioPort(enabled ? .speaker : .none)
         }
     }
@@ -261,23 +284,28 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
         playbackGeneration = UUID()
         if let configurationObserver { NotificationCenter.default.removeObserver(configurationObserver) }
         configurationObserver = nil
+        silenceTimer?.setEventHandler {}
+        silenceTimer?.cancel()
+        silenceTimer = nil
         onPCM = nil
         onFailure = nil
         pendingAudio.removeAll()
         lastAudiblePlayback = nil
         player?.stop()
         engine?.mainMixerNode.removeTap(onBus: 0)
-        engine?.inputNode.removeTap(onBus: 0)
+        if captureInput { engine?.inputNode.removeTap(onBus: 0) }
         engine?.stop()
         engine = nil
         player = nil
         queuedFrames = 0
         onLevel = nil
-        // A first start (or repeated stop) has no session to deactivate. Keep this
-        // separate from engine lifetime so a failure after activation still releases it.
-        if sessionActive {
-            try? AVAudioSession.sharedInstance().setActive(false, options: .notifyOthersOnDeactivation)
-            sessionActive = false
+        if Self.sessionOwner === self {
+            // Ownership is reserved before activation, which can fail during setup.
+            if sessionActive {
+                try? AVAudioSession.sharedInstance().setActive(false, options: .notifyOthersOnDeactivation)
+                sessionActive = false
+            }
+            Self.sessionOwner = nil
         }
     }
 
@@ -297,10 +325,11 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
     }
 
     enum AudioError: LocalizedError {
-        case unavailable, backlog
+        case unavailable, backlog, busy
         var errorDescription: String? {
             switch self {
             case .unavailable: "The microphone is unavailable. Check your audio device and try again."
+            case .busy: "Audio is already in use in another window. End that call or preview first."
             case .backlog: "Audio playback fell behind. Please start a new call."
             }
         }

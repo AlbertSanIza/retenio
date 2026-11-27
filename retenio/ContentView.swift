@@ -8,6 +8,7 @@ struct ContentView: View {
     @State private var microphonePermission: AVAudioApplication.recordPermission
     @State private var requestingMicrophone = false
     @State private var showsLibrary = false
+    @State private var showsSettings = false
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
     init(
@@ -33,6 +34,15 @@ struct ContentView: View {
                 if !call.isPresentingCall {
                     VStack {
                         HStack {
+                            Button {
+                                UIImpactFeedbackGenerator(style: .light).impactOccurred()
+                                showsSettings = true
+                            } label: {
+                                Image(systemName: "gearshape").font(.title2).padding(16)
+                            }
+                            .buttonStyle(.glass)
+                            .buttonBorderShape(.circle)
+                            .accessibilityLabel("Settings")
                             Spacer()
                             Button {
                                 UIImpactFeedbackGenerator(style: .light).impactOccurred()
@@ -103,6 +113,7 @@ struct ContentView: View {
             if phase == .active { microphonePermission = AVAudioApplication.shared.recordPermission }
         }
         .sheet(isPresented: $showsLibrary) { LibraryView() }
+        .sheet(isPresented: $showsSettings) { SettingsView() }
         .alert(
             "Audio unavailable",
             isPresented: Binding(get: { call.errorMessage != nil }, set: { if !$0 { call.errorMessage = nil } }),

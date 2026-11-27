@@ -29,6 +29,7 @@ final class LiveCall {
     @ObservationIgnored private var inputEndMS: Double = 0
     @ObservationIgnored private var latestSpeechStartMS: Double?
     @ObservationIgnored private var delegationOffsets: [String: Double] = [:]
+    private var previewMode = false
     private let audio = VoiceAudio()
     private var socket: URLSessionWebSocketTask?
     private var session: URLSession?
@@ -72,9 +73,9 @@ final class LiveCall {
             }
     }
 
-    func start() {
+    func start(preview: Bool = false) {
         guard phase == .idle else { return }
-        guard AVAudioApplication.shared.recordPermission == .granted else {
+        guard preview || AVAudioApplication.shared.recordPermission == .granted else {
             errorMessage = "Enable microphone access for Retenio in Settings."
             return
         }
@@ -87,10 +88,12 @@ final class LiveCall {
         refreshActivityStatus()
         cardTools = CardTools()
         phase = .connecting
-        isMuted = false
+        isMuted = preview
+        previewMode = preview
         isSpeaker = true
         callID = UUID()
         let id = callID
+        let startEvent = preview ? LiveSessionConfiguration.previewEvent : LiveSessionConfiguration.startEvent
         connectionTask = Task { [weak self] in
             guard let self, self.callID == id, !Task.isCancelled else { return }
             var request = URLRequest(url: URL(string: "wss://api.openai.com/v1/live/sessions")!)
@@ -107,7 +110,7 @@ final class LiveCall {
                 self?.fail("The call couldn't connect. Check your connection and try again.")
             }
             do {
-                try await send(LiveSessionConfiguration.startEvent, id: id)
+                try await send(startEvent, id: id)
                 while !Task.isCancelled {
                     let message = try await socket.receive()
                     guard callID == id else { return }
@@ -145,6 +148,7 @@ final class LiveCall {
             guard phase == .connecting else { return }
             let (stream, continuation) = AsyncStream<Data>.makeStream(bufferingPolicy: .bufferingOldest(50))
             try await audio.start(
+                captureInput: !previewMode,
                 onPCM: { [weak self] data in
                     if case .dropped = continuation.yield(data) {
                         continuation.finish()
@@ -176,6 +180,7 @@ final class LiveCall {
                 continuation.finish()
                 return
             }
+            audio.setMuted(isMuted)
             phase = .connected
             startedAt = .now
             timeoutTask?.cancel()
@@ -432,6 +437,21 @@ final class LiveCall {
                     errorMessage = "Couldn't change audio route."
                 }
             }
+        }
+    }
+
+    func endPreviewAfterPlayback() async {
+        guard previewMode, phase == .connected, let startedAt else { return }
+        let id = callID
+        let deadline = ContinuousClock.now.advanced(by: .seconds(15))
+        while !Task.isCancelled, callID == id, phase == .connected {
+            let finished = await audio.farewellFinished(after: startedAt)
+            guard !Task.isCancelled, callID == id, phase == .connected else { return }
+            if finished || ContinuousClock.now >= deadline {
+                end()
+                return
+            }
+            do { try await Task.sleep(for: .milliseconds(250)) } catch { return }
         }
     }
 
