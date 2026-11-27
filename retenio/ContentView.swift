@@ -67,6 +67,12 @@ struct ContentView: View {
         }
         .animation(reduceMotion ? nil : .smooth(duration: 0.45), value: microphonePermission)
         .preferredColorScheme(.dark)
+        .onChange(of: call.phase) { _, _ in updateProximityMonitoring() }
+        .onDisappear {
+            if UIDevice.current.userInterfaceIdiom == .phone {
+                UIDevice.current.isProximityMonitoringEnabled = false
+            }
+        }
         .task(id: requestingMicrophone) {
             guard requestingMicrophone else { return }
             _ = await AVAudioApplication.requestRecordPermission()
@@ -98,6 +104,7 @@ struct ContentView: View {
             {
                 call.end()
             }
+            updateProximityMonitoring()
         }
         .alert(
             "Audio unavailable",
@@ -114,6 +121,14 @@ struct ContentView: View {
     private var permissionTitle: String? {
         guard !call.isPresentingCall, microphonePermission != .granted else { return nil }
         return microphonePermission == .denied ? "Open Microphone Settings" : "Allow Microphone"
+    }
+
+    private func updateProximityMonitoring() {
+        guard UIDevice.current.userInterfaceIdiom == .phone else { return }
+        // Use the hardware route, not the speaker toggle: .none can route to headphones.
+        UIDevice.current.isProximityMonitoringEnabled =
+            call.phase == .connected
+            && AVAudioSession.sharedInstance().currentRoute.outputs.contains { $0.portType == .builtInReceiver }
     }
 
     private func performPrimaryAction() {
