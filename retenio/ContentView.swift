@@ -7,6 +7,7 @@ struct ContentView: View {
     @Environment(\.openURL) private var openURL
     @State private var microphonePermission: AVAudioApplication.recordPermission
     @State private var requestingMicrophone = false
+    @State private var showsLibrary = false
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
     init(
@@ -29,7 +30,24 @@ struct ContentView: View {
             let detailsTop = voiceY + visualHeight / 2 + 16
             let detailsHeight = max(0, height - detailsTop - 8)
             ZStack {
-                RetenioWordmark(size: 72)
+                if !call.isPresentingCall {
+                    VStack {
+                        HStack {
+                            Spacer()
+                            Button {
+                                UIImpactFeedbackGenerator(style: .light).impactOccurred()
+                                showsLibrary = true
+                            } label: {
+                                Image(systemName: "books.vertical").font(.title2).padding(16)
+                            }
+                            .buttonStyle(.glass)
+                            .buttonBorderShape(.circle)
+                            .accessibilityLabel("Library")
+                        }
+                        Spacer()
+                    }.padding(.horizontal, 12).foregroundStyle(RetenioTheme.accent)
+                }
+                RetenioWordmark()
                     .scaleEffect(titleScale * (call.isPresentingCall ? 2.0 / 3 : 1))
                     .position(x: width / 2, y: call.isPresentingCall ? headerHeight * 0.45 : voiceY)
                     .animation(reduceMotion ? nil : .smooth(duration: 0.55), value: call.isPresentingCall)
@@ -84,6 +102,7 @@ struct ContentView: View {
         .onChange(of: scenePhase) { _, phase in
             if phase == .active { microphonePermission = AVAudioApplication.shared.recordPermission }
         }
+        .sheet(isPresented: $showsLibrary) { LibraryView() }
         .alert(
             "Audio unavailable",
             isPresented: Binding(get: { call.errorMessage != nil }, set: { if !$0 { call.errorMessage = nil } }),
