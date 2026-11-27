@@ -1,21 +1,20 @@
 import AVFoundation
-import Combine
 import SwiftUI
 
 struct ContentView: View {
     @Environment(\.scenePhase) private var scenePhase
-    @State private var call: CallPresentation
+    let call: LiveCall
     @Environment(\.openURL) private var openURL
     @State private var microphonePermission: AVAudioApplication.recordPermission
     @State private var requestingMicrophone = false
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
     init(
-        phase: CallPresentation.Phase = .idle,
+        call: LiveCall,
         microphonePermission: AVAudioApplication.recordPermission = AVAudioApplication.shared.recordPermission,
     ) {
+        self.call = call
         _microphonePermission = State(initialValue: microphonePermission)
-        _call = State(initialValue: CallPresentation(phase: phase))
     }
 
     var body: some View {
@@ -29,9 +28,9 @@ struct ContentView: View {
             let titleScale = min(1, min(width / 340, headerHeight / 128))
             ZStack {
                 RetenioWordmark(size: 72)
-                    .scaleEffect(titleScale * (call.isActive ? 2.0 / 3 : 1))
-                    .position(x: width / 2, y: call.isActive ? headerHeight * 0.45 : voiceY)
-                    .animation(reduceMotion ? nil : .smooth(duration: 0.55), value: call.isActive)
+                    .scaleEffect(titleScale * (call.isPresentingCall ? 2.0 / 3 : 1))
+                    .position(x: width / 2, y: call.isPresentingCall ? headerHeight * 0.45 : voiceY)
+                    .animation(reduceMotion ? nil : .smooth(duration: 0.55), value: call.isPresentingCall)
                 (call.startedAt.map { Text($0, style: .timer) } ?? Text("00:00"))
                     .monospacedDigit()
                     .foregroundStyle(RetenioTheme.accent)
@@ -39,8 +38,8 @@ struct ContentView: View {
                     .opacity(isConnected ? 1 : 0)
                     .animation(.easeInOut(duration: 0.2), value: isConnected)
                     .accessibilityHidden(!isConnected)
-                CallVisual(active: call.isActive, connected: isConnected) {
-                    ActiveCallDots(call: call, connected: isConnected)
+                CallVisual(active: call.phase == .connecting || isConnected, connected: isConnected) {
+                    CallWaveform(call: call)
                 }
                 .frame(width: 240, height: 140)
                 .scaleEffect(min(width / 280, visualHeight / 140))
@@ -61,10 +60,10 @@ struct ContentView: View {
                 }
             } primary: { width in
                 CallToggleButton(
-                    active: call.isActive, disabled: requestingMicrophone,
+                    active: call.isPresentingCall, disabled: requestingMicrophone || call.phase == .ending,
                     permissionTitle: permissionTitle, expandedWidth: width, action: performPrimaryAction,
                 )
-                .accessibilityLabel(permissionTitle ?? (call.phase == .connecting ? "Cancel call" : (call.isActive ? "End call" : "Start call")))
+                .accessibilityLabel(permissionTitle ?? (call.phase == .connecting ? "Cancel call" : (call.isPresentingCall ? "End call" : "Start call")))
             }
         }
         .animation(reduceMotion ? nil : .smooth(duration: 0.45), value: microphonePermission)
@@ -76,30 +75,7 @@ struct ContentView: View {
             requestingMicrophone = false
         }
         .onChange(of: scenePhase) { _, phase in
-            if phase == .background { call.end() }
             if phase == .active { microphonePermission = AVAudioApplication.shared.recordPermission }
-        }
-        .onReceive(
-            NotificationCenter.default.publisher(for: AVAudioSession.didBecomeInactiveNotification).receive(on: RunLoop.main)
-        ) { notification in
-            if let context = notification.userInfo?[AVAudioSession.deactivationContextKey] as? AVAudioSession.DeactivationContext,
-                context.source == .system
-            {
-                call.end()
-            }
-        }
-        .onReceive(
-            NotificationCenter.default.publisher(for: AVAudioSession.mediaServicesWereResetNotification).receive(
-                on: RunLoop.main)
-        ) { _ in call.end() }
-        .onReceive(
-            NotificationCenter.default.publisher(for: AVAudioSession.routeChangeNotification).receive(on: RunLoop.main)
-        ) { notification in
-            if let raw = notification.userInfo?[AVAudioSessionRouteChangeReasonKey] as? UInt,
-                AVAudioSession.RouteChangeReason(rawValue: raw) == .oldDeviceUnavailable
-            {
-                call.end()
-            }
         }
         .alert(
             "Audio unavailable",
@@ -114,12 +90,12 @@ struct ContentView: View {
         }
     }
     private var permissionTitle: String? {
-        guard !call.isActive, microphonePermission != .granted else { return nil }
+        guard !call.isPresentingCall, microphonePermission != .granted else { return nil }
         return microphonePermission == .denied ? "Open Microphone Settings" : "Allow Microphone"
     }
 
     private func performPrimaryAction() {
-        if call.isActive {
+        if call.isPresentingCall {
             call.end()
             return
         }
@@ -130,7 +106,7 @@ struct ContentView: View {
         }
         switch permission {
         case .granted:
-            call.toggleCall()
+            call.start()
         case .denied:
             if let url = URL(string: UIApplication.openSettingsURLString) { openURL(url) }
         default:
@@ -139,22 +115,8 @@ struct ContentView: View {
     }
 }
 
-// Read audio levels here so meter updates stay within the waveform subtree.
-private struct ActiveCallDots: View {
-    let call: CallPresentation
-    let connected: Bool
+#Preview("Ready") { ContentView(call: LiveCall(), microphonePermission: .granted) }
 
-    var body: some View {
-        CallDots(active: connected, tint: RetenioTheme.accent, level: connected ? call.level : 0)
-    }
-}
+#Preview("Allow Microphone") { ContentView(call: LiveCall(), microphonePermission: .undetermined) }
 
-#Preview("Ready") { ContentView(microphonePermission: .granted) }
-
-#Preview("Allow Microphone") { ContentView(microphonePermission: .undetermined) }
-
-#Preview("Microphone Denied") { ContentView(microphonePermission: .denied) }
-
-#Preview("Connecting") { ContentView(phase: .connecting) }
-
-#Preview("Connected") { ContentView(phase: .connected) }
+#Preview("Microphone Denied") { ContentView(call: LiveCall(), microphonePermission: .denied) }

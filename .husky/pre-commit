@@ -1,1 +1,2 @@
+bun scripts/check-source-layout.ts
 bunx lint-staged
