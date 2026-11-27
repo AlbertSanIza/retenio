@@ -118,12 +118,18 @@ actor LocalLibrary {
 
     func findCards(deck: String, query: String, excluding: Set<Data>, dueOnly: Bool) throws -> [StudyCard] {
         try open()
+        let noteKeys = excluding.map { bytes in
+            let id = String(decoding: bytes, as: UTF8.self)
+            return id.lastIndex(of: ":").map { String(id[...$0]) } ?? id
+        }
+        let excludedNotes = String(decoding: try JSONEncoder().encode(noteKeys), as: UTF8.self)
+        let order = dueOnly ? "CASE WHEN due=0 THEN 1 ELSE 0 END,due,id" : "due,id"
         let records = try rows(
-            "SELECT id,deck,question,answer,images FROM cards WHERE (?='' OR deck=?) AND (?='' OR instr(lower(question || ' ' || answer),lower(?))>0) AND (?='0' OR due<=CAST(? AS REAL)) ORDER BY due,id LIMIT CAST(? AS INTEGER)",
+            "SELECT id,deck,question,answer,images FROM cards WHERE (?='' OR deck=?) AND (?='' OR instr(lower(question || ' ' || answer),lower(?))>0) AND (?='0' OR due<=CAST(? AS REAL)) AND (CASE WHEN instr(id,':')>0 THEN rtrim(id,'0123456789') ELSE id END) NOT IN (SELECT value FROM json_each(?)) ORDER BY \(order) LIMIT CAST(? AS INTEGER)",
             [
-                deck, deck, query, query, dueOnly ? "1" : "0", String(Date.now.timeIntervalSince1970),
-                String(excluding.count + (dueOnly ? 1 : 5)),
-            ], excluding: excluding, limit: dueOnly ? 1 : 5, )
+                deck, deck, query, query, dueOnly ? "1" : "0", String(Date.now.timeIntervalSince1970), excludedNotes,
+                String(dueOnly ? 1 : 5),
+            ], )
         return try records.map {
             StudyCard(
                 id: $0[0], deck: $0[1], question: $0[2], answer: $0[3],
@@ -159,8 +165,38 @@ actor LocalLibrary {
         return output as Data
     }
 
+    func rate(cardID: String, rating: ReviewRating, reviewID: String, now: Date = .now) throws -> Date {
+        try open()
+        var due = now
+        try transaction {
+            if let previous = try rows("SELECT card_id,rating,next_due FROM reviews WHERE id=?", [reviewID]).first {
+                guard Data(previous[0].utf8) == Data(cardID.utf8), previous[1] == rating.rawValue, let timestamp = Double(previous[2]) else {
+                    throw LibraryError.invalid("This review was already used for another action.")
+                }
+                due = Date(timeIntervalSince1970: timestamp)
+                return
+            }
+            guard let card = try rows("SELECT interval,repetitions FROM cards WHERE id=?", [cardID]).first else {
+                throw LibraryError.invalid("The reviewed card no longer exists.")
+            }
+            let schedule = ReviewSchedule.next(
+                rating: rating, interval: Double(card[0]) ?? 0, repetitions: Int(card[1]) ?? 0, now: now, )
+            due = schedule.due
+            try execute(
+                "UPDATE cards SET due=?,interval=?,repetitions=? WHERE id=?",
+                [String(due.timeIntervalSince1970), String(schedule.interval), String(schedule.repetitions), cardID], )
+            try execute(
+                "INSERT INTO reviews(id,card_id,rating,reviewed_at,next_due) VALUES(?,?,?,?,?)",
+                [
+                    reviewID, cardID, rating.rawValue, String(now.timeIntervalSince1970),
+                    String(due.timeIntervalSince1970),
+                ], )
+        }
+        return due
+    }
+
     // Statements are always bound; tool arguments and imported text never become SQL.
-    private func rows(_ sql: String, _ values: [String] = [], excluding: Set<Data> = [], limit: Int = .max) throws -> [[String]] {
+    private func rows(_ sql: String, _ values: [String] = []) throws -> [[String]] {
         guard let database else { throw LibraryError.invalid("The library isn't open.") }
         var statement: OpaquePointer?
         guard sqlite3_prepare_v2(database, sql, -1, &statement, nil) == SQLITE_OK else { throw databaseError() }
@@ -177,12 +213,6 @@ actor LocalLibrary {
             let status = sqlite3_step(statement)
             if status == SQLITE_DONE { return result }
             guard status == SQLITE_ROW else { throw databaseError() }
-            // Card queries skip seen IDs before copying their text and image lists.
-            if !excluding.isEmpty, let id = sqlite3_column_text(statement, 0),
-                excluding.contains(Data(bytes: id, count: Int(sqlite3_column_bytes(statement, 0))))
-            {
-                continue
-            }
             result.append(
                 (0..<sqlite3_column_count(statement)).map { column in
                     guard let value = sqlite3_column_text(statement, column) else { return "" }
@@ -190,7 +220,6 @@ actor LocalLibrary {
                         decoding: UnsafeBufferPointer(start: value, count: Int(sqlite3_column_bytes(statement, column))),
                         as: UTF8.self, )
                 })
-            if result.count == limit { return result }
         }
     }
 
