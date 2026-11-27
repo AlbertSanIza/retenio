@@ -23,29 +23,36 @@ struct CallDots: View {
     private var still: Bool { reduceMotion || motionDisabled }
 
     var body: some View {
-        TimelineView(.animation(paused: !presentation.active || still || scenePhase != .active)) { timeline in
-            let elapsed = motionStartedAt.map { max(0, timeline.date.timeIntervalSince($0)) } ?? 0
-            let ramp = still ? 0 : min(1, elapsed / 0.2)
-            CallShape(
-                separation: separation,
-                time: still ? 0 : timeline.date.timeIntervalSinceReferenceDate,
-                motionTime: elapsed,
-                motionAmount: ramp * ramp * (3 - 2 * ramp),
-                level: smoothedLevel(at: timeline.date),
-                motionDisabled: still,
-                tint: tint,
-                glass: glass?.tint(tint.opacity(glassTintStrength)),
-                glassGradientStrength: glassGradientStrength,
-            )
+        let tintedGlass = glass?.tint(tint.opacity(glassTintStrength))
+        // Keep the container outside the per-frame and morph updates.
+        GlassEffectContainer(spacing: 8) {
+            TimelineView(.animation(paused: !presentation.active || still || scenePhase != .active)) { timeline in
+                let elapsed = motionStartedAt.map { max(0, timeline.date.timeIntervalSince($0)) } ?? 0
+                let ramp = still ? 0 : min(1, elapsed / 0.2)
+                CallShape(
+                    separation: separation,
+                    time: still ? 0 : timeline.date.timeIntervalSinceReferenceDate,
+                    motionTime: elapsed,
+                    motionAmount: ramp * ramp * (3 - 2 * ramp),
+                    level: smoothedLevel(at: timeline.date),
+                    motionDisabled: still,
+                    tint: tint,
+                    glass: tintedGlass,
+                    glassGradientStrength: glassGradientStrength,
+                )
+            }
         }
         .onChange(of: presentation, initial: true) { old, new in
+            guard old != new || new.active else { return }
             transition(to: new, animated: old.active && new.active && old != new)
         }
         .onChange(of: still) { _, _ in transition(to: presentation, animated: false) }
         .onChange(of: level, initial: true) { _, new in
+            let target = new.isFinite ? Double(max(0, min(1, new))) : 0
+            guard target != targetLevel else { return }
             let now = Date.now
             previousLevel = smoothedLevel(at: now)
-            targetLevel = new.isFinite ? Double(max(0, min(1, new))) : 0
+            targetLevel = target
             levelChangedAt = now
         }
         .onDisappear {
@@ -107,18 +114,16 @@ struct CallShape: View, Animatable {
         if let glass {
             GeometryReader { geometry in
                 let shapes = rectangles(in: geometry.size)
-                GlassEffectContainer(spacing: 8) {
-                    ZStack {
-                        ForEach(shapes.indices, id: \.self) { index in
-                            let rect = shapes[index]
-                            Color.clear
-                                .frame(width: rect.width, height: rect.height)
-                                .glassEffect(glass, in: .rect(cornerRadius: rect.width / 2))
-                                .position(x: rect.midX, y: rect.midY)
-                        }
+                ZStack {
+                    ForEach(shapes.indices, id: \.self) { index in
+                        let rect = shapes[index]
+                        Color.clear
+                            .frame(width: rect.width, height: rect.height)
+                            .glassEffect(glass, in: .rect(cornerRadius: rect.width / 2))
+                            .position(x: rect.midX, y: rect.midY)
                     }
-                    .frame(width: geometry.size.width, height: geometry.size.height)
                 }
+                .frame(width: geometry.size.width, height: geometry.size.height)
             }
             .background {
                 // Let the native glass sample the color beneath it and keep its highlights on top.

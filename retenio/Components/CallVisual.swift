@@ -13,7 +13,6 @@ extension EnvironmentValues {
 struct CallVisual<Waveform: View>: View {
     let active: Bool
     let connected: Bool
-    let tint: Color
     @ViewBuilder var waveform: () -> Waveform
 
     var body: some View {
@@ -32,7 +31,7 @@ struct CallVisual<Waveform: View>: View {
     @Previewable @State var active = false
     @Previewable @State var connected = false
     VStack(spacing: 48) {
-        CallVisual(active: active, connected: connected, tint: RetenioTheme.accent) {
+        CallVisual(active: active, connected: connected) {
             CallDots(active: connected, tint: RetenioTheme.accent)
         }
         .frame(width: 240, height: 140)

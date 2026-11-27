@@ -68,7 +68,7 @@
         private func sample(_ title: String, glass: Glass?) -> some View {
             VStack(spacing: 8) {
                 Text(title).font(.headline)
-                CallVisual(active: active, connected: connected, tint: RetenioTheme.accent) {
+                CallVisual(active: active, connected: connected) {
                     CallDots(
                         active: connected, tint: RetenioTheme.accent, level: Float(level), motionDisabled: still, glass: glass, glassTintStrength: tintStrength,
                         glassGradientStrength: gradientStrength, )

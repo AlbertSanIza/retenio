@@ -1,10 +1,20 @@
+import AVFoundation
+import Combine
 import SwiftUI
 
 struct ContentView: View {
-    @State private var call = CallPresentation()
+    @Environment(\.scenePhase) private var scenePhase
+    @State private var call: CallPresentation
+    @Environment(\.openURL) private var openURL
+    @State private var microphonePermission: AVAudioApplication.recordPermission
+    @State private var requestingMicrophone = false
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
-    init(phase: CallPresentation.Phase = .idle) {
+    init(
+        phase: CallPresentation.Phase = .idle,
+        microphonePermission: AVAudioApplication.recordPermission = AVAudioApplication.shared.recordPermission,
+    ) {
+        _microphonePermission = State(initialValue: microphonePermission)
         _call = State(initialValue: CallPresentation(phase: phase))
     }
 
@@ -22,47 +32,128 @@ struct ContentView: View {
                     .scaleEffect(titleScale * (call.isActive ? 2.0 / 3 : 1))
                     .position(x: width / 2, y: call.isActive ? headerHeight * 0.45 : voiceY)
                     .animation(reduceMotion ? nil : .smooth(duration: 0.55), value: call.isActive)
-                Text("00:00")
+                (call.startedAt.map { Text($0, style: .timer) } ?? Text("00:00"))
                     .monospacedDigit()
                     .foregroundStyle(RetenioTheme.accent)
                     .position(x: width / 2, y: headerHeight * 0.85)
                     .opacity(isConnected ? 1 : 0)
                     .animation(.easeInOut(duration: 0.2), value: isConnected)
                     .accessibilityHidden(!isConnected)
-                CallVisual(active: call.isActive, connected: isConnected, tint: RetenioTheme.accent) {
-                    CallDots(active: isConnected, tint: RetenioTheme.accent, level: isConnected ? 0.35 : 0)
+                CallVisual(active: call.isActive, connected: isConnected) {
+                    ActiveCallDots(call: call, connected: isConnected)
                 }
                 .frame(width: 240, height: 140)
                 .scaleEffect(min(width / 280, visualHeight / 140))
                 .position(x: width / 2, y: voiceY)
             }
         } controls: {
-            CallControlGroup(connected: isConnected) { namespace in
-                HStack(spacing: 0) {
+            CallControlGroup(showOrigin: permissionTitle == nil, connected: isConnected) { namespace in
+                HStack {
                     CallControl(
                         symbol: "speaker.wave.2.fill", title: "Audio",
                         selected: call.isSpeaker, visible: isConnected, namespace: namespace,
-                    ) {
-                        call.isSpeaker.toggle()
-                    }
-                    Spacer(minLength: 8)
-                    CallToggleButton(active: call.isActive, disabled: false, action: call.toggleCall)
-                        .glassEffectID("call", in: namespace)
-                        .accessibilityLabel(call.phase == .connecting ? "Cancel call" : (call.isActive ? "End call" : "Start call"))
+                    ) { call.toggleSpeaker() }
                     Spacer(minLength: 8)
                     CallControl(
-                        symbol: "mic.slash.fill", title: "Mute", selected: call.isMuted, visible: isConnected, namespace: namespace,
-                    ) {
-                        call.isMuted.toggle()
-                    }
+                        symbol: "mic.slash.fill", title: "Mute", selected: call.isMuted,
+                        visible: isConnected, namespace: namespace,
+                    ) { call.toggleMute() }
                 }
+            } primary: { width in
+                CallToggleButton(
+                    active: call.isActive, disabled: requestingMicrophone,
+                    permissionTitle: permissionTitle, expandedWidth: width, action: performPrimaryAction,
+                )
+                .accessibilityLabel(permissionTitle ?? (call.phase == .connecting ? "Cancel call" : (call.isActive ? "End call" : "Start call")))
             }
         }
+        .animation(reduceMotion ? nil : .smooth(duration: 0.45), value: microphonePermission)
         .preferredColorScheme(.dark)
+        .task(id: requestingMicrophone) {
+            guard requestingMicrophone else { return }
+            _ = await AVAudioApplication.requestRecordPermission()
+            microphonePermission = AVAudioApplication.shared.recordPermission
+            requestingMicrophone = false
+        }
+        .onChange(of: scenePhase) { _, phase in
+            if phase == .background { call.end() }
+            if phase == .active { microphonePermission = AVAudioApplication.shared.recordPermission }
+        }
+        .onReceive(
+            NotificationCenter.default.publisher(for: AVAudioSession.didBecomeInactiveNotification).receive(on: RunLoop.main)
+        ) { notification in
+            if let context = notification.userInfo?[AVAudioSession.deactivationContextKey] as? AVAudioSession.DeactivationContext,
+                context.source == .system
+            {
+                call.end()
+            }
+        }
+        .onReceive(
+            NotificationCenter.default.publisher(for: AVAudioSession.mediaServicesWereResetNotification).receive(
+                on: RunLoop.main)
+        ) { _ in call.end() }
+        .onReceive(
+            NotificationCenter.default.publisher(for: AVAudioSession.routeChangeNotification).receive(on: RunLoop.main)
+        ) { notification in
+            if let raw = notification.userInfo?[AVAudioSessionRouteChangeReasonKey] as? UInt,
+                AVAudioSession.RouteChangeReason(rawValue: raw) == .oldDeviceUnavailable
+            {
+                call.end()
+            }
+        }
+        .alert(
+            "Audio unavailable",
+            isPresented: Binding(get: { call.errorMessage != nil }, set: { if !$0 { call.errorMessage = nil } }),
+        ) {
+            Button("OK") {
+                UIImpactFeedbackGenerator(style: .light).impactOccurred()
+                call.errorMessage = nil
+            }
+        } message: {
+            Text(call.errorMessage ?? "")
+        }
+    }
+    private var permissionTitle: String? {
+        guard !call.isActive, microphonePermission != .granted else { return nil }
+        return microphonePermission == .denied ? "Open Microphone Settings" : "Allow Microphone"
+    }
+
+    private func performPrimaryAction() {
+        if call.isActive {
+            call.end()
+            return
+        }
+        let permission = AVAudioApplication.shared.recordPermission
+        guard permission == microphonePermission else {
+            microphonePermission = permission
+            return
+        }
+        switch permission {
+        case .granted:
+            call.toggleCall()
+        case .denied:
+            if let url = URL(string: UIApplication.openSettingsURLString) { openURL(url) }
+        default:
+            requestingMicrophone = true
+        }
     }
 }
 
-#Preview("Ready") { ContentView() }
+// Read audio levels here so meter updates stay within the waveform subtree.
+private struct ActiveCallDots: View {
+    let call: CallPresentation
+    let connected: Bool
+
+    var body: some View {
+        CallDots(active: connected, tint: RetenioTheme.accent, level: connected ? call.level : 0)
+    }
+}
+
+#Preview("Ready") { ContentView(microphonePermission: .granted) }
+
+#Preview("Allow Microphone") { ContentView(microphonePermission: .undetermined) }
+
+#Preview("Microphone Denied") { ContentView(microphonePermission: .denied) }
 
 #Preview("Connecting") { ContentView(phase: .connecting) }
 
