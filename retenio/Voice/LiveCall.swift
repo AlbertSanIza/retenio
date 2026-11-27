@@ -18,6 +18,12 @@ final class LiveCall {
     var isPresentingCall: Bool { phase != .idle }
     private(set) var activity = CallActivity()
     private(set) var activityStatus = CallActivity.Status.listening
+    private var hangup: VoiceHangup?
+    private var hangupTask: Task<Void, Never>?
+    private var handledCalls: Set<String> = []
+    @ObservationIgnored private var inputEndMS: Double = 0
+    @ObservationIgnored private var latestSpeechStartMS: Double?
+    @ObservationIgnored private var delegationOffsets: [String: Double] = [:]
     private let audio = VoiceAudio()
     private var socket: URLSessionWebSocketTask?
     private var session: URLSession?
@@ -215,10 +221,89 @@ final class LiveCall {
             guard phase == .connected, let delta = event["delta"] as? String, let pcm = Data(base64Encoded: delta)
             else { return }
             try await audio.play(pcm)
+        case "session.delegation.created":
+            guard phase == .connected,
+                let delegation = event["delegation"] as? [String: Any],
+                let delegationID = delegation["id"] as? String,
+                let offset = (event["offset_ms"] as? NSNumber)?.doubleValue
+            else { return }
+            delegationOffsets[delegationID] = offset
+        case "session.input_transcript.delta":
+            guard phase == .connected else { return }
+            if let start = (event["start_ms"] as? NSNumber)?.doubleValue,
+                let delta = event["delta"] as? String,
+                delta.unicodeScalars.contains(where: CharacterSet.letters.contains)
+            {
+                latestSpeechStartMS = max(latestSpeechStartMS ?? start, start)
+            }
+            if let end = (event["end_ms"] as? NSNumber)?.doubleValue { inputEndMS = max(inputEndMS, end) }
+            if let hangup, hangup.isNewSpeech(event) {
+                cancelHangup()
+                try await send(
+                    [
+                        "type": "session.instructions.append", "delegation_id": NSNull(),
+                        "content":
+                            "The learner resumed speaking. The pending hang-up was canceled. Listen to their new request.",
+                    ], id: id, )
+            }
+        case "response.event":
+            // An action already executing may finish atomically; never dispatch a new one after hang-up.
+            guard phase == .connected else { return }
+            guard let nested = event["event"] as? [String: Any],
+                nested["type"] as? String == "response.output_item.done",
+                let item = nested["item"] as? [String: Any], item["type"] as? String == "function_call",
+                let functionID = item["call_id"] as? String, handledCalls.insert(functionID).inserted
+            else { return }
+            let delegatedAt = (event["delegation_id"] as? String).flatMap { delegationOffsets[$0] }
+            let result = performAction(item, id: id, delegatedAt: delegatedAt)
+            guard callID == id, phase == .connected else { return }
+            try await send(
+                [
+                    "type": "response.item.create",
+                    "item": ["type": "function_call_output", "call_id": functionID, "output": result],
+                ], id: id, )
+            guard callID == id, phase == .connected else { return }
+            try await send(["type": "response.create"], id: id)
         case "session.closed": cleanup()
         case "error", "session.error": fail("Couldn't continue this call. Please try again.")
         default: break
         }
+    }
+
+    private func performAction(_ item: [String: Any], id: UUID, delegatedAt: Double?) -> String {
+        switch item["name"] as? String {
+        case "end_call":
+            // Do not arm an old request after the learner has already resumed speaking.
+            if let delegatedAt, let latestSpeechStartMS, latestSpeechStartMS >= delegatedAt {
+                return "The learner spoke again after this request. Keep the call open and listen."
+            }
+            guard hangup == nil else { return "The call is already ending." }
+            let request = VoiceHangup(requestedAt: .now, inputEndMS: inputEndMS)
+            hangup = request
+            hangupTask = Task { [weak self] in
+                while !Task.isCancelled {
+                    try? await Task.sleep(for: .milliseconds(100))
+                    guard !Task.isCancelled, let self, self.callID == id else { return }
+                    let finished = await self.audio.farewellFinished(after: request.requestedAt)
+                    guard !Task.isCancelled, self.callID == id else { return }
+                    if request.shouldEnd(at: .now, farewellFinished: finished) {
+                        self.end()
+                        return
+                    }
+                }
+            }
+            return "Ending the call after your short farewell. Say goodbye without another question."
+        case "cancel_end_call":
+            cancelHangup()
+            return "The call remains open. Continue the conversation."
+        default: return "Unsupported action. Nothing was changed."
+        }
+    }
+
+    private func cancelHangup() {
+        hangupTask?.cancel()
+        hangupTask = nil
+        hangup = nil
     }
 
     private func send(_ event: [String: Any], id: UUID) async throws {
@@ -263,6 +348,7 @@ final class LiveCall {
             return
         }
         phase = .ending
+        cancelHangup()
         audio.stop()
         sendTask?.cancel()
         healthTask?.cancel()
@@ -286,6 +372,11 @@ final class LiveCall {
     }
     private func cleanup() {
         callID = UUID()
+        cancelHangup()
+        handledCalls = []
+        inputEndMS = 0
+        latestSpeechStartMS = nil
+        delegationOffsets = [:]
         connectionTask?.cancel()
         connectionTask = nil
         sendTask?.cancel()

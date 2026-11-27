@@ -52,9 +52,14 @@ struct CallActivity: Equatable {
             case "response.output_item.added", "response.output_item.done":
                 if let item = nested["item"] as? [String: Any] {
                     if ["mcp_call", "function_call"].contains(item["type"] as? String ?? "") {
-                        work[id] = Work(
-                            status: ["rate_question", "rate_card"].contains(item["name"] as? String ?? "")
-                                ? .saving : .reviewing, started: started, )
+                        let name = item["name"] as? String ?? ""
+                        if ["end_call", "cancel_end_call"].contains(name) {
+                            work.removeValue(forKey: id)
+                        } else {
+                            work[id] = Work(
+                                status: ["rate_question", "rate_card"].contains(name) ? .saving : .reviewing,
+                                started: started, )
+                        }
                         if item["error"] != nil && !(item["error"] is NSNull) {
                             report("That learning tool couldn't finish. You can keep talking.")
                         }
