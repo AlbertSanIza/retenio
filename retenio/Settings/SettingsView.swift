@@ -9,6 +9,25 @@ struct SettingsView: View {
     var body: some View {
         NavigationStack {
             Form {
+                Section("Appearance") {
+                    Picker("Theme", selection: $settings.theme) {
+                        ForEach(AppTheme.allCases) { theme in
+                            HStack {
+                                Circle().fill(
+                                    LinearGradient(
+                                        colors: [theme.accent, theme.backgroundTop], startPoint: .topLeading,
+                                        endPoint: .bottomTrailing, )
+                                ).frame(width: 26, height: 26).accessibilityHidden(true)
+                                Text(theme.title)
+                            }
+                            .tag(theme)
+                            .accessibilityIdentifier("theme-\(theme.rawValue)")
+                        }
+                    }
+                    .pickerStyle(.inline)
+                    .labelsHidden()
+                }
+
                 Section {
                     Picker("Conversation voice", selection: $settings.voice) {
                         ForEach(ConversationVoice.allCases) { voice in Text(voice.title).tag(voice) }
@@ -31,7 +50,7 @@ struct SettingsView: View {
             }
             .navigationTitle("Settings")
             .preferredColorScheme(.dark)
-            .tint(RetenioTheme.accent)
+            .tint(settings.theme.accent)
             .toolbar {
                 ToolbarItem(placement: .confirmationAction) {
                     Button("Done") {
