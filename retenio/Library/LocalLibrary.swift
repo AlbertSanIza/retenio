@@ -91,6 +91,29 @@ actor LocalLibrary {
         }
     }
 
+    func importDeck(_ plan: AnkiImport) throws {
+        try open()
+        let mediaDirectory = directory.appendingPathComponent("Media", isDirectory: true)
+        try FileManager.default.createDirectory(at: mediaDirectory, withIntermediateDirectories: true)
+        var created: [URL] = []
+        do {
+            for (id, data) in plan.media {
+                guard id.count == 64, id.allSatisfy({ $0.isHexDigit }) else {
+                    throw LibraryError.invalid("Invalid image identity.")
+                }
+                let destination = mediaDirectory.appendingPathComponent(id)
+                if !FileManager.default.fileExists(atPath: destination.path) {
+                    try data.write(to: destination, options: .atomic)
+                    created.append(destination)
+                }
+            }
+            try upsert(plan.cards)
+        } catch {
+            for file in created { try? FileManager.default.removeItem(at: file) }
+            throw error
+        }
+    }
+
     // Statements are always bound; tool arguments and imported text never become SQL.
     private func rows(_ sql: String, _ values: [String] = []) throws -> [[String]] {
         guard let database else { throw LibraryError.invalid("The library isn't open.") }
