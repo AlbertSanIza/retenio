@@ -1,11 +1,15 @@
 import AVFoundation
+import Combine
 import Foundation
 import Observation
+import UIKit
 
 @MainActor @Observable
 final class LiveCall {
     enum Phase { case idle, connecting, connected, ending }
-    private(set) var phase: Phase = .idle
+    private(set) var phase: Phase = .idle {
+        didSet { updateProximityMonitoring() }
+    }
     private(set) var isMuted = false
     private(set) var isSpeaker = true
     private(set) var startedAt: Date?
@@ -23,6 +27,37 @@ final class LiveCall {
     private var healthTask: Task<Void, Never>?
     private var callID = UUID()
     @ObservationIgnored private var lastPong = Date()
+
+    @ObservationIgnored private var audioNotifications: AnyCancellable?
+
+    init() {
+        let center = NotificationCenter.default
+        audioNotifications = center.publisher(for: AVAudioSession.didBecomeInactiveNotification)
+            .merge(
+                with: center.publisher(for: AVAudioSession.mediaServicesWereResetNotification),
+                center.publisher(for: AVAudioSession.routeChangeNotification),
+            )
+            .receive(on: RunLoop.main)
+            .sink { [weak self] notification in
+                guard let self else { return }
+                switch notification.name {
+                case AVAudioSession.didBecomeInactiveNotification:
+                    if let context = notification.userInfo?[AVAudioSession.deactivationContextKey] as? AVAudioSession.DeactivationContext,
+                        context.source == .system
+                    {
+                        self.end()
+                    }
+                case AVAudioSession.routeChangeNotification:
+                    if let raw = notification.userInfo?[AVAudioSessionRouteChangeReasonKey] as? UInt,
+                        AVAudioSession.RouteChangeReason(rawValue: raw) == .oldDeviceUnavailable
+                    {
+                        self.end()
+                    }
+                    self.updateProximityMonitoring()
+                default: self.end()
+                }
+            }
+    }
 
     func start() {
         guard phase == .idle else { return }
@@ -181,6 +216,14 @@ final class LiveCall {
         guard callID == id, let socket else { return }
         let data = try JSONSerialization.data(withJSONObject: event, options: .withoutEscapingSlashes)
         try await socket.send(.string(String(decoding: data, as: UTF8.self)))
+    }
+
+    private func updateProximityMonitoring() {
+        guard UIDevice.current.userInterfaceIdiom == .phone else { return }
+        // Use the hardware route, not the speaker toggle: .none can route to headphones.
+        UIDevice.current.isProximityMonitoringEnabled =
+            phase == .connected
+            && AVAudioSession.sharedInstance().currentRoute.outputs.contains { $0.portType == .builtInReceiver }
     }
 
     func toggleMute() {

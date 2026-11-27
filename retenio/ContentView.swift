@@ -1,18 +1,19 @@
 import AVFoundation
-import Combine
 import SwiftUI
 
 struct ContentView: View {
     @Environment(\.scenePhase) private var scenePhase
-    @State private var call = LiveCall()
+    let call: LiveCall
     @Environment(\.openURL) private var openURL
     @State private var microphonePermission: AVAudioApplication.recordPermission
     @State private var requestingMicrophone = false
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
     init(
-        microphonePermission: AVAudioApplication.recordPermission = AVAudioApplication.shared.recordPermission
+        call: LiveCall,
+        microphonePermission: AVAudioApplication.recordPermission = AVAudioApplication.shared.recordPermission,
     ) {
+        self.call = call
         _microphonePermission = State(initialValue: microphonePermission)
     }
 
@@ -67,12 +68,6 @@ struct ContentView: View {
         }
         .animation(reduceMotion ? nil : .smooth(duration: 0.45), value: microphonePermission)
         .preferredColorScheme(.dark)
-        .onChange(of: call.phase) { _, _ in updateProximityMonitoring() }
-        .onDisappear {
-            if UIDevice.current.userInterfaceIdiom == .phone {
-                UIDevice.current.isProximityMonitoringEnabled = false
-            }
-        }
         .task(id: requestingMicrophone) {
             guard requestingMicrophone else { return }
             _ = await AVAudioApplication.requestRecordPermission()
@@ -80,31 +75,7 @@ struct ContentView: View {
             requestingMicrophone = false
         }
         .onChange(of: scenePhase) { _, phase in
-            if phase == .background { call.end() }
             if phase == .active { microphonePermission = AVAudioApplication.shared.recordPermission }
-        }
-        .onReceive(
-            NotificationCenter.default.publisher(for: AVAudioSession.didBecomeInactiveNotification).receive(on: RunLoop.main)
-        ) { notification in
-            if let context = notification.userInfo?[AVAudioSession.deactivationContextKey] as? AVAudioSession.DeactivationContext,
-                context.source == .system
-            {
-                call.end()
-            }
-        }
-        .onReceive(
-            NotificationCenter.default.publisher(for: AVAudioSession.mediaServicesWereResetNotification).receive(
-                on: RunLoop.main)
-        ) { _ in call.end() }
-        .onReceive(
-            NotificationCenter.default.publisher(for: AVAudioSession.routeChangeNotification).receive(on: RunLoop.main)
-        ) { notification in
-            if let raw = notification.userInfo?[AVAudioSessionRouteChangeReasonKey] as? UInt,
-                AVAudioSession.RouteChangeReason(rawValue: raw) == .oldDeviceUnavailable
-            {
-                call.end()
-            }
-            updateProximityMonitoring()
         }
         .alert(
             "Audio unavailable",
@@ -121,14 +92,6 @@ struct ContentView: View {
     private var permissionTitle: String? {
         guard !call.isPresentingCall, microphonePermission != .granted else { return nil }
         return microphonePermission == .denied ? "Open Microphone Settings" : "Allow Microphone"
-    }
-
-    private func updateProximityMonitoring() {
-        guard UIDevice.current.userInterfaceIdiom == .phone else { return }
-        // Use the hardware route, not the speaker toggle: .none can route to headphones.
-        UIDevice.current.isProximityMonitoringEnabled =
-            call.phase == .connected
-            && AVAudioSession.sharedInstance().currentRoute.outputs.contains { $0.portType == .builtInReceiver }
     }
 
     private func performPrimaryAction() {
@@ -152,8 +115,8 @@ struct ContentView: View {
     }
 }
 
-#Preview("Ready") { ContentView(microphonePermission: .granted) }
+#Preview("Ready") { ContentView(call: LiveCall(), microphonePermission: .granted) }
 
-#Preview("Allow Microphone") { ContentView(microphonePermission: .undetermined) }
+#Preview("Allow Microphone") { ContentView(call: LiveCall(), microphonePermission: .undetermined) }
 
-#Preview("Microphone Denied") { ContentView(microphonePermission: .denied) }
+#Preview("Microphone Denied") { ContentView(call: LiveCall(), microphonePermission: .denied) }
