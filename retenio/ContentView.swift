@@ -26,6 +26,8 @@ struct ContentView: View {
             let visualHeight = min(140, max(0, height - headerHeight))
             let voiceY = min(height - visualHeight / 2, max(headerHeight + visualHeight / 2, height * 0.43))
             let titleScale = min(1, min(width / 340, headerHeight / 128))
+            let detailsTop = voiceY + visualHeight / 2 + 16
+            let detailsHeight = max(0, height - detailsTop - 8)
             ZStack {
                 RetenioWordmark(size: 72)
                     .scaleEffect(titleScale * (call.isPresentingCall ? 2.0 / 3 : 1))
@@ -44,6 +46,11 @@ struct ContentView: View {
                 .frame(width: 240, height: 140)
                 .scaleEffect(min(width / 280, visualHeight / 140))
                 .position(x: width / 2, y: voiceY)
+                if (isConnected || call.phase == .ending) && detailsHeight >= 60 {
+                    CallDetails(call: call)
+                        .frame(width: max(0, width - 48), height: detailsHeight)
+                        .position(x: width / 2, y: detailsTop + detailsHeight / 2)
+                }
             }
         } controls: {
             CallControlGroup(showOrigin: permissionTitle == nil, connected: isConnected) { namespace in
