@@ -10,6 +10,7 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
     private let muted = OSAllocatedUnfairLock(initialState: false)
     private var engine: AVAudioEngine?
     private var player: AVAudioPlayerNode?
+    private var sessionActive = false
     private let logger = Logger(subsystem: "com.albertsaniza.retenio", category: "VoiceAudio")
     private var completedFrames = 0
     private var queuedFrames = 0
@@ -53,6 +54,7 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
         // Keep button feedback available during capture; haptics must not prevent a call from starting.
         try? session.setAllowHapticsAndSystemSoundsDuringRecording(true)
         try session.setActive(true)
+        sessionActive = true
         #if !targetEnvironment(simulator)
             try session.overrideOutputAudioPort(.speaker)
         #endif
@@ -268,7 +270,12 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
         player = nil
         queuedFrames = 0
         onLevel = nil
-        try? AVAudioSession.sharedInstance().setActive(false, options: .notifyOthersOnDeactivation)
+        // A first start (or repeated stop) has no session to deactivate. Keep this
+        // separate from engine lifetime so a failure after activation still releases it.
+        if sessionActive {
+            try? AVAudioSession.sharedInstance().setActive(false, options: .notifyOthersOnDeactivation)
+            sessionActive = false
+        }
     }
 
     private func diagnose(_ message: String) {
