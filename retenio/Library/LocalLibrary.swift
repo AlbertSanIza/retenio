@@ -1,5 +1,7 @@
 import Foundation
+import ImageIO
 import SQLite3
+import UniformTypeIdentifiers
 
 nonisolated struct StudyCard: Codable, Sendable, Identifiable {
     let id: String
@@ -9,7 +11,7 @@ nonisolated struct StudyCard: Codable, Sendable, Identifiable {
     var images: [String] = []
 }
 
-nonisolated struct DeckSummary: Identifiable, Sendable {
+nonisolated struct DeckSummary: Encodable, Identifiable, Sendable {
     var id: Data { Data(name.utf8) }
     let name: String
     let count: Int
@@ -114,8 +116,51 @@ actor LocalLibrary {
         }
     }
 
+    func findCards(deck: String, query: String, excluding: Set<Data>, dueOnly: Bool) throws -> [StudyCard] {
+        try open()
+        let records = try rows(
+            "SELECT id,deck,question,answer,images FROM cards WHERE (?='' OR deck=?) AND (?='' OR instr(lower(question || ' ' || answer),lower(?))>0) AND (?='0' OR due<=CAST(? AS REAL)) ORDER BY due,id LIMIT CAST(? AS INTEGER)",
+            [
+                deck, deck, query, query, dueOnly ? "1" : "0", String(Date.now.timeIntervalSince1970),
+                String(excluding.count + (dueOnly ? 1 : 5)),
+            ], excluding: excluding, limit: dueOnly ? 1 : 5, )
+        return try records.map {
+            StudyCard(
+                id: $0[0], deck: $0[1], question: $0[2], answer: $0[3],
+                images: try JSONDecoder().decode([String].self, from: Data($0[4].utf8)), )
+        }
+    }
+
+    /// Downsample and encode on the library actor, never on the UI actor.
+    func image(_ id: String) throws -> Data {
+        guard id.count == 64, id.allSatisfy({ $0.isHexDigit }) else {
+            throw LibraryError.invalid("Invalid image identity.")
+        }
+        let url = directory.appendingPathComponent("Media").appendingPathComponent(id)
+        guard let source = CGImageSourceCreateWithURL(url as CFURL, [kCGImageSourceShouldCache: false] as CFDictionary),
+            let thumbnail = CGImageSourceCreateThumbnailAtIndex(
+                source, 0,
+                [
+                    kCGImageSourceCreateThumbnailFromImageAlways: true,
+                    kCGImageSourceCreateThumbnailWithTransform: true, kCGImageSourceThumbnailMaxPixelSize: 1200,
+                ]
+                    as CFDictionary, )
+        else { throw LibraryError.invalid("Couldn't read this image.") }
+        let output = NSMutableData()
+        guard
+            let destination = CGImageDestinationCreateWithData(
+                output, UTType.jpeg.identifier as CFString, 1, nil, )
+        else { throw LibraryError.invalid("Couldn't prepare this image.") }
+        CGImageDestinationAddImage(
+            destination, thumbnail, [kCGImageDestinationLossyCompressionQuality: 0.8] as CFDictionary, )
+        guard CGImageDestinationFinalize(destination) else {
+            throw LibraryError.invalid("Couldn't prepare this image.")
+        }
+        return output as Data
+    }
+
     // Statements are always bound; tool arguments and imported text never become SQL.
-    private func rows(_ sql: String, _ values: [String] = []) throws -> [[String]] {
+    private func rows(_ sql: String, _ values: [String] = [], excluding: Set<Data> = [], limit: Int = .max) throws -> [[String]] {
         guard let database else { throw LibraryError.invalid("The library isn't open.") }
         var statement: OpaquePointer?
         guard sqlite3_prepare_v2(database, sql, -1, &statement, nil) == SQLITE_OK else { throw databaseError() }
@@ -132,6 +177,12 @@ actor LocalLibrary {
             let status = sqlite3_step(statement)
             if status == SQLITE_DONE { return result }
             guard status == SQLITE_ROW else { throw databaseError() }
+            // Card queries skip seen IDs before copying their text and image lists.
+            if !excluding.isEmpty, let id = sqlite3_column_text(statement, 0),
+                excluding.contains(Data(bytes: id, count: Int(sqlite3_column_bytes(statement, 0))))
+            {
+                continue
+            }
             result.append(
                 (0..<sqlite3_column_count(statement)).map { column in
                     guard let value = sqlite3_column_text(statement, column) else { return "" }
@@ -139,6 +190,7 @@ actor LocalLibrary {
                         decoding: UnsafeBufferPointer(start: value, count: Int(sqlite3_column_bytes(statement, column))),
                         as: UTF8.self, )
                 })
+            if result.count == limit { return result }
         }
     }
 
