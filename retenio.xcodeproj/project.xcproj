@@ -11,17 +11,62 @@
     ],
   },
   "files": [
+    { "kind": "folder", "path": "RetenioTests", "target-membership": [ "RetenioTests" ] },
+    { "kind": "folder", "path": "RetenioUITests", "target-membership": [ "RetenioUITests" ] },
     { "kind": "folder", "path": "retenio", "target-membership": [ "Retenio" ] },
     {
       "kind": "group",
       "name": "Products",
       "children": [
+        { "path": "<PRODUCTS>/RetenioTests.xctest", "id": "A00000000000000000000001", "type": "wrapper.cfbundle", "index": false },
+        { "path": "<PRODUCTS>/RetenioUITests.xctest", "id": "A00000000000000000000002", "type": "wrapper.cfbundle", "index": false },
         { "path": "<PRODUCTS>/Retenio.app", "id": "1694CC4630B54EA00028B732", "type": "wrapper.application", "index": false },
       ],
     },
   ],
   "targets": [
     {
+      "name": "RetenioTests",
+      "id": "A00000000000000000000011",
+      "product": "Products/RetenioTests.xctest",
+      "product-type": "bundle.unit-test",
+      "dependencies": [
+        "Retenio",
+      ],
+      "build-phases": [
+        "compile-sources",
+        "frameworks",
+        "resources",
+      ],
+      "build-settings": {
+        "BUNDLE_LOADER": "$(TEST_HOST)",
+        "GENERATE_INFOPLIST_FILE": "YES",
+        "PRODUCT_BUNDLE_IDENTIFIER": "com.albertsaniza.retenio.tests",
+        "PRODUCT_NAME": "$(TARGET_NAME)",
+        "SWIFT_VERSION": "5.0",
+        "TEST_HOST": "$(BUILT_PRODUCTS_DIR)/Retenio.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Retenio",
+      },
+    }, {
+      "name": "RetenioUITests",
+      "id": "A00000000000000000000012",
+      "product": "Products/RetenioUITests.xctest",
+      "product-type": "bundle.ui-testing",
+      "dependencies": [
+        "Retenio",
+      ],
+      "build-phases": [
+        "compile-sources",
+        "frameworks",
+        "resources",
+      ],
+      "build-settings": {
+        "GENERATE_INFOPLIST_FILE": "YES",
+        "PRODUCT_BUNDLE_IDENTIFIER": "com.albertsaniza.retenio.uitests",
+        "PRODUCT_NAME": "$(TARGET_NAME)",
+        "SWIFT_VERSION": "5.0",
+        "TEST_TARGET_NAME": "Retenio",
+      },
+    }, {
       "name": "Retenio",
       "id": "1694CC4530B54EA00028B732",
       "product": "Products/Retenio.app",
