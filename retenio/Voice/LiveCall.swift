@@ -16,6 +16,8 @@ final class LiveCall {
     private(set) var level: Float = 0
     var errorMessage: String?
     var isPresentingCall: Bool { phase != .idle }
+    private(set) var activity = CallActivity()
+    private(set) var activityStatus = CallActivity.Status.listening
     private let audio = VoiceAudio()
     private var socket: URLSessionWebSocketTask?
     private var session: URLSession?
@@ -70,6 +72,8 @@ final class LiveCall {
             return
         }
         errorMessage = nil
+        activity = CallActivity()
+        refreshActivityStatus()
         phase = .connecting
         isMuted = false
         isSpeaker = true
@@ -118,6 +122,12 @@ final class LiveCall {
     }
 
     private func receive(_ event: [String: Any], id: UUID) async throws {
+        if (phase == .connecting || phase == .connected), event["type"] as? String != "session.output_audio.delta" {
+            var updated = activity
+            updated.receive(event)
+            if updated != activity { activity = updated }
+            refreshActivityStatus()
+        }
         switch event["type"] as? String {
         case "session.started":
             guard phase == .connecting else { return }
@@ -136,6 +146,12 @@ final class LiveCall {
                     Task { @MainActor [weak self] in
                         guard let self, self.callID == id, self.phase == .connecting || self.phase == .connected else { return }
                         self.level = value
+                        let audible = value > 0.04
+                        if self.activity.isAudible != audible {
+                            self.activity.isAudible = audible
+                            if audible { self.activity.awaitingReplySince = nil } else { self.activity.lastAudible = .now }
+                            self.refreshActivityStatus()
+                        }
                     }
                 },
                 onFailure: { [weak self] message in
@@ -175,6 +191,7 @@ final class LiveCall {
                 while !Task.isCancelled {
                     try? await Task.sleep(for: .seconds(1))
                     guard !Task.isCancelled, let self, self.callID == id else { return }
+                    self.refreshActivityStatus()
                     if Date.now.timeIntervalSince(self.lastPong) > 25 {
                         self.fail("The call stopped responding. Start a new call to reconnect.")
                         return
@@ -198,14 +215,6 @@ final class LiveCall {
             guard phase == .connected, let delta = event["delta"] as? String, let pcm = Data(base64Encoded: delta)
             else { return }
             try await audio.play(pcm)
-        case "session.delegation.created":
-            if let delegationID = event["delegation_id"] as? String {
-                try await send(
-                    [
-                        "type": "session.commentary.append", "delegation_id": delegationID,
-                        "content": "This build has no backend tools. Explain this briefly and continue chatting.",
-                    ], id: id, )
-            }
         case "session.closed": cleanup()
         case "error", "session.error": fail("Couldn't continue this call. Please try again.")
         default: break
@@ -266,6 +275,11 @@ final class LiveCall {
         }
     }
 
+    private func refreshActivityStatus() {
+        let status = activity.status(at: .now)
+        if activityStatus != status { activityStatus = status }
+    }
+
     private func fail(_ message: String) {
         errorMessage = message
         cleanup()
@@ -292,5 +306,7 @@ final class LiveCall {
         phase = .idle
         startedAt = nil
         level = 0
+        activity = CallActivity()
+        refreshActivityStatus()
     }
 }
