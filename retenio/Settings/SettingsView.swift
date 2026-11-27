@@ -9,6 +9,9 @@ struct SettingsView: View {
     var body: some View {
         NavigationStack {
             Form {
+                Section {
+                    NavigationLink("AI & permissions") { AISettingsView(settings: settings) }
+                }
                 Section("Appearance") {
                     Picker("Theme", selection: $settings.theme) {
                         ForEach(AppTheme.allCases) { theme in
