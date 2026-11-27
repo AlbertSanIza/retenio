@@ -57,11 +57,14 @@ struct CallActivity: Equatable {
                             work.removeValue(forKey: id)
                         } else {
                             work[id] = Work(
-                                status: ["rate_question", "rate_card"].contains(name) ? .saving : .reviewing,
+                                status: name == "rate_card" ? .saving : .reviewing,
                                 started: started, )
                         }
                         if item["error"] != nil && !(item["error"] is NSNull) {
-                            report("That learning tool couldn't finish. You can keep talking.")
+                            notice =
+                                item["type"] as? String == "mcp_call"
+                                ? "The MCP connection couldn't finish this request. You can keep talking."
+                                : "That learning tool couldn't finish. You can keep talking."
                         }
                     }
                     collectSources(item)
@@ -72,17 +75,13 @@ struct CallActivity: Equatable {
                 work.removeValue(forKey: id)
             case "response.failed", "response.incomplete", "response.cancelled":
                 work.removeValue(forKey: id)
-                report("That request couldn't finish. Try asking again.")
+                notice = "That request couldn't finish. Try asking again."
             case "response.mcp_call.failed", "response.mcp_list_tools.failed":
-                report("Your cards aren't available right now. We can still explore a topic.")
+                notice = "The MCP connection couldn't finish this request. You can keep talking."
             default: break
             }
         default: break
         }
-    }
-
-    mutating func report(_ message: String) {
-        notice = message
     }
 
     func status(at now: Date) -> Status {

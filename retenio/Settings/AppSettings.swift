@@ -42,8 +42,18 @@ final class AppSettings {
         didSet { if let data = try? JSONEncoder().encode(ai) { defaults.set(data, forKey: "aiSettings") } }
     }
 
+    var mcpConnections: [RemoteMCPConnection] {
+        didSet {
+            if let data = try? JSONEncoder().encode(mcpConnections) { defaults.set(data, forKey: "mcpConnections") }
+        }
+    }
+
     init(defaults: UserDefaults = .standard) {
         self.defaults = defaults
+        mcpConnections =
+            defaults.data(forKey: "mcpConnections").flatMap {
+                try? JSONDecoder().decode([RemoteMCPConnection].self, from: $0)
+            } ?? []
         if defaults.object(forKey: "aiSettings") != nil {
             ai = defaults.data(forKey: "aiSettings").flatMap { try? JSONDecoder().decode(AISettings.self, from: $0) } ?? .restricted
         } else {
