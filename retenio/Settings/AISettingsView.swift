@@ -20,6 +20,9 @@ struct AISettingsView: View {
                 )
             }
             Section {
+                NavigationLink("MCP connections") { MCPConnectionsView(settings: settings) }
+            }
+            Section {
                 Toggle("Search the web", isOn: $settings.ai.webSearch)
                 Toggle("Read local cards", isOn: $settings.ai.readCards)
                 Toggle("View card images", isOn: $settings.ai.viewImages).disabled(!settings.ai.readCards)

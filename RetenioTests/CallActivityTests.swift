@@ -34,6 +34,27 @@ struct CallActivityTests {
         #expect(activity.sources.first?.title == "Source")
     }
 
+    @Test func completedMCPErrorPreservesConnectionNotice() {
+        var activity = CallActivity()
+        let now = Date(timeIntervalSince1970: 100)
+        activity.receive(
+            [
+                "type": "response.event",
+                "event": ["type": "response.mcp_call.failed"],
+            ], now: now, )
+        let notice = activity.notice
+        activity.receive(
+            [
+                "type": "response.event",
+                "event": [
+                    "type": "response.output_item.done",
+                    "item": ["type": "mcp_call", "name": "search", "error": "unavailable"],
+                ],
+            ], now: now, )
+        #expect(activity.notice == notice)
+        #expect(activity.notice?.contains("MCP connection") == true)
+    }
+
     @Test func sustainedAudioOutlastsTheGracePeriod() {
         let now = Date(timeIntervalSince1970: 100)
         var activity = CallActivity()

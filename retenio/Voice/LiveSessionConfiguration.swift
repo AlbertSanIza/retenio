@@ -1,18 +1,20 @@
 import Foundation
 
 enum LiveSessionConfiguration {
-    static var startEvent: [String: Any] {
-        event(voice: AppSettings.shared.voice, permissions: AppSettings.shared.ai)
-    }
-
-    static func event(voice: ConversationVoice, permissions: AISettings) -> [String: Any] {
-        [
+    static func event(voice: ConversationVoice, permissions: AISettings, connections: [RemoteMCPConnection] = [])
+        -> [String: Any]
+    {
+        let mcpTools = connections.prefix(8).compactMap(\.tool)
+        return [
             "type": "session.start",
             "session": [
                 "model": "gpt-live-1.1", "store": false,
                 "instructions":
                     "You are Retenio, a warm learning companion. Keep replies short, listen naturally, and yield to interruptions. Delegate factual explanations and current information to the backend. Briefly acknowledge work and keep listening. Never claim a search succeeded without a successful result. You can quiz local Anki cards through the backend. Delegate all card requests, the learner’s answers to quiz questions, and every spoken review rating to the backend. Before asking for Again, Hard, Good, or Easy, delegate to the backend so it can call request_rating. Do not ask for a rating until that tool succeeds. After asking for a rating, send the learner’s choice to the backend to save it; never just acknowledge a rating or claim it was saved without a successful tool result. Ask only the question until the learner tries to answer. Describe images or choose a question suitable for voice. For a clear goodbye or request to hang up, delegate end_call and say one brief farewell. Never end for negation, a quoted goodbye, or stopping only the quiz. If the learner changes their mind, delegate cancel_end_call. "
-                    + permissions.instructions,
+                    + permissions.instructions
+                    + (!mcpTools.isEmpty
+                        ? " Approved MCP tools are available through the backend. Delegate requests for connected services; never claim access or success without a tool result."
+                        : ""),
                 "audio": [
                     "format": ["type": "audio/pcm", "rate": 24000],
                     "output": ["voice": voice.rawValue],
@@ -29,7 +31,7 @@ enum LiveSessionConfiguration {
                         "tools": (permissions.webSearch ? [["type": "web_search"]] : [])
                             + (callTools + CardTools.definitions).filter {
                                 permissions.allows($0["name"] as? String ?? "")
-                            },
+                            } + mcpTools,
                     ],
                 ],
                 "input": [
@@ -58,7 +60,7 @@ enum LiveSessionConfiguration {
     }
 
     static var previewEvent: [String: Any] {
-        var event = startEvent
+        var event = event(voice: AppSettings.shared.voice, permissions: AppSettings.shared.ai)
         var session = event["session"] as! [String: Any]
         session.removeValue(forKey: "delegation")
         session["instructions"] =

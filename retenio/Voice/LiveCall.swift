@@ -102,7 +102,9 @@ final class LiveCall {
         let startEvent =
             preview
             ? LiveSessionConfiguration.previewEvent
-            : LiveSessionConfiguration.event(voice: AppSettings.shared.voice, permissions: permissions)
+            : LiveSessionConfiguration.event(
+                voice: AppSettings.shared.voice, permissions: permissions,
+                connections: AppSettings.shared.mcpConnections, )
         connectionTask = Task { [weak self] in
             guard let self, self.callID == id, !Task.isCancelled else { return }
             var request = URLRequest(url: URL(string: "wss://api.openai.com/v1/live/sessions")!)
@@ -285,8 +287,24 @@ final class LiveCall {
         case "response.event":
             // An action already executing may finish atomically; never dispatch a new one after hang-up.
             guard phase == .connected else { return }
-            guard let nested = event["event"] as? [String: Any],
-                nested["type"] as? String == "response.output_item.done",
+            guard let nested = event["event"] as? [String: Any] else { return }
+            if nested["type"] as? String == "response.output_item.done",
+                let item = nested["item"] as? [String: Any], item["type"] as? String == "mcp_approval_request",
+                let approvalID = item["id"] as? String, handledCalls.insert(approvalID).inserted
+            {
+                toolContinuations.begin(approvalID)
+                try await send(
+                    [
+                        "type": "response.item.create",
+                        "item": ["type": "mcp_approval_response", "approval_request_id": approvalID, "approve": false],
+                    ], id: id, )
+                guard callID == id, phase == .connected else { return }
+                if toolContinuations.finish(approvalID) { try await send(["type": "response.create"], id: id) }
+                guard callID == id, phase == .connected else { return }
+                activity.notice = "This MCP action needs approval and was not run."
+                return
+            }
+            guard nested["type"] as? String == "response.output_item.done",
                 let item = nested["item"] as? [String: Any], item["type"] as? String == "function_call",
                 let functionID = item["call_id"] as? String, handledCalls.insert(functionID).inserted
             else { return }
@@ -357,8 +375,15 @@ final class LiveCall {
         guard callID == id, phase == .connected || phase == .connecting, !backendUnavailable else { return }
         if !backendRecoveryAttempted {
             backendRecoveryAttempted = true
-            activity.notice = "AI settings unavailable. Trying GPT-6.2 Sol with the enabled tools."
+            activity.notice = "AI settings unavailable. Trying GPT-6.2 Sol with permitted built-in tools and MCP connections off for this call."
             try await send(LiveSessionConfiguration.recoveryEvent(permissions: permissions), id: id)
+            guard callID == id, phase == .connected || phase == .connecting else { return }
+            try await send(
+                [
+                    "type": "session.instructions.append", "delegation_id": NSNull(),
+                    "content":
+                        "The backend was reset to GPT-6.2 Sol. MCP connections are off for this call. Only the remaining permitted built-in tools are available. Do not offer actions on connected services.",
+                ], id: id, )
         } else {
             backendUnavailable = true
             activity.notice = "The AI backend is unavailable. Check AI & permissions."
