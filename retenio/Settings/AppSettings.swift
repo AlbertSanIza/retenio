@@ -38,8 +38,17 @@ final class AppSettings {
         didSet { defaults.set(theme.rawValue, forKey: "appTheme") }
     }
 
+    var ai: AISettings {
+        didSet { if let data = try? JSONEncoder().encode(ai) { defaults.set(data, forKey: "aiSettings") } }
+    }
+
     init(defaults: UserDefaults = .standard) {
         self.defaults = defaults
+        if defaults.object(forKey: "aiSettings") != nil {
+            ai = defaults.data(forKey: "aiSettings").flatMap { try? JSONDecoder().decode(AISettings.self, from: $0) } ?? .restricted
+        } else {
+            ai = AISettings()
+        }
         theme = AppTheme(rawValue: defaults.string(forKey: "appTheme") ?? "") ?? .evergreen
         voice = ConversationVoice(rawValue: defaults.string(forKey: "conversationVoice") ?? "") ?? .marin
     }

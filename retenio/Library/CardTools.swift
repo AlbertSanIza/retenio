@@ -7,6 +7,7 @@ import Foundation
         let reviewToken: String
     }
 
+    private let permissions: AISettings
     private let library: LocalLibrary
     private(set) var currentCard: StudyCard?
     private var seen: Set<Data> = []
@@ -15,12 +16,16 @@ import Foundation
     private var spokenRating = SpokenRating()
     private(set) var reviewToken: String?
 
-    init(library: LocalLibrary = .shared) { self.library = library }
+    init(library: LocalLibrary = .shared, permissions: AISettings = AISettings()) {
+        self.library = library
+        self.permissions = permissions
+    }
 
     func receiveTranscript(_ event: [String: Any], at now: Date = .now) { spokenRating.receive(event, at: now) }
 
     func run(name: String, arguments: String, now: Date = .now) async -> Any {
         do {
+            guard permissions.allows(name) else { throw LibraryError.invalid("This action is disabled in Settings.") }
             guard let data = arguments.data(using: .utf8), data.count <= 8192,
                 let values = try JSONSerialization.jsonObject(with: data) as? [String: Any]
             else { throw LibraryError.invalid("Invalid tool arguments.") }

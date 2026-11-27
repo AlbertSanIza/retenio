@@ -18,6 +18,9 @@ final class LiveCall {
     var isPresentingCall: Bool { phase != .idle }
     private(set) var activity = CallActivity()
     private(set) var activityStatus = CallActivity.Status.listening
+    private var backendRecoveryAttempted = false
+    private var backendUnavailable = false
+    private var permissions = AISettings()
     private var cardTools = CardTools()
     private var hangup: VoiceHangup?
     private var reviewTask: Task<Void, Never>?
@@ -86,14 +89,20 @@ final class LiveCall {
         errorMessage = nil
         activity = CallActivity()
         refreshActivityStatus()
-        cardTools = CardTools()
+        backendRecoveryAttempted = false
+        backendUnavailable = false
+        permissions = AppSettings.shared.ai
+        cardTools = CardTools(permissions: permissions)
         phase = .connecting
         isMuted = preview
         previewMode = preview
         isSpeaker = true
         callID = UUID()
         let id = callID
-        let startEvent = preview ? LiveSessionConfiguration.previewEvent : LiveSessionConfiguration.startEvent
+        let startEvent =
+            preview
+            ? LiveSessionConfiguration.previewEvent
+            : LiveSessionConfiguration.event(voice: AppSettings.shared.voice, permissions: permissions)
         connectionTask = Task { [weak self] in
             guard let self, self.callID == id, !Task.isCancelled else { return }
             var request = URLRequest(url: URL(string: "wss://api.openai.com/v1/live/sessions")!)
@@ -283,6 +292,10 @@ final class LiveCall {
             else { return }
             let delegatedAt = (event["delegation_id"] as? String).flatMap { delegationOffsets[$0] }
             toolContinuations.begin(functionID)
+            if let name = item["name"] as? String, !permissions.allows(name) || backendUnavailable {
+                try await respond(to: item, id: id, delegatedAt: delegatedAt)
+                return
+            }
             if item["name"] as? String == "get_next_card", reviewTask != nil || ratingPrompt != nil {
                 try await sendToolOutput(
                     "A rating is still pending. Wait for its result before fetching the next card.", for: item, id: id, )
@@ -330,8 +343,33 @@ final class LiveCall {
                 try await respond(to: item, id: id, delegatedAt: delegatedAt)
             }
         case "session.closed": cleanup()
-        case "error", "session.error": fail("Couldn't continue this call. Please try again.")
+        case "error", "session.error":
+            if !previewMode, LiveSessionConfiguration.isBackendValidationError(event) {
+                try await recoverBackend(id: id)
+            } else {
+                fail("Couldn't continue this call. Please try again.")
+            }
         default: break
+        }
+    }
+
+    private func recoverBackend(id: UUID) async throws {
+        guard callID == id, phase == .connected || phase == .connecting, !backendUnavailable else { return }
+        if !backendRecoveryAttempted {
+            backendRecoveryAttempted = true
+            activity.notice = "AI settings unavailable. Trying GPT-6.2 Sol with the enabled tools."
+            try await send(LiveSessionConfiguration.recoveryEvent(permissions: permissions), id: id)
+        } else {
+            backendUnavailable = true
+            activity.notice = "The AI backend is unavailable. Check AI & permissions."
+            try await send(["type": "session.update", "session": ["delegation": ["responses": ["tools": []]]]], id: id)
+            guard callID == id, phase == .connected || phase == .connecting else { return }
+            try await send(
+                [
+                    "type": "session.instructions.append", "delegation_id": NSNull(),
+                    "content":
+                        "The backend is unavailable for this call. Explain this briefly. Continue a voice-only conversation without delegating or claiming that tools ran.",
+                ], id: id, )
         }
     }
 
@@ -353,7 +391,12 @@ final class LiveCall {
     }
 
     private func performAction(_ item: [String: Any], id: UUID, delegatedAt: Double?) async throws -> Any {
-        switch item["name"] as? String {
+        guard !backendUnavailable, let name = item["name"] as? String, permissions.allows(name) else {
+            return backendUnavailable
+                ? "The AI backend is unavailable. Do not claim this action succeeded."
+                : "This action is disabled in Settings. Do not claim it succeeded."
+        }
+        switch name {
         case "end_call":
             // Do not arm an old request after the learner has already resumed speaking.
             if let delegatedAt, let latestSpeechStartMS, latestSpeechStartMS >= delegatedAt {
