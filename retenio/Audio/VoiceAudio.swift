@@ -21,9 +21,12 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
     private var onFailure: (@Sendable (String) -> Void)?
     private struct PendingAudio {
         let id = UUID()
+        let enqueuedAt = Date()
         let buffer: AVAudioPCMBuffer
+        let audible: Bool
     }
     private var pendingAudio: [PendingAudio] = []
+    private var lastAudiblePlayback: (enqueuedAt: Date, finishedAt: Date)?
     private let playbackFormat = AVAudioFormat(standardFormatWithSampleRate: 24_000, channels: 1)!
     private var onLevel: (@Sendable (Float) -> Void)?
 
@@ -196,7 +199,8 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
             }
         }
         queuedFrames += frames
-        let pending = PendingAudio(buffer: buffer)
+        let level = min(1, vDSP.rootMeanSquare(UnsafeBufferPointer(start: samples, count: frames)) * 6)
+        let pending = PendingAudio(buffer: buffer, audible: level > 0.04)
         pendingAudio.append(pending)
         schedule(pending)
     }
@@ -209,8 +213,24 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
                 guard let self, self.playbackGeneration == currentGeneration else { return }
                 self.pendingAudio.removeAll { $0.id == pending.id }
                 if self.completedFrames == 0 { self.diagnose("First audio buffer played back.") }
+                if pending.audible {
+                    self.lastAudiblePlayback = (pending.enqueuedAt, .now)
+                }
                 self.completedFrames += frames
                 self.queuedFrames = max(0, self.queuedFrames - frames)
+            }
+        }
+    }
+
+    /// Playback completion, not packet arrival: allow a spoken farewell to finish.
+    func farewellFinished(after requestedAt: Date) async -> Bool {
+        await withCheckedContinuation { continuation in
+            queue.async {
+                let finished =
+                    self.lastAudiblePlayback.map {
+                        $0.enqueuedAt >= requestedAt && Date.now.timeIntervalSince($0.finishedAt) >= 0.8
+                    } ?? false
+                continuation.resume(returning: finished && !self.pendingAudio.contains(where: \.audible))
             }
         }
     }
@@ -244,6 +264,7 @@ nonisolated final class VoiceAudio: @unchecked Sendable {
         onPCM = nil
         onFailure = nil
         pendingAudio.removeAll()
+        lastAudiblePlayback = nil
         player?.stop()
         engine?.mainMixerNode.removeTap(onBus: 0)
         engine?.inputNode.removeTap(onBus: 0)
