@@ -27,7 +27,21 @@ nonisolated enum LibraryError: Error, LocalizedError {
 
 /// All SQLite access is serialized by the actor, away from the UI actor.
 actor LocalLibrary {
-    static let shared = LocalLibrary()
+    static let shared: LocalLibrary = {
+        #if DEBUG
+            let environment = ProcessInfo.processInfo.environment
+            if let suite = environment["RETENIO_TEST_DEFAULTS_SUITE"], suite.hasPrefix("RetenioUITests."),
+                suite == (suite as NSString).lastPathComponent
+            {
+                let directory = FileManager.default.temporaryDirectory.appendingPathComponent(suite)
+                if environment["RETENIO_TEST_RESET_PREFERENCES"] == "1" {
+                    try? FileManager.default.removeItem(at: directory)
+                }
+                return LocalLibrary(directory: directory)
+            }
+        #endif
+        return LocalLibrary()
+    }()
     private var database: OpaquePointer?
     private let directory: URL
 

@@ -15,7 +15,20 @@ nonisolated enum AppTheme: String, CaseIterable, Identifiable {
 
 @MainActor @Observable
 final class AppSettings {
-    static let shared = AppSettings()
+    static let shared: AppSettings = {
+        #if DEBUG
+            let environment = ProcessInfo.processInfo.environment
+            if let suite = environment["RETENIO_TEST_DEFAULTS_SUITE"], suite.hasPrefix("RetenioUITests."),
+                let defaults = UserDefaults(suiteName: suite)
+            {
+                if environment["RETENIO_TEST_RESET_PREFERENCES"] == "1" {
+                    defaults.removePersistentDomain(forName: suite)
+                }
+                return AppSettings(defaults: defaults)
+            }
+        #endif
+        return AppSettings()
+    }()
     private let defaults: UserDefaults
     var voice: ConversationVoice {
         didSet { defaults.set(voice.rawValue, forKey: "conversationVoice") }

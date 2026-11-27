@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "private": true,
     "scripts": {
-        "format": "xcrun swift-format format --configuration .swift-format --in-place --recursive retenio && prettier . --write",
+        "format": "xcrun swift-format format --configuration .swift-format --in-place --recursive retenio RetenioTests RetenioUITests && prettier . --write",
         "build:ios": "bun scripts/check-source-layout.ts && xcodebuild -project retenio.xcodeproj -scheme Retenio -configuration Debug -destination 'generic/platform=iOS Simulator' CODE_SIGNING_ALLOWED=NO build",
         "prepare": "husky",
         "check:layout": "bun scripts/check-source-layout.ts"
